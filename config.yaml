@@ -1,0 +1,38 @@
+# Renker Swarm — global settings. These are the knobs that keep everything
+# free and self-throttling, so you never have to watch a limit yourself.
+
+# Hard ceiling on LLM calls per day across ALL providers. When hit, the swarm
+# rests until tomorrow. Keep this comfortably under the sum of your free tiers.
+daily_call_budget: 600
+
+# How many due agents to run per cycle (a throttle, so 200 agents take turns
+# instead of all firing at once).
+max_agents_per_cycle: 6
+
+# Daemon only (Oracle VM): seconds to sleep between cycles.
+cycle_sleep_seconds: 300
+
+# Per-request network timeout.
+request_timeout_seconds: 60
+
+providers:
+  # Try these in order; first one that isn't rate-limited wins.
+  order: [gemini, groq, openrouter, cloudflare, ollama]
+  # After a 429/busy, rest that provider this many seconds.
+  cooldown_seconds: 90
+
+  gemini:
+    model: gemini-2.0-flash          # generous free tier, capable
+    max_output_tokens: 800
+  groq:
+    model: llama-3.3-70b-versatile   # fast, free tier
+    max_output_tokens: 800
+  openrouter:
+    model: "meta-llama/llama-3.3-70b-instruct:free"
+    max_output_tokens: 800
+  cloudflare:
+    model: "@cf/meta/llama-3.1-8b-instruct"
+  ollama:
+    # Used only if OLLAMA_HOST is set (e.g. on the Oracle VM). Small + local.
+    host: http://127.0.0.1:11434
+    model: qwen2.5:7b

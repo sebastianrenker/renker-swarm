@@ -1,0 +1,16 @@
+[Unit]
+Description=Renker Swarm — free 24/7 agent orchestrator
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+# Adjust the user/path to match where you cloned the repo on the VM:
+WorkingDirectory=/home/ubuntu/renker-swarm
+EnvironmentFile=/home/ubuntu/renker-swarm/.env
+ExecStart=/usr/bin/python3 /home/ubuntu/renker-swarm/daemon.py
+Restart=always
+RestartSec=15
+
+[Install]
+WantedBy=multi-user.target
