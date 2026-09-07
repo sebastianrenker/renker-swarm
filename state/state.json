@@ -1,7 +1,13 @@
 {
   "day": "2026-09-07",
-  "calls_today": 1,
+  "calls_today": 7,
   "last_run": {
-    "kommando-digest": 1788819465.720596
+    "kommando-digest": 1788819465.720596,
+    "chancen-vogelsberg": 1788819624.6237094,
+    "chancen-fulda": 1788819631.7785563,
+    "recherche-wettbewerb": 1788819644.1844413,
+    "bau-landing-copy": 1788819650.6956127,
+    "kunden-faq": 1788819657.662443,
+    "finanzen-check": 1788819665.58544
   }
 }
