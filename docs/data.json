@@ -1,0 +1,116 @@
+{
+  "updated": "2026-09-07T23:31Z",
+  "agents_total": 157,
+  "departments": [
+    {
+      "id": "Kommando",
+      "count": 1,
+      "latest": {
+        "via": "gemini",
+        "text": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top",
+        "ts": "2026-09-08 00:18"
+      }
+    },
+    {
+      "id": "Chancen",
+      "count": 122,
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein privater Bündelungs- und Auslieferdienst für Vogelsberger Direktvermarkter, der regionale Lebensmittel auf festen Routen direkt an lokale Gastronomiebetriebe, Seniorenheime und Dorfläden zustellt. **WARUM HIER:** Die Höfe in der Region haben hervorragende Produkte, aber wegen des akuten Arbeitskräftemangels keine Zeit für Einzelfahrten – gleichz",
+        "ts": "2026-09-08 00:21"
+      }
+    },
+    {
+      "id": "Recherche",
+      "count": 1,
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
+        "ts": "2026-09-08 00:21"
+      }
+    },
+    {
+      "id": "Bau",
+      "count": 1,
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist ein frischer, punktgenauer Entwurf für deine Hero-Sektion: *** # Mehr Wunschkunden aus dem Vogelsberg. Wir machen Ihr Handwerk digital sichtbar. Werden Sie in Ihrer Region endlich online gefunden – ganz ohne eigenen IT-Stress. So sichern Sie sich mühelos die besten Aufträge und neue Mitarbeiter direkt aus der Heimat. [ **Jetzt Erstgespräch sichern**",
+        "ts": "2026-09-08 00:21"
+      }
+    },
+    {
+      "id": "Kunden",
+      "count": 31,
+      "latest": {
+        "via": "gemini",
+        "text": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote schreibst oder zusätzliche Funktionen benötigst, kannst du jederzeit auf den kostenpflichtigen Pro-Tarif wechseln. **2. Kann ich mein",
+        "ts": "2026-09-08 00:21"
+      }
+    },
+    {
+      "id": "Finanzen",
+      "count": 1,
+      "latest": {
+        "via": "gemini",
+        "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **",
+        "ts": "2026-09-08 00:21"
+      }
+    }
+  ],
+  "budget": {
+    "used": 7,
+    "cap": 600
+  },
+  "heartbeat_min": 5,
+  "recent": [
+    {
+      "dept": "Recherche",
+      "agent": "recherche-wettbewerb",
+      "via": "gemini",
+      "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
+      "ts": "2026-09-08 00:21"
+    },
+    {
+      "dept": "Kunden",
+      "agent": "kunden-faq",
+      "via": "gemini",
+      "text": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote schreibst oder zusätzliche Funktionen benötigst, kannst du jederzeit auf den kostenpflichtigen Pro-Tarif wechseln. **2. Kann ich mein",
+      "ts": "2026-09-08 00:21"
+    },
+    {
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
+      "via": "gemini",
+      "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **",
+      "ts": "2026-09-08 00:21"
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-vogelsberg",
+      "via": "gemini",
+      "text": "**WAS:** Ein privater Bündelungs- und Auslieferdienst für Vogelsberger Direktvermarkter, der regionale Lebensmittel auf festen Routen direkt an lokale Gastronomiebetriebe, Seniorenheime und Dorfläden zustellt. **WARUM HIER:** Die Höfe in der Region haben hervorragende Produkte, aber wegen des akuten Arbeitskräftemangels keine Zeit für Einzelfahrten – gleichz",
+      "ts": "2026-09-08 00:21"
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-fulda",
+      "via": "gemini",
+      "text": "**WAS:** Ein schlanker B2B-Vermittlungs- und Umsetzungsdienst, der pragmatische KI- und KI-gestützte Automatisierungsprojekte für den traditionellen Fuldaer Mittelstand durch qualifizierte Studierende der Hochschule Fulda realisiert. **WARUM HIER:** Fulda vereint eine extrem hohe Dichte an mittelständischen Industrie-, Handwerks- und Logistikbetrieben mit ho",
+      "ts": "2026-09-08 00:21"
+    },
+    {
+      "dept": "Bau",
+      "agent": "bau-landing-copy",
+      "via": "gemini",
+      "text": "Hier ist ein frischer, punktgenauer Entwurf für deine Hero-Sektion: *** # Mehr Wunschkunden aus dem Vogelsberg. Wir machen Ihr Handwerk digital sichtbar. Werden Sie in Ihrer Region endlich online gefunden – ganz ohne eigenen IT-Stress. So sichern Sie sich mühelos die besten Aufträge und neue Mitarbeiter direkt aus der Heimat. [ **Jetzt Erstgespräch sichern**",
+      "ts": "2026-09-08 00:21"
+    },
+    {
+      "dept": "Kommando",
+      "agent": "kommando-digest",
+      "via": "gemini",
+      "text": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top",
+      "ts": "2026-09-08 00:18"
+    }
+  ]
+}

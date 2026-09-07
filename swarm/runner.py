@@ -119,7 +119,54 @@ def run_cycle(verbose=True):
             print(f"  + {a['id']} via {prov} ({len(text)} chars)")
 
     save_state(state)
+    write_dashboard_data(roster, state, cfg)
     return ran
+
+
+def write_dashboard_data(roster, state, cfg):
+    """Emit docs/data.json — a compact live digest the GitHub Pages dashboard
+    fetches (same-origin) to render the base map with real, current data."""
+    depts = {}
+    for a in roster.get("agents", []):
+        d = a.get("department", "Allgemein")
+        depts.setdefault(d, {"id": d, "count": 0, "latest": None})
+        depts[d]["count"] += 1
+
+    files = sorted(OUT.glob("*/*/*.md"), key=lambda p: p.stat().st_mtime, reverse=True)
+    recent = []
+    for p in files[:12]:
+        parts = p.relative_to(OUT).parts  # <dept>/<agent>/<ts>.md
+        if len(parts) < 3:
+            continue
+        raw = p.read_text(encoding="utf-8")
+        head, _, body = raw.partition("\n\n")
+        via = "?"
+        for line in head.splitlines():
+            if line.startswith(">") and "via" in line:
+                via = line.split("via", 1)[1].strip()
+        recent.append({
+            "dept": parts[0], "agent": parts[1], "via": via,
+            "text": " ".join(body.split())[:360],
+            "ts": datetime.datetime.fromtimestamp(p.stat().st_mtime).strftime("%Y-%m-%d %H:%M"),
+        })
+
+    for r in recent:
+        d = depts.get(r["dept"])
+        if d and d["latest"] is None:
+            d["latest"] = {"via": r["via"], "text": r["text"], "ts": r["ts"]}
+
+    data = {
+        "updated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
+        "agents_total": sum(x["count"] for x in depts.values()),
+        "departments": list(depts.values()),
+        "budget": {"used": state.get("calls_today", 0), "cap": cfg.get("daily_call_budget", 600)},
+        "heartbeat_min": cfg.get("cycle_sleep_seconds", 1800) // 60 or 30,
+        "recent": recent,
+    }
+    docs = ROOT / "docs"
+    docs.mkdir(exist_ok=True)
+    (docs / "data.json").write_text(
+        json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 def _write_output(a, text, provider):
