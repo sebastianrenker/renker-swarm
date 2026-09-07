@@ -22,7 +22,7 @@ providers:
   cooldown_seconds: 90
 
   gemini:
-    model: gemini-2.0-flash          # generous free tier, capable
+    model: gemini-3.6-flash          # generous free tier, capable (current model)
     max_output_tokens: 800
   groq:
     model: llama-3.3-70b-versatile   # fast, free tier
