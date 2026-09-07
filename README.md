@@ -41,12 +41,18 @@ Create whichever you want — the swarm uses whatever is present and rotates the
 - **OpenRouter** (`:free` models): https://openrouter.ai/keys
 - **Cloudflare Workers AI** (optional): dashboard → AI → Workers AI
 
-## Deploy A — GitHub Actions (quick start)
-1. Put this folder in a GitHub repo (`git init`, commit, push).
-2. Repo **Settings → Secrets and variables → Actions → New repository secret**:
-   add `GEMINI_API_KEY`, `GROQ_API_KEY`, `OPENROUTER_API_KEY` (+ Cloudflare if used).
-3. **Actions** tab → enable workflows → run **renker-swarm** once via "Run workflow".
-4. It now runs every 15 min and commits results into `outputs/`.
+## Deploy A — GitHub Actions  ✅ already set up
+The repo is live at **github.com/sebastianrenker/renker-swarm** (private) and the
+workflow has been verified running green. **The only thing left is your API key:**
+
+```bash
+gh secret set GEMINI_API_KEY --repo sebastianrenker/renker-swarm
+# paste your free key from https://aistudio.google.com/apikey when prompted
+```
+(or on the web: repo → Settings → Secrets and variables → Actions → New secret,
+name `GEMINI_API_KEY`). Add `GROQ_API_KEY` / `OPENROUTER_API_KEY` the same way for
+more free throughput. That's it — it already runs every 30 min and commits results
+into `outputs/`.
 
 ## Deploy B — Oracle Always-Free VM (true 24/7)
 See [`deploy/oracle-vm-setup.md`](deploy/oracle-vm-setup.md). In short: create the
