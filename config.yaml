@@ -23,7 +23,9 @@ providers:
 
   gemini:
     model: gemini-3.6-flash          # generous free tier, capable (current model)
-    max_output_tokens: 800
+    # 3.x "flash" spends part of the budget on internal thinking, so give it
+    # plenty of room or the visible answer gets cut off.
+    max_output_tokens: 3000
   groq:
     model: llama-3.3-70b-versatile   # fast, free tier
     max_output_tokens: 800
