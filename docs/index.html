@@ -102,6 +102,12 @@
   .note{margin-top:12px;border:1px solid var(--edge);border-left:3px solid var(--brand);border-radius:10px;background:color-mix(in srgb,var(--brand) 6%,var(--panel));padding:10px 14px;font-size:12px;color:var(--ink-soft);line-height:1.5}
   .note b{color:var(--brand)}
   footer{margin-top:12px;display:flex;gap:12px;flex-wrap:wrap;justify-content:space-between;font-family:var(--mono);font-size:10px;color:var(--ink-faint)}
+  .nowbar{display:flex;align-items:center;gap:10px;margin-top:12px;border:1px solid var(--edge);border-left:3px solid var(--rc,var(--brand));border-radius:11px;background:linear-gradient(180deg,var(--panel),var(--panel-2));padding:10px 14px;font-family:var(--mono);font-size:12px;color:var(--ink-soft);min-height:20px}
+  .nowbar .nb-dot{width:8px;height:8px;border-radius:50%;background:var(--rc,var(--brand));box-shadow:0 0 9px var(--rc,var(--brand));animation:ping 1.3s ease-out infinite;flex:none}
+  .nowbar .nb-k{font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-faint);flex:none}
+  .nowbar b{color:var(--ink);font-weight:700;flex:none}
+  .nowbar .nb-d{font-size:9px;letter-spacing:.12em;color:var(--rc,var(--brand));flex:none}
+  .nowbar .nb-x{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--ink-soft)}
   @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
@@ -131,6 +137,8 @@
     <div id="rooms"></div>
   </div>
 
+  <div class="nowbar" id="nowbar"><span class="nb-k">Heartbeat scharf — warte auf den nächsten Zyklus…</span></div>
+
   <div class="below">
     <section class="card"><div class="hd"><h2 id="dt-title">Übersicht</h2><span class="tag" id="dt-tag">Raum oder Agent anklicken</span></div>
       <div class="detail" id="detail"></div></section>
@@ -157,6 +165,7 @@
   var ORDER=["kommando","finanzen","recherche","kunden","bau","chancen"];
   var CAP={chancen:56,kunden:33};
   var rooms={}, agentsByDept={}, DATA=null, packet=document.getElementById("packet");
+  var nowbar=document.getElementById("nowbar");
 
   // corridors from hub(50,50) to each room
   var g1=document.getElementById("rail-glow"), g2=document.getElementById("rail-line");
@@ -264,8 +273,15 @@
     var k=seq[p%seq.length];p++;
     sendPacket(k);
     if(lastCell){lastCell.classList.remove("active");}
-    var lit=rooms[k].querySelectorAll(".cell.lit"); var pool=lit.length?lit:rooms[k].querySelectorAll(".cell");
-    if(pool.length){ var c=pool[Math.floor(Math.random()*pool.length)]; c.classList.add("active"); lastCell=c; }
+    var list=agentsByDept[k]||[]; if(!list.length) return;
+    var lit=list.filter(function(a){return a.out;});
+    var a=(lit.length?lit:list)[Math.floor(Math.random()*(lit.length?lit.length:list.length))];
+    var cell=rooms[k].querySelector('.cell[data-aid="'+a.id+'"]');
+    if(cell){ cell.classList.add("active"); lastCell=cell; }
+    var m=META[k];
+    var doing=a.out?('liefert: '+a.out.slice(0,96)+'…'):('scannt '+m.name.toLowerCase()+' — Ergebnis folgt im Zyklus');
+    nowbar.style.setProperty("--rc","var("+m.c+")");
+    nowbar.innerHTML='<span class="nb-dot"></span><span class="nb-k">Arbeitet gerade</span><b>'+esc(a.name)+'</b><span class="nb-d">'+m.name+'</span><span class="nb-x">'+esc(doing)+'</span>';
   }
 
   function load(){ fetch("./data.json",{cache:"no-store"}).then(function(r){return r.ok?r.json():null;}).then(function(d){if(d){DATA=d;render();}}).catch(function(){}); }
