@@ -1,0 +1,4 @@
+# Business — Handwerk-Sichtbar  ·  Chancen
+> 2026-09-08_2202 · via gemini
+
+Hallo Herr [Name], als Dachdecker in Lauterbach haben Sie sicher genug auf den Dächern zu tun, aber immer mehr Hausbesitzer suchen ihre Handwerker heute direkt auf dem Smartphone. Mir ist aufgefallen, dass Ihr Betrieb bei Google aktuell noch schwer zu finden ist – dadurch lassen Sie gute Aufträge direkt vor der Haustür liegen. Ich helfe Handwerkern hier im Vogelsberg mit einem einfachen Paket aus neuer Website, Top-Google-Eintrag und passenden Vorlagen für Ihre Angebote. Sie bekommen dadurch genau die Kunden aus der Region, die Sie haben wollen, ohne sich nach Feierabend noch mit Online-Kram herumschlagen zu müssen. Passt es Ihnen nächste Woche auf einen 10-minütigen Anruf oder einen schnellen Kaffee bei Ihnen im Betrieb? Ganz unverbindlich – wir schauen einfach ehrlich, ob sich das für Sie lohnt.

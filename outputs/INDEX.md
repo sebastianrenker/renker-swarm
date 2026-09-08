@@ -1,12 +1,12 @@
 # Renker Swarm — Board
 
-Stand: 2026-09-08T19:42Z · 162 Agenten · 26 mit Ergebnis · Budget 19/600
+Stand: 2026-09-08T22:02Z · 162 Agenten · 28 mit Ergebnis · Budget 21/600
 
 ## Kommando — 2 Agenten
 - Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top  _(via gemini, vor 0 min)_
 
 ## Chancen — 125 Agenten
-- **SCHRITT:** Ein dezent unaufdringliches, aber klickbares Branding („Kostenlos erstellt mit Offerta.de“) in die Fußzeile aller exportierten Free-PDFs einbauen. **WARUM JETZT:** Wir haben noch kein Budget für bezahlte Werbung. Angebote gehen B2B von Unternehmer zu Unternehmer (z. B. Handwerker an Gewerbekunden, Freelancer an Agenturen). Jedes verschickte Ange  _(via gemini, vor 0 min)_
+- **SCHRITT** Launch einer kostenlosen „Smoke-Test“-Landingpage (via Carrd.co oder Google Forms) für eine einmalige, limitierte **„Vogelsberg Probier-Box“** (Preis: 29 €) auf Vorbestellung – ohne dass wir bisher Produkte auf Lager haben oder Geld ausgegeben haben. **WARUM** Wir testen damit die echte **Kaufabsicht** (B2C-Nachfrage) und Zahlungsbereitschaft der  _(via gemini, vor 0 min)_
 
 ## Recherche — 1 Agenten
 - Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka  _(via gemini, vor 0 min)_
