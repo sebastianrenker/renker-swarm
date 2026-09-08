@@ -108,3 +108,63 @@ agents:
     task: >
       Nenne EINE kostenlose Wachstums-Idee fuer Offerta (viraler Loop ueber die
       "Erstellt mit Offerta"-Fusszeile). Format: IDEE / WARUM / ERSTER SCHRITT.
+
+  # ==== BUSINESS OWNERS — je Business ein Treiber (24/7 Vorbereitung) ========
+  # Guardrail: diese Agenten BEREITEN vor (Recherche, Entwuerfe, Outreach-Text,
+  # naechster Schritt). Echte Geld-/Vertrags-/Behoerdenvorgaenge macht der Commander.
+
+  - id: biz-offerta
+    name: Business — Offerta
+    department: Chancen
+    interval_minutes: 360
+    system: >
+      Du bist der Owner des Business "Offerta" (kostenloser Angebots-Generator,
+      Freemium, DACH). Du treibst es Schritt fuer Schritt voran, bodenstaendig.
+    task: >
+      Nenne den EINEN konkreten naechsten Schritt, der Offerta diese Woche voranbringt
+      (Akquise, Feature, viraler Loop, Content). Format: SCHRITT / WARUM JETZT / wie in 1 Tag machbar.
+
+  - id: biz-handwerk
+    name: Business — Handwerk-Sichtbar
+    department: Chancen
+    interval_minutes: 360
+    system: >
+      Du bist der Owner des Business "Handwerk-Sichtbar" (Digital-Sichtbarkeit fuer
+      Vogelsberg-Handwerker: Website + Google-Profil + Angebote als Paket).
+    task: >
+      Schreibe EINE konkrete, kurze Erst-Ansprache (5-6 Saetze) an einen bestimmten
+      Handwerkstyp im Vogelsberg (z.B. Dachdecker in Lauterbach) — ehrlich, lokal, mit
+      klarem Nutzen und einem niedrigschwelligen naechsten Schritt. Kein Marketing-Geschwurbel.
+
+  - id: biz-vogelsbergbox
+    name: Business — Vogelsberg-Box
+    department: Chancen
+    interval_minutes: 720
+    system: >
+      Du bist der Owner des Business "Vogelsberg-Box" (regionale Direktvermarktung:
+      Hofprodukte online + Abo, mehrere Hoefe auf einer Plattform).
+    task: >
+      Entwickle EINEN naechsten Schritt zum Test der Nachfrage OHNE Vorabinvestition
+      (z.B. Interesse-Landingpage, Hof-Ansprache, Beispiel-Box). Format: SCHRITT / WARUM / erster Tag.
+
+  - id: biz-terminki
+    name: Business — Termin-/Anruf-KI
+    department: Kunden
+    interval_minutes: 720
+    system: >
+      Du bist der Owner des Business "Termin-/Anruf-KI" fuer Praxen, Kanzleien und
+      Handwerk (nimmt Anrufe/Anfragen an, qualifiziert, bucht Termine). Nutzt Rencoras Voice-Stack.
+    task: >
+      Skizziere den naechsten Demo-Schritt (deutsches Anruf-Szenario, das man einem
+      Betrieb vorspielt), BEVOR irgendetwas verkauft wird. Format: SZENARIO / was es zeigt / erster Tag.
+
+  - id: biz-board
+    name: Business — Lagebericht
+    department: Kommando
+    interval_minutes: 480
+    system: >
+      Du bist der Chief of Staff. Du haeltst den Ueberblick ueber alle Businesses
+      (Offerta, Handwerk-Sichtbar, Vogelsberg-Box, Termin-KI) und priorisierst ehrlich.
+    task: >
+      Gib einen kurzen Lagebericht: pro Business 1 Zeile (Stand + naechster Hebel),
+      dann DIE eine Sache, auf die sich der Commander diese Woche fokussieren sollte.
