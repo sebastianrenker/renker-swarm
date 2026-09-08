@@ -1,6 +1,6 @@
 {
   "day": "2026-09-08",
-  "calls_today": 18,
+  "calls_today": 19,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -26,6 +26,7 @@
     "tourismus-schotten": 1788865257.8780234,
     "senioren-schotten": 1788865265.1572056,
     "chancen-herbstein": 1788865286.1928248,
-    "handwerk-herbstein": 1788865299.022117
+    "handwerk-herbstein": 1788865299.022117,
+    "biz-offerta": 1788896535.505548
   }
 }
