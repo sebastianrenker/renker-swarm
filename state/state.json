@@ -1,6 +1,6 @@
 {
-  "day": "2026-09-07",
-  "calls_today": 7,
+  "day": "2026-09-08",
+  "calls_today": 6,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -8,6 +8,12 @@
     "recherche-wettbewerb": 1788819644.1844413,
     "bau-landing-copy": 1788819650.6956127,
     "kunden-faq": 1788819657.662443,
-    "finanzen-check": 1788819665.58544
+    "finanzen-check": 1788819665.58544,
+    "wachstum-offerta": 1788827853.7035196,
+    "chancen-lauterbach": 1788827863.260055,
+    "handwerk-lauterbach": 1788827871.4658828,
+    "direkt-lauterbach": 1788827880.1596727,
+    "tourismus-lauterbach": 1788827886.885988,
+    "senioren-lauterbach": 1788827893.671513
   }
 }

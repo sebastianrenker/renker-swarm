@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T23:31Z",
+  "updated": "2026-09-08T00:38Z",
   "agents_total": 157,
   "departments": [
     {
@@ -8,7 +8,7 @@
       "latest": {
         "via": "gemini",
         "text": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top",
-        "ts": "2026-09-08 00:18"
+        "ts": "2026-09-08 00:37"
       }
     },
     {
@@ -16,8 +16,8 @@
       "count": 122,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein privater Bündelungs- und Auslieferdienst für Vogelsberger Direktvermarkter, der regionale Lebensmittel auf festen Routen direkt an lokale Gastronomiebetriebe, Seniorenheime und Dorfläden zustellt. **WARUM HIER:** Die Höfe in der Region haben hervorragende Produkte, aber wegen des akuten Arbeitskräftemangels keine Zeit für Einzelfahrten – gleichz",
-        "ts": "2026-09-08 00:21"
+        "text": "**WAS:** Bei der \"Lauterbacher Strolche-Tour\" erleben Sie eine geführte Dämmerungswanderung über die berühmten Schrittsteine der Lauter mit anschließender Craft-Beer-Verkostung und regionalem Vulkan-Picknick im Park von Schloss Eisenbach. **FÜR WEN:** Dieses Angebot eignet sich perfekt für Genusswanderer, Paare und kleine Freundesgruppen, die lokale Kultur, ",
+        "ts": "2026-09-08 00:38"
       }
     },
     {
@@ -26,25 +26,21 @@
       "latest": {
         "via": "gemini",
         "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-        "ts": "2026-09-08 00:21"
+        "ts": "2026-09-08 00:37"
       }
     },
     {
       "id": "Bau",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier ist ein frischer, punktgenauer Entwurf für deine Hero-Sektion: *** # Mehr Wunschkunden aus dem Vogelsberg. Wir machen Ihr Handwerk digital sichtbar. Werden Sie in Ihrer Region endlich online gefunden – ganz ohne eigenen IT-Stress. So sichern Sie sich mühelos die besten Aufträge und neue Mitarbeiter direkt aus der Heimat. [ **Jetzt Erstgespräch sichern**",
-        "ts": "2026-09-08 00:21"
-      }
+      "latest": null
     },
     {
       "id": "Kunden",
       "count": 31,
       "latest": {
         "via": "gemini",
-        "text": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote schreibst oder zusätzliche Funktionen benötigst, kannst du jederzeit auf den kostenpflichtigen Pro-Tarif wechseln. **2. Kann ich mein",
-        "ts": "2026-09-08 00:21"
+        "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
+        "ts": "2026-09-08 00:38"
       }
     },
     {
@@ -53,64 +49,99 @@
       "latest": {
         "via": "gemini",
         "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **",
-        "ts": "2026-09-08 00:21"
+        "ts": "2026-09-08 00:37"
       }
     }
   ],
   "budget": {
-    "used": 7,
+    "used": 6,
     "cap": 600
   },
   "heartbeat_min": 5,
   "recent": [
     {
+      "dept": "Kunden",
+      "agent": "senioren-lauterbach",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
+      "ts": "2026-09-08 00:38"
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-lauterbach",
+      "via": "gemini",
+      "text": "**WAS:** Bei der \"Lauterbacher Strolche-Tour\" erleben Sie eine geführte Dämmerungswanderung über die berühmten Schrittsteine der Lauter mit anschließender Craft-Beer-Verkostung und regionalem Vulkan-Picknick im Park von Schloss Eisenbach. **FÜR WEN:** Dieses Angebot eignet sich perfekt für Genusswanderer, Paare und kleine Freundesgruppen, die lokale Kultur, ",
+      "ts": "2026-09-08 00:38"
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-lauterbach",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit passgenauen Zutaten und einfachen Rezepten aus Lauterbacher Hofprodukten – vom regionalen Weiderind über Kartoffeln bis zum Hofkäse – für schnelle, ehrliche Landküche unter der Woche. **für WEN:** Für berufstätige Pendler und junge Familien aus Lauterbach und Umkreis, die abends wenig Zeit",
+      "ts": "2026-09-08 00:38"
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-lauterbach",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer in Lauterbach **Ansprache-Idee:** „Wenn Lauterbacher auf dem Smartphone nach einer neuen Wärmepumpe oder einem Notdienst suchen, landen sie aktuell bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass Ihr Betrieb auf Platz 1 steht?“",
+      "ts": "2026-09-08 00:37"
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-lauterbach",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Reparatur- und Wartungsservice, der kleine Reparaturen und Inspektionen direkt beim Kunden zu Hause oder als Pannendienst an der Strecke erledigt. **WARUM HIER:** Lauterbach liegt direkt am hochfrequentierten Vulkanradweg und hat als Kreisstadt im hügeligen Vogelsberg eine extrem hohe E-Bike-Dichte, während die wenigen stationären",
+      "ts": "2026-09-08 00:37"
+    },
+    {
+      "dept": "Chancen",
+      "agent": "wachstum-offerta",
+      "via": "gemini",
+      "text": "**IDEE:** Der „Template-Klon-Link“ in der Fußzeile. Statt eines generischen „Erstellt mit Offerta“-Links lautet der Text in der Fußzeile (PDF & Web-Ansicht): *„Gefällt dir dieses Angebots-Design? Klicke hier, um dieses Template kostenlos für deine eigenen Angebote zu nutzen.“* **WARUM:** Angebote werden B2B versendet. Die Empfänger sind sehr oft selbst Selbs",
+      "ts": "2026-09-08 00:37"
+    },
+    {
       "dept": "Recherche",
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-08 00:21"
+      "ts": "2026-09-08 00:37"
     },
     {
       "dept": "Kunden",
       "agent": "kunden-faq",
       "via": "gemini",
       "text": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote schreibst oder zusätzliche Funktionen benötigst, kannst du jederzeit auf den kostenpflichtigen Pro-Tarif wechseln. **2. Kann ich mein",
-      "ts": "2026-09-08 00:21"
-    },
-    {
-      "dept": "Finanzen",
-      "agent": "finanzen-check",
-      "via": "gemini",
-      "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **",
-      "ts": "2026-09-08 00:21"
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-vogelsberg",
-      "via": "gemini",
-      "text": "**WAS:** Ein privater Bündelungs- und Auslieferdienst für Vogelsberger Direktvermarkter, der regionale Lebensmittel auf festen Routen direkt an lokale Gastronomiebetriebe, Seniorenheime und Dorfläden zustellt. **WARUM HIER:** Die Höfe in der Region haben hervorragende Produkte, aber wegen des akuten Arbeitskräftemangels keine Zeit für Einzelfahrten – gleichz",
-      "ts": "2026-09-08 00:21"
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-fulda",
-      "via": "gemini",
-      "text": "**WAS:** Ein schlanker B2B-Vermittlungs- und Umsetzungsdienst, der pragmatische KI- und KI-gestützte Automatisierungsprojekte für den traditionellen Fuldaer Mittelstand durch qualifizierte Studierende der Hochschule Fulda realisiert. **WARUM HIER:** Fulda vereint eine extrem hohe Dichte an mittelständischen Industrie-, Handwerks- und Logistikbetrieben mit ho",
-      "ts": "2026-09-08 00:21"
-    },
-    {
-      "dept": "Bau",
-      "agent": "bau-landing-copy",
-      "via": "gemini",
-      "text": "Hier ist ein frischer, punktgenauer Entwurf für deine Hero-Sektion: *** # Mehr Wunschkunden aus dem Vogelsberg. Wir machen Ihr Handwerk digital sichtbar. Werden Sie in Ihrer Region endlich online gefunden – ganz ohne eigenen IT-Stress. So sichern Sie sich mühelos die besten Aufträge und neue Mitarbeiter direkt aus der Heimat. [ **Jetzt Erstgespräch sichern**",
-      "ts": "2026-09-08 00:21"
+      "ts": "2026-09-08 00:37"
     },
     {
       "dept": "Kommando",
       "agent": "kommando-digest",
       "via": "gemini",
       "text": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top",
-      "ts": "2026-09-08 00:18"
+      "ts": "2026-09-08 00:37"
+    },
+    {
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
+      "via": "gemini",
+      "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **",
+      "ts": "2026-09-08 00:37"
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-fulda",
+      "via": "gemini",
+      "text": "**WAS:** Ein schlanker B2B-Vermittlungs- und Umsetzungsdienst, der pragmatische KI- und KI-gestützte Automatisierungsprojekte für den traditionellen Fuldaer Mittelstand durch qualifizierte Studierende der Hochschule Fulda realisiert. **WARUM HIER:** Fulda vereint eine extrem hohe Dichte an mittelständischen Industrie-, Handwerks- und Logistikbetrieben mit ho",
+      "ts": "2026-09-08 00:37"
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-vogelsberg",
+      "via": "gemini",
+      "text": "**WAS:** Ein privater Bündelungs- und Auslieferdienst für Vogelsberger Direktvermarkter, der regionale Lebensmittel auf festen Routen direkt an lokale Gastronomiebetriebe, Seniorenheime und Dorfläden zustellt. **WARUM HIER:** Die Höfe in der Region haben hervorragende Produkte, aber wegen des akuten Arbeitskräftemangels keine Zeit für Einzelfahrten – gleichz",
+      "ts": "2026-09-08 00:37"
     }
   ]
 }
