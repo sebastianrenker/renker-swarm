@@ -3,18 +3,19 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Renker Swarm Ecosystem</title>
-<meta name="description" content="Lebende Basis-Karte des Renker-Agenten-Swarms — live aus den 24/7-Cloud-Läufen.">
+<title>Renker Swarm Station</title>
+<meta name="description" content="Die Renker-Swarm-Station: 157 Agenten als Avatare in 6 farbigen Abteilungs-Räumen, live aus der Cloud — wer was tut und wie sie vernetzt sind.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#05090c; --panel:#0b1418; --panel-2:#091115; --edge:#173039; --edge-2:#245059;
+    --bg:#05090c; --panel:#0b1418; --panel-2:#091115; --panel-3:#0e1a20; --edge:#173039; --edge-2:#245059;
     --grid:rgba(53,224,200,.05);
-    --ink:#d3e8ee; --ink-soft:#8aa8b3; --ink-faint:#5c7883; --ink-dim:#3c545d;
-    --brand:#35e0c8; --cmd:#e8a838; --res:#4f93ea; --opp:#3fc96f; --build:#2ad4d4; --sup:#a36ff2; --fin:#e0b73e;
-    --ok:#3fc96f; --warn:#e8a838;
+    --ink:#d3e8ee; --ink-soft:#8aa8b3; --ink-faint:#5c7883; --ink-dim:#39525b;
+    --brand:#35e0c8;
+    --cmd:#e8a838; --res:#4f93ea; --opp:#3fc96f; --build:#2ad4d4; --sup:#a36ff2; --fin:#e0b73e;
+    --ok:#3fc96f;
     --mono:"JetBrains Mono",ui-monospace,Menlo,monospace; --sans:"IBM Plex Sans",system-ui,sans-serif;
   }
   *{box-sizing:border-box}
@@ -22,176 +23,255 @@
   body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.5;
     background-image:radial-gradient(1100px 560px at 82% -10%,rgba(53,224,200,.07),transparent 60%),radial-gradient(820px 460px at 4% 112%,rgba(163,111,242,.06),transparent 60%);
     -webkit-font-smoothing:antialiased}
-  .shell{max-width:1120px;margin:0 auto;padding:18px clamp(12px,3vw,26px) 44px}
-  .top{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:14px}
+  .shell{max-width:1180px;margin:0 auto;padding:16px clamp(10px,2.5vw,24px) 48px}
+  .mono{font-family:var(--mono)}
+
+  .top{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px}
   .brand{display:flex;align-items:baseline;gap:9px;margin-right:auto}
-  .brand b{font-family:var(--mono);font-weight:700;font-size:18px;letter-spacing:.16em}
-  .brand .sub{font-family:var(--mono);font-size:9.5px;letter-spacing:.26em;color:var(--brand);text-transform:uppercase}
-  .live{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:10.5px;letter-spacing:.16em;color:var(--ok);border:1px solid color-mix(in srgb,var(--ok) 40%,transparent);border-radius:100px;padding:4px 10px;background:color-mix(in srgb,var(--ok) 9%,transparent)}
+  .brand b{font-family:var(--mono);font-weight:700;font-size:18px;letter-spacing:.15em}
+  .brand .sub{font-family:var(--mono);font-size:9px;letter-spacing:.24em;color:var(--brand);text-transform:uppercase}
+  .live{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:10px;letter-spacing:.16em;color:var(--ok);border:1px solid color-mix(in srgb,var(--ok) 40%,transparent);border-radius:100px;padding:4px 10px;background:color-mix(in srgb,var(--ok) 9%,transparent)}
   .dot{width:8px;height:8px;border-radius:50%;background:var(--ok);animation:ping 2.4s ease-out infinite}
   @keyframes ping{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--ok) 55%,transparent)}70%{box-shadow:0 0 0 7px transparent}100%{box-shadow:0 0 0 0 transparent}}
   .gauges{display:flex;gap:8px;flex-wrap:wrap}
-  .gauge{border:1px solid var(--edge);border-radius:9px;background:var(--panel);padding:6px 11px;min-width:78px}
-  .gauge .k{font-family:var(--mono);font-size:9px;letter-spacing:.16em;color:var(--ink-faint);text-transform:uppercase}
+  .gauge{border:1px solid var(--edge);border-radius:9px;background:var(--panel);padding:6px 11px;min-width:70px}
+  .gauge .k{font-family:var(--mono);font-size:8.5px;letter-spacing:.15em;color:var(--ink-faint);text-transform:uppercase}
   .gauge .v{font-family:var(--mono);font-size:15px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1.25}
   .gauge .v small{font-size:10px;color:var(--ink-soft);font-weight:500}
-  .map{position:relative;width:100%;aspect-ratio:1000/632;container-type:inline-size;border:1px solid var(--edge-2);border-radius:16px;overflow:hidden;
-    background:linear-gradient(var(--grid) 1px,transparent 1px) 0 0/32px 32px,linear-gradient(90deg,var(--grid) 1px,transparent 1px) 0 0/32px 32px,radial-gradient(120% 120% at 50% 45%,#0a161b 0%,#060d10 70%,#050a0d 100%);
+
+  .stage{position:relative;width:100%;aspect-ratio:1000/620;container-type:inline-size;border:1px solid var(--edge-2);border-radius:16px;overflow:hidden;
+    background:linear-gradient(var(--grid) 1px,transparent 1px) 0 0/30px 30px,linear-gradient(90deg,var(--grid) 1px,transparent 1px) 0 0/30px 30px,radial-gradient(120% 120% at 50% 45%,#0a161b 0%,#060d10 70%,#050a0d 100%);
     box-shadow:inset 0 0 90px rgba(0,0,0,.6),0 22px 50px rgba(0,0,0,.5)}
-  .frame{position:absolute;inset:10px;border:1px solid color-mix(in srgb,var(--brand) 16%,transparent);border-radius:12px;pointer-events:none}
+  .frame{position:absolute;inset:9px;border:1px solid color-mix(in srgb,var(--brand) 14%,transparent);border-radius:12px;pointer-events:none}
   .corridors{position:absolute;inset:0;width:100%;height:100%}
-  .packet{position:absolute;width:9px;height:9px;border-radius:50%;background:var(--brand);box-shadow:0 0 10px 3px var(--brand);transform:translate(-50%,-50%);pointer-events:none;opacity:0;z-index:3}
-  .node{position:absolute;transform:translate(-50%,-50%);z-index:2}
-  .hub{width:15%;aspect-ratio:1/1;display:grid;place-items:center;text-align:center}
-  .hub .core{position:absolute;inset:0;border:1.5px solid color-mix(in srgb,var(--brand) 65%,transparent);background:radial-gradient(circle at 50% 40%,color-mix(in srgb,var(--brand) 26%,transparent),transparent 70%);transform:rotate(45deg);border-radius:14%;animation:hub 3.4s ease-in-out infinite}
-  @keyframes hub{0%,100%{box-shadow:0 0 20px color-mix(in srgb,var(--brand) 32%,transparent),inset 0 0 18px color-mix(in srgb,var(--brand) 18%,transparent)}50%{box-shadow:0 0 34px color-mix(in srgb,var(--brand) 55%,transparent),inset 0 0 26px color-mix(in srgb,var(--brand) 30%,transparent)}}
+  .packet{position:absolute;width:9px;height:9px;border-radius:50%;background:var(--brand);box-shadow:0 0 10px 3px var(--brand);transform:translate(-50%,-50%);pointer-events:none;opacity:0;z-index:4}
+
+  .hub{position:absolute;transform:translate(-50%,-50%);left:50%;top:50%;width:12%;aspect-ratio:1/1;display:grid;place-items:center;text-align:center;z-index:3}
+  .hub .core{position:absolute;inset:0;border:1.5px solid color-mix(in srgb,var(--brand) 65%,transparent);background:radial-gradient(circle at 50% 40%,color-mix(in srgb,var(--brand) 26%,transparent),transparent 70%);transform:rotate(45deg);border-radius:16%;animation:hub 3.4s ease-in-out infinite}
+  @keyframes hub{0%,100%{box-shadow:0 0 18px color-mix(in srgb,var(--brand) 30%,transparent),inset 0 0 16px color-mix(in srgb,var(--brand) 16%,transparent)}50%{box-shadow:0 0 32px color-mix(in srgb,var(--brand) 52%,transparent),inset 0 0 24px color-mix(in srgb,var(--brand) 28%,transparent)}}
   .hub .lbl{position:relative;z-index:1}
-  .hub .lbl b{display:block;font-family:var(--mono);font-size:clamp(9px,1.5cqw,15px);font-weight:700;letter-spacing:.14em;color:var(--brand)}
-  .hub .lbl span{font-family:var(--mono);font-size:clamp(6px,.95cqw,9.5px);letter-spacing:.1em;color:var(--ink-faint)}
-  .room{position:absolute;transform:translate(-50%,-50%);width:var(--w);height:var(--h);border:1px solid color-mix(in srgb,var(--rc) 55%,var(--edge));border-radius:11px;
-    background:linear-gradient(160deg,color-mix(in srgb,var(--rc) 12%,var(--panel)),var(--panel-2));
-    box-shadow:0 0 0 1px rgba(0,0,0,.3),0 0 16px color-mix(in srgb,var(--rc) 14%,transparent),inset 0 0 22px color-mix(in srgb,var(--rc) 8%,transparent);
-    padding:5.5% 6%;display:flex;flex-direction:column;gap:4%;transition:box-shadow .5s,border-color .5s;overflow:hidden}
-  .room::before{content:"";position:absolute;inset:0 0 auto auto;width:44%;height:60%;background:radial-gradient(circle at 100% 0,color-mix(in srgb,var(--rc) 40%,transparent),transparent 70%);opacity:.35}
-  .room .rhead{display:flex;align-items:center;gap:5%;z-index:1}
-  .room .sw{width:clamp(6px,1cqw,11px);aspect-ratio:1;border-radius:2px;background:var(--rc);box-shadow:0 0 8px var(--rc);flex:none}
-  .room .rname{font-size:clamp(9px,1.55cqw,15px);font-weight:600;color:var(--ink);white-space:nowrap}
-  .room .rcount{margin-left:auto;font-family:var(--mono);font-weight:700;font-size:clamp(9px,1.5cqw,14px);color:var(--rc);font-variant-numeric:tabular-nums}
-  .room .rcount small{font-size:.62em;color:var(--ink-faint);letter-spacing:.1em}
-  .room .props{display:flex;gap:5%;align-items:center;z-index:1;flex-wrap:wrap;margin:2% 0}
-  .room .props i{width:clamp(7px,1.6cqw,15px);height:clamp(6px,1.25cqw,12px);border-radius:2px;background:color-mix(in srgb,var(--rc) 32%,#0a1216);box-shadow:inset 0 0 5px color-mix(in srgb,var(--rc) 45%,transparent);border:1px solid color-mix(in srgb,var(--rc) 30%,transparent)}
-  .room .props i.lit{background:color-mix(in srgb,var(--rc) 70%,#0a1216);box-shadow:0 0 8px color-mix(in srgb,var(--rc) 75%,transparent)}
-  .room .rstate{margin-top:auto;display:inline-flex;align-items:center;gap:6px;z-index:1;font-family:var(--mono);font-size:clamp(7px,1.05cqw,10px);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint)}
-  .room .rstate i{width:clamp(5px,.9cqw,8px);aspect-ratio:1;border-radius:50%;background:var(--ink-dim)}
-  .room.active{border-color:var(--rc);box-shadow:0 0 0 1px color-mix(in srgb,var(--rc) 30%,transparent),0 0 30px color-mix(in srgb,var(--rc) 40%,transparent),inset 0 0 30px color-mix(in srgb,var(--rc) 14%,transparent)}
-  .room.active .rstate{color:var(--rc)}
-  .room.active .rstate i{background:var(--rc);box-shadow:0 0 9px var(--rc);animation:ping 1.3s ease-out infinite}
-  .ticker{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:12px;border:1px solid var(--edge);border-radius:11px;background:linear-gradient(180deg,var(--panel),var(--panel-2));padding:9px 14px;font-family:var(--mono);font-size:11px;color:var(--ink-soft)}
-  .ticker .seg{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
-  .ticker .seg .lbl{font-size:9px;letter-spacing:.16em;color:var(--ink-faint);text-transform:uppercase}
-  .ticker .b{width:7px;height:7px;border-radius:50%;background:var(--ok);box-shadow:0 0 8px var(--ok)}
-  .ticker .read{flex:1 1 260px;min-width:0;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .ticker .read .who{color:var(--rc,var(--brand));font-weight:700}
-  .sep{width:1px;align-self:stretch;background:var(--edge)}
-  .note{margin-top:12px;border:1px solid var(--edge);border-left:3px solid var(--brand);border-radius:10px;background:color-mix(in srgb,var(--brand) 6%,var(--panel));padding:11px 14px;font-size:12px;color:var(--ink-soft);line-height:1.5}
+  .hub .lbl b{display:block;font-family:var(--mono);font-size:clamp(8px,1.35cqw,14px);font-weight:700;letter-spacing:.12em;color:var(--brand)}
+  .hub .lbl span{font-family:var(--mono);font-size:clamp(5px,.85cqw,9px);letter-spacing:.08em;color:var(--ink-faint)}
+
+  .room{position:absolute;transform:translate(-50%,-50%);width:var(--w);height:var(--h);border:1px solid color-mix(in srgb,var(--rc) 50%,var(--edge));border-left:3px solid var(--rc);border-radius:11px;
+    background:linear-gradient(160deg,color-mix(in srgb,var(--rc) 11%,var(--panel)),var(--panel-2));
+    box-shadow:0 0 0 1px rgba(0,0,0,.3),0 0 15px color-mix(in srgb,var(--rc) 13%,transparent),inset 0 0 20px color-mix(in srgb,var(--rc) 7%,transparent);
+    padding:2.4% 2.6%;display:flex;flex-direction:column;gap:4%;cursor:pointer;z-index:2;overflow:hidden;transition:box-shadow .4s,border-color .4s}
+  .room:hover,.room.sel{border-color:var(--rc);box-shadow:0 0 0 1px color-mix(in srgb,var(--rc) 35%,transparent),0 0 24px color-mix(in srgb,var(--rc) 34%,transparent),inset 0 0 24px color-mix(in srgb,var(--rc) 12%,transparent)}
+  .room .rhead{display:flex;align-items:center;gap:5px;z-index:1;flex:none}
+  .room .sw{width:clamp(6px,.95cqw,11px);aspect-ratio:1;border-radius:2px;background:var(--rc);box-shadow:0 0 7px var(--rc);flex:none}
+  .room .rname{font-size:clamp(8px,1.4cqw,14px);font-weight:600;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .room .rcount{margin-left:auto;font-family:var(--mono);font-weight:700;font-size:clamp(8px,1.3cqw,13px);color:var(--rc);font-variant-numeric:tabular-nums}
+  .room .cells{display:flex;flex-wrap:wrap;gap:clamp(2px,.5cqw,4px);align-content:flex-start;overflow:hidden;flex:1;min-height:0}
+  .cell{width:clamp(7px,1.35cqw,13px);height:clamp(7px,1.35cqw,13px);border-radius:2px;flex:none;
+    background:color-mix(in srgb,var(--rc) 14%,#0a1216);border:1px solid color-mix(in srgb,var(--rc) 22%,transparent);transition:transform .2s,box-shadow .3s}
+  .cell.lit{background:color-mix(in srgb,var(--rc) 78%,#0a1216);border-color:var(--rc);box-shadow:0 0 6px color-mix(in srgb,var(--rc) 65%,transparent)}
+  .cell.active{animation:cellpulse 1.2s ease-out infinite;box-shadow:0 0 10px 2px var(--rc);z-index:2}
+  .cell:hover{transform:scale(1.5);box-shadow:0 0 8px var(--rc);z-index:3}
+  @keyframes cellpulse{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--rc) 60%,transparent)}70%{box-shadow:0 0 0 6px transparent}100%{box-shadow:0 0 0 0 transparent}}
+  .room .more{font-family:var(--mono);font-size:clamp(6px,1cqw,10px);color:var(--ink-faint);align-self:center}
+
+  .below{display:grid;grid-template-columns:1fr;gap:12px;margin-top:12px}
+  @media(min-width:820px){.below{grid-template-columns:1.4fr 1fr}}
+  .card{border:1px solid var(--edge);border-radius:13px;background:linear-gradient(160deg,var(--panel),var(--panel-2));box-shadow:0 1px 0 rgba(255,255,255,.02),0 14px 34px rgba(0,0,0,.4)}
+  .card .hd{display:flex;align-items:center;gap:9px;padding:11px 15px;border-bottom:1px solid var(--edge)}
+  .card .hd h2{margin:0;font-size:11px;font-family:var(--mono);font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-soft)}
+  .card .hd .tag{margin-left:auto;font-family:var(--mono);font-size:10px;color:var(--ink-faint)}
+  .detail{padding:14px 16px;min-height:180px}
+  .detail .dh{display:flex;align-items:center;gap:9px;margin-bottom:4px}
+  .detail .dsw{width:13px;height:13px;border-radius:3px;background:var(--rc,var(--brand));box-shadow:0 0 9px var(--rc,var(--brand));flex:none}
+  .detail h3{margin:0;font-size:17px;font-weight:600}
+  .detail .role{color:var(--ink-soft);font-size:13px;margin:0 0 12px}
+  .detail .ol{font-family:var(--mono);font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint);margin:12px 0 5px}
+  .detail .out{font-size:13.5px;color:var(--ink);line-height:1.5;white-space:pre-wrap}
+  .detail .via{font-family:var(--mono);font-size:10px;color:var(--ink-dim);margin-top:8px}
+  .agentlist{display:flex;flex-direction:column;gap:5px;max-height:230px;overflow-y:auto;margin-top:6px}
+  .arow{display:flex;align-items:center;gap:9px;padding:6px 9px;border:1px solid var(--edge);border-radius:8px;background:var(--panel-3);cursor:pointer;font-size:12.5px}
+  .arow:hover{border-color:var(--rc,var(--edge-2))}
+  .arow .s{width:8px;height:8px;border-radius:2px;background:var(--ink-dim);flex:none}
+  .arow.done .s{background:var(--rc,var(--ok));box-shadow:0 0 7px var(--rc,var(--ok))}
+  .arow .an{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .arow .aa{font-family:var(--mono);font-size:9.5px;color:var(--ink-faint);flex:none}
+  .feed{padding:9px 12px 14px;display:flex;flex-direction:column;gap:8px;max-height:340px;overflow-y:auto}
+  .fi{border:1px solid var(--edge);border-left:3px solid var(--rc,var(--edge-2));border-radius:8px;background:var(--panel-3);padding:8px 11px;animation:in .4s ease both}
+  @keyframes in{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:none}}
+  .fi .t2{display:flex;align-items:center;gap:8px;margin-bottom:3px}
+  .fi .fn{font-family:var(--mono);font-size:10px;font-weight:700;color:var(--ink)}
+  .fi .ft{margin-left:auto;font-family:var(--mono);font-size:9px;color:var(--ink-faint)}
+  .fi .fx{font-size:11.5px;color:var(--ink-soft);line-height:1.4;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .note{margin-top:12px;border:1px solid var(--edge);border-left:3px solid var(--brand);border-radius:10px;background:color-mix(in srgb,var(--brand) 6%,var(--panel));padding:10px 14px;font-size:12px;color:var(--ink-soft);line-height:1.5}
   .note b{color:var(--brand)}
-  footer{margin-top:14px;display:flex;gap:12px;flex-wrap:wrap;justify-content:space-between;font-family:var(--mono);font-size:10px;color:var(--ink-faint)}
+  footer{margin-top:12px;display:flex;gap:12px;flex-wrap:wrap;justify-content:space-between;font-family:var(--mono);font-size:10px;color:var(--ink-faint)}
   @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
 <div class="shell">
   <header class="top">
-    <div class="brand"><b>RENKER&nbsp;SWARM</b><span class="sub">Ecosystem · Live</span></div>
+    <div class="brand"><b>RENKER&nbsp;SWARM</b><span class="sub">Station · Live</span></div>
     <span class="live"><span class="dot"></span>LIVE · 24/7</span>
     <div class="gauges">
-      <div class="gauge"><div class="k">Agenten</div><div class="v" id="g-agents">157</div></div>
-      <div class="gauge"><div class="k">Räume</div><div class="v">6</div></div>
-      <div class="gauge"><div class="k">Heartbeat</div><div class="v">30<small> min</small></div></div>
-      <div class="gauge"><div class="k">Budget</div><div class="v" id="budget">–<small>/600</small></div></div>
+      <div class="gauge"><div class="k">Agenten</div><div class="v" id="g-agents">–</div></div>
+      <div class="gauge"><div class="k">Geliefert</div><div class="v" id="g-worked">–</div></div>
+      <div class="gauge"><div class="k">Budget</div><div class="v" id="g-budget">–</div></div>
+      <div class="gauge"><div class="k">Stand</div><div class="v" id="g-updated" style="font-size:11px">–</div></div>
     </div>
   </header>
 
-  <div class="map" id="map">
+  <div class="stage" id="stage">
     <div class="frame"></div>
     <svg class="corridors" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
       <g stroke="#35e0c8" fill="none" vector-effect="non-scaling-stroke">
-        <g stroke-width="5" opacity=".16">
-          <line x1="50" y1="50" x2="50" y2="18"/><line x1="50" y1="50" x2="17.5" y2="28"/><line x1="50" y1="50" x2="82.5" y2="28"/>
-          <line x1="50" y1="50" x2="16.5" y2="72"/><line x1="50" y1="50" x2="83.5" y2="72"/><line x1="50" y1="50" x2="50" y2="83"/>
-        </g>
-        <g stroke-width="1.4" opacity=".6">
-          <line x1="50" y1="50" x2="50" y2="18"/><line x1="50" y1="50" x2="17.5" y2="28"/><line x1="50" y1="50" x2="82.5" y2="28"/>
-          <line x1="50" y1="50" x2="16.5" y2="72"/><line x1="50" y1="50" x2="83.5" y2="72"/><line x1="50" y1="50" x2="50" y2="83"/>
-        </g>
+        <g stroke-width="5" opacity=".15" id="rail-glow"></g>
+        <g stroke-width="1.3" opacity=".55" id="rail-line"></g>
       </g>
     </svg>
     <div class="packet" id="packet"></div>
-    <div class="node hub" style="left:50%;top:50%"><div class="core"></div><div class="lbl"><b>KERN</b><span>Gateway · Heartbeat</span></div></div>
+    <div class="hub"><div class="core"></div><div class="lbl"><b>KERN</b><span>Gateway · Heartbeat</span></div></div>
     <div id="rooms"></div>
   </div>
 
-  <div class="ticker">
-    <span class="seg"><span class="b"></span><span class="lbl">Live</span></span>
-    <span class="sep"></span>
-    <span class="seg"><span class="lbl">Stand</span> <span id="updated">lädt…</span></span>
-    <span class="sep"></span>
-    <span class="read" id="read">Verbinde mit dem Swarm…</span>
+  <div class="below">
+    <section class="card"><div class="hd"><h2 id="dt-title">Übersicht</h2><span class="tag" id="dt-tag">Raum oder Agent anklicken</span></div>
+      <div class="detail" id="detail"></div></section>
+    <section class="card"><div class="hd"><h2>Live-Feed</h2><span class="tag">echte Ergebnisse</span></div>
+      <div class="feed" id="feed"></div></section>
   </div>
 
-  <div class="note"><b>Live-Basis deines Swarms.</b> Der Kern versorgt die 6 Abteilungs-Räume; bei jedem Heartbeat wandert ein Signal zum arbeitenden Raum. Zahlen &amp; Ergebnisse sind <b>echt</b> und aktualisieren sich mit jedem 24/7-Cloud-Lauf (alle 30&nbsp;min, GitHub Actions, kostenlos).</div>
-  <footer><span>RENKER INDUSTRIES · SWARM ECOSYSTEM</span><span>github.com/sebastianrenker/renker-swarm</span></footer>
+  <div class="note"><b>Deine Swarm-Station, live.</b> Der <b>KERN</b> (Gateway · Heartbeat) versorgt über die Korridore die 6 Abteilungs-Räume; jede Zelle ist ein Agent — <b>gefüllt = hat schon ein echtes Ergebnis geliefert</b>, matt = wartet auf seinen Zyklus. Klick einen Raum oder Agenten, um zu sehen, was er tut. Läuft 24/7 kostenlos in der Cloud; neue Agenten/Businesses fügt Claude per Code hinzu.</div>
+  <footer><span>RENKER INDUSTRIES · SWARM STATION</span><span>github.com/sebastianrenker/renker-swarm</span></footer>
 </div>
 
 <script>
 (function(){
   "use strict";
-  var R=[
-    {id:"KOMMANDO",key:"kommando",n:1,c:"--cmd",x:50,y:18,w:19,h:19,props:2,out:"—",via:""},
-    {id:"FINANZEN",key:"finanzen",n:1,c:"--fin",x:17.5,y:28,w:18,h:19,props:2,out:"—",via:""},
-    {id:"RECHERCHE",key:"recherche",n:1,c:"--res",x:82.5,y:28,w:18,h:19,props:2,out:"—",via:""},
-    {id:"KUNDEN",key:"kunden",n:31,c:"--sup",x:16.5,y:72,w:19,h:20,props:4,out:"—",via:""},
-    {id:"BAU",key:"bau",n:1,c:"--build",x:83.5,y:72,w:18,h:20,props:2,out:"—",via:""},
-    {id:"CHANCEN",key:"chancen",n:122,c:"--opp",x:50,y:82,w:31,h:22,props:6,out:"—",via:""}
-  ];
-  var host=document.getElementById("rooms");
-  R.forEach(function(d,i){
-    var props="";for(var k=0;k<d.props;k++)props+='<i></i>';
-    var el=document.createElement("div");el.className="room";el.dataset.idx=i;
-    el.style.cssText="left:"+d.x+"%;top:"+d.y+"%;--w:"+d.w+"%;--h:"+d.h+"%;--rc:var("+d.c+")";
-    el.innerHTML='<div class="rhead"><span class="sw"></span><span class="rname">'+d.id+'</span><span class="rcount" data-c>'+d.n+' <small>AG</small></span></div>'+
-      '<div class="props">'+props+'</div><span class="rstate"><i></i><span class="lab">bereit</span></span>';
-    host.appendChild(el);
+  // department layout + colours (matches the RenkerNet station)
+  var META = {
+    kommando:{name:"KOMMANDO",role:"Fokus & Koordination — der Kopf der Station.",c:"--cmd",x:50,y:16,w:22,h:20},
+    finanzen:{name:"FINANZEN",role:"Zahlen, Preise, Recht — hält es ehrlich.",c:"--fin",x:15,y:31,w:17,h:20},
+    recherche:{name:"RECHERCHE",role:"Fakten, Quellen, Markt-Intel.",c:"--res",x:85,y:31,w:17,h:20},
+    kunden:{name:"KUNDEN",role:"Support & Antworten nach außen.",c:"--sup",x:15,y:74,w:21,h:23},
+    bau:{name:"BAU",role:"Seiten, Texte, Code — baut die Produkte.",c:"--build",x:85,y:74,w:17,h:20},
+    chancen:{name:"CHANCEN",role:"Monetisierbare Openings — Fulda/Vogelsberg-Radar.",c:"--opp",x:50,y:83,w:40,h:26}
+  };
+  var ORDER=["kommando","finanzen","recherche","kunden","bau","chancen"];
+  var CAP={chancen:56,kunden:33};
+  var rooms={}, agentsByDept={}, DATA=null, packet=document.getElementById("packet");
+
+  // corridors from hub(50,50) to each room
+  var g1=document.getElementById("rail-glow"), g2=document.getElementById("rail-line");
+  ORDER.forEach(function(k){var m=META[k];
+    var l1='<line x1="50" y1="50" x2="'+m.x+'" y2="'+m.y+'"/>';
+    g1.insertAdjacentHTML("beforeend",l1); g2.insertAdjacentHTML("beforeend",l1);
   });
-  var rooms=Array.prototype.slice.call(host.children);
-  var packet=document.getElementById("packet"),read=document.getElementById("read");
+
+  var host=document.getElementById("rooms");
+  ORDER.forEach(function(k){
+    var m=META[k];
+    var el=document.createElement("div");
+    el.className="room"; el.dataset.dept=k;
+    el.style.cssText="left:"+m.x+"%;top:"+m.y+"%;--w:"+m.w+"%;--h:"+m.h+"%;--rc:var("+m.c+")";
+    el.innerHTML='<div class="rhead"><span class="sw"></span><span class="rname">'+m.name+'</span><span class="rcount" data-c>–</span></div><div class="cells" data-cells></div>';
+    el.addEventListener("click",function(){ showDept(k); });
+    host.appendChild(el); rooms[k]=el;
+  });
+
+  function ageStr(a){ if(a==null)return""; if(a<60)return a+"m"; if(a<1440)return Math.round(a/60)+"h"; return Math.round(a/1440)+"d"; }
+
+  function render(){
+    if(!DATA)return;
+    document.getElementById("g-agents").textContent=DATA.agents_total;
+    document.getElementById("g-worked").textContent=DATA.worked;
+    var b=DATA.budget||{}; document.getElementById("g-budget").innerHTML=(b.used!=null?b.used:"–")+'<small>/'+(b.cap||600)+'</small>';
+    document.getElementById("g-updated").textContent=(DATA.updated||"").replace("T"," ").replace("Z","");
+    // group agents
+    agentsByDept={};
+    (DATA.agents||[]).forEach(function(a){ var k=String(a.dept||"").toLowerCase(); (agentsByDept[k]=agentsByDept[k]||[]).push(a); });
+    ORDER.forEach(function(k){
+      var list=(agentsByDept[k]||[]).slice().sort(function(x,y){return (y.out?1:0)-(x.out?1:0);});
+      var el=rooms[k]; el.querySelector("[data-c]").textContent=list.length;
+      var cellHost=el.querySelector("[data-cells]"); cellHost.innerHTML="";
+      var cap=CAP[k]||list.length, shown=Math.min(cap,list.length);
+      for(var i=0;i<shown;i++){
+        var a=list[i]; var c=document.createElement("div");
+        c.className="cell"+(a.out?" lit":""); c.dataset.aid=a.id;
+        c.title=a.name+(a.out?" — hat geliefert":" — wartet");
+        (function(ag){ c.addEventListener("click",function(e){e.stopPropagation();showAgent(ag,k);}); })(a);
+        cellHost.appendChild(c);
+      }
+      if(list.length>shown){ var more=document.createElement("span"); more.className="more"; more.textContent="+"+(list.length-shown); cellHost.appendChild(more); }
+    });
+    renderFeed();
+    if(!detailShown) showOverview();
+  }
+
+  function renderFeed(){
+    var feed=document.getElementById("feed"); feed.innerHTML="";
+    (DATA.recent||[]).forEach(function(r){
+      var k=String(r.dept||"").toLowerCase(), m=META[k];
+      var el=document.createElement("div"); el.className="fi"; el.style.setProperty("--rc", m?("var("+m.c+")"):"var(--edge-2)");
+      el.innerHTML='<div class="t2"><span class="fn">'+(r.agent||"")+'</span><span class="ft">'+ageStr(r.age_min)+' · '+(r.via||"")+'</span></div><div class="fx">'+esc(r.text||"")+'</div>';
+      feed.appendChild(el);
+    });
+    if(!feed.children.length) feed.innerHTML='<div class="fi"><div class="fx">Noch keine Ergebnisse — der nächste Zyklus liefert.</div></div>';
+  }
+
+  function esc(s){ return String(s).replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c];}); }
+
+  var detailShown=false, detail=document.getElementById("detail");
+  function setSel(k){ ORDER.forEach(function(x){rooms[x].classList.toggle("sel",x===k);}); }
+  function showOverview(){
+    detailShown=false; setSel(null);
+    document.getElementById("dt-title").textContent="Übersicht";
+    document.getElementById("dt-tag").textContent="Raum oder Agent anklicken";
+    var worked=DATA?DATA.worked:0, total=DATA?DATA.agents_total:0;
+    detail.innerHTML='<p class="role">6 Abteilungen, '+total+' Agenten. '+worked+' haben bereits ein echtes Ergebnis geliefert (gefüllte Zellen). Klick einen Raum für seine Agenten, oder eine Zelle für das konkrete Ergebnis eines Agenten.</p>'+
+      '<div class="ol">Abteilungen</div><div class="agentlist">'+ORDER.map(function(k){var m=META[k];var n=(agentsByDept[k]||[]).length;var w=(agentsByDept[k]||[]).filter(function(a){return a.out;}).length;
+        return '<div class="arow done" style="--rc:var('+m.c+')" data-dept="'+k+'"><span class="s"></span><span class="an">'+m.name+'</span><span class="aa">'+w+'/'+n+' geliefert</span></div>';}).join("")+'</div>';
+    detail.querySelectorAll("[data-dept]").forEach(function(r){r.addEventListener("click",function(){showDept(r.dataset.dept);});});
+  }
+  function showDept(k){
+    detailShown=true; setSel(k); var m=META[k]; detail.style.setProperty("--rc","var("+m.c+")");
+    document.getElementById("dt-title").textContent=m.name;
+    var list=(agentsByDept[k]||[]); var w=list.filter(function(a){return a.out;}).length;
+    document.getElementById("dt-tag").textContent=w+"/"+list.length+" geliefert";
+    var top=list.filter(function(a){return a.out;})[0];
+    var rows=list.slice().sort(function(x,y){return (y.out?1:0)-(x.out?1:0);}).slice(0,60).map(function(a){
+      return '<div class="arow'+(a.out?" done":"")+'" style="--rc:var('+m.c+')" data-aid="'+esc(a.id)+'"><span class="s"></span><span class="an">'+esc(a.name)+'</span><span class="aa">'+(a.out?ageStr(a.age_min):"wartet")+'</span></div>';}).join("");
+    detail.innerHTML='<div class="dh"><span class="dsw"></span><h3>'+m.name+'</h3></div><p class="role">'+m.role+'</p>'+
+      (top?'<div class="ol">Letztes Ergebnis · '+esc(top.name)+'</div><div class="out">'+esc(top.out)+'</div><div class="via">via '+esc(top.via||"")+' · vor '+ageStr(top.age_min)+'</div>':'<div class="out" style="color:var(--ink-faint)">Noch kein Ergebnis in dieser Abteilung — die Agenten sind eingeplant.</div>')+
+      '<div class="ol">Agenten ('+list.length+')</div><div class="agentlist">'+rows+'</div>';
+    detail.querySelectorAll("[data-aid]").forEach(function(r){r.addEventListener("click",function(){var a=(agentsByDept[k]||[]).filter(function(x){return x.id===r.dataset.aid;})[0]; if(a)showAgent(a,k);});});
+  }
+  function showAgent(a,k){
+    detailShown=true; setSel(k); var m=META[k]; detail.style.setProperty("--rc","var("+m.c+")");
+    document.getElementById("dt-title").textContent=a.name;
+    document.getElementById("dt-tag").textContent=m.name;
+    detail.innerHTML='<div class="dh"><span class="dsw"></span><h3>'+esc(a.name)+'</h3></div>'+
+      '<p class="role">Abteilung '+m.name+' · Zyklus alle '+a.iv+' min</p>'+
+      (a.out?'<div class="ol">Letztes Ergebnis</div><div class="out">'+esc(a.out)+'</div><div class="via">via '+esc(a.via||"")+' · vor '+ageStr(a.age_min)+'</div>':'<div class="out" style="color:var(--ink-faint)">Dieser Agent hat noch nicht geliefert — er läuft in seinem nächsten Zyklus.</div>')+
+      '<div class="ol" style="margin-top:14px"><span style="cursor:pointer;color:var(--brand)" id="back">← zurück zur Abteilung</span></div>';
+    var back=document.getElementById("back"); if(back)back.addEventListener("click",function(){showDept(k);});
+  }
+
+  // ambient life: signal travels to a room, a delivered agent's cell pulses
   var reduce=window.matchMedia&&window.matchMedia("(prefers-reduced-motion:reduce)").matches;
-
-  function show(i){
-    var d=R[i],el=rooms[i];
-    rooms.forEach(function(e){e.classList.remove("active");var l=e.querySelector(".lab");if(l)l.textContent="bereit";e.querySelectorAll(".props i").forEach(function(p){p.classList.remove("lit");});});
-    el.classList.add("active");var lab=el.querySelector(".lab");if(lab)lab.textContent="läuft";
-    el.querySelectorAll(".props i").forEach(function(p){if(Math.random()<.6)p.classList.add("lit");});
-    read.style.setProperty("--rc","var("+d.c+")");
-    read.innerHTML='<span class="who">▸ '+d.id+':</span> '+(d.out||"—")+(d.via?' &nbsp;·&nbsp; via '+d.via:'');
-  }
-  function sendPacket(i,done){
-    var d=R[i];packet.style.transition="none";packet.style.left="50%";packet.style.top="50%";packet.style.opacity="1";
-    void packet.offsetWidth;
-    packet.style.transition="left 1s cubic-bezier(.5,.1,.4,1),top 1s cubic-bezier(.5,.1,.4,1),opacity .3s";
-    packet.style.left=d.x+"%";packet.style.top=d.y+"%";
-    setTimeout(function(){packet.style.opacity="0";if(done)done();},1000);
+  function sendPacket(k){ var m=META[k]; packet.style.transition="none";packet.style.left="50%";packet.style.top="50%";packet.style.opacity="1";void packet.offsetWidth;
+    packet.style.transition="left 1s cubic-bezier(.5,.1,.4,1),top 1s cubic-bezier(.5,.1,.4,1),opacity .3s";packet.style.left=m.x+"%";packet.style.top=m.y+"%";
+    setTimeout(function(){packet.style.opacity="0";},1000); }
+  var seq=["chancen","kunden","chancen","kommando","chancen","recherche","bau","chancen","finanzen","kunden","chancen"],p=0,lastCell=null;
+  function beat(){
+    var k=seq[p%seq.length];p++;
+    sendPacket(k);
+    if(lastCell){lastCell.classList.remove("active");}
+    var lit=rooms[k].querySelectorAll(".cell.lit"); var pool=lit.length?lit:rooms[k].querySelectorAll(".cell");
+    if(pool.length){ var c=pool[Math.floor(Math.random()*pool.length)]; c.classList.add("active"); lastCell=c; }
   }
 
-  function applyData(data){
-    try{
-      document.getElementById("g-agents").textContent=data.agents_total||157;
-      var b=data.budget||{};document.getElementById("budget").innerHTML=(b.used!=null?b.used:"–")+'<small>/'+(b.cap||600)+'</small>';
-      document.getElementById("updated").textContent=(data.updated||"").replace("T"," ").replace("Z"," UTC");
-      (data.departments||[]).forEach(function(dp){
-        var m=R.filter(function(r){return r.key===String(dp.id||"").toLowerCase();})[0];
-        if(!m)return;
-        if(dp.count!=null){m.n=dp.count;rooms[R.indexOf(m)].querySelector("[data-c]").innerHTML=dp.count+' <small>AG</small>';}
-        if(dp.latest){m.out=dp.latest.text||m.out;m.via=dp.latest.via||m.via;}
-      });
-    }catch(e){}
-  }
-
-  var seq=[5,3,5,0,5,2,3,5,1,5,4,3,5],p=0;
-  function beat(){var i=seq[p%seq.length];p++;sendPacket(i,function(){show(i);});}
-
-  function boot(){
-    if(reduce){show(5);return;}
-    show(5);setTimeout(beat,900);setInterval(beat,3200);
-  }
-
-  fetch("./data.json",{cache:"no-store"})
-    .then(function(r){return r.ok?r.json():null;})
-    .then(function(d){if(d)applyData(d);})
-    .catch(function(){})
-    .finally(boot);
-  // keep it fresh while the tab is open
-  setInterval(function(){fetch("./data.json",{cache:"no-store"}).then(function(r){return r.ok?r.json():null;}).then(function(d){if(d)applyData(d);}).catch(function(){});},120000);
+  function load(){ fetch("./data.json",{cache:"no-store"}).then(function(r){return r.ok?r.json():null;}).then(function(d){if(d){DATA=d;render();}}).catch(function(){}); }
+  load();
+  if(!reduce){ setTimeout(beat,1100); setInterval(beat,3000); }
+  setInterval(load,120000);
 })();
 </script>
 </body>

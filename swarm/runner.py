@@ -124,43 +124,60 @@ def run_cycle(verbose=True):
 
 
 def write_dashboard_data(roster, state, cfg):
-    """Emit docs/data.json — a compact live digest the GitHub Pages dashboard
-    fetches (same-origin) to render the base map with real, current data."""
-    depts = {}
-    for a in roster.get("agents", []):
-        d = a.get("department", "Allgemein")
-        depts.setdefault(d, {"id": d, "count": 0, "latest": None})
-        depts[d]["count"] += 1
-
+    """Emit docs/data.json — the live digest the GitHub Pages "station" fetches
+    to render every agent as an avatar in its department room, with real output."""
+    now = time.time()
     files = sorted(OUT.glob("*/*/*.md"), key=lambda p: p.stat().st_mtime, reverse=True)
-    recent = []
-    for p in files[:12]:
+    latest_by_agent, latest_by_dept, recent = {}, {}, []
+    for p in files:
         parts = p.relative_to(OUT).parts  # <dept>/<agent>/<ts>.md
         if len(parts) < 3:
             continue
+        dept, agent = parts[0], parts[1]
         raw = p.read_text(encoding="utf-8")
         head, _, body = raw.partition("\n\n")
         via = "?"
         for line in head.splitlines():
             if line.startswith(">") and "via" in line:
                 via = line.split("via", 1)[1].strip()
-        recent.append({
-            "dept": parts[0], "agent": parts[1], "via": via,
+        item = {
+            "dept": dept, "agent": agent, "via": via,
             "text": " ".join(body.split())[:360],
             "ts": datetime.datetime.fromtimestamp(p.stat().st_mtime).strftime("%Y-%m-%d %H:%M"),
-        })
+            "age_min": int((now - p.stat().st_mtime) / 60),
+        }
+        latest_by_agent.setdefault(agent, item)
+        latest_by_dept.setdefault(dept, item)
+        if len(recent) < 12:
+            recent.append(item)
 
-    for r in recent:
-        d = depts.get(r["dept"])
-        if d and d["latest"] is None:
-            d["latest"] = {"via": r["via"], "text": r["text"], "ts": r["ts"]}
+    defaults = roster.get("defaults", {})
+    depts = {}
+    agents = []
+    for a in roster.get("agents", []):
+        d = a.get("department", "Allgemein")
+        depts.setdefault(d, {"id": d, "count": 0, "latest": None})
+        depts[d]["count"] += 1
+        lb = latest_by_agent.get(a["id"])
+        agents.append({
+            "id": a["id"], "name": a.get("name", a["id"]), "dept": d,
+            "iv": a.get("interval_minutes", defaults.get("interval_minutes", 120)),
+            "out": (lb["text"][:220] if lb else None),
+            "via": (lb["via"] if lb else None),
+            "age_min": (lb["age_min"] if lb else None),
+        })
+    for d in depts.values():
+        lb = latest_by_dept.get(d["id"])
+        if lb:
+            d["latest"] = {"via": lb["via"], "text": lb["text"], "age_min": lb["age_min"]}
 
     data = {
         "updated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
-        "agents_total": sum(x["count"] for x in depts.values()),
+        "agents_total": len(agents),
+        "worked": sum(1 for a in agents if a["out"]),
         "departments": list(depts.values()),
+        "agents": agents,
         "budget": {"used": state.get("calls_today", 0), "cap": cfg.get("daily_call_budget", 600)},
-        "heartbeat_min": cfg.get("cycle_sleep_seconds", 1800) // 60 or 30,
         "recent": recent,
     }
     docs = ROOT / "docs"
