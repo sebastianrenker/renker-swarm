@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T05:47Z",
+  "updated": "2026-09-08T11:01Z",
   "agents_total": 157,
   "departments": [
     {
@@ -8,7 +8,7 @@
       "latest": {
         "via": "gemini",
         "text": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top",
-        "ts": "2026-09-08 05:46"
+        "ts": "2026-09-08 11:00"
       }
     },
     {
@@ -16,8 +16,8 @@
       "count": 122,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler E-Bike- und Gravelbike-Verleih mit Bring- und Holservice sowie flexibler Pannenhilfe für Touristen und Tagesgäste. **WARUM HIER:** Schotten ist das zentrale Drehkreuz für den Hoherodskopf und den Vulkanradweg, doch vielen lokalen Pensionen und Ferienwohnungen fehlt ein eigenes Leihrad-Angebot für die hohe Nachfrage. **ERSTER SCHRITT:** P",
-        "ts": "2026-09-08 05:47"
+        "text": "**Betriebstyp:** Dachdecker- und Zimmereibetrieb (in Herbstein und den umliegenden Ortsteilen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer im Vogelsberg nach 'Dachsanierung Herbstein' googeln, landen sie derzeit bei der Konkurrenz aus Lauterbach – lassen Sie uns dafür sorgen, dass Sie auf Google Maps ganz oben stehen und die lukrative",
+        "ts": "2026-09-08 11:01"
       }
     },
     {
@@ -26,7 +26,7 @@
       "latest": {
         "via": "gemini",
         "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-        "ts": "2026-09-08 05:46"
+        "ts": "2026-09-08 11:00"
       }
     },
     {
@@ -39,8 +39,8 @@
       "count": 31,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein barrierefreier Nachbarschafts-Shuttle mit persönlicher Begleithilfe, der ältere Menschen aus den umliegenden Alsfelder Ortsteilen verlässlich für Marktbesuche, Apothekengänge und Arzttermine in die Kernstadt bringt. **WARUM HIER:** Da in den weitläufigen Vogelsberg-Dörfern rund um Alsfeld die Nahversorgung schwindet und der Busverkehr spärlich i",
-        "ts": "2026-09-08 05:47"
+        "text": "**WAS:** Ein dorfübergreifender Mobil- und Begleitdienst, der ältere Menschen aus den einzelnen Ortsteilen verlässlich bei Einkäufen, Arztbesuchen oder sozialen Treffpunkten unterstützt und begleitet. **WARUM HIER:** Schotten umfasst 15 weit verstreute Dörfer im Vogelsberg, in denen der öffentliche Nahverkehr oft dünn ist und Senioren ohne eigenes Auto sonst",
+        "ts": "2026-09-08 11:01"
       }
     },
     {
@@ -49,99 +49,99 @@
       "latest": {
         "via": "gemini",
         "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **",
-        "ts": "2026-09-08 05:46"
+        "ts": "2026-09-08 11:00"
       }
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 18,
     "cap": 600
   },
   "heartbeat_min": 5,
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-schotten",
+      "agent": "handwerk-herbstein",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike- und Gravelbike-Verleih mit Bring- und Holservice sowie flexibler Pannenhilfe für Touristen und Tagesgäste. **WARUM HIER:** Schotten ist das zentrale Drehkreuz für den Hoherodskopf und den Vulkanradweg, doch vielen lokalen Pensionen und Ferienwohnungen fehlt ein eigenes Leihrad-Angebot für die hohe Nachfrage. **ERSTER SCHRITT:** P",
-      "ts": "2026-09-08 05:47"
+      "text": "**Betriebstyp:** Dachdecker- und Zimmereibetrieb (in Herbstein und den umliegenden Ortsteilen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer im Vogelsberg nach 'Dachsanierung Herbstein' googeln, landen sie derzeit bei der Konkurrenz aus Lauterbach – lassen Sie uns dafür sorgen, dass Sie auf Google Maps ganz oben stehen und die lukrative",
+      "ts": "2026-09-08 11:01"
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Gepäck-, Rückhol- und E-Bike-Pannenservice speziell für Tagestouristen und Etappenradler auf dem Vulkanradweg rund um Herbstein. **WARUM HIER:** Herbstein liegt ideal als Knotenpunkt am hochfrequentierten Vulkanradweg, bietet bisher aber kaum spontane Hilfe bei leeren Akkus, Platten oder schlechtem Wetter für strandende Radler. **ERSTER ",
+      "ts": "2026-09-08 11:01"
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-alsfeld",
+      "agent": "senioren-schotten",
       "via": "gemini",
-      "text": "**WAS:** Ein barrierefreier Nachbarschafts-Shuttle mit persönlicher Begleithilfe, der ältere Menschen aus den umliegenden Alsfelder Ortsteilen verlässlich für Marktbesuche, Apothekengänge und Arzttermine in die Kernstadt bringt. **WARUM HIER:** Da in den weitläufigen Vogelsberg-Dörfern rund um Alsfeld die Nahversorgung schwindet und der Busverkehr spärlich i",
-      "ts": "2026-09-08 05:47"
+      "text": "**WAS:** Ein dorfübergreifender Mobil- und Begleitdienst, der ältere Menschen aus den einzelnen Ortsteilen verlässlich bei Einkäufen, Arztbesuchen oder sozialen Treffpunkten unterstützt und begleitet. **WARUM HIER:** Schotten umfasst 15 weit verstreute Dörfer im Vogelsberg, in denen der öffentliche Nahverkehr oft dünn ist und Senioren ohne eigenes Auto sonst",
+      "ts": "2026-09-08 11:01"
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-alsfeld",
+      "agent": "tourismus-schotten",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Märchenhaftes Fachwerk & Vulkan-Kulinarik“ kombiniert eine exklusive Abendführung durch die historische Altstadt von Alsfeld mit einem privaten Besuch im Märchenhaus und einem regionalen 3-Gänge-Menü in einem traditionellen Fachwerk-Wirtshaus. **fuer WEN:** Dieses Angebot richtet sich an Paare, Genussreisende und Kulturfans, die ",
-      "ts": "2026-09-08 05:46"
+      "text": "**WAS:** Ein geführtes Abend-Erlebnis am Hoherodskopf mit einer kleinen Dämmerungswanderung über alte Vulkanfelsen, spannenden Mythen der Region und einem gefüllten Picknickkorb voller Vogelsberger Spezialitäten. **fuer WEN:** Perfekt für Paare, Naturgenießer und kleine Freundesgruppen, die einen entschleunigten Abend mit Aussicht, Romantik und regionalem Ge",
+      "ts": "2026-09-08 11:00"
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-alsfeld",
+      "agent": "direkt-schotten",
       "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit frischem Brot, Ahler Wurscht, Hofkäse und Saison-Gemüse, die freitags direkt am Alsfelder Bahnhof zur Abholung bereitsteht. **FÜR WEN:** Für Pendler und vielbeschäftigte Familien aus Alsfeld und den umliegenden Dörfern, die nach der Arbeit ohne Stress ehrliche, regionale",
-      "ts": "2026-09-08 05:46"
+      "text": "**WAS:** Der „Vogelsberger Brotzeit-Rucksack“ – ein leihbarer Wanderrucksack, vollgepackt mit regionaler Hausmacher-Wurst, Vogelsberger Käse, frischem Bauernbrot und Apfelwein direkt von Erzeugern rund um Schotten. **für WEN:** Für Tagesausflügler aus dem Rhein-Main-Gebiet und einheimische Wanderer, die auf den Wegen rund um den Hoherodskopf oder den Niddast",
+      "ts": "2026-09-08 11:00"
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-alsfeld",
+      "agent": "handwerk-schotten",
       "via": "gemini",
-      "text": "**Betriebstyp:** Dachdeckerbetrieb in Alsfeld (besonders relevant wegen Sturmschäden, Altbausanierungen im Fachwerk-Bestand und Photovoltaik-Montagen). **Ansprache-Idee:** „Hallo Herr [Name], wenn Immobilienbesitzer in und um Alsfeld nach einer Dachsanierung oder Sturmschaden-Reparatur suchen, finden sie aktuell zuerst Ihre Mitbewerber auf Google – wollen wi",
-      "ts": "2026-09-08 05:46"
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-alsfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler FeWo-Servicedienst, der privaten Eigentümern in der Alsfelder Altstadt Reinigung, Schlüsselübergabe und die Gästebetreuung für historische Ferienunterkünfte abnimmt. **WARUM HIER:** Alsfeld boomt als Fachwerk-Kulturstadt im Vogelsberg, aber viele ältere oder auswärtige Immobilieneigentümer lassen aus Mangel an Zeit und Kapazität vor Ort ",
-      "ts": "2026-09-08 05:46"
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbaubetrieb** in Schotten. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn im Vogelsberg die Heizung streikt oder jemand eine Wärmepumpe sucht, greift man heute zum Smartphone – sorgen wir dafür, dass die Schottener dann Ihre Nummer wählen und nicht den teuren Notdienst aus Gießen oder Fulda.“",
+      "ts": "2026-09-08 11:00"
     },
     {
       "dept": "Recherche",
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-08 05:46"
+      "ts": "2026-09-08 11:00"
     },
     {
       "dept": "Kunden",
       "agent": "senioren-lauterbach",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
-      "ts": "2026-09-08 05:46"
+      "ts": "2026-09-08 11:00"
     },
     {
       "dept": "Kunden",
       "agent": "kunden-faq",
       "via": "gemini",
       "text": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote schreibst oder zusätzliche Funktionen benötigst, kannst du jederzeit auf den kostenpflichtigen Pro-Tarif wechseln. **2. Kann ich mein",
-      "ts": "2026-09-08 05:46"
+      "ts": "2026-09-08 11:00"
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-alsfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein barrierefreier Nachbarschafts-Shuttle mit persönlicher Begleithilfe, der ältere Menschen aus den umliegenden Alsfelder Ortsteilen verlässlich für Marktbesuche, Apothekengänge und Arzttermine in die Kernstadt bringt. **WARUM HIER:** Da in den weitläufigen Vogelsberg-Dörfern rund um Alsfeld die Nahversorgung schwindet und der Busverkehr spärlich i",
+      "ts": "2026-09-08 11:00"
     },
     {
       "dept": "Kommando",
       "agent": "kommando-digest",
       "via": "gemini",
       "text": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top",
-      "ts": "2026-09-08 05:46"
+      "ts": "2026-09-08 11:00"
     },
     {
       "dept": "Finanzen",
       "agent": "finanzen-check",
       "via": "gemini",
       "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **",
-      "ts": "2026-09-08 05:46"
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-lauterbach",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer in Lauterbach **Ansprache-Idee:** „Wenn Lauterbacher auf dem Smartphone nach einer neuen Wärmepumpe oder einem Notdienst suchen, landen sie aktuell bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass Ihr Betrieb auf Platz 1 steht?“",
-      "ts": "2026-09-08 05:46"
+      "ts": "2026-09-08 11:00"
     }
   ]
 }
