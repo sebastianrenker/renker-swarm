@@ -104,6 +104,13 @@ def run_cycle(verbose=True):
             break
         system = a.get("system", "Du bist ein praeziser, ehrlicher Arbeits-Agent.")
         task = a.get("task", "")
+        # cross-run memory: let the agent build on its own last result instead of repeating
+        prev = OUT / f"{a['id']}-latest.md"
+        if prev.exists():
+            body = prev.read_text(encoding="utf-8").split("\n\n", 1)[-1].strip()
+            if body:
+                task += ("\n\nDEIN LETZTES ERGEBNIS (baue darauf auf oder liefere klar etwas "
+                         "Neues — wiederhole dich nicht):\n" + body[:600])
         text, prov = router.call(
             system, task, timeout=cfg.get("request_timeout_seconds", 60))
         if not text:
@@ -184,6 +191,19 @@ def write_dashboard_data(roster, state, cfg):
     docs.mkdir(exist_ok=True)
     (docs / "data.json").write_text(
         json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    # human-readable board (Memory surface) — latest result per department
+    board = ["# Renker Swarm — Board", "",
+             f"Stand: {data['updated']} · {data['agents_total']} Agenten · "
+             f"{data['worked']} mit Ergebnis · Budget {data['budget']['used']}/{data['budget']['cap']}", ""]
+    for d in data["departments"]:
+        board.append(f"## {d['id']} — {d['count']} Agenten")
+        lb = d.get("latest")
+        board.append(f"- {lb['text']}  _(via {lb['via']}, vor {lb['age_min']} min)_" if lb
+                     else "- _(noch kein Ergebnis — laeuft im naechsten Zyklus)_")
+        board.append("")
+    OUT.mkdir(exist_ok=True)
+    (OUT / "INDEX.md").write_text("\n".join(board), encoding="utf-8")
 
 
 def _write_output(a, text, provider):

@@ -6,11 +6,10 @@ name: renker-swarm
 # push re-arms them.
 on:
   schedule:
-    # Every 30 min. On a PRIVATE repo GitHub gives 2000 free Action-minutes/month;
-    # ~48 runs/day x ~1 min stays within that (if it ever runs out, GitHub just
-    # pauses — it never bills a free account). Want faster / unlimited? Make the
-    # repo public (unlimited Action minutes) or lower this interval.
-    - cron: "*/30 * * * *"
+    # Every 15 min — the repo is public, so GitHub Action minutes are unlimited
+    # and free. This keeps the swarm "always running". (GitHub's cron minimum is
+    # 5 min; scheduled runs can be delayed a little under load.)
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}          # + a manual "Run workflow" button
 
 permissions:
