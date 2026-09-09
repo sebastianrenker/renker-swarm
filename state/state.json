@@ -1,6 +1,6 @@
 {
   "day": "2026-09-09",
-  "calls_today": 2,
+  "calls_today": 8,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -31,6 +31,12 @@
     "biz-handwerk": 1788904932.1526723,
     "biz-vogelsbergbox": 1788904942.1046898,
     "biz-terminki": 1788912807.2850952,
-    "biz-board": 1788929063.346809
+    "biz-board": 1788929063.346809,
+    "direkt-herbstein": 1788983739.9532661,
+    "tourismus-herbstein": 1788983745.8043709,
+    "senioren-herbstein": 1788983769.500239,
+    "chancen-grebenhain": 1788983785.5598538,
+    "handwerk-grebenhain": 1788983790.2018218,
+    "direkt-grebenhain": 1788983796.7760842
   }
 }

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-09T17:20Z",
+  "updated": "2026-09-09T19:56Z",
   "agents_total": 162,
-  "worked": 30,
+  "worked": 36,
   "departments": [
     {
       "id": "Kommando",
@@ -9,7 +9,7 @@
       "latest": {
         "via": "gemini",
         "text": "Hier ist der Lagebericht für diese Woche: * **Offerta:** **Stand:** Stabil im Betrieb | **Nächster Hebel:** Händler-Onboarding automatisieren, um Marge ohne zusätzlichen Aufwand zu steigern. * **Handwerk-Sichtbar:** **Stand:** Hohe Nachfrage, Kapazitätsgrenze nah | **Nächster Hebel:** Fulfillment-Prozesse standardisieren, um Sales wieder aufzudrehen. * **Vog",
-        "age_min": 0
+        "age_min": 1
       }
     },
     {
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbauer in Lauterbach **Ansprache-Idee:** „Wenn Lauterbacher auf dem Smartphone nach einer neuen Wärmepumpe oder einem Notdienst suchen, landen sie aktuell bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass Ihr Betrieb auf Platz 1 steht?“",
+        "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Abo-Paket mit ehrlichen Hofprodukten wie Ahler Wurscht, Dorfkäse, Holzofenbrot und Saison-Gemüse, das flexibel an einer rund um die Uhr zugänglichen SB-Station in Grebenhain abgeholt werden kann. **für WEN:** Für beschäftigte Familien aus der Region, Pendler und Wochenend-Ausflügler, die heim",
         "age_min": 0
       }
     },
@@ -27,7 +27,7 @@
       "latest": {
         "via": "gemini",
         "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-        "age_min": 0
+        "age_min": 1
       }
     },
     {
@@ -36,7 +36,7 @@
       "latest": {
         "via": "gemini",
         "text": "Hier ist ein frischer, punktgenauer Entwurf für deine Hero-Sektion: *** # Mehr Wunschkunden aus dem Vogelsberg. Wir machen Ihr Handwerk digital sichtbar. Werden Sie in Ihrer Region endlich online gefunden – ganz ohne eigenen IT-Stress. So sichern Sie sich mühelos die besten Aufträge und neue Mitarbeiter direkt aus der Heimat. [ **Jetzt Erstgespräch sichern**",
-        "age_min": 0
+        "age_min": 1
       }
     },
     {
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
+        "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst holt Senioren direkt an ihrer Haustür in den Ortsteilen ab, unterstützt sie respektvoll beim Einkauf sowie bei Arztbesuchen und bringt sie sicher wieder nach Hause. **WARUM HIER:** In den weit verstreuten Dörfern rund um Herbstein fehlen oft Geschäfte vor Ort, sodass verlässliche Mobilität im hügeligen Vogel",
         "age_min": 0
       }
     },
@@ -54,7 +54,7 @@
       "latest": {
         "via": "gemini",
         "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **",
-        "age_min": 0
+        "age_min": 1
       }
     }
   ],
@@ -66,7 +66,7 @@
       "iv": 720,
       "out": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "chancen-vogelsberg",
@@ -75,7 +75,7 @@
       "iv": 360,
       "out": "**WAS:** Ein privater Bündelungs- und Auslieferdienst für Vogelsberger Direktvermarkter, der regionale Lebensmittel auf festen Routen direkt an lokale Gastronomiebetriebe, Seniorenheime und Dorfläden zustellt. **WARUM HI",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "chancen-fulda",
@@ -84,7 +84,7 @@
       "iv": 360,
       "out": "**WAS:** Ein schlanker B2B-Vermittlungs- und Umsetzungsdienst, der pragmatische KI- und KI-gestützte Automatisierungsprojekte für den traditionellen Fuldaer Mittelstand durch qualifizierte Studierende der Hochschule Fuld",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "recherche-wettbewerb",
@@ -93,7 +93,7 @@
       "iv": 480,
       "out": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpr",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "bau-landing-copy",
@@ -102,7 +102,7 @@
       "iv": 600,
       "out": "Hier ist ein frischer, punktgenauer Entwurf für deine Hero-Sektion: *** # Mehr Wunschkunden aus dem Vogelsberg. Wir machen Ihr Handwerk digital sichtbar. Werden Sie in Ihrer Region endlich online gefunden – ganz ohne eig",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "kunden-faq",
@@ -111,7 +111,7 @@
       "iv": 720,
       "out": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr An",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "finanzen-check",
@@ -120,7 +120,7 @@
       "iv": 1440,
       "out": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerr",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "wachstum-offerta",
@@ -129,7 +129,7 @@
       "iv": 720,
       "out": "**IDEE:** Der „Template-Klon-Link“ in der Fußzeile. Statt eines generischen „Erstellt mit Offerta“-Links lautet der Text in der Fußzeile (PDF & Web-Ansicht): *„Gefällt dir dieses Angebots-Design? Klicke hier, um dieses T",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "biz-offerta",
@@ -138,7 +138,7 @@
       "iv": 360,
       "out": "**SCHRITT:** Ein dezent unaufdringliches, aber klickbares Branding („Kostenlos erstellt mit Offerta.de“) in die Fußzeile aller exportierten Free-PDFs einbauen. **WARUM JETZT:** Wir haben noch kein Budget für bezahlte Wer",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "biz-handwerk",
@@ -147,7 +147,7 @@
       "iv": 360,
       "out": "Hallo Herr [Name], als Dachdecker in Lauterbach haben Sie sicher genug auf den Dächern zu tun, aber immer mehr Hausbesitzer suchen ihre Handwerker heute direkt auf dem Smartphone. Mir ist aufgefallen, dass Ihr Betrieb be",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "biz-vogelsbergbox",
@@ -156,7 +156,7 @@
       "iv": 720,
       "out": "**SCHRITT** Launch einer kostenlosen „Smoke-Test“-Landingpage (via Carrd.co oder Google Forms) für eine einmalige, limitierte **„Vogelsberg Probier-Box“** (Preis: 29 €) auf Vorbestellung – ohne dass wir bisher Produkte a",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "biz-terminki",
@@ -165,7 +165,7 @@
       "iv": 720,
       "out": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "biz-board",
@@ -174,7 +174,7 @@
       "iv": 480,
       "out": "Hier ist der Lagebericht für diese Woche: * **Offerta:** **Stand:** Stabil im Betrieb | **Nächster Hebel:** Händler-Onboarding automatisieren, um Marge ohne zusätzlichen Aufwand zu steigern. * **Handwerk-Sichtbar:** **St",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "chancen-lauterbach",
@@ -183,7 +183,7 @@
       "iv": 1440,
       "out": "**WAS:** Ein mobiler E-Bike-Reparatur- und Wartungsservice, der kleine Reparaturen und Inspektionen direkt beim Kunden zu Hause oder als Pannendienst an der Strecke erledigt. **WARUM HIER:** Lauterbach liegt direkt am ho",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "handwerk-lauterbach",
@@ -192,7 +192,7 @@
       "iv": 1440,
       "out": "**Betriebstyp:** Sanitär- und Heizungsbauer in Lauterbach **Ansprache-Idee:** „Wenn Lauterbacher auf dem Smartphone nach einer neuen Wärmepumpe oder einem Notdienst suchen, landen sie aktuell bei der Konkurrenz aus Fulda",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "direkt-lauterbach",
@@ -201,7 +201,7 @@
       "iv": 2880,
       "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit passgenauen Zutaten und einfachen Rezepten aus Lauterbacher Hofprodukten – vom regionalen Weiderind über Kartoffeln bis zum Hofkäse – für schnelle, eh",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "tourismus-lauterbach",
@@ -210,7 +210,7 @@
       "iv": 2880,
       "out": "**WAS:** Bei der \"Lauterbacher Strolche-Tour\" erleben Sie eine geführte Dämmerungswanderung über die berühmten Schrittsteine der Lauter mit anschließender Craft-Beer-Verkostung und regionalem Vulkan-Picknick im Park von ",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "senioren-lauterbach",
@@ -219,7 +219,7 @@
       "iv": 2880,
       "out": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "chancen-alsfeld",
@@ -228,7 +228,7 @@
       "iv": 1440,
       "out": "**WAS:** Ein mobiler FeWo-Servicedienst, der privaten Eigentümern in der Alsfelder Altstadt Reinigung, Schlüsselübergabe und die Gästebetreuung für historische Ferienunterkünfte abnimmt. **WARUM HIER:** Alsfeld boomt als",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "handwerk-alsfeld",
@@ -237,7 +237,7 @@
       "iv": 1440,
       "out": "**Betriebstyp:** Dachdeckerbetrieb in Alsfeld (besonders relevant wegen Sturmschäden, Altbausanierungen im Fachwerk-Bestand und Photovoltaik-Montagen). **Ansprache-Idee:** „Hallo Herr [Name], wenn Immobilienbesitzer in u",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "direkt-alsfeld",
@@ -246,7 +246,7 @@
       "iv": 2880,
       "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit frischem Brot, Ahler Wurscht, Hofkäse und Saison-Gemüse, die freitags direkt am Alsfelder Bahnhof zur Abholung bereitsteht. **FÜR W",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "tourismus-alsfeld",
@@ -255,7 +255,7 @@
       "iv": 2880,
       "out": "**WAS:** Das Erlebnis-Paket „Märchenhaftes Fachwerk & Vulkan-Kulinarik“ kombiniert eine exklusive Abendführung durch die historische Altstadt von Alsfeld mit einem privaten Besuch im Märchenhaus und einem regionalen 3-Gä",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "senioren-alsfeld",
@@ -264,7 +264,7 @@
       "iv": 2880,
       "out": "**WAS:** Ein barrierefreier Nachbarschafts-Shuttle mit persönlicher Begleithilfe, der ältere Menschen aus den umliegenden Alsfelder Ortsteilen verlässlich für Marktbesuche, Apothekengänge und Arzttermine in die Kernstadt",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "chancen-schotten",
@@ -273,7 +273,7 @@
       "iv": 1440,
       "out": "**WAS:** Ein mobiler E-Bike- und Gravelbike-Verleih mit Bring- und Holservice sowie flexibler Pannenhilfe für Touristen und Tagesgäste. **WARUM HIER:** Schotten ist das zentrale Drehkreuz für den Hoherodskopf und den Vul",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "handwerk-schotten",
@@ -282,7 +282,7 @@
       "iv": 1440,
       "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbaubetrieb** in Schotten. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn im Vogelsberg die Heizung streikt oder jemand eine Wärmepumpe sucht, greift man heute zum Smartphone ",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "direkt-schotten",
@@ -291,7 +291,7 @@
       "iv": 2880,
       "out": "**WAS:** Der „Vogelsberger Brotzeit-Rucksack“ – ein leihbarer Wanderrucksack, vollgepackt mit regionaler Hausmacher-Wurst, Vogelsberger Käse, frischem Bauernbrot und Apfelwein direkt von Erzeugern rund um Schotten. **für",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "tourismus-schotten",
@@ -300,7 +300,7 @@
       "iv": 2880,
       "out": "**WAS:** Ein geführtes Abend-Erlebnis am Hoherodskopf mit einer kleinen Dämmerungswanderung über alte Vulkanfelsen, spannenden Mythen der Region und einem gefüllten Picknickkorb voller Vogelsberger Spezialitäten. **fuer ",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "senioren-schotten",
@@ -309,7 +309,7 @@
       "iv": 2880,
       "out": "**WAS:** Ein dorfübergreifender Mobil- und Begleitdienst, der ältere Menschen aus den einzelnen Ortsteilen verlässlich bei Einkäufen, Arztbesuchen oder sozialen Treffpunkten unterstützt und begleitet. **WARUM HIER:** Sch",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "chancen-herbstein",
@@ -318,7 +318,7 @@
       "iv": 1440,
       "out": "**WAS:** Ein mobiler Gepäck-, Rückhol- und E-Bike-Pannenservice speziell für Tagestouristen und Etappenradler auf dem Vulkanradweg rund um Herbstein. **WARUM HIER:** Herbstein liegt ideal als Knotenpunkt am hochfrequenti",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "handwerk-herbstein",
@@ -327,61 +327,61 @@
       "iv": 1440,
       "out": "**Betriebstyp:** Dachdecker- und Zimmereibetrieb (in Herbstein und den umliegenden Ortsteilen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer im Vogelsberg nach 'Dachsanierung Herbstein' googeln, lan",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "direkt-herbstein",
       "name": "Direktvermarktung — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein wöchentliches „Vogelsberger Vesper-Abo“ in einer Mehrwegkiste, vollgepackt mit frischem Bauernbrot, hausmacher Wurst oder Käse, saisonalem Wurzelgemüse und Eiern von Höfen direkt aus der Umgebung. **für WEN:",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-herbstein",
       "name": "Vulkanregion-Tourismus — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Vulkan-Entspannung & Basalt-Magie“ kombiniert eine geführte Dämmerungswanderung entlang der historischen Stadtmauer Herbsteins mit einem anschließenden dreistündigen Wellness-Aufenthalt im he",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-herbstein",
       "name": "Senioren-Alltagsdienste — Herbstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst holt Senioren direkt an ihrer Haustür in den Ortsteilen ab, unterstützt sie respektvoll beim Einkauf sowie bei Arztbesuchen und bringt sie sicher wieder nach Hause. **WA",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grebenhain",
       "name": "Chancen-Scout — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike-Pannendienst und Wartungsservice auf Abruf für Ausflügler und Anwohner. **WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, verfügt aber über keine direkte Fahrradwer",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grebenhain",
       "name": "Handwerk-Sichtbarkeit — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsinstallateur in Grebenhain (mit Fokus auf Wärmepumpen und Badsanierung). **Ansprache-Idee:** „Hallo Herr [Name], immer mehr Hausbesitzer im Vogelsberg suchen online nach modernen Hei",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-grebenhain",
       "name": "Direktvermarktung — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Abo-Paket mit ehrlichen Hofprodukten wie Ahler Wurscht, Dorfkäse, Holzofenbrot und Saison-Gemüse, das flexibel an einer rund um die Uhr zugänglichen SB-S",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-grebenhain",
@@ -1519,105 +1519,105 @@
     }
   ],
   "budget": {
-    "used": 2,
+    "used": 8,
     "cap": 600
   },
   "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-grebenhain",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Abo-Paket mit ehrlichen Hofprodukten wie Ahler Wurscht, Dorfkäse, Holzofenbrot und Saison-Gemüse, das flexibel an einer rund um die Uhr zugänglichen SB-Station in Grebenhain abgeholt werden kann. **für WEN:** Für beschäftigte Familien aus der Region, Pendler und Wochenend-Ausflügler, die heim",
+      "ts": "2026-09-09 19:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grebenhain",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsinstallateur in Grebenhain (mit Fokus auf Wärmepumpen und Badsanierung). **Ansprache-Idee:** „Hallo Herr [Name], immer mehr Hausbesitzer im Vogelsberg suchen online nach modernen Heizungen – sorgen wir dafür, dass die Anfragen direkt bei Ihnen in Grebenhain landen und nicht beim Großbetrieb aus Fulda.“",
+      "ts": "2026-09-09 19:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-grebenhain",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannendienst und Wartungsservice auf Abruf für Ausflügler und Anwohner. **WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, verfügt aber über keine direkte Fahrradwerkstatt vor Ort, wenn unterwegs die Kette reißt oder der Akku streikt. **ERSTER SCHRITT:** Rüste einen eigenen Kombi mit Basis-Werkzeug sowie",
+      "ts": "2026-09-09 19:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst holt Senioren direkt an ihrer Haustür in den Ortsteilen ab, unterstützt sie respektvoll beim Einkauf sowie bei Arztbesuchen und bringt sie sicher wieder nach Hause. **WARUM HIER:** In den weit verstreuten Dörfern rund um Herbstein fehlen oft Geschäfte vor Ort, sodass verlässliche Mobilität im hügeligen Vogel",
+      "ts": "2026-09-09 19:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Entspannung & Basalt-Magie“ kombiniert eine geführte Dämmerungswanderung entlang der historischen Stadtmauer Herbsteins mit einem anschließenden dreistündigen Wellness-Aufenthalt im heilenden Thermalwasser der VulkanTherme. **FÜR WEN:** Dieses Angebot eignet sich ideal für erholungssuchende Paare und Aktivgenießer, die kle",
+      "ts": "2026-09-09 19:55",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein wöchentliches „Vogelsberger Vesper-Abo“ in einer Mehrwegkiste, vollgepackt mit frischem Bauernbrot, hausmacher Wurst oder Käse, saisonalem Wurzelgemüse und Eiern von Höfen direkt aus der Umgebung. **für WEN:** Für beschäftigte Familien, Senioren und Pendler aus Herbstein und den Ortsteilen, die ehrliche Landprodukte schätzen, aber unter der Woch",
+      "ts": "2026-09-09 19:55",
+      "age_min": 0
+    },
     {
       "dept": "Recherche",
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
+      "ts": "2026-09-09 19:55",
+      "age_min": 1
     },
     {
       "dept": "Kunden",
       "agent": "biz-terminki",
       "via": "gemini",
       "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
+      "ts": "2026-09-09 19:55",
+      "age_min": 1
     },
     {
       "dept": "Kunden",
       "agent": "senioren-lauterbach",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
+      "ts": "2026-09-09 19:55",
+      "age_min": 1
     },
     {
       "dept": "Kunden",
       "agent": "kunden-faq",
       "via": "gemini",
       "text": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote schreibst oder zusätzliche Funktionen benötigst, kannst du jederzeit auf den kostenpflichtigen Pro-Tarif wechseln. **2. Kann ich mein",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
+      "ts": "2026-09-09 19:55",
+      "age_min": 1
     },
     {
       "dept": "Kunden",
       "agent": "senioren-alsfeld",
       "via": "gemini",
       "text": "**WAS:** Ein barrierefreier Nachbarschafts-Shuttle mit persönlicher Begleithilfe, der ältere Menschen aus den umliegenden Alsfelder Ortsteilen verlässlich für Marktbesuche, Apothekengänge und Arzttermine in die Kernstadt bringt. **WARUM HIER:** Da in den weitläufigen Vogelsberg-Dörfern rund um Alsfeld die Nahversorgung schwindet und der Busverkehr spärlich i",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
+      "ts": "2026-09-09 19:55",
+      "age_min": 1
     },
     {
       "dept": "Kunden",
       "agent": "senioren-schotten",
       "via": "gemini",
       "text": "**WAS:** Ein dorfübergreifender Mobil- und Begleitdienst, der ältere Menschen aus den einzelnen Ortsteilen verlässlich bei Einkäufen, Arztbesuchen oder sozialen Treffpunkten unterstützt und begleitet. **WARUM HIER:** Schotten umfasst 15 weit verstreute Dörfer im Vogelsberg, in denen der öffentliche Nahverkehr oft dünn ist und Senioren ohne eigenes Auto sonst",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
-    },
-    {
-      "dept": "Kommando",
-      "agent": "biz-board",
-      "via": "gemini",
-      "text": "Hier ist der Lagebericht für diese Woche: * **Offerta:** **Stand:** Stabil im Betrieb | **Nächster Hebel:** Händler-Onboarding automatisieren, um Marge ohne zusätzlichen Aufwand zu steigern. * **Handwerk-Sichtbar:** **Stand:** Hohe Nachfrage, Kapazitätsgrenze nah | **Nächster Hebel:** Fulfillment-Prozesse standardisieren, um Sales wieder aufzudrehen. * **Vog",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
-    },
-    {
-      "dept": "Kommando",
-      "agent": "kommando-digest",
-      "via": "gemini",
-      "text": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
-    },
-    {
-      "dept": "Finanzen",
-      "agent": "finanzen-check",
-      "via": "gemini",
-      "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-lauterbach",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer in Lauterbach **Ansprache-Idee:** „Wenn Lauterbacher auf dem Smartphone nach einer neuen Wärmepumpe oder einem Notdienst suchen, landen sie aktuell bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass Ihr Betrieb auf Platz 1 steht?“",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-schotten",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbaubetrieb** in Schotten. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn im Vogelsberg die Heizung streikt oder jemand eine Wärmepumpe sucht, greift man heute zum Smartphone – sorgen wir dafür, dass die Schottener dann Ihre Nummer wählen und nicht den teuren Notdienst aus Gießen oder Fulda.“",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-schotten",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike- und Gravelbike-Verleih mit Bring- und Holservice sowie flexibler Pannenhilfe für Touristen und Tagesgäste. **WARUM HIER:** Schotten ist das zentrale Drehkreuz für den Hoherodskopf und den Vulkanradweg, doch vielen lokalen Pensionen und Ferienwohnungen fehlt ein eigenes Leihrad-Angebot für die hohe Nachfrage. **ERSTER SCHRITT:** P",
-      "ts": "2026-09-09 17:19",
-      "age_min": 0
+      "ts": "2026-09-09 19:55",
+      "age_min": 1
     }
   ]
 }
