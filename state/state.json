@@ -1,6 +1,6 @@
 {
   "day": "2026-09-10",
-  "calls_today": 13,
+  "calls_today": 14,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -56,6 +56,7 @@
     "tourismus-muecke": 1789033368.1803315,
     "senioren-muecke": 1789033374.294205,
     "chancen-romrod": 1789033383.2086864,
-    "handwerk-romrod": 1789033399.0303564
+    "handwerk-romrod": 1789033399.0303564,
+    "direkt-romrod": 1789048212.203705
   }
 }
