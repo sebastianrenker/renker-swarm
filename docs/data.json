@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-10T17:28Z",
+  "updated": "2026-09-10T19:58Z",
   "agents_total": 162,
-  "worked": 59,
+  "worked": 64,
   "departments": [
     {
       "id": "Kommando",
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Hallo Herr [Name], wenn im Feldatal die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, finden die Leute auf dem Smartphone aktuell meistens zuerst Betriebe aus Alsfeld oder Lauterbach – lassen Sie uns dafür sorgen, dass Ihre Nummer ganz oben steht und die Aufträge hier bei",
+        "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Wenn in Gemünden oder den Ortsteilen die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass die Aufträge direkt bei Ihnen im Vogelsberg landen und nicht beim Großbetrieb aus Gießen oder Alsfeld.“",
         "age_min": 0
       }
     },
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher „Dorf-Fahr- und Besorgungsdienst“, der ältere Menschen aus den Ortsteilen flexibel zu Terminen, Einkäufen oder Apotheken nach Romrod bringt und sie auf Wunsch aufmerksam begleitet. **WARUM HIER:** Da in den ländlich verstreuten Ortsteilen von Romrod die Geschäfte des täglichen Bedarfs fehlen, sichert dieses mobile Angebot die Eigen",
+        "text": "**WAS:** Der Dienst „Feldataler Dorf-Express“ bietet älteren Menschen eine würdevolle Begleitung bei Fahrten zu Ärzten und Einkäufen sowie praktische Hilfe bei alltäglichen Erledigungen direkt an der eigenen Haustür. **WARUM HIER:** In den sieben weit verstreuten Ortsteilen von Feldatal sichert dieses flexible Angebot die Eigenständigkeit und soziale Teilhab",
         "age_min": 0
       }
     },
@@ -568,9 +568,9 @@
       "name": "Vulkanregion-Tourismus — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erleben Sie eine abendliche Fackelwanderung rund um das historische Schloss Romrod mit anschließendem regionalen Gourmet-Picknick im Schlosspark. **für WEN:** Dieses Paket ist ideal für Paare und Genießer, die e",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "senioren-romrod",
@@ -579,7 +579,7 @@
       "iv": 2880,
       "out": "**WAS:** Ein verlässlicher „Dorf-Fahr- und Besorgungsdienst“, der ältere Menschen aus den Ortsteilen flexibel zu Terminen, Einkäufen oder Apotheken nach Romrod bringt und sie auf Wunsch aufmerksam begleitet. **WARUM HIER",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "chancen-feldatal",
@@ -588,7 +588,7 @@
       "iv": 1440,
       "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Picknick-Service („Sagen-Rast“), der Wochenend-Ausflügler entlang der Wander- und Radrouten mit Akku-Ladestationen, Werkzeug und regionalen Vogelsberger Brotzeiten versorgt. **WARU",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "handwerk-feldatal",
@@ -597,7 +597,7 @@
       "iv": 1440,
       "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Hallo Herr [Name], wenn im Feldatal die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, finden die Leute auf dem Smartphone aktuell me",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "direkt-feldatal",
@@ -613,36 +613,36 @@
       "name": "Vulkanregion-Tourismus — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein entschleunigendes Alpaka-Trekking durch das malerische Feldatal mit anschließendem regionalen Picknickkorb an einer historischen Mühle. **für WEN:** Dieses Angebot richtet sich an Paare, Genießer und kleine ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-feldatal",
       "name": "Senioren-Alltagsdienste — Feldatal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der Dienst „Feldataler Dorf-Express“ bietet älteren Menschen eine würdevolle Begleitung bei Fahrten zu Ärzten und Einkäufen sowie praktische Hilfe bei alltäglichen Erledigungen direkt an der eigenen Haustür. **W",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-gemuenden-felda",
       "name": "Chancen-Scout — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein schlanker, mobiler Alltags- und Hausmeisterservice (Gartenpflege, Kleinreparaturen, Fahrtdienste) speziell für Senioren in den Gemündener Ortsteilen. **WARUM HIER** In den sieben verstreuten Ortsteilen leben ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-gemuenden-felda",
       "name": "Handwerk-Sichtbarkeit — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Wenn in Gemünden oder den Ortsteilen die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute zuerst auf dem Smartphone – sorgen",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-gemuenden-felda",
@@ -1519,40 +1519,56 @@
     }
   ],
   "budget": {
-    "used": 17,
+    "used": 22,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-feldatal",
+      "agent": "handwerk-gemuenden-felda",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Hallo Herr [Name], wenn im Feldatal die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, finden die Leute auf dem Smartphone aktuell meistens zuerst Betriebe aus Alsfeld oder Lauterbach – lassen Sie uns dafür sorgen, dass Ihre Nummer ganz oben steht und die Aufträge hier bei",
-      "ts": "2026-09-10 17:28",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Wenn in Gemünden oder den Ortsteilen die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass die Aufträge direkt bei Ihnen im Vogelsberg landen und nicht beim Großbetrieb aus Gießen oder Alsfeld.“",
+      "ts": "2026-09-10 19:58",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-feldatal",
+      "agent": "chancen-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Picknick-Service („Sagen-Rast“), der Wochenend-Ausflügler entlang der Wander- und Radrouten mit Akku-Ladestationen, Werkzeug und regionalen Vogelsberger Brotzeiten versorgt. **WARUM HIER:** Feldatal zieht über den beliebten Feldataler Sagenweg viele Naturtouristen an, leidet aber gleichzeitig unter einer extrem dünnen ",
-      "ts": "2026-09-10 17:28",
+      "text": "**WAS** Ein schlanker, mobiler Alltags- und Hausmeisterservice (Gartenpflege, Kleinreparaturen, Fahrtdienste) speziell für Senioren in den Gemündener Ortsteilen. **WARUM HIER** In den sieben verstreuten Ortsteilen leben viele ältere Eigenheimbesitzer, denen es an lokalen Handwerkern für Kleinstaufträge und an nahen Ansprechpartnern für den Alltag fehlt. **ER",
+      "ts": "2026-09-10 19:58",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-romrod",
+      "agent": "senioren-feldatal",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher „Dorf-Fahr- und Besorgungsdienst“, der ältere Menschen aus den Ortsteilen flexibel zu Terminen, Einkäufen oder Apotheken nach Romrod bringt und sie auf Wunsch aufmerksam begleitet. **WARUM HIER:** Da in den ländlich verstreuten Ortsteilen von Romrod die Geschäfte des täglichen Bedarfs fehlen, sichert dieses mobile Angebot die Eigen",
-      "ts": "2026-09-10 17:27",
+      "text": "**WAS:** Der Dienst „Feldataler Dorf-Express“ bietet älteren Menschen eine würdevolle Begleitung bei Fahrten zu Ärzten und Einkäufen sowie praktische Hilfe bei alltäglichen Erledigungen direkt an der eigenen Haustür. **WARUM HIER:** In den sieben weit verstreuten Ortsteilen von Feldatal sichert dieses flexible Angebot die Eigenständigkeit und soziale Teilhab",
+      "ts": "2026-09-10 19:58",
       "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-feldatal",
+      "via": "gemini",
+      "text": "**WAS:** Ein entschleunigendes Alpaka-Trekking durch das malerische Feldatal mit anschließendem regionalen Picknickkorb an einer historischen Mühle. **für WEN:** Dieses Angebot richtet sich an Paare, Genießer und kleine Familien, die eine entspannte Auszeit in der Natur mit regionalem Kulinarik-Genuss verbinden möchten. **ERSTER SCHRITT:** Besuche unsere Buc",
+      "ts": "2026-09-10 19:57",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-romrod",
+      "via": "gemini",
+      "text": "**WAS:** Erleben Sie eine abendliche Fackelwanderung rund um das historische Schloss Romrod mit anschließendem regionalen Gourmet-Picknick im Schlosspark. **für WEN:** Dieses Paket ist ideal für Paare und Genießer, die eine romantische und stilvolle Auszeit im Vogelsberg suchen. **ERSTER SCHRITT:** Besuchen Sie unsere Website, wählen Sie Ihren Wunschtermin a",
+      "ts": "2026-09-10 19:56",
+      "age_min": 1
     },
     {
       "dept": "Recherche",
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-10 17:26",
+      "ts": "2026-09-10 19:56",
       "age_min": 1
     },
     {
@@ -1560,7 +1576,7 @@
       "agent": "senioren-muecke",
       "via": "gemini",
       "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der ältere Menschen aus allen Ortsteilen direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen begleitet und Zeit für persönliche Gespräche mitbringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht, bewahrt dieser Dienst die Selbstständigkeit der Seniorinnen und Senioren",
-      "ts": "2026-09-10 17:26",
+      "ts": "2026-09-10 19:56",
       "age_min": 1
     },
     {
@@ -1568,7 +1584,7 @@
       "agent": "senioren-homberg-ohm",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begleitet. **WARUM HIER:** Homberg (Ohm) besteht aus 14 weit auseinanderliegenden Ortsteilen mit steilen Wegen und ausgedünntem Busverkehr, wodur",
-      "ts": "2026-09-10 17:26",
+      "ts": "2026-09-10 19:56",
       "age_min": 1
     },
     {
@@ -1576,7 +1592,7 @@
       "agent": "biz-terminki",
       "via": "gemini",
       "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
-      "ts": "2026-09-10 17:26",
+      "ts": "2026-09-10 19:56",
       "age_min": 1
     },
     {
@@ -1584,7 +1600,7 @@
       "agent": "senioren-lauterbach",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
-      "ts": "2026-09-10 17:26",
+      "ts": "2026-09-10 19:56",
       "age_min": 1
     },
     {
@@ -1592,7 +1608,7 @@
       "agent": "senioren-grebenhain",
       "via": "gemini",
       "text": "**WAS:** Der „Grebenhainer Dorfbegleiter“ ist ein verlässlicher, barrierefreier Abhol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Besorgungen, Arztbesuche und soziale Kontakte im Hauptort auf Augenhöhe zu ermöglichen. **WARUM HIER:** Durch die Verteilung der Gemeinde auf 15 weit verstreute Ortsteile im hügeligen Vogelsberg sind",
-      "ts": "2026-09-10 17:26",
+      "ts": "2026-09-10 19:56",
       "age_min": 1
     },
     {
@@ -1600,23 +1616,7 @@
       "agent": "kunden-faq",
       "via": "gemini",
       "text": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote schreibst oder zusätzliche Funktionen benötigst, kannst du jederzeit auf den kostenpflichtigen Pro-Tarif wechseln. **2. Kann ich mein",
-      "ts": "2026-09-10 17:26",
-      "age_min": 1
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Der „Kirtorfer Alltags-Begleitdienst“ ist ein mobiler Service, der ältere Menschen aus den einzelnen Ortsteilen zu Einkäufen, Arztterminen oder Dorfveranstaltungen begleitet und ihnen vor Ort helfend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Kirtorf fehlen oft eigene Einkaufsmöglichkeiten, weshalb eine verlässliche Wegb",
-      "ts": "2026-09-10 17:26",
-      "age_min": 1
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-alsfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein barrierefreier Nachbarschafts-Shuttle mit persönlicher Begleithilfe, der ältere Menschen aus den umliegenden Alsfelder Ortsteilen verlässlich für Marktbesuche, Apothekengänge und Arzttermine in die Kernstadt bringt. **WARUM HIER:** Da in den weitläufigen Vogelsberg-Dörfern rund um Alsfeld die Nahversorgung schwindet und der Busverkehr spärlich i",
-      "ts": "2026-09-10 17:26",
+      "ts": "2026-09-10 19:56",
       "age_min": 1
     }
   ]
