@@ -1,6 +1,6 @@
 {
-  "day": "2026-09-09",
-  "calls_today": 14,
+  "day": "2026-09-10",
+  "calls_today": 6,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -43,6 +43,12 @@
     "chancen-homberg-ohm": 1788991985.8649607,
     "handwerk-homberg-ohm": 1788991992.545957,
     "direkt-homberg-ohm": 1788991999.525814,
-    "tourismus-homberg-ohm": 1788992005.94854
+    "tourismus-homberg-ohm": 1788992005.94854,
+    "senioren-homberg-ohm": 1788999359.358618,
+    "chancen-kirtorf": 1788999368.0967915,
+    "handwerk-kirtorf": 1788999373.880209,
+    "direkt-kirtorf": 1788999382.498274,
+    "tourismus-kirtorf": 1788999393.182719,
+    "senioren-kirtorf": 1788999400.8435905
   }
 }

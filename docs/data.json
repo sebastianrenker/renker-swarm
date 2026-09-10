@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-09T22:13Z",
+  "updated": "2026-09-10T00:16Z",
   "agents_total": 162,
-  "worked": 42,
+  "worked": 48,
   "departments": [
     {
       "id": "Kommando",
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "Hier ist ein exklusives Erlebnis-Paket für Homberg (Ohm): **WAS:** Ein dreistündiges E-Bike-Erlebnis entlang der malerischen Ohm mit einem prall gefüllten Picknickkorb voller Vogelsberger Spezialitäten und reserviertem Aussichtsplatz im historischen Schlossgarten. **für WEN:** Perfekt für Paare, Genuss-Radler und kleine Freundesgruppen, die entspannte Bewegu",
+        "text": "**WAS:** Das Erlebnis-Paket „Kirtorfer Sagen- & Vulkan-Picknick“ bietet eine geführte Entdecker-Wanderung durch das malerische Gleental inklusive einer reich gefüllten Picknick-Tasche mit regionalen Spezialitäten und einem kleinen Kräutersalz-Workshop im Grünen. **FÜR WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und kleine Familien, die eine en",
         "age_min": 0
       }
     },
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Der „Grebenhainer Dorfbegleiter“ ist ein verlässlicher, barrierefreier Abhol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Besorgungen, Arztbesuche und soziale Kontakte im Hauptort auf Augenhöhe zu ermöglichen. **WARUM HIER:** Durch die Verteilung der Gemeinde auf 15 weit verstreute Ortsteile im hügeligen Vogelsberg sind",
+        "text": "**WAS:** Der „Kirtorfer Alltags-Begleitdienst“ ist ein mobiler Service, der ältere Menschen aus den einzelnen Ortsteilen zu Einkäufen, Arztterminen oder Dorfveranstaltungen begleitet und ihnen vor Ort helfend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Kirtorf fehlen oft eigene Einkaufsmöglichkeiten, weshalb eine verlässliche Wegb",
         "age_min": 0
       }
     },
@@ -442,54 +442,54 @@
       "name": "Senioren-Alltagsdienste — Homberg (Ohm)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begle",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-kirtorf",
       "name": "Chancen-Scout — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler „Dorf-Hausmeister“- und Gartenservice, der Kleinreparaturen, Grundstückspflege und Winterdienst auf Abo-Basis für Senioren in allen sieben Kirtorfer Ortsteilen anbietet. **WARUM HIER:** In Kirtorf le",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-kirtorf",
       "name": "Handwerk-Sichtbarkeit — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. für Badrenovierungen & Wärmepumpen-Einbau). **Ansprache-Idee:** „Hallo Herr [Name], wenn Kirtorfer nach einer neuen Heizung oder Badrenovierung googeln, landen sie akt",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-kirtorf",
       "name": "Direktvermarktung — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentlich wechselnde „Kirtorfer Feierabend-Kiste“ mit saisonalem Gemüse, heimischer Ahler Wurscht, frischen Eiern und einem einfachen Rezeptkarte-Vorschlag zur flexiblen 24/7-Abholung an einer gekühlten A",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-kirtorf",
       "name": "Vulkanregion-Tourismus — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Kirtorfer Sagen- & Vulkan-Picknick“ bietet eine geführte Entdecker-Wanderung durch das malerische Gleental inklusive einer reich gefüllten Picknick-Tasche mit regionalen Spezialitäten und ein",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-kirtorf",
       "name": "Senioren-Alltagsdienste — Kirtorf",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Kirtorfer Alltags-Begleitdienst“ ist ein mobiler Service, der ältere Menschen aus den einzelnen Ortsteilen zu Einkäufen, Arztterminen oder Dorfveranstaltungen begleitet und ihnen vor Ort helfend zur Seite s",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-muecke",
@@ -1519,56 +1519,56 @@
     }
   ],
   "budget": {
-    "used": 14,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-homberg-ohm",
+      "dept": "Kunden",
+      "agent": "senioren-kirtorf",
       "via": "gemini",
-      "text": "Hier ist ein exklusives Erlebnis-Paket für Homberg (Ohm): **WAS:** Ein dreistündiges E-Bike-Erlebnis entlang der malerischen Ohm mit einem prall gefüllten Picknickkorb voller Vogelsberger Spezialitäten und reserviertem Aussichtsplatz im historischen Schlossgarten. **für WEN:** Perfekt für Paare, Genuss-Radler und kleine Freundesgruppen, die entspannte Bewegu",
-      "ts": "2026-09-09 22:13",
+      "text": "**WAS:** Der „Kirtorfer Alltags-Begleitdienst“ ist ein mobiler Service, der ältere Menschen aus den einzelnen Ortsteilen zu Einkäufen, Arztterminen oder Dorfveranstaltungen begleitet und ihnen vor Ort helfend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Kirtorf fehlen oft eigene Einkaufsmöglichkeiten, weshalb eine verlässliche Wegb",
+      "ts": "2026-09-10 00:16",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-homberg-ohm",
+      "agent": "tourismus-kirtorf",
       "via": "gemini",
-      "text": "**WAS:** Die „Homberger Feierabend-Kiste“ ist ein wöchentliches Abo-Paket mit frischem Saison-Gemüse, Vogelsberger Landeiern und handfesten Hof-Spezialitäten, das freitags kontaktlos an einer zentralen Abholstation bereitsteht. **für WEN:** Für berufstätige Pendler und Familien aus Homberg und den Ortsteilen, die ohne Marktstress ehrliche, regionale Lebensmi",
-      "ts": "2026-09-09 22:13",
+      "text": "**WAS:** Das Erlebnis-Paket „Kirtorfer Sagen- & Vulkan-Picknick“ bietet eine geführte Entdecker-Wanderung durch das malerische Gleental inklusive einer reich gefüllten Picknick-Tasche mit regionalen Spezialitäten und einem kleinen Kräutersalz-Workshop im Grünen. **FÜR WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und kleine Familien, die eine en",
+      "ts": "2026-09-10 00:16",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-homberg-ohm",
+      "agent": "direkt-kirtorf",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb** (besonders relevant wegen des aktuellen Interesses an Wärmepumpen und Badsanierungen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Homberger auf dem Handy nach 'Heizung tauschen' oder 'Bad sanieren' suchen, landen sie aktuell bei Betrieben aus Alsfeld oder Marburg – wollen wir dafür s",
-      "ts": "2026-09-09 22:13",
+      "text": "**WAS:** Eine wöchentlich wechselnde „Kirtorfer Feierabend-Kiste“ mit saisonalem Gemüse, heimischer Ahler Wurscht, frischen Eiern und einem einfachen Rezeptkarte-Vorschlag zur flexiblen 24/7-Abholung an einer gekühlten Abholstation im Ort. **FÜR WEN:** Für berufstätige Pendler und vielbeschäftigte Familien aus Kirtorf und den Ortsteilen, die Wert auf ehrlich",
+      "ts": "2026-09-10 00:16",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-homberg-ohm",
+      "agent": "handwerk-kirtorf",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Inspektionsdienst, der Wartung und Kleinreparaturen direkt beim Kunden zu Hause oder an Pendlertreffpunkten durchführt. **WARUM HIER:** Homberg hat durch die steile Topografie in seinen 14 Ortsteilen eine sehr hohe E-Bike-Dichte und liegt direkt am Ohm-Radweg, verfügt aktuell aber über kein eigenes Fahrradfachgeschäft",
-      "ts": "2026-09-09 22:13",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. für Badrenovierungen & Wärmepumpen-Einbau). **Ansprache-Idee:** „Hallo Herr [Name], wenn Kirtorfer nach einer neuen Heizung oder Badrenovierung googeln, landen sie aktuell meist bei Betrieben aus Alsfeld oder Marburg – wollen wir dafür sorgen, dass diese lukrativen Aufträge aus Ihrer direkten Nachbarschaft",
+      "ts": "2026-09-10 00:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-kirtorf",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler „Dorf-Hausmeister“- und Gartenservice, der Kleinreparaturen, Grundstückspflege und Winterdienst auf Abo-Basis für Senioren in allen sieben Kirtorfer Ortsteilen anbietet. **WARUM HIER:** In Kirtorf leben sehr viele ältere Eigenheimbesitzer mit großen Grundstücken, während klassische Handwerksbetriebe aus der Region ausgebucht sind und für",
+      "ts": "2026-09-10 00:16",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-grebenhain",
+      "agent": "senioren-homberg-ohm",
       "via": "gemini",
-      "text": "**WAS:** Der „Grebenhainer Dorfbegleiter“ ist ein verlässlicher, barrierefreier Abhol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Besorgungen, Arztbesuche und soziale Kontakte im Hauptort auf Augenhöhe zu ermöglichen. **WARUM HIER:** Durch die Verteilung der Gemeinde auf 15 weit verstreute Ortsteile im hügeligen Vogelsberg sind",
-      "ts": "2026-09-09 22:12",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Bei der geführten Abendwanderung „Sterne & Basalt“ durch den Oberwald bei Grebenhain erleben Sie die magische Stille der Vulkanregion inklusive eines regionalen Picknicks am knisternden Lagerfeuer. **für WEN:** Das Angebot ist perfekt für Paare, Naturgenießer und kleine Gruppen, die ein entschleunigendes Micro-Adventure unter dem dunklen Sternenhimm",
-      "ts": "2026-09-09 22:12",
+      "text": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begleitet. **WARUM HIER:** Homberg (Ohm) besteht aus 14 weit auseinanderliegenden Ortsteilen mit steilen Wegen und ausgedünntem Busverkehr, wodur",
+      "ts": "2026-09-10 00:15",
       "age_min": 0
     },
     {
@@ -1576,15 +1576,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-09 22:12",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "biz-terminki",
-      "via": "gemini",
-      "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
-      "ts": "2026-09-09 22:12",
+      "ts": "2026-09-10 00:15",
       "age_min": 0
     },
     {
@@ -1592,23 +1584,15 @@
       "agent": "senioren-lauterbach",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
-      "ts": "2026-09-09 22:12",
+      "ts": "2026-09-10 00:15",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "kunden-faq",
+      "agent": "senioren-grebenhain",
       "via": "gemini",
-      "text": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote schreibst oder zusätzliche Funktionen benötigst, kannst du jederzeit auf den kostenpflichtigen Pro-Tarif wechseln. **2. Kann ich mein",
-      "ts": "2026-09-09 22:12",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-alsfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein barrierefreier Nachbarschafts-Shuttle mit persönlicher Begleithilfe, der ältere Menschen aus den umliegenden Alsfelder Ortsteilen verlässlich für Marktbesuche, Apothekengänge und Arzttermine in die Kernstadt bringt. **WARUM HIER:** Da in den weitläufigen Vogelsberg-Dörfern rund um Alsfeld die Nahversorgung schwindet und der Busverkehr spärlich i",
-      "ts": "2026-09-09 22:12",
+      "text": "**WAS:** Der „Grebenhainer Dorfbegleiter“ ist ein verlässlicher, barrierefreier Abhol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Besorgungen, Arztbesuche und soziale Kontakte im Hauptort auf Augenhöhe zu ermöglichen. **WARUM HIER:** Durch die Verteilung der Gemeinde auf 15 weit verstreute Ortsteile im hügeligen Vogelsberg sind",
+      "ts": "2026-09-10 00:15",
       "age_min": 0
     },
     {
@@ -1616,7 +1600,23 @@
       "agent": "senioren-schotten",
       "via": "gemini",
       "text": "**WAS:** Ein dorfübergreifender Mobil- und Begleitdienst, der ältere Menschen aus den einzelnen Ortsteilen verlässlich bei Einkäufen, Arztbesuchen oder sozialen Treffpunkten unterstützt und begleitet. **WARUM HIER:** Schotten umfasst 15 weit verstreute Dörfer im Vogelsberg, in denen der öffentliche Nahverkehr oft dünn ist und Senioren ohne eigenes Auto sonst",
-      "ts": "2026-09-09 22:12",
+      "ts": "2026-09-10 00:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst holt Senioren direkt an ihrer Haustür in den Ortsteilen ab, unterstützt sie respektvoll beim Einkauf sowie bei Arztbesuchen und bringt sie sicher wieder nach Hause. **WARUM HIER:** In den weit verstreuten Dörfern rund um Herbstein fehlen oft Geschäfte vor Ort, sodass verlässliche Mobilität im hügeligen Vogel",
+      "ts": "2026-09-10 00:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "biz-terminki",
+      "via": "gemini",
+      "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
+      "ts": "2026-09-10 00:15",
       "age_min": 0
     }
   ]
