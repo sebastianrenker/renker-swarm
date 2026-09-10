@@ -1,6 +1,6 @@
 {
   "day": "2026-09-10",
-  "calls_today": 7,
+  "calls_today": 13,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -50,6 +50,12 @@
     "direkt-kirtorf": 1788999382.498274,
     "tourismus-kirtorf": 1788999393.182719,
     "senioren-kirtorf": 1788999400.8435905,
-    "chancen-muecke": 1789016456.7728665
+    "chancen-muecke": 1789016456.7728665,
+    "handwerk-muecke": 1789033333.4813523,
+    "direkt-muecke": 1789033340.5827065,
+    "tourismus-muecke": 1789033368.1803315,
+    "senioren-muecke": 1789033374.294205,
+    "chancen-romrod": 1789033383.2086864,
+    "handwerk-romrod": 1789033399.0303564
   }
 }
