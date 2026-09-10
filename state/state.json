@@ -1,6 +1,6 @@
 {
   "day": "2026-09-10",
-  "calls_today": 6,
+  "calls_today": 7,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -49,6 +49,7 @@
     "handwerk-kirtorf": 1788999373.880209,
     "direkt-kirtorf": 1788999382.498274,
     "tourismus-kirtorf": 1788999393.182719,
-    "senioren-kirtorf": 1788999400.8435905
+    "senioren-kirtorf": 1788999400.8435905,
+    "chancen-muecke": 1789016456.7728665
   }
 }
