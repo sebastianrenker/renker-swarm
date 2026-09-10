@@ -1,6 +1,6 @@
 {
   "day": "2026-09-10",
-  "calls_today": 22,
+  "calls_today": 24,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -65,6 +65,8 @@
     "tourismus-feldatal": 1789070279.305956,
     "senioren-feldatal": 1789070289.2493825,
     "chancen-gemuenden-felda": 1789070299.1438076,
-    "handwerk-gemuenden-felda": 1789070304.886807
+    "handwerk-gemuenden-felda": 1789070304.886807,
+    "direkt-feldatal": 1789078586.4349535,
+    "direkt-gemuenden-felda": 1789078604.5696208
   }
 }
