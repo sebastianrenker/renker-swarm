@@ -1,12 +1,12 @@
 # Renker Swarm — Board
 
-Stand: 2026-09-11T19:54Z · 162 Agenten · 82 mit Ergebnis · Budget 16/600
+Stand: 2026-09-11T22:10Z · 162 Agenten · 82 mit Ergebnis · Budget 16/600
 
 ## Kommando — 2 Agenten
 - Hier ist der Lagebericht für diese Woche: * **Offerta:** **Stand:** Stabil im Betrieb | **Nächster Hebel:** Händler-Onboarding automatisieren, um Marge ohne zusätzlichen Aufwand zu steigern. * **Handwerk-Sichtbar:** **Stand:** Hohe Nachfrage, Kapazitätsgrenze nah | **Nächster Hebel:** Fulfillment-Prozesse standardisieren, um Sales wieder aufzudrehen. * **Vog  _(via gemini, vor 0 min)_
 
 ## Chancen — 125 Agenten
-- **WAS:** „Schwalmtaler Mühlen- & Picknick-Trekking“: Eine geführte Abendwanderung entlang der Schwalm inklusive einem gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten und Exklusiv-Zugang zu einer historischen Wassermühle. **fuer WEN:** Dieses Paket richtet sich an Paare, Genusswanderer und Auszeit-Suchende, die Naturerlebnis und lokale Kul  _(via gemini, vor 0 min)_
+- **WAS:** „Vulkan-Genuss an der Felda“ ist eine geführte Dämmerungswanderung entlang des Flusslaufs zur historischen Burg Gemünden, abgerundet durch einen gefüllten Picknickkorb mit regionalen Vulkanland-Spezialitäten. **fuer WEN:** Perfekt für Paare, Naturgenießer und Auszeit-Suchende, die lokale Geschichte, sanfte Bewegung und regionale Kulinarik miteinande  _(via gemini, vor 0 min)_
 
 ## Recherche — 1 Agenten
 - Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka  _(via gemini, vor 0 min)_
