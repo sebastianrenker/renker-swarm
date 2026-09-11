@@ -1,6 +1,6 @@
 {
   "day": "2026-09-11",
-  "calls_today": 11,
+  "calls_today": 15,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -78,6 +78,10 @@
     "chancen-ulrichstein": 1789118625.3804576,
     "handwerk-ulrichstein": 1789118631.2245655,
     "direkt-ulrichstein": 1789118647.334233,
-    "tourismus-ulrichstein": 1789118676.9194095
+    "tourismus-ulrichstein": 1789118676.9194095,
+    "senioren-ulrichstein": 1789146953.3799658,
+    "chancen-schwalmtal": 1789146965.218792,
+    "handwerk-schwalmtal": 1789146972.6863823,
+    "direkt-schwalmtal": 1789146980.2075586
   }
 }
