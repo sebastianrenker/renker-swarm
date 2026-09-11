@@ -1,6 +1,6 @@
 {
   "day": "2026-09-11",
-  "calls_today": 5,
+  "calls_today": 11,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -72,6 +72,12 @@
     "senioren-gemuenden-felda": 1789085982.5301378,
     "chancen-freiensteinau": 1789085990.1652493,
     "handwerk-freiensteinau": 1789086003.377319,
-    "direkt-freiensteinau": 1789102643.1297624
+    "direkt-freiensteinau": 1789102643.1297624,
+    "tourismus-freiensteinau": 1789118593.0562727,
+    "senioren-freiensteinau": 1789118615.8629029,
+    "chancen-ulrichstein": 1789118625.3804576,
+    "handwerk-ulrichstein": 1789118631.2245655,
+    "direkt-ulrichstein": 1789118647.334233,
+    "tourismus-ulrichstein": 1789118676.9194095
   }
 }
