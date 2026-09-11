@@ -1,6 +1,6 @@
 {
-  "day": "2026-09-10",
-  "calls_today": 24,
+  "day": "2026-09-11",
+  "calls_today": 4,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -67,6 +67,10 @@
     "chancen-gemuenden-felda": 1789070299.1438076,
     "handwerk-gemuenden-felda": 1789070304.886807,
     "direkt-feldatal": 1789078586.4349535,
-    "direkt-gemuenden-felda": 1789078604.5696208
+    "direkt-gemuenden-felda": 1789078604.5696208,
+    "tourismus-gemuenden-felda": 1789085975.6031468,
+    "senioren-gemuenden-felda": 1789085982.5301378,
+    "chancen-freiensteinau": 1789085990.1652493,
+    "handwerk-freiensteinau": 1789086003.377319
   }
 }
