@@ -1,6 +1,6 @@
 {
   "day": "2026-09-12",
-  "calls_today": 5,
+  "calls_today": 6,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -88,6 +88,7 @@
     "chancen-wartenberg": 1789172222.3511848,
     "handwerk-wartenberg": 1789172228.596387,
     "direkt-wartenberg": 1789172245.225948,
-    "tourismus-wartenberg": 1789172252.6936135
+    "tourismus-wartenberg": 1789172252.6936135,
+    "senioren-wartenberg": 1789188607.9234
   }
 }
