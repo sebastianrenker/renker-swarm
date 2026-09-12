@@ -1,6 +1,6 @@
 {
-  "day": "2026-09-11",
-  "calls_today": 16,
+  "day": "2026-09-12",
+  "calls_today": 5,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -83,6 +83,11 @@
     "chancen-schwalmtal": 1789146965.218792,
     "handwerk-schwalmtal": 1789146972.6863823,
     "direkt-schwalmtal": 1789146980.2075586,
-    "tourismus-schwalmtal": 1789156474.8508878
+    "tourismus-schwalmtal": 1789156474.8508878,
+    "senioren-schwalmtal": 1789172211.8038187,
+    "chancen-wartenberg": 1789172222.3511848,
+    "handwerk-wartenberg": 1789172228.596387,
+    "direkt-wartenberg": 1789172245.225948,
+    "tourismus-wartenberg": 1789172252.6936135
   }
 }
