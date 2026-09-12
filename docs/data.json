@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-12T15:52Z",
+  "updated": "2026-09-12T18:02Z",
   "agents_total": 162,
-  "worked": 106,
+  "worked": 108,
   "departments": [
     {
       "id": "Kommando",
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Erlebnis-Paket: „SternenZauber Rhön: Kulinarische Nachtwanderung & Astronomie“** * **WAS:** Ein geführtes Nachterlebnis im UNESCO-Biosphärenreservat nahe Fulda inklusive Sternenbeobachtung durch Profi-Teleskope und einer regionalen Rhöner Picknickkiste im Dunkeln. * **FÜR WEN:** Perfekt für Paare, kleine Gruppen und Naturbegeisterte, die Romantik mit Astro",
+        "text": "**WAS:** Ein mobiler Inspektions- und Reparaturservice für E-Bikes und Fahrräder, der Wartungen direkt beim Kunden zu Hause oder während der Arbeitszeit auf Firmenparkplätzen durchführt. **WARUM HIER:** Petersberg vereint eine extrem hohe Dichte an pendlenden Familien mit teuren E-Bikes und die unmittelbare Lage am Rhön-Radnetz, bietet vor Ort aber bisher ke",
         "age_min": 0
       }
     },
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
+        "text": "**WAS:** Ein persönlicher Dorf-Fahr- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen von Haustür zu Haustür zu Einkäufen, Barrierefrei-Ärzten und Besuchen in die Stadt Fulda begleitet. **WARUM HIER:** In den weit verstreuten Dörfern rund um Fulda schließen immer mehr Dorfläden und die ÖPNV-Taktung ist spärlich, wodurch hochbetagte Mensc",
         "age_min": 0
       }
     },
@@ -1018,18 +1018,18 @@
       "name": "Senioren-Alltagsdienste — Fulda",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein persönlicher Dorf-Fahr- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen von Haustür zu Haustür zu Einkäufen, Barrierefrei-Ärzten und Besuchen in die Stadt Fulda begleitet. **WARUM HIER:",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-petersberg",
       "name": "Chancen-Scout — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Inspektions- und Reparaturservice für E-Bikes und Fahrräder, der Wartungen direkt beim Kunden zu Hause oder während der Arbeitszeit auf Firmenparkplätzen durchführt. **WARUM HIER:** Petersberg verein",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-petersberg",
@@ -1519,56 +1519,24 @@
     }
   ],
   "budget": {
-    "used": 24,
+    "used": 26,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-fulda",
+      "agent": "chancen-petersberg",
       "via": "gemini",
-      "text": "**Erlebnis-Paket: „SternenZauber Rhön: Kulinarische Nachtwanderung & Astronomie“** * **WAS:** Ein geführtes Nachterlebnis im UNESCO-Biosphärenreservat nahe Fulda inklusive Sternenbeobachtung durch Profi-Teleskope und einer regionalen Rhöner Picknickkiste im Dunkeln. * **FÜR WEN:** Perfekt für Paare, kleine Gruppen und Naturbegeisterte, die Romantik mit Astro",
-      "ts": "2026-09-12 15:52",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-fulda",
-      "via": "gemini",
-      "text": "**WAS:** Eine vorgepackte „Rhöner Feierabend-Kiste“ mit saisonalem Gemüse, Eiern und Brotzeitspezialitäten von heimischen Höfen, die ohne feste Abo-Bindung online bestellt und kontaktlos an Abholstationen bereitgestellt wird. **fuer WEN:** Für Pendler und beschäftigte Familien aus dem Raum Fulda, die Wert auf ehrliche Lebensmittel aus der Rhön legen, es aber",
-      "ts": "2026-09-12 15:52",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-fulda",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbau-Betrieb in Fulda** (mit Fokus auf Bad-Sanierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer in Fulda nach ‚Badsanierung‘ oder ‚Wärmepumpe‘ googeln, landen sie aktuell direkt bei Ihrer Konkurrenz – wollen wir dafür sorgen, dass die lukrativen Aufträge aus der Region wieder bei",
-      "ts": "2026-09-12 15:51",
+      "text": "**WAS:** Ein mobiler Inspektions- und Reparaturservice für E-Bikes und Fahrräder, der Wartungen direkt beim Kunden zu Hause oder während der Arbeitszeit auf Firmenparkplätzen durchführt. **WARUM HIER:** Petersberg vereint eine extrem hohe Dichte an pendlenden Familien mit teuren E-Bikes und die unmittelbare Lage am Rhön-Radnetz, bietet vor Ort aber bisher ke",
+      "ts": "2026-09-12 18:02",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-lautertal",
+      "agent": "senioren-fulda",
       "via": "gemini",
-      "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
-      "ts": "2026-09-12 15:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-lautertal",
-      "via": "gemini",
-      "text": "**Erlebnis-Paket: „Lautertaler Basalt-Glow: Dämmerungswanderung mit Vulkan-Picknick“** * **WAS:** Erleben Sie eine geführte Abendwanderung zu den mystischen Basaltformationen rund um Lautertal und genießen Sie im Anschluss ein stimmungsvolles Picknick mit regionalen Vogelsberger Spezialitäten am Lagerfeuer. * **fuer WEN:** Das Paket ist ideal für Paare, Natu",
-      "ts": "2026-09-12 15:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-lautertal",
-      "via": "gemini",
-      "text": "**WAS:** Die „Lautertaler Vesper-Kiste“ – eine wöchentlich wechselnde Abo-Box mit frischem Bauernbrot, Odenwälder Käse, Hausmacher Wurst, saisonalem Obst und Apfelwein direkt von Erzeugern aus der Region. **für WEN:** Für feierabendmüde Pendler und beschäftigte Familien aus dem Lautertal, die Wert auf ehrliches Handwerk legen, aber unter der Woche keine Zeit",
-      "ts": "2026-09-12 15:51",
+      "text": "**WAS:** Ein persönlicher Dorf-Fahr- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen von Haustür zu Haustür zu Einkäufen, Barrierefrei-Ärzten und Besuchen in die Stadt Fulda begleitet. **WARUM HIER:** In den weit verstreuten Dörfern rund um Fulda schließen immer mehr Dorfläden und die ÖPNV-Taktung ist spärlich, wodurch hochbetagte Mensc",
+      "ts": "2026-09-12 18:02",
       "age_min": 0
     },
     {
@@ -1576,7 +1544,15 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-12 15:51",
+      "ts": "2026-09-12 18:02",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-lautertal",
+      "via": "gemini",
+      "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
+      "ts": "2026-09-12 18:02",
       "age_min": 0
     },
     {
@@ -1584,7 +1560,7 @@
       "agent": "senioren-ulrichstein",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-12 15:51",
+      "ts": "2026-09-12 18:02",
       "age_min": 0
     },
     {
@@ -1592,7 +1568,7 @@
       "agent": "senioren-muecke",
       "via": "gemini",
       "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der ältere Menschen aus allen Ortsteilen direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen begleitet und Zeit für persönliche Gespräche mitbringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht, bewahrt dieser Dienst die Selbstständigkeit der Seniorinnen und Senioren",
-      "ts": "2026-09-12 15:51",
+      "ts": "2026-09-12 18:02",
       "age_min": 0
     },
     {
@@ -1600,7 +1576,7 @@
       "agent": "senioren-homberg-ohm",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begleitet. **WARUM HIER:** Homberg (Ohm) besteht aus 14 weit auseinanderliegenden Ortsteilen mit steilen Wegen und ausgedünntem Busverkehr, wodur",
-      "ts": "2026-09-12 15:51",
+      "ts": "2026-09-12 18:02",
       "age_min": 0
     },
     {
@@ -1608,7 +1584,7 @@
       "agent": "biz-terminki",
       "via": "gemini",
       "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
-      "ts": "2026-09-12 15:51",
+      "ts": "2026-09-12 18:02",
       "age_min": 0
     },
     {
@@ -1616,7 +1592,31 @@
       "agent": "senioren-lauterbach",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
-      "ts": "2026-09-12 15:51",
+      "ts": "2026-09-12 18:02",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grebenhain",
+      "via": "gemini",
+      "text": "**WAS:** Der „Grebenhainer Dorfbegleiter“ ist ein verlässlicher, barrierefreier Abhol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Besorgungen, Arztbesuche und soziale Kontakte im Hauptort auf Augenhöhe zu ermöglichen. **WARUM HIER:** Durch die Verteilung der Gemeinde auf 15 weit verstreute Ortsteile im hügeligen Vogelsberg sind",
+      "ts": "2026-09-12 18:02",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-antrifttal",
+      "via": "gemini",
+      "text": "**WAS:** Ein fester, würdevoller Begleit- und Fahrdienst, der ältere Menschen direkt an der Haustür abholt, um gemeinsame Besorgungen, Arztbesuche und soziale Kontakte in der Region zu ermöglichen. **WARUM HIER:** In den fünf weit verteilten Ortsteilen von Antrifttal fehlt es an eigenen Lebensmittelgeschäften und Ärzten, weshalb eine persönliche, verlässlich",
+      "ts": "2026-09-12 18:02",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "kunden-faq",
+      "via": "gemini",
+      "text": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote schreibst oder zusätzliche Funktionen benötigst, kannst du jederzeit auf den kostenpflichtigen Pro-Tarif wechseln. **2. Kann ich mein",
+      "ts": "2026-09-12 18:02",
       "age_min": 0
     }
   ]

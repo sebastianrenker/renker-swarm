@@ -1,6 +1,6 @@
 {
   "day": "2026-09-12",
-  "calls_today": 24,
+  "calls_today": 26,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -107,6 +107,8 @@
     "senioren-lautertal": 1789228303.3476686,
     "handwerk-fulda": 1789228311.6720262,
     "direkt-fulda": 1789228320.0159168,
-    "tourismus-fulda": 1789228325.8366754
+    "tourismus-fulda": 1789228325.8366754,
+    "senioren-fulda": 1789236143.1243682,
+    "chancen-petersberg": 1789236151.2604578
   }
 }
