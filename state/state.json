@@ -1,6 +1,6 @@
 {
   "day": "2026-09-12",
-  "calls_today": 12,
+  "calls_today": 18,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -95,6 +95,12 @@
     "direkt-antrifttal": 1789203547.8104794,
     "tourismus-antrifttal": 1789203556.6091485,
     "senioren-antrifttal": 1789203566.7570448,
-    "chancen-grebenau": 1789203579.4808655
+    "chancen-grebenau": 1789203579.4808655,
+    "handwerk-grebenau": 1789217099.4837334,
+    "direkt-grebenau": 1789217104.8820662,
+    "tourismus-grebenau": 1789217111.3350825,
+    "senioren-grebenau": 1789217120.6805902,
+    "chancen-lautertal": 1789217130.670976,
+    "handwerk-lautertal": 1789217137.7583697
   }
 }
