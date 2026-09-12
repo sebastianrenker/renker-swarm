@@ -1,12 +1,12 @@
 # Renker Swarm — Board
 
-Stand: 2026-09-12T20:31Z · 162 Agenten · 109 mit Ergebnis · Budget 27/600
+Stand: 2026-09-12T22:33Z · 162 Agenten · 111 mit Ergebnis · Budget 29/600
 
 ## Kommando — 2 Agenten
 - Hier ist der Lagebericht für diese Woche: * **Offerta:** **Stand:** Stabil im Betrieb | **Nächster Hebel:** Händler-Onboarding automatisieren, um Marge ohne zusätzlichen Aufwand zu steigern. * **Handwerk-Sichtbar:** **Stand:** Hohe Nachfrage, Kapazitätsgrenze nah | **Nächster Hebel:** Fulfillment-Prozesse standardisieren, um Sales wieder aufzudrehen. * **Vog  _(via gemini, vor 0 min)_
 
 ## Chancen — 125 Agenten
-- **Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** in Petersberg (mit Fokus auf Badmodernisierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Petersberger auf dem Smartphone nach Experten für neue Heizungen oder Badsanierungen suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass   _(via gemini, vor 0 min)_
+- **Erlebnis-Paket: „Rhöner Sonnenuntergang & Picknick-Genuss am Rauschenberg“** * **WAS:** Das Paket beinhaltet einen leihweisen, prall gefüllten Rucksack mit regionalen Rhöner Bio-Spezialitäten und einer Picknickdecke für eine genussvolle Auszeit auf dem Aussichtspunkt Rauschenberg bei Petersberg. * **fuer WEN:** Das Angebot richtet sich an Paare und Genussm  _(via gemini, vor 0 min)_
 
 ## Recherche — 1 Agenten
 - Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka  _(via gemini, vor 0 min)_
