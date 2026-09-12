@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-12T12:45Z",
+  "updated": "2026-09-12T15:52Z",
   "agents_total": 162,
-  "worked": 100,
+  "worked": 106,
   "departments": [
     {
       "id": "Kommando",
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Dachdecker- und Zimmereibetrieb (Fokus: Dachsanierung & Notfälle) **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer im Lautertal nach einem Sturmschaden oder einer Dachsanierung auf dem Handy suchen, finden sie aktuell meist die Konkurrenz aus der nächsten Stadt – wollen wir gemeinsam dafür sorgen, dass diese lukrativen Aufträge dire",
+        "text": "**Erlebnis-Paket: „SternenZauber Rhön: Kulinarische Nachtwanderung & Astronomie“** * **WAS:** Ein geführtes Nachterlebnis im UNESCO-Biosphärenreservat nahe Fulda inklusive Sternenbeobachtung durch Profi-Teleskope und einer regionalen Rhöner Picknickkiste im Dunkeln. * **FÜR WEN:** Perfekt für Paare, kleine Gruppen und Naturbegeisterte, die Romantik mit Astro",
         "age_min": 0
       }
     },
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Der „Gründchen-Helfer“ ist ein fester, vertrauter Alltagsbegleiter, der ältere Menschen in den einzelnen Ortsteilen direkt zu Hause bei praktischen Aufgaben in Haus und Garten unterstützt sowie sie auf Wunsch würdevoll zu Einkäufen oder Arztterminen begleitet. **WARUM HIER:** Da die kleinen Ortsteile von Grebenau weit verstreut liegen und kaum eigen",
+        "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
         "age_min": 0
       }
     },
@@ -964,54 +964,54 @@
       "name": "Direktvermarktung — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Lautertaler Vesper-Kiste“ – eine wöchentlich wechselnde Abo-Box mit frischem Bauernbrot, Odenwälder Käse, Hausmacher Wurst, saisonalem Obst und Apfelwein direkt von Erzeugern aus der Region. **für WEN:** Fü",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-lautertal",
       "name": "Vulkanregion-Tourismus — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Erlebnis-Paket: „Lautertaler Basalt-Glow: Dämmerungswanderung mit Vulkan-Picknick“** * **WAS:** Erleben Sie eine geführte Abendwanderung zu den mystischen Basaltformationen rund um Lautertal und genießen Sie im Anschlu",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-lautertal",
       "name": "Senioren-Alltagsdienste — Lautertal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorflebe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-fulda",
       "name": "Handwerk-Sichtbarkeit — Fulda",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbau-Betrieb in Fulda** (mit Fokus auf Bad-Sanierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer in Fulda nach ‚Badsanierung‘ oder ‚Wärmepump",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-fulda",
       "name": "Direktvermarktung — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine vorgepackte „Rhöner Feierabend-Kiste“ mit saisonalem Gemüse, Eiern und Brotzeitspezialitäten von heimischen Höfen, die ohne feste Abo-Bindung online bestellt und kontaktlos an Abholstationen bereitgestellt ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-fulda",
       "name": "Vulkanregion-Tourismus — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Erlebnis-Paket: „SternenZauber Rhön: Kulinarische Nachtwanderung & Astronomie“** * **WAS:** Ein geführtes Nachterlebnis im UNESCO-Biosphärenreservat nahe Fulda inklusive Sternenbeobachtung durch Profi-Teleskope und ein",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-fulda",
@@ -1519,56 +1519,56 @@
     }
   ],
   "budget": {
-    "used": 18,
+    "used": 24,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-lautertal",
+      "agent": "tourismus-fulda",
       "via": "gemini",
-      "text": "**Betriebstyp:** Dachdecker- und Zimmereibetrieb (Fokus: Dachsanierung & Notfälle) **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer im Lautertal nach einem Sturmschaden oder einer Dachsanierung auf dem Handy suchen, finden sie aktuell meist die Konkurrenz aus der nächsten Stadt – wollen wir gemeinsam dafür sorgen, dass diese lukrativen Aufträge dire",
-      "ts": "2026-09-12 12:45",
+      "text": "**Erlebnis-Paket: „SternenZauber Rhön: Kulinarische Nachtwanderung & Astronomie“** * **WAS:** Ein geführtes Nachterlebnis im UNESCO-Biosphärenreservat nahe Fulda inklusive Sternenbeobachtung durch Profi-Teleskope und einer regionalen Rhöner Picknickkiste im Dunkeln. * **FÜR WEN:** Perfekt für Paare, kleine Gruppen und Naturbegeisterte, die Romantik mit Astro",
+      "ts": "2026-09-12 15:52",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-lautertal",
+      "agent": "direkt-fulda",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Reparatur- und Akku-Notdienst auf Abruf für Touristen und Anwohner im Lautertal. **WARUM HIER:** Das Lautertal liegt ideal an den frequentierten Vogelsberg-Radrouten, besitzt aber selbst keine eigene Fahrradwerkstatt vor Ort. **ERSTER SCHRITT:** Statte einen vorhandenen Kombi mit Basis-Werkzeug und gängigen Ersatzteilen aus und hi",
-      "ts": "2026-09-12 12:45",
+      "text": "**WAS:** Eine vorgepackte „Rhöner Feierabend-Kiste“ mit saisonalem Gemüse, Eiern und Brotzeitspezialitäten von heimischen Höfen, die ohne feste Abo-Bindung online bestellt und kontaktlos an Abholstationen bereitgestellt wird. **fuer WEN:** Für Pendler und beschäftigte Familien aus dem Raum Fulda, die Wert auf ehrliche Lebensmittel aus der Rhön legen, es aber",
+      "ts": "2026-09-12 15:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-fulda",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbau-Betrieb in Fulda** (mit Fokus auf Bad-Sanierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer in Fulda nach ‚Badsanierung‘ oder ‚Wärmepumpe‘ googeln, landen sie aktuell direkt bei Ihrer Konkurrenz – wollen wir dafür sorgen, dass die lukrativen Aufträge aus der Region wieder bei",
+      "ts": "2026-09-12 15:51",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-grebenau",
+      "agent": "senioren-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Der „Gründchen-Helfer“ ist ein fester, vertrauter Alltagsbegleiter, der ältere Menschen in den einzelnen Ortsteilen direkt zu Hause bei praktischen Aufgaben in Haus und Garten unterstützt sowie sie auf Wunsch würdevoll zu Einkäufen oder Arztterminen begleitet. **WARUM HIER:** Da die kleinen Ortsteile von Grebenau weit verstreut liegen und kaum eigen",
-      "ts": "2026-09-12 12:45",
+      "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
+      "ts": "2026-09-12 15:51",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-grebenau",
+      "agent": "tourismus-lautertal",
       "via": "gemini",
-      "text": "**WAS:** **„Gründchen-Waldleuchten & Picknick-Moment“:** Eine geführte Dämmerungswanderung durch die dichten Wälder rund um Grebenau mit anschließendem regionalen Vesper-Picknick am knackenden Lagerfeuer. **FÜR WEN:** Das Paket eignet sich perfekt für Paare, kleine Freundesgruppen und Naturgenießer, die eine entschleunigende Auszeit abseits des Alltagsstress",
-      "ts": "2026-09-12 12:45",
+      "text": "**Erlebnis-Paket: „Lautertaler Basalt-Glow: Dämmerungswanderung mit Vulkan-Picknick“** * **WAS:** Erleben Sie eine geführte Abendwanderung zu den mystischen Basaltformationen rund um Lautertal und genießen Sie im Anschluss ein stimmungsvolles Picknick mit regionalen Vogelsberger Spezialitäten am Lagerfeuer. * **fuer WEN:** Das Paket ist ideal für Paare, Natu",
+      "ts": "2026-09-12 15:51",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-grebenau",
+      "agent": "direkt-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Die „Gründchen-Kiste“ ist ein wöchentliches Regio-Abo mit frischem Holzofenbrot, Eiern, Saison-Gemüse und Vogelsberger Spezialitäten wie Ahle Wurst, direkt an die Haustür geliefert. **fuer WEN:** Für Familien, Senioren und Pendler aus Grebenau und den umliegenden Dörfern, die ehrliche Lebensmittel aus der Nachbarschaft schätzen, aber unter der Woche",
-      "ts": "2026-09-12 12:45",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-grebenau",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) in Grebenau. **Ansprache-Idee:** „Mundpropaganda im Vogelsberg ist Gold wert, aber wenn ein Hausbesitzer in Grebenau abends nach einer neuen Wärmepumpe goggelt oder einen Heizungsnotdienst sucht, landet er aktuell direkt bei Ihrer Konkurrenz aus Alsfeld – das ändern wir schnell und ohne Schnickschnack.“",
-      "ts": "2026-09-12 12:44",
+      "text": "**WAS:** Die „Lautertaler Vesper-Kiste“ – eine wöchentlich wechselnde Abo-Box mit frischem Bauernbrot, Odenwälder Käse, Hausmacher Wurst, saisonalem Obst und Apfelwein direkt von Erzeugern aus der Region. **für WEN:** Für feierabendmüde Pendler und beschäftigte Familien aus dem Lautertal, die Wert auf ehrliches Handwerk legen, aber unter der Woche keine Zeit",
+      "ts": "2026-09-12 15:51",
       "age_min": 0
     },
     {
@@ -1576,7 +1576,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-12 12:44",
+      "ts": "2026-09-12 15:51",
       "age_min": 0
     },
     {
@@ -1584,7 +1584,7 @@
       "agent": "senioren-ulrichstein",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-12 12:44",
+      "ts": "2026-09-12 15:51",
       "age_min": 0
     },
     {
@@ -1592,7 +1592,7 @@
       "agent": "senioren-muecke",
       "via": "gemini",
       "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der ältere Menschen aus allen Ortsteilen direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen begleitet und Zeit für persönliche Gespräche mitbringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht, bewahrt dieser Dienst die Selbstständigkeit der Seniorinnen und Senioren",
-      "ts": "2026-09-12 12:44",
+      "ts": "2026-09-12 15:51",
       "age_min": 0
     },
     {
@@ -1600,7 +1600,7 @@
       "agent": "senioren-homberg-ohm",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begleitet. **WARUM HIER:** Homberg (Ohm) besteht aus 14 weit auseinanderliegenden Ortsteilen mit steilen Wegen und ausgedünntem Busverkehr, wodur",
-      "ts": "2026-09-12 12:44",
+      "ts": "2026-09-12 15:51",
       "age_min": 0
     },
     {
@@ -1608,7 +1608,7 @@
       "agent": "biz-terminki",
       "via": "gemini",
       "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
-      "ts": "2026-09-12 12:44",
+      "ts": "2026-09-12 15:51",
       "age_min": 0
     },
     {
@@ -1616,7 +1616,7 @@
       "agent": "senioren-lauterbach",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
-      "ts": "2026-09-12 12:44",
+      "ts": "2026-09-12 15:51",
       "age_min": 0
     }
   ]

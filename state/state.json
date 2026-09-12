@@ -1,6 +1,6 @@
 {
   "day": "2026-09-12",
-  "calls_today": 18,
+  "calls_today": 24,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -101,6 +101,12 @@
     "tourismus-grebenau": 1789217111.3350825,
     "senioren-grebenau": 1789217120.6805902,
     "chancen-lautertal": 1789217130.670976,
-    "handwerk-lautertal": 1789217137.7583697
+    "handwerk-lautertal": 1789217137.7583697,
+    "direkt-lautertal": 1789228288.9131062,
+    "tourismus-lautertal": 1789228295.4361439,
+    "senioren-lautertal": 1789228303.3476686,
+    "handwerk-fulda": 1789228311.6720262,
+    "direkt-fulda": 1789228320.0159168,
+    "tourismus-fulda": 1789228325.8366754
   }
 }
