@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13T14:31Z",
+  "updated": "2026-09-13T17:40Z",
   "agents_total": 162,
-  "worked": 128,
+  "worked": 134,
   "departments": [
     {
       "id": "Kommando",
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein vollautomatisierter 24/7-Regiomat für frische Nahversorgung, der regionale Grill- und Vesperpakete von lokalen Erzeugern anbietet. **WARUM HIER:** Täglich nutzen Tausende Berufstätige die B254 als Pendlerachse zwischen Lauterbach und Fulda durch Großenlüder, finden aber nach Feierabend im Ort kaum flexible Angebote für frische, heimische Lebensm",
+        "text": "**Betriebstyp:** Ein lokaler **Heizung-Sanitär-Betrieb (SHK)** in Eichenzell. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Eichenzell und dem Kreis Fulda online nach einer neuen Heizung oder Badsanierung suchen, finden sie aktuell noch Ihre Konkurrenz – wollen wir gemeinsam dafür sorgen, dass die lukrativen Anfragen aus der Region direkt",
         "age_min": 0
       }
     },
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den Hünfelder Ortsteilen verlässlich zum Einkauf oder Arztbesuch abholt, geduldig begleitet und die Besorgungen sicher nach Hause trägt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Hünfeld fehlen oft Geschäfte vor Ort, und der Weg in die Kernstadt ist ohne eigenes Auto oder bei eing",
+        "text": "**WAS** Ein ehrenamtlicher Dorf-Fahr- und Begleitdienst bringt Seniorinnen und Senioren aus den Ortsteilen wie Kleinlüder oder Müs direkt zum Einkauf, Arzt oder Wochenmarkt im Hauptort und unterstützt sie auf Wunsch persönlich vor Ort. **WARUM HIER** Da sich Supermärkte und Praxen auf den Kernort Großenlüder konzentrieren, fehlen in den kleineren, verstreute",
         "age_min": 0
       }
     },
@@ -1216,54 +1216,54 @@
       "name": "Handwerk-Sichtbarkeit — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb **Ansprache-Idee:** „Hallo Herr [Name], wenn jemand in Großenlüder nach einer neuen Wärmepumpe oder einem Heizungs-Notdienst sucht, landet er aktuell bei der Konkurrenz aus F",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-grossenlueder",
       "name": "Direktvermarktung — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine regionale „Lüder-Feierabend-Kiste“ im wöchentlichen Abo, voll gepackt mit frischem Saison-Gemüse, ehrlichem Handwerksfleisch und Holzofenbrot direkt von den Höfen rund um Großenlüder. **FÜR WEN:** Für beruf",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-grossenlueder",
       "name": "Vulkanregion-Tourismus — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei der „Kalk & Kräuter“-Dämmerungswanderung erkunden Sie die einzigartigen Kalkfelsen Großenlüders und genießen anschließend ein regionales Picknick mit selbstgesammelten Wildkräutern an der historischen Schnep",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-grossenlueder",
       "name": "Senioren-Alltagsdienste — Grossenlueder",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein ehrenamtlicher Dorf-Fahr- und Begleitdienst bringt Seniorinnen und Senioren aus den Ortsteilen wie Kleinlüder oder Müs direkt zum Einkauf, Arzt oder Wochenmarkt im Hauptort und unterstützt sie auf Wunsch pers",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-eichenzell",
       "name": "Chancen-Scout — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein schlanker, digital vorbestellbarer „Schicht-Lunch“-Lieferservice für frische, gesunde Mahlzeiten direkt an die Büros und Laderampen. **WARUM HIER:** Im riesigen Industriegebiet Eichenzell arbeiten Tausende S",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-eichenzell",
       "name": "Handwerk-Sichtbarkeit — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Heizung-Sanitär-Betrieb (SHK)** in Eichenzell. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Eichenzell und dem Kreis Fulda online nach einer neuen Heizung oder Badsanie",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-eichenzell",
@@ -1519,56 +1519,56 @@
     }
   ],
   "budget": {
-    "used": 17,
+    "used": 23,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-grossenlueder",
+      "agent": "handwerk-eichenzell",
       "via": "gemini",
-      "text": "**WAS:** Ein vollautomatisierter 24/7-Regiomat für frische Nahversorgung, der regionale Grill- und Vesperpakete von lokalen Erzeugern anbietet. **WARUM HIER:** Täglich nutzen Tausende Berufstätige die B254 als Pendlerachse zwischen Lauterbach und Fulda durch Großenlüder, finden aber nach Feierabend im Ort kaum flexible Angebote für frische, heimische Lebensm",
-      "ts": "2026-09-13 14:31",
+      "text": "**Betriebstyp:** Ein lokaler **Heizung-Sanitär-Betrieb (SHK)** in Eichenzell. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Eichenzell und dem Kreis Fulda online nach einer neuen Heizung oder Badsanierung suchen, finden sie aktuell noch Ihre Konkurrenz – wollen wir gemeinsam dafür sorgen, dass die lukrativen Anfragen aus der Region direkt",
+      "ts": "2026-09-13 17:40",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-eichenzell",
+      "via": "gemini",
+      "text": "**WAS:** Ein schlanker, digital vorbestellbarer „Schicht-Lunch“-Lieferservice für frische, gesunde Mahlzeiten direkt an die Büros und Laderampen. **WARUM HIER:** Im riesigen Industriegebiet Eichenzell arbeiten Tausende Schicht- und Logistikarbeiter mit kurzen Pausen, deren Verpflegungsangebot bisher fast nur aus Tankstellen-Snacks und klassischem Fast Food b",
+      "ts": "2026-09-13 17:39",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-huenfeld",
+      "agent": "senioren-grossenlueder",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den Hünfelder Ortsteilen verlässlich zum Einkauf oder Arztbesuch abholt, geduldig begleitet und die Besorgungen sicher nach Hause trägt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Hünfeld fehlen oft Geschäfte vor Ort, und der Weg in die Kernstadt ist ohne eigenes Auto oder bei eing",
-      "ts": "2026-09-13 14:31",
+      "text": "**WAS** Ein ehrenamtlicher Dorf-Fahr- und Begleitdienst bringt Seniorinnen und Senioren aus den Ortsteilen wie Kleinlüder oder Müs direkt zum Einkauf, Arzt oder Wochenmarkt im Hauptort und unterstützt sie auf Wunsch persönlich vor Ort. **WARUM HIER** Da sich Supermärkte und Praxen auf den Kernort Großenlüder konzentrieren, fehlen in den kleineren, verstreute",
+      "ts": "2026-09-13 17:39",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-huenfeld",
+      "agent": "tourismus-grossenlueder",
       "via": "gemini",
-      "text": "**WAS:** Die „Zuse-Code & Rhön-Tapas“-E-Bike-Tour kombiniert ein interaktives Rätsel-Abenteuer auf den Spuren des Computer-Pioniers Konrad Zuse rund um den Hünfelder Haselsee mit einer Kiste voller regionaler Spezialitäten für ein Picknick im Grünen. **fuer WEN:** Das Paket richtet sich an tüftelfreudige Paare, Freundesgruppen und Genuss-Radler, die Kulturge",
-      "ts": "2026-09-13 14:31",
+      "text": "**WAS:** Bei der „Kalk & Kräuter“-Dämmerungswanderung erkunden Sie die einzigartigen Kalkfelsen Großenlüders und genießen anschließend ein regionales Picknick mit selbstgesammelten Wildkräutern an der historischen Schnepfenkapelle. **fuer WEN:** Dieses Angebot eignet sich perfekt für Naturgenießer, Paare und kleine Gruppen, die Entschleunigung suchen und die",
+      "ts": "2026-09-13 17:39",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-huenfeld",
+      "agent": "direkt-grossenlueder",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentlich wechselnde „Hünfelder Feierabend-Kiste“ mit frischem Brot, Rhöner Käse, Hausmacher Wurst und Saison-Gemüse, die per Abo vorbestellt und flexibel an einer gekühlten 24/7-Abholstation abgeholt wird. **für WEN:** Für berufstätige Pendler und beschäftigte Familien aus Hünfeld und Umgebung, die trotz wenig Zeit nicht auf bodenständige Le",
-      "ts": "2026-09-13 14:31",
+      "text": "**WAS:** Eine regionale „Lüder-Feierabend-Kiste“ im wöchentlichen Abo, voll gepackt mit frischem Saison-Gemüse, ehrlichem Handwerksfleisch und Holzofenbrot direkt von den Höfen rund um Großenlüder. **FÜR WEN:** Für berufstätige Pendler und Familien aus der Gemeinde, die nach Feierabend ohne Supermarkt-Stress ordentliches Essen aus der Heimat auf dem Tisch ha",
+      "ts": "2026-09-13 17:39",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-huenfeld",
+      "agent": "handwerk-grossenlueder",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) in Hünfeld **Ansprache-Idee:** „Hallo Herr [Name], wenn Hünfelder Hausbesitzer online nach einer neuen Wärmepumpe oder Badrenovierung suchen, finden sie aktuell meist die Konkurrenz aus Fulda – wollen wir sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Betrieb landen?“",
-      "ts": "2026-09-13 14:31",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-huenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Mobiler Fahrzeug-Aufbereitungsservice, der Handwerks- und Firmenfuhrparks in Hünfeld direkt nach Feierabend auf dem Betriebsgelände reinigt. **WARUM HIER:** Die Hünfelder Gewerbegebiete (z. B. „Im Haselgrund“) beherbergen Dutzende mittelständische Handwerks- und Logistikbetriebe, deren Fuhrpark ein Aushängeschild ist, denen aber die Zeit für die reg",
-      "ts": "2026-09-13 14:31",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb **Ansprache-Idee:** „Hallo Herr [Name], wenn jemand in Großenlüder nach einer neuen Wärmepumpe oder einem Heizungs-Notdienst sucht, landet er aktuell bei der Konkurrenz aus Fulda – wollen wir gemeinsam dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Ort bleiben?“",
+      "ts": "2026-09-13 17:39",
       "age_min": 0
     },
     {
@@ -1576,15 +1576,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-13 14:31",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
-      "ts": "2026-09-13 14:31",
+      "ts": "2026-09-13 17:39",
       "age_min": 0
     },
     {
@@ -1592,7 +1584,7 @@
       "agent": "senioren-ulrichstein",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-13 14:31",
+      "ts": "2026-09-13 17:39",
       "age_min": 0
     },
     {
@@ -1600,23 +1592,31 @@
       "agent": "senioren-schwalmtal",
       "via": "gemini",
       "text": "**WAS:** Das „Schwalmtaler Nachbarschafts-Mobil“ ist ein verlässlicher Fahr- und Begleitdienst, der ältere Menschen aus den Außenortsteilen sanft dabei unterstützt, Arzttermine, Einkäufe und soziale Treffpunkte im Alltag selbstbestimmt zu erreichen. **WARUM HIER:** Da Schwalmtal aus vielen weit verstreuten Dörfern und Honschaften besteht, schließt dieser Die",
-      "ts": "2026-09-13 14:31",
+      "ts": "2026-09-13 17:39",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-romrod",
+      "agent": "senioren-wartenberg",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher „Dorf-Fahr- und Besorgungsdienst“, der ältere Menschen aus den Ortsteilen flexibel zu Terminen, Einkäufen oder Apotheken nach Romrod bringt und sie auf Wunsch aufmerksam begleitet. **WARUM HIER:** Da in den ländlich verstreuten Ortsteilen von Romrod die Geschäfte des täglichen Bedarfs fehlen, sichert dieses mobile Angebot die Eigen",
-      "ts": "2026-09-13 14:31",
+      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen auf Augenhöhe bei Einkäufen, Arztbesuchen und Botengängen unterstützt und ihnen so die eigenständige Teilnahme am Gemeindeleben ermöglicht. **WARUM HIER:** In den weitläufigen Ortsteilen von Wartenberg schwindet die Nahversorgung, wodurch die selbstbestimmte Mobilität für Senioren ohne eigenes Auto",
+      "ts": "2026-09-13 17:39",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-petersberg",
+      "agent": "senioren-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Einkaufsdienst, der ältere Menschen würdevoll von Haustür zu Haustür begleitet, Besorgungen übernimmt und Raum für persönliche Begegnungen schafft. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg fehlen oft fußläufige Einkaufsmöglichkeiten und Treffpunkte, weshalb dieses Angebot die Selbstständigkeit",
-      "ts": "2026-09-13 14:31",
+      "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
+      "ts": "2026-09-13 17:39",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
+      "ts": "2026-09-13 17:39",
       "age_min": 0
     }
   ]
