@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13T05:07Z",
+  "updated": "2026-09-13T10:16Z",
   "agents_total": 162,
-  "worked": 116,
+  "worked": 122,
   "departments": [
     {
       "id": "Kommando",
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Das Paket „Künzeller Auszeit“ kombiniert eine geführte Alpaka-Wanderung durch die Rhöner Vorgebirgslandschaft mit einem anschließenden Tagesaufenthalt im exotischen Siebenwelten Spa & Resort inklusive Südsee-Welcome-Drink. **für WEN:** Dieses Angebot richtet sich an Paare und Erholungssuchende, die eine aktive Naturbegegnung ideal mit luxuriöser Wel",
+        "text": "**WAS:** Das Erlebnis-Paket „Glückauf & Gaumenfreude“ kombiniert eine geführte Dämmerungswanderung rund um den imposanten Neuhofer Monte Kali mit einer urigen Bergmanns-Vesper und der Verkostung regionaler Spezialitäten mitten in der Natur. **fuer WEN:** Perfekt geeignet für Genusswanderer, Paare und kleine Gruppen, die außergewöhnliche Industrie-Natur-Kulis",
         "age_min": 0
       }
     },
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
+        "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
         "age_min": 0
       }
     },
@@ -1108,54 +1108,54 @@
       "name": "Senioren-Alltagsdienste — Kuenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen in Künzell persönlich und barrierefrei zu Einkäufen, Arztterminen sowie sozialen Treffpunkten begleitet. **WARUM HIER:** Da Künzell aus verstreuten Ortsteilen ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-neuhof",
       "name": "Chancen-Scout — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Vorbestell-Lieferservice für gesunde, deftige Schicht- und Baustellen-Verpflegung, pünktlich geliefert zu den exakten Schichtwechseln im Kalirevier und den lokalen Gewerbegebieten. **WARUM HIER:** Ne",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-neuhof",
       "name": "Handwerk-Sichtbarkeit — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Neuhof (z. B. für Wärmepumpen-Umrüstung und Badsanierungen). **Ansprache-Idee:** „Wenn Neuhofer nach ‚Heizungstausch‘ oder ‚Badsanierung‘ googeln, landen sie aktuell meist",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-neuhof",
       "name": "Direktvermarktung — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine „Rhöner Feierabend-Box“ im wöchentlichen Abo, voll gepackt mit frischem Landbrot, Hausmacher Wurst, regionalem Käse und Saison-Gemüse zur flexiblen 24/7-Abholung am Hof-Automaten in Neuhof. **für WEN:** Für",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-neuhof",
       "name": "Vulkanregion-Tourismus — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Glückauf & Gaumenfreude“ kombiniert eine geführte Dämmerungswanderung rund um den imposanten Neuhofer Monte Kali mit einer urigen Bergmanns-Vesper und der Verkostung regionaler Spezialitäten ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-neuhof",
       "name": "Senioren-Alltagsdienste — Neuhof",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den we",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-huenfeld",
@@ -1519,32 +1519,56 @@
     }
   ],
   "budget": {
-    "used": 5,
+    "used": 11,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-kuenzell",
+      "dept": "Kunden",
+      "agent": "senioren-neuhof",
       "via": "gemini",
-      "text": "**WAS:** Das Paket „Künzeller Auszeit“ kombiniert eine geführte Alpaka-Wanderung durch die Rhöner Vorgebirgslandschaft mit einem anschließenden Tagesaufenthalt im exotischen Siebenwelten Spa & Resort inklusive Südsee-Welcome-Drink. **für WEN:** Dieses Angebot richtet sich an Paare und Erholungssuchende, die eine aktive Naturbegegnung ideal mit luxuriöser Wel",
-      "ts": "2026-09-13 05:07",
+      "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
+      "ts": "2026-09-13 10:16",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-kuenzell",
+      "agent": "tourismus-neuhof",
       "via": "gemini",
-      "text": "**WAS:** Die „Künzeller Feierabend-Kiste“ – ein wöchentliches Frische-Abo mit saisonalem Gemüse, Rhöner Käse, Wurst und Brot, das Donnerstag- und Freitagabend an einem zentralen Hof-Drive-In ohne Wartezeit abgeholt wird. **FÜR WEN:** Für beschäftigte Familien und Pendler aus Künzell und dem Fuldaer Umland, die ehrliche Rhöner Lebensmittel wollen, aber unter ",
-      "ts": "2026-09-13 05:07",
+      "text": "**WAS:** Das Erlebnis-Paket „Glückauf & Gaumenfreude“ kombiniert eine geführte Dämmerungswanderung rund um den imposanten Neuhofer Monte Kali mit einer urigen Bergmanns-Vesper und der Verkostung regionaler Spezialitäten mitten in der Natur. **fuer WEN:** Perfekt geeignet für Genusswanderer, Paare und kleine Gruppen, die außergewöhnliche Industrie-Natur-Kulis",
+      "ts": "2026-09-13 10:16",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-kuenzell",
+      "agent": "direkt-neuhof",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsfachbetrieb** (mit Fokus auf Wärmepumpen & Badsanierung) in Künzell. **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer in Künzell nach einer neuen Heizung oder Badmodernisierung googeln, landen sie aktuell bei der Konkurrenz – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge direkt aus Ihrer Nachbarscha",
-      "ts": "2026-09-13 05:06",
+      "text": "**WAS:** Eine „Rhöner Feierabend-Box“ im wöchentlichen Abo, voll gepackt mit frischem Landbrot, Hausmacher Wurst, regionalem Käse und Saison-Gemüse zur flexiblen 24/7-Abholung am Hof-Automaten in Neuhof. **für WEN:** Für Berufstätige, Pendler und Familien aus Neuhof und dem Umkreis Fulda, die unter der Woche wenig Zeit haben, aber Wert auf ehrliche, heimisch",
+      "ts": "2026-09-13 10:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-neuhof",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Neuhof (z. B. für Wärmepumpen-Umrüstung und Badsanierungen). **Ansprache-Idee:** „Wenn Neuhofer nach ‚Heizungstausch‘ oder ‚Badsanierung‘ googeln, landen sie aktuell meist bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen im Ort bleiben.“",
+      "ts": "2026-09-13 10:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Vorbestell-Lieferservice für gesunde, deftige Schicht- und Baustellen-Verpflegung, pünktlich geliefert zu den exakten Schichtwechseln im Kalirevier und den lokalen Gewerbegebieten. **WARUM HIER:** Neuhof hat durch das K+S-Kaliwerk hunderte Schichtarbeiter sowie ein starkes Gewerbe an der A66, aber zu Randzeiten wie der Früh- oder Nachtsc",
+      "ts": "2026-09-13 10:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-kuenzell",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen in Künzell persönlich und barrierefrei zu Einkäufen, Arztterminen sowie sozialen Treffpunkten begleitet. **WARUM HIER:** Da Künzell aus verstreuten Ortsteilen wie Dirlos, Pilgerzell oder Dietershausen besteht, schützt dieser Dienst immobile Seniorinnen und Senioren vor Isolation und wahrt ihre Selb",
+      "ts": "2026-09-13 10:15",
       "age_min": 0
     },
     {
@@ -1552,15 +1576,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-13 05:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-lautertal",
-      "via": "gemini",
-      "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
-      "ts": "2026-09-13 05:06",
+      "ts": "2026-09-13 10:15",
       "age_min": 0
     },
     {
@@ -1568,7 +1584,31 @@
       "agent": "senioren-ulrichstein",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-13 05:06",
+      "ts": "2026-09-13 10:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-schwalmtal",
+      "via": "gemini",
+      "text": "**WAS:** Das „Schwalmtaler Nachbarschafts-Mobil“ ist ein verlässlicher Fahr- und Begleitdienst, der ältere Menschen aus den Außenortsteilen sanft dabei unterstützt, Arzttermine, Einkäufe und soziale Treffpunkte im Alltag selbstbestimmt zu erreichen. **WARUM HIER:** Da Schwalmtal aus vielen weit verstreuten Dörfern und Honschaften besteht, schließt dieser Die",
+      "ts": "2026-09-13 10:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-wartenberg",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen auf Augenhöhe bei Einkäufen, Arztbesuchen und Botengängen unterstützt und ihnen so die eigenständige Teilnahme am Gemeindeleben ermöglicht. **WARUM HIER:** In den weitläufigen Ortsteilen von Wartenberg schwindet die Nahversorgung, wodurch die selbstbestimmte Mobilität für Senioren ohne eigenes Auto",
+      "ts": "2026-09-13 10:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-lautertal",
+      "via": "gemini",
+      "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
+      "ts": "2026-09-13 10:15",
       "age_min": 0
     },
     {
@@ -1576,47 +1616,7 @@
       "agent": "senioren-muecke",
       "via": "gemini",
       "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der ältere Menschen aus allen Ortsteilen direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen begleitet und Zeit für persönliche Gespräche mitbringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht, bewahrt dieser Dienst die Selbstständigkeit der Seniorinnen und Senioren",
-      "ts": "2026-09-13 05:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-homberg-ohm",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begleitet. **WARUM HIER:** Homberg (Ohm) besteht aus 14 weit auseinanderliegenden Ortsteilen mit steilen Wegen und ausgedünntem Busverkehr, wodur",
-      "ts": "2026-09-13 05:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "biz-terminki",
-      "via": "gemini",
-      "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
-      "ts": "2026-09-13 05:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-lauterbach",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
-      "ts": "2026-09-13 05:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Der „Grebenhainer Dorfbegleiter“ ist ein verlässlicher, barrierefreier Abhol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Besorgungen, Arztbesuche und soziale Kontakte im Hauptort auf Augenhöhe zu ermöglichen. **WARUM HIER:** Durch die Verteilung der Gemeinde auf 15 weit verstreute Ortsteile im hügeligen Vogelsberg sind",
-      "ts": "2026-09-13 05:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-antrifttal",
-      "via": "gemini",
-      "text": "**WAS:** Ein fester, würdevoller Begleit- und Fahrdienst, der ältere Menschen direkt an der Haustür abholt, um gemeinsame Besorgungen, Arztbesuche und soziale Kontakte in der Region zu ermöglichen. **WARUM HIER:** In den fünf weit verteilten Ortsteilen von Antrifttal fehlt es an eigenen Lebensmittelgeschäften und Ärzten, weshalb eine persönliche, verlässlich",
-      "ts": "2026-09-13 05:06",
+      "ts": "2026-09-13 10:15",
       "age_min": 0
     }
   ]
