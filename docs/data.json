@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-12T22:33Z",
+  "updated": "2026-09-13T00:21Z",
   "agents_total": 162,
-  "worked": 111,
+  "worked": 113,
   "departments": [
     {
       "id": "Kommando",
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Erlebnis-Paket: „Rhöner Sonnenuntergang & Picknick-Genuss am Rauschenberg“** * **WAS:** Das Paket beinhaltet einen leihweisen, prall gefüllten Rucksack mit regionalen Rhöner Bio-Spezialitäten und einer Picknickdecke für eine genussvolle Auszeit auf dem Aussichtspunkt Rauschenberg bei Petersberg. * **fuer WEN:** Das Angebot richtet sich an Paare und Genussm",
+        "text": "**WAS:** Ein mobiler Vor-Ort-Wartungs- und Reparaturdienst für E-Bikes und Fahrräder per speziell ausgerüstetem Service-Transporter. **WARUM HIER:** Künzell hat eine sehr hohe Dichte an eigenheimbasierten E-Bike-Pendlern nach Fulda sowie Rhön-Freizeitfahrern, während die etablierten Fahrradwerkstätten im Umkreis oft monatelange Wartezeiten haben. **ERSTER SC",
         "age_min": 0
       }
     },
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
+        "text": "**WAS:** Ein mobiler Nachbarschafts- und Einkaufsdienst, der ältere Menschen würdevoll von Haustür zu Haustür begleitet, Besorgungen übernimmt und Raum für persönliche Begegnungen schafft. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg fehlen oft fußläufige Einkaufsmöglichkeiten und Treffpunkte, weshalb dieses Angebot die Selbstständigkeit",
         "age_min": 0
       }
     },
@@ -1063,18 +1063,18 @@
       "name": "Senioren-Alltagsdienste — Petersberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Nachbarschafts- und Einkaufsdienst, der ältere Menschen würdevoll von Haustür zu Haustür begleitet, Besorgungen übernimmt und Raum für persönliche Begegnungen schafft. **WARUM HIER:** In den weit ver",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-kuenzell",
       "name": "Chancen-Scout — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Vor-Ort-Wartungs- und Reparaturdienst für E-Bikes und Fahrräder per speziell ausgerüstetem Service-Transporter. **WARUM HIER:** Künzell hat eine sehr hohe Dichte an eigenheimbasierten E-Bike-Pendlern",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-kuenzell",
@@ -1519,24 +1519,24 @@
     }
   ],
   "budget": {
-    "used": 29,
+    "used": 2,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-petersberg",
+      "agent": "chancen-kuenzell",
       "via": "gemini",
-      "text": "**Erlebnis-Paket: „Rhöner Sonnenuntergang & Picknick-Genuss am Rauschenberg“** * **WAS:** Das Paket beinhaltet einen leihweisen, prall gefüllten Rucksack mit regionalen Rhöner Bio-Spezialitäten und einer Picknickdecke für eine genussvolle Auszeit auf dem Aussichtspunkt Rauschenberg bei Petersberg. * **fuer WEN:** Das Angebot richtet sich an Paare und Genussm",
-      "ts": "2026-09-12 22:33",
+      "text": "**WAS:** Ein mobiler Vor-Ort-Wartungs- und Reparaturdienst für E-Bikes und Fahrräder per speziell ausgerüstetem Service-Transporter. **WARUM HIER:** Künzell hat eine sehr hohe Dichte an eigenheimbasierten E-Bike-Pendlern nach Fulda sowie Rhön-Freizeitfahrern, während die etablierten Fahrradwerkstätten im Umkreis oft monatelange Wartezeiten haben. **ERSTER SC",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
-      "dept": "Chancen",
-      "agent": "direkt-petersberg",
+      "dept": "Kunden",
+      "agent": "senioren-petersberg",
       "via": "gemini",
-      "text": "**WAS:** Die „Petersberger Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit erntefrischem Gemüsemix, Rhöner Hofkäse und frischem Bauernbrot, das freitags gekühlt an einer zentralen Abholstation im Ort bereitsteht. **FÜR WEN:** Für berufstätige Pendler und Familien aus Petersberg und Fulda, die ehrlich und regional kochen wollen, es aber zeitlich nicht auf ",
-      "ts": "2026-09-12 22:32",
+      "text": "**WAS:** Ein mobiler Nachbarschafts- und Einkaufsdienst, der ältere Menschen würdevoll von Haustür zu Haustür begleitet, Besorgungen übernimmt und Raum für persönliche Begegnungen schafft. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg fehlen oft fußläufige Einkaufsmöglichkeiten und Treffpunkte, weshalb dieses Angebot die Selbstständigkeit",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
@@ -1544,7 +1544,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-12 22:32",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
@@ -1552,7 +1552,7 @@
       "agent": "senioren-lautertal",
       "via": "gemini",
       "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
-      "ts": "2026-09-12 22:32",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
@@ -1560,7 +1560,7 @@
       "agent": "senioren-ulrichstein",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-12 22:32",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
@@ -1568,7 +1568,7 @@
       "agent": "senioren-muecke",
       "via": "gemini",
       "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der ältere Menschen aus allen Ortsteilen direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen begleitet und Zeit für persönliche Gespräche mitbringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht, bewahrt dieser Dienst die Selbstständigkeit der Seniorinnen und Senioren",
-      "ts": "2026-09-12 22:32",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
@@ -1576,7 +1576,7 @@
       "agent": "senioren-homberg-ohm",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begleitet. **WARUM HIER:** Homberg (Ohm) besteht aus 14 weit auseinanderliegenden Ortsteilen mit steilen Wegen und ausgedünntem Busverkehr, wodur",
-      "ts": "2026-09-12 22:32",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
@@ -1584,7 +1584,7 @@
       "agent": "biz-terminki",
       "via": "gemini",
       "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
-      "ts": "2026-09-12 22:32",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
@@ -1592,7 +1592,7 @@
       "agent": "senioren-lauterbach",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
-      "ts": "2026-09-12 22:32",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
@@ -1600,7 +1600,7 @@
       "agent": "senioren-grebenhain",
       "via": "gemini",
       "text": "**WAS:** Der „Grebenhainer Dorfbegleiter“ ist ein verlässlicher, barrierefreier Abhol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Besorgungen, Arztbesuche und soziale Kontakte im Hauptort auf Augenhöhe zu ermöglichen. **WARUM HIER:** Durch die Verteilung der Gemeinde auf 15 weit verstreute Ortsteile im hügeligen Vogelsberg sind",
-      "ts": "2026-09-12 22:32",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
@@ -1608,7 +1608,7 @@
       "agent": "senioren-antrifttal",
       "via": "gemini",
       "text": "**WAS:** Ein fester, würdevoller Begleit- und Fahrdienst, der ältere Menschen direkt an der Haustür abholt, um gemeinsame Besorgungen, Arztbesuche und soziale Kontakte in der Region zu ermöglichen. **WARUM HIER:** In den fünf weit verteilten Ortsteilen von Antrifttal fehlt es an eigenen Lebensmittelgeschäften und Ärzten, weshalb eine persönliche, verlässlich",
-      "ts": "2026-09-12 22:32",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     },
     {
@@ -1616,7 +1616,7 @@
       "agent": "kunden-faq",
       "via": "gemini",
       "text": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote schreibst oder zusätzliche Funktionen benötigst, kannst du jederzeit auf den kostenpflichtigen Pro-Tarif wechseln. **2. Kann ich mein",
-      "ts": "2026-09-12 22:32",
+      "ts": "2026-09-13 00:21",
       "age_min": 0
     }
   ]
