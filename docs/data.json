@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13T19:48Z",
+  "updated": "2026-09-13T22:02Z",
   "agents_total": 162,
-  "worked": 138,
+  "worked": 139,
   "departments": [
     {
       "id": "Kommando",
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS** Ein mobiler E-Bike-Verleih- und Bringservice, der Räder flexibel direkt an Ferienwohnungen, Wanderparkplätze und Haushalte in den acht Ortsteilen von Hosenfeld liefert. **WARUM HIER** Hosenfeld liegt strategisch günstig am radtouristisch beliebten Übergang zum Vogelsberg, verfügt aber aktuell über keine eigene Bike-Verleihstation für Feriengäste und ",
+        "text": "**Betriebstyp:** Ein **lokaler Heizungs- und Sanitärbetrieb** in Hosenfeld (besonders relevant wegen der hohen Online-Suchanfragen zu Wärmepumpen, Heizungstausch und Badsanierungen im Raum Fulda/Vogelsberg). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer aus der Region Hosenfeld aktuell nach einer neuen Heizung oder Badsanierung googeln, ",
         "age_min": 0
       }
     },
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Dorf-Shuttle, der ältere Menschen aus den einzelnen Ortsteilen direkt von der Haustür zu Ärzten, Einkäufen und Nachbarschaftstreffs im Kernort Eichenzell bringt. **WARUM HIER:** Da Eichenzell aus zehn weit verstreuten Ortsteilen besteht, befinden sich zentrale Hausarztpraxen, Apotheken und Märkte meist im H",
+        "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
         "age_min": 0
       }
     },
@@ -1306,9 +1306,9 @@
       "name": "Handwerk-Sichtbarkeit — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **lokaler Heizungs- und Sanitärbetrieb** in Hosenfeld (besonders relevant wegen der hohen Online-Suchanfragen zu Wärmepumpen, Heizungstausch und Badsanierungen im Raum Fulda/Vogelsberg). **Ansprache-",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-hosenfeld",
@@ -1519,40 +1519,16 @@
     }
   ],
   "budget": {
-    "used": 27,
+    "used": 28,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-hosenfeld",
+      "agent": "handwerk-hosenfeld",
       "via": "gemini",
-      "text": "**WAS** Ein mobiler E-Bike-Verleih- und Bringservice, der Räder flexibel direkt an Ferienwohnungen, Wanderparkplätze und Haushalte in den acht Ortsteilen von Hosenfeld liefert. **WARUM HIER** Hosenfeld liegt strategisch günstig am radtouristisch beliebten Übergang zum Vogelsberg, verfügt aber aktuell über keine eigene Bike-Verleihstation für Feriengäste und ",
-      "ts": "2026-09-13 19:48",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-eichenzell",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Dorf-Shuttle, der ältere Menschen aus den einzelnen Ortsteilen direkt von der Haustür zu Ärzten, Einkäufen und Nachbarschaftstreffs im Kernort Eichenzell bringt. **WARUM HIER:** Da Eichenzell aus zehn weit verstreuten Ortsteilen besteht, befinden sich zentrale Hausarztpraxen, Apotheken und Märkte meist im H",
-      "ts": "2026-09-13 19:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-eichenzell",
-      "via": "gemini",
-      "text": "**WAS:** Erleben Sie einen exklusiven Rundgang durch den historischen Park von Schloss Fasanerie inklusive eines reich gefüllten Picknickkorbs voller regionaler Rhöner Bio-Spezialitäten. **fuer WEN:** Das Paket ist ideal für Paare und Genießer, die Natur, Geschichte und Kulinarik bei einer romantischen Auszeit im Grünen miteinander verbinden möchten. **ERSTE",
-      "ts": "2026-09-13 19:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-eichenzell",
-      "via": "gemini",
-      "text": "**WAS:** Die „Eichenzeller Feierabend-Kiste“ ist ein wöchentliches Abo-Kistchen vollgepackt mit ehrlichem Vesper-Proviant wie frischem Bauernbrot, Rhöner Käse, Ahler Wurscht und knackigem Saison-Gemüse aus der Region. **FÜR WEN:** Für berufstätige Pendler und Familien aus Eichenzell und den umliegenden Ortsteilen, die abends ohne Supermarkt-Stress gute, heim",
-      "ts": "2026-09-13 19:47",
+      "text": "**Betriebstyp:** Ein **lokaler Heizungs- und Sanitärbetrieb** in Hosenfeld (besonders relevant wegen der hohen Online-Suchanfragen zu Wärmepumpen, Heizungstausch und Badsanierungen im Raum Fulda/Vogelsberg). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer aus der Region Hosenfeld aktuell nach einer neuen Heizung oder Badsanierung googeln, ",
+      "ts": "2026-09-13 22:02",
       "age_min": 0
     },
     {
@@ -1560,15 +1536,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-13 19:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-lautertal",
-      "via": "gemini",
-      "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
-      "ts": "2026-09-13 19:47",
+      "ts": "2026-09-13 22:01",
       "age_min": 0
     },
     {
@@ -1576,7 +1544,7 @@
       "agent": "senioren-neuhof",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
-      "ts": "2026-09-13 19:47",
+      "ts": "2026-09-13 22:01",
       "age_min": 0
     },
     {
@@ -1584,7 +1552,55 @@
       "agent": "senioren-ulrichstein",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-13 19:47",
+      "ts": "2026-09-13 22:01",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-schwalmtal",
+      "via": "gemini",
+      "text": "**WAS:** Das „Schwalmtaler Nachbarschafts-Mobil“ ist ein verlässlicher Fahr- und Begleitdienst, der ältere Menschen aus den Außenortsteilen sanft dabei unterstützt, Arzttermine, Einkäufe und soziale Treffpunkte im Alltag selbstbestimmt zu erreichen. **WARUM HIER:** Da Schwalmtal aus vielen weit verstreuten Dörfern und Honschaften besteht, schließt dieser Die",
+      "ts": "2026-09-13 22:01",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-romrod",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher „Dorf-Fahr- und Besorgungsdienst“, der ältere Menschen aus den Ortsteilen flexibel zu Terminen, Einkäufen oder Apotheken nach Romrod bringt und sie auf Wunsch aufmerksam begleitet. **WARUM HIER:** Da in den ländlich verstreuten Ortsteilen von Romrod die Geschäfte des täglichen Bedarfs fehlen, sichert dieses mobile Angebot die Eigen",
+      "ts": "2026-09-13 22:01",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-petersberg",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Nachbarschafts- und Einkaufsdienst, der ältere Menschen würdevoll von Haustür zu Haustür begleitet, Besorgungen übernimmt und Raum für persönliche Begegnungen schafft. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg fehlen oft fußläufige Einkaufsmöglichkeiten und Treffpunkte, weshalb dieses Angebot die Selbstständigkeit",
+      "ts": "2026-09-13 22:01",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-schotten",
+      "via": "gemini",
+      "text": "**WAS:** Ein dorfübergreifender Mobil- und Begleitdienst, der ältere Menschen aus den einzelnen Ortsteilen verlässlich bei Einkäufen, Arztbesuchen oder sozialen Treffpunkten unterstützt und begleitet. **WARUM HIER:** Schotten umfasst 15 weit verstreute Dörfer im Vogelsberg, in denen der öffentliche Nahverkehr oft dünn ist und Senioren ohne eigenes Auto sonst",
+      "ts": "2026-09-13 22:01",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-wartenberg",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen auf Augenhöhe bei Einkäufen, Arztbesuchen und Botengängen unterstützt und ihnen so die eigenständige Teilnahme am Gemeindeleben ermöglicht. **WARUM HIER:** In den weitläufigen Ortsteilen von Wartenberg schwindet die Nahversorgung, wodurch die selbstbestimmte Mobilität für Senioren ohne eigenes Auto",
+      "ts": "2026-09-13 22:01",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-lautertal",
+      "via": "gemini",
+      "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
+      "ts": "2026-09-13 22:01",
       "age_min": 0
     },
     {
@@ -1592,7 +1608,7 @@
       "agent": "senioren-muecke",
       "via": "gemini",
       "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der ältere Menschen aus allen Ortsteilen direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen begleitet und Zeit für persönliche Gespräche mitbringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht, bewahrt dieser Dienst die Selbstständigkeit der Seniorinnen und Senioren",
-      "ts": "2026-09-13 19:47",
+      "ts": "2026-09-13 22:01",
       "age_min": 0
     },
     {
@@ -1600,23 +1616,7 @@
       "agent": "senioren-homberg-ohm",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begleitet. **WARUM HIER:** Homberg (Ohm) besteht aus 14 weit auseinanderliegenden Ortsteilen mit steilen Wegen und ausgedünntem Busverkehr, wodur",
-      "ts": "2026-09-13 19:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-grossenlueder",
-      "via": "gemini",
-      "text": "**WAS** Ein ehrenamtlicher Dorf-Fahr- und Begleitdienst bringt Seniorinnen und Senioren aus den Ortsteilen wie Kleinlüder oder Müs direkt zum Einkauf, Arzt oder Wochenmarkt im Hauptort und unterstützt sie auf Wunsch persönlich vor Ort. **WARUM HIER** Da sich Supermärkte und Praxen auf den Kernort Großenlüder konzentrieren, fehlen in den kleineren, verstreute",
-      "ts": "2026-09-13 19:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "biz-terminki",
-      "via": "gemini",
-      "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
-      "ts": "2026-09-13 19:47",
+      "ts": "2026-09-13 22:01",
       "age_min": 0
     }
   ]
