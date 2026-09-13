@@ -1,6 +1,6 @@
 {
   "day": "2026-09-13",
-  "calls_today": 2,
+  "calls_today": 5,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -114,6 +114,9 @@
     "direkt-petersberg": 1789252377.9049196,
     "tourismus-petersberg": 1789252385.8244357,
     "senioren-petersberg": 1789258889.1605666,
-    "chancen-kuenzell": 1789258896.014603
+    "chancen-kuenzell": 1789258896.014603,
+    "handwerk-kuenzell": 1789276019.900403,
+    "direkt-kuenzell": 1789276027.88291,
+    "tourismus-kuenzell": 1789276035.8692827
   }
 }
