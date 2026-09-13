@@ -1,6 +1,6 @@
 {
   "day": "2026-09-13",
-  "calls_today": 11,
+  "calls_today": 17,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -123,6 +123,12 @@
     "handwerk-neuhof": 1789294557.0495303,
     "direkt-neuhof": 1789294564.001715,
     "tourismus-neuhof": 1789294569.0214522,
-    "senioren-neuhof": 1789294576.5496497
+    "senioren-neuhof": 1789294576.5496497,
+    "chancen-huenfeld": 1789309876.266793,
+    "handwerk-huenfeld": 1789309881.803987,
+    "direkt-huenfeld": 1789309888.1200132,
+    "tourismus-huenfeld": 1789309896.5312383,
+    "senioren-huenfeld": 1789309902.540101,
+    "chancen-grossenlueder": 1789309909.9514356
   }
 }
