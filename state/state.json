@@ -1,6 +1,6 @@
 {
   "day": "2026-09-13",
-  "calls_today": 23,
+  "calls_today": 27,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -135,6 +135,10 @@
     "tourismus-grossenlueder": 1789321176.900502,
     "senioren-grossenlueder": 1789321186.5733552,
     "chancen-eichenzell": 1789321194.912329,
-    "handwerk-eichenzell": 1789321200.4356253
+    "handwerk-eichenzell": 1789321200.4356253,
+    "direkt-eichenzell": 1789328864.3539581,
+    "tourismus-eichenzell": 1789328869.7370222,
+    "senioren-eichenzell": 1789328876.5398824,
+    "chancen-hosenfeld": 1789328885.0292552
   }
 }
