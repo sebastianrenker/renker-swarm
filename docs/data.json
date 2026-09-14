@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13T22:02Z",
+  "updated": "2026-09-14T00:10Z",
   "agents_total": 162,
-  "worked": 139,
+  "worked": 141,
   "departments": [
     {
       "id": "Kommando",
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Ein **lokaler Heizungs- und Sanitärbetrieb** in Hosenfeld (besonders relevant wegen der hohen Online-Suchanfragen zu Wärmepumpen, Heizungstausch und Badsanierungen im Raum Fulda/Vogelsberg). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer aus der Region Hosenfeld aktuell nach einer neuen Heizung oder Badsanierung googeln, ",
+        "text": "**WAS:** Ein dreistündiges Abenderlebnis mit einer leichten GPS-Rundwanderung über historische Basaltwege bei Hosenfeld, gekrönt von einem regionalen Bio-Picknickkorb zum Sonnenuntergang. **fuer WEN:** Dieses Angebot richtet sich an Paare und Genusswanderer, die eine entschleunigende Auszeit in der Natur mit kulinarischen Highlights der Region verbinden möch",
         "age_min": 0
       }
     },
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
+        "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
         "age_min": 0
       }
     },
@@ -1315,18 +1315,18 @@
       "name": "Direktvermarktung — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentlich wechselnde „Hosenfelder Feierabend-Tasche“ mit frischem Saison-Gemüse, Eiern, Käse und Hausmacher Wurst aus der unmittelbaren Nachbarschaft, abzuholen an einer gekühlten 24/7-Dorf-Station. **fue",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-hosenfeld",
       "name": "Vulkanregion-Tourismus — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein dreistündiges Abenderlebnis mit einer leichten GPS-Rundwanderung über historische Basaltwege bei Hosenfeld, gekrönt von einem regionalen Bio-Picknickkorb zum Sonnenuntergang. **fuer WEN:** Dieses Angebot ric",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-hosenfeld",
@@ -1519,16 +1519,24 @@
     }
   ],
   "budget": {
-    "used": 28,
+    "used": 2,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-hosenfeld",
+      "agent": "tourismus-hosenfeld",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **lokaler Heizungs- und Sanitärbetrieb** in Hosenfeld (besonders relevant wegen der hohen Online-Suchanfragen zu Wärmepumpen, Heizungstausch und Badsanierungen im Raum Fulda/Vogelsberg). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer aus der Region Hosenfeld aktuell nach einer neuen Heizung oder Badsanierung googeln, ",
-      "ts": "2026-09-13 22:02",
+      "text": "**WAS:** Ein dreistündiges Abenderlebnis mit einer leichten GPS-Rundwanderung über historische Basaltwege bei Hosenfeld, gekrönt von einem regionalen Bio-Picknickkorb zum Sonnenuntergang. **fuer WEN:** Dieses Angebot richtet sich an Paare und Genusswanderer, die eine entschleunigende Auszeit in der Natur mit kulinarischen Highlights der Region verbinden möch",
+      "ts": "2026-09-14 00:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-hosenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentlich wechselnde „Hosenfelder Feierabend-Tasche“ mit frischem Saison-Gemüse, Eiern, Käse und Hausmacher Wurst aus der unmittelbaren Nachbarschaft, abzuholen an einer gekühlten 24/7-Dorf-Station. **fuer WEN:** Für Pendler und Familien aus Hosenfeld und den Ortsteilen, die unter der Woche keine Zeit für Hofladen-Runden haben, aber ehrliche ",
+      "ts": "2026-09-14 00:09",
       "age_min": 0
     },
     {
@@ -1536,63 +1544,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-13 22:01",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
-      "ts": "2026-09-13 22:01",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-ulrichstein",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-13 22:01",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-schwalmtal",
-      "via": "gemini",
-      "text": "**WAS:** Das „Schwalmtaler Nachbarschafts-Mobil“ ist ein verlässlicher Fahr- und Begleitdienst, der ältere Menschen aus den Außenortsteilen sanft dabei unterstützt, Arzttermine, Einkäufe und soziale Treffpunkte im Alltag selbstbestimmt zu erreichen. **WARUM HIER:** Da Schwalmtal aus vielen weit verstreuten Dörfern und Honschaften besteht, schließt dieser Die",
-      "ts": "2026-09-13 22:01",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-romrod",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher „Dorf-Fahr- und Besorgungsdienst“, der ältere Menschen aus den Ortsteilen flexibel zu Terminen, Einkäufen oder Apotheken nach Romrod bringt und sie auf Wunsch aufmerksam begleitet. **WARUM HIER:** Da in den ländlich verstreuten Ortsteilen von Romrod die Geschäfte des täglichen Bedarfs fehlen, sichert dieses mobile Angebot die Eigen",
-      "ts": "2026-09-13 22:01",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-petersberg",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Einkaufsdienst, der ältere Menschen würdevoll von Haustür zu Haustür begleitet, Besorgungen übernimmt und Raum für persönliche Begegnungen schafft. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg fehlen oft fußläufige Einkaufsmöglichkeiten und Treffpunkte, weshalb dieses Angebot die Selbstständigkeit",
-      "ts": "2026-09-13 22:01",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-schotten",
-      "via": "gemini",
-      "text": "**WAS:** Ein dorfübergreifender Mobil- und Begleitdienst, der ältere Menschen aus den einzelnen Ortsteilen verlässlich bei Einkäufen, Arztbesuchen oder sozialen Treffpunkten unterstützt und begleitet. **WARUM HIER:** Schotten umfasst 15 weit verstreute Dörfer im Vogelsberg, in denen der öffentliche Nahverkehr oft dünn ist und Senioren ohne eigenes Auto sonst",
-      "ts": "2026-09-13 22:01",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-wartenberg",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen auf Augenhöhe bei Einkäufen, Arztbesuchen und Botengängen unterstützt und ihnen so die eigenständige Teilnahme am Gemeindeleben ermöglicht. **WARUM HIER:** In den weitläufigen Ortsteilen von Wartenberg schwindet die Nahversorgung, wodurch die selbstbestimmte Mobilität für Senioren ohne eigenes Auto",
-      "ts": "2026-09-13 22:01",
+      "ts": "2026-09-14 00:09",
       "age_min": 0
     },
     {
@@ -1600,7 +1552,23 @@
       "agent": "senioren-lautertal",
       "via": "gemini",
       "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
-      "ts": "2026-09-13 22:01",
+      "ts": "2026-09-14 00:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
+      "ts": "2026-09-14 00:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-ulrichstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
+      "ts": "2026-09-14 00:09",
       "age_min": 0
     },
     {
@@ -1608,7 +1576,7 @@
       "agent": "senioren-muecke",
       "via": "gemini",
       "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der ältere Menschen aus allen Ortsteilen direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen begleitet und Zeit für persönliche Gespräche mitbringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht, bewahrt dieser Dienst die Selbstständigkeit der Seniorinnen und Senioren",
-      "ts": "2026-09-13 22:01",
+      "ts": "2026-09-14 00:09",
       "age_min": 0
     },
     {
@@ -1616,7 +1584,39 @@
       "agent": "senioren-homberg-ohm",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begleitet. **WARUM HIER:** Homberg (Ohm) besteht aus 14 weit auseinanderliegenden Ortsteilen mit steilen Wegen und ausgedünntem Busverkehr, wodur",
-      "ts": "2026-09-13 22:01",
+      "ts": "2026-09-14 00:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-lauterbach",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
+      "ts": "2026-09-14 00:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-kirtorf",
+      "via": "gemini",
+      "text": "**WAS:** Der „Kirtorfer Alltags-Begleitdienst“ ist ein mobiler Service, der ältere Menschen aus den einzelnen Ortsteilen zu Einkäufen, Arztterminen oder Dorfveranstaltungen begleitet und ihnen vor Ort helfend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Kirtorf fehlen oft eigene Einkaufsmöglichkeiten, weshalb eine verlässliche Wegb",
+      "ts": "2026-09-14 00:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-schwalmtal",
+      "via": "gemini",
+      "text": "**WAS:** Das „Schwalmtaler Nachbarschafts-Mobil“ ist ein verlässlicher Fahr- und Begleitdienst, der ältere Menschen aus den Außenortsteilen sanft dabei unterstützt, Arzttermine, Einkäufe und soziale Treffpunkte im Alltag selbstbestimmt zu erreichen. **WARUM HIER:** Da Schwalmtal aus vielen weit verstreuten Dörfern und Honschaften besteht, schließt dieser Die",
+      "ts": "2026-09-14 00:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-romrod",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher „Dorf-Fahr- und Besorgungsdienst“, der ältere Menschen aus den Ortsteilen flexibel zu Terminen, Einkäufen oder Apotheken nach Romrod bringt und sie auf Wunsch aufmerksam begleitet. **WARUM HIER:** Da in den ländlich verstreuten Ortsteilen von Romrod die Geschäfte des täglichen Bedarfs fehlen, sichert dieses mobile Angebot die Eigen",
+      "ts": "2026-09-14 00:09",
       "age_min": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "day": "2026-09-13",
-  "calls_today": 28,
+  "day": "2026-09-14",
+  "calls_today": 2,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -140,6 +140,8 @@
     "tourismus-eichenzell": 1789328869.7370222,
     "senioren-eichenzell": 1789328876.5398824,
     "chancen-hosenfeld": 1789328885.0292552,
-    "handwerk-hosenfeld": 1789336925.1432223
+    "handwerk-hosenfeld": 1789336925.1432223,
+    "direkt-hosenfeld": 1789344594.1696796,
+    "tourismus-hosenfeld": 1789344599.5330565
   }
 }
