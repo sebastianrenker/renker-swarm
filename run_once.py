@@ -9,3 +9,8 @@ if __name__ == "__main__":
     load_env()  # picks up a local .env if present (no-op on GitHub Actions)
     ran = run_cycle()
     print(f"done — {ran} agent(s) ran this cycle")
+    try:
+        from build_results import build
+        print(f"results.json — {build()} Ergebnisse (Volltext)")
+    except Exception as e:
+        print(f"build_results skipped: {e}")

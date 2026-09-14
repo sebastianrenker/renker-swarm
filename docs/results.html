@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0a0f13">
+<title>RenkerSwarm Ergebnisse</title>
+<style>
+  :root{
+    --bg:#0a0f13; --panel:#111a20; --panel2:#0e161b; --line:#1c2f37;
+    --ink:#e7f2f2; --dim:#8aa6ab; --teal:#35d9c0; --copper:#d68a52;
+    --Kommando:#4aa3ff; --Chancen:#46e05a; --Recherche:#37c6d4; --Kunden:#b98cff; --Bau:#e08a3a; --Finanzen:#e6c534;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{background:var(--bg);color:var(--ink);font:16px/1.6 "Segoe UI",system-ui,sans-serif;
+    padding:0 16px 60px;max-width:960px;margin:0 auto}
+  header{position:sticky;top:0;z-index:5;background:linear-gradient(180deg,var(--bg) 70%,transparent);
+    padding:16px 0 12px;border-bottom:1px solid var(--line);margin-bottom:8px}
+  h1{margin:0;font-size:22px;letter-spacing:2px}
+  h1 b{color:var(--teal)} h1 .sub{color:var(--copper);font-size:12px;letter-spacing:3px;display:block;margin-top:4px;font-weight:600}
+  .meta{color:var(--dim);font-size:14px;margin-top:8px;display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+  .live{color:#46e05a;display:flex;align-items:center;gap:6px}
+  .led{width:9px;height:9px;border-radius:50%;background:#46e05a;box-shadow:0 0 8px #46e05a;animation:blink 1.4s infinite}
+  @keyframes blink{50%{opacity:.3}}
+  .nav{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+  .nav a{font-size:13px;color:var(--dim);border:1px solid var(--line);border-radius:20px;padding:3px 11px;text-decoration:none}
+  .nav a:hover{color:var(--ink);border-color:var(--teal)}
+  section{margin:26px 0}
+  .sech{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:var(--copper);border-bottom:1px solid var(--line);padding-bottom:6px;margin:0 0 14px}
+  .dh{font-size:19px;margin:0 0 14px;display:flex;align-items:center;gap:10px}
+  .dh .bar{width:6px;height:22px;border-radius:2px;display:inline-block}
+  .dh .cnt{font-size:13px;color:var(--dim);border:1px solid var(--line);border-radius:20px;padding:1px 10px}
+  .card{background:linear-gradient(180deg,var(--panel),var(--panel2));border:1px solid var(--line);
+    border-left:4px solid var(--teal);border-radius:10px;padding:14px 16px;margin:0 0 14px}
+  .card .ch{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:baseline;margin-bottom:8px}
+  .card .who{font-weight:700;color:var(--teal);font-size:15px}
+  .card .ti{color:var(--ink);font-weight:600}
+  .card .tm{color:var(--dim);font-size:13px;white-space:nowrap}
+  .card .body{color:#d5e6e6;font-size:15.5px}
+  .card .body p{margin:0 0 10px} .card .body ul{margin:6px 0 12px;padding-left:20px} .card .body li{margin:3px 0}
+  .card .body strong{color:#fff}
+  .active .card{border-left-color:var(--copper)}
+  .empty{color:var(--dim);padding:20px;text-align:center;border:1px dashed var(--line);border-radius:10px}
+  footer{margin-top:30px;color:var(--dim);font-size:13px;text-align:center;border-top:1px solid var(--line);padding-top:14px}
+</style>
+</head>
+<body>
+  <header>
+    <h1><b>RENKER</b>SWARM · ERGEBNISSE<span class="sub">WAS DIE CREW ERREICHT HAT & GERADE TUT</span></h1>
+    <div class="meta">
+      <span class="live"><span class="led"></span><span id="livetxt">LIVE</span></span>
+      <span id="m-results">–</span>
+      <span id="m-updated">–</span>
+      <a href="./index.html" style="color:var(--teal);text-decoration:none">→ zur animierten Station</a>
+    </div>
+    <div class="nav" id="nav"></div>
+  </header>
+
+  <section class="active">
+    <div class="sech">Aktiv jetzt · zuletzt erledigt</div>
+    <div id="active"></div>
+  </section>
+
+  <div id="depts"></div>
+
+  <footer>
+    Aktualisiert sich automatisch alle 60 Sekunden · läuft autonom & kostenlos ·
+    Geld/Verträge/Kunden bleiben deine Freigabe
+  </footer>
+
+<script>
+  const COL={Kommando:"#4aa3ff",Chancen:"#46e05a",Recherche:"#37c6d4",Kunden:"#b98cff",Bau:"#e08a3a",Finanzen:"#e6c534"};
+  function esc(s){return(s||"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
+  function ago(m){m=Math.max(0,Math.round(m||0));if(m<1)return"gerade eben";if(m<60)return"vor "+m+" min";const h=Math.floor(m/60);if(h<24)return"vor "+h+" h";return"vor "+Math.floor(h/24)+" d";}
+  // markdown-lite -> HTML (Absätze, Aufzählungen, **fett**)
+  function md(t){
+    t=esc(t||"");
+    const lines=t.split(/\r?\n/); let html="",inList=false;
+    const bold=s=>s.replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>");
+    for(let ln of lines){
+      const s=ln.trim();
+      if(/^[-*]\s+/.test(s)){ if(!inList){html+="<ul>";inList=true;} html+="<li>"+bold(s.replace(/^[-*]\s+/,""))+"</li>"; continue; }
+      if(inList){html+="</ul>";inList=false;}
+      if(!s){ continue; }
+      if(/^#{1,6}\s/.test(s)){ html+="<p><strong>"+bold(s.replace(/^#{1,6}\s/,""))+"</strong></p>"; continue; }
+      html+="<p>"+bold(s)+"</p>";
+    }
+    if(inList)html+="</ul>";
+    return html||"<p style='color:#7f9aa0'>(kein Text)</p>";
+  }
+  function card(it,cls){
+    const c=COL[it.dept]||"#35d9c0";
+    return `<div class="card" style="border-left-color:${c}">
+      <div class="ch"><span><span class="who">${esc(it.agent||"")}</span>
+        <span class="ti"> — ${esc(it.title||"")}</span></span>
+        <span class="tm">${esc(it.dept||"")} · ${esc(it.via||"")} · ${ago(it.age_min)}</span></div>
+      <div class="body">${md(it.text)}</div></div>`;
+  }
+  async function tick(){
+    let d; try{ d=await (await fetch("./results.json?"+Date.now())).json(); }
+    catch(e){ document.getElementById("livetxt").textContent="OFFLINE"; return; }
+    document.getElementById("livetxt").textContent="LIVE";
+    document.getElementById("m-results").textContent=(d.total_results||0)+" Ergebnisse in "+(d.total_depts||0)+" Abteilungen";
+    document.getElementById("m-updated").textContent="Stand "+(d.updated||"");
+    document.getElementById("active").innerHTML=(d.active||[]).map(x=>card(x)).join("")||"<div class='empty'>Noch nichts erledigt — die Crew legt gerade los.</div>";
+    const nav=(d.departments||[]).map(dp=>`<a href="#d-${encodeURIComponent(dp.id)}">${esc(dp.id)} (${dp.count})</a>`).join("");
+    document.getElementById("nav").innerHTML=nav;
+    document.getElementById("depts").innerHTML=(d.departments||[]).map(dp=>{
+      const c=COL[dp.id]||"#35d9c0";
+      return `<section id="d-${encodeURIComponent(dp.id)}">
+        <div class="dh"><span class="bar" style="background:${c}"></span>${esc(dp.id)}
+          <span class="cnt">${dp.count} Ergebnis${dp.count===1?"":"se"}</span></div>
+        ${dp.items.map(x=>card(x)).join("")}</section>`;
+    }).join("")||"<div class='empty'>Noch keine Ergebnisse.</div>";
+  }
+  tick(); setInterval(tick,60000);
+</script>
+</body>
+</html>
