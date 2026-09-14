@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-14T04:53Z",
+  "updated": "2026-09-14T10:16Z",
   "agents_total": 162,
-  "worked": 142,
+  "worked": 148,
   "departments": [
     {
       "id": "Kommando",
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Bei der „Vulkan-Gipfelzeit in Ulrichstein“ erlebst du eine exklusive Kurzführung über die historische Burgruine mit anschließendem Picknick aus regionalen Vogelsberger Spezialitäten auf Hessens höchstgelegenem Schlossberg. **fuer WEN:** Dieses Paket ist ideal für Paare und Genuss-Wanderer, die Erdgeschichte und spektakuläre Panoramablicke mit kulina",
+        "text": "**WAS:** Geführte Sternenpark-Nachtspaziergänge inklusive Rucksack-Vesper mit regionalen Rhöner Produkten für Feriengäste. **WARUM HIER:** Tann ist ein etablierter Knotenpunkt für Naturtourismus im Biosphärenreservat Rhön, lässt das riesige Potenzial des Dunkelheits- und Sternenpark-Tourismus als direkt vor Ort buchbares Abenderlebnis bisher aber weitgehend ",
         "age_min": 0
       }
     },
@@ -44,7 +44,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein ehrenamtlich getragener Begleit- und Fahrdienst bringt Seniorinnen und Senioren aus den acht Ortsteilen von Hosenfeld würdevoll und flexibel zu Einkäufen, Arztterminen und sozialen Treffpunkten. **WARUM HIER:** In den weit verstreuten Dörfern der Gemeinde fehlen oft Nahversorger vor Ort, sodass dieser Dienst die Selbstständigkeit der Älteren in ",
+        "text": "**WAS:** Der „Fliedener Dorf-Begleitdienst“ bietet älteren Menschen aus den Ortsteilen eine persönliche Abholung von der Haustür, um Termine, Einkäufe oder soziale Kontakte im Hauptort eigenständig und in Ruhe wahrzunehmen. **WARUM HIER:** In einer weitläufigen Gemeinde wie Flieden mit verstreuten Dörfern wie Buchenrod oder Magdlos sichert diese verlässliche",
         "age_min": 0
       }
     },
@@ -1342,54 +1342,54 @@
       "name": "Chancen-Scout — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein mobiler Pendler-Kaffee- und Frühstücksservice auf Lastenrad-Basis direkt am Bahnhof Flieden. **WARUM HIER** Hunderte Berufspendler nutzen täglich den Fliedener Bahnhof Richtung Frankfurt und Fulda, vor Ort fe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-flieden",
       "name": "Handwerk-Sichtbarkeit — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb (SHK)** in Flieden. **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer in Flieden online nach einer neuen Wärmepumpe oder Badrenovierung suchen, finden si",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-flieden",
       "name": "Direktvermarktung — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Königreich-Feierabendkiste“ ist ein gekühltes 24/7-Schließfachsystem am Bahnhof Flieden, das online vorbestellte Vesper- und Kochpakete mit frischen Landprodukten von Höfen aus der Region direkt für den Nac",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-flieden",
       "name": "Vulkanregion-Tourismus — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein geführtes E-Bike-Tagesabenteuer durch das malerische „Königreich Flieden“ inklusive eines gefüllten Picknickkorbs mit regionalen Spezialitäten aus Rhön und Vogelsberg. **FÜR WEN:** Perfekt für genussorientie",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-flieden",
       "name": "Senioren-Alltagsdienste — Flieden",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Fliedener Dorf-Begleitdienst“ bietet älteren Menschen aus den Ortsteilen eine persönliche Abholung von der Haustür, um Termine, Einkäufe oder soziale Kontakte im Hauptort eigenständig und in Ruhe wahrzunehm",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-tann",
       "name": "Chancen-Scout — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Geführte Sternenpark-Nachtspaziergänge inklusive Rucksack-Vesper mit regionalen Rhöner Produkten für Feriengäste. **WARUM HIER:** Tann ist ein etablierter Knotenpunkt für Naturtourismus im Biosphärenreservat Rhö",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-tann",
@@ -1519,16 +1519,56 @@
     }
   ],
   "budget": {
-    "used": 3,
+    "used": 9,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-hosenfeld",
+      "dept": "Chancen",
+      "agent": "chancen-tann",
       "via": "gemini",
-      "text": "**WAS:** Ein ehrenamtlich getragener Begleit- und Fahrdienst bringt Seniorinnen und Senioren aus den acht Ortsteilen von Hosenfeld würdevoll und flexibel zu Einkäufen, Arztterminen und sozialen Treffpunkten. **WARUM HIER:** In den weit verstreuten Dörfern der Gemeinde fehlen oft Nahversorger vor Ort, sodass dieser Dienst die Selbstständigkeit der Älteren in ",
-      "ts": "2026-09-14 04:53",
+      "text": "**WAS:** Geführte Sternenpark-Nachtspaziergänge inklusive Rucksack-Vesper mit regionalen Rhöner Produkten für Feriengäste. **WARUM HIER:** Tann ist ein etablierter Knotenpunkt für Naturtourismus im Biosphärenreservat Rhön, lässt das riesige Potenzial des Dunkelheits- und Sternenpark-Tourismus als direkt vor Ort buchbares Abenderlebnis bisher aber weitgehend ",
+      "ts": "2026-09-14 10:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-flieden",
+      "via": "gemini",
+      "text": "**WAS:** Der „Fliedener Dorf-Begleitdienst“ bietet älteren Menschen aus den Ortsteilen eine persönliche Abholung von der Haustür, um Termine, Einkäufe oder soziale Kontakte im Hauptort eigenständig und in Ruhe wahrzunehmen. **WARUM HIER:** In einer weitläufigen Gemeinde wie Flieden mit verstreuten Dörfern wie Buchenrod oder Magdlos sichert diese verlässliche",
+      "ts": "2026-09-14 10:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-flieden",
+      "via": "gemini",
+      "text": "**WAS:** Ein geführtes E-Bike-Tagesabenteuer durch das malerische „Königreich Flieden“ inklusive eines gefüllten Picknickkorbs mit regionalen Spezialitäten aus Rhön und Vogelsberg. **FÜR WEN:** Perfekt für genussorientierte Paare, aktive Senioren und kleine Freundesgruppen, die Natur, Kultur und regionale Kulinarik entspannt auf zwei Rädern verbinden möchten",
+      "ts": "2026-09-14 10:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-flieden",
+      "via": "gemini",
+      "text": "**WAS:** Die „Königreich-Feierabendkiste“ ist ein gekühltes 24/7-Schließfachsystem am Bahnhof Flieden, das online vorbestellte Vesper- und Kochpakete mit frischen Landprodukten von Höfen aus der Region direkt für den Nachhauseweg bereitstellt. **für WEN:** Für heimische Pendler und vielbeschäftigte Familien aus Flieden und den Ortsteilen, die Wert auf ehrlic",
+      "ts": "2026-09-14 10:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-flieden",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb (SHK)** in Flieden. **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer in Flieden online nach einer neuen Wärmepumpe oder Badrenovierung suchen, finden sie aktuell meist nur die Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die Anfragen aus der Region direkt bei Ihnen landen.“",
+      "ts": "2026-09-14 10:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-flieden",
+      "via": "gemini",
+      "text": "**WAS** Ein mobiler Pendler-Kaffee- und Frühstücksservice auf Lastenrad-Basis direkt am Bahnhof Flieden. **WARUM HIER** Hunderte Berufspendler nutzen täglich den Fliedener Bahnhof Richtung Frankfurt und Fulda, vor Ort fehlt jedoch bisher ein schnelles Verpflegungsangebot für den morgendlichen Arbeitsweg. **ERSTER SCHRITT** Beantrage bei der Gemeinde Flieden ",
+      "ts": "2026-09-14 10:16",
       "age_min": 0
     },
     {
@@ -1536,7 +1576,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-14 04:52",
+      "ts": "2026-09-14 10:15",
       "age_min": 0
     },
     {
@@ -1544,7 +1584,7 @@
       "agent": "senioren-lautertal",
       "via": "gemini",
       "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
-      "ts": "2026-09-14 04:52",
+      "ts": "2026-09-14 10:15",
       "age_min": 0
     },
     {
@@ -1552,7 +1592,7 @@
       "agent": "senioren-neuhof",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
-      "ts": "2026-09-14 04:52",
+      "ts": "2026-09-14 10:15",
       "age_min": 0
     },
     {
@@ -1560,7 +1600,7 @@
       "agent": "senioren-ulrichstein",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-14 04:52",
+      "ts": "2026-09-14 10:15",
       "age_min": 0
     },
     {
@@ -1568,31 +1608,7 @@
       "agent": "senioren-muecke",
       "via": "gemini",
       "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der ältere Menschen aus allen Ortsteilen direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen begleitet und Zeit für persönliche Gespräche mitbringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht, bewahrt dieser Dienst die Selbstständigkeit der Seniorinnen und Senioren",
-      "ts": "2026-09-14 04:52",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-homberg-ohm",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begleitet. **WARUM HIER:** Homberg (Ohm) besteht aus 14 weit auseinanderliegenden Ortsteilen mit steilen Wegen und ausgedünntem Busverkehr, wodur",
-      "ts": "2026-09-14 04:52",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-grossenlueder",
-      "via": "gemini",
-      "text": "**WAS** Ein ehrenamtlicher Dorf-Fahr- und Begleitdienst bringt Seniorinnen und Senioren aus den Ortsteilen wie Kleinlüder oder Müs direkt zum Einkauf, Arzt oder Wochenmarkt im Hauptort und unterstützt sie auf Wunsch persönlich vor Ort. **WARUM HIER** Da sich Supermärkte und Praxen auf den Kernort Großenlüder konzentrieren, fehlen in den kleineren, verstreute",
-      "ts": "2026-09-14 04:52",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "biz-terminki",
-      "via": "gemini",
-      "text": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ### SZENARIO **„Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“** *(Betrieb: Sanitär & Heizung Meisterbetrieb, Kundenanruf wä",
-      "ts": "2026-09-14 04:52",
+      "ts": "2026-09-14 10:15",
       "age_min": 0
     },
     {
@@ -1600,23 +1616,7 @@
       "agent": "senioren-lauterbach",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
-      "ts": "2026-09-14 04:52",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Der „Grebenhainer Dorfbegleiter“ ist ein verlässlicher, barrierefreier Abhol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Besorgungen, Arztbesuche und soziale Kontakte im Hauptort auf Augenhöhe zu ermöglichen. **WARUM HIER:** Durch die Verteilung der Gemeinde auf 15 weit verstreute Ortsteile im hügeligen Vogelsberg sind",
-      "ts": "2026-09-14 04:52",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-antrifttal",
-      "via": "gemini",
-      "text": "**WAS:** Ein fester, würdevoller Begleit- und Fahrdienst, der ältere Menschen direkt an der Haustür abholt, um gemeinsame Besorgungen, Arztbesuche und soziale Kontakte in der Region zu ermöglichen. **WARUM HIER:** In den fünf weit verteilten Ortsteilen von Antrifttal fehlt es an eigenen Lebensmittelgeschäften und Ärzten, weshalb eine persönliche, verlässlich",
-      "ts": "2026-09-14 04:52",
+      "ts": "2026-09-14 10:15",
       "age_min": 0
     }
   ]
