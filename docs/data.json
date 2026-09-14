@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T20:23Z",
+  "updated": "2026-09-14T23:16Z",
   "agents_total": 162,
   "worked": 162,
   "departments": [
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Das Erlebnis-Paket „Tanner Brot- & Kräuterzeit“ kombiniert eine Führung durch das historische Museumsdorf Tann mit einem Mitmach-Backkurs am alten Holzofen und dem Ansetzen eigener Rhöner Kräuterbutter. **fuer WEN:** Ideal für Familien, Hobbybäcker und Landlust-Genießer, die traditionelles Handwerk mit allen Sinnen erleben und schmecken möchten. **E",
+        "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK-Handwerk in Gersfeld) **Ansprache-Idee:** „Wenn in Gersfeld im Winter die Heizung streikt oder Hausbesitzer eine neue Wärmepumpe suchen, müssen Sie bei Google sofort ganz oben stehen – damit die lukrativen Aufträge direkt aus der Rhön bei Ihnen landen und nicht beim teuren Notdienst aus der nächsten Großstad",
         "age_min": 0
       }
     },
@@ -43,8 +43,8 @@
       "id": "Kunden",
       "count": 32,
       "latest": {
-        "via": "ollama",
-        "text": "**WAS:** Ein digitales Verbindungsnetzwerk, das Senioren mit anderen Mitgliedern des Dorfes verbindet, um Unterstützung bei alltäglichen Aufgaben zu organisieren und so die Isolation zu reduzieren. **WARUM HIER:** Die digitalen Fähigkeiten von Senioren in Wartenberg sind oft begrenzt, was zu einer Einsamkeit und zur Unfähigkeit führt, Unterstützung online zu",
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Dorf-Alltagsbegleiter-Dienst, der Seniorinnen und Senioren direkt zu Hause besucht, um sie individuell bei schweren Besorgungen, kleineren Reparaturen im Haushalt und dem Ausfüllen von Formularen auf Augenhöhe zu unterstützen. **WARUM HIER:** In den weit verstreuten Ortsteilen von Tann fehlen lokale Nahversorger und kleine Handwerksdiens",
         "age_min": 0
       }
     },
@@ -1423,8 +1423,8 @@
       "name": "Senioren-Alltagsdienste — Tann",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "WAS: Ein mobiles Gesundheitswesen, das regulär in Tann und umliegende Dörfer einfährt, um Hygiene- und Gesundheitsangebote an Senioren anzubieten. WARUM HIER: Tann hat eine hohe Bevölkerungsanteil alternder Einwohner, un",
-      "via": "ollama",
+      "out": "**WAS:** Ein mobiler Dorf-Alltagsbegleiter-Dienst, der Seniorinnen und Senioren direkt zu Hause besucht, um sie individuell bei schweren Besorgungen, kleineren Reparaturen im Haushalt und dem Ausfüllen von Formularen auf",
+      "via": "gemini",
       "age_min": 0
     },
     {
@@ -1432,8 +1432,8 @@
       "name": "Chancen-Scout — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "Wertschöpfende Landwirtschaftsberatung / Warum hier: Gersfeld liegt in einer typischen Landwirtschaftsregion mit kleineren Bauern, die nach effizienteren Lösungen suchen / Erster Schritt: Einrichtung eines lokalen Beratu",
-      "via": "ollama",
+      "out": "**WAS:** Ein lokaler Servicedienstleister für private Ferienwohnungsvermieter, der Schlüsselübergabe, Reinigungsorganisation, Notfall-Pikett und regionale Willkommenspakete aus einer Hand anbietet. **WARUM HIER:** Gersfe",
+      "via": "gemini",
       "age_min": 0
     },
     {
@@ -1441,8 +1441,8 @@
       "name": "Handwerk-Sichtbarkeit — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "Ein weiterer Betriebstyp in Gersfeld, der von einem Digital-Sichtbarkeits-Paket profitieren könnte, ist ein Kleider oder Accessoires Vertrieb. Solche Betriebe können sich besser im lokalen Netzwerk und bei den Potenzialk",
-      "via": "ollama",
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK-Handwerk in Gersfeld) **Ansprache-Idee:** „Wenn in Gersfeld im Winter die Heizung streikt oder Hausbesitzer eine neue Wärmepumpe suchen, müssen Sie bei Google sofort gan",
+      "via": "gemini",
       "age_min": 0
     },
     {
@@ -1519,24 +1519,32 @@
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 15,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-tann",
+      "agent": "handwerk-gersfeld",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Tanner Brot- & Kräuterzeit“ kombiniert eine Führung durch das historische Museumsdorf Tann mit einem Mitmach-Backkurs am alten Holzofen und dem Ansetzen eigener Rhöner Kräuterbutter. **fuer WEN:** Ideal für Familien, Hobbybäcker und Landlust-Genießer, die traditionelles Handwerk mit allen Sinnen erleben und schmecken möchten. **E",
-      "ts": "2026-09-14 20:23",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK-Handwerk in Gersfeld) **Ansprache-Idee:** „Wenn in Gersfeld im Winter die Heizung streikt oder Hausbesitzer eine neue Wärmepumpe suchen, müssen Sie bei Google sofort ganz oben stehen – damit die lukrativen Aufträge direkt aus der Rhön bei Ihnen landen und nicht beim teuren Notdienst aus der nächsten Großstad",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-tann",
+      "agent": "chancen-gersfeld",
       "via": "gemini",
-      "text": "**WAS:** Ein Samstagmorgen-Lieferservice für das „Tanner Hof-Frühstück“, das frische Landmilch, Eier aus Freilandhaltung, Bauernbutter und Rohmilchkäse direkt von Tanner Erzeugern in einer Holzkiste an die Haustür bringt. **für WEN:** Urlauber in den zahlreichen Rhöner Ferienwohnungen sowie einheimische Familien, die das Wochenende ohne Einkaufsstress mit ec",
-      "ts": "2026-09-14 20:23",
+      "text": "**WAS:** Ein lokaler Servicedienstleister für private Ferienwohnungsvermieter, der Schlüsselübergabe, Reinigungsorganisation, Notfall-Pikett und regionale Willkommenspakete aus einer Hand anbietet. **WARUM HIER:** Gersfeld besitzt als traditionsreicher Luftkurort hunderte private Ferienwohnungen, deren Eigentümer oft älter sind oder außerhalb wohnen, während",
+      "ts": "2026-09-14 23:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-tann",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Dorf-Alltagsbegleiter-Dienst, der Seniorinnen und Senioren direkt zu Hause besucht, um sie individuell bei schweren Besorgungen, kleineren Reparaturen im Haushalt und dem Ausfüllen von Formularen auf Augenhöhe zu unterstützen. **WARUM HIER:** In den weit verstreuten Ortsteilen von Tann fehlen lokale Nahversorger und kleine Handwerksdiens",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     },
     {
@@ -1544,7 +1552,7 @@
       "agent": "recherche-wettbewerb",
       "via": "ollama",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum, mit drei unterschiedlichen Paketen: --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Preisspanne:** **1.200 € – 1.800 €** (Einmalzahlung) + **50 € – 75 € / Monat** (Hosting, Wartung, kleine Anpassungen) * **Begründung:** **1.200 € – 1.800 € (Einm",
-      "ts": "2026-09-14 20:22",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     },
     {
@@ -1552,7 +1560,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-14 20:22",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     },
     {
@@ -1560,7 +1568,7 @@
       "agent": "senioren-wartenberg",
       "via": "ollama",
       "text": "**WAS:** Ein digitales Verbindungsnetzwerk, das Senioren mit anderen Mitgliedern des Dorfes verbindet, um Unterstützung bei alltäglichen Aufgaben zu organisieren und so die Isolation zu reduzieren. **WARUM HIER:** Die digitalen Fähigkeiten von Senioren in Wartenberg sind oft begrenzt, was zu einer Einsamkeit und zur Unfähigkeit führt, Unterstützung online zu",
-      "ts": "2026-09-14 20:22",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     },
     {
@@ -1568,7 +1576,7 @@
       "agent": "senioren-ulrichstein",
       "via": "ollama",
       "text": "**WAS:** Ein mobiler Notfall- und Einkaufsdienst für Senioren. **WARUM HIER:** In Ulrichstein fehlt es an öffentlicher Verkehrsmittel, sodass ältere Menschen oft auf Hilfe angewiesen sind. **ERSTER SCHRITT:** Ein lokales Team aus Ehrenamtlichen wird gebeten, sich für die Organisation einer mobilen Dienstleistung zu engagieren.",
-      "ts": "2026-09-14 20:22",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     },
     {
@@ -1576,7 +1584,7 @@
       "agent": "senioren-ulrichstein",
       "via": "ollama",
       "text": "**WAS:** Eine app-basierte Informations- und Reservierungsplattform für die Ulrichsteiner Dorf-Begleiter-Dienste, die Senioren und Fahrgäste einfach und effizient die Nutzung des Dienstes ermöglicht. **WARUM HIER:** Um den Dienst leicht zugänglich und benutzerfreundlich für alle Senioren zu gestalten, die möglicherweise technikärmer oder weniger vertraut mit",
-      "ts": "2026-09-14 20:22",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     },
     {
@@ -1584,7 +1592,7 @@
       "agent": "senioren-wartenberg",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen auf Augenhöhe bei Einkäufen, Arztbesuchen und Botengängen unterstützt und ihnen so die eigenständige Teilnahme am Gemeindeleben ermöglicht. **WARUM HIER:** In den weitläufigen Ortsteilen von Wartenberg schwindet die Nahversorgung, wodurch die selbstbestimmte Mobilität für Senioren ohne eigenes Auto",
-      "ts": "2026-09-14 20:22",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     },
     {
@@ -1592,7 +1600,7 @@
       "agent": "senioren-ulrichstein",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-14 20:22",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     },
     {
@@ -1600,7 +1608,7 @@
       "agent": "senioren-schwalmtal",
       "via": "ollama",
       "text": "**WAS:** Das „Schwalmtaler Nachbarschafts-Mobil“ ist ein verlässlicher Fahr- und Begleitdienst, der ältere Menschen aus den Außenortsteilen sanft dabei unterstützt, Arzttermine, Einkäufe und soziale Treffpunkte im Alltag selbstbestimmt zu erreichen. **WARUM HIER:** Da Schwalmtal aus vielen weit verstreuten Dörfern und Honschaften besteht, schließt dieser Die",
-      "ts": "2026-09-14 20:22",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     },
     {
@@ -1608,15 +1616,7 @@
       "agent": "senioren-schwalmtal",
       "via": "ollama",
       "text": "**WAS:** Ein mobiler Transportdienst für Senioren, der sie zwischen ihren Wohnorten und wichtigen Dienstleistungen wie Arztbesuchen oder Einkäufen verbindet. **WARUM HIER:** In Schwalmtal mit seinen verstreuten Dörfern ist Mobilität oft ein Herausforderung, und ein lokaler Dienst schafft Sicherheit und Unabhängigkeit. **ERSTER SCHRITT:** Ein kostenloses Prob",
-      "ts": "2026-09-14 20:22",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-tann",
-      "via": "ollama",
-      "text": "WAS: Ein mobiles Gesundheitswesen, das regulär in Tann und umliegende Dörfer einfährt, um Hygiene- und Gesundheitsangebote an Senioren anzubieten. WARUM HIER: Tann hat eine hohe Bevölkerungsanteil alternder Einwohner, und viele Senioren leben in den umliegenden Dörfern, die keinen direkten Zugang zu ärztlichen Dienstleistungen haben. ERSTER SCHRITT: Ersten K",
-      "ts": "2026-09-14 20:22",
+      "ts": "2026-09-14 23:16",
       "age_min": 0
     }
   ]

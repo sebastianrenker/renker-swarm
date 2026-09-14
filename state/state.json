@@ -1,6 +1,6 @@
 {
   "day": "2026-09-14",
-  "calls_today": 12,
+  "calls_today": 15,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -152,6 +152,9 @@
     "chancen-tann": 1789381003.1010437,
     "handwerk-tann": 1789403156.3213763,
     "direkt-tann": 1789417390.0031137,
-    "tourismus-tann": 1789417397.6989005
+    "tourismus-tann": 1789417397.6989005,
+    "senioren-tann": 1789427775.8981752,
+    "chancen-gersfeld": 1789427789.0149145,
+    "handwerk-gersfeld": 1789427795.586653
   }
 }
