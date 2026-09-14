@@ -1,21 +1,21 @@
 # Renker Swarm — Board
 
-Stand: 2026-09-14T16:25Z · 162 Agenten · 149 mit Ergebnis · Budget 10/600
+Stand: 2026-09-14T19:57Z · 162 Agenten · 162 mit Ergebnis · Budget 10/600
 
 ## Kommando — 2 Agenten
-- Hier ist der Lagebericht für diese Woche: * **Offerta:** **Stand:** Stabil im Betrieb | **Nächster Hebel:** Händler-Onboarding automatisieren, um Marge ohne zusätzlichen Aufwand zu steigern. * **Handwerk-Sichtbar:** **Stand:** Hohe Nachfrage, Kapazitätsgrenze nah | **Nächster Hebel:** Fulfillment-Prozesse standardisieren, um Sales wieder aufzudrehen. * **Vog  _(via gemini, vor 0 min)_
+- Hier ist der Lagebericht für diese Woche: * **Offerta:** **Stand:** Stabil im Betrieb | **Nächster Hebel:** Händler-Onboarding automatisieren, um Marge ohne zusätzlichen Aufwand zu steigern. * **Handwerk-Sichtbar:** **Stand:** Hohe Nachfrage, Kapazitätsgrenze nah | **Nächster Hebel:** Fulfillment-Prozesse standardisieren, um Sales wieder aufzudrehen. * **Vog  _(via ollama, vor 209 min)_
 
 ## Chancen — 125 Agenten
-- **Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** in Tann (Rhön). **Ansprache-Idee:** „Hallo [Name], wenn die Tanner nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass der nächste Auftrag direkt bei Ihnen im Ort bleibt.“  _(via gemini, vor 0 min)_
+- **WAS:** Erlebe beim Abend-Paket „Rhön-Sterne & Zapfenstreich“ eine geführte Nachtwanderung durch das UNESCO-Biosphärenreservat bei Tann inklusive Teleskop-Astrobeobachtung im Sternenpark und regionalem Schlummertrunk. **fuer WEN:** Ideal für Paare, Romantiker und Hobby-Astronauten, die den faszinierenden Sternenhimmel in einer der dunkelsten Regionen Deutsc  _(via gemini, vor 9 min)_
 
 ## Recherche — 1 Agenten
-- Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka  _(via gemini, vor 0 min)_
+- Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum, mit drei unterschiedlichen Paketen: --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Preisspanne:** **1.200 € – 1.800 €** (Einmalzahlung) + **50 € – 75 € / Monat** (Hosting, Wartung, kleine Anpassungen) * **Begründung:** **1.200 € – 1.800 € (Einm  _(via ollama, vor 214 min)_
 
 ## Bau — 1 Agenten
-- Hier ist ein frischer, punktgenauer Entwurf für deine Hero-Sektion: *** # Mehr Wunschkunden aus dem Vogelsberg. Wir machen Ihr Handwerk digital sichtbar. Werden Sie in Ihrer Region endlich online gefunden – ganz ohne eigenen IT-Stress. So sichern Sie sich mühelos die besten Aufträge und neue Mitarbeiter direkt aus der Heimat. [ **Jetzt Erstgespräch sichern**  _(via gemini, vor 0 min)_
+- # Mehr Wunschkunden für Ihren Handwerksbetrieb im Vogelsberg. Finden Sie mehr Kunden in Ihrer Heimat – ohne selbst IT zu verstehen. Erleichtern Sie sich die Digitalisierung und gewinnen Sie neue Aufträge. [ **Kostenlos Ihr Erstgespräch vereinbaren** ] *** **Warum dieser Text funktioniert:** * **Headline:** Direkt ans Wesentliche, ohne Verlogenheit. * **Subli  _(via ollama, vor 213 min)_
 
 ## Kunden — 32 Agenten
-- **WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei   _(via gemini, vor 0 min)_
+- **WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteile besteht, die oft nur mit Fuß oder Fahrrad  _(via ollama, vor 199 min)_
 
 ## Finanzen — 1 Agenten
-- Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **  _(via gemini, vor 0 min)_
+- Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Rechtliche und Steuerliche Einrichtung:** Sie müssen die Gewerbeanmeldung abgeschlossen haben und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen haben, um sicherzustellen, dass Sie von Beginn an die richtigen Steuerpflichten erfüllen. 2  _(via ollama, vor 213 min)_

@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-14T16:25Z",
+  "updated": "2026-09-14T19:57Z",
   "agents_total": 162,
-  "worked": 149,
+  "worked": 162,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
       "latest": {
-        "via": "gemini",
+        "via": "ollama",
         "text": "Hier ist der Lagebericht für diese Woche: * **Offerta:** **Stand:** Stabil im Betrieb | **Nächster Hebel:** Händler-Onboarding automatisieren, um Marge ohne zusätzlichen Aufwand zu steigern. * **Handwerk-Sichtbar:** **Stand:** Hohe Nachfrage, Kapazitätsgrenze nah | **Nächster Hebel:** Fulfillment-Prozesse standardisieren, um Sales wieder aufzudrehen. * **Vog",
-        "age_min": 0
+        "age_min": 209
       }
     },
     {
@@ -17,44 +17,44 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** in Tann (Rhön). **Ansprache-Idee:** „Hallo [Name], wenn die Tanner nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass der nächste Auftrag direkt bei Ihnen im Ort bleibt.“",
-        "age_min": 0
+        "text": "**WAS:** Erlebe beim Abend-Paket „Rhön-Sterne & Zapfenstreich“ eine geführte Nachtwanderung durch das UNESCO-Biosphärenreservat bei Tann inklusive Teleskop-Astrobeobachtung im Sternenpark und regionalem Schlummertrunk. **fuer WEN:** Ideal für Paare, Romantiker und Hobby-Astronauten, die den faszinierenden Sternenhimmel in einer der dunkelsten Regionen Deutsc",
+        "age_min": 9
       }
     },
     {
       "id": "Recherche",
       "count": 1,
       "latest": {
-        "via": "gemini",
-        "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-        "age_min": 0
+        "via": "ollama",
+        "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum, mit drei unterschiedlichen Paketen: --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Preisspanne:** **1.200 € – 1.800 €** (Einmalzahlung) + **50 € – 75 € / Monat** (Hosting, Wartung, kleine Anpassungen) * **Begründung:** **1.200 € – 1.800 € (Einm",
+        "age_min": 214
       }
     },
     {
       "id": "Bau",
       "count": 1,
       "latest": {
-        "via": "gemini",
-        "text": "Hier ist ein frischer, punktgenauer Entwurf für deine Hero-Sektion: *** # Mehr Wunschkunden aus dem Vogelsberg. Wir machen Ihr Handwerk digital sichtbar. Werden Sie in Ihrer Region endlich online gefunden – ganz ohne eigenen IT-Stress. So sichern Sie sich mühelos die besten Aufträge und neue Mitarbeiter direkt aus der Heimat. [ **Jetzt Erstgespräch sichern**",
-        "age_min": 0
+        "via": "ollama",
+        "text": "# Mehr Wunschkunden für Ihren Handwerksbetrieb im Vogelsberg. Finden Sie mehr Kunden in Ihrer Heimat – ohne selbst IT zu verstehen. Erleichtern Sie sich die Digitalisierung und gewinnen Sie neue Aufträge. [ **Kostenlos Ihr Erstgespräch vereinbaren** ] *** **Warum dieser Text funktioniert:** * **Headline:** Direkt ans Wesentliche, ohne Verlogenheit. * **Subli",
+        "age_min": 213
       }
     },
     {
       "id": "Kunden",
       "count": 32,
       "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-        "age_min": 0
+        "via": "ollama",
+        "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteile besteht, die oft nur mit Fuß oder Fahrrad",
+        "age_min": 199
       }
     },
     {
       "id": "Finanzen",
       "count": 1,
       "latest": {
-        "via": "gemini",
-        "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen sein, damit die Umsatzsteuer von Beginn an korrekt handgehabt wird und keine Steuernachzahlungen drohen. 2. **",
-        "age_min": 0
+        "via": "ollama",
+        "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Rechtliche und Steuerliche Einrichtung:** Sie müssen die Gewerbeanmeldung abgeschlossen haben und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen haben, um sicherzustellen, dass Sie von Beginn an die richtigen Steuerpflichten erfüllen. 2",
+        "age_min": 213
       }
     }
   ],
@@ -64,9 +64,9 @@
       "name": "Chief of Staff — Tages-Digest",
       "dept": "Kommando",
       "iv": 720,
-      "out": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top",
-      "via": "gemini",
-      "age_min": 0
+      "out": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top-Preispositionen für die wichtigsten Produkte überprüfen und optimieren. 2. **Handwerk-Sichtbar:** Marketing-Kampagnen für die P",
+      "via": "ollama",
+      "age_min": 214
     },
     {
       "id": "chancen-vogelsberg",
@@ -74,8 +74,8 @@
       "dept": "Chancen",
       "iv": 360,
       "out": "**WAS:** Ein privater Bündelungs- und Auslieferdienst für Vogelsberger Direktvermarkter, der regionale Lebensmittel auf festen Routen direkt an lokale Gastronomiebetriebe, Seniorenheime und Dorfläden zustellt. **WARUM HI",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 214
     },
     {
       "id": "chancen-fulda",
@@ -83,89 +83,89 @@
       "dept": "Chancen",
       "iv": 360,
       "out": "**WAS:** Ein schlanker B2B-Vermittlungs- und Umsetzungsdienst, der pragmatische KI- und KI-gestützte Automatisierungsprojekte für den traditionellen Fuldaer Mittelstand durch qualifizierte Studierende der Hochschule Fuld",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 214
     },
     {
       "id": "recherche-wettbewerb",
       "name": "Researcher — Wettbewerb & Preise",
       "dept": "Recherche",
       "iv": 480,
-      "out": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpr",
-      "via": "gemini",
-      "age_min": 0
+      "out": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum, mit drei unterschiedlichen Paketen: --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Preisspanne:** **1.20",
+      "via": "ollama",
+      "age_min": 214
     },
     {
       "id": "bau-landing-copy",
       "name": "Web Designer — Landing-Texte",
       "dept": "Bau",
       "iv": 600,
-      "out": "Hier ist ein frischer, punktgenauer Entwurf für deine Hero-Sektion: *** # Mehr Wunschkunden aus dem Vogelsberg. Wir machen Ihr Handwerk digital sichtbar. Werden Sie in Ihrer Region endlich online gefunden – ganz ohne eig",
-      "via": "gemini",
-      "age_min": 0
+      "out": "# Mehr Wunschkunden für Ihren Handwerksbetrieb im Vogelsberg. Finden Sie mehr Kunden in Ihrer Heimat – ohne selbst IT zu verstehen. Erleichtern Sie sich die Digitalisierung und gewinnen Sie neue Aufträge. [ **Kostenlos I",
+      "via": "ollama",
+      "age_min": 213
     },
     {
       "id": "kunden-faq",
       "name": "Support Agent — FAQ-Bausteine",
       "dept": "Kunden",
       "iv": 720,
-      "out": "Hier sind 3 passende FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. Die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr An",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**1. Kann ich mehr als 3 Angebote pro Monat erstellen?** Ja, aber wenn du mehr als 3 Angebote pro Monat benötigst, kannst du jederzeit auf den Pro-Tarif wechseln, der mehr Anlagen unterstützt. **2. Wie sende ich das ange",
+      "via": "ollama",
+      "age_min": 213
     },
     {
       "id": "finanzen-check",
       "name": "Treasurer — Zahlen-Check",
       "dept": "Finanzen",
       "iv": 1440,
-      "out": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und Steuerstatus:** Das Gewerbe muss offiziell angemeldet und die Entscheidung über die Kleinunternehmerr",
-      "via": "gemini",
-      "age_min": 0
+      "out": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Rechtliche und Steuerliche Einrichtung:** Sie müssen die Gewerbeanmeldung abgeschlossen haben und die Entscheidung über di",
+      "via": "ollama",
+      "age_min": 213
     },
     {
       "id": "wachstum-offerta",
       "name": "Growth — Offerta",
       "dept": "Chancen",
       "iv": 720,
-      "out": "**IDEE:** Der „Template-Klon-Link“ in der Fußzeile. Statt eines generischen „Erstellt mit Offerta“-Links lautet der Text in der Fußzeile (PDF & Web-Ansicht): *„Gefällt dir dieses Angebots-Design? Klicke hier, um dieses T",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**IDEE:** Der „Social Share-Button“ in der Fußzeile. **WARUM:** Die Fusszeile beinhaltet bereits ein Viral-Element mit dem „Erstellt mit Offerta“-Link. Indem wir diesen Link zu einem Social Share-Button erweitern, können",
+      "via": "ollama",
+      "age_min": 213
     },
     {
       "id": "biz-offerta",
       "name": "Business — Offerta",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**SCHRITT:** Ein dezent unaufdringliches, aber klickbares Branding („Kostenlos erstellt mit Offerta.de“) in die Fußzeile aller exportierten Free-PDFs einbauen. **WARUM JETZT:** Wir haben noch kein Budget für bezahlte Wer",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**SCHRITT:** Einen Viral-Loop-Button (Share Button) in den Export-Fenstern aller Free-PDFs einbauen, der es Nutzern ermöglicht, ihr erstelltes Angebot per E-Mail oder Social Media zu teilen. **WARUM JETZT:** Die aktuelle",
+      "via": "ollama",
+      "age_min": 210
     },
     {
       "id": "biz-handwerk",
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": "Hallo Herr [Name], als Dachdecker in Lauterbach haben Sie sicher genug auf den Dächern zu tun, aber immer mehr Hausbesitzer suchen ihre Handwerker heute direkt auf dem Smartphone. Mir ist aufgefallen, dass Ihr Betrieb be",
-      "via": "gemini",
-      "age_min": 0
+      "out": "Hallo Herr Müller, als Dachdecker in Lauterbach haben Sie sicher genug an Aufgaben zu tun, aber im Digitalzeitalter verpassen Sie wahrscheinlich immer mal wieder potenzielle Kunden, die Ihre Dienste auf dem Smartphone su",
+      "via": "ollama",
+      "age_min": 210
     },
     {
       "id": "biz-vogelsbergbox",
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": "**SCHRITT** Launch einer kostenlosen „Smoke-Test“-Landingpage (via Carrd.co oder Google Forms) für eine einmalige, limitierte **„Vogelsberg Probier-Box“** (Preis: 29 €) auf Vorbestellung – ohne dass wir bisher Produkte a",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**SCHRITT** Verfassen einer E-Mail-Kampagne an potenzielle Partner-Höfe, um ihre Interesse an der **\"Vogelsberg Probier-Box\"** zu testen. **WARUM** Indem wir direkt mit den Höfen kommunizieren, können wir ihre Interesse ",
+      "via": "ollama",
+      "age_min": 210
     },
     {
       "id": "biz-terminki",
       "name": "Business — Termin-/Anruf-KI",
       "dept": "Kunden",
       "iv": 720,
-      "out": "Hier ist die konkrete Vorschau für die Demo, die du dem Betriebsinhaber direkt im Gespräch über den Lautsprecher vorspielst. Sie nutzt die extrem geringe Latenz und natürliche Tonalität unseres Rencora-Voice-Stacks. --- ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "### SZENARIO: „Montagmorgen im Handwerk: Heizungsausfall vs. Wartungsanfrage“ **Context:** Montagmorgen, 9:00 Uhr. Schmidt, ein Kunde, ruft die Sanitär & Heizung Meisterbetrieb an. Die Monteure sind gerade unterwegs, und",
+      "via": "ollama",
+      "age_min": 209
     },
     {
       "id": "biz-board",
@@ -173,206 +173,206 @@
       "dept": "Kommando",
       "iv": 480,
       "out": "Hier ist der Lagebericht für diese Woche: * **Offerta:** **Stand:** Stabil im Betrieb | **Nächster Hebel:** Händler-Onboarding automatisieren, um Marge ohne zusätzlichen Aufwand zu steigern. * **Handwerk-Sichtbar:** **St",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 209
     },
     {
       "id": "chancen-lauterbach",
       "name": "Chancen-Scout — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Reparatur- und Wartungsservice, der kleine Reparaturen und Inspektionen direkt beim Kunden zu Hause oder als Pannendienst an der Strecke erledigt. **WARUM HIER:** Lauterbach liegt direkt am ho",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein E-Bike-Antikenn-Shop, der gebrauchte E-Bikes und Teile an lokale Radfahrer vermittelt. **WARUM HIER:** In Lauterbach und Umgebung gibt es einen starken Radfahrer- und Trekking-Community, die oft nach gebrauc",
+      "via": "ollama",
+      "age_min": 213
     },
     {
       "id": "handwerk-lauterbach",
       "name": "Handwerk-Sichtbarkeit — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer in Lauterbach **Ansprache-Idee:** „Wenn Lauterbacher auf dem Smartphone nach einer neuen Wärmepumpe oder einem Notdienst suchen, landen sie aktuell bei der Konkurrenz aus Fulda",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Kleine Handwerksbetriebe in Lauterbach, insbesondere those offering home maintenance and repair services **Ansprache-Idee:** „Haben Sie Jüngst eine kleine Reparatur oder Montage in Ihrer Wohnung oder Ihr",
+      "via": "ollama",
+      "age_min": 213
     },
     {
       "id": "direkt-lauterbach",
       "name": "Direktvermarktung — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit passgenauen Zutaten und einfachen Rezepten aus Lauterbacher Hofprodukten – vom regionalen Weiderind über Kartoffeln bis zum Hofkäse – für schnelle, eh",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein monatliches „Lauterbacher Hofprodukte-Abonnement“ mit individuell angepassten Zutaten- und Kochkurspaketen, die die Besonderheiten der lokalen Landküche in einfachen Rezepten reflektieren. **für WEN:** Für a",
+      "via": "ollama",
+      "age_min": 212
     },
     {
       "id": "tourismus-lauterbach",
       "name": "Vulkanregion-Tourismus — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der \"Lauterbacher Strolche-Tour\" erleben Sie eine geführte Dämmerungswanderung über die berühmten Schrittsteine der Lauter mit anschließender Craft-Beer-Verkostung und regionalem Vulkan-Picknick im Park von ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Mit der \"Vulkanerlebnis-Tour Lauterbach\" können Sie eine leidenschaftliche Einführung in die vulkanische Geologie des Vogelsbergs durch ein spektakulär gestaltetes Outdoor-Erlebnis bekommen, einschließlich einem",
+      "via": "ollama",
+      "age_min": 212
     },
     {
       "id": "senioren-lauterbach",
       "name": "Senioren-Alltagsdienste — Lauterbach",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein Wohnheim mit intergenerationalen Aktivitäten, das nicht nur Senioren, sondern auch junge Menschen in der Umgebung einbezieht, um gemeinsame Projekte und Events zu organisieren. **WARUM HIER:** In Lauterbach ",
+      "via": "ollama",
+      "age_min": 212
     },
     {
       "id": "chancen-alsfeld",
       "name": "Chancen-Scout — Alsfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler FeWo-Servicedienst, der privaten Eigentümern in der Alsfelder Altstadt Reinigung, Schlüsselübergabe und die Gästebetreuung für historische Ferienunterkünfte abnimmt. **WARUM HIER:** Alsfeld boomt als",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein Lokale-Produkt-Box-Service, der lokale Lieferanten mit der Versorgung von Alsfelder Einheimischen und Touristen mit regionalem Obst, Gemüse und Lebensmitteln verbindet. **WARUM HIER:** Alsfeld hat zahlreiche",
+      "via": "ollama",
+      "age_min": 212
     },
     {
       "id": "handwerk-alsfeld",
       "name": "Handwerk-Sichtbarkeit — Alsfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Dachdeckerbetrieb in Alsfeld (besonders relevant wegen Sturmschäden, Altbausanierungen im Fachwerk-Bestand und Photovoltaik-Montagen). **Ansprache-Idee:** „Hallo Herr [Name], wenn Immobilienbesitzer in u",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Möbelwesens (besonders relevant wegen der vielfältigen Reparatur- und Sanierungsmöglichkeiten, sowie der Neuausstattung von Altbausanierungen). **Ansprache-Idee:** „Hallo Herr [Name], die Möbelwesens in ",
+      "via": "ollama",
+      "age_min": 212
     },
     {
       "id": "direkt-alsfeld",
       "name": "Direktvermarktung — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit frischem Brot, Ahler Wurscht, Hofkäse und Saison-Gemüse, die freitags direkt am Alsfelder Bahnhof zur Abholung bereitsteht. **FÜR W",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine monatliche Abo-Box mit regionalen Delikatessen und Handgemachten Leckereien, die in Alsfeld verpackt und verteilt wird. **FÜR WEN:** Für Einheimische und Besucher, die Wert auf regionale Produkte legen und ",
+      "via": "ollama",
+      "age_min": 212
     },
     {
       "id": "tourismus-alsfeld",
       "name": "Vulkanregion-Tourismus — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Märchenhaftes Fachwerk & Vulkan-Kulinarik“ kombiniert eine exklusive Abendführung durch die historische Altstadt von Alsfeld mit einem privaten Besuch im Märchenhaus und einem regionalen 3-Gä",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Das Erlebnis-Paket „Vulkanregion Vogelsberg – Vulkanologie & Wanderabend“ bietet eine leidenschaftliche Tour durch die Vulkanregion mit einer Führungsstunde im Vulkanmuseum, gefolgt von einem späten Wanderabend ",
+      "via": "ollama",
+      "age_min": 212
     },
     {
       "id": "senioren-alsfeld",
       "name": "Senioren-Alltagsdienste — Alsfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein barrierefreier Nachbarschafts-Shuttle mit persönlicher Begleithilfe, der ältere Menschen aus den umliegenden Alsfelder Ortsteilen verlässlich für Marktbesuche, Apothekengänge und Arzttermine in die Kernstadt",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein digitales Verbindungsbüro, das Senioren in Alsfeld und den Vororten direkt mit nahegelegenen Dienstleistern verbindet, um ihre Alltagshilfen und Services zu vereinbaren und zu organisieren. **WARUM HIER:** D",
+      "via": "ollama",
+      "age_min": 211
     },
     {
       "id": "chancen-schotten",
       "name": "Chancen-Scout — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike- und Gravelbike-Verleih mit Bring- und Holservice sowie flexibler Pannenhilfe für Touristen und Tagesgäste. **WARUM HIER:** Schotten ist das zentrale Drehkreuz für den Hoherodskopf und den Vul",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine regionale Handwerks- und Kunsthandelsplattform mit Online-Shop und Marktplatz. **WARUM HIER:** Schotten verfügt über eine reiche Tradition in Handwerk und Kunsthandwerk, aber viele lokale Betreiber haben Sc",
+      "via": "ollama",
+      "age_min": 211
     },
     {
       "id": "handwerk-schotten",
       "name": "Handwerk-Sichtbarkeit — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbaubetrieb** in Schotten. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn im Vogelsberg die Heizung streikt oder jemand eine Wärmepumpe sucht, greift man heute zum Smartphone ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Ein Sanitär- und Heizungsbaubetrieb in Schotten. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn im Vogelsberg die Heizung streikt oder jemand eine Wärmepumpe benötigt, greift man heute zum Smartphone –",
+      "via": "ollama",
+      "age_min": 211
     },
     {
       "id": "direkt-schotten",
       "name": "Direktvermarktung — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Der „Vogelsberger Brotzeit-Rucksack“ – ein leihbarer Wanderrucksack, vollgepackt mit regionaler Hausmacher-Wurst, Vogelsberger Käse, frischem Bauernbrot und Apfelwein direkt von Erzeugern rund um Schotten. **für",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Der „Vogelsberger Winterspaziergangs-Paket“ – ein leihbarer Spaziergängerbeutel, gefüllt mit heimgebackenen Lebkuchen, regionaler Speck-Schokoladen-Füllung, warmen Handschuhen und einer Tafel Lebkuchenschokolade",
+      "via": "ollama",
+      "age_min": 211
     },
     {
       "id": "tourismus-schotten",
       "name": "Vulkanregion-Tourismus — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Ein geführtes Abend-Erlebnis am Hoherodskopf mit einer kleinen Dämmerungswanderung über alte Vulkanfelsen, spannenden Mythen der Region und einem gefüllten Picknickkorb voller Vogelsberger Spezialitäten. **fuer ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein Schotten-Workshop, bei dem Teilnehmer traditionelle Schotten herstellen und trinken, während sie von einem erfahrenen Meister Schottenmacher aus der Region lernen. **fuer WEN:** Dieses Erlebnis ist ideal für",
+      "via": "ollama",
+      "age_min": 211
     },
     {
       "id": "senioren-schotten",
       "name": "Senioren-Alltagsdienste — Schotten",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein dorfübergreifender Mobil- und Begleitdienst, der ältere Menschen aus den einzelnen Ortsteilen verlässlich bei Einkäufen, Arztbesuchen oder sozialen Treffpunkten unterstützt und begleitet. **WARUM HIER:** Sch",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein virtueller Mitteilsystem, das Senioren miteinander verbindet, um zusätzliche Helfer für den Mobil- und Begleitdienst bereitzustellen, wenn der Bedarf über die ehrenamtliche Person hinausgeht. **WARUM HIER:**",
+      "via": "ollama",
+      "age_min": 211
     },
     {
       "id": "chancen-herbstein",
       "name": "Chancen-Scout — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Gepäck-, Rückhol- und E-Bike-Pannenservice speziell für Tagestouristen und Etappenradler auf dem Vulkanradweg rund um Herbstein. **WARUM HIER:** Herbstein liegt ideal als Knotenpunkt am hochfrequenti",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein Pausen- und Snackstand mit regionalen Leckereien und Getränken entlang des Vulkanradwegs. **WARUM HIER:** Herbstein profitiert von der starken Radtourismus-Flut auf dem Vulkanradweg, den Besuchern fehlen jed",
+      "via": "ollama",
+      "age_min": 211
     },
     {
       "id": "handwerk-herbstein",
       "name": "Handwerk-Sichtbarkeit — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Dachdecker- und Zimmereibetrieb (in Herbstein und den umliegenden Ortsteilen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer im Vogelsberg nach 'Dachsanierung Herbstein' googeln, lan",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Dachdecker- und Zimmereibetrieb (in Herbstein und den umliegenden Ortsteilen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer im Vogelsberg nach 'Dachsanierung Herbstein' suchen, land",
+      "via": "ollama",
+      "age_min": 211
     },
     {
       "id": "direkt-herbstein",
       "name": "Direktvermarktung — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Ein wöchentliches „Vogelsberger Vesper-Abo“ in einer Mehrwegkiste, vollgepackt mit frischem Bauernbrot, hausmacher Wurst oder Käse, saisonalem Wurzelgemüse und Eiern von Höfen direkt aus der Umgebung. **für WEN:",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein monatliches „Herbstein-Box-Abo“ mit einer Vielzahl von lokaleinträchtigen Lebensmitteln, darunter frisches Obst, gemischter Gemüse, hausgemachter Käsewaren, hausgemachte Honigwaren und regionale Gewürze. **f",
+      "via": "ollama",
+      "age_min": 209
     },
     {
       "id": "tourismus-herbstein",
       "name": "Vulkanregion-Tourismus — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Vulkan-Entspannung & Basalt-Magie“ kombiniert eine geführte Dämmerungswanderung entlang der historischen Stadtmauer Herbsteins mit einem anschließenden dreistündigen Wellness-Aufenthalt im he",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Das Erlebnis-Paket „Herbstes Geheimnis & Vulkanreise“ bietet eine faszinierende Wanderung durch die historischen Gassen Herbsteins, gefolgt von einer Besichtigung des Vulkanmuseums und einer kulinarischen Entdec",
+      "via": "ollama",
+      "age_min": 209
     },
     {
       "id": "senioren-herbstein",
       "name": "Senioren-Alltagsdienste — Herbstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst holt Senioren direkt an ihrer Haustür in den Ortsteilen ab, unterstützt sie respektvoll beim Einkauf sowie bei Arztbesuchen und bringt sie sicher wieder nach Hause. **WA",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein digitaler Leitfahrer-Service, der Senioren über digitale Routen und Anleitungen bei Wanderungen in der Nähe ihres Heims begleitet, um ihre Unabhängigkeit bei spazieren gehen zu fördern. **WARUM HIER:** Die h",
+      "via": "ollama",
+      "age_min": 209
     },
     {
       "id": "chancen-grebenhain",
       "name": "Chancen-Scout — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Pannendienst und Wartungsservice auf Abruf für Ausflügler und Anwohner. **WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, verfügt aber über keine direkte Fahrradwer",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine lokale Bio-Lieferservice für saisonale Obst- und Gemüseprodukte. **WARUM HIER:** Grebenhain hat eine hohe Anteilnahme an örtlichem Anbau und natürlichen Erzeugnissen, und viele Einwohner würden sich für ein",
+      "via": "ollama",
+      "age_min": 209
     },
     {
       "id": "handwerk-grebenhain",
       "name": "Handwerk-Sichtbarkeit — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsinstallateur in Grebenhain (mit Fokus auf Wärmepumpen und Badsanierung). **Ansprache-Idee:** „Hallo Herr [Name], immer mehr Hausbesitzer im Vogelsberg suchen online nach modernen Hei",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Holzofen- und Biomasseanlagen-Hersteller in Grebenhain (mit Fokus auf Umweltfreundliche Lösungen). **Ansprache-Idee:** \"Lieber Herr [Name], in der aktuellsten Marktrecherche zeigten sich mehrere Anhaltsp",
+      "via": "ollama",
+      "age_min": 209
     },
     {
       "id": "direkt-grebenhain",
@@ -380,35 +380,35 @@
       "dept": "Chancen",
       "iv": 2880,
       "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Abo-Paket mit ehrlichen Hofprodukten wie Ahler Wurscht, Dorfkäse, Holzofenbrot und Saison-Gemüse, das flexibel an einer rund um die Uhr zugänglichen SB-S",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 208
     },
     {
       "id": "tourismus-grebenhain",
       "name": "Vulkanregion-Tourismus — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der geführten Abendwanderung „Sterne & Basalt“ durch den Oberwald bei Grebenhain erleben Sie die magische Stille der Vulkanregion inklusive eines regionalen Picknicks am knisternden Lagerfeuer. **für WEN:** ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein Tagstrecken-Paket „Basalt & Landschaft“ führt Sie durch die eindrucksvollen Basaltformationen und berühmten Wanderwege des Grebenhainer Vulkanlandschaften, kombiniert mit einer kulinarischen Erlebnisstation ",
+      "via": "ollama",
+      "age_min": 208
     },
     {
       "id": "senioren-grebenhain",
       "name": "Senioren-Alltagsdienste — Grebenhain",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Grebenhainer Dorfbegleiter“ ist ein verlässlicher, barrierefreier Abhol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Besorgungen, Arztbesuche und soziale Kontakte im Hauptort a",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Der „Grebenhainer Dorfbegleiter“ bietet eine flexibel anpassbare Dienstleistung, die Senioren und Personen mit mobilen Einschränkungen in den 15 Ortsteilen direkt an ihren Aufenthaltsorten abholt und zur Verpfle",
+      "via": "ollama",
+      "age_min": 208
     },
     {
       "id": "chancen-homberg-ohm",
       "name": "Chancen-Scout — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Inspektionsdienst, der Wartung und Kleinreparaturen direkt beim Kunden zu Hause oder an Pendlertreffpunkten durchführt. **WARUM HIER:** Homberg hat durch die steile Topografie in ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein digitaler Marktplatz für regionale Lebensmittel und Handwerksprodukte, der direkten Verkauf zwischen Produzenten und Verbraucherinnen ermöglicht. **WARUM HIER:** Homberg verfügt über zahlreiche kleine Bauern",
+      "via": "ollama",
+      "age_min": 208
     },
     {
       "id": "handwerk-homberg-ohm",
@@ -416,35 +416,35 @@
       "dept": "Chancen",
       "iv": 1440,
       "out": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb** (besonders relevant wegen des aktuellen Interesses an Wärmepumpen und Badsanierungen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Homberger auf ",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 208
     },
     {
       "id": "direkt-homberg-ohm",
       "name": "Direktvermarktung — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Homberger Feierabend-Kiste“ ist ein wöchentliches Abo-Paket mit frischem Saison-Gemüse, Vogelsberger Landeiern und handfesten Hof-Spezialitäten, das freitags kontaktlos an einer zentralen Abholstation berei",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine „Umgebungslieferscheibe“ für lokale Gewerbetreibende, die einen variierenden Tagesrhythmus haben, um frische, regional produzierte Lebensmittel zu erhalten, die sie dann in der Öffentlichkeit verkaufen könn",
+      "via": "ollama",
+      "age_min": 208
     },
     {
       "id": "tourismus-homberg-ohm",
       "name": "Vulkanregion-Tourismus — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "Hier ist ein exklusives Erlebnis-Paket für Homberg (Ohm): **WAS:** Ein dreistündiges E-Bike-Erlebnis entlang der malerischen Ohm mit einem prall gefüllten Picknickkorb voller Vogelsberger Spezialitäten und reserviertem A",
-      "via": "gemini",
-      "age_min": 0
+      "out": "Hier ist ein neues, bookbares Erlebnis-Paket rund um Homberg (Ohm): **WAS:** Einen taglangen Workshop für Kaffeeliebhaber mit Anfertigung von selbstgemachtem Vollkornbrot im traditionellen Vogelsberger Stil, gefolgt von ",
+      "via": "ollama",
+      "age_min": 208
     },
     {
       "id": "senioren-homberg-ohm",
       "name": "Senioren-Alltagsdienste — Homberg (Ohm)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begle",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine digitale Plattform, die Senioren in Homberg (Ohm) mit Informations- und Kommunikationsmöglichkeiten verbindet, um so ihre Isolation zu verringern und soziale Kontakte zu fördern. **WARUM HIER:** Die Seniore",
+      "via": "ollama",
+      "age_min": 207
     },
     {
       "id": "chancen-kirtorf",
@@ -452,17 +452,17 @@
       "dept": "Chancen",
       "iv": 1440,
       "out": "**WAS:** Ein mobiler „Dorf-Hausmeister“- und Gartenservice, der Kleinreparaturen, Grundstückspflege und Winterdienst auf Abo-Basis für Senioren in allen sieben Kirtorfer Ortsteilen anbietet. **WARUM HIER:** In Kirtorf le",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 207
     },
     {
       "id": "handwerk-kirtorf",
       "name": "Handwerk-Sichtbarkeit — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. für Badrenovierungen & Wärmepumpen-Einbau). **Ansprache-Idee:** „Hallo Herr [Name], wenn Kirtorfer nach einer neuen Heizung oder Badrenovierung googeln, landen sie akt",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Kaufmännisches Fachhandwerk (z. B. für Holz- und Metallarbeiten, Inneneinrichtung). **Ansprache-Idee:** „Hallo Herr [Name], wenn Kirtorfer nach Facharbeiten für Holz- oder Metallarbeiten suchen, landen s",
+      "via": "ollama",
+      "age_min": 207
     },
     {
       "id": "direkt-kirtorf",
@@ -470,314 +470,314 @@
       "dept": "Chancen",
       "iv": 2880,
       "out": "**WAS:** Eine wöchentlich wechselnde „Kirtorfer Feierabend-Kiste“ mit saisonalem Gemüse, heimischer Ahler Wurscht, frischen Eiern und einem einfachen Rezeptkarte-Vorschlag zur flexiblen 24/7-Abholung an einer gekühlten A",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 207
     },
     {
       "id": "tourismus-kirtorf",
       "name": "Vulkanregion-Tourismus — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Kirtorfer Sagen- & Vulkan-Picknick“ bietet eine geführte Entdecker-Wanderung durch das malerische Gleental inklusive einer reich gefüllten Picknick-Tasche mit regionalen Spezialitäten und ein",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Das Erlebnis-Paket „Vulkaneruptions-Tour mit Geologentagung“ kombiniert eine informativ geführte Wanderung auf der Vulkanregion mit einer interaktiven Geologentagung, die die Geschichte der Region in interaktive",
+      "via": "ollama",
+      "age_min": 207
     },
     {
       "id": "senioren-kirtorf",
       "name": "Senioren-Alltagsdienste — Kirtorf",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Kirtorfer Alltags-Begleitdienst“ ist ein mobiler Service, der ältere Menschen aus den einzelnen Ortsteilen zu Einkäufen, Arztterminen oder Dorfveranstaltungen begleitet und ihnen vor Ort helfend zur Seite s",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Das „Kirtorfer Alltags-Begleitdienst“ bietet einen individuellen und respektvollen Service, bei dem ältere Senioren aus den einzelnen Ortsteilen nicht nur transportiert, sondern auch in der Dorfmitte Unterstützu",
+      "via": "ollama",
+      "age_min": 207
     },
     {
       "id": "chancen-muecke",
       "name": "Chancen-Scout — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein mobiler Reinigungs- und Inspektionsservice für Photovoltaikanlagen auf landwirtschaftlichen Scheunen und Gewerbedächern. **WARUM HIER** Mücke bietet durch die direkte A5-Anbindung und die zentrale Lage im Vog",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS** Ein individueller Workshopservice für die Optimierung von Landwirtschaftlicher Logistik und Effizienzsteigerung. **WARUM HIER** Die ländliche Infrastruktur und die zahlreichen Landwirte im Osthessen bieten eine b",
+      "via": "ollama",
+      "age_min": 207
     },
     {
       "id": "handwerk-muecke",
       "name": "Handwerk-Sichtbarkeit — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** in Mücke (speziell mit Fokus auf Badrenovierung und moderne Heizsysteme wie Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer hier in",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Ein lokaler Heizung- und Sanitärbetrieb in Mücke (speziell mit Fokus auf Badrenovierung und moderne Heizsysteme wie Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer hier in Müc",
+      "via": "ollama",
+      "age_min": 206
     },
     {
       "id": "direkt-muecke",
       "name": "Direktvermarktung — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit frischem Saison-Gemüse, Eiern und Wurstwaren direkt von Mücker Höfen, die freitags zur einfachen Abholung an zentralen Dorfpunkten oder am Bahnhof ber",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein monatliches „Mücke-Markt-Abonnement“, bei dem Kunden ein breites Sortiment von regionalen Produkten direkt von lokalen Händlern und -produzenten erhalten, die jeden Samstag auf dem Mücke-Markt anbieten. **fü",
+      "via": "ollama",
+      "age_min": 206
     },
     {
       "id": "tourismus-muecke",
       "name": "Vulkanregion-Tourismus — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** **Das Mücker Erzgräber-Abenteuer:** Eine E-Bike-Entdeckertour entlang des historischen Mücker Erzwegs inklusive GPS-Schatzsuche nach vulkanischem Eisenstein und einem rustikalen Erzgräber-Picknickkorb. **fuer WE",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** **Mücker Vulkanfahrt:** Eine kombinierte E-Bike-Tour und Vulkanbahn-Fahrt, die die vulkanischen Wunder der Region und die interessanten Fakten über Muecke vermittelt. **fuer WEN:** Gut geeignet für Erwachsene un",
+      "via": "ollama",
+      "age_min": 206
     },
     {
       "id": "senioren-muecke",
       "name": "Senioren-Alltagsdienste — Muecke",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der ältere Menschen aus allen Ortsteilen direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen begleitet und Zeit für persönliche Gespräche mitbringt. **WA",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein digitales Plattformangebot, das Senioren in Mücke mit Informations- und Kommunikationsfunktionen versorgt, um sie über Veranstaltungen, Dienstleistungen und Gesundheitsratgeber zu informieren. **WARUM HIER:*",
+      "via": "ollama",
+      "age_min": 206
     },
     {
       "id": "chancen-romrod",
       "name": "Chancen-Scout — Romrod",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein digital bestellbarer Lieferservice für regionale Frühstücks- und Picknickboxen, direkt geliefert an Schlossgäste, Ferienwohnungen und Radtouristen. **WARUM HIER:** Schloss Romrod zieht ganzjährig viele Event",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein online-animatedes Kurzfilm-Service, bei dem Besucher von Schloss Romrod gezielte, thematische Kurzfilme anpassen können, um ihre Besuchsreise zu personalisieren. **WARUM HIER:** Schloss Romrod bietet eine vi",
+      "via": "ollama",
+      "age_min": 206
     },
     {
       "id": "handwerk-romrod",
       "name": "Handwerk-Sichtbarkeit — Romrod",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (speziell fokussiert auf Heizungsmodernisierung/Wärmepumpen und Badsanierung). **Ansprache-Idee:** „Hallo [Name], viele Hausbesitzer rund um Romrod suchen gerade online nach ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (speziell fokussiert auf Heizungsmodernisierung/Wärmepumpen und Badsanierung). **Ansprache-Idee:** „Hallo [Name], viele Hausbesitzer rund um Romrod interessieren sich aktuell",
+      "via": "ollama",
+      "age_min": 206
     },
     {
       "id": "direkt-romrod",
       "name": "Direktvermarktung — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Vogelsberger Vesper-Box“ im Abo mit frischem Brot, Hausmacher Wurst, regionalem Käse und Saison-Gemüse, abholbar rund um die Uhr aus einer gekühlten Selbstbedienungs-Hütte in Romrod. **für WEN",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein Monatsabo für einen „Romroder Haushaltshappen“, der exotische regionale Lebensmittel wie frische Oliven, typische Salate, hausgemachte Tapenades und regional produzierten Käsesorten enthält, und es mit einer",
+      "via": "ollama",
+      "age_min": 206
     },
     {
       "id": "tourismus-romrod",
       "name": "Vulkanregion-Tourismus — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erleben Sie eine abendliche Fackelwanderung rund um das historische Schloss Romrod mit anschließendem regionalen Gourmet-Picknick im Schlosspark. **für WEN:** Dieses Paket ist ideal für Paare und Genießer, die e",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Erleben Sie eine authentische Vulkanregion-Tour, die das aktive Vulkanland Vogelsberg/Rhoen mit historischem Schloss Romrod verbindet. **für WEN:** Dieses Erlebnis eignet sich vor allem für Naturliebhaber, Histo",
+      "via": "ollama",
+      "age_min": 205
     },
     {
       "id": "senioren-romrod",
       "name": "Senioren-Alltagsdienste — Romrod",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher „Dorf-Fahr- und Besorgungsdienst“, der ältere Menschen aus den Ortsteilen flexibel zu Terminen, Einkäufen oder Apotheken nach Romrod bringt und sie auf Wunsch aufmerksam begleitet. **WARUM HIER",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein persönlicher Begleiterdienst, der Senioren in Romrod bei den Alltagsaktivitäten unterstützt, indem er sie begleitet, ihnen hilft, sich zurechtzufinden, und sie emotional unterstützt. **WARUM HIER:** Da viele",
+      "via": "ollama",
+      "age_min": 205
     },
     {
       "id": "chancen-feldatal",
       "name": "Chancen-Scout — Feldatal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Picknick-Service („Sagen-Rast“), der Wochenend-Ausflügler entlang der Wander- und Radrouten mit Akku-Ladestationen, Werkzeug und regionalen Vogelsberger Brotzeiten versorgt. **WARU",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine App für lokale Handwerker, die Kunden direkt per Pushbenachrichtigungen über ihre Dienstleistungen informiert. **WARUM HIER:** In Feldatal gibt es eine hohe Nachfrage nach schnellen und direkten Zugängen zu",
+      "via": "ollama",
+      "age_min": 205
     },
     {
       "id": "handwerk-feldatal",
       "name": "Handwerk-Sichtbarkeit — Feldatal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Hallo Herr [Name], wenn im Feldatal die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, finden die Leute auf dem Smartphone aktuell me",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Hallo Herr [Name], ob Heizungsausfall im Winter oder eine neue Wärmepumpe im Sinn – die meisten Kunden suchen im Smartphone zunächst in ihrer U",
+      "via": "ollama",
+      "age_min": 205
     },
     {
       "id": "direkt-feldatal",
       "name": "Direktvermarktung — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ vollgepackt mit saisonalem Feldataler Gemüse, frischen Eiern, Bauernbrot und heimischer Ahler Wurst zum unkomplizierten Abholen an einer zentralen 24/7-Station. ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein monatliches „Berggast-Abonnement“, das Kunden mit speziell ausgewählten regionalen Delikatessen versorgt, einschließlich saisonalem Gemüse, frischen Eiern, Käsesorten und hausgemachten Kuchen. **fuer WEN:** ",
+      "via": "ollama",
+      "age_min": 204
     },
     {
       "id": "tourismus-feldatal",
       "name": "Vulkanregion-Tourismus — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Ein entschleunigendes Alpaka-Trekking durch das malerische Feldatal mit anschließendem regionalen Picknickkorb an einer historischen Mühle. **für WEN:** Dieses Angebot richtet sich an Paare, Genießer und kleine ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine gezielte Akklimatisierungsübungsstunde bei einer Alpakenhütte mit anschließendem Spaziergang durch die Vogelsberg-Rhoen-Region. **für WEN:** Diese Aktivität ist ideal für Menschen, die sich für die nähere U",
+      "via": "ollama",
+      "age_min": 205
     },
     {
       "id": "senioren-feldatal",
       "name": "Senioren-Alltagsdienste — Feldatal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der Dienst „Feldataler Dorf-Express“ bietet älteren Menschen eine würdevolle Begleitung bei Fahrten zu Ärzten und Einkäufen sowie praktische Hilfe bei alltäglichen Erledigungen direkt an der eigenen Haustür. **W",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Das Dienstleistungskonzept „Feldataler Dorf-Express“ bietet eine individuelle, flexibel anpassbare Unterstützung bei allen wichtigen täglichen Aktivitäten, insbesondere für diejenigen Senioren, die aufgrund von ",
+      "via": "ollama",
+      "age_min": 205
     },
     {
       "id": "chancen-gemuenden-felda",
       "name": "Chancen-Scout — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein schlanker, mobiler Alltags- und Hausmeisterservice (Gartenpflege, Kleinreparaturen, Fahrtdienste) speziell für Senioren in den Gemündener Ortsteilen. **WARUM HIER** In den sieben verstreuten Ortsteilen leben ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS** Ein Online-Shop für regionale, biologisch anbautenいただける情報を日本語に翻訳していただけますか？「Online-Shop für regionale, biologisch anbaute Lebensmittel」は適切でしょうか？または、具体的な商品やサービスを追加したい場合は教えてください。",
+      "via": "ollama",
+      "age_min": 205
     },
     {
       "id": "handwerk-gemuenden-felda",
       "name": "Handwerk-Sichtbarkeit — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Wenn in Gemünden oder den Ortsteilen die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute zuerst auf dem Smartphone – sorgen",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Holzschreiner- und Möbельwerkstatt **Ansprache-Idee:** „Wenn in Gemünden Möbel repariert werden oder neue Einrichtungsgegenstände benötigt werden, suchen die Leute zuerst im Internet – sorgen wir dafür, ",
+      "via": "ollama",
+      "age_min": 205
     },
     {
       "id": "direkt-gemuenden-felda",
       "name": "Direktvermarktung — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine bodenständige „Vogelsberger Feierabend-Kiste“ im wöchentlichen Abo, voll gepackt mit knackigem Saison-Gemüse, Vogelsberger Kartoffeln und passenden Hausmacher-Spezialitäten für ehrliche Landküche ohne Schni",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine bodenständige „Gemünder Gemüse-Box“ im monatlichen Abo, voll gepackt mit saftigem Saison-Gemüse, regionalen Obst und hausgemachten Leckereien, die die Region Gemünden stolz machen. **FÜR WEN:** Für Stadtbew",
+      "via": "ollama",
+      "age_min": 204
     },
     {
       "id": "tourismus-gemuenden-felda",
       "name": "Vulkanregion-Tourismus — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Vulkan-Genuss an der Felda“ ist eine geführte Dämmerungswanderung entlang des Flusslaufs zur historischen Burg Gemünden, abgerundet durch einen gefüllten Picknickkorb mit regionalen Vulkanland-Spezialitäten. **",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein „Volcanic Sunset Experience“ bietet eine kombinierte Wanderung und Workshops zur Vulkanik und Regionalgeschichte, abgeschlossen durch ein kundenspezifisches Picknick auf einem Vulkanruhigkeits-Friedhof. **fu",
+      "via": "ollama",
+      "age_min": 204
     },
     {
       "id": "senioren-gemuenden-felda",
       "name": "Senioren-Alltagsdienste — Gemuenden (Felda)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Begleit- und Fahrdienst, der Seniorinnen und Senioren direkt an ihrer Haustür abholt und sie aufmerksam sowie ohne Zeitdruck zu Einkäufen, Arztterminen oder gesellschaftlichen Treffpunkten begleitet.",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein Informations- und Anwaltsdienst, bei dem Senioren telefonisch oder persönlich konsultiert werden können, um Fragen zur Verfügungstellung von Dienstleistungen und Rechte zu klären. **WARUM HIER:** In Gemünden",
+      "via": "ollama",
+      "age_min": 204
     },
     {
       "id": "chancen-freiensteinau",
       "name": "Chancen-Scout — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Reparatur- und Hol-Bring-Service für Urlauber, Freizeitsportler und lokale Pendler. **WARUM HIER:** Die Gemeinde profitiert stark vom Tourismus rund um den Nieder-Mooser See und das Vogelsberg",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein localsourcing-basierter regionaler Lebensmittelmarkt mit online-Reservierungen und Lieferungsmöglichkeiten. **WARUM HIER:** Freiensteinau hat eine hohe Dichte an Bauernhöfen und kleineren Lebensmittelproduze",
+      "via": "ollama",
+      "age_min": 204
     },
     {
       "id": "handwerk-freiensteinau",
       "name": "Handwerk-Sichtbarkeit — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein regionaler **Sanitär- und Heizungsbetrieb (SHK)** in Freiensteinau. **Ansprache-Idee (1 Satz):** „Hallo [Name], immer mehr Hausbesitzer im Vogelsberg suchen online nach modernen Wärmepumpen und Bad-R",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Ein regionaler Sanitär- und Heizungsbetrieb (SHK) in Freiensteinau. **Ansprache-Idee (1 Satz):** „Hallo [Name], in der digitalen Welt ist es wichtig, dass die lokalen Kunden direkt anrufen – sorgen wir d",
+      "via": "ollama",
+      "age_min": 204
     },
     {
       "id": "direkt-freiensteinau",
       "name": "Direktvermarktung — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Idee: Die „Freiensteinauer Feierabend-Box“** * **WAS:** Eine wöchentlich wechselnde Brotzeit-Kiste im Abo mit frischem Landbrot, Vogelsberger Hausmacher Wurst oder Käse, Eiern und saisonalem Eingelegtem, die kontaktlos",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Idee: Freiensteinauer Regionalkost-Abonnement** * **WAS:** Ein monatliches Abonnement, das kundenspezifische Regionalkostendöschen enthält, welche je nach Saison variieren und inklusive von lokalen Herstellern wie Bäck",
+      "via": "ollama",
+      "age_min": 203
     },
     {
       "id": "tourismus-freiensteinau",
       "name": "Vulkanregion-Tourismus — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: „Vulkan-Sonnenuntergang & Picknick-Tour rund um Freiensteinau“** * **WAS:** Das Paket umfasst eine geführte E-Bike-Abendtour über die sanften Vulkanhöhen von Freiensteinau inklusive eines reich gefüllte",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Erlebnis-Paket: „Vulkan-Explorer-Tour & Vulkanruhe-Mineralwasser-Ausflug“** * **WAS:** Das Paket bietet eine kombinierte E-Bike-Tour und Mineralwasser-Ausflug, bei dem Teilnehmer die Vulkanlandschaft von Freiensteinau ",
+      "via": "ollama",
+      "age_min": 203
     },
     {
       "id": "senioren-freiensteinau",
       "name": "Senioren-Alltagsdienste — Freiensteinau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Der Dienst „Freiensteinauer Dorf-Mobil“ bietet älteren Menschen aus allen Ortsteilen eine verlässliche Begleitung und Beförderung für Einkäufe, Arztbesuche und kleine Besorgungen direkt ab der eigenen Haustür. **",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS** Der Dienst „Freiensteinauer Dorf-Mobil“ stellt flexiblen Fahrdienstleistungen zur Verfügung, um Senioren in den verschiedenen Dorfhöfen sicher und bequem von ihren Hauseingängen aus zu begleiten. **WARUM HIER** I",
+      "via": "ollama",
+      "age_min": 203
     },
     {
       "id": "chancen-ulrichstein",
       "name": "Chancen-Scout — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Akkuladeservice mit integriertem Kiosk-Verkauf für Tourenradler rund um den Schlossberg. **WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein extrem viele E-Biker an, die we",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine lokale Food Truck-Bewirtung, die regionales Frühschop- und Käsespargel-Menü anbietet. **WARUM HIER:** Ulrichstein verfügt über eine starke traditionelle Küche und im Sommer hält sich viele Besucher auf, die",
+      "via": "ollama",
+      "age_min": 203
     },
     {
       "id": "handwerk-ulrichstein",
       "name": "Handwerk-Sichtbarkeit — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Damit Hausbesitzer im Vogelsberg Sie auf Google direkt an erster Stelle finden, wenn im rauen Winter die Heizung ausfällt oder eine neue Wärmepumpe",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Bäckerei **Ansprache-Idee:** „Damit die Bewohner von Ulrichstein im Winter warm und satt bleiben, finden sie unsere Bäckerei im Netz, wenn sie nach frisch gebackenem Brot oder leckeren Kaffee suchen – un",
+      "via": "ollama",
+      "age_min": 203
     },
     {
       "id": "direkt-ulrichstein",
       "name": "Direktvermarktung — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Höhen-Kiste“ – ein monatliches Abo voll ehrlicher, haltbare Hofprodukte wie Ulrichsteiner Rindfleisch im Glas, Berg-Kartoffeln, Dosenwurst und saisonalem Lagergemüse. **fuer WEN:** Für einheimi",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein „Gipfel des Vogelsbergs – Wochenend-Abo“ mit saisonal wechselnden kulinarischen Delikatessen, wie z.B. frische Bergkäse, hausgemachte Honigcrèmes, seltene Vogelsberger Apfelarten und lokale Spirituosen, die ",
+      "via": "ollama",
+      "age_min": 203
     },
     {
       "id": "tourismus-ulrichstein",
       "name": "Vulkanregion-Tourismus — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der „Vulkan-Gipfelzeit in Ulrichstein“ erlebst du eine exklusive Kurzführung über die historische Burgruine mit anschließendem Picknick aus regionalen Vogelsberger Spezialitäten auf Hessens höchstgelegenem S",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Am „Ulrichsteiner Vulkan-Badetag“ kannst du dich in einem interaktiven Workshops über Vulkanismus und Geologie beteiligen, gefolgt von einer Therme mit speziell angepassten Mineralwasserquellen. **fuer WEN:** Di",
+      "via": "ollama",
+      "age_min": 202
     },
     {
       "id": "senioren-ulrichstein",
       "name": "Senioren-Alltagsdienste — Ulrichstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine app-basierte Informations- und Reservierungsplattform für die Ulrichsteiner Dorf-Begleiter-Dienste, die Senioren und Fahrgäste einfach und effizient die Nutzung des Dienstes ermöglicht. **WARUM HIER:** Um d",
+      "via": "ollama",
+      "age_min": 202
     },
     {
       "id": "chancen-schwalmtal",
       "name": "Chancen-Scout — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein lokaler Service für die schnelle Drohnen-Inspektion von Dächern, Scheunen und Photovoltaik-Anlagen als Vorab-Check für Landwirte und Eigenheimbesitzer. **WARUM HIER** In Schwalmtal dominieren Eigenheime, land",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS** Ein Dienstleistungsangebot für die digitale Archivierung und Analyse von Fabrikhallen- und Lagerhallen-Stocklisten. **WARUM HIER** In Schwalmtal sind viele Unternehmen mit großer Fläche an Lagerhallen und Fabrikh",
+      "via": "ollama",
+      "age_min": 202
     },
     {
       "id": "handwerk-schwalmtal",
       "name": "Handwerk-Sichtbarkeit — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb **Ansprache-Idee:** „Hallo Herr [Name], wenn Schwalmtaler aktuell online nach einer neuen Wärmepumpe oder Badsanierung suchen, landen sie meist bei Anbietern aus Mönchengladb",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb **Ansprache-Idee:** \"Hallo Herr [Name], wenn Schwalmtaler aktuell online nach einer neuen Wärmepumpe oder Badsanierung suchen, landen sie meist bei Anbietern aus Mönchengladb",
+      "via": "ollama",
+      "age_min": 202
     },
     {
       "id": "direkt-schwalmtal",
@@ -785,17 +785,17 @@
       "dept": "Chancen",
       "iv": 2880,
       "out": "**WAS:** Die „Schwalmtaler Feierabend-Box“ ist ein flexibles Wochen-Abo mit knackigem Saison-Gemüse, frischen Landeiern und handwerklichem Hofbrot, das einfach rund um die Uhr aus einer gekühlten 24/7-Station am Hof abge",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 202
     },
     {
       "id": "tourismus-schwalmtal",
       "name": "Vulkanregion-Tourismus — Schwalmtal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Schwalmtaler Mühlen- & Picknick-Trekking“: Eine geführte Abendwanderung entlang der Schwalm inklusive einem gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten und Exklusiv-Zugang zu einer histo",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** „Vulkanische Geheimnisse von Schwalmtal“: Eine faszinierende Nachmittagstour, die die geothermische Aktivität der Region entdeckt, inklusive einem Besuch in einem Geowelt-Museum und einem Spaziergang durch vulka",
+      "via": "ollama",
+      "age_min": 202
     },
     {
       "id": "senioren-schwalmtal",
@@ -803,26 +803,26 @@
       "dept": "Kunden",
       "iv": 2880,
       "out": "**WAS:** Das „Schwalmtaler Nachbarschafts-Mobil“ ist ein verlässlicher Fahr- und Begleitdienst, der ältere Menschen aus den Außenortsteilen sanft dabei unterstützt, Arzttermine, Einkäufe und soziale Treffpunkte im Alltag",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 201
     },
     {
       "id": "chancen-wartenberg",
       "name": "Chancen-Scout — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Kleinreparatur- und Objektpflegedienst, der sich schlank auf Schnelleinsätze unter zwei Stunden für Senioren und vielbeschäftigte Pendler spezialisiert. **WARUM HIER:** Wartenberg hat durch die direk",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein regionaler Bio-Arzt für Haustiere, der Mobiles Anfahrtskundliches Dienstleistungsspektrum anbietet. **WARUM HIER:** Wartenberg verfügt über zahlreiche Familien mit Haustieren und Einzelhaushalte, die zu oft ",
+      "via": "ollama",
+      "age_min": 201
     },
     {
       "id": "handwerk-wartenberg",
       "name": "Handwerk-Sichtbarkeit — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsinstallateur** (z. B. für Badrenovierungen, Heizungstausch oder Notfälle). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn die Wartenberger auf dem Smartphone nac",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Ein lokaler Sanitär- und Heizungsinstallateur (z. B. für Badrenovierungen, Heizungstausch oder Notfälle). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn die Wartenberger auf dem Smartphone nach ei",
+      "via": "ollama",
+      "age_min": 201
     },
     {
       "id": "direkt-wartenberg",
@@ -830,62 +830,62 @@
       "dept": "Chancen",
       "iv": 2880,
       "out": "**WAS:** Eine „Wartenberger Feierabend-Box“ mit frischem Saison-Gemüse, Eiern, Holzofenbrot und regionalen Brotzeit-Spezialitäten, die flexibel bestellt und rund um die Uhr aus einem gekühlten Abhol-Safe an der Durchgang",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 201
     },
     {
       "id": "tourismus-wartenberg",
       "name": "Vulkanregion-Tourismus — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Sie buchen den „Vulkan-Genuss-Rucksack“, der reichlich gefüllt mit regionalen Vogelsberger Spezialitäten und einer Wanderkarte auf Sie wartet, um die historische Burgruine Wartenberg kulinarisch zu erkunden. **f",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Sie buchen einen individuellen **Vulkan-Geheimnis-Tourismus**-Paket, das Ihnen ein exklusives Rundgangserlebnis durch die legendäre Wartensee-Gegend anbietet, mit Fokus auf geheimen Wartebergrätschen und unterha",
+      "via": "ollama",
+      "age_min": 201
     },
     {
       "id": "senioren-wartenberg",
       "name": "Senioren-Alltagsdienste — Wartenberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen auf Augenhöhe bei Einkäufen, Arztbesuchen und Botengängen unterstützt und ihnen so die eigenständige Teilnahme am Gemeindeleben ermöglicht. **WARUM HIER:** In ",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein digitales Verbindungsnetzwerk, das Senioren mit anderen Mitgliedern des Dorfes verbindet, um Unterstützung bei alltäglichen Aufgaben zu organisieren und so die Isolation zu reduzieren. **WARUM HIER:** Die di",
+      "via": "ollama",
+      "age_min": 201
     },
     {
       "id": "chancen-antrifttal",
       "name": "Chancen-Scout — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Betrieb eines autarken 24/7-Verkaufscontainers („Antrift-Box“) mit regionalem Grillgut, kühlen Getränken und Camping-Bedarf direkt am Antriftstausee. **WARUM HIER:** Der Stausee zieht kontinuierlich Camper, Angl",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein Antrifttal-App zur Anzeige von Dienstleistungen und Produkten von lokalen Gewerbetreibenden. **WARUM HIER:** Die Antrifttal-Bewohner und -Besucher suchen nach regionalem Angebot, während zahlreiche lokale Un",
+      "via": "ollama",
+      "age_min": 200
     },
     {
       "id": "handwerk-antrifttal",
       "name": "Handwerk-Sichtbarkeit — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsfachbetrieb** (z. B. spezialisiert auf Bad-Sanierung und moderne Heizsysteme). **Ansprache-Idee:** „Hallo [Name], wenn Eigentümer in Antrifttal und den Nachbardörfern nach eine",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Ein Sanitär- und Heizungsfachbetrieb (z. B. spezialisiert auf Bad-Sanierung und moderne Heizsysteme). **Ansprache-Idee:** „Hallo [Name], wenn Ihre Nachbarn in Antrifttal und den Nachbardörfern nach einer",
+      "via": "ollama",
+      "age_min": 200
     },
     {
       "id": "direkt-antrifttal",
       "name": "Direktvermarktung — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Antrifttaler Feierabend-Kiste“ im festen Abo, vollgepackt mit frischem Landbrot, Vogelsberger Hausmacher-Wurst, Eiern, Käse und saisonalem Hof-Gemüse aus der direkten Nachbarschaft. **für WEN:",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine monatliche „Gemeindebox Antrifttal“, die eine Auswahl von regionalen Delikatessen und landwirtschaftlichen Produkten enthält, darunter gebackene Torten aus der örtlichen Backstube, selbstgepresster Apfelmus",
+      "via": "ollama",
+      "age_min": 200
     },
     {
       "id": "tourismus-antrifttal",
       "name": "Vulkanregion-Tourismus — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: Vulkan-See-Auszeit – E-Bike-Genusstour & Picknick an der Antrifttalsperre** * **WAS:** Erlebe eine entspannte E-Bike-Runde um die malerische Antrifttalsperre, gekrönt von einer Rast am Seeufer mit einem",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Erlebnis-Paket: Vulkan-See-Auszeit – E-Bike-Genusstour & Picknick an der Antrifttalsperre** * **WAS:** Entspanne dich während einer E-Bike-Tour durch die idyllische Umgebung der Antrifttalsperre und genieße eine gemütl",
+      "via": "ollama",
+      "age_min": 200
     },
     {
       "id": "senioren-antrifttal",
@@ -893,17 +893,17 @@
       "dept": "Kunden",
       "iv": 2880,
       "out": "**WAS:** Ein fester, würdevoller Begleit- und Fahrdienst, der ältere Menschen direkt an der Haustür abholt, um gemeinsame Besorgungen, Arztbesuche und soziale Kontakte in der Region zu ermöglichen. **WARUM HIER:** In den",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 200
     },
     {
       "id": "chancen-grebenau",
       "name": "Chancen-Scout — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Haus-, Hof- und Alltagsassistenz-Service auf Auftragsbasis für Senioren und vielbeschäftigte Pendler in den sieben Ortsteilen von Grebenau. **WARUM HIER:** Das „Gründchen“ hat einen hohen Anteil an ä",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine lokale Lieferdienstleistung für regionale Gastronomiebetriebe, die Lokale mit regionalem Frischgemüse, Fleisch und Getränke versorgen. **WARUM HIER:** Grebenau hat eine Reihe von Lokalen, die sich bemühen, ",
+      "via": "ollama",
+      "age_min": 200
     },
     {
       "id": "handwerk-grebenau",
@@ -911,26 +911,26 @@
       "dept": "Chancen",
       "iv": 1440,
       "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) in Grebenau. **Ansprache-Idee:** „Mundpropaganda im Vogelsberg ist Gold wert, aber wenn ein Hausbesitzer in Grebenau abends nach einer neuen Wärmepumpe goggelt oder ein",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 200
     },
     {
       "id": "direkt-grebenau",
       "name": "Direktvermarktung — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Gründchen-Kiste“ ist ein wöchentliches Regio-Abo mit frischem Holzofenbrot, Eiern, Saison-Gemüse und Vogelsberger Spezialitäten wie Ahle Wurst, direkt an die Haustür geliefert. **fuer WEN:** Für Familien, S",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein Wochenmarkt-App für Grebenau und Umgebung, das lokale Erzeuger direkt mit den Bürgern verbindet, indem es Online-Abonnements für lokal produzierte Lebensmittel anbietet. **fuer WEN:** Für junge Familien, Sen",
+      "via": "ollama",
+      "age_min": 200
     },
     {
       "id": "tourismus-grebenau",
       "name": "Vulkanregion-Tourismus — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** **„Gründchen-Waldleuchten & Picknick-Moment“:** Eine geführte Dämmerungswanderung durch die dichten Wälder rund um Grebenau mit anschließendem regionalen Vesper-Picknick am knackenden Lagerfeuer. **FÜR WEN:** Da",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** „Vulkanik & Volkskunde: Grebenauer Volksfestbesuch“: Ein vollständiger Tag mit Besichtigung der vulkanischen Sehenswürdigkeiten und Teilnahme am traditionellen Grebenauer Volksfest. **FÜR WEN:** Das Paket ist id",
+      "via": "ollama",
+      "age_min": 199
     },
     {
       "id": "senioren-grebenau",
@@ -938,44 +938,44 @@
       "dept": "Kunden",
       "iv": 2880,
       "out": "**WAS:** Der „Gründchen-Helfer“ ist ein fester, vertrauter Alltagsbegleiter, der ältere Menschen in den einzelnen Ortsteilen direkt zu Hause bei praktischen Aufgaben in Haus und Garten unterstützt sowie sie auf Wunsch wü",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 199
     },
     {
       "id": "chancen-lautertal",
       "name": "Chancen-Scout — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Reparatur- und Akku-Notdienst auf Abruf für Touristen und Anwohner im Lautertal. **WARUM HIER:** Das Lautertal liegt ideal an den frequentierten Vogelsberg-Radrouten, besitzt aber selbst keine",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine Wochenend-Bauernmarkthalle mit lokalem Lebensmittel und Handwerkswarenverkauf. **WARUM HIER:** Lautertal hat eine geringe Zahl an Bauernmärkten und bietet großes Potenzial für lokale Erzeuger und Handwerker",
+      "via": "ollama",
+      "age_min": 199
     },
     {
       "id": "handwerk-lautertal",
       "name": "Handwerk-Sichtbarkeit — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Dachdecker- und Zimmereibetrieb (Fokus: Dachsanierung & Notfälle) **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer im Lautertal nach einem Sturmschaden oder einer Dachsanierung auf dem Handy suc",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Holzschreiner- und Möbelwerkstatt (Fokus: Holzverarbeitung & Einrichtungsgeräte) **Ansprache-Idee:** „Hallo Frau [Name], wenn Bewohner im Lautertal nach verlässlichen Holzschreinerdienstleistungen suchen",
+      "via": "ollama",
+      "age_min": 199
     },
     {
       "id": "direkt-lautertal",
       "name": "Direktvermarktung — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Lautertaler Vesper-Kiste“ – eine wöchentlich wechselnde Abo-Box mit frischem Bauernbrot, Odenwälder Käse, Hausmacher Wurst, saisonalem Obst und Apfelwein direkt von Erzeugern aus der Region. **für WEN:** Fü",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein monatliches \"Lautertaler Landhaus-Paket\" mit handgefertigten Regionalköstlichkeiten, die in verschiedenen Familienbetrieben hergestellt werden, inklusive einer persönlichen Briefeinleitung. **für WEN:** Für ",
+      "via": "ollama",
+      "age_min": 199
     },
     {
       "id": "tourismus-lautertal",
       "name": "Vulkanregion-Tourismus — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: „Lautertaler Basalt-Glow: Dämmerungswanderung mit Vulkan-Picknick“** * **WAS:** Erleben Sie eine geführte Abendwanderung zu den mystischen Basaltformationen rund um Lautertal und genießen Sie im Anschlu",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Erlebnis-Paket: „Lautertaler Vulkan-Mythen: Mythentage im Vulkanpark“** * **WAS:** Tauchen Sie in die mächtigen Geschichten der Vulkane ein, die die Region geformt haben. Besuchen Sie historische Anlagen und erfahren S",
+      "via": "ollama",
+      "age_min": 199
     },
     {
       "id": "senioren-lautertal",
@@ -983,17 +983,17 @@
       "dept": "Kunden",
       "iv": 2880,
       "out": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorflebe",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 199
     },
     {
       "id": "handwerk-fulda",
       "name": "Handwerk-Sichtbarkeit — Fulda",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbau-Betrieb in Fulda** (mit Fokus auf Bad-Sanierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer in Fulda nach ‚Badsanierung‘ oder ‚Wärmepump",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Ein Sanitär- und Heizungsbau-Betrieb in Fulda (mit Fokus auf Bad-Sanierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer in Fulda nach ‚Badsanierung‘ oder ‚Wärmepumpe‘ g",
+      "via": "ollama",
+      "age_min": 199
     },
     {
       "id": "direkt-fulda",
@@ -1001,17 +1001,17 @@
       "dept": "Chancen",
       "iv": 2880,
       "out": "**WAS:** Eine vorgepackte „Rhöner Feierabend-Kiste“ mit saisonalem Gemüse, Eiern und Brotzeitspezialitäten von heimischen Höfen, die ohne feste Abo-Bindung online bestellt und kontaktlos an Abholstationen bereitgestellt ",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 198
     },
     {
       "id": "tourismus-fulda",
       "name": "Vulkanregion-Tourismus — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: „SternenZauber Rhön: Kulinarische Nachtwanderung & Astronomie“** * **WAS:** Ein geführtes Nachterlebnis im UNESCO-Biosphärenreservat nahe Fulda inklusive Sternenbeobachtung durch Profi-Teleskope und ein",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Erlebnis-Paket: „Vulkane im Mondschein: Spurensuche auf dem Vogelsberg“** * **WAS:** Eine geführte Nachtwanderung durch die Vulkanregion Vogelsberg, bei der Teilnehmer die Geologie und Geschichte des Gebietes kennenler",
+      "via": "ollama",
+      "age_min": 198
     },
     {
       "id": "senioren-fulda",
@@ -1020,25 +1020,25 @@
       "iv": 2880,
       "out": "**WAS:** Ein persönlicher Dorf-Fahr- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen von Haustür zu Haustür zu Einkäufen, Barrierefrei-Ärzten und Besuchen in die Stadt Fulda begleitet. **WARUM HIER:",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "chancen-petersberg",
       "name": "Chancen-Scout — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Inspektions- und Reparaturservice für E-Bikes und Fahrräder, der Wartungen direkt beim Kunden zu Hause oder während der Arbeitszeit auf Firmenparkplätzen durchführt. **WARUM HIER:** Petersberg verein",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein Lastenaufnahmepaket für Unternehmen, die in Petersberg lokale Produkte und Dienstleistungen anbieten, um ihren Online-Shop zu ergänzen und die Kundennähe zu verbessern. **WARUM HIER:** Petersberg verfügt übe",
+      "via": "ollama",
+      "age_min": 198
     },
     {
       "id": "handwerk-petersberg",
       "name": "Handwerk-Sichtbarkeit — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** in Petersberg (mit Fokus auf Badmodernisierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Petersberger auf dem Smartphone nach Ex",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Ein lokaler Sanitär- und Heizungsbetrieb in Petersberg (mit Fokus auf Badmodernisierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Petersberger auf dem Smartphone nach Expert",
+      "via": "ollama",
+      "age_min": 198
     },
     {
       "id": "direkt-petersberg",
@@ -1047,7 +1047,7 @@
       "iv": 2880,
       "out": "**WAS:** Die „Petersberger Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit erntefrischem Gemüsemix, Rhöner Hofkäse und frischem Bauernbrot, das freitags gekühlt an einer zentralen Abholstation im Ort bereitsteht. **FÜ",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "tourismus-petersberg",
@@ -1056,7 +1056,7 @@
       "iv": 2880,
       "out": "**Erlebnis-Paket: „Rhöner Sonnenuntergang & Picknick-Genuss am Rauschenberg“** * **WAS:** Das Paket beinhaltet einen leihweisen, prall gefüllten Rucksack mit regionalen Rhöner Bio-Spezialitäten und einer Picknickdecke fü",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "senioren-petersberg",
@@ -1065,25 +1065,25 @@
       "iv": 2880,
       "out": "**WAS:** Ein mobiler Nachbarschafts- und Einkaufsdienst, der ältere Menschen würdevoll von Haustür zu Haustür begleitet, Besorgungen übernimmt und Raum für persönliche Begegnungen schafft. **WARUM HIER:** In den weit ver",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "chancen-kuenzell",
       "name": "Chancen-Scout — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Vor-Ort-Wartungs- und Reparaturdienst für E-Bikes und Fahrräder per speziell ausgerüstetem Service-Transporter. **WARUM HIER:** Künzell hat eine sehr hohe Dichte an eigenheimbasierten E-Bike-Pendlern",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine Online-Plattform für Lokalprodukte und -dienstleistungen, die den Schwerpunkt auf nachhaltige und regionale Angebote legt. **WARUM HIER:** Künzell verfügt über zahlreiche kleine Produktions- und Dienstleist",
+      "via": "ollama",
+      "age_min": 198
     },
     {
       "id": "handwerk-kuenzell",
       "name": "Handwerk-Sichtbarkeit — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsfachbetrieb** (mit Fokus auf Wärmepumpen & Badsanierung) in Künzell. **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer in Künzell nach einer neuen Heizung oder Badmodernisie",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**Betriebstyp:** Ein Sanitär- und Heizungsfachbetrieb (mit Fokus auf Wärmepumpen & Badsanierung) in Künzell. **Ansprache-Idee:** „Hallo [Name], in Künzell suchen viele Hausbesitzer nach zuverlässigen Lösungen für ihre He",
+      "via": "ollama",
+      "age_min": 198
     },
     {
       "id": "direkt-kuenzell",
@@ -1092,7 +1092,7 @@
       "iv": 2880,
       "out": "**WAS:** Die „Künzeller Feierabend-Kiste“ – ein wöchentliches Frische-Abo mit saisonalem Gemüse, Rhöner Käse, Wurst und Brot, das Donnerstag- und Freitagabend an einem zentralen Hof-Drive-In ohne Wartezeit abgeholt wird.",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "tourismus-kuenzell",
@@ -1101,7 +1101,7 @@
       "iv": 2880,
       "out": "**WAS:** Das Paket „Künzeller Auszeit“ kombiniert eine geführte Alpaka-Wanderung durch die Rhöner Vorgebirgslandschaft mit einem anschließenden Tagesaufenthalt im exotischen Siebenwelten Spa & Resort inklusive Südsee-Wel",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "senioren-kuenzell",
@@ -1110,16 +1110,16 @@
       "iv": 2880,
       "out": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen in Künzell persönlich und barrierefrei zu Einkäufen, Arztterminen sowie sozialen Treffpunkten begleitet. **WARUM HIER:** Da Künzell aus verstreuten Ortsteilen ",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "chancen-neuhof",
       "name": "Chancen-Scout — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Vorbestell-Lieferservice für gesunde, deftige Schicht- und Baustellen-Verpflegung, pünktlich geliefert zu den exakten Schichtwechseln im Kalirevier und den lokalen Gewerbegebieten. **WARUM HIER:** Ne",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Ein lokales, umweltbewusstes Recycling-Startup, das Schachtelfenster und andere Papiermüll von Büros und Firmen in Neuhof abnimmt und wiederverwendet oder verbrannt. **WARUM HIER:** Neuhof hat eine starke Gewerb",
+      "via": "ollama",
+      "age_min": 198
     },
     {
       "id": "handwerk-neuhof",
@@ -1127,8 +1127,8 @@
       "dept": "Chancen",
       "iv": 1440,
       "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Neuhof (z. B. für Wärmepumpen-Umrüstung und Badsanierungen). **Ansprache-Idee:** „Wenn Neuhofer nach ‚Heizungstausch‘ oder ‚Badsanierung‘ googeln, landen sie aktuell meist",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 198
     },
     {
       "id": "direkt-neuhof",
@@ -1137,7 +1137,7 @@
       "iv": 2880,
       "out": "**WAS:** Eine „Rhöner Feierabend-Box“ im wöchentlichen Abo, voll gepackt mit frischem Landbrot, Hausmacher Wurst, regionalem Käse und Saison-Gemüse zur flexiblen 24/7-Abholung am Hof-Automaten in Neuhof. **für WEN:** Für",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "tourismus-neuhof",
@@ -1146,7 +1146,7 @@
       "iv": 2880,
       "out": "**WAS:** Das Erlebnis-Paket „Glückauf & Gaumenfreude“ kombiniert eine geführte Dämmerungswanderung rund um den imposanten Neuhofer Monte Kali mit einer urigen Bergmanns-Vesper und der Verkostung regionaler Spezialitäten ",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "senioren-neuhof",
@@ -1155,16 +1155,16 @@
       "iv": 2880,
       "out": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den we",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "chancen-huenfeld",
       "name": "Chancen-Scout — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobiler Fahrzeug-Aufbereitungsservice, der Handwerks- und Firmenfuhrparks in Hünfeld direkt nach Feierabend auf dem Betriebsgelände reinigt. **WARUM HIER:** Die Hünfelder Gewerbegebiete (z. B. „Im Haselgrund“) b",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Lokales Online-Shop-Concept für örtliche Handwerks- und Lebensmittelprodukte. **WARUM HIER:** Hünfeld verfügt über zahlreiche traditionelle Handwerksbetriebe und regional vermarktbare Produkte, die jedoch in der",
+      "via": "ollama",
+      "age_min": 197
     },
     {
       "id": "handwerk-huenfeld",
@@ -1172,8 +1172,8 @@
       "dept": "Chancen",
       "iv": 1440,
       "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) in Hünfeld **Ansprache-Idee:** „Hallo Herr [Name], wenn Hünfelder Hausbesitzer online nach einer neuen Wärmepumpe oder Badrenovierung suchen, finden sie aktuell meist d",
-      "via": "gemini",
-      "age_min": 0
+      "via": "ollama",
+      "age_min": 197
     },
     {
       "id": "direkt-huenfeld",
@@ -1182,7 +1182,7 @@
       "iv": 2880,
       "out": "**WAS:** Eine wöchentlich wechselnde „Hünfelder Feierabend-Kiste“ mit frischem Brot, Rhöner Käse, Hausmacher Wurst und Saison-Gemüse, die per Abo vorbestellt und flexibel an einer gekühlten 24/7-Abholstation abgeholt wir",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "tourismus-huenfeld",
@@ -1191,7 +1191,7 @@
       "iv": 2880,
       "out": "**WAS:** Die „Zuse-Code & Rhön-Tapas“-E-Bike-Tour kombiniert ein interaktives Rätsel-Abenteuer auf den Spuren des Computer-Pioniers Konrad Zuse rund um den Hünfelder Haselsee mit einer Kiste voller regionaler Spezialität",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "senioren-huenfeld",
@@ -1200,16 +1200,16 @@
       "iv": 2880,
       "out": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den Hünfelder Ortsteilen verlässlich zum Einkauf oder Arztbesuch abholt, geduldig begleitet und die Besorgungen sicher nach Hause trägt. **WARUM HIER:** In",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "chancen-grossenlueder",
       "name": "Chancen-Scout — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein vollautomatisierter 24/7-Regiomat für frische Nahversorgung, der regionale Grill- und Vesperpakete von lokalen Erzeugern anbietet. **WARUM HIER:** Täglich nutzen Tausende Berufstätige die B254 als Pendlerach",
-      "via": "gemini",
-      "age_min": 0
+      "out": "**WAS:** Eine Mobile App zur direkten Anmeldung für Workshops und Kurse, die auf lokalen Unternehmen zugeschnitten sind. **WARUM HIER:** Die Arbeitnehmerschaft in Groß-Lüder hat einen starken Interessenschwerpunkt auf We",
+      "via": "ollama",
+      "age_min": 197
     },
     {
       "id": "handwerk-grossenlueder",
@@ -1218,7 +1218,7 @@
       "iv": 1440,
       "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb **Ansprache-Idee:** „Hallo Herr [Name], wenn jemand in Großenlüder nach einer neuen Wärmepumpe oder einem Heizungs-Notdienst sucht, landet er aktuell bei der Konkurrenz aus F",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "direkt-grossenlueder",
@@ -1227,7 +1227,7 @@
       "iv": 2880,
       "out": "**WAS:** Eine regionale „Lüder-Feierabend-Kiste“ im wöchentlichen Abo, voll gepackt mit frischem Saison-Gemüse, ehrlichem Handwerksfleisch und Holzofenbrot direkt von den Höfen rund um Großenlüder. **FÜR WEN:** Für beruf",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "tourismus-grossenlueder",
@@ -1236,7 +1236,7 @@
       "iv": 2880,
       "out": "**WAS:** Bei der „Kalk & Kräuter“-Dämmerungswanderung erkunden Sie die einzigartigen Kalkfelsen Großenlüders und genießen anschließend ein regionales Picknick mit selbstgesammelten Wildkräutern an der historischen Schnep",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "senioren-grossenlueder",
@@ -1245,7 +1245,7 @@
       "iv": 2880,
       "out": "**WAS** Ein ehrenamtlicher Dorf-Fahr- und Begleitdienst bringt Seniorinnen und Senioren aus den Ortsteilen wie Kleinlüder oder Müs direkt zum Einkauf, Arzt oder Wochenmarkt im Hauptort und unterstützt sie auf Wunsch pers",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "chancen-eichenzell",
@@ -1254,7 +1254,7 @@
       "iv": 1440,
       "out": "**WAS:** Ein schlanker, digital vorbestellbarer „Schicht-Lunch“-Lieferservice für frische, gesunde Mahlzeiten direkt an die Büros und Laderampen. **WARUM HIER:** Im riesigen Industriegebiet Eichenzell arbeiten Tausende S",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "handwerk-eichenzell",
@@ -1263,7 +1263,7 @@
       "iv": 1440,
       "out": "**Betriebstyp:** Ein lokaler **Heizung-Sanitär-Betrieb (SHK)** in Eichenzell. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Eichenzell und dem Kreis Fulda online nach einer neuen Heizung oder Badsanie",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "direkt-eichenzell",
@@ -1272,7 +1272,7 @@
       "iv": 2880,
       "out": "**WAS:** Die „Eichenzeller Feierabend-Kiste“ ist ein wöchentliches Abo-Kistchen vollgepackt mit ehrlichem Vesper-Proviant wie frischem Bauernbrot, Rhöner Käse, Ahler Wurscht und knackigem Saison-Gemüse aus der Region. **",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "tourismus-eichenzell",
@@ -1281,7 +1281,7 @@
       "iv": 2880,
       "out": "**WAS:** Erleben Sie einen exklusiven Rundgang durch den historischen Park von Schloss Fasanerie inklusive eines reich gefüllten Picknickkorbs voller regionaler Rhöner Bio-Spezialitäten. **fuer WEN:** Das Paket ist ideal",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "senioren-eichenzell",
@@ -1290,7 +1290,7 @@
       "iv": 2880,
       "out": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Dorf-Shuttle, der ältere Menschen aus den einzelnen Ortsteilen direkt von der Haustür zu Ärzten, Einkäufen und Nachbarschaftstreffs im Kernort Eichenzell bringt. **WARU",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "chancen-hosenfeld",
@@ -1299,7 +1299,7 @@
       "iv": 1440,
       "out": "**WAS** Ein mobiler E-Bike-Verleih- und Bringservice, der Räder flexibel direkt an Ferienwohnungen, Wanderparkplätze und Haushalte in den acht Ortsteilen von Hosenfeld liefert. **WARUM HIER** Hosenfeld liegt strategisch ",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "handwerk-hosenfeld",
@@ -1308,7 +1308,7 @@
       "iv": 1440,
       "out": "**Betriebstyp:** Ein **lokaler Heizungs- und Sanitärbetrieb** in Hosenfeld (besonders relevant wegen der hohen Online-Suchanfragen zu Wärmepumpen, Heizungstausch und Badsanierungen im Raum Fulda/Vogelsberg). **Ansprache-",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "direkt-hosenfeld",
@@ -1317,7 +1317,7 @@
       "iv": 2880,
       "out": "**WAS:** Eine wöchentlich wechselnde „Hosenfelder Feierabend-Tasche“ mit frischem Saison-Gemüse, Eiern, Käse und Hausmacher Wurst aus der unmittelbaren Nachbarschaft, abzuholen an einer gekühlten 24/7-Dorf-Station. **fue",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "tourismus-hosenfeld",
@@ -1326,7 +1326,7 @@
       "iv": 2880,
       "out": "**WAS:** Ein dreistündiges Abenderlebnis mit einer leichten GPS-Rundwanderung über historische Basaltwege bei Hosenfeld, gekrönt von einem regionalen Bio-Picknickkorb zum Sonnenuntergang. **fuer WEN:** Dieses Angebot ric",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "senioren-hosenfeld",
@@ -1335,7 +1335,7 @@
       "iv": 2880,
       "out": "**WAS:** Ein ehrenamtlich getragener Begleit- und Fahrdienst bringt Seniorinnen und Senioren aus den acht Ortsteilen von Hosenfeld würdevoll und flexibel zu Einkäufen, Arztterminen und sozialen Treffpunkten. **WARUM HIER",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "chancen-flieden",
@@ -1344,7 +1344,7 @@
       "iv": 1440,
       "out": "**WAS** Ein mobiler Pendler-Kaffee- und Frühstücksservice auf Lastenrad-Basis direkt am Bahnhof Flieden. **WARUM HIER** Hunderte Berufspendler nutzen täglich den Fliedener Bahnhof Richtung Frankfurt und Fulda, vor Ort fe",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "handwerk-flieden",
@@ -1353,7 +1353,7 @@
       "iv": 1440,
       "out": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb (SHK)** in Flieden. **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer in Flieden online nach einer neuen Wärmepumpe oder Badrenovierung suchen, finden si",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "direkt-flieden",
@@ -1362,7 +1362,7 @@
       "iv": 2880,
       "out": "**WAS:** Die „Königreich-Feierabendkiste“ ist ein gekühltes 24/7-Schließfachsystem am Bahnhof Flieden, das online vorbestellte Vesper- und Kochpakete mit frischen Landprodukten von Höfen aus der Region direkt für den Nac",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "tourismus-flieden",
@@ -1371,7 +1371,7 @@
       "iv": 2880,
       "out": "**WAS:** Ein geführtes E-Bike-Tagesabenteuer durch das malerische „Königreich Flieden“ inklusive eines gefüllten Picknickkorbs mit regionalen Spezialitäten aus Rhön und Vogelsberg. **FÜR WEN:** Perfekt für genussorientie",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "senioren-flieden",
@@ -1380,7 +1380,7 @@
       "iv": 2880,
       "out": "**WAS:** Der „Fliedener Dorf-Begleitdienst“ bietet älteren Menschen aus den Ortsteilen eine persönliche Abholung von der Haustür, um Termine, Einkäufe oder soziale Kontakte im Hauptort eigenständig und in Ruhe wahrzunehm",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "chancen-tann",
@@ -1389,7 +1389,7 @@
       "iv": 1440,
       "out": "**WAS:** Geführte Sternenpark-Nachtspaziergänge inklusive Rucksack-Vesper mit regionalen Rhöner Produkten für Feriengäste. **WARUM HIER:** Tann ist ein etablierter Knotenpunkt für Naturtourismus im Biosphärenreservat Rhö",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 217
     },
     {
       "id": "handwerk-tann",
@@ -1398,124 +1398,124 @@
       "iv": 1440,
       "out": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** in Tann (Rhön). **Ansprache-Idee:** „Hallo [Name], wenn die Tanner nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei Betriebe",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 61
     },
     {
       "id": "direkt-tann",
       "name": "Direktvermarktung — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein bestellbarer „Tanner Brotzeit-Rucksack“, vollgepackt mit frischem Rhöner Bauernbrot, Hausmacher Dosenwurst, Hartkäse und Streuobstsaft direkt von Höfen aus der Umgebung. **für WEN:** Wanderer, Tagesausflügle",
+      "via": "gemini",
+      "age_min": 9
     },
     {
       "id": "tourismus-tann",
       "name": "Vulkanregion-Tourismus — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe beim Abend-Paket „Rhön-Sterne & Zapfenstreich“ eine geführte Nachtwanderung durch das UNESCO-Biosphärenreservat bei Tann inklusive Teleskop-Astrobeobachtung im Sternenpark und regionalem Schlummertrunk. *",
+      "via": "gemini",
+      "age_min": 9
     },
     {
       "id": "senioren-tann",
       "name": "Senioren-Alltagsdienste — Tann",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "WAS: Ein mobiles Gesundheitswesen, das regulär in Tann und umliegende Dörfer einfährt, um Hygiene- und Gesundheitsangebote an Senioren anzubieten. WARUM HIER: Tann hat eine hohe Bevölkerungsanteil alternder Einwohner, un",
+      "via": "ollama",
+      "age_min": 216
     },
     {
       "id": "chancen-gersfeld",
       "name": "Chancen-Scout — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Wertschöpfende Landwirtschaftsberatung / Warum hier: Gersfeld liegt in einer typischen Landwirtschaftsregion mit kleineren Bauern, die nach effizienteren Lösungen suchen / Erster Schritt: Einrichtung eines lokalen Beratu",
+      "via": "ollama",
+      "age_min": 216
     },
     {
       "id": "handwerk-gersfeld",
       "name": "Handwerk-Sichtbarkeit — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Ein konkreter Betriebstyp in Gersfeld, der von einem Digital-Sichtbarkeits-Paket profitieren könnte, ist ein Bäckerei oder Delikatessenshop. Diese Betriebe haben oft den Bedarf, sich im Lokalverkehr und bei den Bewohnern",
+      "via": "ollama",
+      "age_min": 216
     },
     {
       "id": "direkt-gersfeld",
       "name": "Direktvermarktung — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "WAS: Ein Abo-Box mit lokal produzierten Delikatessen und Agrprodukten. fuer WEN: Liebhaber von Gourmet-Erlebnissen und Städteten, die Wert auf regionale Qualität legen. ERSTER SCHRITT: Einladung zu einem Gastronomietreff",
+      "via": "ollama",
+      "age_min": 215
     },
     {
       "id": "tourismus-gersfeld",
       "name": "Vulkanregion-Tourismus — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein Tagungs- und Erholungs-Paket, das einen缩水了句子，保持意思完整。 user 请重新组织句子，使它更流畅并包含所有关键信息。",
+      "via": "ollama",
+      "age_min": 215
     },
     {
       "id": "senioren-gersfeld",
       "name": "Senioren-Alltagsdienste — Gersfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "WAS: Ein Mobiles Einkaufszentrum für Senioren. WARUM HIER: In Gersfeld gibt es eine hohe Anzahl von Senioren, die oft Schwierigkeiten haben, Einkäufe zu tätigen, insbesondere wenn sie in abgelegenen Teilen des Dorfes woh",
+      "via": "ollama",
+      "age_min": 215
     },
     {
       "id": "chancen-hilders",
       "name": "Chancen-Scout — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Werbungsfreie Parkplätze / Warum hier: In Hilders gibt es einen stark wachsenden Bedarf an Parkmöglichkeiten, insbesondere in den kommersialen Gebieten. Erster Schritt: Ein Umfrage zu den aktuellen Parkmöglichkeiten und ",
+      "via": "ollama",
+      "age_min": 215
     },
     {
       "id": "handwerk-hilders",
       "name": "Handwerk-Sichtbarkeit — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Ein konkreter Betriebstyp in Hilders, der von einem Digital-Sichtbarkeits-Paket profitieren würde, ist ein Holzfachhandel. Ansprache-Idee: \"Entdecken Sie bei uns die perfekten Holzschöpfungen für Ihr eigenes Projekt! Mit",
+      "via": "ollama",
+      "age_min": 215
     },
     {
       "id": "direkt-hilders",
       "name": "Direktvermarktung — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "WAS: Eine Wochenbox mit regionalen Delikatessen und Agrarprodukten. fur WEN: Liebhaber von regionaler Küche und Lebensmittelfans aus Hilders und Umgebung. ERSTER SCHRITT: Einige lokale Produzenten ansprechen und ein Sort",
+      "via": "ollama",
+      "age_min": 215
     },
     {
       "id": "tourismus-hilders",
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "WAS: Ein kleines Erlebnis-Paket könnte das Besuchen eines lokalen Vulkanausfallcentres in Hilders beinhalten, bei dem Besucher Vulkanismus, Geologie und lokale Geschichte kennenlernen können. FUER WEN: Dieses Paket ist i",
+      "via": "ollama",
+      "age_min": 215
     },
     {
       "id": "senioren-hilders",
       "name": "Senioren-Alltagsdienste — Hilders",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "WAS: Ein Lastenausgleichsdienst, der Senioren hilft, Einkaufslisten zu erledigen und Lebensmittel oder andere benötigte Gegenstände zu holen. WARUM HIER: In Hilders gibt es viele Senioren, die aufgrund von Mobilitätsprob",
+      "via": "ollama",
+      "age_min": 215
     }
   ],
   "budget": {
@@ -1525,99 +1525,99 @@
   "recent": [
     {
       "dept": "Chancen",
+      "agent": "tourismus-tann",
+      "via": "gemini",
+      "text": "**WAS:** Erlebe beim Abend-Paket „Rhön-Sterne & Zapfenstreich“ eine geführte Nachtwanderung durch das UNESCO-Biosphärenreservat bei Tann inklusive Teleskop-Astrobeobachtung im Sternenpark und regionalem Schlummertrunk. **fuer WEN:** Ideal für Paare, Romantiker und Hobby-Astronauten, die den faszinierenden Sternenhimmel in einer der dunkelsten Regionen Deutsc",
+      "ts": "2026-09-14 21:48",
+      "age_min": 9
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-tann",
+      "via": "gemini",
+      "text": "**WAS:** Ein bestellbarer „Tanner Brotzeit-Rucksack“, vollgepackt mit frischem Rhöner Bauernbrot, Hausmacher Dosenwurst, Hartkäse und Streuobstsaft direkt von Höfen aus der Umgebung. **für WEN:** Wanderer, Tagesausflügler und einheimische Familien, die in den Rhöner Bergen unterwegs sind und bodenständige Verpflegung ohne eigenen Vorbereitungsaufwand schätze",
+      "ts": "2026-09-14 21:47",
+      "age_min": 9
+    },
+    {
+      "dept": "Chancen",
       "agent": "handwerk-tann",
       "via": "gemini",
       "text": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** in Tann (Rhön). **Ansprache-Idee:** „Hallo [Name], wenn die Tanner nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass der nächste Auftrag direkt bei Ihnen im Ort bleibt.“",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
+      "ts": "2026-09-14 20:55",
+      "age_min": 61
     },
     {
-      "dept": "Recherche",
-      "agent": "recherche-wettbewerb",
-      "via": "gemini",
-      "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
+      "dept": "Chancen",
+      "agent": "chancen-grossenlueder",
+      "via": "ollama",
+      "text": "**WAS:** Eine Mobile App zur direkten Anmeldung für Workshops und Kurse, die auf lokalen Unternehmen zugeschnitten sind. **WARUM HIER:** Die Arbeitnehmerschaft in Groß-Lüder hat einen starken Interessenschwerpunkt auf Weiterbildung und Freizeitaktivitäten, die oft nur unzureichend oder teuer durchboten werden. **ERSTER SCHRITT:** Eine Partnerschaft mit der l",
+      "ts": "2026-09-14 18:39",
+      "age_min": 197
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-ulrichstein",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
+      "dept": "Chancen",
+      "agent": "handwerk-huenfeld",
+      "via": "ollama",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) in Hünfeld **Ansprache-Idee:** „Hallo Herr [Name], wenn Hünfelder Hausbesitzer online nach einer neuen Wärmepumpe oder Badrenovierung suchen, finden sie aktuell meist die Konkurrenz aus Fulda – wollen wir sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Betrieb landen und Ihre lokale Fachkraft für",
+      "ts": "2026-09-14 18:39",
+      "age_min": 197
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-wartenberg",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen auf Augenhöhe bei Einkäufen, Arztbesuchen und Botengängen unterstützt und ihnen so die eigenständige Teilnahme am Gemeindeleben ermöglicht. **WARUM HIER:** In den weitläufigen Ortsteilen von Wartenberg schwindet die Nahversorgung, wodurch die selbstbestimmte Mobilität für Senioren ohne eigenes Auto",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
+      "dept": "Chancen",
+      "agent": "chancen-huenfeld",
+      "via": "ollama",
+      "text": "**WAS:** Lokales Online-Shop-Concept für örtliche Handwerks- und Lebensmittelprodukte. **WARUM HIER:** Hünfeld verfügt über zahlreiche traditionelle Handwerksbetriebe und regional vermarktbare Produkte, die jedoch in der Regel nicht breit erreicht werden. **ERSTER SCHRITT:** Einige lokale Handwerksbetriebe ansprechen, um Produkte für das Online-Shop-Concept ",
+      "ts": "2026-09-14 18:39",
+      "age_min": 197
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-lautertal",
-      "via": "gemini",
-      "text": "**WAS:** Ein rollender Nachbarschaftsdienst, der Seniorinnen und Senioren auf Wunsch direkt an der Haustür abholt, persönlich zu Besorgungen oder Arztterminen begleitet und ihnen so die eigenständige Teilhabe am Dorfleben bewahrt. **WARUM HIER:** Da das Lautertal aus vielen verstreuten, topografisch steilen Ortsteilen ohne durchgehende Nahversorgung besteht,",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
+      "dept": "Chancen",
+      "agent": "handwerk-neuhof",
+      "via": "ollama",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Neuhof (z. B. für Wärmepumpen-Umrüstung und Badsanierungen). **Ansprache-Idee:** „Wenn Neuhofer nach ‚Heizungstausch‘ oder ‚Badsanierung‘ googeln, landen sie aktuell meist bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen im Ort bleiben. Schließen Sie sich uns",
+      "ts": "2026-09-14 18:39",
+      "age_min": 198
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorfdienst, der ältere Menschen auf Wunsch zu Besorgungen begleitet, Einkäufe direkt an die Haustür bringt und Zeit für ein persönliches, wertschätzendes Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufige Einkaufs- und Begegnungsmöglichkeiten, weshalb dieses Angebot die geschätzte Eige",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
+      "dept": "Chancen",
+      "agent": "chancen-neuhof",
+      "via": "ollama",
+      "text": "**WAS:** Ein lokales, umweltbewusstes Recycling-Startup, das Schachtelfenster und andere Papiermüll von Büros und Firmen in Neuhof abnimmt und wiederverwendet oder verbrannt. **WARUM HIER:** Neuhof hat eine starke Gewerbezone mit vielen Büros und Unternehmen, die stets über ausreichend Papiermüll verfügen, aber kein effizientes und umweltfreundliches Recycli",
+      "ts": "2026-09-14 18:39",
+      "age_min": 198
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-muecke",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der ältere Menschen aus allen Ortsteilen direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen begleitet und Zeit für persönliche Gespräche mitbringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht, bewahrt dieser Dienst die Selbstständigkeit der Seniorinnen und Senioren",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
+      "dept": "Chancen",
+      "agent": "handwerk-kuenzell",
+      "via": "ollama",
+      "text": "**Betriebstyp:** Ein Sanitär- und Heizungsfachbetrieb (mit Fokus auf Wärmepumpen & Badsanierung) in Künzell. **Ansprache-Idee:** „Hallo [Name], in Künzell suchen viele Hausbesitzer nach zuverlässigen Lösungen für ihre Heizungsanpassungen und Badsanierungen. Lassen Sie uns dafür sorgen, dass die wichtigen Projekte direkt zu Ihnen fließen und Sie die Chancen n",
+      "ts": "2026-09-14 18:39",
+      "age_min": 198
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-homberg-ohm",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Besorgungsdienst, der Senioren aus den verstreuten Ortsteilen verlässlich für Einkäufe, Arztbesuche oder soziale Kontakte im Stadtkern abholt und wieder würdevoll nach Hause begleitet. **WARUM HIER:** Homberg (Ohm) besteht aus 14 weit auseinanderliegenden Ortsteilen mit steilen Wegen und ausgedünntem Busverkehr, wodur",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
+      "dept": "Chancen",
+      "agent": "chancen-kuenzell",
+      "via": "ollama",
+      "text": "**WAS:** Eine Online-Plattform für Lokalprodukte und -dienstleistungen, die den Schwerpunkt auf nachhaltige und regionale Angebote legt. **WARUM HIER:** Künzell verfügt über zahlreiche kleine Produktions- und Dienstleistungsunternehmen, die lokale Wirtschaft fördern und Nachhaltigkeit unterstützen möchten, aber fehlen oft die digitalen Kanäle und Kenntnisse,",
+      "ts": "2026-09-14 18:38",
+      "age_min": 198
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-grossenlueder",
-      "via": "gemini",
-      "text": "**WAS** Ein ehrenamtlicher Dorf-Fahr- und Begleitdienst bringt Seniorinnen und Senioren aus den Ortsteilen wie Kleinlüder oder Müs direkt zum Einkauf, Arzt oder Wochenmarkt im Hauptort und unterstützt sie auf Wunsch persönlich vor Ort. **WARUM HIER** Da sich Supermärkte und Praxen auf den Kernort Großenlüder konzentrieren, fehlen in den kleineren, verstreute",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
+      "dept": "Chancen",
+      "agent": "handwerk-petersberg",
+      "via": "ollama",
+      "text": "**Betriebstyp:** Ein lokaler Sanitär- und Heizungsbetrieb in Petersberg (mit Fokus auf Badmodernisierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Petersberger auf dem Smartphone nach Experten für neue Heizungen oder Badsanierungen suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass Ihr ",
+      "ts": "2026-09-14 18:38",
+      "age_min": 198
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-hosenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein ehrenamtlich getragener Begleit- und Fahrdienst bringt Seniorinnen und Senioren aus den acht Ortsteilen von Hosenfeld würdevoll und flexibel zu Einkäufen, Arztterminen und sozialen Treffpunkten. **WARUM HIER:** In den weit verstreuten Dörfern der Gemeinde fehlen oft Nahversorger vor Ort, sodass dieser Dienst die Selbstständigkeit der Älteren in ",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-lauterbach",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst bringt frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein wertschätzendes, persönliches Gespräch. **WARUM HIER:** In den weitläufig verteilten Ortsteilen von Lauterbach fehlen zunehmend Nahversorger, sodass ältere Menschen ohne eigenes Auto kaum noch eigenständig ihren A",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Der „Kirtorfer Alltags-Begleitdienst“ ist ein mobiler Service, der ältere Menschen aus den einzelnen Ortsteilen zu Einkäufen, Arztterminen oder Dorfveranstaltungen begleitet und ihnen vor Ort helfend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Kirtorf fehlen oft eigene Einkaufsmöglichkeiten, weshalb eine verlässliche Wegb",
-      "ts": "2026-09-14 16:25",
-      "age_min": 0
+      "dept": "Chancen",
+      "agent": "chancen-petersberg",
+      "via": "ollama",
+      "text": "**WAS:** Ein Lastenaufnahmepaket für Unternehmen, die in Petersberg lokale Produkte und Dienstleistungen anbieten, um ihren Online-Shop zu ergänzen und die Kundennähe zu verbessern. **WARUM HIER:** Petersberg verfügt über eine Vielzahl von kleineren Geschäften und Handwerksbetrieben, die regional wertvolle Produkte anbieten. Durch ein Lastenaufnahmepaket kön",
+      "ts": "2026-09-14 18:38",
+      "age_min": 198
     }
   ]
 }
