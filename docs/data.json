@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T12:10Z",
+  "updated": "2026-09-15T16:57Z",
   "agents_total": 162,
   "worked": 162,
   "departments": [
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein digital bestellbarer „Rhön-Proviant“-Lieferservice, der regionale Brotzeit-Kisten von lokalen Erzeugern direkt vor die Tür von Ferienwohnungen in Hilders liefert. **WARUM HIER:** Hilders verzeichnet als stark frequentierter Luftkurort hohe Übernachtungszahlen in Selbstversorger-Unterkünften, deren Gäste authentische Rhöner Produkte ohne eigenen ",
+        "text": "**WAS:** Das Paket „Rhöner Sternen-Brotzeit“ umfasst eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit einem zertifizierten Sternenpark-Ranger sowie eine Picknick-Box voller regionaler Biosphären-Spezialitäten für die Beobachtung unter dem Nacht- und Sternenhimmel. **fuer WEN:** Das Angebot richtet sich an Paare, Naturgenießer und Romantik-",
         "age_min": 0
       }
     },
@@ -43,8 +43,8 @@
       "id": "Kunden",
       "count": 32,
       "latest": {
-        "via": "ollama",
-        "text": "**WAS:** Ein digitales Verbindungsnetzwerk, das Senioren mit anderen Mitgliedern des Dorfes verbindet, um Unterstützung bei alltäglichen Aufgaben zu organisieren und so die Isolation zu reduzieren. **WARUM HIER:** Die digitalen Fähigkeiten von Senioren in Wartenberg sind oft begrenzt, was zu einer Einsamkeit und zur Unfähigkeit führt, Unterstützung online zu",
+        "via": "gemini",
+        "text": "**WAS:** Ein ehrenamtlich gestützter Nachbarschafts-Fahrdienst, der Seniorinnen und Senioren aus den verstreuten Ortsteilen sicher zu Arztterminen, Apotheken und Gemeinschaftsveranstaltungen im Kernort Hilders begleitet. **WARUM HIER:** Die weitläufige Topografie der Rhön-Gemeinde mit ihren steilen Wegen macht den Fußweg oder Busumstieg im Alltag – besonders",
         "age_min": 0
       }
     },
@@ -1486,8 +1486,8 @@
       "name": "Handwerk-Sichtbarkeit — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "Ein konkreter Betriebstyp in Hilders, der von einem Digital-Sichtbarkeits-Paket profitieren würde, ist ein Holzfachhandel. Ansprache-Idee: \"Entdecken Sie bei uns die perfekten Holzschöpfungen für Ihr eigenes Projekt! Mit",
-      "via": "ollama",
+      "out": "**Betriebstyp:** Ein Sanitär- und Heizungsbau-Betrieb (SHK) in Hilders. **Ansprache-Idee:** „Viele Hausbesitzer in der Rhön suchen online nach neuen Heizungen oder Badsanierungen – sorgen wir dafür, dass diese Aufträge d",
+      "via": "gemini",
       "age_min": 0
     },
     {
@@ -1495,8 +1495,8 @@
       "name": "Direktvermarktung — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "WAS: Eine Wochenbox mit regionalen Delikatessen und Agrarprodukten. fur WEN: Liebhaber von regionaler Küche und Lebensmittelfans aus Hilders und Umgebung. ERSTER SCHRITT: Einige lokale Produzenten ansprechen und ein Sort",
-      "via": "ollama",
+      "out": "**WAS:** Ein ausleihbarer „Rhöner Brotzeit-Rucksack“ vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Käse vom Rhönschaf und regionalem Apfelmost für Tagestouren. **für WEN:** Wanderer, Tagesgäste und Urlauber, die",
+      "via": "gemini",
       "age_min": 0
     },
     {
@@ -1504,8 +1504,8 @@
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "WAS: Ein kleines Erlebnis-Paket könnte das Besuchen eines lokalen Vulkanausfallcentres in Hilders beinhalten, bei dem Besucher Vulkanismus, Geologie und lokale Geschichte kennenlernen können. FUER WEN: Dieses Paket ist i",
-      "via": "ollama",
+      "out": "**WAS:** Das Paket „Rhöner Sternen-Brotzeit“ umfasst eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit einem zertifizierten Sternenpark-Ranger sowie eine Picknick-Box voller regionaler Biosphären-Spezia",
+      "via": "gemini",
       "age_min": 0
     },
     {
@@ -1513,22 +1513,46 @@
       "name": "Senioren-Alltagsdienste — Hilders",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "WAS: Ein Lastenausgleichsdienst, der Senioren hilft, Einkaufslisten zu erledigen und Lebensmittel oder andere benötigte Gegenstände zu holen. WARUM HIER: In Hilders gibt es viele Senioren, die aufgrund von Mobilitätsprob",
-      "via": "ollama",
+      "out": "**WAS:** Ein ehrenamtlich gestützter Nachbarschafts-Fahrdienst, der Seniorinnen und Senioren aus den verstreuten Ortsteilen sicher zu Arztterminen, Apotheken und Gemeinschaftsveranstaltungen im Kernort Hilders begleitet.",
+      "via": "gemini",
       "age_min": 0
     }
   ],
   "budget": {
-    "used": 4,
+    "used": 8,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "chancen-hilders",
+      "dept": "Kunden",
+      "agent": "senioren-hilders",
       "via": "gemini",
-      "text": "**WAS:** Ein digital bestellbarer „Rhön-Proviant“-Lieferservice, der regionale Brotzeit-Kisten von lokalen Erzeugern direkt vor die Tür von Ferienwohnungen in Hilders liefert. **WARUM HIER:** Hilders verzeichnet als stark frequentierter Luftkurort hohe Übernachtungszahlen in Selbstversorger-Unterkünften, deren Gäste authentische Rhöner Produkte ohne eigenen ",
-      "ts": "2026-09-15 12:09",
+      "text": "**WAS:** Ein ehrenamtlich gestützter Nachbarschafts-Fahrdienst, der Seniorinnen und Senioren aus den verstreuten Ortsteilen sicher zu Arztterminen, Apotheken und Gemeinschaftsveranstaltungen im Kernort Hilders begleitet. **WARUM HIER:** Die weitläufige Topografie der Rhön-Gemeinde mit ihren steilen Wegen macht den Fußweg oder Busumstieg im Alltag – besonders",
+      "ts": "2026-09-15 16:57",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-hilders",
+      "via": "gemini",
+      "text": "**WAS:** Das Paket „Rhöner Sternen-Brotzeit“ umfasst eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit einem zertifizierten Sternenpark-Ranger sowie eine Picknick-Box voller regionaler Biosphären-Spezialitäten für die Beobachtung unter dem Nacht- und Sternenhimmel. **fuer WEN:** Das Angebot richtet sich an Paare, Naturgenießer und Romantik-",
+      "ts": "2026-09-15 16:57",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-hilders",
+      "via": "gemini",
+      "text": "**WAS:** Ein ausleihbarer „Rhöner Brotzeit-Rucksack“ vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Käse vom Rhönschaf und regionalem Apfelmost für Tagestouren. **für WEN:** Wanderer, Tagesgäste und Urlauber, die auf den Extratouren rund um Hilders eine ehrliche, herkunftssichere Rast ohne eigenen Einkaufsaufwand genießen wollen. **ERSTER SCHRITT:** ",
+      "ts": "2026-09-15 16:57",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-hilders",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein Sanitär- und Heizungsbau-Betrieb (SHK) in Hilders. **Ansprache-Idee:** „Viele Hausbesitzer in der Rhön suchen online nach neuen Heizungen oder Badsanierungen – sorgen wir dafür, dass diese Aufträge direkt bei Ihnen im Ort landen und nicht bei der Konkurrenz aus Fulda.“",
+      "ts": "2026-09-15 16:57",
       "age_min": 0
     },
     {
@@ -1536,7 +1560,7 @@
       "agent": "recherche-wettbewerb",
       "via": "ollama",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum, mit drei unterschiedlichen Paketen: --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Preisspanne:** **1.200 € – 1.800 €** (Einmalzahlung) + **50 € – 75 € / Monat** (Hosting, Wartung, kleine Anpassungen) * **Begründung:** **1.200 € – 1.800 € (Einm",
-      "ts": "2026-09-15 12:09",
+      "ts": "2026-09-15 16:57",
       "age_min": 0
     },
     {
@@ -1544,7 +1568,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-15 12:09",
+      "ts": "2026-09-15 16:57",
       "age_min": 0
     },
     {
@@ -1552,7 +1576,7 @@
       "agent": "senioren-wartenberg",
       "via": "ollama",
       "text": "**WAS:** Ein digitales Verbindungsnetzwerk, das Senioren mit anderen Mitgliedern des Dorfes verbindet, um Unterstützung bei alltäglichen Aufgaben zu organisieren und so die Isolation zu reduzieren. **WARUM HIER:** Die digitalen Fähigkeiten von Senioren in Wartenberg sind oft begrenzt, was zu einer Einsamkeit und zur Unfähigkeit führt, Unterstützung online zu",
-      "ts": "2026-09-15 12:09",
+      "ts": "2026-09-15 16:57",
       "age_min": 0
     },
     {
@@ -1560,7 +1584,7 @@
       "agent": "senioren-ulrichstein",
       "via": "ollama",
       "text": "**WAS:** Ein mobiler Notfall- und Einkaufsdienst für Senioren. **WARUM HIER:** In Ulrichstein fehlt es an öffentlicher Verkehrsmittel, sodass ältere Menschen oft auf Hilfe angewiesen sind. **ERSTER SCHRITT:** Ein lokales Team aus Ehrenamtlichen wird gebeten, sich für die Organisation einer mobilen Dienstleistung zu engagieren.",
-      "ts": "2026-09-15 12:09",
+      "ts": "2026-09-15 16:57",
       "age_min": 0
     },
     {
@@ -1568,7 +1592,7 @@
       "agent": "senioren-ulrichstein",
       "via": "ollama",
       "text": "**WAS:** Eine app-basierte Informations- und Reservierungsplattform für die Ulrichsteiner Dorf-Begleiter-Dienste, die Senioren und Fahrgäste einfach und effizient die Nutzung des Dienstes ermöglicht. **WARUM HIER:** Um den Dienst leicht zugänglich und benutzerfreundlich für alle Senioren zu gestalten, die möglicherweise technikärmer oder weniger vertraut mit",
-      "ts": "2026-09-15 12:09",
+      "ts": "2026-09-15 16:57",
       "age_min": 0
     },
     {
@@ -1576,7 +1600,7 @@
       "agent": "senioren-wartenberg",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen auf Augenhöhe bei Einkäufen, Arztbesuchen und Botengängen unterstützt und ihnen so die eigenständige Teilnahme am Gemeindeleben ermöglicht. **WARUM HIER:** In den weitläufigen Ortsteilen von Wartenberg schwindet die Nahversorgung, wodurch die selbstbestimmte Mobilität für Senioren ohne eigenes Auto",
-      "ts": "2026-09-15 12:09",
+      "ts": "2026-09-15 16:57",
       "age_min": 0
     },
     {
@@ -1584,7 +1608,7 @@
       "agent": "senioren-ulrichstein",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-15 12:09",
+      "ts": "2026-09-15 16:57",
       "age_min": 0
     },
     {
@@ -1592,31 +1616,7 @@
       "agent": "senioren-tann",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Dorf-Alltagsbegleiter-Dienst, der Seniorinnen und Senioren direkt zu Hause besucht, um sie individuell bei schweren Besorgungen, kleineren Reparaturen im Haushalt und dem Ausfüllen von Formularen auf Augenhöhe zu unterstützen. **WARUM HIER:** In den weit verstreuten Ortsteilen von Tann fehlen lokale Nahversorger und kleine Handwerksdiens",
-      "ts": "2026-09-15 12:09",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-schwalmtal",
-      "via": "ollama",
-      "text": "**WAS:** Das „Schwalmtaler Nachbarschafts-Mobil“ ist ein verlässlicher Fahr- und Begleitdienst, der ältere Menschen aus den Außenortsteilen sanft dabei unterstützt, Arzttermine, Einkäufe und soziale Treffpunkte im Alltag selbstbestimmt zu erreichen. **WARUM HIER:** Da Schwalmtal aus vielen weit verstreuten Dörfern und Honschaften besteht, schließt dieser Die",
-      "ts": "2026-09-15 12:09",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-schwalmtal",
-      "via": "ollama",
-      "text": "**WAS:** Ein mobiler Transportdienst für Senioren, der sie zwischen ihren Wohnorten und wichtigen Dienstleistungen wie Arztbesuchen oder Einkäufen verbindet. **WARUM HIER:** In Schwalmtal mit seinen verstreuten Dörfern ist Mobilität oft ein Herausforderung, und ein lokaler Dienst schafft Sicherheit und Unabhängigkeit. **ERSTER SCHRITT:** Ein kostenloses Prob",
-      "ts": "2026-09-15 12:09",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-tann",
-      "via": "ollama",
-      "text": "WAS: Ein mobiles Gesundheitswesen, das regulär in Tann und umliegende Dörfer einfährt, um Hygiene- und Gesundheitsangebote an Senioren anzubieten. WARUM HIER: Tann hat eine hohe Bevölkerungsanteil alternder Einwohner, und viele Senioren leben in den umliegenden Dörfern, die keinen direkten Zugang zu ärztlichen Dienstleistungen haben. ERSTER SCHRITT: Ersten K",
-      "ts": "2026-09-15 12:09",
+      "ts": "2026-09-15 16:57",
       "age_min": 0
     }
   ]
