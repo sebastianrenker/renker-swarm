@@ -1,12 +1,12 @@
 # Renker Swarm — Board
 
-Stand: 2026-09-15T06:43Z · 162 Agenten · 162 mit Ergebnis · Budget 3/600
+Stand: 2026-09-15T12:10Z · 162 Agenten · 162 mit Ergebnis · Budget 4/600
 
 ## Kommando — 2 Agenten
 - Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top-Preispositionen für die wichtigsten Produkte überprüfen und optimieren. 2. **Handwerk-Sichtbar:** Marketing-Kampagnen für die Plattform "Handwerk-Sichtbar" anpassen und umsetzen, um die Reichweite in der Region Vogelsberg zu erhöhen. 3. **Vogelsberg-Chancen:** Local   _(via ollama, vor 0 min)_
 
 ## Chancen — 125 Agenten
-- **IDEE:** Der „Social Share-Button“ in der Fußzeile. **WARUM:** Die Fusszeile beinhaltet bereits ein Viral-Element mit dem „Erstellt mit Offerta“-Link. Indem wir diesen Link zu einem Social Share-Button erweitern, können wir den Viral-Loop weiter optimieren. Es wird das Angebot leichter teilen, wenn die Empfänger sehen, dass sie gleichzeitig eine Kopie für s  _(via ollama, vor 0 min)_
+- **WAS:** Ein digital bestellbarer „Rhön-Proviant“-Lieferservice, der regionale Brotzeit-Kisten von lokalen Erzeugern direkt vor die Tür von Ferienwohnungen in Hilders liefert. **WARUM HIER:** Hilders verzeichnet als stark frequentierter Luftkurort hohe Übernachtungszahlen in Selbstversorger-Unterkünften, deren Gäste authentische Rhöner Produkte ohne eigenen   _(via gemini, vor 0 min)_
 
 ## Recherche — 1 Agenten
 - Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum, mit drei unterschiedlichen Paketen: --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Preisspanne:** **1.200 € – 1.800 €** (Einmalzahlung) + **50 € – 75 € / Monat** (Hosting, Wartung, kleine Anpassungen) * **Begründung:** **1.200 € – 1.800 € (Einm  _(via ollama, vor 0 min)_

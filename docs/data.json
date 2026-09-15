@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T06:43Z",
+  "updated": "2026-09-15T12:10Z",
   "agents_total": 162,
   "worked": 162,
   "departments": [
@@ -16,8 +16,8 @@
       "id": "Chancen",
       "count": 125,
       "latest": {
-        "via": "ollama",
-        "text": "**IDEE:** Der „Social Share-Button“ in der Fußzeile. **WARUM:** Die Fusszeile beinhaltet bereits ein Viral-Element mit dem „Erstellt mit Offerta“-Link. Indem wir diesen Link zu einem Social Share-Button erweitern, können wir den Viral-Loop weiter optimieren. Es wird das Angebot leichter teilen, wenn die Empfänger sehen, dass sie gleichzeitig eine Kopie für s",
+        "via": "gemini",
+        "text": "**WAS:** Ein digital bestellbarer „Rhön-Proviant“-Lieferservice, der regionale Brotzeit-Kisten von lokalen Erzeugern direkt vor die Tür von Ferienwohnungen in Hilders liefert. **WARUM HIER:** Hilders verzeichnet als stark frequentierter Luftkurort hohe Übernachtungszahlen in Selbstversorger-Unterkünften, deren Gäste authentische Rhöner Produkte ohne eigenen ",
         "age_min": 0
       }
     },
@@ -1477,8 +1477,8 @@
       "name": "Chancen-Scout — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "Werbungsfreie Parkplätze / Warum hier: In Hilders gibt es einen stark wachsenden Bedarf an Parkmöglichkeiten, insbesondere in den kommersialen Gebieten. Erster Schritt: Ein Umfrage zu den aktuellen Parkmöglichkeiten und ",
-      "via": "ollama",
+      "out": "**WAS:** Ein digital bestellbarer „Rhön-Proviant“-Lieferservice, der regionale Brotzeit-Kisten von lokalen Erzeugern direkt vor die Tür von Ferienwohnungen in Hilders liefert. **WARUM HIER:** Hilders verzeichnet als star",
+      "via": "gemini",
       "age_min": 0
     },
     {
@@ -1519,16 +1519,24 @@
     }
   ],
   "budget": {
-    "used": 3,
+    "used": 4,
     "cap": 600
   },
   "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-hilders",
+      "via": "gemini",
+      "text": "**WAS:** Ein digital bestellbarer „Rhön-Proviant“-Lieferservice, der regionale Brotzeit-Kisten von lokalen Erzeugern direkt vor die Tür von Ferienwohnungen in Hilders liefert. **WARUM HIER:** Hilders verzeichnet als stark frequentierter Luftkurort hohe Übernachtungszahlen in Selbstversorger-Unterkünften, deren Gäste authentische Rhöner Produkte ohne eigenen ",
+      "ts": "2026-09-15 12:09",
+      "age_min": 0
+    },
     {
       "dept": "Recherche",
       "agent": "recherche-wettbewerb",
       "via": "ollama",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum, mit drei unterschiedlichen Paketen: --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Preisspanne:** **1.200 € – 1.800 €** (Einmalzahlung) + **50 € – 75 € / Monat** (Hosting, Wartung, kleine Anpassungen) * **Begründung:** **1.200 € – 1.800 € (Einm",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     },
     {
@@ -1536,7 +1544,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     },
     {
@@ -1544,7 +1552,7 @@
       "agent": "senioren-wartenberg",
       "via": "ollama",
       "text": "**WAS:** Ein digitales Verbindungsnetzwerk, das Senioren mit anderen Mitgliedern des Dorfes verbindet, um Unterstützung bei alltäglichen Aufgaben zu organisieren und so die Isolation zu reduzieren. **WARUM HIER:** Die digitalen Fähigkeiten von Senioren in Wartenberg sind oft begrenzt, was zu einer Einsamkeit und zur Unfähigkeit führt, Unterstützung online zu",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     },
     {
@@ -1552,7 +1560,7 @@
       "agent": "senioren-ulrichstein",
       "via": "ollama",
       "text": "**WAS:** Ein mobiler Notfall- und Einkaufsdienst für Senioren. **WARUM HIER:** In Ulrichstein fehlt es an öffentlicher Verkehrsmittel, sodass ältere Menschen oft auf Hilfe angewiesen sind. **ERSTER SCHRITT:** Ein lokales Team aus Ehrenamtlichen wird gebeten, sich für die Organisation einer mobilen Dienstleistung zu engagieren.",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     },
     {
@@ -1560,7 +1568,7 @@
       "agent": "senioren-ulrichstein",
       "via": "ollama",
       "text": "**WAS:** Eine app-basierte Informations- und Reservierungsplattform für die Ulrichsteiner Dorf-Begleiter-Dienste, die Senioren und Fahrgäste einfach und effizient die Nutzung des Dienstes ermöglicht. **WARUM HIER:** Um den Dienst leicht zugänglich und benutzerfreundlich für alle Senioren zu gestalten, die möglicherweise technikärmer oder weniger vertraut mit",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     },
     {
@@ -1568,7 +1576,7 @@
       "agent": "senioren-wartenberg",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen auf Augenhöhe bei Einkäufen, Arztbesuchen und Botengängen unterstützt und ihnen so die eigenständige Teilnahme am Gemeindeleben ermöglicht. **WARUM HIER:** In den weitläufigen Ortsteilen von Wartenberg schwindet die Nahversorgung, wodurch die selbstbestimmte Mobilität für Senioren ohne eigenes Auto",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     },
     {
@@ -1576,7 +1584,7 @@
       "agent": "senioren-ulrichstein",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrdienst („Ulrichsteiner Dorf-Begleiter“), der ältere Menschen verlässlich zu Arztterminen oder Einkäufen bringt und schwere Besorgungen direkt bis in die Wohnung trägt. **WARUM HIER:** In Ulrichsteins weit verstreuten Ortsteilen und den rauhen Vogelsberg-Wintern macht das hügelige Gelände ohne eigenes Auto und bei ",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     },
     {
@@ -1584,7 +1592,7 @@
       "agent": "senioren-tann",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Dorf-Alltagsbegleiter-Dienst, der Seniorinnen und Senioren direkt zu Hause besucht, um sie individuell bei schweren Besorgungen, kleineren Reparaturen im Haushalt und dem Ausfüllen von Formularen auf Augenhöhe zu unterstützen. **WARUM HIER:** In den weit verstreuten Ortsteilen von Tann fehlen lokale Nahversorger und kleine Handwerksdiens",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     },
     {
@@ -1592,7 +1600,7 @@
       "agent": "senioren-schwalmtal",
       "via": "ollama",
       "text": "**WAS:** Das „Schwalmtaler Nachbarschafts-Mobil“ ist ein verlässlicher Fahr- und Begleitdienst, der ältere Menschen aus den Außenortsteilen sanft dabei unterstützt, Arzttermine, Einkäufe und soziale Treffpunkte im Alltag selbstbestimmt zu erreichen. **WARUM HIER:** Da Schwalmtal aus vielen weit verstreuten Dörfern und Honschaften besteht, schließt dieser Die",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     },
     {
@@ -1600,7 +1608,7 @@
       "agent": "senioren-schwalmtal",
       "via": "ollama",
       "text": "**WAS:** Ein mobiler Transportdienst für Senioren, der sie zwischen ihren Wohnorten und wichtigen Dienstleistungen wie Arztbesuchen oder Einkäufen verbindet. **WARUM HIER:** In Schwalmtal mit seinen verstreuten Dörfern ist Mobilität oft ein Herausforderung, und ein lokaler Dienst schafft Sicherheit und Unabhängigkeit. **ERSTER SCHRITT:** Ein kostenloses Prob",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     },
     {
@@ -1608,15 +1616,7 @@
       "agent": "senioren-tann",
       "via": "ollama",
       "text": "WAS: Ein mobiles Gesundheitswesen, das regulär in Tann und umliegende Dörfer einfährt, um Hygiene- und Gesundheitsangebote an Senioren anzubieten. WARUM HIER: Tann hat eine hohe Bevölkerungsanteil alternder Einwohner, und viele Senioren leben in den umliegenden Dörfern, die keinen direkten Zugang zu ärztlichen Dienstleistungen haben. ERSTER SCHRITT: Ersten K",
-      "ts": "2026-09-15 06:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-schwalmtal",
-      "via": "gemini",
-      "text": "**WAS:** Das „Schwalmtaler Nachbarschafts-Mobil“ ist ein verlässlicher Fahr- und Begleitdienst, der ältere Menschen aus den Außenortsteilen sanft dabei unterstützt, Arzttermine, Einkäufe und soziale Treffpunkte im Alltag selbstbestimmt zu erreichen. **WARUM HIER:** Da Schwalmtal aus vielen weit verstreuten Dörfern und Honschaften besteht, schließt dieser Die",
-      "ts": "2026-09-15 06:42",
+      "ts": "2026-09-15 12:09",
       "age_min": 0
     }
   ]

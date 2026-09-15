@@ -1,6 +1,6 @@
 {
   "day": "2026-09-15",
-  "calls_today": 3,
+  "calls_today": 4,
   "last_run": {
     "kommando-digest": 1788819465.720596,
     "chancen-vogelsberg": 1788819624.6237094,
@@ -158,6 +158,7 @@
     "handwerk-gersfeld": 1789427795.586653,
     "direkt-gersfeld": 1789436395.2791586,
     "tourismus-gersfeld": 1789436409.081322,
-    "senioren-gersfeld": 1789436424.867572
+    "senioren-gersfeld": 1789436424.867572,
+    "chancen-hilders": 1789474175.9278977
   }
 }
