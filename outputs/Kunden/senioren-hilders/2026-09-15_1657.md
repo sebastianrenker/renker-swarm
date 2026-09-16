@@ -1,8 +1,0 @@
-# Senioren-Alltagsdienste — Hilders  ·  Kunden
-> 2026-09-15_1657 · via gemini
-
-**WAS:** Ein ehrenamtlich gestützter Nachbarschafts-Fahrdienst, der Seniorinnen und Senioren aus den verstreuten Ortsteilen sicher zu Arztterminen, Apotheken und Gemeinschaftsveranstaltungen im Kernort Hilders begleitet.
-
-**WARUM HIER:** Die weitläufige Topografie der Rhön-Gemeinde mit ihren steilen Wegen macht den Fußweg oder Busumstieg im Alltag – besonders in den schneereichen Wintermonaten – für mobilitätseingeschränkte Menschen oft unmöglich.
-
-**ERSTER SCHRITT:** Ein Runder Tisch mit den Ortsvorstehern der Ortsteile und lokalen Vereinen wie dem Rhönklub, um verlässliche Fahrerinnen und Fahrer aus der Nachbarschaft zu gewinnen.

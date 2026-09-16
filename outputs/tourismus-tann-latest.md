@@ -1,8 +1,0 @@
-# Vulkanregion-Tourismus — Tann  ·  Chancen
-> 2026-09-14_2023 · via gemini
-
-**WAS:** Das Erlebnis-Paket „Tanner Brot- & Kräuterzeit“ kombiniert eine Führung durch das historische Museumsdorf Tann mit einem Mitmach-Backkurs am alten Holzofen und dem Ansetzen eigener Rhöner Kräuterbutter.
-
-**fuer WEN:** Ideal für Familien, Hobbybäcker und Landlust-Genießer, die traditionelles Handwerk mit allen Sinnen erleben und schmecken möchten.
-
-**ERSTER SCHRITT:** Wähle auf dem Buchungsportal deinen Wunsch-Samstag aus und sichere dir deinen Platz an der Backstube direkt online.

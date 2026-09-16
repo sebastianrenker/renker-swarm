@@ -1,8 +1,0 @@
-# Vulkanregion-Tourismus — Lauterbach  ·  Chancen
-> 2026-09-16_0551 · via gemini
-
-**WAS:** Bei der „Lauterbacher Vulkan-Töpfer & E-Bike-Tour“ erkunden Sie per Leih-E-Bike die hügelige Vulkanlandschaft und gestalten anschließend in einer traditionellen Handwerksstube Ihre eigene Keramik aus Vogelsberger Ton.
-
-**FÜR WEN:** Dieses Erlebnis richtet sich an unternehmungslustige Naturgenießer, Kreativköpfe und Paare, die entspannte Bewegung an der frischen Luft mit echtem regionalen Kunsthandwerk verbinden möchten.
-
-**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihr Wunschdatum sowie Ihre Konfektionsgröße für das E-Bike aus und sichern Sie sich Ihren Platz im Workshop per Sofortbestätigung.

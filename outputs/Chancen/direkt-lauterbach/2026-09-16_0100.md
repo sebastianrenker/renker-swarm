@@ -1,8 +1,0 @@
-# Direktvermarktung — Lauterbach  ·  Chancen
-> 2026-09-16_0100 · via gemini
-
-**WAS:** Eine wetterfeste SB-Brotzeit-Hütte mit Regio-Automat direkt am Vulkanradweg nahe Lauterbach, bestückt mit verzehrfertigen Land-Picknicks – von der Lauterbacher Stracke über Hofkäse und Bauernbrot bis zum Kaltgetränk.
-
-**für WEN:** Für Radler, Wanderer und Tagesausflügler im Vogelsberg, die unterwegs unabhängig von Gastronomie-Öffnungszeiten eine ehrliche, regionale Rast machen wollen.
-
-**ERSTER SCHRITT:** Einen gut einsehbaren Standplatz an einer stark frequentierten Etage des Radwegs pachten und einen Regio-Automaten testweise mit den Produkten von zwei Lauterbacher Betrieben bestücken.

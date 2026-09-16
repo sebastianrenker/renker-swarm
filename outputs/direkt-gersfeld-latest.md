@@ -1,8 +1,0 @@
-# Direktvermarktung — Gersfeld  ·  Chancen
-> 2026-09-15_0139 · via gemini
-
-**WAS:** Ein ausleihbarer „Rhön-Vesper-Rucksack“, gefüllt mit frischen Hofprodukten (Rhöner Käse, Hausmacher Wurst, Bauernbrot und Apfelsaft) von lokalen Erzeugern aus dem Gersfelder Umland für Tageswanderungen.  
-
-**für WEN:** Wanderfans, Urlauber und einheimische Ausflügler, die die Rhön erkunden und bodenständige Hofprodukte direkt in der Natur genießen möchten.  
-
-**ERSTER SCHRITT:** Drei bis vier lokale Direktvermarkter (Metzger, Käserei, Bäcker) für die Bestückung gewinnen und das Angebot über die Tourist-Information Gersfeld sowie einen zentralen Hofladen als Testlauf starten.

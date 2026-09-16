@@ -1,8 +1,0 @@
-# Treasurer — Zahlen-Check  ·  Finanzen
-> 2026-09-16_0059 · via gemini
-
-Hier sind die 3 wichtigsten (ergänzenden) rechtlichen und finanziellen Punkte, die vor dem ersten Verkauf zwingend geregelt sein müssen:
-
-1. **Rechtssichere Webpräsenz (Impressum & DSGVO):** Ihre Verkaufs- oder Informationsseite benötigt ein vollständiges Impressum sowie eine DSGVO-konforme Datenschutzerklärung, um kostenintensive Abmahnungen ab Tag eins zu verhindern.
-2. **Betriebshaftpflichtversicherung:** Eine passende Haftpflichtversicherung muss abgeschlossen sein, damit potenzielle Sach- oder Personenschäden im Zusammenhang mit dem Handwerker-Paket nicht zum sofortigen finanziellen Ruin führen.
-3. **AGB, Widerruf und Gewährleistung:** Es müssen rechtssichere Allgemeine Geschäftsbedingungen inklusive korrekter Belehrung zum Widerrufsrecht und klar definierten Gewährleistungsansprüchen vorliegen, um spätere Zahlungsausfälle oder Rechtsstreitigkeiten zu vermeiden.

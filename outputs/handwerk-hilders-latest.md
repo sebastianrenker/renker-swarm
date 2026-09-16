@@ -1,6 +1,0 @@
-# Handwerk-Sichtbarkeit — Hilders  ·  Chancen
-> 2026-09-15_1657 · via gemini
-
-**Betriebstyp:** Ein Sanitär- und Heizungsbau-Betrieb (SHK) in Hilders.
-
-**Ansprache-Idee:** „Viele Hausbesitzer in der Rhön suchen online nach neuen Heizungen oder Badsanierungen – sorgen wir dafür, dass diese Aufträge direkt bei Ihnen im Ort landen und nicht bei der Konkurrenz aus Fulda.“

@@ -1,8 +1,0 @@
-# Chief of Staff — Tages-Digest  ·  Kommando
-> 2026-09-15_2252 · via gemini
-
-Commander, Ihr Tages-Fokus:
-
-1. **Offerta:** Staffelung des Merchant-Pricings final abnicken, damit die Akquise der 5 Fuldaer Anker-Händler heute startet.
-2. **Handwerk-Sichtbar:** Onboarding-Set für Neukunde Elektro-Schmitt freigeben und den Kickoff-Termin für heute Nachmittag sichern.
-3. **Vogelsberg-Chancen:** Anschreiben an die Kreishandwerkerschaft final prüfen und den Versand freischalten.

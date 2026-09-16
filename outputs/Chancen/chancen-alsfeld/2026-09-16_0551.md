@@ -1,8 +1,0 @@
-# Chancen-Scout — Alsfeld  ·  Chancen
-> 2026-09-16_0551 · via gemini
-
-**WAS:** Ein mobiler Drohnenservice für die schnelle thermografische Inspektion von PV-Dachanlagen und Gebäudehüllen auf Landwirtschafts- und Gewerbeflächen rund um Alsfeld.
-
-**WARUM HIER:** Im Vogelsberg gibt es eine enorme Dichte an großflächigen Scheunendächern mit gealterten PV-Anlagen, während lokale Dachdeckerhandwerker chronisch ausgebucht sind und der Aufbau teurer Gerüste nur für reine Wartungs-Inspektionen oft unrentabel ist.
-
-**ERSTER SCHRITT:** Erwerben Sie den EU-Drohnenschein (A1/A3), mieten oder kaufen Sie eine thermografiefähige Drohne und bieten Sie drei Landwirten in den Alsfelder Ortsteilen (z. B. Leusel oder Schwabenrod) eine kostenlose Test-Inspektion an, um aussagekräftige Bildbeispiele für Ihre Vertriebs-Flyer zu erzeugen.

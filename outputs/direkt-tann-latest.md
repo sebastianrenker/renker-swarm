@@ -1,8 +1,0 @@
-# Direktvermarktung — Tann  ·  Chancen
-> 2026-09-14_2023 · via gemini
-
-**WAS:** Ein Samstagmorgen-Lieferservice für das „Tanner Hof-Frühstück“, das frische Landmilch, Eier aus Freilandhaltung, Bauernbutter und Rohmilchkäse direkt von Tanner Erzeugern in einer Holzkiste an die Haustür bringt.
-
-**für WEN:** Urlauber in den zahlreichen Rhöner Ferienwohnungen sowie einheimische Familien, die das Wochenende ohne Einkaufsstress mit echtem Bauerngeschmack beginnen wollen.
-
-**ERSTER SCHRITT:** Fünf lokale Vermieter von Ferienwohnungen als Vertriebspartner gewinnen, um die Frühstückskiste direkt bei der Zimmerbuchung als regionales Zusatzangebot zu platzieren.

@@ -1,8 +1,0 @@
-# Opportunity Finder — Fulda  ·  Chancen
-> 2026-09-15_2253 · via gemini
-
-**WAS:** Ein B2B-Bündelungs- und Frische-Lieferdienst („Rhön-Gastro-Express“), der kleine regionale Erzeuger aus dem Umland zusammenfasst und Gastronomie, Kantinen sowie Bio-Märkte in Fulda und dem Rhein-Main-Gebiet planbar beliefert.
-
-**WARUM HIER:** Fulda ist das geografische Nadelöhr zwischen den hochwertigen Erzeugerbetrieben der Rhön und kaufkräftigen Abnehmern, perfekt angebunden über A7 und A66.
-
-**ERSTER SCHRITT:** Sprich diese Woche mit drei Fuldaer Gastronomen und zwei Rhöner Direktvermarktern, um den Bedarf an einer gemeinsamen, täglichen Lieferroute abzufragen.

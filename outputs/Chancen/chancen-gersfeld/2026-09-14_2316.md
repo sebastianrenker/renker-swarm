@@ -1,8 +1,0 @@
-# Chancen-Scout — Gersfeld  ·  Chancen
-> 2026-09-14_2316 · via gemini
-
-**WAS:** Ein lokaler Servicedienstleister für private Ferienwohnungsvermieter, der Schlüsselübergabe, Reinigungsorganisation, Notfall-Pikett und regionale Willkommenspakete aus einer Hand anbietet.
-
-**WARUM HIER:** Gersfeld besitzt als traditionsreicher Luftkurort hunderte private Ferienwohnungen, deren Eigentümer oft älter sind oder außerhalb wohnen, während Gäste heute flexible Check-ins und hohe Service-Standards erwarten.
-
-**ERSTER SCHRITT:** Ein kurzes Flyer-Mailing an 15 ausgewählte Gersfelder Ferienwohnungs-Betreiber mit dem Angebot eines kostenlosen Test-Check-ins für das nächste Ausgebucht-Wochenende.

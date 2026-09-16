@@ -1,8 +1,0 @@
-# Vulkanregion-Tourismus — Hilders  ·  Chancen
-> 2026-09-15_1657 · via gemini
-
-**WAS:** Das Paket „Rhöner Sternen-Brotzeit“ umfasst eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit einem zertifizierten Sternenpark-Ranger sowie eine Picknick-Box voller regionaler Biosphären-Spezialitäten für die Beobachtung unter dem Nacht- und Sternenhimmel.
-
-**fuer WEN:** Das Angebot richtet sich an Paare, Naturgenießer und Romantik-Suchende, die eine entschleunigende Auszeit im UNESCO-Biosphärenreservat Rhön erleben möchten.
-
-**ERSTER SCHRITT:** Als erster Schritt wird die Partnerschaft mit einem Gastronomiebetrieb in Hilders für die Zusammenstellung der Picknick-Boxen vereinbart und ein fester Termin-Kalender mit einem Rhöner Sternenführer für das Buchungsportal erstellt.

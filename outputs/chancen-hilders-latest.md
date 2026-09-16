@@ -1,8 +1,0 @@
-# Chancen-Scout — Hilders  ·  Chancen
-> 2026-09-15_1209 · via gemini
-
-**WAS:** Ein digital bestellbarer „Rhön-Proviant“-Lieferservice, der regionale Brotzeit-Kisten von lokalen Erzeugern direkt vor die Tür von Ferienwohnungen in Hilders liefert.
-
-**WARUM HIER:** Hilders verzeichnet als stark frequentierter Luftkurort hohe Übernachtungszahlen in Selbstversorger-Unterkünften, deren Gäste authentische Rhöner Produkte ohne eigenen Einkaufsaufwand schätzen.
-
-**ERSTER SCHRITT:** Fünf lokale Ferienwohnungs-Vermieter und zwei regionale Hofläden für den Test einer ersten, kommissionsbasierten Frühstücks- und Wanderkiste kontaktieren.

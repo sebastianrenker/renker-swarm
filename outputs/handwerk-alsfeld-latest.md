@@ -1,7 +1,0 @@
-# Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen
-> 2026-09-16_1043 · via gemini
-
-**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) in Alsfeld (besonders stark nachgefragt wegen Heizungstausch/Wärmepumpen, Badrenovierungen und Notdiensten im Vogelsbergkreis).
-
-**Ansprache-Idee:**
-„Hallo Herr [Name], wenn Eigenheimbesitzer in Alsfeld aktuell online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, landen sie direkt bei Ihren Mitbewerbern – wollen wir kurz schauen, wie wir Ihren SHK-Betrieb bei Google ganz vorne platzieren, damit die anfragenstarken regionalen Aufträge direkt bei Ihnen eingehen?“

@@ -1,8 +1,0 @@
-# Senioren-Alltagsdienste — Tann  ·  Kunden
-> 2026-09-14_2316 · via gemini
-
-**WAS:** Ein mobiler Dorf-Alltagsbegleiter-Dienst, der Seniorinnen und Senioren direkt zu Hause besucht, um sie individuell bei schweren Besorgungen, kleineren Reparaturen im Haushalt und dem Ausfüllen von Formularen auf Augenhöhe zu unterstützen.
-
-**WARUM HIER:** In den weit verstreuten Ortsteilen von Tann fehlen lokale Nahversorger und kleine Handwerksdienste, wodurch selbstständiges Wohnen im Alter oft an ganz praktischen Alltagshürden zu scheitern droht.
-
-**ERSTER SCHRITT:** In Zusammenarbeit mit der Stadtverwaltung Tann und den Ortsvorstehern einen Runden Tisch einberufen, um geschulte Alltagshelfer aus der Region zu gewinnen und feste Besuchstage für die einzelnen Dörfer zu koordinieren.

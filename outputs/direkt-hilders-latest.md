@@ -1,8 +1,0 @@
-# Direktvermarktung — Hilders  ·  Chancen
-> 2026-09-15_1657 · via gemini
-
-**WAS:** Ein ausleihbarer „Rhöner Brotzeit-Rucksack“ vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Käse vom Rhönschaf und regionalem Apfelmost für Tagestouren.  
-
-**für WEN:** Wanderer, Tagesgäste und Urlauber, die auf den Extratouren rund um Hilders eine ehrliche, herkunftssichere Rast ohne eigenen Einkaufsaufwand genießen wollen.  
-
-**ERSTER SCHRITT:** Die Tourist-Info Hilders sowie zwei regionale Erzeuger für ein festes Brotzeit-Menü und die Rucksack-Rückgabe ins Boot holen.

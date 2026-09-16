@@ -1,7 +1,0 @@
-# Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen
-> 2026-09-16_0100 · via gemini
-
-**Betriebstyp:** Dachdecker- und Zimmereibetrieb in Lauterbach
-
-**Ansprache-Idee:**
-„Wenn Hausbesitzer im Vogelsbergkreis nach einer energetischen Dachsanierung oder Hilfe bei Sturmschäden suchen, landen sie aktuell auf teuren Vermittlungsportalen – wollen wir dafür sorgen, dass Ihre Lauterbacher Zimmerei direkt auf Google gefunden wird?“

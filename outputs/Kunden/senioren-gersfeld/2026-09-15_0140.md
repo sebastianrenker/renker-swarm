@@ -1,8 +1,0 @@
-# Senioren-Alltagsdienste — Gersfeld  ·  Kunden
-> 2026-09-15_0140 · via gemini
-
-**WAS:** Ein mobiler „Dorf-Werkler-Dienst“, der älteren Menschen bei Kleinreparaturen am Haus, der Grundstückspflege im Winter und technischen Alltagsfragen würde voll zur Seite steht.
-
-**WARUM HIER:** Die steile Topografie und die schneereichen Winter in den verstreuten Gersfelder Ortsteilen stellen viele Senioren vor praktische Hürden, die ohne Hilfe den Verbleib im eigenen, vertrauten Zuhause gefährden.
-
-**ERSTER SCHRITT:** Gemeinsam mit der Stadt Gersfeld und den lokalen Ortsbeiräten werden verlässliche, handwerklich geschickte Nachbarschaftshelfer gewonnen und über einen einfachen Leitfaden rechtlich abgesichert.

@@ -1,8 +1,0 @@
-# Handwerk-Sichtbarkeit — Schotten  ·  Chancen
-> 2026-09-16_1043 · via gemini
-
-**Betriebstyp:**  
-Ein **Dachdecker- und Zimmererbetrieb** in Schotten.
-
-**Ansprache-Idee (1 Satz):**  
-„Hallo [Name], ob Sturmschaden nach einem Vogelsberg-Unwetter oder geplante Dachsanierung: Wenn die Schottener online nach einem Zimmerer suchen, sollten sie direkt auf Ihrer Website landen – und nicht bei teuren Vermittlungsportalen, die für jeden Kundenkontakt mitverdienen wollen.“

@@ -1,7 +1,0 @@
-# Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen
-> 2026-09-14_2316 · via gemini
-
-**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK-Handwerk in Gersfeld)
-
-**Ansprache-Idee:**
-„Wenn in Gersfeld im Winter die Heizung streikt oder Hausbesitzer eine neue Wärmepumpe suchen, müssen Sie bei Google sofort ganz oben stehen – damit die lukrativen Aufträge direkt aus der Rhön bei Ihnen landen und nicht beim teuren Notdienst aus der nächsten Großstadt.“

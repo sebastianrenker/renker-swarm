@@ -1,8 +1,0 @@
-# Chancen-Scout — Schotten  ·  Chancen
-> 2026-09-16_1043 · via gemini
-
-**WAS:** Ein mobiler Helm- und Biker-Garderobenservice kombiniert mit einer Kaffeebar an stark frequentierten Motorrad-Treffpunkten rund um den Schottenring.
-
-**WARUM HIER:** Schotten zieht an jedem Wochenende hunderte Motorrad-Tagestouristen aus dem Rhein-Main-Gebiet an, denen vor Ort eine sichere Aufbewahrung für schwere Ausrüstung fehlt, um die Altstadt oder Niddatalsperre entspannt zu Fuß zu erkunden.
-
-**ERSTER SCHRITT:** Eine Stellplatzgenehmigung an einem frequenzstarken Knotenpunkt (z. B. Niddatalsperre) einholen und das Angebot an zwei sonnigen Wochenenden mit einem einfachen Garderoben-Setup und einer mobilen Kaffeemaschine testen.
