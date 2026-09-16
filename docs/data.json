@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T22:53Z",
+  "updated": "2026-09-16T01:00Z",
   "agents_total": 162,
   "worked": 162,
   "departments": [
@@ -7,9 +7,9 @@
       "id": "Kommando",
       "count": 2,
       "latest": {
-        "via": "gemini",
-        "text": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Staffelung des Merchant-Pricings final abnicken, damit die Akquise der 5 Fuldaer Anker-Händler heute startet. 2. **Handwerk-Sichtbar:** Onboarding-Set für Neukunde Elektro-Schmitt freigeben und den Kickoff-Termin für heute Nachmittag sichern. 3. **Vogelsberg-Chancen:** Anschreiben an die Kreishandwerkerschaft final",
-        "age_min": 0
+        "via": "ollama",
+        "text": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top-Preispositionen für die wichtigsten Produkte überprüfen und optimieren. 2. **Handwerk-Sichtbar:** Marketing-Kampagnen für die Plattform \"Handwerk-Sichtbar\" anpassen und umsetzen, um die Reichweite in der Region Vogelsberg zu erhöhen. 3. **Vogelsberg-Chancen:** Local ",
+        "age_min": 1
       }
     },
     {
@@ -17,7 +17,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein B2B-Bündelungs- und Frische-Lieferdienst („Rhön-Gastro-Express“), der kleine regionale Erzeuger aus dem Umland zusammenfasst und Gastronomie, Kantinen sowie Bio-Märkte in Fulda und dem Rhein-Main-Gebiet planbar beliefert. **WARUM HIER:** Fulda ist das geografische Nadelöhr zwischen den hochwertigen Erzeugerbetrieben der Rhön und kaufkräftigen Ab",
+        "text": "**WAS:** Eine wetterfeste SB-Brotzeit-Hütte mit Regio-Automat direkt am Vulkanradweg nahe Lauterbach, bestückt mit verzehrfertigen Land-Picknicks – von der Lauterbacher Stracke über Hofkäse und Bauernbrot bis zum Kaltgetränk. **für WEN:** Für Radler, Wanderer und Tagesausflügler im Vogelsberg, die unterwegs unabhängig von Gastronomie-Öffnungszeiten eine ehrl",
         "age_min": 0
       }
     },
@@ -27,7 +27,7 @@
       "latest": {
         "via": "gemini",
         "text": "Aufbauend auf der begonnenen Analyse ist hier die vollständige und preislich ausdifferenzierte Positionierung für den DACH-Raum. --- ### **Explizit gesetzte Markt-Annahmen (Faktengrundlage eingeschränkt)** * *Annahme 1:* Zielgruppe sind kleine bis mittelgroße Handwerksbetriebe (1 bis 15 Mitarbeiter) ohne eigene Marketingabteilung. * *Annahme 2:* Die Umsetzun",
-        "age_min": 0
+        "age_min": 1
       }
     },
     {
@@ -36,25 +36,25 @@
       "latest": {
         "via": "gemini",
         "text": "Hier ist eine neue, frische Variante. Diesmal liegt der Fokus direkt auf dem **Stolz auf das eigene Handwerk** und dem **Abnehmen der Arbeit** (Ergebnis statt Technik): *** # Sie liefern Top-Arbeit. Wir sorgen dafür, dass der Vogelsberg es sieht. Wir bringen Ihren Betrieb regional auf Platz 1 bei Google. So gewinnen Sie ganz entspannt die lukrativsten Aufträ",
-        "age_min": 0
+        "age_min": 1
       }
     },
     {
       "id": "Kunden",
       "count": 32,
       "latest": {
-        "via": "gemini",
-        "text": "Hier sind 3 neue, ergänzende FAQs für Offerta: **1. Können meine Kunden das Angebot direkt digital annehmen?** Ja, ab dem Pro-Tarif kannst du deinen Kunden einen Link schicken. Sie können das Angebot dann direkt im Browser prüfen und per Klick oder digitaler Unterschrift annehmen. Du wirst sofort per E-Mail darüber informiert. **2. Wo werden meine Daten und ",
-        "age_min": 0
+        "via": "ollama",
+        "text": "**WAS:** Ein digitales Verbindungsnetzwerk, das Senioren mit anderen Mitgliedern des Dorfes verbindet, um Unterstützung bei alltäglichen Aufgaben zu organisieren und so die Isolation zu reduzieren. **WARUM HIER:** Die digitalen Fähigkeiten von Senioren in Wartenberg sind oft begrenzt, was zu einer Einsamkeit und zur Unfähigkeit führt, Unterstützung online zu",
+        "age_min": 1
       }
     },
     {
       "id": "Finanzen",
       "count": 1,
       "latest": {
-        "via": "ollama",
-        "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Rechtliche und Steuerliche Einrichtung:** Sie müssen die Gewerbeanmeldung abgeschlossen haben und die Entscheidung über die Kleinunternehmerregelung (§ 19 UStG) getroffen haben, um sicherzustellen, dass Sie von Beginn an die richtigen Steuerpflichten erfüllen. 2",
-        "age_min": 1
+        "via": "gemini",
+        "text": "Hier sind die 3 wichtigsten (ergänzenden) rechtlichen und finanziellen Punkte, die vor dem ersten Verkauf zwingend geregelt sein müssen: 1. **Rechtssichere Webpräsenz (Impressum & DSGVO):** Ihre Verkaufs- oder Informationsseite benötigt ein vollständiges Impressum sowie eine DSGVO-konforme Datenschutzerklärung, um kostenintensive Abmahnungen ab Tag eins zu v",
+        "age_min": 0
       }
     }
   ],
@@ -64,9 +64,9 @@
       "name": "Chief of Staff — Tages-Digest",
       "dept": "Kommando",
       "iv": 720,
-      "out": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Staffelung des Merchant-Pricings final abnicken, damit die Akquise der 5 Fuldaer Anker-Händler heute startet. 2. **Handwerk-Sichtbar:** Onboarding-Set für Neukunde Elektro-Schm",
-      "via": "gemini",
-      "age_min": 0
+      "out": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Merchant-Pricing-Anpassung freigeben und die Top-Preispositionen für die wichtigsten Produkte überprüfen und optimieren. 2. **Handwerk-Sichtbar:** Marketing-Kampagnen für die P",
+      "via": "ollama",
+      "age_min": 1
     },
     {
       "id": "chancen-vogelsberg",
@@ -75,7 +75,7 @@
       "iv": 360,
       "out": "**WAS:** Ein mobiler Abo-Service für Kleinreparaturen, Wartung und Barrierefrei-Anpassungen (z. B. Haltegriffe montieren, Rauchmelder prüfen, Fenstereinstellungen), der speziell auf ältere Eigenheimbesitzer im Vogelsberg",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "chancen-fulda",
@@ -84,7 +84,7 @@
       "iv": 360,
       "out": "**WAS:** Ein B2B-Bündelungs- und Frische-Lieferdienst („Rhön-Gastro-Express“), der kleine regionale Erzeuger aus dem Umland zusammenfasst und Gastronomie, Kantinen sowie Bio-Märkte in Fulda und dem Rhein-Main-Gebiet plan",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "recherche-wettbewerb",
@@ -93,7 +93,7 @@
       "iv": 480,
       "out": "Aufbauend auf der begonnenen Analyse ist hier die vollständige und preislich ausdifferenzierte Positionierung für den DACH-Raum. --- ### **Explizit gesetzte Markt-Annahmen (Faktengrundlage eingeschränkt)** * *Annahme 1:*",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "bau-landing-copy",
@@ -102,7 +102,7 @@
       "iv": 600,
       "out": "Hier ist eine neue, frische Variante. Diesmal liegt der Fokus direkt auf dem **Stolz auf das eigene Handwerk** und dem **Abnehmen der Arbeit** (Ergebnis statt Technik): *** # Sie liefern Top-Arbeit. Wir sorgen dafür, das",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "kunden-faq",
@@ -111,25 +111,25 @@
       "iv": 720,
       "out": "Hier sind 3 neue, ergänzende FAQs für Offerta: **1. Können meine Kunden das Angebot direkt digital annehmen?** Ja, ab dem Pro-Tarif kannst du deinen Kunden einen Link schicken. Sie können das Angebot dann direkt im Brows",
       "via": "gemini",
-      "age_min": 0
+      "age_min": 1
     },
     {
       "id": "finanzen-check",
       "name": "Treasurer — Zahlen-Check",
       "dept": "Finanzen",
       "iv": 1440,
-      "out": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Rechtliche und Steuerliche Einrichtung:** Sie müssen die Gewerbeanmeldung abgeschlossen haben und die Entscheidung über di",
-      "via": "ollama",
-      "age_min": 1
+      "out": "Hier sind die 3 wichtigsten (ergänzenden) rechtlichen und finanziellen Punkte, die vor dem ersten Verkauf zwingend geregelt sein müssen: 1. **Rechtssichere Webpräsenz (Impressum & DSGVO):** Ihre Verkaufs- oder Informatio",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "wachstum-offerta",
       "name": "Growth — Offerta",
       "dept": "Chancen",
       "iv": 720,
-      "out": "**IDEE:** Der „Social Share-Button“ in der Fußzeile. **WARUM:** Die Fusszeile beinhaltet bereits ein Viral-Element mit dem „Erstellt mit Offerta“-Link. Indem wir diesen Link zu einem Social Share-Button erweitern, können",
-      "via": "ollama",
-      "age_min": 1
+      "out": "**IDEE:** Der „Schmerzpunkt-Feature-Hook“ in der Fußzeile. Statt eines generischen Links oder eines Design-Fokus (Template) nutzt du das größte Trauma jedes Dienstleisters nach dem Angebotsversand: die ungewisse Funkstil",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-offerta",
@@ -181,27 +181,27 @@
       "name": "Chancen-Scout — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein E-Bike-Antikenn-Shop, der gebrauchte E-Bikes und Teile an lokale Radfahrer vermittelt. **WARUM HIER:** In Lauterbach und Umgebung gibt es einen starken Radfahrer- und Trekking-Community, die oft nach gebrauc",
-      "via": "ollama",
-      "age_min": 1
+      "out": "**WAS:** Ein B2B-Präsentbox-Service, der Unternehmen aus Lauterbach individuell gestaltete Geschenksets mit hochwertigen, regionalen Spezialitäten aus dem Vogelsberg für Kunden, Jubiläen und Mitarbeiter liefert. **WARUM ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-lauterbach",
       "name": "Handwerk-Sichtbarkeit — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Kleine Handwerksbetriebe in Lauterbach, insbesondere those offering home maintenance and repair services **Ansprache-Idee:** „Haben Sie Jüngst eine kleine Reparatur oder Montage in Ihrer Wohnung oder Ihr",
-      "via": "ollama",
-      "age_min": 1
+      "out": "**Betriebstyp:** Dachdecker- und Zimmereibetrieb in Lauterbach **Ansprache-Idee:** „Wenn Hausbesitzer im Vogelsbergkreis nach einer energetischen Dachsanierung oder Hilfe bei Sturmschäden suchen, landen sie aktuell auf t",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-lauterbach",
       "name": "Direktvermarktung — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Ein monatliches „Lauterbacher Hofprodukte-Abonnement“ mit individuell angepassten Zutaten- und Kochkurspaketen, die die Besonderheiten der lokalen Landküche in einfachen Rezepten reflektieren. **für WEN:** Für a",
-      "via": "ollama",
-      "age_min": 1
+      "out": "**WAS:** Eine wetterfeste SB-Brotzeit-Hütte mit Regio-Automat direkt am Vulkanradweg nahe Lauterbach, bestückt mit verzehrfertigen Land-Picknicks – von der Lauterbacher Stracke über Hofkäse und Bauernbrot bis zum Kaltget",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-lauterbach",
@@ -1519,24 +1519,48 @@
     }
   ],
   "budget": {
-    "used": 14,
+    "used": 5,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "kunden-faq",
+      "dept": "Chancen",
+      "agent": "direkt-lauterbach",
       "via": "gemini",
-      "text": "Hier sind 3 neue, ergänzende FAQs für Offerta: **1. Können meine Kunden das Angebot direkt digital annehmen?** Ja, ab dem Pro-Tarif kannst du deinen Kunden einen Link schicken. Sie können das Angebot dann direkt im Browser prüfen und per Klick oder digitaler Unterschrift annehmen. Du wirst sofort per E-Mail darüber informiert. **2. Wo werden meine Daten und ",
-      "ts": "2026-09-15 22:53",
+      "text": "**WAS:** Eine wetterfeste SB-Brotzeit-Hütte mit Regio-Automat direkt am Vulkanradweg nahe Lauterbach, bestückt mit verzehrfertigen Land-Picknicks – von der Lauterbacher Stracke über Hofkäse und Bauernbrot bis zum Kaltgetränk. **für WEN:** Für Radler, Wanderer und Tagesausflügler im Vogelsberg, die unterwegs unabhängig von Gastronomie-Öffnungszeiten eine ehrl",
+      "ts": "2026-09-16 01:00",
       "age_min": 0
     },
     {
-      "dept": "Bau",
-      "agent": "bau-landing-copy",
+      "dept": "Chancen",
+      "agent": "handwerk-lauterbach",
       "via": "gemini",
-      "text": "Hier ist eine neue, frische Variante. Diesmal liegt der Fokus direkt auf dem **Stolz auf das eigene Handwerk** und dem **Abnehmen der Arbeit** (Ergebnis statt Technik): *** # Sie liefern Top-Arbeit. Wir sorgen dafür, dass der Vogelsberg es sieht. Wir bringen Ihren Betrieb regional auf Platz 1 bei Google. So gewinnen Sie ganz entspannt die lukrativsten Aufträ",
-      "ts": "2026-09-15 22:53",
+      "text": "**Betriebstyp:** Dachdecker- und Zimmereibetrieb in Lauterbach **Ansprache-Idee:** „Wenn Hausbesitzer im Vogelsbergkreis nach einer energetischen Dachsanierung oder Hilfe bei Sturmschäden suchen, landen sie aktuell auf teuren Vermittlungsportalen – wollen wir dafür sorgen, dass Ihre Lauterbacher Zimmerei direkt auf Google gefunden wird?“",
+      "ts": "2026-09-16 01:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-lauterbach",
+      "via": "gemini",
+      "text": "**WAS:** Ein B2B-Präsentbox-Service, der Unternehmen aus Lauterbach individuell gestaltete Geschenksets mit hochwertigen, regionalen Spezialitäten aus dem Vogelsberg für Kunden, Jubiläen und Mitarbeiter liefert. **WARUM HIER:** Lauterbach vereint als Kreisstadt eine hohe Dichte an Behörden, Kreditinstituten und mittelständischen Handwerks- sowie Industriebet",
+      "ts": "2026-09-16 01:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "wachstum-offerta",
+      "via": "gemini",
+      "text": "**IDEE:** Der „Schmerzpunkt-Feature-Hook“ in der Fußzeile. Statt eines generischen Links oder eines Design-Fokus (Template) nutzt du das größte Trauma jedes Dienstleisters nach dem Angebotsversand: die ungewisse Funkstille. Der Text in der Fußzeile (vor allem in der Web-Ansicht des Angebots) lautet: *„Erstellt mit Offerta. Willst du auch wissen, wann deine K",
+      "ts": "2026-09-16 00:59",
+      "age_min": 0
+    },
+    {
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
+      "via": "gemini",
+      "text": "Hier sind die 3 wichtigsten (ergänzenden) rechtlichen und finanziellen Punkte, die vor dem ersten Verkauf zwingend geregelt sein müssen: 1. **Rechtssichere Webpräsenz (Impressum & DSGVO):** Ihre Verkaufs- oder Informationsseite benötigt ein vollständiges Impressum sowie eine DSGVO-konforme Datenschutzerklärung, um kostenintensive Abmahnungen ab Tag eins zu v",
+      "ts": "2026-09-16 00:59",
       "age_min": 0
     },
     {
@@ -1544,39 +1568,15 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Aufbauend auf der begonnenen Analyse ist hier die vollständige und preislich ausdifferenzierte Positionierung für den DACH-Raum. --- ### **Explizit gesetzte Markt-Annahmen (Faktengrundlage eingeschränkt)** * *Annahme 1:* Zielgruppe sind kleine bis mittelgroße Handwerksbetriebe (1 bis 15 Mitarbeiter) ohne eigene Marketingabteilung. * *Annahme 2:* Die Umsetzun",
-      "ts": "2026-09-15 22:53",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-fulda",
-      "via": "gemini",
-      "text": "**WAS:** Ein B2B-Bündelungs- und Frische-Lieferdienst („Rhön-Gastro-Express“), der kleine regionale Erzeuger aus dem Umland zusammenfasst und Gastronomie, Kantinen sowie Bio-Märkte in Fulda und dem Rhein-Main-Gebiet planbar beliefert. **WARUM HIER:** Fulda ist das geografische Nadelöhr zwischen den hochwertigen Erzeugerbetrieben der Rhön und kaufkräftigen Ab",
-      "ts": "2026-09-15 22:53",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-vogelsberg",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Abo-Service für Kleinreparaturen, Wartung und Barrierefrei-Anpassungen (z. B. Haltegriffe montieren, Rauchmelder prüfen, Fenstereinstellungen), der speziell auf ältere Eigenheimbesitzer im Vogelsberg ausgerichtet ist. **WARUM HIER:** In den vielen Dörfern des Vogelsbergs wohnen Senioren oft alleine in älteren Häusern, während die wenigen",
-      "ts": "2026-09-15 22:53",
-      "age_min": 0
-    },
-    {
-      "dept": "Kommando",
-      "agent": "kommando-digest",
-      "via": "gemini",
-      "text": "Commander, Ihr Tages-Fokus: 1. **Offerta:** Staffelung des Merchant-Pricings final abnicken, damit die Akquise der 5 Fuldaer Anker-Händler heute startet. 2. **Handwerk-Sichtbar:** Onboarding-Set für Neukunde Elektro-Schmitt freigeben und den Kickoff-Termin für heute Nachmittag sichern. 3. **Vogelsberg-Chancen:** Anschreiben an die Kreishandwerkerschaft final",
-      "ts": "2026-09-15 22:52",
-      "age_min": 0
+      "ts": "2026-09-16 00:59",
+      "age_min": 1
     },
     {
       "dept": "Recherche",
       "agent": "recherche-wettbewerb",
       "via": "ollama",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum, mit drei unterschiedlichen Paketen: --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Preisspanne:** **1.200 € – 1.800 €** (Einmalzahlung) + **50 € – 75 € / Monat** (Hosting, Wartung, kleine Anpassungen) * **Begründung:** **1.200 € – 1.800 € (Einm",
-      "ts": "2026-09-15 22:52",
+      "ts": "2026-09-16 00:59",
       "age_min": 1
     },
     {
@@ -1584,7 +1584,7 @@
       "agent": "recherche-wettbewerb",
       "via": "gemini",
       "text": "Hier ist die preisliche Positionierung eines Digital-Sichtbarkeits-Pakets für Handwerksbetriebe im DACH-Raum. *Hinweis zur Methodik:* Da Preise in Agenturmärkten stark schwanken, basieren die Spannen auf üblichen Marktpreisen mittelständischer Digitalagenturen und Systemhäuser für den lokalen Dienstleistungssektor. --- ### Paket 1: Basis („Digitale Visitenka",
-      "ts": "2026-09-15 22:52",
+      "ts": "2026-09-16 00:59",
       "age_min": 1
     },
     {
@@ -1592,7 +1592,7 @@
       "agent": "senioren-wartenberg",
       "via": "ollama",
       "text": "**WAS:** Ein digitales Verbindungsnetzwerk, das Senioren mit anderen Mitgliedern des Dorfes verbindet, um Unterstützung bei alltäglichen Aufgaben zu organisieren und so die Isolation zu reduzieren. **WARUM HIER:** Die digitalen Fähigkeiten von Senioren in Wartenberg sind oft begrenzt, was zu einer Einsamkeit und zur Unfähigkeit führt, Unterstützung online zu",
-      "ts": "2026-09-15 22:52",
+      "ts": "2026-09-16 00:59",
       "age_min": 1
     },
     {
@@ -1600,7 +1600,7 @@
       "agent": "senioren-ulrichstein",
       "via": "ollama",
       "text": "**WAS:** Ein mobiler Notfall- und Einkaufsdienst für Senioren. **WARUM HIER:** In Ulrichstein fehlt es an öffentlicher Verkehrsmittel, sodass ältere Menschen oft auf Hilfe angewiesen sind. **ERSTER SCHRITT:** Ein lokales Team aus Ehrenamtlichen wird gebeten, sich für die Organisation einer mobilen Dienstleistung zu engagieren.",
-      "ts": "2026-09-15 22:52",
+      "ts": "2026-09-16 00:59",
       "age_min": 1
     },
     {
@@ -1608,7 +1608,7 @@
       "agent": "senioren-ulrichstein",
       "via": "ollama",
       "text": "**WAS:** Eine app-basierte Informations- und Reservierungsplattform für die Ulrichsteiner Dorf-Begleiter-Dienste, die Senioren und Fahrgäste einfach und effizient die Nutzung des Dienstes ermöglicht. **WARUM HIER:** Um den Dienst leicht zugänglich und benutzerfreundlich für alle Senioren zu gestalten, die möglicherweise technikärmer oder weniger vertraut mit",
-      "ts": "2026-09-15 22:52",
+      "ts": "2026-09-16 00:59",
       "age_min": 1
     },
     {
@@ -1616,7 +1616,7 @@
       "agent": "senioren-wartenberg",
       "via": "gemini",
       "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen auf Augenhöhe bei Einkäufen, Arztbesuchen und Botengängen unterstützt und ihnen so die eigenständige Teilnahme am Gemeindeleben ermöglicht. **WARUM HIER:** In den weitläufigen Ortsteilen von Wartenberg schwindet die Nahversorgung, wodurch die selbstbestimmte Mobilität für Senioren ohne eigenes Auto",
-      "ts": "2026-09-15 22:52",
+      "ts": "2026-09-16 00:59",
       "age_min": 1
     }
   ]
