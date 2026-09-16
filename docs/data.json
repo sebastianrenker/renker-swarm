@@ -1,25 +1,17 @@
 {
-  "updated": "2026-09-16T18:55Z",
+  "updated": "2026-09-16T21:51Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": {
-        "via": "gemini",
-        "text": "**Offerta:** Stand: Pipeline gefüllt, Deals hängen im Closing | *Hebel:* Die 3 Top-Leads persönlich durch die Ziellinie schieben. **Handwerk-Sichtbar:** Stand: Nachfrage ist da, Operations am Limit | *Hebel:* Onboarding-Prozess standardisieren, um Vertriebskapazität freizugeben. **Vogelsberg-Box:** Stand: B2C läuft stetig, aber margenschwach | *Hebel:* B2B-F",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**SCHRITT** Erstellung einer kostenlosen „Wartelisten & Vorbesteller“-Landingpage mit einem Symbolfoto einer Beispiel-Box (Dummy aus dem eigenen Kühlschrank) und Streuung des Links in regionalen Vogelsberg-Communitys, um das Ziel von 50 E-Mail-Eintragungen zu testen. **WARUM** Damit validieren wir die echte Endkunden-Nachfrage nach einem regionalen Abomodell",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -34,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier ist das Skript für die Demo, die wir dem Inhaber/Praxisleiter vorspielen, **bevor** wir überhaupt über ein Angebot sprechen. Ziel ist ein *„Aha-Effekt“* in den ersten 60 Sekunden. --- ### **SZENARIO** *(Ein 90-Sekunden-Live-Audio-Beispiel: Anruf bei einer Zahnarztpraxis an einem montäglichen Peak-Morgen)* * **Anrufer (Patient):** „Hallo, ich habe seit g",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -133,36 +121,36 @@
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": "Hallo Herr [Nachname], ich bin [Dein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region, online sauber und ehrlich aufgestellt zu sein. Mir ist aufgefallen, dass Ihr Dachdeckerbetrieb in Lauterbach bei ",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-vogelsbergbox",
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": "**SCHRITT** Erstellung einer kostenlosen „Wartelisten & Vorbesteller“-Landingpage mit einem Symbolfoto einer Beispiel-Box (Dummy aus dem eigenen Kühlschrank) und Streuung des Links in regionalen Vogelsberg-Communitys, um",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-terminki",
       "name": "Business — Termin-/Anruf-KI",
       "dept": "Kunden",
       "iv": 720,
-      "out": "Hier ist das Skript für die Demo, die wir dem Inhaber/Praxisleiter vorspielen, **bevor** wir überhaupt über ein Angebot sprechen. Ziel ist ein *„Aha-Effekt“* in den ersten 60 Sekunden. --- ### **SZENARIO** *(Ein 90-Sekun",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-board",
       "name": "Business — Lagebericht",
       "dept": "Kommando",
       "iv": 480,
-      "out": "**Offerta:** Stand: Pipeline gefüllt, Deals hängen im Closing | *Hebel:* Die 3 Top-Leads persönlich durch die Ziellinie schieben. **Handwerk-Sichtbar:** Stand: Nachfrage ist da, Operations am Limit | *Hebel:* Onboarding-",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-lauterbach",
@@ -1510,38 +1498,5 @@
     "used": 24,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kommando",
-      "agent": "biz-board",
-      "via": "gemini",
-      "text": "**Offerta:** Stand: Pipeline gefüllt, Deals hängen im Closing | *Hebel:* Die 3 Top-Leads persönlich durch die Ziellinie schieben. **Handwerk-Sichtbar:** Stand: Nachfrage ist da, Operations am Limit | *Hebel:* Onboarding-Prozess standardisieren, um Vertriebskapazität freizugeben. **Vogelsberg-Box:** Stand: B2C läuft stetig, aber margenschwach | *Hebel:* B2B-F",
-      "ts": "2026-09-16 18:55",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "biz-terminki",
-      "via": "gemini",
-      "text": "Hier ist das Skript für die Demo, die wir dem Inhaber/Praxisleiter vorspielen, **bevor** wir überhaupt über ein Angebot sprechen. Ziel ist ein *„Aha-Effekt“* in den ersten 60 Sekunden. --- ### **SZENARIO** *(Ein 90-Sekunden-Live-Audio-Beispiel: Anruf bei einer Zahnarztpraxis an einem montäglichen Peak-Morgen)* * **Anrufer (Patient):** „Hallo, ich habe seit g",
-      "ts": "2026-09-16 18:54",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "biz-vogelsbergbox",
-      "via": "gemini",
-      "text": "**SCHRITT** Erstellung einer kostenlosen „Wartelisten & Vorbesteller“-Landingpage mit einem Symbolfoto einer Beispiel-Box (Dummy aus dem eigenen Kühlschrank) und Streuung des Links in regionalen Vogelsberg-Communitys, um das Ziel von 50 E-Mail-Eintragungen zu testen. **WARUM** Damit validieren wir die echte Endkunden-Nachfrage nach einem regionalen Abomodell",
-      "ts": "2026-09-16 18:54",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "biz-handwerk",
-      "via": "gemini",
-      "text": "Hallo Herr [Nachname], ich bin [Dein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region, online sauber und ehrlich aufgestellt zu sein. Mir ist aufgefallen, dass Ihr Dachdeckerbetrieb in Lauterbach bei Google zwar einen guten Ruf hat, Ihre Website auf dem Smartphone aber schwer zu bedienen ist. Ich kümmere mich für lokale Betriebe um ein to",
-      "ts": "2026-09-16 18:54",
-      "age_min": 1
-    }
-  ]
+  "recent": []
 }
