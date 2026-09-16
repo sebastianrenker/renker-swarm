@@ -1,19 +1,23 @@
 {
-  "updated": "2026-09-16T15:11Z",
+  "updated": "2026-09-16T18:55Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Offerta:** Stand: Pipeline gefüllt, Deals hängen im Closing | *Hebel:* Die 3 Top-Leads persönlich durch die Ziellinie schieben. **Handwerk-Sichtbar:** Stand: Nachfrage ist da, Operations am Limit | *Hebel:* Onboarding-Prozess standardisieren, um Vertriebskapazität freizugeben. **Vogelsberg-Box:** Stand: B2C läuft stetig, aber margenschwach | *Hebel:* B2B-F",
+        "age_min": 0
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**SCHRITT** Einbau eines dezenten **„Erstellt mit Offerta – Gratis Angebote schreiben“-Links** in die Fußzeile aller PDF-Angebote der kostenlosen Nutzer (entfernbar nur im Pro-Tarif). --- **WARUM JETZT** Wir verschenken aktuell mit jedem erstellten Angebot kostenlose Reichweite. Ein Angebot wandert vom Dienstleister/Handwerker direkt zum Endkunden – und wird",
+        "text": "**SCHRITT** Erstellung einer kostenlosen „Wartelisten & Vorbesteller“-Landingpage mit einem Symbolfoto einer Beispiel-Box (Dummy aus dem eigenen Kühlschrank) und Streuung des Links in regionalen Vogelsberg-Communitys, um das Ziel von 50 E-Mail-Eintragungen zu testen. **WARUM** Damit validieren wir die echte Endkunden-Nachfrage nach einem regionalen Abomodell",
         "age_min": 0
       }
     },
@@ -32,7 +36,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Der „Schottener Dorfbote“ ist ein mobiler Bring- und Begleitdienst, der Senioren Besorgungen wie Lebensmittel oder Medikamente direkt nach Hause bringt und sich stets Zeit für einen respektvollen Plausch an der Haustür nimmt. **WARUM HIER:** In den 15 weit verstreuten und hügeligen Ortsteilen rund um Schotten fehlen meist lokale Geschäfte, wodurch B",
+        "text": "Hier ist das Skript für die Demo, die wir dem Inhaber/Praxisleiter vorspielen, **bevor** wir überhaupt über ein Angebot sprechen. Ziel ist ein *„Aha-Effekt“* in den ersten 60 Sekunden. --- ### **SZENARIO** *(Ein 90-Sekunden-Live-Audio-Beispiel: Anruf bei einer Zahnarztpraxis an einem montäglichen Peak-Morgen)* * **Anrufer (Patient):** „Hallo, ich habe seit g",
         "age_min": 0
       }
     },
@@ -120,45 +124,45 @@
       "name": "Business — Offerta",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**SCHRITT** Einbau eines dezenten **„Erstellt mit Offerta – Gratis Angebote schreiben“-Links** in die Fußzeile aller PDF-Angebote der kostenlosen Nutzer (entfernbar nur im Pro-Tarif). --- **WARUM JETZT** Wir verschenken ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-handwerk",
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hallo Herr [Nachname], ich bin [Dein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region, online sauber und ehrlich aufgestellt zu sein. Mir ist aufgefallen, dass Ihr Dachdeckerbetrieb in Lauterbach bei ",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "biz-vogelsbergbox",
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SCHRITT** Erstellung einer kostenlosen „Wartelisten & Vorbesteller“-Landingpage mit einem Symbolfoto einer Beispiel-Box (Dummy aus dem eigenen Kühlschrank) und Streuung des Links in regionalen Vogelsberg-Communitys, um",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-terminki",
       "name": "Business — Termin-/Anruf-KI",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist das Skript für die Demo, die wir dem Inhaber/Praxisleiter vorspielen, **bevor** wir überhaupt über ein Angebot sprechen. Ziel ist ein *„Aha-Effekt“* in den ersten 60 Sekunden. --- ### **SZENARIO** *(Ein 90-Sekun",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-board",
       "name": "Business — Lagebericht",
       "dept": "Kommando",
       "iv": 480,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Offerta:** Stand: Pipeline gefüllt, Deals hängen im Closing | *Hebel:* Die 3 Top-Leads persönlich durch die Ziellinie schieben. **Handwerk-Sichtbar:** Stand: Nachfrage ist da, Operations am Limit | *Hebel:* Onboarding-",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-lauterbach",
@@ -273,45 +277,45 @@
       "name": "Direktvermarktung — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine „Schottener Vesper-Box“ im flexiblen Abo, vollgepackt mit bodenständigen Vogelsberger Hofprodukten wie Hausmacher Dosenwurst, regionalem Schnittkäse, frischem Krustenbrot und lokalem Apfelsaft. **fuer WEN:*",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-schotten",
       "name": "Vulkanregion-Tourismus — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der „Vulkan-Auszeit Hoherodskopf“ erwartet dich eine geführte Wildkräuter-Wanderung über die Schottener Basaltformationen inklusive eines reich gefüllten Picknickkorbs mit regionalen Vogelsberger Spezialität",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-schotten",
       "name": "Senioren-Alltagsdienste — Schotten",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Schottener Dorfbote“ ist ein mobiler Bring- und Begleitdienst, der Senioren Besorgungen wie Lebensmittel oder Medikamente direkt nach Hause bringt und sich stets Zeit für einen respektvollen Plausch an der ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-herbstein",
       "name": "Chancen-Scout — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Pannenservice mit integriertem Verleih von Zusatz-Akkus und dem Verkauf regionaler Vesper-Boxen für Radtouristen. **WARUM HIER:** Herbstein liegt als staatlich anerkannter Luftkurort direkt am",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-herbstein",
       "name": "Handwerk-Sichtbarkeit — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (mit Fokus auf Badsanierung und moderne Heizsysteme wie Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Herbsteiner auf Google nach einer Badsanierung o",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-herbstein",
@@ -1503,57 +1507,41 @@
     }
   ],
   "budget": {
-    "used": 20,
+    "used": 24,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "biz-offerta",
+      "dept": "Kommando",
+      "agent": "biz-board",
       "via": "gemini",
-      "text": "**SCHRITT** Einbau eines dezenten **„Erstellt mit Offerta – Gratis Angebote schreiben“-Links** in die Fußzeile aller PDF-Angebote der kostenlosen Nutzer (entfernbar nur im Pro-Tarif). --- **WARUM JETZT** Wir verschenken aktuell mit jedem erstellten Angebot kostenlose Reichweite. Ein Angebot wandert vom Dienstleister/Handwerker direkt zum Endkunden – und wird",
-      "ts": "2026-09-16 15:11",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-herbstein",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (mit Fokus auf Badsanierung und moderne Heizsysteme wie Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Herbsteiner auf Google nach einer Badsanierung oder einer neuen Heizung suchen, landen sie aktuell meist bei den größeren Betrieben aus Lauterbach oder Fulda – wollen wir dafür sorgen, das",
-      "ts": "2026-09-16 15:11",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-herbstein",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannenservice mit integriertem Verleih von Zusatz-Akkus und dem Verkauf regionaler Vesper-Boxen für Radtouristen. **WARUM HIER:** Herbstein liegt als staatlich anerkannter Luftkurort direkt am hoch frequentierten Vulkanradweg, verfügt bisher aber über keine spontane Nothilfe oder schnelle Verpflegung direkt an der Trasse. **ERSTER",
-      "ts": "2026-09-16 15:11",
+      "text": "**Offerta:** Stand: Pipeline gefüllt, Deals hängen im Closing | *Hebel:* Die 3 Top-Leads persönlich durch die Ziellinie schieben. **Handwerk-Sichtbar:** Stand: Nachfrage ist da, Operations am Limit | *Hebel:* Onboarding-Prozess standardisieren, um Vertriebskapazität freizugeben. **Vogelsberg-Box:** Stand: B2C läuft stetig, aber margenschwach | *Hebel:* B2B-F",
+      "ts": "2026-09-16 18:55",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-schotten",
+      "agent": "biz-terminki",
       "via": "gemini",
-      "text": "**WAS:** Der „Schottener Dorfbote“ ist ein mobiler Bring- und Begleitdienst, der Senioren Besorgungen wie Lebensmittel oder Medikamente direkt nach Hause bringt und sich stets Zeit für einen respektvollen Plausch an der Haustür nimmt. **WARUM HIER:** In den 15 weit verstreuten und hügeligen Ortsteilen rund um Schotten fehlen meist lokale Geschäfte, wodurch B",
-      "ts": "2026-09-16 15:10",
+      "text": "Hier ist das Skript für die Demo, die wir dem Inhaber/Praxisleiter vorspielen, **bevor** wir überhaupt über ein Angebot sprechen. Ziel ist ein *„Aha-Effekt“* in den ersten 60 Sekunden. --- ### **SZENARIO** *(Ein 90-Sekunden-Live-Audio-Beispiel: Anruf bei einer Zahnarztpraxis an einem montäglichen Peak-Morgen)* * **Anrufer (Patient):** „Hallo, ich habe seit g",
+      "ts": "2026-09-16 18:54",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-schotten",
+      "agent": "biz-vogelsbergbox",
       "via": "gemini",
-      "text": "**WAS:** Bei der „Vulkan-Auszeit Hoherodskopf“ erwartet dich eine geführte Wildkräuter-Wanderung über die Schottener Basaltformationen inklusive eines reich gefüllten Picknickkorbs mit regionalen Vogelsberger Spezialitäten zum Sonnenuntergang. **fuer WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und kleine Auszeit-Suchende, die den Vogelsberg en",
-      "ts": "2026-09-16 15:10",
+      "text": "**SCHRITT** Erstellung einer kostenlosen „Wartelisten & Vorbesteller“-Landingpage mit einem Symbolfoto einer Beispiel-Box (Dummy aus dem eigenen Kühlschrank) und Streuung des Links in regionalen Vogelsberg-Communitys, um das Ziel von 50 E-Mail-Eintragungen zu testen. **WARUM** Damit validieren wir die echte Endkunden-Nachfrage nach einem regionalen Abomodell",
+      "ts": "2026-09-16 18:54",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-schotten",
+      "agent": "biz-handwerk",
       "via": "gemini",
-      "text": "**WAS:** Eine „Schottener Vesper-Box“ im flexiblen Abo, vollgepackt mit bodenständigen Vogelsberger Hofprodukten wie Hausmacher Dosenwurst, regionalem Schnittkäse, frischem Krustenbrot und lokalem Apfelsaft. **fuer WEN:** Für beschäftigte Familien und Pendler aus Schotten und Umgebung, die ohne Hofladen-Hopping ehrlich regional einkaufen wollen, sowie als „M",
-      "ts": "2026-09-16 15:10",
-      "age_min": 0
+      "text": "Hallo Herr [Nachname], ich bin [Dein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region, online sauber und ehrlich aufgestellt zu sein. Mir ist aufgefallen, dass Ihr Dachdeckerbetrieb in Lauterbach bei Google zwar einen guten Ruf hat, Ihre Website auf dem Smartphone aber schwer zu bedienen ist. Ich kümmere mich für lokale Betriebe um ein to",
+      "ts": "2026-09-16 18:54",
+      "age_min": 1
     }
   ]
 }

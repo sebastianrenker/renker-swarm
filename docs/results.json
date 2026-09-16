@@ -1,112 +1,82 @@
 {
-  "updated": "2026-09-16 15:11 UTC",
-  "total_results": 6,
-  "total_depts": 2,
+  "updated": "2026-09-16 18:55 UTC",
+  "total_results": 4,
+  "total_depts": 3,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "biz-offerta",
-      "title": "Business — Offerta  ·  Chancen",
+      "dept": "Kommando",
+      "agent": "biz-board",
+      "title": "Business — Lagebericht  ·  Kommando",
       "via": "gemini",
-      "text": "**SCHRITT**\nEinbau eines dezenten **„Erstellt mit Offerta – Gratis Angebote schreiben“-Links** in die Fußzeile aller PDF-Angebote der kostenlosen Nutzer (entfernbar nur im Pro-Tarif).\n\n---\n\n**WARUM JETZT**\nWir verschenken aktuell mit jedem erstellten Angebot kostenlose Reichweite. Ein Angebot wandert vom Dienstleister/Handwerker direkt zum Endkunden – und wird oft an Geschäftspartner, Architekten oder Subunternehmer weitergeleitet. Das ist der effizienteste virale Loop für ein B2B-Freemium-Tool im DACH-Raum: Jeder aktive Free-Nutzer wird automatisch zum Vertriebskanal, ohne dass wir 1 Euro für Werbung ausgeben müssen.\n\n---\n\n**WIE IN 1 TAG MACHBAR**\n1. **Vormittag (Code):** Im PDF-Export-Template (z.B. Puppeteer/pdfmake) eine Zeile Code in die Fußzeile einfügen: *„Erstellt mit offerta.io – Kostenloser Angebots-Generator“* mit Klick-Link.\n2. **Nachmittag (Logik):** Einfache Abfrage einbauen: `if (user.isFree) { renderFooterLink() }`. \n3. **Abend (Up-Sell):** Auf der Pricing-Seite den Punkt *\"Kein Offerta-Branding auf deinen PDFs\"* als Argument für den Pro-Tarif ergänzen. Deployen. Fertig.",
-      "ts": "2026-09-16 15:11",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-herbstein",
-      "title": "Handwerk-Sichtbarkeit — Herbstein  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbetrieb** (mit Fokus auf Badsanierung und moderne Heizsysteme wie Wärmepumpen).\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Herbsteiner auf Google nach einer Badsanierung oder einer neuen Heizung suchen, landen sie aktuell meist bei den größeren Betrieben aus Lauterbach oder Fulda – wollen wir dafür sorgen, dass diese lukrativen Aufträge künftig direkt bei Ihnen im Ort bleiben?“",
-      "ts": "2026-09-16 15:11",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-herbstein",
-      "title": "Chancen-Scout — Herbstein  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannenservice mit integriertem Verleih von Zusatz-Akkus und dem Verkauf regionaler Vesper-Boxen für Radtouristen.\n\n**WARUM HIER:** Herbstein liegt als staatlich anerkannter Luftkurort direkt am hoch frequentierten Vulkanradweg, verfügt bisher aber über keine spontane Nothilfe oder schnelle Verpflegung direkt an der Trasse.\n\n**ERSTER SCHRITT:** Kooperieren Sie mit einem lokalen Bäcker sowie Metzger für die Vesper-Boxen und testen Sie das Angebot an zwei Sommer-Wochenenden mit einem einfachen Werkstatt-Anhänger nahe der VulkanTherme.",
-      "ts": "2026-09-16 15:11",
+      "text": "**Offerta:** Stand: Pipeline gefüllt, Deals hängen im Closing | *Hebel:* Die 3 Top-Leads persönlich durch die Ziellinie schieben.\n**Handwerk-Sichtbar:** Stand: Nachfrage ist da, Operations am Limit | *Hebel:* Onboarding-Prozess standardisieren, um Vertriebskapazität freizugeben.\n**Vogelsberg-Box:** Stand: B2C läuft stetig, aber margenschwach | *Hebel:* B2B-Firmenkunden-Vertrieb für das Jahresendgeschäft anstoßen.\n**Termin-KI:** Stand: Produkt ist einsatzbereit, Traktion fehlt | *Hebel:* Outbound-Skript an 50 Prospects testen & die ersten 10 MRR-Kunden closen.\n\n---\n\n### **DIE eine Sache diese Woche:**\n**Termin-KI Vertrabiung priorisieren:** Ziehe die ersten 10 zahlenden Kunden an Land – das ist aktuell der ungenutzte Hebel mit dem höchsten Skalierungspotenzial für die gesamte Gruppe.",
+      "ts": "2026-09-16 18:55",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-schotten",
-      "title": "Senioren-Alltagsdienste — Schotten  ·  Kunden",
+      "agent": "biz-terminki",
+      "title": "Business — Termin-/Anruf-KI  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nDer „Schottener Dorfbote“ ist ein mobiler Bring- und Begleitdienst, der Senioren Besorgungen wie Lebensmittel oder Medikamente direkt nach Hause bringt und sich stets Zeit für einen respektvollen Plausch an der Haustür nimmt.\n\n**WARUM HIER:** \nIn den 15 weit verstreuten und hügeligen Ortsteilen rund um Schotten fehlen meist lokale Geschäfte, wodurch Besorgungen in der Kernstadt besonders ohne eigenes Auto oder im rauen Vogelsberg-Winter eine große Hürde darstellen.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den Ortsvorstehern wird eine zentrale Festnetz-Telefonnummer eingerichtet, über die der Bedarf wöchentlich unkompliziert angemeldet werden kann.",
-      "ts": "2026-09-16 15:10",
+      "text": "Hier ist das Skript für die Demo, die wir dem Inhaber/Praxisleiter vorspielen, **bevor** wir überhaupt über ein Angebot sprechen. Ziel ist ein *„Aha-Effekt“* in den ersten 60 Sekunden.\n\n---\n\n### **SZENARIO**\n*(Ein 90-Sekunden-Live-Audio-Beispiel: Anruf bei einer Zahnarztpraxis an einem montäglichen Peak-Morgen)*\n\n* **Anrufer (Patient):** „Hallo, ich habe seit gestern extrem starke Zahnschmerzen oben rechts. Ich brauche unbedingt heute noch einen Termin!“\n* **KI (Telefon-Assistenz):** „Guten Tag. Das tut mir leid zu hören, da helfen wir Ihnen natürlich direkt. Sind Sie bereits Patient bei uns in der Praxis?“\n* **Anrufer:** „Ja, ich war schon mal da. Name ist Thomas Weber.“\n* **KI:** „Vielen Dank, Herr Weber. Da es sich um einen Schmerzfall handelt: Passt es Ihnen heute um 11:30 Uhr in unserer Schmerzsprechstunde?“\n* **Anrufer:** „Ja, 11:30 Uhr schaffe ich. Perfekt.“\n* **KI:** „Hervorragend. Ich habe den Notfalltermin für 11:30 Uhr für Sie gebucht. Bitte bringen Sie Ihre Versichertenkarte mit. Ich habe Ihnen gerade auch eine Bestätigung per SMS geschickt. Gute Besserung und bis später!“\n\n---\n\n### **WAS ES ZEIGT**\n1. **Unverzügliche Annahme & Null Latenz:** Die KI antwortet ohne spürbare Pause (dank Rencoras Voice-Stack). Es fühlt sich an wie ein Gespräch mit einer echten Empfangskraft.\n2. **Intelligente Triage / Qualifizierung:** Die KI erkennt den Dringlichkeitsstatus („Zahnschmerzen“ = Notfall) und unterscheidet ihn von einer Routine-Prophylaxe.\n3. **Echte Kalendersynchronisation:** Kein stumpfes „Wir rufen Sie zurück“, sondern ein fester Eintrag im Praxis-System in Echtzeit.\n4. **Fehlerminimierung & Service:** Automatische SMS-Bestätigung verhindert No-Shows.\n5. **Entlastung des Teams:** Das Service-Team vor Ort musste für diesen 90-Sekunden-Standardprozess nicht ein einziges Mal den Hörer abheben.\n\n---\n\n### **ERSTER TAG**\n*(Wie der Einstieg für den Betrieb ohne Risiko abläuft)*\n\n* **Kein Systemwechsel nötig:** Der Betrieb behält seine Rufnummer und Telefonanlage.\n* **Einfache Rufumleitung:** Die KI wird lediglich als Überlauf eingerichtet (z. B. Aktivierung nach dem 3. Klingeln oder wenn die Leitung besetzt ist).\n* **Sicherheitsnetz:** Bei komplexen Sonderfällen, die die KI nicht lösen kann, verbindet sie direkt durch oder schickt eine strukturierte Zusammenfassung per E-Mail/Puffer-System an die Zentrale.\n* **Zero-Training für Mitarbeiter:** Das Team arbeitet im gewohnten Kalender weiter – die KI trägt die Termine einfach laut den vorgegebenen Praxis-/Betriebsregeln ein.",
+      "ts": "2026-09-16 18:54",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-schotten",
-      "title": "Vulkanregion-Tourismus — Schotten  ·  Chancen",
+      "agent": "biz-vogelsbergbox",
+      "title": "Business — Vogelsberg-Box  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Bei der „Vulkan-Auszeit Hoherodskopf“ erwartet dich eine geführte Wildkräuter-Wanderung über die Schottener Basaltformationen inklusive eines reich gefüllten Picknickkorbs mit regionalen Vogelsberger Spezialitäten zum Sonnenuntergang.\n\n**fuer WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und kleine Auszeit-Suchende, die den Vogelsberg entschleunigt und mit allen Sinnen entdecken möchten.\n\n**ERSTER SCHRITT:** Besuche unsere Buchungsseite, wähle deinen Wunschtermin sowie die passende Picknick-Variante (klassisch oder vegetarisch) aus und sichere dir direkt dein digitales Ticket.",
-      "ts": "2026-09-16 15:10",
+      "text": "**SCHRITT**\nErstellung einer kostenlosen „Wartelisten & Vorbesteller“-Landingpage mit einem Symbolfoto einer Beispiel-Box (Dummy aus dem eigenen Kühlschrank) und Streuung des Links in regionalen Vogelsberg-Communitys, um das Ziel von 50 E-Mail-Eintragungen zu testen.\n\n**WARUM**\nDamit validieren wir die echte Endkunden-Nachfrage nach einem regionalen Abomodell, *bevor* wir auch nur einen Euro für Lagerware, Kühllogistik, Verträge mit Höfen oder ein komplexes Shop-System ausgeben. Wenn sich im Vogelsberg nicht einmal 50 Personen unverbindlich eintragen, stimmt das Angebot oder die Zielgruppenansprache noch nicht.\n\n**erster Tag**\n* **09:00 – 11:00 Uhr:** Eine kostenlose Landingpage über *Carrd.co* oder ein Formular über *Tally.so* erstellen („Die Vogelsberg-Box kommt: Frische Produkte von Höfen aus deiner Region direkt an deine Haustür. Jetzt für den Start-Rabatt eintragen“).\n* **11:00 – 12:00 Uhr:** Ein ansprechendes Foto machen: Einen Korb/eine Kiste mit vorhanden regionalen Lebensmitteln (Brot, Äpfel, Eier, Käse) befüllen und als visuellen „Prototyp“ auf die Seite stellen.\n* **14:00 – 16:00 Uhr:** Den Link mit einer persönlichen Nachricht („Wir wollen den Vogelsberg direkt vermarkten – wer hätte Lust auf so eine Box?“) in 5 regionalen Facebook-Gruppen (z. B. Lauterbach, Alsfeld, Schotten), auf *Nebenan.de* und in lokalen WhatsApp-Gruppen teilen.",
+      "ts": "2026-09-16 18:54",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-schotten",
-      "title": "Direktvermarktung — Schotten  ·  Chancen",
+      "agent": "biz-handwerk",
+      "title": "Business — Handwerk-Sichtbar  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Eine „Schottener Vesper-Box“ im flexiblen Abo, vollgepackt mit bodenständigen Vogelsberger Hofprodukten wie Hausmacher Dosenwurst, regionalem Schnittkäse, frischem Krustenbrot und lokalem Apfelsaft.\n\n**fuer WEN:** Für beschäftigte Familien und Pendler aus Schotten und Umgebung, die ohne Hofladen-Hopping ehrlich regional einkaufen wollen, sowie als „Mitbringsel-Abo“ für Hoherodskopf-Ausflügler.\n\n**ERSTER SCHRITT:** Drei passende Höfe aus der Umgebung für eine Kooperation anfragen, eine einfache Test-Box zusammenstellen und die ersten 20 Exemplare über Direktansprache und Lokalpresse zum Probierpreis anbieten.",
-      "ts": "2026-09-16 15:10",
-      "age_min": 0
+      "text": "Hallo Herr [Nachname], ich bin [Dein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region, online sauber und ehrlich aufgestellt zu sein. \n\nMir ist aufgefallen, dass Ihr Dachdeckerbetrieb in Lauterbach bei Google zwar einen guten Ruf hat, Ihre Website auf dem Smartphone aber schwer zu bedienen ist. Ich kümmere mich für lokale Betriebe um ein top gepflegtes Google-Profil und eine einfache Website, die genau die richtigen Kunden aus der Umgebung anzieht. Kein Marketing-Bla-Bla, sondern ein praktisches Komplettpaket, das Ihnen lästige Rückfragen spart und passende Aufträge aus der Region bringt. \n\nWollen wir diese Woche einfach mal 5 Minuten unverbindlich telefonieren, damit ich Ihnen kurz zeige, was ich meine? Antworten Sie mir einfach kurz mit „Ja“ oder Ihrer Nummer, dann melde ich mich direkt bei Ihnen.",
+      "ts": "2026-09-16 18:54",
+      "age_min": 1
     }
   ],
   "departments": [
     {
+      "id": "Kommando",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kommando",
+          "agent": "biz-board",
+          "title": "Business — Lagebericht  ·  Kommando",
+          "via": "gemini",
+          "text": "**Offerta:** Stand: Pipeline gefüllt, Deals hängen im Closing | *Hebel:* Die 3 Top-Leads persönlich durch die Ziellinie schieben.\n**Handwerk-Sichtbar:** Stand: Nachfrage ist da, Operations am Limit | *Hebel:* Onboarding-Prozess standardisieren, um Vertriebskapazität freizugeben.\n**Vogelsberg-Box:** Stand: B2C läuft stetig, aber margenschwach | *Hebel:* B2B-Firmenkunden-Vertrieb für das Jahresendgeschäft anstoßen.\n**Termin-KI:** Stand: Produkt ist einsatzbereit, Traktion fehlt | *Hebel:* Outbound-Skript an 50 Prospects testen & die ersten 10 MRR-Kunden closen.\n\n---\n\n### **DIE eine Sache diese Woche:**\n**Termin-KI Vertrabiung priorisieren:** Ziehe die ersten 10 zahlenden Kunden an Land – das ist aktuell der ungenutzte Hebel mit dem höchsten Skalierungspotenzial für die gesamte Gruppe.",
+          "ts": "2026-09-16 18:55",
+          "age_min": 0
+        }
+      ]
+    },
+    {
       "id": "Chancen",
-      "count": 5,
+      "count": 2,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "biz-offerta",
-          "title": "Business — Offerta  ·  Chancen",
+          "agent": "biz-vogelsbergbox",
+          "title": "Business — Vogelsberg-Box  ·  Chancen",
           "via": "gemini",
-          "text": "**SCHRITT**\nEinbau eines dezenten **„Erstellt mit Offerta – Gratis Angebote schreiben“-Links** in die Fußzeile aller PDF-Angebote der kostenlosen Nutzer (entfernbar nur im Pro-Tarif).\n\n---\n\n**WARUM JETZT**\nWir verschenken aktuell mit jedem erstellten Angebot kostenlose Reichweite. Ein Angebot wandert vom Dienstleister/Handwerker direkt zum Endkunden – und wird oft an Geschäftspartner, Architekten oder Subunternehmer weitergeleitet. Das ist der effizienteste virale Loop für ein B2B-Freemium-Tool im DACH-Raum: Jeder aktive Free-Nutzer wird automatisch zum Vertriebskanal, ohne dass wir 1 Euro für Werbung ausgeben müssen.\n\n---\n\n**WIE IN 1 TAG MACHBAR**\n1. **Vormittag (Code):** Im PDF-Export-Template (z.B. Puppeteer/pdfmake) eine Zeile Code in die Fußzeile einfügen: *„Erstellt mit offerta.io – Kostenloser Angebots-Generator“* mit Klick-Link.\n2. **Nachmittag (Logik):** Einfache Abfrage einbauen: `if (user.isFree) { renderFooterLink() }`. \n3. **Abend (Up-Sell):** Auf der Pricing-Seite den Punkt *\"Kein Offerta-Branding auf deinen PDFs\"* als Argument für den Pro-Tarif ergänzen. Deployen. Fertig.",
-          "ts": "2026-09-16 15:11",
+          "text": "**SCHRITT**\nErstellung einer kostenlosen „Wartelisten & Vorbesteller“-Landingpage mit einem Symbolfoto einer Beispiel-Box (Dummy aus dem eigenen Kühlschrank) und Streuung des Links in regionalen Vogelsberg-Communitys, um das Ziel von 50 E-Mail-Eintragungen zu testen.\n\n**WARUM**\nDamit validieren wir die echte Endkunden-Nachfrage nach einem regionalen Abomodell, *bevor* wir auch nur einen Euro für Lagerware, Kühllogistik, Verträge mit Höfen oder ein komplexes Shop-System ausgeben. Wenn sich im Vogelsberg nicht einmal 50 Personen unverbindlich eintragen, stimmt das Angebot oder die Zielgruppenansprache noch nicht.\n\n**erster Tag**\n* **09:00 – 11:00 Uhr:** Eine kostenlose Landingpage über *Carrd.co* oder ein Formular über *Tally.so* erstellen („Die Vogelsberg-Box kommt: Frische Produkte von Höfen aus deiner Region direkt an deine Haustür. Jetzt für den Start-Rabatt eintragen“).\n* **11:00 – 12:00 Uhr:** Ein ansprechendes Foto machen: Einen Korb/eine Kiste mit vorhanden regionalen Lebensmitteln (Brot, Äpfel, Eier, Käse) befüllen und als visuellen „Prototyp“ auf die Seite stellen.\n* **14:00 – 16:00 Uhr:** Den Link mit einer persönlichen Nachricht („Wir wollen den Vogelsberg direkt vermarkten – wer hätte Lust auf so eine Box?“) in 5 regionalen Facebook-Gruppen (z. B. Lauterbach, Alsfeld, Schotten), auf *Nebenan.de* und in lokalen WhatsApp-Gruppen teilen.",
+          "ts": "2026-09-16 18:54",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-herbstein",
-          "title": "Handwerk-Sichtbarkeit — Herbstein  ·  Chancen",
+          "agent": "biz-handwerk",
+          "title": "Business — Handwerk-Sichtbar  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbetrieb** (mit Fokus auf Badsanierung und moderne Heizsysteme wie Wärmepumpen).\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Herbsteiner auf Google nach einer Badsanierung oder einer neuen Heizung suchen, landen sie aktuell meist bei den größeren Betrieben aus Lauterbach oder Fulda – wollen wir dafür sorgen, dass diese lukrativen Aufträge künftig direkt bei Ihnen im Ort bleiben?“",
-          "ts": "2026-09-16 15:11",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-herbstein",
-          "title": "Chancen-Scout — Herbstein  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler E-Bike-Pannenservice mit integriertem Verleih von Zusatz-Akkus und dem Verkauf regionaler Vesper-Boxen für Radtouristen.\n\n**WARUM HIER:** Herbstein liegt als staatlich anerkannter Luftkurort direkt am hoch frequentierten Vulkanradweg, verfügt bisher aber über keine spontane Nothilfe oder schnelle Verpflegung direkt an der Trasse.\n\n**ERSTER SCHRITT:** Kooperieren Sie mit einem lokalen Bäcker sowie Metzger für die Vesper-Boxen und testen Sie das Angebot an zwei Sommer-Wochenenden mit einem einfachen Werkstatt-Anhänger nahe der VulkanTherme.",
-          "ts": "2026-09-16 15:11",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-schotten",
-          "title": "Vulkanregion-Tourismus — Schotten  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Bei der „Vulkan-Auszeit Hoherodskopf“ erwartet dich eine geführte Wildkräuter-Wanderung über die Schottener Basaltformationen inklusive eines reich gefüllten Picknickkorbs mit regionalen Vogelsberger Spezialitäten zum Sonnenuntergang.\n\n**fuer WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und kleine Auszeit-Suchende, die den Vogelsberg entschleunigt und mit allen Sinnen entdecken möchten.\n\n**ERSTER SCHRITT:** Besuche unsere Buchungsseite, wähle deinen Wunschtermin sowie die passende Picknick-Variante (klassisch oder vegetarisch) aus und sichere dir direkt dein digitales Ticket.",
-          "ts": "2026-09-16 15:10",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-schotten",
-          "title": "Direktvermarktung — Schotten  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Eine „Schottener Vesper-Box“ im flexiblen Abo, vollgepackt mit bodenständigen Vogelsberger Hofprodukten wie Hausmacher Dosenwurst, regionalem Schnittkäse, frischem Krustenbrot und lokalem Apfelsaft.\n\n**fuer WEN:** Für beschäftigte Familien und Pendler aus Schotten und Umgebung, die ohne Hofladen-Hopping ehrlich regional einkaufen wollen, sowie als „Mitbringsel-Abo“ für Hoherodskopf-Ausflügler.\n\n**ERSTER SCHRITT:** Drei passende Höfe aus der Umgebung für eine Kooperation anfragen, eine einfache Test-Box zusammenstellen und die ersten 20 Exemplare über Direktansprache und Lokalpresse zum Probierpreis anbieten.",
-          "ts": "2026-09-16 15:10",
-          "age_min": 0
+          "text": "Hallo Herr [Nachname], ich bin [Dein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region, online sauber und ehrlich aufgestellt zu sein. \n\nMir ist aufgefallen, dass Ihr Dachdeckerbetrieb in Lauterbach bei Google zwar einen guten Ruf hat, Ihre Website auf dem Smartphone aber schwer zu bedienen ist. Ich kümmere mich für lokale Betriebe um ein top gepflegtes Google-Profil und eine einfache Website, die genau die richtigen Kunden aus der Umgebung anzieht. Kein Marketing-Bla-Bla, sondern ein praktisches Komplettpaket, das Ihnen lästige Rückfragen spart und passende Aufträge aus der Region bringt. \n\nWollen wir diese Woche einfach mal 5 Minuten unverbindlich telefonieren, damit ich Ihnen kurz zeige, was ich meine? Antworten Sie mir einfach kurz mit „Ja“ oder Ihrer Nummer, dann melde ich mich direkt bei Ihnen.",
+          "ts": "2026-09-16 18:54",
+          "age_min": 1
         }
       ]
     },
@@ -116,11 +86,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-schotten",
-          "title": "Senioren-Alltagsdienste — Schotten  ·  Kunden",
+          "agent": "biz-terminki",
+          "title": "Business — Termin-/Anruf-KI  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nDer „Schottener Dorfbote“ ist ein mobiler Bring- und Begleitdienst, der Senioren Besorgungen wie Lebensmittel oder Medikamente direkt nach Hause bringt und sich stets Zeit für einen respektvollen Plausch an der Haustür nimmt.\n\n**WARUM HIER:** \nIn den 15 weit verstreuten und hügeligen Ortsteilen rund um Schotten fehlen meist lokale Geschäfte, wodurch Besorgungen in der Kernstadt besonders ohne eigenes Auto oder im rauen Vogelsberg-Winter eine große Hürde darstellen.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den Ortsvorstehern wird eine zentrale Festnetz-Telefonnummer eingerichtet, über die der Bedarf wöchentlich unkompliziert angemeldet werden kann.",
-          "ts": "2026-09-16 15:10",
+          "text": "Hier ist das Skript für die Demo, die wir dem Inhaber/Praxisleiter vorspielen, **bevor** wir überhaupt über ein Angebot sprechen. Ziel ist ein *„Aha-Effekt“* in den ersten 60 Sekunden.\n\n---\n\n### **SZENARIO**\n*(Ein 90-Sekunden-Live-Audio-Beispiel: Anruf bei einer Zahnarztpraxis an einem montäglichen Peak-Morgen)*\n\n* **Anrufer (Patient):** „Hallo, ich habe seit gestern extrem starke Zahnschmerzen oben rechts. Ich brauche unbedingt heute noch einen Termin!“\n* **KI (Telefon-Assistenz):** „Guten Tag. Das tut mir leid zu hören, da helfen wir Ihnen natürlich direkt. Sind Sie bereits Patient bei uns in der Praxis?“\n* **Anrufer:** „Ja, ich war schon mal da. Name ist Thomas Weber.“\n* **KI:** „Vielen Dank, Herr Weber. Da es sich um einen Schmerzfall handelt: Passt es Ihnen heute um 11:30 Uhr in unserer Schmerzsprechstunde?“\n* **Anrufer:** „Ja, 11:30 Uhr schaffe ich. Perfekt.“\n* **KI:** „Hervorragend. Ich habe den Notfalltermin für 11:30 Uhr für Sie gebucht. Bitte bringen Sie Ihre Versichertenkarte mit. Ich habe Ihnen gerade auch eine Bestätigung per SMS geschickt. Gute Besserung und bis später!“\n\n---\n\n### **WAS ES ZEIGT**\n1. **Unverzügliche Annahme & Null Latenz:** Die KI antwortet ohne spürbare Pause (dank Rencoras Voice-Stack). Es fühlt sich an wie ein Gespräch mit einer echten Empfangskraft.\n2. **Intelligente Triage / Qualifizierung:** Die KI erkennt den Dringlichkeitsstatus („Zahnschmerzen“ = Notfall) und unterscheidet ihn von einer Routine-Prophylaxe.\n3. **Echte Kalendersynchronisation:** Kein stumpfes „Wir rufen Sie zurück“, sondern ein fester Eintrag im Praxis-System in Echtzeit.\n4. **Fehlerminimierung & Service:** Automatische SMS-Bestätigung verhindert No-Shows.\n5. **Entlastung des Teams:** Das Service-Team vor Ort musste für diesen 90-Sekunden-Standardprozess nicht ein einziges Mal den Hörer abheben.\n\n---\n\n### **ERSTER TAG**\n*(Wie der Einstieg für den Betrieb ohne Risiko abläuft)*\n\n* **Kein Systemwechsel nötig:** Der Betrieb behält seine Rufnummer und Telefonanlage.\n* **Einfache Rufumleitung:** Die KI wird lediglich als Überlauf eingerichtet (z. B. Aktivierung nach dem 3. Klingeln oder wenn die Leitung besetzt ist).\n* **Sicherheitsnetz:** Bei komplexen Sonderfällen, die die KI nicht lösen kann, verbindet sie direkt durch oder schickt eine strukturierte Zusammenfassung per E-Mail/Puffer-System an die Zentrale.\n* **Zero-Training für Mitarbeiter:** Das Team arbeitet im gewohnten Kalender weiter – die KI trägt die Termine einfach laut den vorgegebenen Praxis-/Betriebsregeln ein.",
+          "ts": "2026-09-16 18:54",
           "age_min": 0
         }
       ]
