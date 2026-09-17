@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-17T18:33Z",
+  "updated": "2026-09-17T21:45Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Erleben Sie das Mikroabenteuer „Schlossglühen & Vulkan-Picknick“, das eine entspannte Abendwanderung rund um die historische Burg Homberg mit einem exklusiven Picknickkorb voller regionaler Vogelsberger Spezialitäten verbindet. **fuer WEN:** Das Paket ist ideal für Paare, Genussmenschen und Naturliebhaber, die eine romantische und kulinarische Ausze",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS** Der „Grebenhainer Dorf-Begleiter“ ist ein mobiler Fahrdienst mit integrierter Alltagsunterstützung, der Seniorinnen und Senioren direkt an der Haustür abholt und sie respektvoll bei Einkäufen, Arztbesuchen oder sozialen Treffen begleitet. **WARUM HIER** In einer weitläufigen Gemeinde aus 15 verstreuten Ortsteilen im Vogelsberg schließt dieses Angebot",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -364,54 +372,54 @@
       "name": "Vulkanregion-Tourismus — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ihr leiht euch hochwertige E-Bikes direkt in Grebenhain und entdeckt auf einer kartenbasierten Selbstfahrer-Route den berühmten Vulkanradweg, inklusive eines prall gefüllten Picknickkorbs voller regionaler Vogel",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-grebenhain",
       "name": "Senioren-Alltagsdienste — Grebenhain",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Der „Grebenhainer Dorf-Begleiter“ ist ein mobiler Fahrdienst mit integrierter Alltagsunterstützung, der Seniorinnen und Senioren direkt an der Haustür abholt und sie respektvoll bei Einkäufen, Arztbesuchen oder s",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-homberg-ohm",
       "name": "Chancen-Scout — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Pannendienst und Reparaturservice für E-Bikes und Fahrräder inklusive Akku-Tausch-Station direkt an den lokalen Radwegen. **WARUM HIER:** Homberg liegt ideal am stark frequentierten Ohm-Radweg sowie ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-homberg-ohm",
       "name": "Handwerk-Sichtbarkeit — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (Fokus auf Heizungstausch/Wärmepumpen und Badrenovierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer hier in Homberg online nach einer neu",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-homberg-ohm",
       "name": "Direktvermarktung — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das „Homberger Feierabend-Kistchen“ ist ein flexibles Wochen-Abo mit echten Vogelsberger Spezialitäten wie frischem Bauernbrot, Hausmacher Wurst, Hofkäse und Knack-Gemüse für ein ehrliches Vesper ohne Kochen. **",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-homberg-ohm",
       "name": "Vulkanregion-Tourismus — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erleben Sie das Mikroabenteuer „Schlossglühen & Vulkan-Picknick“, das eine entspannte Abendwanderung rund um die historische Burg Homberg mit einem exklusiven Picknickkorb voller regionaler Vogelsberger Speziali",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-homberg-ohm",
@@ -1495,8 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 12,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-homberg-ohm",
+      "via": "gemini",
+      "text": "**WAS:** Erleben Sie das Mikroabenteuer „Schlossglühen & Vulkan-Picknick“, das eine entspannte Abendwanderung rund um die historische Burg Homberg mit einem exklusiven Picknickkorb voller regionaler Vogelsberger Spezialitäten verbindet. **fuer WEN:** Das Paket ist ideal für Paare, Genussmenschen und Naturliebhaber, die eine romantische und kulinarische Ausze",
+      "ts": "2026-09-17 21:45",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-homberg-ohm",
+      "via": "gemini",
+      "text": "**WAS:** Das „Homberger Feierabend-Kistchen“ ist ein flexibles Wochen-Abo mit echten Vogelsberger Spezialitäten wie frischem Bauernbrot, Hausmacher Wurst, Hofkäse und Knack-Gemüse für ein ehrliches Vesper ohne Kochen. **Für WEN:** Für Pendler und beschäftigte Familien aus Homberg und den Ortsteilen, die gute Landprodukte schätzen, aber unter der Woche keine ",
+      "ts": "2026-09-17 21:45",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-homberg-ohm",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (Fokus auf Heizungstausch/Wärmepumpen und Badrenovierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer hier in Homberg online nach einer neuen Heizung oder Badsanierung suchen, sollten sie direkt Ihren Betrieb finden – und die lukrativen Aufträge nicht an die Konkurrenz aus Alsfe",
+      "ts": "2026-09-17 21:45",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-homberg-ohm",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Pannendienst und Reparaturservice für E-Bikes und Fahrräder inklusive Akku-Tausch-Station direkt an den lokalen Radwegen. **WARUM HIER:** Homberg liegt ideal am stark frequentierten Ohm-Radweg sowie an beliebten Wanderrouten, verfügt im Stadtgebiet aber über keinen eigenen Fahrradfachhandel für schnelle Touristen-Pannen. **ERSTER SCHRITT",
+      "ts": "2026-09-17 21:45",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grebenhain",
+      "via": "gemini",
+      "text": "**WAS** Der „Grebenhainer Dorf-Begleiter“ ist ein mobiler Fahrdienst mit integrierter Alltagsunterstützung, der Seniorinnen und Senioren direkt an der Haustür abholt und sie respektvoll bei Einkäufen, Arztbesuchen oder sozialen Treffen begleitet. **WARUM HIER** In einer weitläufigen Gemeinde aus 15 verstreuten Ortsteilen im Vogelsberg schließt dieses Angebot",
+      "ts": "2026-09-17 21:45",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-grebenhain",
+      "via": "gemini",
+      "text": "**WAS:** Ihr leiht euch hochwertige E-Bikes direkt in Grebenhain und entdeckt auf einer kartenbasierten Selbstfahrer-Route den berühmten Vulkanradweg, inklusive eines prall gefüllten Picknickkorbs voller regionaler Vogelsberger Spezialitäten. **fuer WEN:** Dieses Paket richtet sich an Paare, kleine Gruppen und aktive Genießer, die Natur, leichte Bewegung und",
+      "ts": "2026-09-17 21:45",
+      "age_min": 0
+    }
+  ]
 }
