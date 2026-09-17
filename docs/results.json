@@ -1,126 +1,126 @@
 {
-  "updated": "2026-09-17 21:45 UTC",
+  "updated": "2026-09-17 23:43 UTC",
   "total_results": 6,
   "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-homberg-ohm",
-      "title": "Vulkanregion-Tourismus — Homberg (Ohm)  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-kirtorf",
+      "title": "Senioren-Alltagsdienste — Kirtorf  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Erleben Sie das Mikroabenteuer „Schlossglühen & Vulkan-Picknick“, das eine entspannte Abendwanderung rund um die historische Burg Homberg mit einem exklusiven Picknickkorb voller regionaler Vogelsberger Spezialitäten verbindet.\n\n**fuer WEN:** Das Paket ist ideal für Paare, Genussmenschen und Naturliebhaber, die eine romantische und kulinarische Auszeit mit Panoramablick über das Ohmtal suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserem Online-Buchungsportal einfach Ihren Wunschtermin aus, geben Sie eventuelle Ernährungswünsche (z. B. vegetarisch) an und sichern Sie sich das Erlebnis mit sofortiger Bestätigung.",
-      "ts": "2026-09-17 21:45",
+      "text": "**WAS:** Ein mobiler, ehrenamtlich getragener Nachbarschafts-Kurier, der Senioren aus den Ortsteilen für Einkäufe, Arztbesuche und kleine Besorgungen würdevoll und direkt an der Haustür abholt.\n\n**WARUM HIER:** Da Kirtorf aus mehreren weit verstreuten Ortsteilen ohne eigene Nahversorgung besteht, bewahrt dieser Dienst die geschätzte Selbstständigkeit der Älteren im gewohnten Zuhause.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Stadtverwaltung Kirtorf und den Ortsbeiräten wird ein runder Tisch einberufen, um den konkreten Transportbedarf zu kartieren und engagierte Fahrer aus den Dörfern zu gewinnen.",
+      "ts": "2026-09-17 23:43",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-homberg-ohm",
-      "title": "Direktvermarktung — Homberg (Ohm)  ·  Chancen",
+      "agent": "tourismus-kirtorf",
+      "title": "Vulkanregion-Tourismus — Kirtorf  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nDas „Homberger Feierabend-Kistchen“ ist ein flexibles Wochen-Abo mit echten Vogelsberger Spezialitäten wie frischem Bauernbrot, Hausmacher Wurst, Hofkäse und Knack-Gemüse für ein ehrliches Vesper ohne Kochen.\n\n**Für WEN:** \nFür Pendler und beschäftigte Familien aus Homberg und den Ortsteilen, die gute Landprodukte schätzen, aber unter der Woche keine Zeit fürs Abklappern einzelner Hofläden haben.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (Bäcker, Direktvermarkter, Gemüsebauer) an einen Tisch holen und mit 15 Test-Haushalten aus der Nachbarschaft einen vierwöchigen Probelauf starten.",
-      "ts": "2026-09-17 21:45",
+      "text": "**WAS:** Ein geführter Orientierungs-Spaziergang zu den basaltischen Naturdenkmälern Kirtorfs inklusive eines vollgepackten Rucksacks mit regionalen Spezialitäten aus der Vulkanregion.\n\n**für WEN:** Dieses Paket richtet sich an Genusswanderer, Paare und kleine Familien, die Naturerlebnis und regionale Kulinarik unkompliziert miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Buche deinen Wunschtermin online auf unserer Plattform und wähle dabei direkt deine bevorzugte Picknick-Variante (klassisch oder vegetarisch) aus.",
+      "ts": "2026-09-17 23:43",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-homberg-ohm",
-      "title": "Handwerk-Sichtbarkeit — Homberg (Ohm)  ·  Chancen",
+      "agent": "direkt-kirtorf",
+      "title": "Direktvermarktung — Kirtorf  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbetrieb** (Fokus auf Heizungstausch/Wärmepumpen und Badrenovierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Hausbesitzer hier in Homberg online nach einer neuen Heizung oder Badsanierung suchen, sollten sie direkt Ihren Betrieb finden – und die lukrativen Aufträge nicht an die Konkurrenz aus Alsfeld oder Marburg verlieren.“",
-      "ts": "2026-09-17 21:45",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein flexibles Wochenabo mit saisonalem Gemüsemix, Eiern, Hausmacher Wurst und frischem Landbrot, das wöchentlich an einer zentralen Pick-up-Station in Kirtorf gekühlt bereitsteht.\n\n**fuer WEN:** Für berufstätige Pendler und Familien aus Kirtorf und den Ortsteilen, die ehrliche Hofprodukte schätzen, aber unter der Woche keine Zeit für Klapperfahrten von Hof zu Hof haben.\n\n**ERSTER SCHRITT:** Drei befreundete Erzeuger aus dem Kirtorfer Umland für die Kisten-Inhalte gewinnen und eine einfache WhatsApp-Bestellgruppe mit 15 Test-Haushalten für den ersten Durchlauf starten.",
+      "ts": "2026-09-17 23:43",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-homberg-ohm",
-      "title": "Chancen-Scout — Homberg (Ohm)  ·  Chancen",
+      "agent": "handwerk-kirtorf",
+      "title": "Handwerk-Sichtbarkeit — Kirtorf  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:**\nEin mobiler Pannendienst und Reparaturservice für E-Bikes und Fahrräder inklusive Akku-Tausch-Station direkt an den lokalen Radwegen.\n\n**WARUM HIER:**\nHomberg liegt ideal am stark frequentierten Ohm-Radweg sowie an beliebten Wanderrouten, verfügt im Stadtgebiet aber über keinen eigenen Fahrradfachhandel für schnelle Touristen-Pannen.\n\n**ERSTER SCHRITT:**\nMit einem bereits vorhandenen Transporter, Basis-Ersatzteilen und Visitenkarten die Gastronomie am Fluss sowie die Schlossverwaltung als Partner für Flyer-Aushänge gewinnen.",
-      "ts": "2026-09-17 21:45",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. spezialisiert auf Badsanierung und moderne Heiztechniken wie Wärmepumpen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], immer mehr Hausbesitzer rund um Kirtorf suchen online nach Experten für Wärmepumpen und Badsanierung – sorgen wir dafür, dass diese lukrativen Aufträge direkt bei Ihnen landen und nicht bei der Konkurrenz aus Alsfeld oder Stadtallendorf.“",
+      "ts": "2026-09-17 23:43",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-kirtorf",
+      "title": "Chancen-Scout — Kirtorf  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nMobile PV-Anlagen-Reinigung und Sichtprüfung speziell für landwirtschaftliche Nutzgebäude und Einfamilienhäuser.\n\n**WARUM HIER:** \nIn Kirtorf und seinen sieben Ortsteilen gibt es unzählige ertragsgeschwächte Scheunen-Solaranlagen, die durch Agrar-Staub verschmutzt sind, aber von großen Fachbetrieben wegen zu kleiner Auftragsgrößen ignoriert werden.\n\n**ERSTER SCHRITT:** \nLeihe dir ein professionelles Teleskop-Reinigungsset und biete zwei Landwirten in Ober-Gleen oder Wahlen eine kostenlose Test-Reinigung einer Modulreihe gegen eine Vorher-Nachher-Ertragsmessung als Referenz an.",
+      "ts": "2026-09-17 23:43",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-grebenhain",
-      "title": "Senioren-Alltagsdienste — Grebenhain  ·  Kunden",
+      "agent": "senioren-homberg-ohm",
+      "title": "Senioren-Alltagsdienste — Homberg (Ohm)  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS**  \nDer „Grebenhainer Dorf-Begleiter“ ist ein mobiler Fahrdienst mit integrierter Alltagsunterstützung, der Seniorinnen und Senioren direkt an der Haustür abholt und sie respektvoll bei Einkäufen, Arztbesuchen oder sozialen Treffen begleitet.\n\n**WARUM HIER**  \nIn einer weitläufigen Gemeinde aus 15 verstreuten Ortsteilen im Vogelsberg schließt dieses Angebot die Lücke des ausgedünnten Nahverkehrs und bewahrt die Selbstständigkeit der Menschen in ihrem gewohnten Umfeld.\n\n**ERSTER SCHRITT**  \nGemeinsam mit den lokalen Ortsbeiräten wird eine Bedarfsanalyse gestartet, um feste Wochentage für die einzelnen Ortsteile festzulegen und erste verlässliche Fahrteams aufzubauen.",
-      "ts": "2026-09-17 21:45",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-grebenhain",
-      "title": "Vulkanregion-Tourismus — Grebenhain  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ihr leiht euch hochwertige E-Bikes direkt in Grebenhain und entdeckt auf einer kartenbasierten Selbstfahrer-Route den berühmten Vulkanradweg, inklusive eines prall gefüllten Picknickkorbs voller regionaler Vogelsberger Spezialitäten.\n\n**fuer WEN:** Dieses Paket richtet sich an Paare, kleine Gruppen und aktive Genießer, die Natur, leichte Bewegung und regionale Kulinarik unkompliziert miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Website deinen Wunschtermin aus und sichere dir das Erlebnis-Paket mit wenigen Klicks online.",
-      "ts": "2026-09-17 21:45",
+      "text": "**WAS:**\nEin verlässlicher Dorf-Begleit- und Fahrdienst („Ohm-Mobil“), der ältere Menschen barrierefrei aus den Ortsteilen abholt, bei Arztbesuchen oder Einkäufen im Kernort unterstützt und wieder sicher nach Hause bringt.\n\n**WARUM HIER:**\nDie 13 weit verstreuten Ortsteile von Homberg (Ohm) erschweren ohne eigenes Auto den Zugang zur Grundversorgung im Hauptort, wodurch Senioren in den Außendörfern schlechter am gesellschaftlichen Leben teilhaben können.\n\n**ERSTER SCHRITT:**\nGemeinsam mit den örtlichen Ortsbeiräten wird ein Runder Tisch einberufen, um den genauen Bedarf in den einzelnen Dörfern zu erheben und ehrenamtliche Fahrerinnen und Fahrer aus der Nachbarschaft zu gewinnen.",
+      "ts": "2026-09-17 23:43",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-homberg-ohm",
-          "title": "Vulkanregion-Tourismus — Homberg (Ohm)  ·  Chancen",
+          "agent": "tourismus-kirtorf",
+          "title": "Vulkanregion-Tourismus — Kirtorf  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Erleben Sie das Mikroabenteuer „Schlossglühen & Vulkan-Picknick“, das eine entspannte Abendwanderung rund um die historische Burg Homberg mit einem exklusiven Picknickkorb voller regionaler Vogelsberger Spezialitäten verbindet.\n\n**fuer WEN:** Das Paket ist ideal für Paare, Genussmenschen und Naturliebhaber, die eine romantische und kulinarische Auszeit mit Panoramablick über das Ohmtal suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserem Online-Buchungsportal einfach Ihren Wunschtermin aus, geben Sie eventuelle Ernährungswünsche (z. B. vegetarisch) an und sichern Sie sich das Erlebnis mit sofortiger Bestätigung.",
-          "ts": "2026-09-17 21:45",
+          "text": "**WAS:** Ein geführter Orientierungs-Spaziergang zu den basaltischen Naturdenkmälern Kirtorfs inklusive eines vollgepackten Rucksacks mit regionalen Spezialitäten aus der Vulkanregion.\n\n**für WEN:** Dieses Paket richtet sich an Genusswanderer, Paare und kleine Familien, die Naturerlebnis und regionale Kulinarik unkompliziert miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Buche deinen Wunschtermin online auf unserer Plattform und wähle dabei direkt deine bevorzugte Picknick-Variante (klassisch oder vegetarisch) aus.",
+          "ts": "2026-09-17 23:43",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-homberg-ohm",
-          "title": "Direktvermarktung — Homberg (Ohm)  ·  Chancen",
+          "agent": "direkt-kirtorf",
+          "title": "Direktvermarktung — Kirtorf  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nDas „Homberger Feierabend-Kistchen“ ist ein flexibles Wochen-Abo mit echten Vogelsberger Spezialitäten wie frischem Bauernbrot, Hausmacher Wurst, Hofkäse und Knack-Gemüse für ein ehrliches Vesper ohne Kochen.\n\n**Für WEN:** \nFür Pendler und beschäftigte Familien aus Homberg und den Ortsteilen, die gute Landprodukte schätzen, aber unter der Woche keine Zeit fürs Abklappern einzelner Hofläden haben.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (Bäcker, Direktvermarkter, Gemüsebauer) an einen Tisch holen und mit 15 Test-Haushalten aus der Nachbarschaft einen vierwöchigen Probelauf starten.",
-          "ts": "2026-09-17 21:45",
+          "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein flexibles Wochenabo mit saisonalem Gemüsemix, Eiern, Hausmacher Wurst und frischem Landbrot, das wöchentlich an einer zentralen Pick-up-Station in Kirtorf gekühlt bereitsteht.\n\n**fuer WEN:** Für berufstätige Pendler und Familien aus Kirtorf und den Ortsteilen, die ehrliche Hofprodukte schätzen, aber unter der Woche keine Zeit für Klapperfahrten von Hof zu Hof haben.\n\n**ERSTER SCHRITT:** Drei befreundete Erzeuger aus dem Kirtorfer Umland für die Kisten-Inhalte gewinnen und eine einfache WhatsApp-Bestellgruppe mit 15 Test-Haushalten für den ersten Durchlauf starten.",
+          "ts": "2026-09-17 23:43",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-homberg-ohm",
-          "title": "Handwerk-Sichtbarkeit — Homberg (Ohm)  ·  Chancen",
+          "agent": "handwerk-kirtorf",
+          "title": "Handwerk-Sichtbarkeit — Kirtorf  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbetrieb** (Fokus auf Heizungstausch/Wärmepumpen und Badrenovierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Hausbesitzer hier in Homberg online nach einer neuen Heizung oder Badsanierung suchen, sollten sie direkt Ihren Betrieb finden – und die lukrativen Aufträge nicht an die Konkurrenz aus Alsfeld oder Marburg verlieren.“",
-          "ts": "2026-09-17 21:45",
+          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. spezialisiert auf Badsanierung und moderne Heiztechniken wie Wärmepumpen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], immer mehr Hausbesitzer rund um Kirtorf suchen online nach Experten für Wärmepumpen und Badsanierung – sorgen wir dafür, dass diese lukrativen Aufträge direkt bei Ihnen landen und nicht bei der Konkurrenz aus Alsfeld oder Stadtallendorf.“",
+          "ts": "2026-09-17 23:43",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-homberg-ohm",
-          "title": "Chancen-Scout — Homberg (Ohm)  ·  Chancen",
+          "agent": "chancen-kirtorf",
+          "title": "Chancen-Scout — Kirtorf  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:**\nEin mobiler Pannendienst und Reparaturservice für E-Bikes und Fahrräder inklusive Akku-Tausch-Station direkt an den lokalen Radwegen.\n\n**WARUM HIER:**\nHomberg liegt ideal am stark frequentierten Ohm-Radweg sowie an beliebten Wanderrouten, verfügt im Stadtgebiet aber über keinen eigenen Fahrradfachhandel für schnelle Touristen-Pannen.\n\n**ERSTER SCHRITT:**\nMit einem bereits vorhandenen Transporter, Basis-Ersatzteilen und Visitenkarten die Gastronomie am Fluss sowie die Schlossverwaltung als Partner für Flyer-Aushänge gewinnen.",
-          "ts": "2026-09-17 21:45",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-grebenhain",
-          "title": "Vulkanregion-Tourismus — Grebenhain  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ihr leiht euch hochwertige E-Bikes direkt in Grebenhain und entdeckt auf einer kartenbasierten Selbstfahrer-Route den berühmten Vulkanradweg, inklusive eines prall gefüllten Picknickkorbs voller regionaler Vogelsberger Spezialitäten.\n\n**fuer WEN:** Dieses Paket richtet sich an Paare, kleine Gruppen und aktive Genießer, die Natur, leichte Bewegung und regionale Kulinarik unkompliziert miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Website deinen Wunschtermin aus und sichere dir das Erlebnis-Paket mit wenigen Klicks online.",
-          "ts": "2026-09-17 21:45",
+          "text": "**WAS:** \nMobile PV-Anlagen-Reinigung und Sichtprüfung speziell für landwirtschaftliche Nutzgebäude und Einfamilienhäuser.\n\n**WARUM HIER:** \nIn Kirtorf und seinen sieben Ortsteilen gibt es unzählige ertragsgeschwächte Scheunen-Solaranlagen, die durch Agrar-Staub verschmutzt sind, aber von großen Fachbetrieben wegen zu kleiner Auftragsgrößen ignoriert werden.\n\n**ERSTER SCHRITT:** \nLeihe dir ein professionelles Teleskop-Reinigungsset und biete zwei Landwirten in Ober-Gleen oder Wahlen eine kostenlose Test-Reinigung einer Modulreihe gegen eine Vorher-Nachher-Ertragsmessung als Referenz an.",
+          "ts": "2026-09-17 23:43",
           "age_min": 0
         }
       ]
     },
     {
       "id": "Kunden",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-grebenhain",
-          "title": "Senioren-Alltagsdienste — Grebenhain  ·  Kunden",
+          "agent": "senioren-kirtorf",
+          "title": "Senioren-Alltagsdienste — Kirtorf  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS**  \nDer „Grebenhainer Dorf-Begleiter“ ist ein mobiler Fahrdienst mit integrierter Alltagsunterstützung, der Seniorinnen und Senioren direkt an der Haustür abholt und sie respektvoll bei Einkäufen, Arztbesuchen oder sozialen Treffen begleitet.\n\n**WARUM HIER**  \nIn einer weitläufigen Gemeinde aus 15 verstreuten Ortsteilen im Vogelsberg schließt dieses Angebot die Lücke des ausgedünnten Nahverkehrs und bewahrt die Selbstständigkeit der Menschen in ihrem gewohnten Umfeld.\n\n**ERSTER SCHRITT**  \nGemeinsam mit den lokalen Ortsbeiräten wird eine Bedarfsanalyse gestartet, um feste Wochentage für die einzelnen Ortsteile festzulegen und erste verlässliche Fahrteams aufzubauen.",
-          "ts": "2026-09-17 21:45",
+          "text": "**WAS:** Ein mobiler, ehrenamtlich getragener Nachbarschafts-Kurier, der Senioren aus den Ortsteilen für Einkäufe, Arztbesuche und kleine Besorgungen würdevoll und direkt an der Haustür abholt.\n\n**WARUM HIER:** Da Kirtorf aus mehreren weit verstreuten Ortsteilen ohne eigene Nahversorgung besteht, bewahrt dieser Dienst die geschätzte Selbstständigkeit der Älteren im gewohnten Zuhause.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Stadtverwaltung Kirtorf und den Ortsbeiräten wird ein runder Tisch einberufen, um den konkreten Transportbedarf zu kartieren und engagierte Fahrer aus den Dörfern zu gewinnen.",
+          "ts": "2026-09-17 23:43",
+          "age_min": 0
+        },
+        {
+          "dept": "Kunden",
+          "agent": "senioren-homberg-ohm",
+          "title": "Senioren-Alltagsdienste — Homberg (Ohm)  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:**\nEin verlässlicher Dorf-Begleit- und Fahrdienst („Ohm-Mobil“), der ältere Menschen barrierefrei aus den Ortsteilen abholt, bei Arztbesuchen oder Einkäufen im Kernort unterstützt und wieder sicher nach Hause bringt.\n\n**WARUM HIER:**\nDie 13 weit verstreuten Ortsteile von Homberg (Ohm) erschweren ohne eigenes Auto den Zugang zur Grundversorgung im Hauptort, wodurch Senioren in den Außendörfern schlechter am gesellschaftlichen Leben teilhaben können.\n\n**ERSTER SCHRITT:**\nGemeinsam mit den örtlichen Ortsbeiräten wird ein Runder Tisch einberufen, um den genauen Bedarf in den einzelnen Dörfern zu erheben und ehrenamtliche Fahrerinnen und Fahrer aus der Nachbarschaft zu gewinnen.",
+          "ts": "2026-09-17 23:43",
           "age_min": 0
         }
       ]
