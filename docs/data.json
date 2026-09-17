@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-17T09:47Z",
+  "updated": "2026-09-17T14:36Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Eine zweiwöchentliche „Vulkan-Genussbox“ im Frische-Abo mit ehrlichen Produkten wie Vogelsberger Käse, Hausmacher Wurst, Holzofenbrot und Saison-Gemüse direkt von Höfen aus dem Umkreis. **für WEN:** Für beschäftigte Familien und Senioren aus Grebenhain und den Ortsteilen sowie für Besitzer von Wochenend- und Ferienhäusern im Vogelsberg, die ohne Auf",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -341,27 +337,27 @@
       "name": "Chancen-Scout — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Pannendienst und Gepäcktransfer-Service für Touristen entlang des Vulkanradwegs. **WARUM HIER:** Grebenhain ist ein zentraler Etappenort des stark frequentierten Vulkanradwegs, weist aber eine",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-grebenhain",
       "name": "Handwerk-Sichtbarkeit — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbetrieb** (mit Fokus auf Wärmepumpen-Umrüstung und Badsanierungen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Grebenhain und Umgebung nach ein",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grebenhain",
       "name": "Direktvermarktung — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine zweiwöchentliche „Vulkan-Genussbox“ im Frische-Abo mit ehrlichen Produkten wie Vogelsberger Käse, Hausmacher Wurst, Holzofenbrot und Saison-Gemüse direkt von Höfen aus dem Umkreis. **für WEN:** Für beschäft",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-grebenhain",
@@ -1502,30 +1498,5 @@
     "used": 6,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Eine zweiwöchentliche „Vulkan-Genussbox“ im Frische-Abo mit ehrlichen Produkten wie Vogelsberger Käse, Hausmacher Wurst, Holzofenbrot und Saison-Gemüse direkt von Höfen aus dem Umkreis. **für WEN:** Für beschäftigte Familien und Senioren aus Grebenhain und den Ortsteilen sowie für Besitzer von Wochenend- und Ferienhäusern im Vogelsberg, die ohne Auf",
-      "ts": "2026-09-17 09:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-grebenhain",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbetrieb** (mit Fokus auf Wärmepumpen-Umrüstung und Badsanierungen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Grebenhain und Umgebung nach einer neuen Heizung oder Badsanierung googeln, landen sie aktuell meist bei Betrieben aus Lauterbach oder Fulda – wollen wir dafür sorgen, dass",
-      "ts": "2026-09-17 09:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannendienst und Gepäcktransfer-Service für Touristen entlang des Vulkanradwegs. **WARUM HIER:** Grebenhain ist ein zentraler Etappenort des stark frequentierten Vulkanradwegs, weist aber eine deutliche Lücke bei schnellen, mobilen Werkstatt- und Logistikangeboten direkt an der Strecke auf. **ERSTER SCHRITT:** Statte einen vorhand",
-      "ts": "2026-09-17 09:47",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }

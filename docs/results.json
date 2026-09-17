@@ -1,69 +1,7 @@
 {
-  "updated": "2026-09-17 09:47 UTC",
-  "total_results": 3,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-grebenhain",
-      "title": "Direktvermarktung — Grebenhain  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nEine zweiwöchentliche „Vulkan-Genussbox“ im Frische-Abo mit ehrlichen Produkten wie Vogelsberger Käse, Hausmacher Wurst, Holzofenbrot und Saison-Gemüse direkt von Höfen aus dem Umkreis.\n\n**für WEN:** \nFür beschäftigte Familien und Senioren aus Grebenhain und den Ortsteilen sowie für Besitzer von Wochenend- und Ferienhäusern im Vogelsberg, die ohne Aufwand echt regional einkaufen wollen.\n\n**ERSTER SCHRITT:** \nMit zwei, drei befreundeten Landwirten und dem lokalen Bäcker an einen Tisch setzen, um den Inhalt und die Logistik für ein erstes, einfaches Test-Paket abzusprechen.",
-      "ts": "2026-09-17 09:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-grebenhain",
-      "title": "Handwerk-Sichtbarkeit — Grebenhain  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:**  \nEin örtlicher **Sanitär- und Heizungsbetrieb** (mit Fokus auf Wärmepumpen-Umrüstung und Badsanierungen).\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo [Name], wenn Hausbesitzer aus Grebenhain und Umgebung nach einer neuen Heizung oder Badsanierung googeln, landen sie aktuell meist bei Betrieben aus Lauterbach oder Fulda – wollen wir dafür sorgen, dass die lukrativen Anfragen aus der direkten Nachbarschaft wieder bei Ihnen landen?“",
-      "ts": "2026-09-17 09:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-grebenhain",
-      "title": "Chancen-Scout — Grebenhain  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannendienst und Gepäcktransfer-Service für Touristen entlang des Vulkanradwegs.\n\n**WARUM HIER:** Grebenhain ist ein zentraler Etappenort des stark frequentierten Vulkanradwegs, weist aber eine deutliche Lücke bei schnellen, mobilen Werkstatt- und Logistikangeboten direkt an der Strecke auf.\n\n**ERSTER SCHRITT:** Statte einen vorhandenen Kombi oder Transporter mit E-Bike-Grundwerkzeug aus und vereinbare mit den drei größten lokalen Pensionen die Auslage deiner Notfall-Flyer.",
-      "ts": "2026-09-17 09:47",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 3,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "direkt-grebenhain",
-          "title": "Direktvermarktung — Grebenhain  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nEine zweiwöchentliche „Vulkan-Genussbox“ im Frische-Abo mit ehrlichen Produkten wie Vogelsberger Käse, Hausmacher Wurst, Holzofenbrot und Saison-Gemüse direkt von Höfen aus dem Umkreis.\n\n**für WEN:** \nFür beschäftigte Familien und Senioren aus Grebenhain und den Ortsteilen sowie für Besitzer von Wochenend- und Ferienhäusern im Vogelsberg, die ohne Aufwand echt regional einkaufen wollen.\n\n**ERSTER SCHRITT:** \nMit zwei, drei befreundeten Landwirten und dem lokalen Bäcker an einen Tisch setzen, um den Inhalt und die Logistik für ein erstes, einfaches Test-Paket abzusprechen.",
-          "ts": "2026-09-17 09:47",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-grebenhain",
-          "title": "Handwerk-Sichtbarkeit — Grebenhain  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:**  \nEin örtlicher **Sanitär- und Heizungsbetrieb** (mit Fokus auf Wärmepumpen-Umrüstung und Badsanierungen).\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo [Name], wenn Hausbesitzer aus Grebenhain und Umgebung nach einer neuen Heizung oder Badsanierung googeln, landen sie aktuell meist bei Betrieben aus Lauterbach oder Fulda – wollen wir dafür sorgen, dass die lukrativen Anfragen aus der direkten Nachbarschaft wieder bei Ihnen landen?“",
-          "ts": "2026-09-17 09:47",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-grebenhain",
-          "title": "Chancen-Scout — Grebenhain  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler E-Bike-Pannendienst und Gepäcktransfer-Service für Touristen entlang des Vulkanradwegs.\n\n**WARUM HIER:** Grebenhain ist ein zentraler Etappenort des stark frequentierten Vulkanradwegs, weist aber eine deutliche Lücke bei schnellen, mobilen Werkstatt- und Logistikangeboten direkt an der Strecke auf.\n\n**ERSTER SCHRITT:** Statte einen vorhandenen Kombi oder Transporter mit E-Bike-Grundwerkzeug aus und vereinbare mit den drei größten lokalen Pensionen die Auslage deiner Notfall-Flyer.",
-          "ts": "2026-09-17 09:47",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-09-17 14:36 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }
