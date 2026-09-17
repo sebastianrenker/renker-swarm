@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-16T21:51Z",
+  "updated": "2026-09-17T00:01Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Das Paket „Vulkan-Thermal-Auszeit“ kombiniert eine geführte Entdeckertour zu den geheimnisvollen Basaltfelsen Herbsteins mit einem entspannenden Nachmittag in der Vulkan-Therme und einem regional gepackten Picknick-Rucksack. **FÜR WEN:** Dieses Angebot eignet sich ideal für Paare und erholungssuchende Naturbegeisterte, die Vulkan-Geologie, Bewegung ",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Dorf-Begleitservice, der ältere Menschen aus den Ortsteilen auf Augenhöhe zu Besorgungen, Arztterminen und sozialen Treffpunkten im Kernort bringt und wieder nach Hause begleitet. **WARUM HIER:** In den acht weit verstreuten Ortsteilen von Herbstein fehlt zunehmend die Infrastruktur vor Ort, sodass Senioren ohne eigenes Auto isoliert sin",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -310,27 +318,27 @@
       "name": "Direktvermarktung — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine „Herbsteiner Sonntags-Kiste“ im flexiblen Abo mit frischen regionalen Eiern, Hausmacher Wurst, Hof-Käse und handgemachtem Landbrot, samstags direkt an die Haustür geliefert. **für WEN:** Für beschäftigte Fa",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-herbstein",
       "name": "Vulkanregion-Tourismus — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Paket „Vulkan-Thermal-Auszeit“ kombiniert eine geführte Entdeckertour zu den geheimnisvollen Basaltfelsen Herbsteins mit einem entspannenden Nachmittag in der Vulkan-Therme und einem regional gepackten Pickn",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-herbstein",
       "name": "Senioren-Alltagsdienste — Herbstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Dorf-Begleitservice, der ältere Menschen aus den Ortsteilen auf Augenhöhe zu Besorgungen, Arztterminen und sozialen Treffpunkten im Kernort bringt und wieder nach Hause begleitet. **WARUM HIER:** In ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grebenhain",
@@ -1495,8 +1503,33 @@
     }
   ],
   "budget": {
-    "used": 24,
+    "used": 3,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Dorf-Begleitservice, der ältere Menschen aus den Ortsteilen auf Augenhöhe zu Besorgungen, Arztterminen und sozialen Treffpunkten im Kernort bringt und wieder nach Hause begleitet. **WARUM HIER:** In den acht weit verstreuten Ortsteilen von Herbstein fehlt zunehmend die Infrastruktur vor Ort, sodass Senioren ohne eigenes Auto isoliert sin",
+      "ts": "2026-09-17 00:01",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Das Paket „Vulkan-Thermal-Auszeit“ kombiniert eine geführte Entdeckertour zu den geheimnisvollen Basaltfelsen Herbsteins mit einem entspannenden Nachmittag in der Vulkan-Therme und einem regional gepackten Picknick-Rucksack. **FÜR WEN:** Dieses Angebot eignet sich ideal für Paare und erholungssuchende Naturbegeisterte, die Vulkan-Geologie, Bewegung ",
+      "ts": "2026-09-17 00:01",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Eine „Herbsteiner Sonntags-Kiste“ im flexiblen Abo mit frischen regionalen Eiern, Hausmacher Wurst, Hof-Käse und handgemachtem Landbrot, samstags direkt an die Haustür geliefert. **für WEN:** Für beschäftigte Familien und Senioren aus Herbstein und den Ortsteilen, die ehrliche Vogelsberger Lebensmittel schätzen, sich aber den Weg zu fünf verschieden",
+      "ts": "2026-09-17 00:01",
+      "age_min": 0
+    }
+  ]
 }
