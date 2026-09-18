@@ -1,33 +1,7 @@
 {
-  "updated": "2026-09-18 06:39 UTC",
-  "total_results": 1,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-muecke",
-      "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein regionaler **Dachdeckerbetrieb** in Mücke (spezialisiert auf Dachreparaturen, Energetische Sanierung & PV-Montage).\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Mücker Hausbesitzer auf dem Handy nach einer schnellen Dachreparatur suchen, landen sie aktuell bei der Konkurrenz aus der Nachbarstadt – wollen wir dafür sorgen, dass Ihr Betrieb auf Google regional ganz oben steht und die Aufträge hier vor Ort bleiben?“",
-      "ts": "2026-09-18 06:39",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-muecke",
-          "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Ein regionaler **Dachdeckerbetrieb** in Mücke (spezialisiert auf Dachreparaturen, Energetische Sanierung & PV-Montage).\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Mücker Hausbesitzer auf dem Handy nach einer schnellen Dachreparatur suchen, landen sie aktuell bei der Konkurrenz aus der Nachbarstadt – wollen wir dafür sorgen, dass Ihr Betrieb auf Google regional ganz oben steht und die Aufträge hier vor Ort bleiben?“",
-          "ts": "2026-09-18 06:39",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-09-18 11:49 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }

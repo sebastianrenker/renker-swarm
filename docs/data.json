@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-18T06:39Z",
+  "updated": "2026-09-18T11:49Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** Ein regionaler **Dachdeckerbetrieb** in Mücke (spezialisiert auf Dachreparaturen, Energetische Sanierung & PV-Montage). **Ansprache-Idee:** „Hallo Herr [Name], wenn Mücker Hausbesitzer auf dem Handy nach einer schnellen Dachreparatur suchen, landen sie aktuell bei der Konkurrenz aus der Nachbarstadt – wollen wir dafür sorgen, dass Ihr Betrie",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -485,9 +481,9 @@
       "name": "Handwerk-Sichtbarkeit — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein regionaler **Dachdeckerbetrieb** in Mücke (spezialisiert auf Dachreparaturen, Energetische Sanierung & PV-Montage). **Ansprache-Idee:** „Hallo Herr [Name], wenn Mücker Hausbesitzer auf dem Handy nach",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-muecke",
@@ -1502,14 +1498,5 @@
     "used": 2,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-muecke",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein regionaler **Dachdeckerbetrieb** in Mücke (spezialisiert auf Dachreparaturen, Energetische Sanierung & PV-Montage). **Ansprache-Idee:** „Hallo Herr [Name], wenn Mücker Hausbesitzer auf dem Handy nach einer schnellen Dachreparatur suchen, landen sie aktuell bei der Konkurrenz aus der Nachbarstadt – wollen wir dafür sorgen, dass Ihr Betrie",
-      "ts": "2026-09-18 06:39",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
