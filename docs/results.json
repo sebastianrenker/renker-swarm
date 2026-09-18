@@ -1,7 +1,129 @@
 {
-  "updated": "2026-09-18 18:38 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-18 21:16 UTC",
+  "total_results": 6,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-romrod",
+      "title": "Direktvermarktung — Romrod  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Hofprodukten wie Hausmacher Wurst, Käse, Brot und Saison-Gemüse von Erzeugern direkt aus dem Romroder Umland.\n\n**FÜR WEN:** Das Angebot richtet sich an beschäftigte Pendler und Familien aus der Region, die nach dem Feierabend ohne Supermarkt-Stress gute Lebensmittel vom Bauern nebenan auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Zwei lokale Höfe und einen Bäcker für ein erstes gemeinsames Probepaket gewinnen und dieses über Aushänge beim Bäcker sowie regionale WhatsApp-Gruppen an die ersten 20 Test-Haushalte verkaufen.",
+      "ts": "2026-09-18 21:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-romrod",
+      "title": "Handwerk-Sichtbarkeit — Romrod  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb)\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Eigenheimbesitzer aus Romrod auf dem Handy nach einer neuen Heizung oder Badsanierung suchen, finden sie aktuell oft zuerst die Konkurrenz aus Alsfeld – lassen Sie uns dafür sorgen, dass der nächste Auftrag direkt bei Ihnen landet.“",
+      "ts": "2026-09-18 21:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-romrod",
+      "title": "Chancen-Scout — Romrod  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein lokaler On-Demand-Service für Deko-Aufbau, Notfall-Besorgungen und Zusatzleistungen (wie Gästeshuttle oder Hundesitting) speziell für Hochzeits- und Eventgesellschaften.\n\n**WARUM HIER:** Schloss Romrod ist ein überregional bekannter Hotspot für Hochzeiten und Tagungen, bei dem auswärtige Veranstalter und Brautpaare dringend verlässliche Hände vor Ort ohne teure Anfahrtskosten suchen.\n\n**ERSTER SCHRITT:** Das Event-Team von Schloss Romrod kontaktieren, die typischen Engpässe der Brautpaare erfragen und ein einfaches Service-Blatt für deren Buchungsmappe erstellen.",
+      "ts": "2026-09-18 21:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-muecke",
+      "title": "Senioren-Alltagsdienste — Muecke  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher Dorf-Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, vertraut zu Terminen begleitet und ihnen das Einkaufen im Hauptort in ihrem eigenen Tempo ermöglicht.\n\n**WARUM HIER:** Die zwölf weit verstreuten Ortsteile von Mücke erschweren ohne eigenes Auto den Zugang zur medizinischen und täglichen Versorgung erheblich.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit der Gemeinde Mücke wird eine einfache, feste Telefonstunde zur Bedarfsanmeldung eingerichtet und im örtlichen Mitteilungsblatt bekannt gemacht.",
+      "ts": "2026-09-18 21:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-muecke",
+      "title": "Vulkanregion-Tourismus — Muecke  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Erleben Sie eine geführte Feierabend-Alpaka-Wanderung durch die Mücker Natur mit anschließendem Picknick aus regionalen Vogelsberger Spezialitäten.\n\n**für WEN:** Dieses Angebot ist ideal für Paare, Familien und Alltagsgestresste, die eine kleine, entschleunigende Auszeit im Grünen suchen.\n\n**ERSTER SCHRITT:** Wählen Sie Ihren Wunschtermin im Online-Kalender aus und sichere Sie sich Ihr digitales Ticket mit direkter Sofortbestätigung.",
+      "ts": "2026-09-18 21:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-muecke",
+      "title": "Direktvermarktung — Muecke  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDie „Mücker Feierabend-Kiste“ ist ein wöchentliches Abo-Päckchen vollgepackt mit saisonalem Gemüse, Landeiern, frischem Brot und wechselnden Hof-Spezialitäten direkt aus Mücke und dem Vogelsberg.\n\n**FÜR WEN:** \nFür beschäftigte Familien und Pendler an der Bahnstrecke Gießen–Fulda, die ehrliche Landprodukte schätzen, aber unter der Woche keine Zeit für Klapper-Touren von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** \nDrei lokale Erzeuger aus der Nachbarschaft für die Kiste gewinnen, ein bodenständiges Basissortiment schnüren und die Kiste unverbindlich im Bekanntenkreis testen.",
+      "ts": "2026-09-18 21:15",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 5,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "direkt-romrod",
+          "title": "Direktvermarktung — Romrod  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Hofprodukten wie Hausmacher Wurst, Käse, Brot und Saison-Gemüse von Erzeugern direkt aus dem Romroder Umland.\n\n**FÜR WEN:** Das Angebot richtet sich an beschäftigte Pendler und Familien aus der Region, die nach dem Feierabend ohne Supermarkt-Stress gute Lebensmittel vom Bauern nebenan auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Zwei lokale Höfe und einen Bäcker für ein erstes gemeinsames Probepaket gewinnen und dieses über Aushänge beim Bäcker sowie regionale WhatsApp-Gruppen an die ersten 20 Test-Haushalte verkaufen.",
+          "ts": "2026-09-18 21:16",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-romrod",
+          "title": "Handwerk-Sichtbarkeit — Romrod  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb)\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Eigenheimbesitzer aus Romrod auf dem Handy nach einer neuen Heizung oder Badsanierung suchen, finden sie aktuell oft zuerst die Konkurrenz aus Alsfeld – lassen Sie uns dafür sorgen, dass der nächste Auftrag direkt bei Ihnen landet.“",
+          "ts": "2026-09-18 21:16",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-romrod",
+          "title": "Chancen-Scout — Romrod  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein lokaler On-Demand-Service für Deko-Aufbau, Notfall-Besorgungen und Zusatzleistungen (wie Gästeshuttle oder Hundesitting) speziell für Hochzeits- und Eventgesellschaften.\n\n**WARUM HIER:** Schloss Romrod ist ein überregional bekannter Hotspot für Hochzeiten und Tagungen, bei dem auswärtige Veranstalter und Brautpaare dringend verlässliche Hände vor Ort ohne teure Anfahrtskosten suchen.\n\n**ERSTER SCHRITT:** Das Event-Team von Schloss Romrod kontaktieren, die typischen Engpässe der Brautpaare erfragen und ein einfaches Service-Blatt für deren Buchungsmappe erstellen.",
+          "ts": "2026-09-18 21:15",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-muecke",
+          "title": "Vulkanregion-Tourismus — Muecke  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Erleben Sie eine geführte Feierabend-Alpaka-Wanderung durch die Mücker Natur mit anschließendem Picknick aus regionalen Vogelsberger Spezialitäten.\n\n**für WEN:** Dieses Angebot ist ideal für Paare, Familien und Alltagsgestresste, die eine kleine, entschleunigende Auszeit im Grünen suchen.\n\n**ERSTER SCHRITT:** Wählen Sie Ihren Wunschtermin im Online-Kalender aus und sichere Sie sich Ihr digitales Ticket mit direkter Sofortbestätigung.",
+          "ts": "2026-09-18 21:15",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-muecke",
+          "title": "Direktvermarktung — Muecke  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDie „Mücker Feierabend-Kiste“ ist ein wöchentliches Abo-Päckchen vollgepackt mit saisonalem Gemüse, Landeiern, frischem Brot und wechselnden Hof-Spezialitäten direkt aus Mücke und dem Vogelsberg.\n\n**FÜR WEN:** \nFür beschäftigte Familien und Pendler an der Bahnstrecke Gießen–Fulda, die ehrliche Landprodukte schätzen, aber unter der Woche keine Zeit für Klapper-Touren von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** \nDrei lokale Erzeuger aus der Nachbarschaft für die Kiste gewinnen, ein bodenständiges Basissortiment schnüren und die Kiste unverbindlich im Bekanntenkreis testen.",
+          "ts": "2026-09-18 21:15",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-muecke",
+          "title": "Senioren-Alltagsdienste — Muecke  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein verlässlicher Dorf-Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, vertraut zu Terminen begleitet und ihnen das Einkaufen im Hauptort in ihrem eigenen Tempo ermöglicht.\n\n**WARUM HIER:** Die zwölf weit verstreuten Ortsteile von Mücke erschweren ohne eigenes Auto den Zugang zur medizinischen und täglichen Versorgung erheblich.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit der Gemeinde Mücke wird eine einfache, feste Telefonstunde zur Bedarfsanmeldung eingerichtet und im örtlichen Mitteilungsblatt bekannt gemacht.",
+          "ts": "2026-09-18 21:15",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
