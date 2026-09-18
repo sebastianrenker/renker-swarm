@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-18 01:33 UTC",
+  "updated": "2026-09-18 06:39 UTC",
   "total_results": 1,
   "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-muecke",
-      "title": "Chancen-Scout — Muecke  ·  Chancen",
+      "agent": "handwerk-muecke",
+      "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Verleih- und Lieferservice für Profi-Garten- und Baugeräte (z. B. Vertikutierer, Bautrockner, Häcksler) direkt vor die Haustür.\n\n**WARUM HIER:** \nDie vielen Eigenheimbesitzer in den zwölf weitläufigen Ortsteilen von Mücke haben keinen Baumarkt im Ort und sparen sich so die zeitintensiven Fahrten nach Alsfeld oder Gießen.\n\n**ERSTER SCHRITT:** \nEinen gebrauchten Anhänger sowie drei extrem gefragte Saison-Geräte anschaffen und das Angebot zielgerichtet in den lokalen WhatsApp-Ortsteilgruppen und auf Kleinanzeigen bewerben.",
-      "ts": "2026-09-18 01:33",
+      "text": "**Betriebstyp:** Ein regionaler **Dachdeckerbetrieb** in Mücke (spezialisiert auf Dachreparaturen, Energetische Sanierung & PV-Montage).\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Mücker Hausbesitzer auf dem Handy nach einer schnellen Dachreparatur suchen, landen sie aktuell bei der Konkurrenz aus der Nachbarstadt – wollen wir dafür sorgen, dass Ihr Betrieb auf Google regional ganz oben steht und die Aufträge hier vor Ort bleiben?“",
+      "ts": "2026-09-18 06:39",
       "age_min": 0
     }
   ],
@@ -20,11 +20,11 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-muecke",
-          "title": "Chancen-Scout — Muecke  ·  Chancen",
+          "agent": "handwerk-muecke",
+          "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Verleih- und Lieferservice für Profi-Garten- und Baugeräte (z. B. Vertikutierer, Bautrockner, Häcksler) direkt vor die Haustür.\n\n**WARUM HIER:** \nDie vielen Eigenheimbesitzer in den zwölf weitläufigen Ortsteilen von Mücke haben keinen Baumarkt im Ort und sparen sich so die zeitintensiven Fahrten nach Alsfeld oder Gießen.\n\n**ERSTER SCHRITT:** \nEinen gebrauchten Anhänger sowie drei extrem gefragte Saison-Geräte anschaffen und das Angebot zielgerichtet in den lokalen WhatsApp-Ortsteilgruppen und auf Kleinanzeigen bewerben.",
-          "ts": "2026-09-18 01:33",
+          "text": "**Betriebstyp:** Ein regionaler **Dachdeckerbetrieb** in Mücke (spezialisiert auf Dachreparaturen, Energetische Sanierung & PV-Montage).\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Mücker Hausbesitzer auf dem Handy nach einer schnellen Dachreparatur suchen, landen sie aktuell bei der Konkurrenz aus der Nachbarstadt – wollen wir dafür sorgen, dass Ihr Betrieb auf Google regional ganz oben steht und die Aufträge hier vor Ort bleiben?“",
+          "ts": "2026-09-18 06:39",
           "age_min": 0
         }
       ]

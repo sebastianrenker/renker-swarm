@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T01:33Z",
+  "updated": "2026-09-18T06:39Z",
   "agents_total": 162,
   "worked": 1,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Verleih- und Lieferservice für Profi-Garten- und Baugeräte (z. B. Vertikutierer, Bautrockner, Häcksler) direkt vor die Haustür. **WARUM HIER:** Die vielen Eigenheimbesitzer in den zwölf weitläufigen Ortsteilen von Mücke haben keinen Baumarkt im Ort und sparen sich so die zeitintensiven Fahrten nach Alsfeld oder Gießen. **ERSTER SCHRITT:*",
+        "text": "**Betriebstyp:** Ein regionaler **Dachdeckerbetrieb** in Mücke (spezialisiert auf Dachreparaturen, Energetische Sanierung & PV-Montage). **Ansprache-Idee:** „Hallo Herr [Name], wenn Mücker Hausbesitzer auf dem Handy nach einer schnellen Dachreparatur suchen, landen sie aktuell bei der Konkurrenz aus der Nachbarstadt – wollen wir dafür sorgen, dass Ihr Betrie",
         "age_min": 0
       }
     },
@@ -476,18 +476,18 @@
       "name": "Chancen-Scout — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Verleih- und Lieferservice für Profi-Garten- und Baugeräte (z. B. Vertikutierer, Bautrockner, Häcksler) direkt vor die Haustür. **WARUM HIER:** Die vielen Eigenheimbesitzer in den zwölf weitläufigen ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-muecke",
       "name": "Handwerk-Sichtbarkeit — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein regionaler **Dachdeckerbetrieb** in Mücke (spezialisiert auf Dachreparaturen, Energetische Sanierung & PV-Montage). **Ansprache-Idee:** „Hallo Herr [Name], wenn Mücker Hausbesitzer auf dem Handy nach",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-muecke",
@@ -1499,16 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 1,
+    "used": 2,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-muecke",
+      "agent": "handwerk-muecke",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Verleih- und Lieferservice für Profi-Garten- und Baugeräte (z. B. Vertikutierer, Bautrockner, Häcksler) direkt vor die Haustür. **WARUM HIER:** Die vielen Eigenheimbesitzer in den zwölf weitläufigen Ortsteilen von Mücke haben keinen Baumarkt im Ort und sparen sich so die zeitintensiven Fahrten nach Alsfeld oder Gießen. **ERSTER SCHRITT:*",
-      "ts": "2026-09-18 01:33",
+      "text": "**Betriebstyp:** Ein regionaler **Dachdeckerbetrieb** in Mücke (spezialisiert auf Dachreparaturen, Energetische Sanierung & PV-Montage). **Ansprache-Idee:** „Hallo Herr [Name], wenn Mücker Hausbesitzer auf dem Handy nach einer schnellen Dachreparatur suchen, landen sie aktuell bei der Konkurrenz aus der Nachbarstadt – wollen wir dafür sorgen, dass Ihr Betrie",
+      "ts": "2026-09-18 06:39",
       "age_min": 0
     }
   ]
