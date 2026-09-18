@@ -1,126 +1,30 @@
 {
-  "updated": "2026-09-17 23:43 UTC",
-  "total_results": 6,
-  "total_depts": 2,
+  "updated": "2026-09-18 01:33 UTC",
+  "total_results": 1,
+  "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-kirtorf",
-      "title": "Senioren-Alltagsdienste — Kirtorf  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler, ehrenamtlich getragener Nachbarschafts-Kurier, der Senioren aus den Ortsteilen für Einkäufe, Arztbesuche und kleine Besorgungen würdevoll und direkt an der Haustür abholt.\n\n**WARUM HIER:** Da Kirtorf aus mehreren weit verstreuten Ortsteilen ohne eigene Nahversorgung besteht, bewahrt dieser Dienst die geschätzte Selbstständigkeit der Älteren im gewohnten Zuhause.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Stadtverwaltung Kirtorf und den Ortsbeiräten wird ein runder Tisch einberufen, um den konkreten Transportbedarf zu kartieren und engagierte Fahrer aus den Dörfern zu gewinnen.",
-      "ts": "2026-09-17 23:43",
-      "age_min": 0
-    },
-    {
       "dept": "Chancen",
-      "agent": "tourismus-kirtorf",
-      "title": "Vulkanregion-Tourismus — Kirtorf  ·  Chancen",
+      "agent": "chancen-muecke",
+      "title": "Chancen-Scout — Muecke  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein geführter Orientierungs-Spaziergang zu den basaltischen Naturdenkmälern Kirtorfs inklusive eines vollgepackten Rucksacks mit regionalen Spezialitäten aus der Vulkanregion.\n\n**für WEN:** Dieses Paket richtet sich an Genusswanderer, Paare und kleine Familien, die Naturerlebnis und regionale Kulinarik unkompliziert miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Buche deinen Wunschtermin online auf unserer Plattform und wähle dabei direkt deine bevorzugte Picknick-Variante (klassisch oder vegetarisch) aus.",
-      "ts": "2026-09-17 23:43",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-kirtorf",
-      "title": "Direktvermarktung — Kirtorf  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein flexibles Wochenabo mit saisonalem Gemüsemix, Eiern, Hausmacher Wurst und frischem Landbrot, das wöchentlich an einer zentralen Pick-up-Station in Kirtorf gekühlt bereitsteht.\n\n**fuer WEN:** Für berufstätige Pendler und Familien aus Kirtorf und den Ortsteilen, die ehrliche Hofprodukte schätzen, aber unter der Woche keine Zeit für Klapperfahrten von Hof zu Hof haben.\n\n**ERSTER SCHRITT:** Drei befreundete Erzeuger aus dem Kirtorfer Umland für die Kisten-Inhalte gewinnen und eine einfache WhatsApp-Bestellgruppe mit 15 Test-Haushalten für den ersten Durchlauf starten.",
-      "ts": "2026-09-17 23:43",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-kirtorf",
-      "title": "Handwerk-Sichtbarkeit — Kirtorf  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. spezialisiert auf Badsanierung und moderne Heiztechniken wie Wärmepumpen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], immer mehr Hausbesitzer rund um Kirtorf suchen online nach Experten für Wärmepumpen und Badsanierung – sorgen wir dafür, dass diese lukrativen Aufträge direkt bei Ihnen landen und nicht bei der Konkurrenz aus Alsfeld oder Stadtallendorf.“",
-      "ts": "2026-09-17 23:43",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-kirtorf",
-      "title": "Chancen-Scout — Kirtorf  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nMobile PV-Anlagen-Reinigung und Sichtprüfung speziell für landwirtschaftliche Nutzgebäude und Einfamilienhäuser.\n\n**WARUM HIER:** \nIn Kirtorf und seinen sieben Ortsteilen gibt es unzählige ertragsgeschwächte Scheunen-Solaranlagen, die durch Agrar-Staub verschmutzt sind, aber von großen Fachbetrieben wegen zu kleiner Auftragsgrößen ignoriert werden.\n\n**ERSTER SCHRITT:** \nLeihe dir ein professionelles Teleskop-Reinigungsset und biete zwei Landwirten in Ober-Gleen oder Wahlen eine kostenlose Test-Reinigung einer Modulreihe gegen eine Vorher-Nachher-Ertragsmessung als Referenz an.",
-      "ts": "2026-09-17 23:43",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-homberg-ohm",
-      "title": "Senioren-Alltagsdienste — Homberg (Ohm)  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:**\nEin verlässlicher Dorf-Begleit- und Fahrdienst („Ohm-Mobil“), der ältere Menschen barrierefrei aus den Ortsteilen abholt, bei Arztbesuchen oder Einkäufen im Kernort unterstützt und wieder sicher nach Hause bringt.\n\n**WARUM HIER:**\nDie 13 weit verstreuten Ortsteile von Homberg (Ohm) erschweren ohne eigenes Auto den Zugang zur Grundversorgung im Hauptort, wodurch Senioren in den Außendörfern schlechter am gesellschaftlichen Leben teilhaben können.\n\n**ERSTER SCHRITT:**\nGemeinsam mit den örtlichen Ortsbeiräten wird ein Runder Tisch einberufen, um den genauen Bedarf in den einzelnen Dörfern zu erheben und ehrenamtliche Fahrerinnen und Fahrer aus der Nachbarschaft zu gewinnen.",
-      "ts": "2026-09-17 23:43",
+      "text": "**WAS:** \nEin mobiler Verleih- und Lieferservice für Profi-Garten- und Baugeräte (z. B. Vertikutierer, Bautrockner, Häcksler) direkt vor die Haustür.\n\n**WARUM HIER:** \nDie vielen Eigenheimbesitzer in den zwölf weitläufigen Ortsteilen von Mücke haben keinen Baumarkt im Ort und sparen sich so die zeitintensiven Fahrten nach Alsfeld oder Gießen.\n\n**ERSTER SCHRITT:** \nEinen gebrauchten Anhänger sowie drei extrem gefragte Saison-Geräte anschaffen und das Angebot zielgerichtet in den lokalen WhatsApp-Ortsteilgruppen und auf Kleinanzeigen bewerben.",
+      "ts": "2026-09-18 01:33",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 4,
+      "count": 1,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-kirtorf",
-          "title": "Vulkanregion-Tourismus — Kirtorf  ·  Chancen",
+          "agent": "chancen-muecke",
+          "title": "Chancen-Scout — Muecke  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein geführter Orientierungs-Spaziergang zu den basaltischen Naturdenkmälern Kirtorfs inklusive eines vollgepackten Rucksacks mit regionalen Spezialitäten aus der Vulkanregion.\n\n**für WEN:** Dieses Paket richtet sich an Genusswanderer, Paare und kleine Familien, die Naturerlebnis und regionale Kulinarik unkompliziert miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Buche deinen Wunschtermin online auf unserer Plattform und wähle dabei direkt deine bevorzugte Picknick-Variante (klassisch oder vegetarisch) aus.",
-          "ts": "2026-09-17 23:43",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-kirtorf",
-          "title": "Direktvermarktung — Kirtorf  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein flexibles Wochenabo mit saisonalem Gemüsemix, Eiern, Hausmacher Wurst und frischem Landbrot, das wöchentlich an einer zentralen Pick-up-Station in Kirtorf gekühlt bereitsteht.\n\n**fuer WEN:** Für berufstätige Pendler und Familien aus Kirtorf und den Ortsteilen, die ehrliche Hofprodukte schätzen, aber unter der Woche keine Zeit für Klapperfahrten von Hof zu Hof haben.\n\n**ERSTER SCHRITT:** Drei befreundete Erzeuger aus dem Kirtorfer Umland für die Kisten-Inhalte gewinnen und eine einfache WhatsApp-Bestellgruppe mit 15 Test-Haushalten für den ersten Durchlauf starten.",
-          "ts": "2026-09-17 23:43",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-kirtorf",
-          "title": "Handwerk-Sichtbarkeit — Kirtorf  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. spezialisiert auf Badsanierung und moderne Heiztechniken wie Wärmepumpen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], immer mehr Hausbesitzer rund um Kirtorf suchen online nach Experten für Wärmepumpen und Badsanierung – sorgen wir dafür, dass diese lukrativen Aufträge direkt bei Ihnen landen und nicht bei der Konkurrenz aus Alsfeld oder Stadtallendorf.“",
-          "ts": "2026-09-17 23:43",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-kirtorf",
-          "title": "Chancen-Scout — Kirtorf  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nMobile PV-Anlagen-Reinigung und Sichtprüfung speziell für landwirtschaftliche Nutzgebäude und Einfamilienhäuser.\n\n**WARUM HIER:** \nIn Kirtorf und seinen sieben Ortsteilen gibt es unzählige ertragsgeschwächte Scheunen-Solaranlagen, die durch Agrar-Staub verschmutzt sind, aber von großen Fachbetrieben wegen zu kleiner Auftragsgrößen ignoriert werden.\n\n**ERSTER SCHRITT:** \nLeihe dir ein professionelles Teleskop-Reinigungsset und biete zwei Landwirten in Ober-Gleen oder Wahlen eine kostenlose Test-Reinigung einer Modulreihe gegen eine Vorher-Nachher-Ertragsmessung als Referenz an.",
-          "ts": "2026-09-17 23:43",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 2,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-kirtorf",
-          "title": "Senioren-Alltagsdienste — Kirtorf  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler, ehrenamtlich getragener Nachbarschafts-Kurier, der Senioren aus den Ortsteilen für Einkäufe, Arztbesuche und kleine Besorgungen würdevoll und direkt an der Haustür abholt.\n\n**WARUM HIER:** Da Kirtorf aus mehreren weit verstreuten Ortsteilen ohne eigene Nahversorgung besteht, bewahrt dieser Dienst die geschätzte Selbstständigkeit der Älteren im gewohnten Zuhause.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Stadtverwaltung Kirtorf und den Ortsbeiräten wird ein runder Tisch einberufen, um den konkreten Transportbedarf zu kartieren und engagierte Fahrer aus den Dörfern zu gewinnen.",
-          "ts": "2026-09-17 23:43",
-          "age_min": 0
-        },
-        {
-          "dept": "Kunden",
-          "agent": "senioren-homberg-ohm",
-          "title": "Senioren-Alltagsdienste — Homberg (Ohm)  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:**\nEin verlässlicher Dorf-Begleit- und Fahrdienst („Ohm-Mobil“), der ältere Menschen barrierefrei aus den Ortsteilen abholt, bei Arztbesuchen oder Einkäufen im Kernort unterstützt und wieder sicher nach Hause bringt.\n\n**WARUM HIER:**\nDie 13 weit verstreuten Ortsteile von Homberg (Ohm) erschweren ohne eigenes Auto den Zugang zur Grundversorgung im Hauptort, wodurch Senioren in den Außendörfern schlechter am gesellschaftlichen Leben teilhaben können.\n\n**ERSTER SCHRITT:**\nGemeinsam mit den örtlichen Ortsbeiräten wird ein Runder Tisch einberufen, um den genauen Bedarf in den einzelnen Dörfern zu erheben und ehrenamtliche Fahrerinnen und Fahrer aus der Nachbarschaft zu gewinnen.",
-          "ts": "2026-09-17 23:43",
+          "text": "**WAS:** \nEin mobiler Verleih- und Lieferservice für Profi-Garten- und Baugeräte (z. B. Vertikutierer, Bautrockner, Häcksler) direkt vor die Haustür.\n\n**WARUM HIER:** \nDie vielen Eigenheimbesitzer in den zwölf weitläufigen Ortsteilen von Mücke haben keinen Baumarkt im Ort und sparen sich so die zeitintensiven Fahrten nach Alsfeld oder Gießen.\n\n**ERSTER SCHRITT:** \nEinen gebrauchten Anhänger sowie drei extrem gefragte Saison-Geräte anschaffen und das Angebot zielgerichtet in den lokalen WhatsApp-Ortsteilgruppen und auf Kleinanzeigen bewerben.",
+          "ts": "2026-09-18 01:33",
           "age_min": 0
         }
       ]
