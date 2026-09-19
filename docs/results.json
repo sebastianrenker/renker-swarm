@@ -1,126 +1,84 @@
 {
-  "updated": "2026-09-19 01:24 UTC",
-  "total_results": 6,
-  "total_depts": 2,
+  "updated": "2026-09-19 06:14 UTC",
+  "total_results": 4,
+  "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-gemuenden-felda",
-      "title": "Chancen-Scout — Gemuenden (Felda)  ·  Chancen",
+      "agent": "tourismus-gemuenden-felda",
+      "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin automatisierter 24/7-Regiomat-Standort mit integrierter E-Bike-Ladestation und überdachtem Rastplatz für regionale Vogelsberger Spezialitäten, Grillgut und Snacks.\n\n**WARUM HIER:** \nIn den sieben Ortsteilen von Gemünden (Felda) trifft eine ausgedünnte lokale Nahversorgung an Abenden und Wochenenden auf eine hohe Frequenz von Durchgangsverkehr sowie Rad- und Wandertouristen im Feldatal.\n\n**ERSTER SCHRITT:** \nSichern eines gut einsehbaren Pachtgrundstücks (z. B. nahe dem Bahnhof Nieder-Gemünden oder an der B49) und Abschließen von Kommissionierungs-Verträgen mit zwei lokalen Direktvermarktern.",
-      "ts": "2026-09-19 01:24",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-feldatal",
-      "title": "Senioren-Alltagsdienste — Feldatal  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Nachbarschaftsdienst, der feste wöchentliche Fahrten für Einkäufe und Arztbesuche anbietet und die Seniorinnen und Senioren auf Wunsch aufmerksam von der Haustür bis zur Erledigung begleitet.\n\n**WARUM HIER:** \nDa die Ortsteile von Feldatal weit auseinanderliegen und es kaum noch Lebensmittelgeschäfte im Ort gibt, bewahrt dieser Dienst die geschätzte Eigenständigkeit der Menschen in ihrer ländlichen Heimat.\n\n**ERSTER SCHRITT:** \nIn Abstimmung mit der Gemeinde Feldatal ein erstes Vortreffen mit den Ortsvorstehern gestalten, um den genauen Bedarf zu erfassen und hilfsbereite Fahrerinnen und Fahrer aus den Dörfern einzubinden.",
-      "ts": "2026-09-19 01:24",
+      "text": "**WAS:** Das Erlebnis-Paket „Sagenhaftes Feldatal“ kombiniert eine romantische Fackel-Wanderung zur historischen Burg Gemünden mit einer regional gepackten Vesperkiste direkt am Felda-Ufer.\n\n**fuer WEN:** Perfekt geeignet für Paare, kleine Freundesgruppen und Naturgenießer, die eine stimmungsvolle Auszeit vom Alltag mit lokaler Kulinarik im Vogelsberg suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserem Buchungsportal deinen Wunschtermin aus und sichere dir dein Ticket inklusive Fackeln und Vesperbox direkt online.",
+      "ts": "2026-09-19 06:14",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-feldatal",
-      "title": "Vulkanregion-Tourismus — Feldatal  ·  Chancen",
+      "agent": "direkt-gemuenden-felda",
+      "title": "Direktvermarktung — Gemuenden (Felda)  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Das Paket „Basalt & Sterne“ beinhaltet eine geführte Dämmerungswanderung durch die Vulkanlandschaft rund um Feldatal mit anschließendem Picknick voller regionaler Vogelsberger Spezialitäten unter dem Sternenhimmel.\n\n**für WEN:** Es richtet sich an Paare, Naturgenießer und Alltagsaussteiger, die eine romantische und entschleunigende Auszeit in unberührter Natur suchen.\n\n**ERSTER SCHRITT:** Wählen Sie online einfach Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnis-Paket mit wenigen Klicks.",
-      "ts": "2026-09-19 01:24",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit knackigem Saison-Gemüse, frischen Landeiern und Holzofenbrot aus dem Feldatal, kontaktlos abholbereit an einer zentralen 24/7-Hofstation in Gemünden.\n\n**FÜR WEN:** Für beschäftigte Familien und Pendler aus der Region, die unter der Woche ohne Markt-Stress ehrliche, heimische Lebensmittel direkt vom Erzeuger auf den Tisch bringen wollen.\n\n**ERSTER SCHRITT:** Zwei benachbarte Höfe für Eier und Brot an einen Tisch holen, ein einfaches Start-Sortiment festlegen und über den lokalen Dorffunk die ersten 20 Test-Kunden suchen.",
+      "ts": "2026-09-19 06:13",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-romrod",
-      "title": "Vulkanregion-Tourismus — Romrod  ·  Chancen",
+      "agent": "direkt-feldatal",
+      "title": "Direktvermarktung — Feldatal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Bei der geführten E-Bike-Tour „Märchen & Vulkan-Genuss“ erkunden Sie die Wälder rund um Schloss Romrod und genießen ein regionales Gourmet-Picknick direkt am Schlossteich.\n\n**FÜR WEN:** Das Angebot richtet sich an Paare und Naturliebhaber, die eine entspannte Kombination aus Kultur, sanfter Bewegung und regionaler Kulinarik suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin sowie die bevorzugte Picknick-Variante aus und sichern Sie sich Ihr E-Bike mit einem Klick.",
-      "ts": "2026-09-19 01:24",
+      "text": "**WAS:** Die „Feldataler Vesper-Kiste“ – ein wöchentliches Abo mit frischem Holzofenbrot, Vogelsberger Hausmacher Wurst oder Käse sowie saisonalem Gemüse direkt von Höfen aus der Gemeinde.\n\n**fuer WEN:** Für beschäftigte Familien, Pendler und Senioren im Feldatal, die ehrliche Lebensmittel aus der Heimat schätzen, aber unter der Woche keine Zeit haben, jeden Hof einzeln anzufahren.\n\n**ERSTER SCHRITT:** Mit zwei bis drei örtlichen Erzeugern ein einfaches Probepaket zusammenstellen und das Angebot über Mundpropaganda, Dorfgruppen auf WhatsApp und Aushänge testen.",
+      "ts": "2026-09-19 06:13",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-feldatal",
-      "title": "Handwerk-Sichtbarkeit — Feldatal  ·  Chancen",
+      "agent": "handwerk-gemuenden-felda",
+      "title": "Handwerk-Sichtbarkeit — Gemuenden (Felda)  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbauer** in Feldatal.\n\n**Ansprache-Idee:**  \n„Hallo Herr [Name], wenn im Feldatal die Heizung ausfällt oder jemand ein neues Bad plant, greift er zuerst zum Smartphone – lassen Sie uns dafür sorgen, dass dort Ihre Nummer steht und nicht die eines Betriebes aus der nächsten Kreisstadt.“",
-      "ts": "2026-09-19 01:24",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-feldatal",
-      "title": "Chancen-Scout — Feldatal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nMobiles E-Bike-Service- und Verleihmobil („Werkstatt auf Rädern“), das Reparaturen direkt vor Ort bei Anwohnern erledigt und Miet-Pedelecs an Ferienunterkünfte im Feldatal liefert.\n\n**WARUM HIER:** \nFeldatal liegt attraktiv an Vogelsberger Radrouten und hat eine hohe E-Bike-Dichte bei Senioren sowie Urlaubern, verfügt aber über kein einziges stationäres Fahrradgeschäft mehr.\n\n**ERSTER SCHRITT:** \nEinen vorhandenen Transporter mit Basis-Werkzeug ausrüsten und eine Kooperationsanfrage an die örtlichen Pensionen sowie die Gemeinde Feldatal richten.",
-      "ts": "2026-09-19 01:24",
+      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)**\n\n**Ansprache-Idee:** \n„Wenn Hausbesitzer in Gemünden und den umliegenden Dörfern nach einer neuen Wärmepumpe oder einer Bad-Sanierung googeln, finden sie aktuell meist die Konkurrenz aus Alsfeld oder Lauterbach – lassen Sie uns dafür sorgen, dass Kunden aus der Region direkt Ihren Betrieb auf dem Smartphone finden.“",
+      "ts": "2026-09-19 06:13",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-gemuenden-felda",
-          "title": "Chancen-Scout — Gemuenden (Felda)  ·  Chancen",
+          "agent": "tourismus-gemuenden-felda",
+          "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin automatisierter 24/7-Regiomat-Standort mit integrierter E-Bike-Ladestation und überdachtem Rastplatz für regionale Vogelsberger Spezialitäten, Grillgut und Snacks.\n\n**WARUM HIER:** \nIn den sieben Ortsteilen von Gemünden (Felda) trifft eine ausgedünnte lokale Nahversorgung an Abenden und Wochenenden auf eine hohe Frequenz von Durchgangsverkehr sowie Rad- und Wandertouristen im Feldatal.\n\n**ERSTER SCHRITT:** \nSichern eines gut einsehbaren Pachtgrundstücks (z. B. nahe dem Bahnhof Nieder-Gemünden oder an der B49) und Abschließen von Kommissionierungs-Verträgen mit zwei lokalen Direktvermarktern.",
-          "ts": "2026-09-19 01:24",
+          "text": "**WAS:** Das Erlebnis-Paket „Sagenhaftes Feldatal“ kombiniert eine romantische Fackel-Wanderung zur historischen Burg Gemünden mit einer regional gepackten Vesperkiste direkt am Felda-Ufer.\n\n**fuer WEN:** Perfekt geeignet für Paare, kleine Freundesgruppen und Naturgenießer, die eine stimmungsvolle Auszeit vom Alltag mit lokaler Kulinarik im Vogelsberg suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserem Buchungsportal deinen Wunschtermin aus und sichere dir dein Ticket inklusive Fackeln und Vesperbox direkt online.",
+          "ts": "2026-09-19 06:14",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-feldatal",
-          "title": "Vulkanregion-Tourismus — Feldatal  ·  Chancen",
+          "agent": "direkt-gemuenden-felda",
+          "title": "Direktvermarktung — Gemuenden (Felda)  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Das Paket „Basalt & Sterne“ beinhaltet eine geführte Dämmerungswanderung durch die Vulkanlandschaft rund um Feldatal mit anschließendem Picknick voller regionaler Vogelsberger Spezialitäten unter dem Sternenhimmel.\n\n**für WEN:** Es richtet sich an Paare, Naturgenießer und Alltagsaussteiger, die eine romantische und entschleunigende Auszeit in unberührter Natur suchen.\n\n**ERSTER SCHRITT:** Wählen Sie online einfach Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnis-Paket mit wenigen Klicks.",
-          "ts": "2026-09-19 01:24",
+          "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit knackigem Saison-Gemüse, frischen Landeiern und Holzofenbrot aus dem Feldatal, kontaktlos abholbereit an einer zentralen 24/7-Hofstation in Gemünden.\n\n**FÜR WEN:** Für beschäftigte Familien und Pendler aus der Region, die unter der Woche ohne Markt-Stress ehrliche, heimische Lebensmittel direkt vom Erzeuger auf den Tisch bringen wollen.\n\n**ERSTER SCHRITT:** Zwei benachbarte Höfe für Eier und Brot an einen Tisch holen, ein einfaches Start-Sortiment festlegen und über den lokalen Dorffunk die ersten 20 Test-Kunden suchen.",
+          "ts": "2026-09-19 06:13",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-romrod",
-          "title": "Vulkanregion-Tourismus — Romrod  ·  Chancen",
+          "agent": "direkt-feldatal",
+          "title": "Direktvermarktung — Feldatal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Bei der geführten E-Bike-Tour „Märchen & Vulkan-Genuss“ erkunden Sie die Wälder rund um Schloss Romrod und genießen ein regionales Gourmet-Picknick direkt am Schlossteich.\n\n**FÜR WEN:** Das Angebot richtet sich an Paare und Naturliebhaber, die eine entspannte Kombination aus Kultur, sanfter Bewegung und regionaler Kulinarik suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin sowie die bevorzugte Picknick-Variante aus und sichern Sie sich Ihr E-Bike mit einem Klick.",
-          "ts": "2026-09-19 01:24",
+          "text": "**WAS:** Die „Feldataler Vesper-Kiste“ – ein wöchentliches Abo mit frischem Holzofenbrot, Vogelsberger Hausmacher Wurst oder Käse sowie saisonalem Gemüse direkt von Höfen aus der Gemeinde.\n\n**fuer WEN:** Für beschäftigte Familien, Pendler und Senioren im Feldatal, die ehrliche Lebensmittel aus der Heimat schätzen, aber unter der Woche keine Zeit haben, jeden Hof einzeln anzufahren.\n\n**ERSTER SCHRITT:** Mit zwei bis drei örtlichen Erzeugern ein einfaches Probepaket zusammenstellen und das Angebot über Mundpropaganda, Dorfgruppen auf WhatsApp und Aushänge testen.",
+          "ts": "2026-09-19 06:13",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-feldatal",
-          "title": "Handwerk-Sichtbarkeit — Feldatal  ·  Chancen",
+          "agent": "handwerk-gemuenden-felda",
+          "title": "Handwerk-Sichtbarkeit — Gemuenden (Felda)  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbauer** in Feldatal.\n\n**Ansprache-Idee:**  \n„Hallo Herr [Name], wenn im Feldatal die Heizung ausfällt oder jemand ein neues Bad plant, greift er zuerst zum Smartphone – lassen Sie uns dafür sorgen, dass dort Ihre Nummer steht und nicht die eines Betriebes aus der nächsten Kreisstadt.“",
-          "ts": "2026-09-19 01:24",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-feldatal",
-          "title": "Chancen-Scout — Feldatal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nMobiles E-Bike-Service- und Verleihmobil („Werkstatt auf Rädern“), das Reparaturen direkt vor Ort bei Anwohnern erledigt und Miet-Pedelecs an Ferienunterkünfte im Feldatal liefert.\n\n**WARUM HIER:** \nFeldatal liegt attraktiv an Vogelsberger Radrouten und hat eine hohe E-Bike-Dichte bei Senioren sowie Urlaubern, verfügt aber über kein einziges stationäres Fahrradgeschäft mehr.\n\n**ERSTER SCHRITT:** \nEinen vorhandenen Transporter mit Basis-Werkzeug ausrüsten und eine Kooperationsanfrage an die örtlichen Pensionen sowie die Gemeinde Feldatal richten.",
-          "ts": "2026-09-19 01:24",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-feldatal",
-          "title": "Senioren-Alltagsdienste — Feldatal  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Nachbarschaftsdienst, der feste wöchentliche Fahrten für Einkäufe und Arztbesuche anbietet und die Seniorinnen und Senioren auf Wunsch aufmerksam von der Haustür bis zur Erledigung begleitet.\n\n**WARUM HIER:** \nDa die Ortsteile von Feldatal weit auseinanderliegen und es kaum noch Lebensmittelgeschäfte im Ort gibt, bewahrt dieser Dienst die geschätzte Eigenständigkeit der Menschen in ihrer ländlichen Heimat.\n\n**ERSTER SCHRITT:** \nIn Abstimmung mit der Gemeinde Feldatal ein erstes Vortreffen mit den Ortsvorstehern gestalten, um den genauen Bedarf zu erfassen und hilfsbereite Fahrerinnen und Fahrer aus den Dörfern einzubinden.",
-          "ts": "2026-09-19 01:24",
+          "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)**\n\n**Ansprache-Idee:** \n„Wenn Hausbesitzer in Gemünden und den umliegenden Dörfern nach einer neuen Wärmepumpe oder einer Bad-Sanierung googeln, finden sie aktuell meist die Konkurrenz aus Alsfeld oder Lauterbach – lassen Sie uns dafür sorgen, dass Kunden aus der Region direkt Ihren Betrieb auf dem Smartphone finden.“",
+          "ts": "2026-09-19 06:13",
           "age_min": 0
         }
       ]
