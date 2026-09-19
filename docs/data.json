@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-19T17:21Z",
+  "updated": "2026-09-19T19:28Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Die „Vogelsberger Sonntags-Kiste“ – ein einfaches Abo mit frischen Hofprodukten wie Hausmacher Wurst, regionalem Käse, Eiern und Holzofenbrot, das jeden Samstagmorgen direkt an die Haustür geliefert wird. **fuer WEN:** Für beschäftigte Familien, Senioren und Urlaubsgäste in Freiensteinau und den umliegenden Ortsteilen, die ohne Aufwand ehrliche Lebe",
+        "text": "**WAS:** Das Erlebnis-Paket „Gipfelgenuss & Vulkanblick“ beinhaltet eine geführte Dämmerungswanderung auf die Burgruine Schlossberg in Ulrichstein inklusive eines gefüllten Picknickkorbs voller regionaler Vogelsberger Spezialitäten. **fuer WEN:** Das Angebot richtet sich an Paare, Genusswanderer und Fotografie-Liebhaber, die einen romantischen Sonnenuntergan",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein dorfübergreifender Begleit- und Fahrtdienst unterstützt Ältere bei Einkäufen, Arztbesuchen sowie kleineren Besorgungen und bringt das Gewünschte bei Bedarf direkt an die Haustür. **WARUM HIER:** Die zwölf weit verstreuten Ortsteile von Freiensteinau machen Alltagswege ohne eigenes Auto beschwerlich; dieser Dienst bewahrt die Selbstständigkeit im",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -656,81 +660,81 @@
       "name": "Chancen-Scout — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Schärf- und Wartungsservice für Gartengeräte, Kettensägen und Rasenmäher, der Wartungen und Reparaturen direkt beim Kunden auf dem Hof erledigt. **WARUM HIER:** Freiensteinau ist auf 12 Ortsteile ver",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-freiensteinau",
       "name": "Handwerk-Sichtbarkeit — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Bad-Sanierungen und moderne Heiztechnik). **Ansprache-Idee:** „Hallo [Name], wenn in Freiensteinau die Heizung streikt oder jemand sein Bad neu machen will, sucht ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-freiensteinau",
       "name": "Direktvermarktung — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Sonntags-Kiste“ – ein einfaches Abo mit frischen Hofprodukten wie Hausmacher Wurst, regionalem Käse, Eiern und Holzofenbrot, das jeden Samstagmorgen direkt an die Haustür geliefert wird. **fuer",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-freiensteinau",
       "name": "Vulkanregion-Tourismus — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Paket „Vulkan-Picknick & Sunset-SUP“ beinhaltet ein exklusives Stand-Up-Paddling-Erlebnis auf dem Nieder-Mooser See mit anschließendem regionalen Abendessen direkt am Ufer. **für WEN:** Es ist ideal für Paar",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-freiensteinau",
       "name": "Senioren-Alltagsdienste — Freiensteinau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein dorfübergreifender Begleit- und Fahrtdienst unterstützt Ältere bei Einkäufen, Arztbesuchen sowie kleineren Besorgungen und bringt das Gewünschte bei Bedarf direkt an die Haustür. **WARUM HIER:** Die zwölf we",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-ulrichstein",
       "name": "Chancen-Scout — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Lieferservice für regional bestückte „Vogelsberg-Vesperkisten“, der frisch zubereitete Brotzeiten direkt an Ferienhausgäste und Wander-Startpunkte rund um den Schlossberg liefert. **WARUM HIER:** Als",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-ulrichstein",
       "name": "Handwerk-Sichtbarkeit — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** in Ulrichstein. **Ansprache-Idee:** „Hallo Herr [Name], immer mehr Hausbesitzer im Vogelsberg suchen online nach Heizungsmodernisierung und Notdiensten – sorg",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-ulrichstein",
       "name": "Direktvermarktung — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberg-Kraftbox“ – ein monatliches Abo mit ehrlichen, haltbaren Hofprodukten wie Einkochgerichten vom lokalen Höhenvieh, Vogelsberger Kartoffeln und hausgemachten Kräuterspezialitäten. **FÜR WEN:** Für ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-ulrichstein",
       "name": "Vulkanregion-Tourismus — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Gipfelgenuss & Vulkanblick“ beinhaltet eine geführte Dämmerungswanderung auf die Burgruine Schlossberg in Ulrichstein inklusive eines gefüllten Picknickkorbs voller regionaler Vogelsberger Sp",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-ulrichstein",
@@ -1499,32 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 14,
+    "used": 20,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "direkt-freiensteinau",
+      "agent": "tourismus-ulrichstein",
       "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Sonntags-Kiste“ – ein einfaches Abo mit frischen Hofprodukten wie Hausmacher Wurst, regionalem Käse, Eiern und Holzofenbrot, das jeden Samstagmorgen direkt an die Haustür geliefert wird. **fuer WEN:** Für beschäftigte Familien, Senioren und Urlaubsgäste in Freiensteinau und den umliegenden Ortsteilen, die ohne Aufwand ehrliche Lebe",
-      "ts": "2026-09-19 17:21",
+      "text": "**WAS:** Das Erlebnis-Paket „Gipfelgenuss & Vulkanblick“ beinhaltet eine geführte Dämmerungswanderung auf die Burgruine Schlossberg in Ulrichstein inklusive eines gefüllten Picknickkorbs voller regionaler Vogelsberger Spezialitäten. **fuer WEN:** Das Angebot richtet sich an Paare, Genusswanderer und Fotografie-Liebhaber, die einen romantischen Sonnenuntergan",
+      "ts": "2026-09-19 19:28",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-freiensteinau",
+      "agent": "direkt-ulrichstein",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Bad-Sanierungen und moderne Heiztechnik). **Ansprache-Idee:** „Hallo [Name], wenn in Freiensteinau die Heizung streikt oder jemand sein Bad neu machen will, sucht er heute zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Telefonnummer ganz oben steht, bevor die Kundschaft beim Betrieb im Nachbar",
-      "ts": "2026-09-19 17:21",
+      "text": "**WAS:** Die „Vogelsberg-Kraftbox“ – ein monatliches Abo mit ehrlichen, haltbaren Hofprodukten wie Einkochgerichten vom lokalen Höhenvieh, Vogelsberger Kartoffeln und hausgemachten Kräuterspezialitäten. **FÜR WEN:** Für vielbeschäftigte Einheimische, Pendler und heimatverbundene Urlaubsgäste, die ohne Aufwand bodenständig und regional kochen möchten. **ERSTE",
+      "ts": "2026-09-19 19:27",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-freiensteinau",
+      "agent": "handwerk-ulrichstein",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Schärf- und Wartungsservice für Gartengeräte, Kettensägen und Rasenmäher, der Wartungen und Reparaturen direkt beim Kunden auf dem Hof erledigt. **WARUM HIER:** Freiensteinau ist auf 12 Ortsteile verteilt mit vielen großen Grundstücken und hoher Eigenheimdichte, während die Wege zur nächsten Fachwerkstatt nach Lauterbach oder Fulda für d",
-      "ts": "2026-09-19 17:21",
+      "text": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** in Ulrichstein. **Ansprache-Idee:** „Hallo Herr [Name], immer mehr Hausbesitzer im Vogelsberg suchen online nach Heizungsmodernisierung und Notdiensten – sorgen wir dafür, dass Ihre Werkstatt bei Google direkt oben steht, bevor die Kundschaft bei teuren Großbetrieben aus Gießen oder Fulda landet.“",
+      "ts": "2026-09-19 19:27",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-ulrichstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Lieferservice für regional bestückte „Vogelsberg-Vesperkisten“, der frisch zubereitete Brotzeiten direkt an Ferienhausgäste und Wander-Startpunkte rund um den Schlossberg liefert. **WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein viele Outdoor-Touristen an, leidet jedoch unter Schließungen in der örtlichen Gastronomie, was eine",
+      "ts": "2026-09-19 19:27",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-freiensteinau",
+      "via": "gemini",
+      "text": "**WAS:** Ein dorfübergreifender Begleit- und Fahrtdienst unterstützt Ältere bei Einkäufen, Arztbesuchen sowie kleineren Besorgungen und bringt das Gewünschte bei Bedarf direkt an die Haustür. **WARUM HIER:** Die zwölf weit verstreuten Ortsteile von Freiensteinau machen Alltagswege ohne eigenes Auto beschwerlich; dieser Dienst bewahrt die Selbstständigkeit im",
+      "ts": "2026-09-19 19:27",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-freiensteinau",
+      "via": "gemini",
+      "text": "**WAS:** Das Paket „Vulkan-Picknick & Sunset-SUP“ beinhaltet ein exklusives Stand-Up-Paddling-Erlebnis auf dem Nieder-Mooser See mit anschließendem regionalen Abendessen direkt am Ufer. **für WEN:** Es ist ideal für Paare und Naturgenießer, die eine aktive Auszeit mit kulinarischen Highlights aus dem Vogelsberg verbinden möchten. **ERSTER SCHRITT:** Wähle de",
+      "ts": "2026-09-19 19:27",
       "age_min": 0
     }
   ]
