@@ -1,126 +1,126 @@
 {
-  "updated": "2026-09-19 19:28 UTC",
+  "updated": "2026-09-19 21:37 UTC",
   "total_results": 6,
   "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-ulrichstein",
-      "title": "Vulkanregion-Tourismus — Ulrichstein  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-schwalmtal",
+      "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Gipfelgenuss & Vulkanblick“ beinhaltet eine geführte Dämmerungswanderung auf die Burgruine Schlossberg in Ulrichstein inklusive eines gefüllten Picknickkorbs voller regionaler Vogelsberger Spezialitäten.\n\n**fuer WEN:** Das Angebot richtet sich an Paare, Genusswanderer und Fotografie-Liebhaber, die einen romantischen Sonnenuntergang auf Hessens höchstgelegener Burgruine bei lokalem Essen erleben möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr exklusives Vulkan-Picknick mit nur wenigen Klicks.",
-      "ts": "2026-09-19 19:28",
+      "text": "**WAS:** \nEin verlässlicher Begleit- und Fahrdienst, der ältere Menschen direkt an der eigenen Haustür abholt, sie achtsam zu Terminen oder Einkäufen begleitet und kleine Besorgungen des Alltags übernimmt.\n\n**WARUM HIER:** \nDa Schwalmtal aus vielen weit verstreuten Ortsteilen besteht und Busverbindungen im Alter oft beschwerlich sind, ermöglicht dieser Dienst das Verbleiben im vertrauten Zuhause bei voller Selbstbestimmung.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Kommune und den Seniorenvertretungen vor Ort wird eine feste Sprechstunde sowie ein zentrales Telefon für einfache Fahr- und Hilfeanfragen eingerichtet.",
+      "ts": "2026-09-19 21:37",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-ulrichstein",
-      "title": "Direktvermarktung — Ulrichstein  ·  Chancen",
+      "agent": "tourismus-schwalmtal",
+      "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberg-Kraftbox“ – ein monatliches Abo mit ehrlichen, haltbaren Hofprodukten wie Einkochgerichten vom lokalen Höhenvieh, Vogelsberger Kartoffeln und hausgemachten Kräuterspezialitäten.\n\n**FÜR WEN:** Für vielbeschäftigte Einheimische, Pendler und heimatverbundene Urlaubsgäste, die ohne Aufwand bodenständig und regional kochen möchten.\n\n**ERSTER SCHRITT:** Mit zwei benachbarten Landwirten aus dem Ulrichsteiner Umland kurzschließen, um aus bestehenden Beständen die ersten 15 Test-Boxen für den Ab-Hof-Verkauf zu packen.",
-      "ts": "2026-09-19 19:27",
+      "text": "**WAS:** Bei der geführten „Schwalmtaler Kräuter- und Basalt-Genusstour“ wandern Sie durch die sanfte Vulkanlandschaft, sammeln wildwachsende Naturkräuter und genießen anschließend ein regionales Picknick an einem verwunschenen Basaltbruch.\n\n**FÜR WEN:** Das Paket richtet sich an Naturgenießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit suchen und die kulinarischen Schätze des Vogelsbergs entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und sichern Sie sich das Komplettpaket inklusive Kräuterguide und gefülltem Picknickkorb direkt online.",
+      "ts": "2026-09-19 21:37",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-ulrichstein",
-      "title": "Handwerk-Sichtbarkeit — Ulrichstein  ·  Chancen",
+      "agent": "direkt-schwalmtal",
+      "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** in Ulrichstein.\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], immer mehr Hausbesitzer im Vogelsberg suchen online nach Heizungsmodernisierung und Notdiensten – sorgen wir dafür, dass Ihre Werkstatt bei Google direkt oben steht, bevor die Kundschaft bei teuren Großbetrieben aus Gießen oder Fulda landet.“",
-      "ts": "2026-09-19 19:27",
+      "text": "**WAS:** \nDie „Schwalmtaler Feierabend-Box“ ist ein wöchentliches Kisten-Abo mit frischem Saison-Gemüse, Eiern, Landbrot und einer wechselnden Hof-Spezialität aus der Region, die kontaktlos an einer zentralen 24/7-Abholstation bereitsteht.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Schwalmtal und Umkreis, die ehrlich erzeugte Lebensmittel aus der Heimat wollen, aber zu normalen Öffnungszeiten keine Zeit für den Hofladen-Rundruf haben.\n\n**ERSTER SCHRITT:** \nDrei benachbarte Höfe und einen Dorf-Bäcker an einen Tisch holen, um ein einfaches Start-Sortiment für die erste Test-Kiste zusammenzustellen.",
+      "ts": "2026-09-19 21:36",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-ulrichstein",
-      "title": "Chancen-Scout — Ulrichstein  ·  Chancen",
+      "agent": "handwerk-schwalmtal",
+      "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Lieferservice für regional bestückte „Vogelsberg-Vesperkisten“, der frisch zubereitete Brotzeiten direkt an Ferienhausgäste und Wander-Startpunkte rund um den Schlossberg liefert.\n\n**WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein viele Outdoor-Touristen an, leidet jedoch unter Schließungen in der örtlichen Gastronomie, was eine deutliche Versorgungslücke zur Mittags- und Einkehrzeit erzeugt.\n\n**ERSTER SCHRITT:** Mit zwei bis drei lokalen Erzeugern (Bäcker, Metzger/Hofladen) Partner-Konditionen vereinbaren und Flyer mit WhatsApp-Bestellnummer in allen Ulrichsteiner Ferienunterkünften auslegen.",
-      "ts": "2026-09-19 19:27",
+      "text": "**Betriebstyp:** Ein etablierter, inhabergeführter **Dachdeckerbetrieb** (oft stark ausgelastet durch Mundpropaganda, aber online kaum sichtbar für lukrative Neukunden-Anfragen wie PV-Montage, Dachsanierung oder Notfälle).\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn Hauseigentümer in Waldniel oder Amern nach einem Sturmschaden oder einer Dachsanierung auf Google suchen, landen sie aktuell direkt bei der Konkurrenz aus Viersen oder Mönchengladbach – wollen wir gemeinsam dafür sorgen, dass diese Aufträge hier bei Ihnen in Schwalmtal bleiben?“",
+      "ts": "2026-09-19 21:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-schwalmtal",
+      "title": "Chancen-Scout — Schwalmtal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Mobile, chemiefreie Reinigung von Photovoltaikanlagen auf Scheunendächern und Wohnhäusern zur Ertragssteigerung.\n\n**WARUM HIER:** In den Schwalmtaler Ortsteilen wie Brauerschwend oder Storndorf gibt es eine extrem hohe Dichte an Solar-Scheunendächern, die durch landwirtschaftlichen Staub an Leistung verlieren und von großen Anbietern wegen kleiner Auftragsgrößen ignoriert werden.\n\n**ERSTER SCHRITT:** Eine professionelle Teleskop-Reinigungsbürste mieten oder anschaffen, drei Testdächer bei lokalen Landwirten kostenlos reinigen und mit den Vorher-Nachher-Ertragsdaten im Schwalmtaler Mitteilungsblatt werben.",
+      "ts": "2026-09-19 21:36",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-freiensteinau",
-      "title": "Senioren-Alltagsdienste — Freiensteinau  ·  Kunden",
+      "agent": "senioren-ulrichstein",
+      "title": "Senioren-Alltagsdienste — Ulrichstein  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:**  \nEin dorfübergreifender Begleit- und Fahrtdienst unterstützt Ältere bei Einkäufen, Arztbesuchen sowie kleineren Besorgungen und bringt das Gewünschte bei Bedarf direkt an die Haustür.\n\n**WARUM HIER:**  \nDie zwölf weit verstreuten Ortsteile von Freiensteinau machen Alltagswege ohne eigenes Auto beschwerlich; dieser Dienst bewahrt die Selbstständigkeit im vertrauten Zuhause und stärkt das nachbarschaftliche Miteinander.\n\n**ERSTER SCHRITT:**  \nGemeinsam mit der Gemeinde wird eine einfache Telefon-Anlaufstelle eingerichtet, um Fahr- und Hilfewünsche unbürokratisch aufzunehmen und an Ehrenamtliche in den Ortsteilen zu vermitteln.",
-      "ts": "2026-09-19 19:27",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-freiensteinau",
-      "title": "Vulkanregion-Tourismus — Freiensteinau  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Das Paket „Vulkan-Picknick & Sunset-SUP“ beinhaltet ein exklusives Stand-Up-Paddling-Erlebnis auf dem Nieder-Mooser See mit anschließendem regionalen Abendessen direkt am Ufer.\n\n**für WEN:** Es ist ideal für Paare und Naturgenießer, die eine aktive Auszeit mit kulinarischen Highlights aus dem Vogelsberg verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Buchungskalender aus und passe deinen Picknickkorb mit wenigen Klicks individuell an.",
-      "ts": "2026-09-19 19:27",
+      "text": "**WAS:** \nEin verlässlicher, kombinierter Fahr- und Einkaufsbegleitdienst, der ältere Menschen direkt an der Haustür abholt, sie geduldig bei Erledigungen unterstützt und die Einkäufe auf Wunsch bis in die Küche trägt.\n\n**WARUM HIER:** \nIn Ulrichstein, der höchstgelegenen Stadt Hessens, erschweren steile Wege, raues Winterwetter und die weiten Distanzen zwischen den Ortsteilen die eigenständige Versorgung im Alter ganz besonders.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit der Stadtverwaltung und den Ortsvorstehern starten wir eine einfache Bedarfsabfrage in allen Ortsteilen, um erste feste Fahrrouten und ehrenamtliche Fahrer-Paten aus der Nachbarschaft zu gewinnen.",
+      "ts": "2026-09-19 21:36",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-ulrichstein",
-          "title": "Vulkanregion-Tourismus — Ulrichstein  ·  Chancen",
+          "agent": "tourismus-schwalmtal",
+          "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Das Erlebnis-Paket „Gipfelgenuss & Vulkanblick“ beinhaltet eine geführte Dämmerungswanderung auf die Burgruine Schlossberg in Ulrichstein inklusive eines gefüllten Picknickkorbs voller regionaler Vogelsberger Spezialitäten.\n\n**fuer WEN:** Das Angebot richtet sich an Paare, Genusswanderer und Fotografie-Liebhaber, die einen romantischen Sonnenuntergang auf Hessens höchstgelegener Burgruine bei lokalem Essen erleben möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr exklusives Vulkan-Picknick mit nur wenigen Klicks.",
-          "ts": "2026-09-19 19:28",
+          "text": "**WAS:** Bei der geführten „Schwalmtaler Kräuter- und Basalt-Genusstour“ wandern Sie durch die sanfte Vulkanlandschaft, sammeln wildwachsende Naturkräuter und genießen anschließend ein regionales Picknick an einem verwunschenen Basaltbruch.\n\n**FÜR WEN:** Das Paket richtet sich an Naturgenießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit suchen und die kulinarischen Schätze des Vogelsbergs entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und sichern Sie sich das Komplettpaket inklusive Kräuterguide und gefülltem Picknickkorb direkt online.",
+          "ts": "2026-09-19 21:37",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-ulrichstein",
-          "title": "Direktvermarktung — Ulrichstein  ·  Chancen",
+          "agent": "direkt-schwalmtal",
+          "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Die „Vogelsberg-Kraftbox“ – ein monatliches Abo mit ehrlichen, haltbaren Hofprodukten wie Einkochgerichten vom lokalen Höhenvieh, Vogelsberger Kartoffeln und hausgemachten Kräuterspezialitäten.\n\n**FÜR WEN:** Für vielbeschäftigte Einheimische, Pendler und heimatverbundene Urlaubsgäste, die ohne Aufwand bodenständig und regional kochen möchten.\n\n**ERSTER SCHRITT:** Mit zwei benachbarten Landwirten aus dem Ulrichsteiner Umland kurzschließen, um aus bestehenden Beständen die ersten 15 Test-Boxen für den Ab-Hof-Verkauf zu packen.",
-          "ts": "2026-09-19 19:27",
+          "text": "**WAS:** \nDie „Schwalmtaler Feierabend-Box“ ist ein wöchentliches Kisten-Abo mit frischem Saison-Gemüse, Eiern, Landbrot und einer wechselnden Hof-Spezialität aus der Region, die kontaktlos an einer zentralen 24/7-Abholstation bereitsteht.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Schwalmtal und Umkreis, die ehrlich erzeugte Lebensmittel aus der Heimat wollen, aber zu normalen Öffnungszeiten keine Zeit für den Hofladen-Rundruf haben.\n\n**ERSTER SCHRITT:** \nDrei benachbarte Höfe und einen Dorf-Bäcker an einen Tisch holen, um ein einfaches Start-Sortiment für die erste Test-Kiste zusammenzustellen.",
+          "ts": "2026-09-19 21:36",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-ulrichstein",
-          "title": "Handwerk-Sichtbarkeit — Ulrichstein  ·  Chancen",
+          "agent": "handwerk-schwalmtal",
+          "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** in Ulrichstein.\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], immer mehr Hausbesitzer im Vogelsberg suchen online nach Heizungsmodernisierung und Notdiensten – sorgen wir dafür, dass Ihre Werkstatt bei Google direkt oben steht, bevor die Kundschaft bei teuren Großbetrieben aus Gießen oder Fulda landet.“",
-          "ts": "2026-09-19 19:27",
+          "text": "**Betriebstyp:** Ein etablierter, inhabergeführter **Dachdeckerbetrieb** (oft stark ausgelastet durch Mundpropaganda, aber online kaum sichtbar für lukrative Neukunden-Anfragen wie PV-Montage, Dachsanierung oder Notfälle).\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn Hauseigentümer in Waldniel oder Amern nach einem Sturmschaden oder einer Dachsanierung auf Google suchen, landen sie aktuell direkt bei der Konkurrenz aus Viersen oder Mönchengladbach – wollen wir gemeinsam dafür sorgen, dass diese Aufträge hier bei Ihnen in Schwalmtal bleiben?“",
+          "ts": "2026-09-19 21:36",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-ulrichstein",
-          "title": "Chancen-Scout — Ulrichstein  ·  Chancen",
+          "agent": "chancen-schwalmtal",
+          "title": "Chancen-Scout — Schwalmtal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Lieferservice für regional bestückte „Vogelsberg-Vesperkisten“, der frisch zubereitete Brotzeiten direkt an Ferienhausgäste und Wander-Startpunkte rund um den Schlossberg liefert.\n\n**WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein viele Outdoor-Touristen an, leidet jedoch unter Schließungen in der örtlichen Gastronomie, was eine deutliche Versorgungslücke zur Mittags- und Einkehrzeit erzeugt.\n\n**ERSTER SCHRITT:** Mit zwei bis drei lokalen Erzeugern (Bäcker, Metzger/Hofladen) Partner-Konditionen vereinbaren und Flyer mit WhatsApp-Bestellnummer in allen Ulrichsteiner Ferienunterkünften auslegen.",
-          "ts": "2026-09-19 19:27",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-freiensteinau",
-          "title": "Vulkanregion-Tourismus — Freiensteinau  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Das Paket „Vulkan-Picknick & Sunset-SUP“ beinhaltet ein exklusives Stand-Up-Paddling-Erlebnis auf dem Nieder-Mooser See mit anschließendem regionalen Abendessen direkt am Ufer.\n\n**für WEN:** Es ist ideal für Paare und Naturgenießer, die eine aktive Auszeit mit kulinarischen Highlights aus dem Vogelsberg verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Buchungskalender aus und passe deinen Picknickkorb mit wenigen Klicks individuell an.",
-          "ts": "2026-09-19 19:27",
+          "text": "**WAS:** Mobile, chemiefreie Reinigung von Photovoltaikanlagen auf Scheunendächern und Wohnhäusern zur Ertragssteigerung.\n\n**WARUM HIER:** In den Schwalmtaler Ortsteilen wie Brauerschwend oder Storndorf gibt es eine extrem hohe Dichte an Solar-Scheunendächern, die durch landwirtschaftlichen Staub an Leistung verlieren und von großen Anbietern wegen kleiner Auftragsgrößen ignoriert werden.\n\n**ERSTER SCHRITT:** Eine professionelle Teleskop-Reinigungsbürste mieten oder anschaffen, drei Testdächer bei lokalen Landwirten kostenlos reinigen und mit den Vorher-Nachher-Ertragsdaten im Schwalmtaler Mitteilungsblatt werben.",
+          "ts": "2026-09-19 21:36",
           "age_min": 0
         }
       ]
     },
     {
       "id": "Kunden",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-freiensteinau",
-          "title": "Senioren-Alltagsdienste — Freiensteinau  ·  Kunden",
+          "agent": "senioren-schwalmtal",
+          "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:**  \nEin dorfübergreifender Begleit- und Fahrtdienst unterstützt Ältere bei Einkäufen, Arztbesuchen sowie kleineren Besorgungen und bringt das Gewünschte bei Bedarf direkt an die Haustür.\n\n**WARUM HIER:**  \nDie zwölf weit verstreuten Ortsteile von Freiensteinau machen Alltagswege ohne eigenes Auto beschwerlich; dieser Dienst bewahrt die Selbstständigkeit im vertrauten Zuhause und stärkt das nachbarschaftliche Miteinander.\n\n**ERSTER SCHRITT:**  \nGemeinsam mit der Gemeinde wird eine einfache Telefon-Anlaufstelle eingerichtet, um Fahr- und Hilfewünsche unbürokratisch aufzunehmen und an Ehrenamtliche in den Ortsteilen zu vermitteln.",
-          "ts": "2026-09-19 19:27",
+          "text": "**WAS:** \nEin verlässlicher Begleit- und Fahrdienst, der ältere Menschen direkt an der eigenen Haustür abholt, sie achtsam zu Terminen oder Einkäufen begleitet und kleine Besorgungen des Alltags übernimmt.\n\n**WARUM HIER:** \nDa Schwalmtal aus vielen weit verstreuten Ortsteilen besteht und Busverbindungen im Alter oft beschwerlich sind, ermöglicht dieser Dienst das Verbleiben im vertrauten Zuhause bei voller Selbstbestimmung.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Kommune und den Seniorenvertretungen vor Ort wird eine feste Sprechstunde sowie ein zentrales Telefon für einfache Fahr- und Hilfeanfragen eingerichtet.",
+          "ts": "2026-09-19 21:37",
+          "age_min": 0
+        },
+        {
+          "dept": "Kunden",
+          "agent": "senioren-ulrichstein",
+          "title": "Senioren-Alltagsdienste — Ulrichstein  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin verlässlicher, kombinierter Fahr- und Einkaufsbegleitdienst, der ältere Menschen direkt an der Haustür abholt, sie geduldig bei Erledigungen unterstützt und die Einkäufe auf Wunsch bis in die Küche trägt.\n\n**WARUM HIER:** \nIn Ulrichstein, der höchstgelegenen Stadt Hessens, erschweren steile Wege, raues Winterwetter und die weiten Distanzen zwischen den Ortsteilen die eigenständige Versorgung im Alter ganz besonders.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit der Stadtverwaltung und den Ortsvorstehern starten wir eine einfache Bedarfsabfrage in allen Ortsteilen, um erste feste Fahrrouten und ehrenamtliche Fahrer-Paten aus der Nachbarschaft zu gewinnen.",
+          "ts": "2026-09-19 21:36",
           "age_min": 0
         }
       ]
