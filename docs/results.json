@@ -1,84 +1,30 @@
 {
-  "updated": "2026-09-19 06:14 UTC",
-  "total_results": 4,
+  "updated": "2026-09-19 11:02 UTC",
+  "total_results": 1,
   "total_depts": 1,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-gemuenden-felda",
-      "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-gemuenden-felda",
+      "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Sagenhaftes Feldatal“ kombiniert eine romantische Fackel-Wanderung zur historischen Burg Gemünden mit einer regional gepackten Vesperkiste direkt am Felda-Ufer.\n\n**fuer WEN:** Perfekt geeignet für Paare, kleine Freundesgruppen und Naturgenießer, die eine stimmungsvolle Auszeit vom Alltag mit lokaler Kulinarik im Vogelsberg suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserem Buchungsportal deinen Wunschtermin aus und sichere dir dein Ticket inklusive Fackeln und Vesperbox direkt online.",
-      "ts": "2026-09-19 06:14",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-gemuenden-felda",
-      "title": "Direktvermarktung — Gemuenden (Felda)  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit knackigem Saison-Gemüse, frischen Landeiern und Holzofenbrot aus dem Feldatal, kontaktlos abholbereit an einer zentralen 24/7-Hofstation in Gemünden.\n\n**FÜR WEN:** Für beschäftigte Familien und Pendler aus der Region, die unter der Woche ohne Markt-Stress ehrliche, heimische Lebensmittel direkt vom Erzeuger auf den Tisch bringen wollen.\n\n**ERSTER SCHRITT:** Zwei benachbarte Höfe für Eier und Brot an einen Tisch holen, ein einfaches Start-Sortiment festlegen und über den lokalen Dorffunk die ersten 20 Test-Kunden suchen.",
-      "ts": "2026-09-19 06:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-feldatal",
-      "title": "Direktvermarktung — Feldatal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Die „Feldataler Vesper-Kiste“ – ein wöchentliches Abo mit frischem Holzofenbrot, Vogelsberger Hausmacher Wurst oder Käse sowie saisonalem Gemüse direkt von Höfen aus der Gemeinde.\n\n**fuer WEN:** Für beschäftigte Familien, Pendler und Senioren im Feldatal, die ehrliche Lebensmittel aus der Heimat schätzen, aber unter der Woche keine Zeit haben, jeden Hof einzeln anzufahren.\n\n**ERSTER SCHRITT:** Mit zwei bis drei örtlichen Erzeugern ein einfaches Probepaket zusammenstellen und das Angebot über Mundpropaganda, Dorfgruppen auf WhatsApp und Aushänge testen.",
-      "ts": "2026-09-19 06:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-gemuenden-felda",
-      "title": "Handwerk-Sichtbarkeit — Gemuenden (Felda)  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)**\n\n**Ansprache-Idee:** \n„Wenn Hausbesitzer in Gemünden und den umliegenden Dörfern nach einer neuen Wärmepumpe oder einer Bad-Sanierung googeln, finden sie aktuell meist die Konkurrenz aus Alsfeld oder Lauterbach – lassen Sie uns dafür sorgen, dass Kunden aus der Region direkt Ihren Betrieb auf dem Smartphone finden.“",
-      "ts": "2026-09-19 06:13",
+      "text": "**WAS:** \nEin verlässlicher Alltags- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen würdevoll unterstützt und kleine Besorgungen im Gemeindegebiet übernimmt.\n\n**WARUM HIER:** \nDie Gemeinde Gemünden (Felda) umfasst sieben weit verstreute Ortsteile mit hügeliger Topografie und eingeschränktem Nahverkehr, was die eigenständige Versorgung im Alter ohne eigenes Auto stark erschwert.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung und den örtlichen Ortsbeiräten wird eine Bedarfsabfrage gestartet, um ehrenamtliche Fahrerinnen und Fahrer aus den Dörfern gezielt mit hilfesuchenden Senioren zu vernetzen.",
+      "ts": "2026-09-19 11:02",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Chancen",
-      "count": 4,
+      "id": "Kunden",
+      "count": 1,
       "items": [
         {
-          "dept": "Chancen",
-          "agent": "tourismus-gemuenden-felda",
-          "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
+          "dept": "Kunden",
+          "agent": "senioren-gemuenden-felda",
+          "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Das Erlebnis-Paket „Sagenhaftes Feldatal“ kombiniert eine romantische Fackel-Wanderung zur historischen Burg Gemünden mit einer regional gepackten Vesperkiste direkt am Felda-Ufer.\n\n**fuer WEN:** Perfekt geeignet für Paare, kleine Freundesgruppen und Naturgenießer, die eine stimmungsvolle Auszeit vom Alltag mit lokaler Kulinarik im Vogelsberg suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserem Buchungsportal deinen Wunschtermin aus und sichere dir dein Ticket inklusive Fackeln und Vesperbox direkt online.",
-          "ts": "2026-09-19 06:14",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-gemuenden-felda",
-          "title": "Direktvermarktung — Gemuenden (Felda)  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit knackigem Saison-Gemüse, frischen Landeiern und Holzofenbrot aus dem Feldatal, kontaktlos abholbereit an einer zentralen 24/7-Hofstation in Gemünden.\n\n**FÜR WEN:** Für beschäftigte Familien und Pendler aus der Region, die unter der Woche ohne Markt-Stress ehrliche, heimische Lebensmittel direkt vom Erzeuger auf den Tisch bringen wollen.\n\n**ERSTER SCHRITT:** Zwei benachbarte Höfe für Eier und Brot an einen Tisch holen, ein einfaches Start-Sortiment festlegen und über den lokalen Dorffunk die ersten 20 Test-Kunden suchen.",
-          "ts": "2026-09-19 06:13",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-feldatal",
-          "title": "Direktvermarktung — Feldatal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Die „Feldataler Vesper-Kiste“ – ein wöchentliches Abo mit frischem Holzofenbrot, Vogelsberger Hausmacher Wurst oder Käse sowie saisonalem Gemüse direkt von Höfen aus der Gemeinde.\n\n**fuer WEN:** Für beschäftigte Familien, Pendler und Senioren im Feldatal, die ehrliche Lebensmittel aus der Heimat schätzen, aber unter der Woche keine Zeit haben, jeden Hof einzeln anzufahren.\n\n**ERSTER SCHRITT:** Mit zwei bis drei örtlichen Erzeugern ein einfaches Probepaket zusammenstellen und das Angebot über Mundpropaganda, Dorfgruppen auf WhatsApp und Aushänge testen.",
-          "ts": "2026-09-19 06:13",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-gemuenden-felda",
-          "title": "Handwerk-Sichtbarkeit — Gemuenden (Felda)  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)**\n\n**Ansprache-Idee:** \n„Wenn Hausbesitzer in Gemünden und den umliegenden Dörfern nach einer neuen Wärmepumpe oder einer Bad-Sanierung googeln, finden sie aktuell meist die Konkurrenz aus Alsfeld oder Lauterbach – lassen Sie uns dafür sorgen, dass Kunden aus der Region direkt Ihren Betrieb auf dem Smartphone finden.“",
-          "ts": "2026-09-19 06:13",
+          "text": "**WAS:** \nEin verlässlicher Alltags- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen würdevoll unterstützt und kleine Besorgungen im Gemeindegebiet übernimmt.\n\n**WARUM HIER:** \nDie Gemeinde Gemünden (Felda) umfasst sieben weit verstreute Ortsteile mit hügeliger Topografie und eingeschränktem Nahverkehr, was die eigenständige Versorgung im Alter ohne eigenes Auto stark erschwert.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung und den örtlichen Ortsbeiräten wird eine Bedarfsabfrage gestartet, um ehrenamtliche Fahrerinnen und Fahrer aus den Dörfern gezielt mit hilfesuchenden Senioren zu vernetzen.",
+          "ts": "2026-09-19 11:02",
           "age_min": 0
         }
       ]

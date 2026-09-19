@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-19T06:14Z",
+  "updated": "2026-09-19T11:02Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Das Erlebnis-Paket „Sagenhaftes Feldatal“ kombiniert eine romantische Fackel-Wanderung zur historischen Burg Gemünden mit einer regional gepackten Vesperkiste direkt am Felda-Ufer. **fuer WEN:** Perfekt geeignet für Paare, kleine Freundesgruppen und Naturgenießer, die eine stimmungsvolle Auszeit vom Alltag mit lokaler Kulinarik im Vogelsberg suchen.",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,7 +26,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher Alltags- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen würdevoll unterstützt und kleine Besorgungen im Gemeindegebiet übernimmt. **WARUM HIER:** Die Gemeinde Gemünden (Felda) umfasst sieben weit verstreute Ortsteile mit hügeliger Topografie und eingeschränk",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -584,9 +584,9 @@
       "name": "Direktvermarktung — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Feldataler Vesper-Kiste“ – ein wöchentliches Abo mit frischem Holzofenbrot, Vogelsberger Hausmacher Wurst oder Käse sowie saisonalem Gemüse direkt von Höfen aus der Gemeinde. **fuer WEN:** Für beschäftigte ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-feldatal",
@@ -620,36 +620,36 @@
       "name": "Handwerk-Sichtbarkeit — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)** **Ansprache-Idee:** „Wenn Hausbesitzer in Gemünden und den umliegenden Dörfern nach einer neuen Wärmepumpe oder einer Bad-Sanierung googeln, finden sie aktuell meis",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-gemuenden-felda",
       "name": "Direktvermarktung — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit knackigem Saison-Gemüse, frischen Landeiern und Holzofenbrot aus dem Feldatal, kontaktlos abholbereit an einer zentralen 24/7-Hofst",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-gemuenden-felda",
       "name": "Vulkanregion-Tourismus — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Sagenhaftes Feldatal“ kombiniert eine romantische Fackel-Wanderung zur historischen Burg Gemünden mit einer regional gepackten Vesperkiste direkt am Felda-Ufer. **fuer WEN:** Perfekt geeignet",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-gemuenden-felda",
       "name": "Senioren-Alltagsdienste — Gemuenden (Felda)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher Alltags- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen würdevoll unterstützt und kleine Besorgungen im Gemeindegebiet",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-freiensteinau",
@@ -1499,40 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 11,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-gemuenden-felda",
+      "dept": "Kunden",
+      "agent": "senioren-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Sagenhaftes Feldatal“ kombiniert eine romantische Fackel-Wanderung zur historischen Burg Gemünden mit einer regional gepackten Vesperkiste direkt am Felda-Ufer. **fuer WEN:** Perfekt geeignet für Paare, kleine Freundesgruppen und Naturgenießer, die eine stimmungsvolle Auszeit vom Alltag mit lokaler Kulinarik im Vogelsberg suchen.",
-      "ts": "2026-09-19 06:14",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-gemuenden-felda",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit knackigem Saison-Gemüse, frischen Landeiern und Holzofenbrot aus dem Feldatal, kontaktlos abholbereit an einer zentralen 24/7-Hofstation in Gemünden. **FÜR WEN:** Für beschäftigte Familien und Pendler aus der Region, die unter der Woche ohne Markt-Stress ehrliche, heimis",
-      "ts": "2026-09-19 06:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-feldatal",
-      "via": "gemini",
-      "text": "**WAS:** Die „Feldataler Vesper-Kiste“ – ein wöchentliches Abo mit frischem Holzofenbrot, Vogelsberger Hausmacher Wurst oder Käse sowie saisonalem Gemüse direkt von Höfen aus der Gemeinde. **fuer WEN:** Für beschäftigte Familien, Pendler und Senioren im Feldatal, die ehrliche Lebensmittel aus der Heimat schätzen, aber unter der Woche keine Zeit haben, jeden ",
-      "ts": "2026-09-19 06:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-gemuenden-felda",
-      "via": "gemini",
-      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)** **Ansprache-Idee:** „Wenn Hausbesitzer in Gemünden und den umliegenden Dörfern nach einer neuen Wärmepumpe oder einer Bad-Sanierung googeln, finden sie aktuell meist die Konkurrenz aus Alsfeld oder Lauterbach – lassen Sie uns dafür sorgen, dass Kunden aus der Region direkt Ihren Betrieb auf dem Smartpho",
-      "ts": "2026-09-19 06:13",
+      "text": "**WAS:** Ein verlässlicher Alltags- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen würdevoll unterstützt und kleine Besorgungen im Gemeindegebiet übernimmt. **WARUM HIER:** Die Gemeinde Gemünden (Felda) umfasst sieben weit verstreute Ortsteile mit hügeliger Topografie und eingeschränk",
+      "ts": "2026-09-19 11:02",
       "age_min": 0
     }
   ]
