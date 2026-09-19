@@ -1,33 +1,7 @@
 {
-  "updated": "2026-09-19 11:02 UTC",
-  "total_results": 1,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-gemuenden-felda",
-      "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** \nEin verlässlicher Alltags- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen würdevoll unterstützt und kleine Besorgungen im Gemeindegebiet übernimmt.\n\n**WARUM HIER:** \nDie Gemeinde Gemünden (Felda) umfasst sieben weit verstreute Ortsteile mit hügeliger Topografie und eingeschränktem Nahverkehr, was die eigenständige Versorgung im Alter ohne eigenes Auto stark erschwert.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung und den örtlichen Ortsbeiräten wird eine Bedarfsabfrage gestartet, um ehrenamtliche Fahrerinnen und Fahrer aus den Dörfern gezielt mit hilfesuchenden Senioren zu vernetzen.",
-      "ts": "2026-09-19 11:02",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-gemuenden-felda",
-          "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:** \nEin verlässlicher Alltags- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen würdevoll unterstützt und kleine Besorgungen im Gemeindegebiet übernimmt.\n\n**WARUM HIER:** \nDie Gemeinde Gemünden (Felda) umfasst sieben weit verstreute Ortsteile mit hügeliger Topografie und eingeschränktem Nahverkehr, was die eigenständige Versorgung im Alter ohne eigenes Auto stark erschwert.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung und den örtlichen Ortsbeiräten wird eine Bedarfsabfrage gestartet, um ehrenamtliche Fahrerinnen und Fahrer aus den Dörfern gezielt mit hilfesuchenden Senioren zu vernetzen.",
-          "ts": "2026-09-19 11:02",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-09-19 14:23 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }

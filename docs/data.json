@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-19T11:02Z",
+  "updated": "2026-09-19T14:23Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -26,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher Alltags- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen würdevoll unterstützt und kleine Besorgungen im Gemeindegebiet übernimmt. **WARUM HIER:** Die Gemeinde Gemünden (Felda) umfasst sieben weit verstreute Ortsteile mit hügeliger Topografie und eingeschränk",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -647,9 +643,9 @@
       "name": "Senioren-Alltagsdienste — Gemuenden (Felda)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher Alltags- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen würdevoll unterstützt und kleine Besorgungen im Gemeindegebiet",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-freiensteinau",
@@ -1502,14 +1498,5 @@
     "used": 11,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-gemuenden-felda",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher Alltags- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger direkt an der Haustür abholt, bei Einkäufen sowie Arztterminen würdevoll unterstützt und kleine Besorgungen im Gemeindegebiet übernimmt. **WARUM HIER:** Die Gemeinde Gemünden (Felda) umfasst sieben weit verstreute Ortsteile mit hügeliger Topografie und eingeschränk",
-      "ts": "2026-09-19 11:02",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
