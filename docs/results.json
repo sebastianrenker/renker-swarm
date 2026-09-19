@@ -1,126 +1,48 @@
 {
-  "updated": "2026-09-19 21:37 UTC",
-  "total_results": 6,
-  "total_depts": 2,
+  "updated": "2026-09-19 23:33 UTC",
+  "total_results": 2,
+  "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-schwalmtal",
-      "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "handwerk-wartenberg",
+      "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin verlässlicher Begleit- und Fahrdienst, der ältere Menschen direkt an der eigenen Haustür abholt, sie achtsam zu Terminen oder Einkäufen begleitet und kleine Besorgungen des Alltags übernimmt.\n\n**WARUM HIER:** \nDa Schwalmtal aus vielen weit verstreuten Ortsteilen besteht und Busverbindungen im Alter oft beschwerlich sind, ermöglicht dieser Dienst das Verbleiben im vertrauten Zuhause bei voller Selbstbestimmung.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Kommune und den Seniorenvertretungen vor Ort wird eine feste Sprechstunde sowie ein zentrales Telefon für einfache Fahr- und Hilfeanfragen eingerichtet.",
-      "ts": "2026-09-19 21:37",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (Installateur)\n\n**Ansprache-Idee:** \n„Wenn Wartenberger auf dem Smartphone nach 'Heizung ausfall' oder 'Badrenovierung' suchen, müssen Sie ganz oben stehen – sonst landet der Auftrag direkt bei der Konkurrenz aus der nächsten Kreisstadt.“",
+      "ts": "2026-09-19 23:33",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-schwalmtal",
-      "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
+      "agent": "chancen-wartenberg",
+      "title": "Chancen-Scout — Wartenberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Bei der geführten „Schwalmtaler Kräuter- und Basalt-Genusstour“ wandern Sie durch die sanfte Vulkanlandschaft, sammeln wildwachsende Naturkräuter und genießen anschließend ein regionales Picknick an einem verwunschenen Basaltbruch.\n\n**FÜR WEN:** Das Paket richtet sich an Naturgenießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit suchen und die kulinarischen Schätze des Vogelsbergs entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und sichern Sie sich das Komplettpaket inklusive Kräuterguide und gefülltem Picknickkorb direkt online.",
-      "ts": "2026-09-19 21:37",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-schwalmtal",
-      "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nDie „Schwalmtaler Feierabend-Box“ ist ein wöchentliches Kisten-Abo mit frischem Saison-Gemüse, Eiern, Landbrot und einer wechselnden Hof-Spezialität aus der Region, die kontaktlos an einer zentralen 24/7-Abholstation bereitsteht.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Schwalmtal und Umkreis, die ehrlich erzeugte Lebensmittel aus der Heimat wollen, aber zu normalen Öffnungszeiten keine Zeit für den Hofladen-Rundruf haben.\n\n**ERSTER SCHRITT:** \nDrei benachbarte Höfe und einen Dorf-Bäcker an einen Tisch holen, um ein einfaches Start-Sortiment für die erste Test-Kiste zusammenzustellen.",
-      "ts": "2026-09-19 21:36",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-schwalmtal",
-      "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein etablierter, inhabergeführter **Dachdeckerbetrieb** (oft stark ausgelastet durch Mundpropaganda, aber online kaum sichtbar für lukrative Neukunden-Anfragen wie PV-Montage, Dachsanierung oder Notfälle).\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn Hauseigentümer in Waldniel oder Amern nach einem Sturmschaden oder einer Dachsanierung auf Google suchen, landen sie aktuell direkt bei der Konkurrenz aus Viersen oder Mönchengladbach – wollen wir gemeinsam dafür sorgen, dass diese Aufträge hier bei Ihnen in Schwalmtal bleiben?“",
-      "ts": "2026-09-19 21:36",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-schwalmtal",
-      "title": "Chancen-Scout — Schwalmtal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Mobile, chemiefreie Reinigung von Photovoltaikanlagen auf Scheunendächern und Wohnhäusern zur Ertragssteigerung.\n\n**WARUM HIER:** In den Schwalmtaler Ortsteilen wie Brauerschwend oder Storndorf gibt es eine extrem hohe Dichte an Solar-Scheunendächern, die durch landwirtschaftlichen Staub an Leistung verlieren und von großen Anbietern wegen kleiner Auftragsgrößen ignoriert werden.\n\n**ERSTER SCHRITT:** Eine professionelle Teleskop-Reinigungsbürste mieten oder anschaffen, drei Testdächer bei lokalen Landwirten kostenlos reinigen und mit den Vorher-Nachher-Ertragsdaten im Schwalmtaler Mitteilungsblatt werben.",
-      "ts": "2026-09-19 21:36",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-ulrichstein",
-      "title": "Senioren-Alltagsdienste — Ulrichstein  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** \nEin verlässlicher, kombinierter Fahr- und Einkaufsbegleitdienst, der ältere Menschen direkt an der Haustür abholt, sie geduldig bei Erledigungen unterstützt und die Einkäufe auf Wunsch bis in die Küche trägt.\n\n**WARUM HIER:** \nIn Ulrichstein, der höchstgelegenen Stadt Hessens, erschweren steile Wege, raues Winterwetter und die weiten Distanzen zwischen den Ortsteilen die eigenständige Versorgung im Alter ganz besonders.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit der Stadtverwaltung und den Ortsvorstehern starten wir eine einfache Bedarfsabfrage in allen Ortsteilen, um erste feste Fahrrouten und ehrenamtliche Fahrer-Paten aus der Nachbarschaft zu gewinnen.",
-      "ts": "2026-09-19 21:36",
+      "text": "**WAS:** Ein mobiler E-Bike-Wartungs- und Pannendienst mit Hol- und Bringservice für Pendler und Freizeitradler.\n\n**WARUM HIER:** Wartenberg liegt strategisch günstig am Vulkanradweg sowie an der Pendler-Achse Lauterbach–Fulda (Bahnhof Angersbach), besitzt jedoch keine eigene Fahrradwerkstatt im Gemeindegebiet.\n\n**ERSTER SCHRITT:** Grundwerkzeug ins eigene Fahrzeug packen und Flyer mit einfachem Buchungscode direkt an den Pendler-Parkplätzen am Bahnhof Angersbach sowie bei lokalen Gastronomen auslegen.",
+      "ts": "2026-09-19 23:33",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 4,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-schwalmtal",
-          "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Bei der geführten „Schwalmtaler Kräuter- und Basalt-Genusstour“ wandern Sie durch die sanfte Vulkanlandschaft, sammeln wildwachsende Naturkräuter und genießen anschließend ein regionales Picknick an einem verwunschenen Basaltbruch.\n\n**FÜR WEN:** Das Paket richtet sich an Naturgenießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit suchen und die kulinarischen Schätze des Vogelsbergs entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und sichern Sie sich das Komplettpaket inklusive Kräuterguide und gefülltem Picknickkorb direkt online.",
-          "ts": "2026-09-19 21:37",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-schwalmtal",
-          "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nDie „Schwalmtaler Feierabend-Box“ ist ein wöchentliches Kisten-Abo mit frischem Saison-Gemüse, Eiern, Landbrot und einer wechselnden Hof-Spezialität aus der Region, die kontaktlos an einer zentralen 24/7-Abholstation bereitsteht.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Schwalmtal und Umkreis, die ehrlich erzeugte Lebensmittel aus der Heimat wollen, aber zu normalen Öffnungszeiten keine Zeit für den Hofladen-Rundruf haben.\n\n**ERSTER SCHRITT:** \nDrei benachbarte Höfe und einen Dorf-Bäcker an einen Tisch holen, um ein einfaches Start-Sortiment für die erste Test-Kiste zusammenzustellen.",
-          "ts": "2026-09-19 21:36",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-schwalmtal",
-          "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Ein etablierter, inhabergeführter **Dachdeckerbetrieb** (oft stark ausgelastet durch Mundpropaganda, aber online kaum sichtbar für lukrative Neukunden-Anfragen wie PV-Montage, Dachsanierung oder Notfälle).\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn Hauseigentümer in Waldniel oder Amern nach einem Sturmschaden oder einer Dachsanierung auf Google suchen, landen sie aktuell direkt bei der Konkurrenz aus Viersen oder Mönchengladbach – wollen wir gemeinsam dafür sorgen, dass diese Aufträge hier bei Ihnen in Schwalmtal bleiben?“",
-          "ts": "2026-09-19 21:36",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-schwalmtal",
-          "title": "Chancen-Scout — Schwalmtal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Mobile, chemiefreie Reinigung von Photovoltaikanlagen auf Scheunendächern und Wohnhäusern zur Ertragssteigerung.\n\n**WARUM HIER:** In den Schwalmtaler Ortsteilen wie Brauerschwend oder Storndorf gibt es eine extrem hohe Dichte an Solar-Scheunendächern, die durch landwirtschaftlichen Staub an Leistung verlieren und von großen Anbietern wegen kleiner Auftragsgrößen ignoriert werden.\n\n**ERSTER SCHRITT:** Eine professionelle Teleskop-Reinigungsbürste mieten oder anschaffen, drei Testdächer bei lokalen Landwirten kostenlos reinigen und mit den Vorher-Nachher-Ertragsdaten im Schwalmtaler Mitteilungsblatt werben.",
-          "ts": "2026-09-19 21:36",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
       "count": 2,
       "items": [
         {
-          "dept": "Kunden",
-          "agent": "senioren-schwalmtal",
-          "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "handwerk-wartenberg",
+          "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin verlässlicher Begleit- und Fahrdienst, der ältere Menschen direkt an der eigenen Haustür abholt, sie achtsam zu Terminen oder Einkäufen begleitet und kleine Besorgungen des Alltags übernimmt.\n\n**WARUM HIER:** \nDa Schwalmtal aus vielen weit verstreuten Ortsteilen besteht und Busverbindungen im Alter oft beschwerlich sind, ermöglicht dieser Dienst das Verbleiben im vertrauten Zuhause bei voller Selbstbestimmung.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Kommune und den Seniorenvertretungen vor Ort wird eine feste Sprechstunde sowie ein zentrales Telefon für einfache Fahr- und Hilfeanfragen eingerichtet.",
-          "ts": "2026-09-19 21:37",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (Installateur)\n\n**Ansprache-Idee:** \n„Wenn Wartenberger auf dem Smartphone nach 'Heizung ausfall' oder 'Badrenovierung' suchen, müssen Sie ganz oben stehen – sonst landet der Auftrag direkt bei der Konkurrenz aus der nächsten Kreisstadt.“",
+          "ts": "2026-09-19 23:33",
           "age_min": 0
         },
         {
-          "dept": "Kunden",
-          "agent": "senioren-ulrichstein",
-          "title": "Senioren-Alltagsdienste — Ulrichstein  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "chancen-wartenberg",
+          "title": "Chancen-Scout — Wartenberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin verlässlicher, kombinierter Fahr- und Einkaufsbegleitdienst, der ältere Menschen direkt an der Haustür abholt, sie geduldig bei Erledigungen unterstützt und die Einkäufe auf Wunsch bis in die Küche trägt.\n\n**WARUM HIER:** \nIn Ulrichstein, der höchstgelegenen Stadt Hessens, erschweren steile Wege, raues Winterwetter und die weiten Distanzen zwischen den Ortsteilen die eigenständige Versorgung im Alter ganz besonders.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit der Stadtverwaltung und den Ortsvorstehern starten wir eine einfache Bedarfsabfrage in allen Ortsteilen, um erste feste Fahrrouten und ehrenamtliche Fahrer-Paten aus der Nachbarschaft zu gewinnen.",
-          "ts": "2026-09-19 21:36",
+          "text": "**WAS:** Ein mobiler E-Bike-Wartungs- und Pannendienst mit Hol- und Bringservice für Pendler und Freizeitradler.\n\n**WARUM HIER:** Wartenberg liegt strategisch günstig am Vulkanradweg sowie an der Pendler-Achse Lauterbach–Fulda (Bahnhof Angersbach), besitzt jedoch keine eigene Fahrradwerkstatt im Gemeindegebiet.\n\n**ERSTER SCHRITT:** Grundwerkzeug ins eigene Fahrzeug packen und Flyer mit einfachem Buchungscode direkt an den Pendler-Parkplätzen am Bahnhof Angersbach sowie bei lokalen Gastronomen auslegen.",
+          "ts": "2026-09-19 23:33",
           "age_min": 0
         }
       ]
