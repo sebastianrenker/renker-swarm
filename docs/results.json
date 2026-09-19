@@ -1,7 +1,69 @@
 {
-  "updated": "2026-09-19 14:23 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-19 17:21 UTC",
+  "total_results": 3,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-freiensteinau",
+      "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Sonntags-Kiste“ – ein einfaches Abo mit frischen Hofprodukten wie Hausmacher Wurst, regionalem Käse, Eiern und Holzofenbrot, das jeden Samstagmorgen direkt an die Haustür geliefert wird.\n\n**fuer WEN:** Für beschäftigte Familien, Senioren und Urlaubsgäste in Freiensteinau und den umliegenden Ortsteilen, die ohne Aufwand ehrliche Lebensmittel aus der Nachbarschaft auf dem Frühstückstisch haben wollen.\n\n**ERSTER SCHRITT:** Zwei befreundete Höfe und einen lokalen Bäcker an einen Tisch holen, ein erstes Probepaket packen und das Angebot im Gemeindeblatt sowie im Dorfladen ankündigen.",
+      "ts": "2026-09-19 17:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-freiensteinau",
+      "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Bad-Sanierungen und moderne Heiztechnik).\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn in Freiensteinau die Heizung streikt oder jemand sein Bad neu machen will, sucht er heute zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Telefonnummer ganz oben steht, bevor die Kundschaft beim Betrieb im Nachbardorf anruft.“",
+      "ts": "2026-09-19 17:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-freiensteinau",
+      "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Schärf- und Wartungsservice für Gartengeräte, Kettensägen und Rasenmäher, der Wartungen und Reparaturen direkt beim Kunden auf dem Hof erledigt.\n\n**WARUM HIER:** Freiensteinau ist auf 12 Ortsteile verteilt mit vielen großen Grundstücken und hoher Eigenheimdichte, während die Wege zur nächsten Fachwerkstatt nach Lauterbach oder Fulda für die oft ältere Bevölkerung zeitaufwendig sind.\n\n**ERSTER SCHRITT:** Ein Grundset an Werkzeug anschaffen und über lokale WhatsApp-Dorfgruppen sowie Aushänge beim Bäcker feste „Ortsteil-Servicetage“ auf Vorbestellung anbieten.",
+      "ts": "2026-09-19 17:21",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 3,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "direkt-freiensteinau",
+          "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Vogelsberger Sonntags-Kiste“ – ein einfaches Abo mit frischen Hofprodukten wie Hausmacher Wurst, regionalem Käse, Eiern und Holzofenbrot, das jeden Samstagmorgen direkt an die Haustür geliefert wird.\n\n**fuer WEN:** Für beschäftigte Familien, Senioren und Urlaubsgäste in Freiensteinau und den umliegenden Ortsteilen, die ohne Aufwand ehrliche Lebensmittel aus der Nachbarschaft auf dem Frühstückstisch haben wollen.\n\n**ERSTER SCHRITT:** Zwei befreundete Höfe und einen lokalen Bäcker an einen Tisch holen, ein erstes Probepaket packen und das Angebot im Gemeindeblatt sowie im Dorfladen ankündigen.",
+          "ts": "2026-09-19 17:21",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-freiensteinau",
+          "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Bad-Sanierungen und moderne Heiztechnik).\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn in Freiensteinau die Heizung streikt oder jemand sein Bad neu machen will, sucht er heute zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Telefonnummer ganz oben steht, bevor die Kundschaft beim Betrieb im Nachbardorf anruft.“",
+          "ts": "2026-09-19 17:21",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-freiensteinau",
+          "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Schärf- und Wartungsservice für Gartengeräte, Kettensägen und Rasenmäher, der Wartungen und Reparaturen direkt beim Kunden auf dem Hof erledigt.\n\n**WARUM HIER:** Freiensteinau ist auf 12 Ortsteile verteilt mit vielen großen Grundstücken und hoher Eigenheimdichte, während die Wege zur nächsten Fachwerkstatt nach Lauterbach oder Fulda für die oft ältere Bevölkerung zeitaufwendig sind.\n\n**ERSTER SCHRITT:** Ein Grundset an Werkzeug anschaffen und über lokale WhatsApp-Dorfgruppen sowie Aushänge beim Bäcker feste „Ortsteil-Servicetage“ auf Vorbestellung anbieten.",
+          "ts": "2026-09-19 17:21",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

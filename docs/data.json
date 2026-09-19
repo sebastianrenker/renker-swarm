@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-19T14:23Z",
+  "updated": "2026-09-19T17:21Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Die „Vogelsberger Sonntags-Kiste“ – ein einfaches Abo mit frischen Hofprodukten wie Hausmacher Wurst, regionalem Käse, Eiern und Holzofenbrot, das jeden Samstagmorgen direkt an die Haustür geliefert wird. **fuer WEN:** Für beschäftigte Familien, Senioren und Urlaubsgäste in Freiensteinau und den umliegenden Ortsteilen, die ohne Aufwand ehrliche Lebe",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -652,27 +656,27 @@
       "name": "Chancen-Scout — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Schärf- und Wartungsservice für Gartengeräte, Kettensägen und Rasenmäher, der Wartungen und Reparaturen direkt beim Kunden auf dem Hof erledigt. **WARUM HIER:** Freiensteinau ist auf 12 Ortsteile ver",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-freiensteinau",
       "name": "Handwerk-Sichtbarkeit — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Bad-Sanierungen und moderne Heiztechnik). **Ansprache-Idee:** „Hallo [Name], wenn in Freiensteinau die Heizung streikt oder jemand sein Bad neu machen will, sucht ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-freiensteinau",
       "name": "Direktvermarktung — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Sonntags-Kiste“ – ein einfaches Abo mit frischen Hofprodukten wie Hausmacher Wurst, regionalem Käse, Eiern und Holzofenbrot, das jeden Samstagmorgen direkt an die Haustür geliefert wird. **fuer",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-freiensteinau",
@@ -1495,8 +1499,33 @@
     }
   ],
   "budget": {
-    "used": 11,
+    "used": 14,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-freiensteinau",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Sonntags-Kiste“ – ein einfaches Abo mit frischen Hofprodukten wie Hausmacher Wurst, regionalem Käse, Eiern und Holzofenbrot, das jeden Samstagmorgen direkt an die Haustür geliefert wird. **fuer WEN:** Für beschäftigte Familien, Senioren und Urlaubsgäste in Freiensteinau und den umliegenden Ortsteilen, die ohne Aufwand ehrliche Lebe",
+      "ts": "2026-09-19 17:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-freiensteinau",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Bad-Sanierungen und moderne Heiztechnik). **Ansprache-Idee:** „Hallo [Name], wenn in Freiensteinau die Heizung streikt oder jemand sein Bad neu machen will, sucht er heute zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Telefonnummer ganz oben steht, bevor die Kundschaft beim Betrieb im Nachbar",
+      "ts": "2026-09-19 17:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-freiensteinau",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Schärf- und Wartungsservice für Gartengeräte, Kettensägen und Rasenmäher, der Wartungen und Reparaturen direkt beim Kunden auf dem Hof erledigt. **WARUM HIER:** Freiensteinau ist auf 12 Ortsteile verteilt mit vielen großen Grundstücken und hoher Eigenheimdichte, während die Wege zur nächsten Fachwerkstatt nach Lauterbach oder Fulda für d",
+      "ts": "2026-09-19 17:21",
+      "age_min": 0
+    }
+  ]
 }
