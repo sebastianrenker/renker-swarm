@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-18T23:26Z",
+  "updated": "2026-09-19T01:24Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein automatisierter 24/7-Regiomat-Standort mit integrierter E-Bike-Ladestation und überdachtem Rastplatz für regionale Vogelsberger Spezialitäten, Grillgut und Snacks. **WARUM HIER:** In den sieben Ortsteilen von Gemünden (Felda) trifft eine ausgedünnte lokale Nahversorgung an Abenden und Wochenenden auf eine hohe Frequenz von Durchgangsverkehr sowi",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -28,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Der „Romröder Dorf-Begleiter“ ist ein verlässlicher, ehrenamtlicher Fahr- und Einkaufsservice, der ältere Menschen aus den fünf Ortsteilen sicher zu Arztterminen, Bes",
+        "text": "**WAS:** Ein mobiler Nachbarschaftsdienst, der feste wöchentliche Fahrten für Einkäufe und Arztbesuche anbietet und die Seniorinnen und Senioren auf Wunsch aufmerksam von der Haustür bis zur Erledigung begleitet. **WARUM HIER:** Da die Ortsteile von Feldatal weit auseinanderliegen und es kaum noch Lebensmittelgeschäfte im Ort gibt, bewahrt dieser Dienst die ",
         "age_min": 0
       }
     },
@@ -548,36 +552,36 @@
       "name": "Vulkanregion-Tourismus — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei der geführten E-Bike-Tour „Märchen & Vulkan-Genuss“ erkunden Sie die Wälder rund um Schloss Romrod und genießen ein regionales Gourmet-Picknick direkt am Schlossteich. **FÜR WEN:** Das Angebot richtet sich a",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-romrod",
       "name": "Senioren-Alltagsdienste — Romrod",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Romröder Dorf-Begleiter“ ist ein verlässlicher, ehrenamtlicher Fahr- und Einkaufsservice, der ältere Menschen aus den fünf Ortsteilen sicher zu Arztterminen, Bes",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-feldatal",
       "name": "Chancen-Scout — Feldatal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobiles E-Bike-Service- und Verleihmobil („Werkstatt auf Rädern“), das Reparaturen direkt vor Ort bei Anwohnern erledigt und Miet-Pedelecs an Ferienunterkünfte im Feldatal liefert. **WARUM HIER:** Feldatal liegt",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-feldatal",
       "name": "Handwerk-Sichtbarkeit — Feldatal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbauer** in Feldatal. **Ansprache-Idee:** „Hallo Herr [Name], wenn im Feldatal die Heizung ausfällt oder jemand ein neues Bad plant, greift er zuerst zum Smartphone – ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-feldatal",
@@ -593,27 +597,27 @@
       "name": "Vulkanregion-Tourismus — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Paket „Basalt & Sterne“ beinhaltet eine geführte Dämmerungswanderung durch die Vulkanlandschaft rund um Feldatal mit anschließendem Picknick voller regionaler Vogelsberger Spezialitäten unter dem Sternenhimm",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-feldatal",
       "name": "Senioren-Alltagsdienste — Feldatal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Nachbarschaftsdienst, der feste wöchentliche Fahrten für Einkäufe und Arztbesuche anbietet und die Seniorinnen und Senioren auf Wunsch aufmerksam von der Haustür bis zur Erledigung begleitet. **WARUM",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-gemuenden-felda",
       "name": "Chancen-Scout — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein automatisierter 24/7-Regiomat-Standort mit integrierter E-Bike-Ladestation und überdachtem Rastplatz für regionale Vogelsberger Spezialitäten, Grillgut und Snacks. **WARUM HIER:** In den sieben Ortsteilen vo",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-gemuenden-felda",
@@ -1499,16 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 9,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-romrod",
+      "dept": "Chancen",
+      "agent": "chancen-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** Der „Romröder Dorf-Begleiter“ ist ein verlässlicher, ehrenamtlicher Fahr- und Einkaufsservice, der ältere Menschen aus den fünf Ortsteilen sicher zu Arztterminen, Bes",
-      "ts": "2026-09-18 23:26",
+      "text": "**WAS:** Ein automatisierter 24/7-Regiomat-Standort mit integrierter E-Bike-Ladestation und überdachtem Rastplatz für regionale Vogelsberger Spezialitäten, Grillgut und Snacks. **WARUM HIER:** In den sieben Ortsteilen von Gemünden (Felda) trifft eine ausgedünnte lokale Nahversorgung an Abenden und Wochenenden auf eine hohe Frequenz von Durchgangsverkehr sowi",
+      "ts": "2026-09-19 01:24",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-feldatal",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Nachbarschaftsdienst, der feste wöchentliche Fahrten für Einkäufe und Arztbesuche anbietet und die Seniorinnen und Senioren auf Wunsch aufmerksam von der Haustür bis zur Erledigung begleitet. **WARUM HIER:** Da die Ortsteile von Feldatal weit auseinanderliegen und es kaum noch Lebensmittelgeschäfte im Ort gibt, bewahrt dieser Dienst die ",
+      "ts": "2026-09-19 01:24",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-feldatal",
+      "via": "gemini",
+      "text": "**WAS:** Das Paket „Basalt & Sterne“ beinhaltet eine geführte Dämmerungswanderung durch die Vulkanlandschaft rund um Feldatal mit anschließendem Picknick voller regionaler Vogelsberger Spezialitäten unter dem Sternenhimmel. **für WEN:** Es richtet sich an Paare, Naturgenießer und Alltagsaussteiger, die eine romantische und entschleunigende Auszeit in unberüh",
+      "ts": "2026-09-19 01:24",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-romrod",
+      "via": "gemini",
+      "text": "**WAS:** Bei der geführten E-Bike-Tour „Märchen & Vulkan-Genuss“ erkunden Sie die Wälder rund um Schloss Romrod und genießen ein regionales Gourmet-Picknick direkt am Schlossteich. **FÜR WEN:** Das Angebot richtet sich an Paare und Naturliebhaber, die eine entspannte Kombination aus Kultur, sanfter Bewegung und regionaler Kulinarik suchen. **ERSTER SCHRITT:*",
+      "ts": "2026-09-19 01:24",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-feldatal",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbauer** in Feldatal. **Ansprache-Idee:** „Hallo Herr [Name], wenn im Feldatal die Heizung ausfällt oder jemand ein neues Bad plant, greift er zuerst zum Smartphone – lassen Sie uns dafür sorgen, dass dort Ihre Nummer steht und nicht die eines Betriebes aus der nächsten Kreisstadt.“",
+      "ts": "2026-09-19 01:24",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-feldatal",
+      "via": "gemini",
+      "text": "**WAS:** Mobiles E-Bike-Service- und Verleihmobil („Werkstatt auf Rädern“), das Reparaturen direkt vor Ort bei Anwohnern erledigt und Miet-Pedelecs an Ferienunterkünfte im Feldatal liefert. **WARUM HIER:** Feldatal liegt attraktiv an Vogelsberger Radrouten und hat eine hohe E-Bike-Dichte bei Senioren sowie Urlaubern, verfügt aber über kein einziges stationär",
+      "ts": "2026-09-19 01:24",
       "age_min": 0
     }
   ]
