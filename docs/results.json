@@ -1,48 +1,30 @@
 {
-  "updated": "2026-09-19 23:33 UTC",
-  "total_results": 2,
+  "updated": "2026-09-20 01:39 UTC",
+  "total_results": 1,
   "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-wartenberg",
-      "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
+      "agent": "direkt-wartenberg",
+      "title": "Direktvermarktung — Wartenberg  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (Installateur)\n\n**Ansprache-Idee:** \n„Wenn Wartenberger auf dem Smartphone nach 'Heizung ausfall' oder 'Badrenovierung' suchen, müssen Sie ganz oben stehen – sonst landet der Auftrag direkt bei der Konkurrenz aus der nächsten Kreisstadt.“",
-      "ts": "2026-09-19 23:33",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-wartenberg",
-      "title": "Chancen-Scout — Wartenberg  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Wartungs- und Pannendienst mit Hol- und Bringservice für Pendler und Freizeitradler.\n\n**WARUM HIER:** Wartenberg liegt strategisch günstig am Vulkanradweg sowie an der Pendler-Achse Lauterbach–Fulda (Bahnhof Angersbach), besitzt jedoch keine eigene Fahrradwerkstatt im Gemeindegebiet.\n\n**ERSTER SCHRITT:** Grundwerkzeug ins eigene Fahrzeug packen und Flyer mit einfachem Buchungscode direkt an den Pendler-Parkplätzen am Bahnhof Angersbach sowie bei lokalen Gastronomen auslegen.",
-      "ts": "2026-09-19 23:33",
+      "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – eine wöchentliche Abo-Box mit frischem Brotzeitsortiment, Saison-Gemüse und Hof-Schmankerln aus dem Wartenberger Umland zur kontaktlosen Abholung.\n\n**für WEN:** Für vielbeschäftigte Pendler und Familien aus der Region, die nach dem Feierabend ohne Supermarkt-Stress ehrliche, heimische Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger (z. B. Hofladen, Bäcker, Imker) für eine gemeinsame Test-Phase gewinnen und einen gut angebundenen Abhol-Standort an einer der Hauptverkehrsrouten festlegen.",
+      "ts": "2026-09-20 01:39",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 1,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-wartenberg",
-          "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
+          "agent": "direkt-wartenberg",
+          "title": "Direktvermarktung — Wartenberg  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (Installateur)\n\n**Ansprache-Idee:** \n„Wenn Wartenberger auf dem Smartphone nach 'Heizung ausfall' oder 'Badrenovierung' suchen, müssen Sie ganz oben stehen – sonst landet der Auftrag direkt bei der Konkurrenz aus der nächsten Kreisstadt.“",
-          "ts": "2026-09-19 23:33",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-wartenberg",
-          "title": "Chancen-Scout — Wartenberg  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler E-Bike-Wartungs- und Pannendienst mit Hol- und Bringservice für Pendler und Freizeitradler.\n\n**WARUM HIER:** Wartenberg liegt strategisch günstig am Vulkanradweg sowie an der Pendler-Achse Lauterbach–Fulda (Bahnhof Angersbach), besitzt jedoch keine eigene Fahrradwerkstatt im Gemeindegebiet.\n\n**ERSTER SCHRITT:** Grundwerkzeug ins eigene Fahrzeug packen und Flyer mit einfachem Buchungscode direkt an den Pendler-Parkplätzen am Bahnhof Angersbach sowie bei lokalen Gastronomen auslegen.",
-          "ts": "2026-09-19 23:33",
+          "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – eine wöchentliche Abo-Box mit frischem Brotzeitsortiment, Saison-Gemüse und Hof-Schmankerln aus dem Wartenberger Umland zur kontaktlosen Abholung.\n\n**für WEN:** Für vielbeschäftigte Pendler und Familien aus der Region, die nach dem Feierabend ohne Supermarkt-Stress ehrliche, heimische Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger (z. B. Hofladen, Bäcker, Imker) für eine gemeinsame Test-Phase gewinnen und einen gut angebundenen Abhol-Standort an einer der Hauptverkehrsrouten festlegen.",
+          "ts": "2026-09-20 01:39",
           "age_min": 0
         }
       ]

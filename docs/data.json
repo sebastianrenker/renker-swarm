@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-19T23:33Z",
+  "updated": "2026-09-20T01:39Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (Installateur) **Ansprache-Idee:** „Wenn Wartenberger auf dem Smartphone nach 'Heizung ausfall' oder 'Badrenovierung' suchen, müssen Sie ganz oben stehen – sonst landet der Auftrag direkt bei der Konkurrenz aus der nächsten Kreisstadt.“",
+        "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – eine wöchentliche Abo-Box mit frischem Brotzeitsortiment, Saison-Gemüse und Hof-Schmankerln aus dem Wartenberger Umland zur kontaktlosen Abholung. **für WEN:** Für vielbeschäftigte Pendler und Familien aus der Region, die nach dem Feierabend ohne Supermarkt-Stress ehrliche, heimische Lebensmittel auf dem Tisch h",
         "age_min": 0
       }
     },
@@ -791,27 +791,27 @@
       "name": "Chancen-Scout — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Wartungs- und Pannendienst mit Hol- und Bringservice für Pendler und Freizeitradler. **WARUM HIER:** Wartenberg liegt strategisch günstig am Vulkanradweg sowie an der Pendler-Achse Lauterbach–",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-wartenberg",
       "name": "Handwerk-Sichtbarkeit — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (Installateur) **Ansprache-Idee:** „Wenn Wartenberger auf dem Smartphone nach 'Heizung ausfall' oder 'Badrenovierung' suchen, müssen Sie ganz oben stehen – sonst landet der A",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-wartenberg",
       "name": "Direktvermarktung — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – eine wöchentliche Abo-Box mit frischem Brotzeitsortiment, Saison-Gemüse und Hof-Schmankerln aus dem Wartenberger Umland zur kontaktlosen Abholung. **für WEN:** Für vielbesch",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-wartenberg",
@@ -1499,24 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 28,
+    "used": 1,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-wartenberg",
+      "agent": "direkt-wartenberg",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (Installateur) **Ansprache-Idee:** „Wenn Wartenberger auf dem Smartphone nach 'Heizung ausfall' oder 'Badrenovierung' suchen, müssen Sie ganz oben stehen – sonst landet der Auftrag direkt bei der Konkurrenz aus der nächsten Kreisstadt.“",
-      "ts": "2026-09-19 23:33",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-wartenberg",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Wartungs- und Pannendienst mit Hol- und Bringservice für Pendler und Freizeitradler. **WARUM HIER:** Wartenberg liegt strategisch günstig am Vulkanradweg sowie an der Pendler-Achse Lauterbach–Fulda (Bahnhof Angersbach), besitzt jedoch keine eigene Fahrradwerkstatt im Gemeindegebiet. **ERSTER SCHRITT:** Grundwerkzeug ins eigene Fah",
-      "ts": "2026-09-19 23:33",
+      "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – eine wöchentliche Abo-Box mit frischem Brotzeitsortiment, Saison-Gemüse und Hof-Schmankerln aus dem Wartenberger Umland zur kontaktlosen Abholung. **für WEN:** Für vielbeschäftigte Pendler und Familien aus der Region, die nach dem Feierabend ohne Supermarkt-Stress ehrliche, heimische Lebensmittel auf dem Tisch h",
+      "ts": "2026-09-20 01:39",
       "age_min": 0
     }
   ]
