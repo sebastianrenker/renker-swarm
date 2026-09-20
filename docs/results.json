@@ -1,33 +1,7 @@
 {
-  "updated": "2026-09-20 01:39 UTC",
-  "total_results": 1,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-wartenberg",
-      "title": "Direktvermarktung — Wartenberg  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – eine wöchentliche Abo-Box mit frischem Brotzeitsortiment, Saison-Gemüse und Hof-Schmankerln aus dem Wartenberger Umland zur kontaktlosen Abholung.\n\n**für WEN:** Für vielbeschäftigte Pendler und Familien aus der Region, die nach dem Feierabend ohne Supermarkt-Stress ehrliche, heimische Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger (z. B. Hofladen, Bäcker, Imker) für eine gemeinsame Test-Phase gewinnen und einen gut angebundenen Abhol-Standort an einer der Hauptverkehrsrouten festlegen.",
-      "ts": "2026-09-20 01:39",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "direkt-wartenberg",
-          "title": "Direktvermarktung — Wartenberg  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – eine wöchentliche Abo-Box mit frischem Brotzeitsortiment, Saison-Gemüse und Hof-Schmankerln aus dem Wartenberger Umland zur kontaktlosen Abholung.\n\n**für WEN:** Für vielbeschäftigte Pendler und Familien aus der Region, die nach dem Feierabend ohne Supermarkt-Stress ehrliche, heimische Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger (z. B. Hofladen, Bäcker, Imker) für eine gemeinsame Test-Phase gewinnen und einen gut angebundenen Abhol-Standort an einer der Hauptverkehrsrouten festlegen.",
-          "ts": "2026-09-20 01:39",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-09-20 07:01 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }

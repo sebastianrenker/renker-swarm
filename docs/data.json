@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-20T01:39Z",
+  "updated": "2026-09-20T07:01Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – eine wöchentliche Abo-Box mit frischem Brotzeitsortiment, Saison-Gemüse und Hof-Schmankerln aus dem Wartenberger Umland zur kontaktlosen Abholung. **für WEN:** Für vielbeschäftigte Pendler und Familien aus der Region, die nach dem Feierabend ohne Supermarkt-Stress ehrliche, heimische Lebensmittel auf dem Tisch h",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -809,9 +805,9 @@
       "name": "Direktvermarktung — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – eine wöchentliche Abo-Box mit frischem Brotzeitsortiment, Saison-Gemüse und Hof-Schmankerln aus dem Wartenberger Umland zur kontaktlosen Abholung. **für WEN:** Für vielbesch",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-wartenberg",
@@ -1502,14 +1498,5 @@
     "used": 1,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-wartenberg",
-      "via": "gemini",
-      "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – eine wöchentliche Abo-Box mit frischem Brotzeitsortiment, Saison-Gemüse und Hof-Schmankerln aus dem Wartenberger Umland zur kontaktlosen Abholung. **für WEN:** Für vielbeschäftigte Pendler und Familien aus der Region, die nach dem Feierabend ohne Supermarkt-Stress ehrliche, heimische Lebensmittel auf dem Tisch h",
-      "ts": "2026-09-20 01:39",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
