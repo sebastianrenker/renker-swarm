@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-20T21:10Z",
+  "updated": "2026-09-20T23:15Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit echten Hoferzeugnissen wie Hausmacher Wurst, Eiern, Kartoffeln und saisonalem Gemüse, die kontaktlos an einer gekühlten 24/7-Abholstation in Grebenau bereitsteht. **FÜR WEN:** Für berufstätige Pendler und Familien aus der Region, die Wert auf ehrliche, heimische Lebensmittel legen, aber zu den re",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler „Dorf-Fahr- und Besorgungsdienst“, der ältere Mitbürgerinnen und Mitbürger verlässlich zu Ärzten oder Besorgungen begleitet, Einkäufe direkt ins Haus bringt und Zeit für ein zugewandtes Gespräch mitbringt. **WARUM HIER:** Da Antrifttal aus fünf sehr kleinen, verstreuten Ortsteilen ohne eigene Lebensmittelgeschäfte besteht, sichert dieser",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -850,54 +858,54 @@
       "name": "Direktvermarktung — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine gekühlte 24/7-Abholstation nahe dem Antriftstausee mit vorbestellbaren „Vogelsberger Feierabend- und Picknick-Boxen“, vollgepackt mit Wurst, Käse, Brot und Saison-Gemüse von Höfen aus der direkten Nachbarsc",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "tourismus-antrifttal",
       "name": "Vulkanregion-Tourismus — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Sunset-SUP & Vogelsberger Picknick“ ist eine geführte Abendtour mit dem Stand-Up-Paddle-Board auf der ruhigen Antrifttalsperre, abgerundet durch einen Korb voller regionaler Spezialitäten direkt am Ufer. **fuer",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "senioren-antrifttal",
       "name": "Senioren-Alltagsdienste — Antrifttal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler „Dorf-Fahr- und Besorgungsdienst“, der ältere Mitbürgerinnen und Mitbürger verlässlich zu Ärzten oder Besorgungen begleitet, Einkäufe direkt ins Haus bringt und Zeit für ein zugewandtes Gespräch mitb",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grebenau",
       "name": "Chancen-Scout — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Säge- und Holzspaltservice auf Auftragsbasis, der angeliefertes Stammholz direkt auf den Höfen der Anwohner zu fertigem Kaminholz verarbeitet. **WARUM HIER:** Im stark bewaldeten „Gründchen“ rund um ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grebenau",
       "name": "Handwerk-Sichtbarkeit — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** **Ein lokaler Sanitär- und Heizungsbetrieb (SHK)** **Ansprache-Idee (1 Satz):** „Herr [Name], wenn im Vogelsberg die Heizung streikt oder jemand einen Fachbetrieb für eine neue Wärmepumpe sucht, wird zue",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-grebenau",
       "name": "Direktvermarktung — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit echten Hoferzeugnissen wie Hausmacher Wurst, Eiern, Kartoffeln und saisonalem Gemüse, die kontaktlos an einer gekühlten 24/7-Abholstation in Grebenau bereits",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-grebenau",
@@ -1495,8 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 5,
+    "used": 11,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-grebenau",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit echten Hoferzeugnissen wie Hausmacher Wurst, Eiern, Kartoffeln und saisonalem Gemüse, die kontaktlos an einer gekühlten 24/7-Abholstation in Grebenau bereitsteht. **FÜR WEN:** Für berufstätige Pendler und Familien aus der Region, die Wert auf ehrliche, heimische Lebensmittel legen, aber zu den re",
+      "ts": "2026-09-20 23:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grebenau",
+      "via": "gemini",
+      "text": "**Betriebstyp:** **Ein lokaler Sanitär- und Heizungsbetrieb (SHK)** **Ansprache-Idee (1 Satz):** „Herr [Name], wenn im Vogelsberg die Heizung streikt oder jemand einen Fachbetrieb für eine neue Wärmepumpe sucht, wird zuerst auf dem Handy gegoogelt – lassen Sie uns dafür sorgen, dass die Aufträge aus Grebenau bei Ihnen landen und nicht beim Großbetrieb aus Al",
+      "ts": "2026-09-20 23:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-grebenau",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Säge- und Holzspaltservice auf Auftragsbasis, der angeliefertes Stammholz direkt auf den Höfen der Anwohner zu fertigem Kaminholz verarbeitet. **WARUM HIER:** Im stark bewaldeten „Gründchen“ rund um Grebenau heizen überdurchschnittlich viele Eigenheimbesitzer mit Holz, jedoch fehlt der alternden Bevölkerung oft die Kraft oder das schwere",
+      "ts": "2026-09-20 23:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-antrifttal",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler „Dorf-Fahr- und Besorgungsdienst“, der ältere Mitbürgerinnen und Mitbürger verlässlich zu Ärzten oder Besorgungen begleitet, Einkäufe direkt ins Haus bringt und Zeit für ein zugewandtes Gespräch mitbringt. **WARUM HIER:** Da Antrifttal aus fünf sehr kleinen, verstreuten Ortsteilen ohne eigene Lebensmittelgeschäfte besteht, sichert dieser",
+      "ts": "2026-09-20 23:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-antrifttal",
+      "via": "gemini",
+      "text": "**WAS:** „Sunset-SUP & Vogelsberger Picknick“ ist eine geführte Abendtour mit dem Stand-Up-Paddle-Board auf der ruhigen Antrifttalsperre, abgerundet durch einen Korb voller regionaler Spezialitäten direkt am Ufer. **fuer WEN:** Dieses Erlebnis eignet sich perfekt für Paare, Freunde und aktive Genießer, die nach dem Feierabend eine entspannte Auszeit in der N",
+      "ts": "2026-09-20 23:14",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-antrifttal",
+      "via": "gemini",
+      "text": "**WAS:** Eine gekühlte 24/7-Abholstation nahe dem Antriftstausee mit vorbestellbaren „Vogelsberger Feierabend- und Picknick-Boxen“, vollgepackt mit Wurst, Käse, Brot und Saison-Gemüse von Höfen aus der direkten Nachbarschaft. **fuer WEN:** Für Pendler auf dem Heimweg, die ohne Aufwand ehrlich erzeugte Lebensmittel suchen, und für Ausflügler, die spontan am S",
+      "ts": "2026-09-20 23:14",
+      "age_min": 1
+    }
+  ]
 }
