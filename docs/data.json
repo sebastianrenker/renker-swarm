@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-20T12:21Z",
+  "updated": "2026-09-20T16:21Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** Heizungs- und Sanitärinstallateur (z. B. mit Fokus auf Badmodernisierung und Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Menschen aus Antrifttal online nach einer neuen Heizung oder einem Badumbau suchen, landen sie aktuell meist bei der Konkurrenz aus Alsfeld – wollen wir gemeinsam dafür sorgen, dass diese lukrativen Aufträge dire",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Der „Wartenberger Dorf-Begleiter“ – ein verlässlicher, mobiler Dienst für Einkäufe, Fahrten zum Arzt und begleitete Wege im Ort, der die Selbstständigkeit der Senioren wahrt. **WARUM HIER:** In den weitläufigen Strukturen Wartenbergs entlastet dieser Service ältere Menschen dort, wo Busverbindungen fehlen, und stärkt gleichzeitig das nachbarschaftli",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -822,36 +814,36 @@
       "name": "Vulkanregion-Tourismus — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: „Feuer & Flamme – Romantischer Picknick-Zauber an der Burgruine Wartenberg“** * **WAS:** Eine geführte Abendwanderung zur historischen Burgruine Wartenberg inklusive eines prall gefüllten Picknickkorbs ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-wartenberg",
       "name": "Senioren-Alltagsdienste — Wartenberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Wartenberger Dorf-Begleiter“ – ein verlässlicher, mobiler Dienst für Einkäufe, Fahrten zum Arzt und begleitete Wege im Ort, der die Selbstständigkeit der Senioren wahrt. **WARUM HIER:** In den weitläufigen ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-antrifttal",
       "name": "Chancen-Scout — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Verleih- und Service-Punkt für E-Bikes, Stand-Up-Paddling-Boards und regionale Picknick-Körbe direkt an der Antrifttalsperre. **WARUM HIER:** Die Antrifttalsperre ist der zentrale Freizeit-Hotspot de",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-antrifttal",
       "name": "Handwerk-Sichtbarkeit — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizungs- und Sanitärinstallateur (z. B. mit Fokus auf Badmodernisierung und Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Menschen aus Antrifttal online nach einer neuen Heizung oder einem Badum",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-antrifttal",
@@ -1506,38 +1498,5 @@
     "used": 5,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-antrifttal",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärinstallateur (z. B. mit Fokus auf Badmodernisierung und Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Menschen aus Antrifttal online nach einer neuen Heizung oder einem Badumbau suchen, landen sie aktuell meist bei der Konkurrenz aus Alsfeld – wollen wir gemeinsam dafür sorgen, dass diese lukrativen Aufträge dire",
-      "ts": "2026-09-20 12:21",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-antrifttal",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Verleih- und Service-Punkt für E-Bikes, Stand-Up-Paddling-Boards und regionale Picknick-Körbe direkt an der Antrifttalsperre. **WARUM HIER:** Die Antrifttalsperre ist der zentrale Freizeit-Hotspot der kleinsten Vogelsberg-Gemeinde, bietet Tagesgästen und Camper-Touristen bislang aber kaum flexible, spontan buchbare Zusatzangebote am Wass",
-      "ts": "2026-09-20 12:21",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-wartenberg",
-      "via": "gemini",
-      "text": "**WAS:** Der „Wartenberger Dorf-Begleiter“ – ein verlässlicher, mobiler Dienst für Einkäufe, Fahrten zum Arzt und begleitete Wege im Ort, der die Selbstständigkeit der Senioren wahrt. **WARUM HIER:** In den weitläufigen Strukturen Wartenbergs entlastet dieser Service ältere Menschen dort, wo Busverbindungen fehlen, und stärkt gleichzeitig das nachbarschaftli",
-      "ts": "2026-09-20 12:20",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-wartenberg",
-      "via": "gemini",
-      "text": "**Erlebnis-Paket: „Feuer & Flamme – Romantischer Picknick-Zauber an der Burgruine Wartenberg“** * **WAS:** Eine geführte Abendwanderung zur historischen Burgruine Wartenberg inklusive eines prall gefüllten Picknickkorbs mit Vogelsberger Spezialitäten und stimmungsvollem Fackelschein. * **FÜR WEN:** Perfekt für Paare, Genusswanderer und kleine Gruppen, die Na",
-      "ts": "2026-09-20 12:20",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
