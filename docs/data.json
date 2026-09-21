@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-21T01:10Z",
+  "updated": "2026-09-21T06:19Z",
   "agents_total": 162,
-  "worked": 5,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Die „Lautertaler Vesper-Kischde“ – ein wöchentliches Abo-Kistchen mit frischem Holzofenbrot, regionalem Käse, Hausmacher Wurst und Saison-Gemüse für eine ehrliche Brotzeit ohne Schnickschnack. **für WEN:** Für berufstätige Pendler und Familien aus der Region, die Wert auf bodenständige Lebensmittel legen, aber keine Zeit für die Runde durch fünf ver",
+        "text": "**WAS:** \"Basalt & Beeren\" – Eine geführte E-Bike-Erlebnistour durch das malerische Lautertal mit Stopp an einer imposanten Basaltklippe für ein regionales Vulkan-Picknick. **fuer WEN:** Dieses Angebot richtet sich an Genussradler, Paare und kleine Gruppen, die die faszinierende Geologie des Vogelsbergs entspannt auf zwei Rädern und mit lokalem Gaumenkitzel ",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS** Ein mobiler Besorgungs- und Begleitdienst, der ältere Menschen direkt an der Haustür mit frischen Lebensmitteln und Medikamenten versorgt, kleine Alltagshilfen übernimmt und stets Zeit für ein würdevolles, persönliches Gespräch mitbringt. **WARUM HIER** In den sechs weit verstreuten Ortsteilen des Grebenauer „Gründchens“ fehlen vor Ort oft Einkaufsmö",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -912,54 +908,54 @@
       "name": "Vulkanregion-Tourismus — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Gründchen-Waldauszeit“ kombiniert eine geführte Entspannungswanderung durch die unberührten Wälder Grebenaus mit einem rustikalen Picknick voller regionaler Vogelsberger Spezialitäten an einem versteckten W",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-grebenau",
       "name": "Senioren-Alltagsdienste — Grebenau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Ein mobiler Besorgungs- und Begleitdienst, der ältere Menschen direkt an der Haustür mit frischen Lebensmitteln und Medikamenten versorgt, kleine Alltagshilfen übernimmt und stets Zeit für ein würdevolles, persön",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-lautertal",
       "name": "Chancen-Scout — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein mobiler Bring- und Holservice für E-Bikes und hochwertige Outdoor-Ausrüstung (z. B. professionelle Kindertragen), der direkt an Ferienunterkünfte und Wanderparkplätze in den Ortsteilen von Lautertal liefert. ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-lautertal",
       "name": "Handwerk-Sichtbarkeit — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizungs- und Sanitärfachbetrieb **Ansprache-Idee:** „Hallo [Name], im Lautertal suchen immer mehr Hausbesitzer online nach neuen Heizungen und Wärmepumpen – schade, wenn diese lukrativen Aufträge an Bet",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-lautertal",
       "name": "Direktvermarktung — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Lautertaler Vesper-Kischde“ – ein wöchentliches Abo-Kistchen mit frischem Holzofenbrot, regionalem Käse, Hausmacher Wurst und Saison-Gemüse für eine ehrliche Brotzeit ohne Schnickschnack. **für WEN:** Für b",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-lautertal",
       "name": "Vulkanregion-Tourismus — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** \"Basalt & Beeren\" – Eine geführte E-Bike-Erlebnistour durch das malerische Lautertal mit Stopp an einer imposanten Basaltklippe für ein regionales Vulkan-Picknick. **fuer WEN:** Dieses Angebot richtet sich an Ge",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-lautertal",
@@ -1503,48 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 5,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "direkt-lautertal",
+      "agent": "tourismus-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Die „Lautertaler Vesper-Kischde“ – ein wöchentliches Abo-Kistchen mit frischem Holzofenbrot, regionalem Käse, Hausmacher Wurst und Saison-Gemüse für eine ehrliche Brotzeit ohne Schnickschnack. **für WEN:** Für berufstätige Pendler und Familien aus der Region, die Wert auf bodenständige Lebensmittel legen, aber keine Zeit für die Runde durch fünf ver",
-      "ts": "2026-09-21 01:10",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-lautertal",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärfachbetrieb **Ansprache-Idee:** „Hallo [Name], im Lautertal suchen immer mehr Hausbesitzer online nach neuen Heizungen und Wärmepumpen – schade, wenn diese lukrativen Aufträge an Betriebe aus der nächsten Stadt gehen, nur weil Sie auf Google nicht direkt ganz oben stehen.“",
-      "ts": "2026-09-21 01:09",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-lautertal",
-      "via": "gemini",
-      "text": "**WAS** Ein mobiler Bring- und Holservice für E-Bikes und hochwertige Outdoor-Ausrüstung (z. B. professionelle Kindertragen), der direkt an Ferienunterkünfte und Wanderparkplätze in den Ortsteilen von Lautertal liefert. **WARUM HIER** Lautertal profitiert vom boomenden Naturtourismus im Vogelsberg, besitzt aber keinen eigenen Bike-Verleih vor Ort, sodass Gäs",
-      "ts": "2026-09-21 01:09",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-grebenau",
-      "via": "gemini",
-      "text": "**WAS** Ein mobiler Besorgungs- und Begleitdienst, der ältere Menschen direkt an der Haustür mit frischen Lebensmitteln und Medikamenten versorgt, kleine Alltagshilfen übernimmt und stets Zeit für ein würdevolles, persönliches Gespräch mitbringt. **WARUM HIER** In den sechs weit verstreuten Ortsteilen des Grebenauer „Gründchens“ fehlen vor Ort oft Einkaufsmö",
-      "ts": "2026-09-21 01:09",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-grebenau",
-      "via": "gemini",
-      "text": "**WAS:** Die „Gründchen-Waldauszeit“ kombiniert eine geführte Entspannungswanderung durch die unberührten Wälder Grebenaus mit einem rustikalen Picknick voller regionaler Vogelsberger Spezialitäten an einem versteckten Waldplatz. **FÜR WEN:** Das Angebot richtet sich an erholungssuchende Paare und Naturfreunde, die eine entschleunigende Auszeit mit frischer ",
-      "ts": "2026-09-21 01:09",
+      "text": "**WAS:** \"Basalt & Beeren\" – Eine geführte E-Bike-Erlebnistour durch das malerische Lautertal mit Stopp an einer imposanten Basaltklippe für ein regionales Vulkan-Picknick. **fuer WEN:** Dieses Angebot richtet sich an Genussradler, Paare und kleine Gruppen, die die faszinierende Geologie des Vogelsbergs entspannt auf zwei Rädern und mit lokalem Gaumenkitzel ",
+      "ts": "2026-09-21 06:19",
       "age_min": 0
     }
   ]
