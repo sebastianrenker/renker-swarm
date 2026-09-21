@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-21T18:41Z",
+  "updated": "2026-09-21T22:16Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Betriebstyp:** Ein mittelständischer **Sanitär- und Heizungsbau-Betrieb** in Fulda (mit Fokus auf Wärmepumpen-Umrüstung und Badmodernisierung). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer in Fulda und Umgebung aktuell nach einer neuen Wärmepumpe googeln, landen sie direkt bei Ihren Mitbewerbern – wollen wir kurz schauen, wie wir dies",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -967,9 +971,9 @@
       "name": "Handwerk-Sichtbarkeit — Fulda",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein mittelständischer **Sanitär- und Heizungsbau-Betrieb** in Fulda (mit Fokus auf Wärmepumpen-Umrüstung und Badmodernisierung). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer in Fuld",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-fulda",
@@ -1495,8 +1499,17 @@
     }
   ],
   "budget": {
-    "used": 7,
+    "used": 8,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-fulda",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein mittelständischer **Sanitär- und Heizungsbau-Betrieb** in Fulda (mit Fokus auf Wärmepumpen-Umrüstung und Badmodernisierung). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer in Fulda und Umgebung aktuell nach einer neuen Wärmepumpe googeln, landen sie direkt bei Ihren Mitbewerbern – wollen wir kurz schauen, wie wir dies",
+      "ts": "2026-09-21 22:16",
+      "age_min": 0
+    }
+  ]
 }

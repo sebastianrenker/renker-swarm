@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-21 18:41 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-21 22:16 UTC",
+  "total_results": 1,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-fulda",
+      "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin mittelständischer **Sanitär- und Heizungsbau-Betrieb** in Fulda (mit Fokus auf Wärmepumpen-Umrüstung und Badmodernisierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Hausbesitzer in Fulda und Umgebung aktuell nach einer neuen Wärmepumpe googeln, landen sie direkt bei Ihren Mitbewerbern – wollen wir kurz schauen, wie wir diese lukrativen Aufträge aus der Region zu Ihnen holen?“",
+      "ts": "2026-09-21 22:16",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-fulda",
+          "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin mittelständischer **Sanitär- und Heizungsbau-Betrieb** in Fulda (mit Fokus auf Wärmepumpen-Umrüstung und Badmodernisierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Hausbesitzer in Fulda und Umgebung aktuell nach einer neuen Wärmepumpe googeln, landen sie direkt bei Ihren Mitbewerbern – wollen wir kurz schauen, wie wir diese lukrativen Aufträge aus der Region zu Ihnen holen?“",
+          "ts": "2026-09-21 22:16",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
