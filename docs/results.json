@@ -1,112 +1,94 @@
 {
-  "updated": "2026-09-20 23:15 UTC",
-  "total_results": 6,
+  "updated": "2026-09-21 01:10 UTC",
+  "total_results": 5,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "direkt-grebenau",
-      "title": "Direktvermarktung — Grebenau  ·  Chancen",
+      "agent": "direkt-lautertal",
+      "title": "Direktvermarktung — Lautertal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit echten Hoferzeugnissen wie Hausmacher Wurst, Eiern, Kartoffeln und saisonalem Gemüse, die kontaktlos an einer gekühlten 24/7-Abholstation in Grebenau bereitsteht.\n\n**FÜR WEN:** Für berufstätige Pendler und Familien aus der Region, die Wert auf ehrliche, heimische Lebensmittel legen, aber zu den regulären Hofladen-Öffnungszeiten selten Zeit haben.\n\n**ERSTER SCHRITT:** Drei benachbarte Landwirte an einen Tisch holen, um ein verlässliches Grundsortiment abzusprechen und das Interesse mit einem einfachen Flyer im Gemeindeblatt zu testen.",
-      "ts": "2026-09-20 23:15",
+      "text": "**WAS:** Die „Lautertaler Vesper-Kischde“ – ein wöchentliches Abo-Kistchen mit frischem Holzofenbrot, regionalem Käse, Hausmacher Wurst und Saison-Gemüse für eine ehrliche Brotzeit ohne Schnickschnack.\n\n**für WEN:** Für berufstätige Pendler und Familien aus der Region, die Wert auf bodenständige Lebensmittel legen, aber keine Zeit für die Runde durch fünf verschiedene Hofläden haben.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger (Gemüsebauer, Metzger, Bäcker) an einen Tisch holen und das Konzept mit 10 Test-Kisten im bekannten Kreis ausprobieren.",
+      "ts": "2026-09-21 01:10",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-grebenau",
-      "title": "Handwerk-Sichtbarkeit — Grebenau  ·  Chancen",
+      "agent": "handwerk-lautertal",
+      "title": "Handwerk-Sichtbarkeit — Lautertal  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \n**Ein lokaler Sanitär- und Heizungsbetrieb (SHK)**\n\n**Ansprache-Idee (1 Satz):**\n„Herr [Name], wenn im Vogelsberg die Heizung streikt oder jemand einen Fachbetrieb für eine neue Wärmepumpe sucht, wird zuerst auf dem Handy gegoogelt – lassen Sie uns dafür sorgen, dass die Aufträge aus Grebenau bei Ihnen landen und nicht beim Großbetrieb aus Alsfeld oder Fulda.“",
-      "ts": "2026-09-20 23:15",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärfachbetrieb\n\n**Ansprache-Idee:**\n„Hallo [Name], im Lautertal suchen immer mehr Hausbesitzer online nach neuen Heizungen und Wärmepumpen – schade, wenn diese lukrativen Aufträge an Betriebe aus der nächsten Stadt gehen, nur weil Sie auf Google nicht direkt ganz oben stehen.“",
+      "ts": "2026-09-21 01:09",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-grebenau",
-      "title": "Chancen-Scout — Grebenau  ·  Chancen",
+      "agent": "chancen-lautertal",
+      "title": "Chancen-Scout — Lautertal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Säge- und Holzspaltservice auf Auftragsbasis, der angeliefertes Stammholz direkt auf den Höfen der Anwohner zu fertigem Kaminholz verarbeitet.\n\n**WARUM HIER:** Im stark bewaldeten „Gründchen“ rund um Grebenau heizen überdurchschnittlich viele Eigenheimbesitzer mit Holz, jedoch fehlt der alternden Bevölkerung oft die Kraft oder das schwere Gerät für die eigene Aufbereitung.\n\n**ERSTER SCHRITT:** Einen gebrauchten Pkw-Anhänger mit stehendem Benzin-Holzspalter anschaffen und die Dienstleistung im Grebenauer Mitteilungsblatt sowie in lokalen Facebook-Gruppen anbieten.",
-      "ts": "2026-09-20 23:15",
+      "text": "**WAS**  \nEin mobiler Bring- und Holservice für E-Bikes und hochwertige Outdoor-Ausrüstung (z. B. professionelle Kindertragen), der direkt an Ferienunterkünfte und Wanderparkplätze in den Ortsteilen von Lautertal liefert.\n\n**WARUM HIER**  \nLautertal profitiert vom boomenden Naturtourismus im Vogelsberg, besitzt aber keinen eigenen Bike-Verleih vor Ort, sodass Gäste in den dezentral gelegenen Ferienhäusern diesen Service dankbar nutzen.\n\n**ERSTER SCHRITT**  \nFünf lokale FeWo-Vermieter in Lautertal kontaktieren, eine Provisions-Partnerschaft anbieten und das Geschäft schlank mit zwei E-Bikes sowie Buchung per WhatsApp starten.",
+      "ts": "2026-09-21 01:09",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-antrifttal",
-      "title": "Senioren-Alltagsdienste — Antrifttal  ·  Kunden",
+      "agent": "senioren-grebenau",
+      "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler „Dorf-Fahr- und Besorgungsdienst“, der ältere Mitbürgerinnen und Mitbürger verlässlich zu Ärzten oder Besorgungen begleitet, Einkäufe direkt ins Haus bringt und Zeit für ein zugewandtes Gespräch mitbringt.\n\n**WARUM HIER:** \nDa Antrifttal aus fünf sehr kleinen, verstreuten Ortsteilen ohne eigene Lebensmittelgeschäfte besteht, sichert dieser Dienst die Eigenständigkeit und Pflege sozialer Kontakte im gewohnten Dorfumfeld.\n\n**ERSTER SCHRITT:** \nÜber das Gemeindeblatt wird ein einfacher Fragebogen verteilt, um den konkreten Bedarf in den Ortsteilen zu erfassen und hilfsbereite Fahrerinnen und Fahrer aus der Nachbarschaft für ein erstes Treffen zu gewinnen.",
-      "ts": "2026-09-20 23:15",
+      "text": "**WAS**\nEin mobiler Besorgungs- und Begleitdienst, der ältere Menschen direkt an der Haustür mit frischen Lebensmitteln und Medikamenten versorgt, kleine Alltagshilfen übernimmt und stets Zeit für ein würdevolles, persönliches Gespräch mitbringt.\n\n**WARUM HIER**\nIn den sechs weit verstreuten Ortsteilen des Grebenauer „Gründchens“ fehlen vor Ort oft Einkaufsmöglichkeiten und Busverbindungen, sodass dieser Dienst die Eigenständigkeit im vertrauten Zuhause sichert und Einsamkeit vorbeugt.\n\n**ERSTER SCHRITT**\nGemeinsam mit dem Bürgermeister und den Ortsvorstehern ermitteln wir in einer kurzen Bedarfsabfrage die Wünsche der Senioren und knüpfen Kontakte zu lokalen Anbietern sowie ehrenamtlichen Fahrerinnen und Fahrern.",
+      "ts": "2026-09-21 01:09",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-antrifttal",
-      "title": "Vulkanregion-Tourismus — Antrifttal  ·  Chancen",
+      "agent": "tourismus-grebenau",
+      "title": "Vulkanregion-Tourismus — Grebenau  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** „Sunset-SUP & Vogelsberger Picknick“ ist eine geführte Abendtour mit dem Stand-Up-Paddle-Board auf der ruhigen Antrifttalsperre, abgerundet durch einen Korb voller regionaler Spezialitäten direkt am Ufer.\n\n**fuer WEN:** Dieses Erlebnis eignet sich perfekt für Paare, Freunde und aktive Genießer, die nach dem Feierabend eine entspannte Auszeit in der Natur suchen.\n\n**ERSTER SCHRITT:** Wähle einfach deinen Wunschtermin im Online-Kalender aus und buche dein Rundum-sorglos-Paket direkt mit wenigen Klicks.",
-      "ts": "2026-09-20 23:14",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-antrifttal",
-      "title": "Direktvermarktung — Antrifttal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nEine gekühlte 24/7-Abholstation nahe dem Antriftstausee mit vorbestellbaren „Vogelsberger Feierabend- und Picknick-Boxen“, vollgepackt mit Wurst, Käse, Brot und Saison-Gemüse von Höfen aus der direkten Nachbarschaft.\n\n**fuer WEN:** \nFür Pendler auf dem Heimweg, die ohne Aufwand ehrlich erzeugte Lebensmittel suchen, und für Ausflügler, die spontan am See rasten wollen.\n\n**ERSTER SCHRITT:** \nDrei lokale Landwirte an einen Tisch holen, ein einfaches Starter-Sortiment festlegen und bei der Gemeinde Antrifttal wegen eines gut erreichbaren Stellplatzes anfragen.",
-      "ts": "2026-09-20 23:14",
-      "age_min": 1
+      "text": "**WAS:** Die „Gründchen-Waldauszeit“ kombiniert eine geführte Entspannungswanderung durch die unberührten Wälder Grebenaus mit einem rustikalen Picknick voller regionaler Vogelsberger Spezialitäten an einem versteckten Waldplatz.\n\n**FÜR WEN:** Das Angebot richtet sich an erholungssuchende Paare und Naturfreunde, die eine entschleunigende Auszeit mit frischer Waldluft und lokalem Genuss abseits des Alltags-Trubels suchen.\n\n**ERSTER SCHRITT:** Wählen Sie im Online-Kalender Ihren Wunschtermin sowie die Picknick-Variante (klassisch oder vegetarisch) aus und sichern Sie sich Ihr Ticket direkt mit wenigen Klicks.",
+      "ts": "2026-09-21 01:09",
+      "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "direkt-grebenau",
-          "title": "Direktvermarktung — Grebenau  ·  Chancen",
+          "agent": "direkt-lautertal",
+          "title": "Direktvermarktung — Lautertal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit echten Hoferzeugnissen wie Hausmacher Wurst, Eiern, Kartoffeln und saisonalem Gemüse, die kontaktlos an einer gekühlten 24/7-Abholstation in Grebenau bereitsteht.\n\n**FÜR WEN:** Für berufstätige Pendler und Familien aus der Region, die Wert auf ehrliche, heimische Lebensmittel legen, aber zu den regulären Hofladen-Öffnungszeiten selten Zeit haben.\n\n**ERSTER SCHRITT:** Drei benachbarte Landwirte an einen Tisch holen, um ein verlässliches Grundsortiment abzusprechen und das Interesse mit einem einfachen Flyer im Gemeindeblatt zu testen.",
-          "ts": "2026-09-20 23:15",
+          "text": "**WAS:** Die „Lautertaler Vesper-Kischde“ – ein wöchentliches Abo-Kistchen mit frischem Holzofenbrot, regionalem Käse, Hausmacher Wurst und Saison-Gemüse für eine ehrliche Brotzeit ohne Schnickschnack.\n\n**für WEN:** Für berufstätige Pendler und Familien aus der Region, die Wert auf bodenständige Lebensmittel legen, aber keine Zeit für die Runde durch fünf verschiedene Hofläden haben.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger (Gemüsebauer, Metzger, Bäcker) an einen Tisch holen und das Konzept mit 10 Test-Kisten im bekannten Kreis ausprobieren.",
+          "ts": "2026-09-21 01:10",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-grebenau",
-          "title": "Handwerk-Sichtbarkeit — Grebenau  ·  Chancen",
+          "agent": "handwerk-lautertal",
+          "title": "Handwerk-Sichtbarkeit — Lautertal  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \n**Ein lokaler Sanitär- und Heizungsbetrieb (SHK)**\n\n**Ansprache-Idee (1 Satz):**\n„Herr [Name], wenn im Vogelsberg die Heizung streikt oder jemand einen Fachbetrieb für eine neue Wärmepumpe sucht, wird zuerst auf dem Handy gegoogelt – lassen Sie uns dafür sorgen, dass die Aufträge aus Grebenau bei Ihnen landen und nicht beim Großbetrieb aus Alsfeld oder Fulda.“",
-          "ts": "2026-09-20 23:15",
+          "text": "**Betriebstyp:** Heizungs- und Sanitärfachbetrieb\n\n**Ansprache-Idee:**\n„Hallo [Name], im Lautertal suchen immer mehr Hausbesitzer online nach neuen Heizungen und Wärmepumpen – schade, wenn diese lukrativen Aufträge an Betriebe aus der nächsten Stadt gehen, nur weil Sie auf Google nicht direkt ganz oben stehen.“",
+          "ts": "2026-09-21 01:09",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-grebenau",
-          "title": "Chancen-Scout — Grebenau  ·  Chancen",
+          "agent": "chancen-lautertal",
+          "title": "Chancen-Scout — Lautertal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Säge- und Holzspaltservice auf Auftragsbasis, der angeliefertes Stammholz direkt auf den Höfen der Anwohner zu fertigem Kaminholz verarbeitet.\n\n**WARUM HIER:** Im stark bewaldeten „Gründchen“ rund um Grebenau heizen überdurchschnittlich viele Eigenheimbesitzer mit Holz, jedoch fehlt der alternden Bevölkerung oft die Kraft oder das schwere Gerät für die eigene Aufbereitung.\n\n**ERSTER SCHRITT:** Einen gebrauchten Pkw-Anhänger mit stehendem Benzin-Holzspalter anschaffen und die Dienstleistung im Grebenauer Mitteilungsblatt sowie in lokalen Facebook-Gruppen anbieten.",
-          "ts": "2026-09-20 23:15",
+          "text": "**WAS**  \nEin mobiler Bring- und Holservice für E-Bikes und hochwertige Outdoor-Ausrüstung (z. B. professionelle Kindertragen), der direkt an Ferienunterkünfte und Wanderparkplätze in den Ortsteilen von Lautertal liefert.\n\n**WARUM HIER**  \nLautertal profitiert vom boomenden Naturtourismus im Vogelsberg, besitzt aber keinen eigenen Bike-Verleih vor Ort, sodass Gäste in den dezentral gelegenen Ferienhäusern diesen Service dankbar nutzen.\n\n**ERSTER SCHRITT**  \nFünf lokale FeWo-Vermieter in Lautertal kontaktieren, eine Provisions-Partnerschaft anbieten und das Geschäft schlank mit zwei E-Bikes sowie Buchung per WhatsApp starten.",
+          "ts": "2026-09-21 01:09",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-antrifttal",
-          "title": "Vulkanregion-Tourismus — Antrifttal  ·  Chancen",
+          "agent": "tourismus-grebenau",
+          "title": "Vulkanregion-Tourismus — Grebenau  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** „Sunset-SUP & Vogelsberger Picknick“ ist eine geführte Abendtour mit dem Stand-Up-Paddle-Board auf der ruhigen Antrifttalsperre, abgerundet durch einen Korb voller regionaler Spezialitäten direkt am Ufer.\n\n**fuer WEN:** Dieses Erlebnis eignet sich perfekt für Paare, Freunde und aktive Genießer, die nach dem Feierabend eine entspannte Auszeit in der Natur suchen.\n\n**ERSTER SCHRITT:** Wähle einfach deinen Wunschtermin im Online-Kalender aus und buche dein Rundum-sorglos-Paket direkt mit wenigen Klicks.",
-          "ts": "2026-09-20 23:14",
-          "age_min": 1
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-antrifttal",
-          "title": "Direktvermarktung — Antrifttal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nEine gekühlte 24/7-Abholstation nahe dem Antriftstausee mit vorbestellbaren „Vogelsberger Feierabend- und Picknick-Boxen“, vollgepackt mit Wurst, Käse, Brot und Saison-Gemüse von Höfen aus der direkten Nachbarschaft.\n\n**fuer WEN:** \nFür Pendler auf dem Heimweg, die ohne Aufwand ehrlich erzeugte Lebensmittel suchen, und für Ausflügler, die spontan am See rasten wollen.\n\n**ERSTER SCHRITT:** \nDrei lokale Landwirte an einen Tisch holen, ein einfaches Starter-Sortiment festlegen und bei der Gemeinde Antrifttal wegen eines gut erreichbaren Stellplatzes anfragen.",
-          "ts": "2026-09-20 23:14",
-          "age_min": 1
+          "text": "**WAS:** Die „Gründchen-Waldauszeit“ kombiniert eine geführte Entspannungswanderung durch die unberührten Wälder Grebenaus mit einem rustikalen Picknick voller regionaler Vogelsberger Spezialitäten an einem versteckten Waldplatz.\n\n**FÜR WEN:** Das Angebot richtet sich an erholungssuchende Paare und Naturfreunde, die eine entschleunigende Auszeit mit frischer Waldluft und lokalem Genuss abseits des Alltags-Trubels suchen.\n\n**ERSTER SCHRITT:** Wählen Sie im Online-Kalender Ihren Wunschtermin sowie die Picknick-Variante (klassisch oder vegetarisch) aus und sichern Sie sich Ihr Ticket direkt mit wenigen Klicks.",
+          "ts": "2026-09-21 01:09",
+          "age_min": 0
         }
       ]
     },
@@ -116,11 +98,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-antrifttal",
-          "title": "Senioren-Alltagsdienste — Antrifttal  ·  Kunden",
+          "agent": "senioren-grebenau",
+          "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler „Dorf-Fahr- und Besorgungsdienst“, der ältere Mitbürgerinnen und Mitbürger verlässlich zu Ärzten oder Besorgungen begleitet, Einkäufe direkt ins Haus bringt und Zeit für ein zugewandtes Gespräch mitbringt.\n\n**WARUM HIER:** \nDa Antrifttal aus fünf sehr kleinen, verstreuten Ortsteilen ohne eigene Lebensmittelgeschäfte besteht, sichert dieser Dienst die Eigenständigkeit und Pflege sozialer Kontakte im gewohnten Dorfumfeld.\n\n**ERSTER SCHRITT:** \nÜber das Gemeindeblatt wird ein einfacher Fragebogen verteilt, um den konkreten Bedarf in den Ortsteilen zu erfassen und hilfsbereite Fahrerinnen und Fahrer aus der Nachbarschaft für ein erstes Treffen zu gewinnen.",
-          "ts": "2026-09-20 23:15",
+          "text": "**WAS**\nEin mobiler Besorgungs- und Begleitdienst, der ältere Menschen direkt an der Haustür mit frischen Lebensmitteln und Medikamenten versorgt, kleine Alltagshilfen übernimmt und stets Zeit für ein würdevolles, persönliches Gespräch mitbringt.\n\n**WARUM HIER**\nIn den sechs weit verstreuten Ortsteilen des Grebenauer „Gründchens“ fehlen vor Ort oft Einkaufsmöglichkeiten und Busverbindungen, sodass dieser Dienst die Eigenständigkeit im vertrauten Zuhause sichert und Einsamkeit vorbeugt.\n\n**ERSTER SCHRITT**\nGemeinsam mit dem Bürgermeister und den Ortsvorstehern ermitteln wir in einer kurzen Bedarfsabfrage die Wünsche der Senioren und knüpfen Kontakte zu lokalen Anbietern sowie ehrenamtlichen Fahrerinnen und Fahrern.",
+          "ts": "2026-09-21 01:09",
           "age_min": 0
         }
       ]
