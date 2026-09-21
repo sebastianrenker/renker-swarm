@@ -1,33 +1,7 @@
 {
-  "updated": "2026-09-21 13:08 UTC",
-  "total_results": 1,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-lautertal",
-      "title": "Senioren-Alltagsdienste — Lautertal  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, bei Einkäufen oder Arztfahrten unterstützt und kleine Handreichungen in Haus und Garten übernimmt.\n\n**WARUM HIER:** Da die Ortsteile von Lautertal weit auseinanderliegen und die Nahversorgung vor Ort eingeschränkt ist, bewahrt dieser Dienst die Selbstständigkeit der Senioren in ihrer gewohnten Umgebung.\n\n**ERSTER SCHRITT:** In Kooperation mit der Gemeinde wird eine zentrale Koordinationsstelle mit fester Telefonnummer eingerichtet, um Hilfegesuche unkompliziert mit verlässlichen Helfern aus den Nachbardörfern zu verbinden.",
-      "ts": "2026-09-21 13:07",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-lautertal",
-          "title": "Senioren-Alltagsdienste — Lautertal  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, bei Einkäufen oder Arztfahrten unterstützt und kleine Handreichungen in Haus und Garten übernimmt.\n\n**WARUM HIER:** Da die Ortsteile von Lautertal weit auseinanderliegen und die Nahversorgung vor Ort eingeschränkt ist, bewahrt dieser Dienst die Selbstständigkeit der Senioren in ihrer gewohnten Umgebung.\n\n**ERSTER SCHRITT:** In Kooperation mit der Gemeinde wird eine zentrale Koordinationsstelle mit fester Telefonnummer eingerichtet, um Hilfegesuche unkompliziert mit verlässlichen Helfern aus den Nachbardörfern zu verbinden.",
-          "ts": "2026-09-21 13:07",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-09-21 18:41 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }

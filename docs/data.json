@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-21T13:08Z",
+  "updated": "2026-09-21T18:41Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -26,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, bei Einkäufen oder Arztfahrten unterstützt und kleine Handreichungen in Haus und Garten übernimmt. **WARUM HIER:** Da die Ortsteile von Lautertal weit auseinanderliegen und die Nahversorgung vor Ort eingeschränkt ist, bewahrt dieser Dienst die Selbstständigkeit der S",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -962,9 +958,9 @@
       "name": "Senioren-Alltagsdienste — Lautertal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, bei Einkäufen oder Arztfahrten unterstützt und kleine Handreichungen in Haus und Garten übernimmt. **WARUM HIER:** Da die Ortst",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-fulda",
@@ -1502,14 +1498,5 @@
     "used": 7,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-lautertal",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, bei Einkäufen oder Arztfahrten unterstützt und kleine Handreichungen in Haus und Garten übernimmt. **WARUM HIER:** Da die Ortsteile von Lautertal weit auseinanderliegen und die Nahversorgung vor Ort eingeschränkt ist, bewahrt dieser Dienst die Selbstständigkeit der S",
-      "ts": "2026-09-21 13:07",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
