@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T06:19Z",
+  "updated": "2026-09-21T13:08Z",
   "agents_total": 162,
   "worked": 1,
   "departments": [
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** \"Basalt & Beeren\" – Eine geführte E-Bike-Erlebnistour durch das malerische Lautertal mit Stopp an einer imposanten Basaltklippe für ein regionales Vulkan-Picknick. **fuer WEN:** Dieses Angebot richtet sich an Genussradler, Paare und kleine Gruppen, die die faszinierende Geologie des Vogelsbergs entspannt auf zwei Rädern und mit lokalem Gaumenkitzel ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,7 +26,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, bei Einkäufen oder Arztfahrten unterstützt und kleine Handreichungen in Haus und Garten übernimmt. **WARUM HIER:** Da die Ortsteile von Lautertal weit auseinanderliegen und die Nahversorgung vor Ort eingeschränkt ist, bewahrt dieser Dienst die Selbstständigkeit der S",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -953,18 +953,18 @@
       "name": "Vulkanregion-Tourismus — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** \"Basalt & Beeren\" – Eine geführte E-Bike-Erlebnistour durch das malerische Lautertal mit Stopp an einer imposanten Basaltklippe für ein regionales Vulkan-Picknick. **fuer WEN:** Dieses Angebot richtet sich an Ge",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-lautertal",
       "name": "Senioren-Alltagsdienste — Lautertal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, bei Einkäufen oder Arztfahrten unterstützt und kleine Handreichungen in Haus und Garten übernimmt. **WARUM HIER:** Da die Ortst",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-fulda",
@@ -1499,16 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 7,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-lautertal",
+      "dept": "Kunden",
+      "agent": "senioren-lautertal",
       "via": "gemini",
-      "text": "**WAS:** \"Basalt & Beeren\" – Eine geführte E-Bike-Erlebnistour durch das malerische Lautertal mit Stopp an einer imposanten Basaltklippe für ein regionales Vulkan-Picknick. **fuer WEN:** Dieses Angebot richtet sich an Genussradler, Paare und kleine Gruppen, die die faszinierende Geologie des Vogelsbergs entspannt auf zwei Rädern und mit lokalem Gaumenkitzel ",
-      "ts": "2026-09-21 06:19",
+      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, bei Einkäufen oder Arztfahrten unterstützt und kleine Handreichungen in Haus und Garten übernimmt. **WARUM HIER:** Da die Ortsteile von Lautertal weit auseinanderliegen und die Nahversorgung vor Ort eingeschränkt ist, bewahrt dieser Dienst die Selbstständigkeit der S",
+      "ts": "2026-09-21 13:07",
       "age_min": 0
     }
   ]
