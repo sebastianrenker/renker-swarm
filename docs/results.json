@@ -1,30 +1,126 @@
 {
-  "updated": "2026-09-21 22:16 UTC",
-  "total_results": 1,
-  "total_depts": 1,
+  "updated": "2026-09-22 00:53 UTC",
+  "total_results": 6,
+  "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-fulda",
-      "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
+      "agent": "direkt-petersberg",
+      "title": "Direktvermarktung — Petersberg  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nEin mittelständischer **Sanitär- und Heizungsbau-Betrieb** in Fulda (mit Fokus auf Wärmepumpen-Umrüstung und Badmodernisierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Hausbesitzer in Fulda und Umgebung aktuell nach einer neuen Wärmepumpe googeln, landen sie direkt bei Ihren Mitbewerbern – wollen wir kurz schauen, wie wir diese lukrativen Aufträge aus der Region zu Ihnen holen?“",
-      "ts": "2026-09-21 22:16",
+      "text": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Box“ im Abo mit frischem Holzofenbrot, regionaler Wurst, Käse und Saison-Gemüse, die freitags einfach in einem 24/7-Selbstbedienungshäuschen in Petersberg abgeholt wird.\n\n**fuer WEN:** Für Pendler, Beschäftigte und Familien aus Petersberg und Umgebung, die nach Feierabend ohne großen Einkaufsstress ehrliche Lebensmittel direkt von den Höfen der Region auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Zwei bis drei passende Erzeuger aus der Nachbarschaft (z. B. Bäcker, Imker, Gemüsehof) für eine Kooperation anfragen und ein Test-Abo mit 20 Familien aus dem Ort starten.",
+      "ts": "2026-09-22 00:53",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-petersberg",
+      "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin **Heizungs- und Sanitärbetrieb** (besonders gefragt bei Notfällen sowie der aktuellen Nachfrage nach Wärmepumpen und Badsanierungen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn in Petersberg die Heizung ausfällt oder das Bad saniert werden soll, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer direkt an erster Stelle steht, bevor die Aufträge an die Konkurrenz aus Fulda gehen.“",
+      "ts": "2026-09-22 00:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-petersberg",
+      "title": "Chancen-Scout — Petersberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Mobile E-Bike- und Fahrrad-Inspektion direkt beim Kunden vor der Haustür mittels eines voll ausgestatteten Werkstatt-Anhängers.\n\n**WARUM HIER:** Petersberg hat eine sehr hohe Dichte an Eigenheimen und Pendlern mit teuren E-Bikes, aber keine eigene Fahrradwerkstatt vor Ort, während die Betriebe in der benachbarten Innenstadt von Fulda monatelange Vorlaufzeiten haben.\n\n**ERSTER SCHRITT:** Einen Anhänger mit Grundwerkzeug ausrüsten und über eine gezielte Flyer-Aktion in den Petersberger Wohngebieten (z. B. Stoppelberg oder Haunedorf) die ersten zehn Termine für einen Festpreis-Check akquirieren.",
+      "ts": "2026-09-22 00:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-fulda",
+      "title": "Senioren-Alltagsdienste — Fulda  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** \nEin verlässlicher Begleit- und Fahrdienst bringt Senioren aus den umliegenden Dörfern zu Arztterminen, Besorgungen oder Wochenmärkten nach Fulda und leistet vor Ort persönliche Hilfestellung.\n\n**WARUM HIER:** \nIn den hügeligen und weit verstreuten Ortsteilen des Landkreises Fulda sind die Wege zur täglichen Versorgung ohne eigenes Auto oder barrierefreie Nahverkehrsanbindungen kaum noch eigenständig zu bewältigen.\n\n**ERSTER SCHRITT:** \nDie Einrichtung einer einfachen Telefon-Schaltstelle in Kooperation mit lokalen Vereinen, um Bedarfe unbürokratisch aufzunehmen und Begleittouren passgenau zu koordinieren.",
+      "ts": "2026-09-22 00:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-fulda",
+      "title": "Vulkanregion-Tourismus — Fulda  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Erlebe eine geführte Abendwanderung zu den schönsten Aussichtspunkten nahe Fulda, inklusive eines Picknickkorbs voller Rhöner Bio-Spezialitäten und professioneller Sternenbeobachtung im UNESCO-Biosphärenreservat Rhön.\n\n**fuer WEN:** Das Angebot richtet sich an Paare, Naturliebhaber und Genießer, die regionale Kulinarik mit einem romantischen Nachthimmelerlebnis abseits des Alltagsstresses verbinden möchten.\n\n**ERSTER SCHRITT:** Besuche unsere Buchungsseite, wähle deinen Wunschtermin aus und sichere dir dein All-inclusive-Ticket direkt mit wenigen Klicks.",
+      "ts": "2026-09-22 00:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-fulda",
+      "title": "Direktvermarktung — Fulda  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEine bodenständige „Rhöner Feierabend-Box“ im Abo, vollgepackt mit frischem Saisongemüse, Eiern und einer Vesper-Spezialität von Höfen rund um Fulda samt passendem 20-Minuten-Rezept.\n\n**für WEN:** \nFür beschäftigte Pendler und Familien im Raum Fulda, die ohne Einkaufsstress ehrliche Produkte direkt aus der Heimat auf dem Teller haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger für die Erstbestückung gewinnen und über Aushänge sowie Mundpropaganda 20 Test-Abonnenten aus der Region suchen.",
+      "ts": "2026-09-22 00:52",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-fulda",
-          "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
+          "agent": "direkt-petersberg",
+          "title": "Direktvermarktung — Petersberg  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nEin mittelständischer **Sanitär- und Heizungsbau-Betrieb** in Fulda (mit Fokus auf Wärmepumpen-Umrüstung und Badmodernisierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Hausbesitzer in Fulda und Umgebung aktuell nach einer neuen Wärmepumpe googeln, landen sie direkt bei Ihren Mitbewerbern – wollen wir kurz schauen, wie wir diese lukrativen Aufträge aus der Region zu Ihnen holen?“",
-          "ts": "2026-09-21 22:16",
+          "text": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Box“ im Abo mit frischem Holzofenbrot, regionaler Wurst, Käse und Saison-Gemüse, die freitags einfach in einem 24/7-Selbstbedienungshäuschen in Petersberg abgeholt wird.\n\n**fuer WEN:** Für Pendler, Beschäftigte und Familien aus Petersberg und Umgebung, die nach Feierabend ohne großen Einkaufsstress ehrliche Lebensmittel direkt von den Höfen der Region auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Zwei bis drei passende Erzeuger aus der Nachbarschaft (z. B. Bäcker, Imker, Gemüsehof) für eine Kooperation anfragen und ein Test-Abo mit 20 Familien aus dem Ort starten.",
+          "ts": "2026-09-22 00:53",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-petersberg",
+          "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin **Heizungs- und Sanitärbetrieb** (besonders gefragt bei Notfällen sowie der aktuellen Nachfrage nach Wärmepumpen und Badsanierungen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn in Petersberg die Heizung ausfällt oder das Bad saniert werden soll, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer direkt an erster Stelle steht, bevor die Aufträge an die Konkurrenz aus Fulda gehen.“",
+          "ts": "2026-09-22 00:52",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-petersberg",
+          "title": "Chancen-Scout — Petersberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Mobile E-Bike- und Fahrrad-Inspektion direkt beim Kunden vor der Haustür mittels eines voll ausgestatteten Werkstatt-Anhängers.\n\n**WARUM HIER:** Petersberg hat eine sehr hohe Dichte an Eigenheimen und Pendlern mit teuren E-Bikes, aber keine eigene Fahrradwerkstatt vor Ort, während die Betriebe in der benachbarten Innenstadt von Fulda monatelange Vorlaufzeiten haben.\n\n**ERSTER SCHRITT:** Einen Anhänger mit Grundwerkzeug ausrüsten und über eine gezielte Flyer-Aktion in den Petersberger Wohngebieten (z. B. Stoppelberg oder Haunedorf) die ersten zehn Termine für einen Festpreis-Check akquirieren.",
+          "ts": "2026-09-22 00:52",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-fulda",
+          "title": "Vulkanregion-Tourismus — Fulda  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Erlebe eine geführte Abendwanderung zu den schönsten Aussichtspunkten nahe Fulda, inklusive eines Picknickkorbs voller Rhöner Bio-Spezialitäten und professioneller Sternenbeobachtung im UNESCO-Biosphärenreservat Rhön.\n\n**fuer WEN:** Das Angebot richtet sich an Paare, Naturliebhaber und Genießer, die regionale Kulinarik mit einem romantischen Nachthimmelerlebnis abseits des Alltagsstresses verbinden möchten.\n\n**ERSTER SCHRITT:** Besuche unsere Buchungsseite, wähle deinen Wunschtermin aus und sichere dir dein All-inclusive-Ticket direkt mit wenigen Klicks.",
+          "ts": "2026-09-22 00:52",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-fulda",
+          "title": "Direktvermarktung — Fulda  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEine bodenständige „Rhöner Feierabend-Box“ im Abo, vollgepackt mit frischem Saisongemüse, Eiern und einer Vesper-Spezialität von Höfen rund um Fulda samt passendem 20-Minuten-Rezept.\n\n**für WEN:** \nFür beschäftigte Pendler und Familien im Raum Fulda, die ohne Einkaufsstress ehrliche Produkte direkt aus der Heimat auf dem Teller haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger für die Erstbestückung gewinnen und über Aushänge sowie Mundpropaganda 20 Test-Abonnenten aus der Region suchen.",
+          "ts": "2026-09-22 00:52",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-fulda",
+          "title": "Senioren-Alltagsdienste — Fulda  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin verlässlicher Begleit- und Fahrdienst bringt Senioren aus den umliegenden Dörfern zu Arztterminen, Besorgungen oder Wochenmärkten nach Fulda und leistet vor Ort persönliche Hilfestellung.\n\n**WARUM HIER:** \nIn den hügeligen und weit verstreuten Ortsteilen des Landkreises Fulda sind die Wege zur täglichen Versorgung ohne eigenes Auto oder barrierefreie Nahverkehrsanbindungen kaum noch eigenständig zu bewältigen.\n\n**ERSTER SCHRITT:** \nDie Einrichtung einer einfachen Telefon-Schaltstelle in Kooperation mit lokalen Vereinen, um Bedarfe unbürokratisch aufzunehmen und Begleittouren passgenau zu koordinieren.",
+          "ts": "2026-09-22 00:52",
           "age_min": 0
         }
       ]
