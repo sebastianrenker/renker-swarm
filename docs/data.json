@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-22T05:46Z",
+  "updated": "2026-09-22T10:49Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** „Rauschenberg-Romantik“ ist ein online buchbares Picknick-Paket vollgepackt mit regionalen Rhöner Spezialitäten, inklusive Leihdecke und Routenkarte für einen genussvollen Aussichtsmoment auf dem Petersberger Hausberg. **für WEN:** Dieses Erlebnis ist perfekt für Paare, beste Freund:innen und Genusswanderer, die ohne großen Planungsaufwand eine ents",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -1034,9 +1030,9 @@
       "name": "Vulkanregion-Tourismus — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Rauschenberg-Romantik“ ist ein online buchbares Picknick-Paket vollgepackt mit regionalen Rhöner Spezialitäten, inklusive Leihdecke und Routenkarte für einen genussvollen Aussichtsmoment auf dem Petersberger Ha",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-petersberg",
@@ -1502,14 +1498,5 @@
     "used": 7,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-petersberg",
-      "via": "gemini",
-      "text": "**WAS:** „Rauschenberg-Romantik“ ist ein online buchbares Picknick-Paket vollgepackt mit regionalen Rhöner Spezialitäten, inklusive Leihdecke und Routenkarte für einen genussvollen Aussichtsmoment auf dem Petersberger Hausberg. **für WEN:** Dieses Erlebnis ist perfekt für Paare, beste Freund:innen und Genusswanderer, die ohne großen Planungsaufwand eine ents",
-      "ts": "2026-09-22 05:46",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }

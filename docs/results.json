@@ -1,33 +1,7 @@
 {
-  "updated": "2026-09-22 05:46 UTC",
-  "total_results": 1,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-petersberg",
-      "title": "Vulkanregion-Tourismus — Petersberg  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** „Rauschenberg-Romantik“ ist ein online buchbares Picknick-Paket vollgepackt mit regionalen Rhöner Spezialitäten, inklusive Leihdecke und Routenkarte für einen genussvollen Aussichtsmoment auf dem Petersberger Hausberg.\n\n**für WEN:** Dieses Erlebnis ist perfekt für Paare, beste Freund:innen und Genusswanderer, die ohne großen Planungsaufwand eine entspannte Auszeit mit Panoramablick suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunschtermin sowie deine Menü-Variante (klassisch oder vegetarisch) aus und erhalte direkt dein digitales Ticket zur Abholung der frisch gepackten Picknicktasche vor Ort.",
-      "ts": "2026-09-22 05:46",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-petersberg",
-          "title": "Vulkanregion-Tourismus — Petersberg  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** „Rauschenberg-Romantik“ ist ein online buchbares Picknick-Paket vollgepackt mit regionalen Rhöner Spezialitäten, inklusive Leihdecke und Routenkarte für einen genussvollen Aussichtsmoment auf dem Petersberger Hausberg.\n\n**für WEN:** Dieses Erlebnis ist perfekt für Paare, beste Freund:innen und Genusswanderer, die ohne großen Planungsaufwand eine entspannte Auszeit mit Panoramablick suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunschtermin sowie deine Menü-Variante (klassisch oder vegetarisch) aus und erhalte direkt dein digitales Ticket zur Abholung der frisch gepackten Picknicktasche vor Ort.",
-          "ts": "2026-09-22 05:46",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-09-22 10:49 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }
