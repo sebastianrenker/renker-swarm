@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-22T10:49Z",
+  "updated": "2026-09-22T15:26Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb (SHK)** in Künzell (starkes Potenzial durch die vielen Eigenheime und den aktuellen Bedarf an Wärmepumpen/Badsanierungen). **Ansprache-Idee:** „Hallo Herr [Name], wenn Eigenheimbesitzer in Künzell nach einer neuen Heizung oder Badsanierung googeln, landen sie meist bei den großen Betrieben aus Fulda – wolle",
+        "age_min": 2
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher Fahr- und Begleitdienst, der Seniorinnen und Senioren direkt an der Haustür in den Ortsteilen abholt und sie persönlich zu Erledigungen, Ärzten oder Treffpunkten im Kernort Künzell begleitet. **WARUM HIER:** Künzell ist durch seine verstreuten Ortsteile wie Dietershausen oder Dirlos geprägt, in denen die Wege zur Grundversorgung oh",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1057,9 +1065,9 @@
       "name": "Handwerk-Sichtbarkeit — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb (SHK)** in Künzell (starkes Potenzial durch die vielen Eigenheime und den aktuellen Bedarf an Wärmepumpen/Badsanierungen). **Ansprache-Idee:** „Hallo Herr [Name], wenn ",
+      "via": "gemini",
+      "age_min": 2
     },
     {
       "id": "direkt-kuenzell",
@@ -1084,9 +1092,9 @@
       "name": "Senioren-Alltagsdienste — Kuenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher Fahr- und Begleitdienst, der Seniorinnen und Senioren direkt an der Haustür in den Ortsteilen abholt und sie persönlich zu Erledigungen, Ärzten oder Treffpunkten im Kernort Künzell begleitet. *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-neuhof",
@@ -1495,8 +1503,25 @@
     }
   ],
   "budget": {
-    "used": 7,
+    "used": 9,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-kuenzell",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher Fahr- und Begleitdienst, der Seniorinnen und Senioren direkt an der Haustür in den Ortsteilen abholt und sie persönlich zu Erledigungen, Ärzten oder Treffpunkten im Kernort Künzell begleitet. **WARUM HIER:** Künzell ist durch seine verstreuten Ortsteile wie Dietershausen oder Dirlos geprägt, in denen die Wege zur Grundversorgung oh",
+      "ts": "2026-09-22 15:26",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-kuenzell",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb (SHK)** in Künzell (starkes Potenzial durch die vielen Eigenheime und den aktuellen Bedarf an Wärmepumpen/Badsanierungen). **Ansprache-Idee:** „Hallo Herr [Name], wenn Eigenheimbesitzer in Künzell nach einer neuen Heizung oder Badsanierung googeln, landen sie meist bei den großen Betrieben aus Fulda – wolle",
+      "ts": "2026-09-22 15:24",
+      "age_min": 2
+    }
+  ]
 }

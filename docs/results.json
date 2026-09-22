@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-22 10:49 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-22 15:26 UTC",
+  "total_results": 2,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-kuenzell",
+      "title": "Senioren-Alltagsdienste — Kuenzell  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:**\nEin verlässlicher Fahr- und Begleitdienst, der Seniorinnen und Senioren direkt an der Haustür in den Ortsteilen abholt und sie persönlich zu Erledigungen, Ärzten oder Treffpunkten im Kernort Künzell begleitet.\n\n**WARUM HIER:**\nKünzell ist durch seine verstreuten Ortsteile wie Dietershausen oder Dirlos geprägt, in denen die Wege zur Grundversorgung ohne eigenes Auto beschwerlich sind, das Bedürfnis nach Selbstständigkeit im vertrauten Dorf jedoch groß ist.\n\n**ERSTER SCHRITT:**\nIn Zusammenarbeit mit der Gemeinde Künzell wird ein einfacher Telefonservice eingerichtet, der Fahrbedarfe unbürokratisch aufnimmt und ehrenamtliche wie hauptamtliche Begleitpersonen aus der Nachbarschaft vermittelt.",
+      "ts": "2026-09-22 15:26",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-kuenzell",
+      "title": "Handwerk-Sichtbarkeit — Kuenzell  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin **Heizungs- und Sanitärbetrieb (SHK)** in Künzell (starkes Potenzial durch die vielen Eigenheime und den aktuellen Bedarf an Wärmepumpen/Badsanierungen).\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Eigenheimbesitzer in Künzell nach einer neuen Heizung oder Badsanierung googeln, landen sie meist bei den großen Betrieben aus Fulda – wollen wir gemeinsam dafür sorgen, dass die lukrativen Aufträge direkt aus Ihrer Nachbarschaft künftig bei Ihnen landen?“",
+      "ts": "2026-09-22 15:24",
+      "age_min": 2
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-kuenzell",
+          "title": "Handwerk-Sichtbarkeit — Kuenzell  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin **Heizungs- und Sanitärbetrieb (SHK)** in Künzell (starkes Potenzial durch die vielen Eigenheime und den aktuellen Bedarf an Wärmepumpen/Badsanierungen).\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Eigenheimbesitzer in Künzell nach einer neuen Heizung oder Badsanierung googeln, landen sie meist bei den großen Betrieben aus Fulda – wollen wir gemeinsam dafür sorgen, dass die lukrativen Aufträge direkt aus Ihrer Nachbarschaft künftig bei Ihnen landen?“",
+          "ts": "2026-09-22 15:24",
+          "age_min": 2
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-kuenzell",
+          "title": "Senioren-Alltagsdienste — Kuenzell  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:**\nEin verlässlicher Fahr- und Begleitdienst, der Seniorinnen und Senioren direkt an der Haustür in den Ortsteilen abholt und sie persönlich zu Erledigungen, Ärzten oder Treffpunkten im Kernort Künzell begleitet.\n\n**WARUM HIER:**\nKünzell ist durch seine verstreuten Ortsteile wie Dietershausen oder Dirlos geprägt, in denen die Wege zur Grundversorgung ohne eigenes Auto beschwerlich sind, das Bedürfnis nach Selbstständigkeit im vertrauten Dorf jedoch groß ist.\n\n**ERSTER SCHRITT:**\nIn Zusammenarbeit mit der Gemeinde Künzell wird ein einfacher Telefonservice eingerichtet, der Fahrbedarfe unbürokratisch aufnimmt und ehrenamtliche wie hauptamtliche Begleitpersonen aus der Nachbarschaft vermittelt.",
+          "ts": "2026-09-22 15:26",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
