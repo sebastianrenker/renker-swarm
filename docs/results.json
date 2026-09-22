@@ -1,40 +1,76 @@
 {
-  "updated": "2026-09-22 15:26 UTC",
-  "total_results": 2,
+  "updated": "2026-09-22 19:03 UTC",
+  "total_results": 4,
   "total_depts": 2,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-kuenzell",
-      "title": "Senioren-Alltagsdienste — Kuenzell  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "tourismus-kuenzell",
+      "title": "Vulkanregion-Tourismus — Kuenzell  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:**\nEin verlässlicher Fahr- und Begleitdienst, der Seniorinnen und Senioren direkt an der Haustür in den Ortsteilen abholt und sie persönlich zu Erledigungen, Ärzten oder Treffpunkten im Kernort Künzell begleitet.\n\n**WARUM HIER:**\nKünzell ist durch seine verstreuten Ortsteile wie Dietershausen oder Dirlos geprägt, in denen die Wege zur Grundversorgung ohne eigenes Auto beschwerlich sind, das Bedürfnis nach Selbstständigkeit im vertrauten Dorf jedoch groß ist.\n\n**ERSTER SCHRITT:**\nIn Zusammenarbeit mit der Gemeinde Künzell wird ein einfacher Telefonservice eingerichtet, der Fahrbedarfe unbürokratisch aufnimmt und ehrenamtliche wie hauptamtliche Begleitpersonen aus der Nachbarschaft vermittelt.",
-      "ts": "2026-09-22 15:26",
+      "text": "**WAS:** Das Erlebnispaket „Vulkan-Entspannung & Rhön-Genuss“ kombiniert eine kleine Sonnenuntergangs-Wanderung auf die Dirloser Höhe mit einem gefüllten regionalen Picknickkorb und einem anschließenden Abend-Eintritt in das Spa-Resort Sieben Welten in Künzell.\n\n**fuer WEN:** Dieses Angebot richtet sich an Paare und erholungssuchende Genießer, die sanfte Naturaktivität in den Ausläufern der Rhön mit einer entspannenden Wellness-Auszeit verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin auf unserer Buchungsseite aus und sichere dir dein digitales All-in-one-Ticket direkt online.",
+      "ts": "2026-09-22 19:02",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-kuenzell",
-      "title": "Handwerk-Sichtbarkeit — Kuenzell  ·  Chancen",
+      "agent": "direkt-kuenzell",
+      "title": "Direktvermarktung — Kuenzell  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nEin **Heizungs- und Sanitärbetrieb (SHK)** in Künzell (starkes Potenzial durch die vielen Eigenheime und den aktuellen Bedarf an Wärmepumpen/Badsanierungen).\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Eigenheimbesitzer in Künzell nach einer neuen Heizung oder Badsanierung googeln, landen sie meist bei den großen Betrieben aus Fulda – wollen wir gemeinsam dafür sorgen, dass die lukrativen Aufträge direkt aus Ihrer Nachbarschaft künftig bei Ihnen landen?“",
-      "ts": "2026-09-22 15:24",
+      "text": "**WAS:** Die „Künzeller Feierabend-Kiste“ ist ein wöchentliches Abo mit knackigem Saison-Gemüse, Eiern und Rhöner Brotzeit-Spezialitäten samt einfachem Rezept, das flexibel an einer gekühlten 24/7-Abholstation im Ort bereitsteht.\n\n**für WEN:** Für berufstätige Pendler und Familien aus Künzell, die ehrliche Landprodukte aus der Region schätzen, aber es zeitlich nicht zu den normalen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Drei verlässliche Höfe aus der Umgebung als Partner gewinnen und über eine WhatsApp-Gruppe mit 20 Künzeller Test-Haushalten den ersten Probelauf starten.",
+      "ts": "2026-09-22 19:02",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-kuenzell",
+      "title": "Chancen-Scout — Kuenzell  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Mobile, chemiefreie Photovoltaik-Reinigung und optische Sichtprüfung speziell für private Eigenheime.\n\n**WARUM HIER:** Künzell hat eine extrem hohe Dichte an Solardächern, die durch die angrenzende Rhön-Landwirtschaft stark verstauben, während die ausgelasteten Fuldaer Handwerksbetriebe solche Kleinstaufträge kaum bedienen.\n\n**ERSTER SCHRITT:** Ein wasserführendes Teleskopstangen-Set mit Harzfilter mieten oder gebraucht kaufen und in den solarreichen Wohngebieten von Pilgerzell und Dirlos 200 gezielte Anwohner-Flyer einwerfen.",
+      "ts": "2026-09-22 19:02",
+      "age_min": 1
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-petersberg",
+      "title": "Senioren-Alltagsdienste — Petersberg  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher Dorf-Begleitdienst unterstützt Senioren flexibel bei Wocheneinkäufen, Arztbesuchen und kleinen Botengängen.\n\n**WARUM HIER:** In den weitläufigen Ortsteilen von Petersberg fehlen oft fußläufige Geschäfte, weshalb diese mobile Hilfe die Eigenständigkeit im gewohnten Zuhause sichert und Einsamkeit vorbeugt.\n\n**ERSTER SCHRITT:** Ein ruhiges Kennenlerngespräch bei den Senioren zu Hause führen, um Wünsche individuell abzustimmen und eine feste Begleitperson aus der Region vorzustellen.",
+      "ts": "2026-09-22 19:01",
       "age_min": 2
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-kuenzell",
-          "title": "Handwerk-Sichtbarkeit — Kuenzell  ·  Chancen",
+          "agent": "tourismus-kuenzell",
+          "title": "Vulkanregion-Tourismus — Kuenzell  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nEin **Heizungs- und Sanitärbetrieb (SHK)** in Künzell (starkes Potenzial durch die vielen Eigenheime und den aktuellen Bedarf an Wärmepumpen/Badsanierungen).\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Eigenheimbesitzer in Künzell nach einer neuen Heizung oder Badsanierung googeln, landen sie meist bei den großen Betrieben aus Fulda – wollen wir gemeinsam dafür sorgen, dass die lukrativen Aufträge direkt aus Ihrer Nachbarschaft künftig bei Ihnen landen?“",
-          "ts": "2026-09-22 15:24",
-          "age_min": 2
+          "text": "**WAS:** Das Erlebnispaket „Vulkan-Entspannung & Rhön-Genuss“ kombiniert eine kleine Sonnenuntergangs-Wanderung auf die Dirloser Höhe mit einem gefüllten regionalen Picknickkorb und einem anschließenden Abend-Eintritt in das Spa-Resort Sieben Welten in Künzell.\n\n**fuer WEN:** Dieses Angebot richtet sich an Paare und erholungssuchende Genießer, die sanfte Naturaktivität in den Ausläufern der Rhön mit einer entspannenden Wellness-Auszeit verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin auf unserer Buchungsseite aus und sichere dir dein digitales All-in-one-Ticket direkt online.",
+          "ts": "2026-09-22 19:02",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-kuenzell",
+          "title": "Direktvermarktung — Kuenzell  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Künzeller Feierabend-Kiste“ ist ein wöchentliches Abo mit knackigem Saison-Gemüse, Eiern und Rhöner Brotzeit-Spezialitäten samt einfachem Rezept, das flexibel an einer gekühlten 24/7-Abholstation im Ort bereitsteht.\n\n**für WEN:** Für berufstätige Pendler und Familien aus Künzell, die ehrliche Landprodukte aus der Region schätzen, aber es zeitlich nicht zu den normalen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Drei verlässliche Höfe aus der Umgebung als Partner gewinnen und über eine WhatsApp-Gruppe mit 20 Künzeller Test-Haushalten den ersten Probelauf starten.",
+          "ts": "2026-09-22 19:02",
+          "age_min": 1
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-kuenzell",
+          "title": "Chancen-Scout — Kuenzell  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Mobile, chemiefreie Photovoltaik-Reinigung und optische Sichtprüfung speziell für private Eigenheime.\n\n**WARUM HIER:** Künzell hat eine extrem hohe Dichte an Solardächern, die durch die angrenzende Rhön-Landwirtschaft stark verstauben, während die ausgelasteten Fuldaer Handwerksbetriebe solche Kleinstaufträge kaum bedienen.\n\n**ERSTER SCHRITT:** Ein wasserführendes Teleskopstangen-Set mit Harzfilter mieten oder gebraucht kaufen und in den solarreichen Wohngebieten von Pilgerzell und Dirlos 200 gezielte Anwohner-Flyer einwerfen.",
+          "ts": "2026-09-22 19:02",
+          "age_min": 1
         }
       ]
     },
@@ -44,12 +80,12 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-kuenzell",
-          "title": "Senioren-Alltagsdienste — Kuenzell  ·  Kunden",
+          "agent": "senioren-petersberg",
+          "title": "Senioren-Alltagsdienste — Petersberg  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:**\nEin verlässlicher Fahr- und Begleitdienst, der Seniorinnen und Senioren direkt an der Haustür in den Ortsteilen abholt und sie persönlich zu Erledigungen, Ärzten oder Treffpunkten im Kernort Künzell begleitet.\n\n**WARUM HIER:**\nKünzell ist durch seine verstreuten Ortsteile wie Dietershausen oder Dirlos geprägt, in denen die Wege zur Grundversorgung ohne eigenes Auto beschwerlich sind, das Bedürfnis nach Selbstständigkeit im vertrauten Dorf jedoch groß ist.\n\n**ERSTER SCHRITT:**\nIn Zusammenarbeit mit der Gemeinde Künzell wird ein einfacher Telefonservice eingerichtet, der Fahrbedarfe unbürokratisch aufnimmt und ehrenamtliche wie hauptamtliche Begleitpersonen aus der Nachbarschaft vermittelt.",
-          "ts": "2026-09-22 15:26",
-          "age_min": 0
+          "text": "**WAS:** Ein verlässlicher Dorf-Begleitdienst unterstützt Senioren flexibel bei Wocheneinkäufen, Arztbesuchen und kleinen Botengängen.\n\n**WARUM HIER:** In den weitläufigen Ortsteilen von Petersberg fehlen oft fußläufige Geschäfte, weshalb diese mobile Hilfe die Eigenständigkeit im gewohnten Zuhause sichert und Einsamkeit vorbeugt.\n\n**ERSTER SCHRITT:** Ein ruhiges Kennenlerngespräch bei den Senioren zu Hause führen, um Wünsche individuell abzustimmen und eine feste Begleitperson aus der Region vorzustellen.",
+          "ts": "2026-09-22 19:01",
+          "age_min": 2
         }
       ]
     }
