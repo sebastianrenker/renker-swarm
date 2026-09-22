@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-22T19:03Z",
+  "updated": "2026-09-22T22:07Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Das Erlebnispaket „Vulkan-Entspannung & Rhön-Genuss“ kombiniert eine kleine Sonnenuntergangs-Wanderung auf die Dirloser Höhe mit einem gefüllten regionalen Picknickkorb und einem anschließenden Abend-Eintritt in das Spa-Resort Sieben Welten in Künzell. **fuer WEN:** Dieses Angebot richtet sich an Paare und erholungssuchende Genießer, die sanfte Natu",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher Dorf-Begleitdienst unterstützt Senioren flexibel bei Wocheneinkäufen, Arztbesuchen und kleinen Botengängen. **WARUM HIER:** In den weitläufigen Ortsteilen von Petersberg fehlen oft fußläufige Geschäfte, weshalb diese mobile Hilfe die Eigenständigkeit im gewohnten Zuhause sichert und Einsamkeit vorbeugt. **ERSTER SCHRITT:** Ein ruhi",
-        "age_min": 2
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1047,18 +1039,18 @@
       "name": "Senioren-Alltagsdienste — Petersberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher Dorf-Begleitdienst unterstützt Senioren flexibel bei Wocheneinkäufen, Arztbesuchen und kleinen Botengängen. **WARUM HIER:** In den weitläufigen Ortsteilen von Petersberg fehlen oft fußläufige G",
-      "via": "gemini",
-      "age_min": 2
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-kuenzell",
       "name": "Chancen-Scout — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobile, chemiefreie Photovoltaik-Reinigung und optische Sichtprüfung speziell für private Eigenheime. **WARUM HIER:** Künzell hat eine extrem hohe Dichte an Solardächern, die durch die angrenzende Rhön-Landwirts",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-kuenzell",
@@ -1074,18 +1066,18 @@
       "name": "Direktvermarktung — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Künzeller Feierabend-Kiste“ ist ein wöchentliches Abo mit knackigem Saison-Gemüse, Eiern und Rhöner Brotzeit-Spezialitäten samt einfachem Rezept, das flexibel an einer gekühlten 24/7-Abholstation im Ort ber",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-kuenzell",
       "name": "Vulkanregion-Tourismus — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnispaket „Vulkan-Entspannung & Rhön-Genuss“ kombiniert eine kleine Sonnenuntergangs-Wanderung auf die Dirloser Höhe mit einem gefüllten regionalen Picknickkorb und einem anschließenden Abend-Eintritt in",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-kuenzell",
@@ -1506,38 +1498,5 @@
     "used": 13,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** Das Erlebnispaket „Vulkan-Entspannung & Rhön-Genuss“ kombiniert eine kleine Sonnenuntergangs-Wanderung auf die Dirloser Höhe mit einem gefüllten regionalen Picknickkorb und einem anschließenden Abend-Eintritt in das Spa-Resort Sieben Welten in Künzell. **fuer WEN:** Dieses Angebot richtet sich an Paare und erholungssuchende Genießer, die sanfte Natu",
-      "ts": "2026-09-22 19:02",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** Die „Künzeller Feierabend-Kiste“ ist ein wöchentliches Abo mit knackigem Saison-Gemüse, Eiern und Rhöner Brotzeit-Spezialitäten samt einfachem Rezept, das flexibel an einer gekühlten 24/7-Abholstation im Ort bereitsteht. **für WEN:** Für berufstätige Pendler und Familien aus Künzell, die ehrliche Landprodukte aus der Region schätzen, aber es zeitlic",
-      "ts": "2026-09-22 19:02",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** Mobile, chemiefreie Photovoltaik-Reinigung und optische Sichtprüfung speziell für private Eigenheime. **WARUM HIER:** Künzell hat eine extrem hohe Dichte an Solardächern, die durch die angrenzende Rhön-Landwirtschaft stark verstauben, während die ausgelasteten Fuldaer Handwerksbetriebe solche Kleinstaufträge kaum bedienen. **ERSTER SCHRITT:** Ein wa",
-      "ts": "2026-09-22 19:02",
-      "age_min": 1
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-petersberg",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher Dorf-Begleitdienst unterstützt Senioren flexibel bei Wocheneinkäufen, Arztbesuchen und kleinen Botengängen. **WARUM HIER:** In den weitläufigen Ortsteilen von Petersberg fehlen oft fußläufige Geschäfte, weshalb diese mobile Hilfe die Eigenständigkeit im gewohnten Zuhause sichert und Einsamkeit vorbeugt. **ERSTER SCHRITT:** Ein ruhi",
-      "ts": "2026-09-22 19:01",
-      "age_min": 2
-    }
-  ]
+  "recent": []
 }
