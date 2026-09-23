@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-23T09:58Z",
+  "updated": "2026-09-23T14:48Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** „Picknick & Pioniergeist“: Eine interaktive GPS-Rätsel-Rallye auf den Spuren von Computer-Pionier Konrad Zuse rund um den Hünfelder Haselsee inklusive eines reich gefüllten Rhöner Schmankerl-Rucksacks. **fuer WEN:** Perfekt für unternehmungslustige Paare, Familien und kleine Gruppen, die tüftlerischen Rätselspaß an der frischen Luft mit regionalem G",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher Dorf-Shuttle, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen persönlich zum Wocheneinkauf, zum Arzt oder zu Treffpunkten in der Kernstadt begleitet. **WARUM HIER:** Da viele Seniorinnen und Senioren würdevoll in ihren vertrauten Dörfern wie Mackenzell oder Sargenzell wohnen bleiben möchten, die Wege ohne eigenes Auto ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1155,36 +1147,36 @@
       "name": "Handwerk-Sichtbarkeit — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. für Badsanierung, Heizungstausch und Notdienst). **Ansprache-Idee:** „Viele Hünfelder suchen online nach einem verlässlichen Handwerker für ein neues Bad oder den Heiz",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-huenfeld",
       "name": "Direktvermarktung — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Kiste“ im Abo mit frischen Zutaten und passenden Rezepten lokaler Höfe für einfache, ehrliche Gerichte unter der Woche. **FÜR WEN:** Für berufstätige Pendler und Familien aus",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-huenfeld",
       "name": "Vulkanregion-Tourismus — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Picknick & Pioniergeist“: Eine interaktive GPS-Rätsel-Rallye auf den Spuren von Computer-Pionier Konrad Zuse rund um den Hünfelder Haselsee inklusive eines reich gefüllten Rhöner Schmankerl-Rucksacks. **fuer WE",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-huenfeld",
       "name": "Senioren-Alltagsdienste — Huenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher Dorf-Shuttle, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen persönlich zum Wocheneinkauf, zum Arzt oder zu Treffpunkten in der Kernstadt begleitet. **WARUM HIER:** Da viele Senio",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-grossenlueder",
@@ -1506,38 +1498,5 @@
     "used": 10,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-huenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher Dorf-Shuttle, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen persönlich zum Wocheneinkauf, zum Arzt oder zu Treffpunkten in der Kernstadt begleitet. **WARUM HIER:** Da viele Seniorinnen und Senioren würdevoll in ihren vertrauten Dörfern wie Mackenzell oder Sargenzell wohnen bleiben möchten, die Wege ohne eigenes Auto ",
-      "ts": "2026-09-23 09:58",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-huenfeld",
-      "via": "gemini",
-      "text": "**WAS:** „Picknick & Pioniergeist“: Eine interaktive GPS-Rätsel-Rallye auf den Spuren von Computer-Pionier Konrad Zuse rund um den Hünfelder Haselsee inklusive eines reich gefüllten Rhöner Schmankerl-Rucksacks. **fuer WEN:** Perfekt für unternehmungslustige Paare, Familien und kleine Gruppen, die tüftlerischen Rätselspaß an der frischen Luft mit regionalem G",
-      "ts": "2026-09-23 09:58",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-huenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Kiste“ im Abo mit frischen Zutaten und passenden Rezepten lokaler Höfe für einfache, ehrliche Gerichte unter der Woche. **FÜR WEN:** Für berufstätige Pendler und Familien aus Hünfeld und den Ortsteilen, die nach der Arbeit ohne Einkaufsstress frisch und regional kochen möchten. **ERSTER SCHRITT:** Drei passende P",
-      "ts": "2026-09-23 09:58",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-huenfeld",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. für Badsanierung, Heizungstausch und Notdienst). **Ansprache-Idee:** „Viele Hünfelder suchen online nach einem verlässlichen Handwerker für ein neues Bad oder den Heizungswechsel – sorgen wir dafür, dass die Kunden Ihre Telefonnummer finden und nicht die der Konkurrenz aus Fulda.“",
-      "ts": "2026-09-23 09:58",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
