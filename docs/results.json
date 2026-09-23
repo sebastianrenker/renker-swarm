@@ -1,7 +1,129 @@
 {
-  "updated": "2026-09-23 00:30 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-23 05:11 UTC",
+  "total_results": 6,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-huenfeld",
+      "title": "Chancen-Scout — Huenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Wartungsservice für E-Bikes und Diensträder, der Inspektionen und Kleinreparaturen direkt auf den Parkplätzen der Hünfelder Gewerbegebiete während der Arbeitszeit erledigt.\n\n**WARUM HIER:** Viele Hünfelder Mittelständler nutzen JobRad-Modelle für ihre Mitarbeiter, jedoch fehlen Pendlern oft die Zeit für Werkstattfahrten nach Fulda und den lokalen Händlern die Kapazitäten für schnelle Routine-Termine.\n\n**ERSTER SCHRITT:** Mit einem ausgestatteten Werkstatt-Anhänger drei Betriebe im Gewerbegebiet Hünfeld-Nord kontaktieren und einen ersten Test-Aktionstag („Bike-Check am Arbeitsplatz“) vereinbaren.",
+      "ts": "2026-09-23 05:11",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-neuhof",
+      "title": "Senioren-Alltagsdienste — Neuhof  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** \nEin verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der Seniorinnen und Senioren regelmäßig zu Einkäufen, Arztbesuchen oder Geselligkeiten fährt und sie auf Wunsch aufmerksam unterstützt.\n\n**WARUM HIER:** \nAufgrund der weiten Wege zwischen den Ortsteilen von Neuhof und des ausgedünnten öffentlichen Nahverkehrs bewahrt dieser Service die eigenständige Lebensführung im vertrauten Zuhause.\n\n**ERSTER SCHRITT:** \nEin offenes Treffen im Gemeindezentrum organisieren, um den konkreten Bedarf der Älteren zu erfassen und hilfsbereite Fahrerinnen und Fahrer aus dem Dorf miteinander zu vernetzen.",
+      "ts": "2026-09-23 05:11",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-neuhof",
+      "title": "Vulkanregion-Tourismus — Neuhof  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Bei der dreistündigen E-Bike-Genusstour „Salz & Vulkan“ erkunden Sie die beeindruckende Kulisse des Kalibergs Neuhof und genießen im Anschluss ein Picknick mit regionalen Vogelsberg-Spezialitäten am Aussichtspunkt.\n\n**für WEN:** Das Paket eignet sich perfekt für naturbegeisterte Paare, Aktivreisende und kleine Gruppen, die regionale Geschichte und Kulinarik entspannt kombinieren möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich das Erlebnis inklusive Miet-E-Bike und befülltem Picknickkorb mit wenigen Klicks online.",
+      "ts": "2026-09-23 05:11",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-neuhof",
+      "title": "Direktvermarktung — Neuhof  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDie „Neuhöfer Feierabend-Kiste“ als wöchentliches Abo mit allen Zutaten für ein ehrliches, regionales Abendbrot – von Hausmacher Wurst und frischem Holzofenbrot bis hin zu knackigem Saison-Gemüse.\n\n**fuer WEN:** \nFür Pendler und beschäftigte Familien aus Neuhof und der Region Fulda, die nach der Arbeit ohne Supermarkt-Stress gute Lebensmittel aus der Heimat auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei verlässliche Nachbar-Betriebe (Bäcker, Metzgerei, Gemüsebauer) an einen Tisch holen und eine erste Probier-Kiste an 20 Stammkunden ausgeben, um direktes Feedback einzuholen.",
+      "ts": "2026-09-23 05:11",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-neuhof",
+      "title": "Handwerk-Sichtbarkeit — Neuhof  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:**  \nEin **lokaler Sanitär- und Heizungsbaubetrieb (SHK)** in Neuhof.\n\n**Ansprache-Idee:**  \n„Hallo Herr/Frau [Name], wenn Eigentümer in Neuhof auf Google nach einer neuen Wärmepumpe oder Badsanierung suchen, landen sie aktuell bei der Konkurrenz aus den Nachbarorten – wollen wir dafür sorgen, dass Sie die lukrativen Aufträge direkt vor Ihrer Haustür einfahren?“",
+      "ts": "2026-09-23 05:11",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-neuhof",
+      "title": "Chancen-Scout — Neuhof  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Fahrrad-Wartungs- und Reparaturservice, der Pendlerräder direkt am Bahnhof Neuhof während der Arbeitszeit der Kunden instand setzt.\n\n**WARUM HIER:** Neuhof ist der zentrale K-Bahn-Knotenpunkt für Hunderte Pendler Richtung Frankfurt und Fulda, deren Räder tagsüber stundenlang ungenutzt am Park-and-Ride-Platz stehen.\n\n**ERSTER SCHRITT:** Beantrage bei der Gemeinde Neuhof eine Genehmigung für einen mobilen Werkstatt-Stellplatz am Bahnhof und bringe 50 Flyer mit Termin-QR-Code direkt an den dort geparkten Fahrrädern an.",
+      "ts": "2026-09-23 05:10",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 5,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "chancen-huenfeld",
+          "title": "Chancen-Scout — Huenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Wartungsservice für E-Bikes und Diensträder, der Inspektionen und Kleinreparaturen direkt auf den Parkplätzen der Hünfelder Gewerbegebiete während der Arbeitszeit erledigt.\n\n**WARUM HIER:** Viele Hünfelder Mittelständler nutzen JobRad-Modelle für ihre Mitarbeiter, jedoch fehlen Pendlern oft die Zeit für Werkstattfahrten nach Fulda und den lokalen Händlern die Kapazitäten für schnelle Routine-Termine.\n\n**ERSTER SCHRITT:** Mit einem ausgestatteten Werkstatt-Anhänger drei Betriebe im Gewerbegebiet Hünfeld-Nord kontaktieren und einen ersten Test-Aktionstag („Bike-Check am Arbeitsplatz“) vereinbaren.",
+          "ts": "2026-09-23 05:11",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-neuhof",
+          "title": "Vulkanregion-Tourismus — Neuhof  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Bei der dreistündigen E-Bike-Genusstour „Salz & Vulkan“ erkunden Sie die beeindruckende Kulisse des Kalibergs Neuhof und genießen im Anschluss ein Picknick mit regionalen Vogelsberg-Spezialitäten am Aussichtspunkt.\n\n**für WEN:** Das Paket eignet sich perfekt für naturbegeisterte Paare, Aktivreisende und kleine Gruppen, die regionale Geschichte und Kulinarik entspannt kombinieren möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich das Erlebnis inklusive Miet-E-Bike und befülltem Picknickkorb mit wenigen Klicks online.",
+          "ts": "2026-09-23 05:11",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-neuhof",
+          "title": "Direktvermarktung — Neuhof  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDie „Neuhöfer Feierabend-Kiste“ als wöchentliches Abo mit allen Zutaten für ein ehrliches, regionales Abendbrot – von Hausmacher Wurst und frischem Holzofenbrot bis hin zu knackigem Saison-Gemüse.\n\n**fuer WEN:** \nFür Pendler und beschäftigte Familien aus Neuhof und der Region Fulda, die nach der Arbeit ohne Supermarkt-Stress gute Lebensmittel aus der Heimat auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei verlässliche Nachbar-Betriebe (Bäcker, Metzgerei, Gemüsebauer) an einen Tisch holen und eine erste Probier-Kiste an 20 Stammkunden ausgeben, um direktes Feedback einzuholen.",
+          "ts": "2026-09-23 05:11",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-neuhof",
+          "title": "Handwerk-Sichtbarkeit — Neuhof  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:**  \nEin **lokaler Sanitär- und Heizungsbaubetrieb (SHK)** in Neuhof.\n\n**Ansprache-Idee:**  \n„Hallo Herr/Frau [Name], wenn Eigentümer in Neuhof auf Google nach einer neuen Wärmepumpe oder Badsanierung suchen, landen sie aktuell bei der Konkurrenz aus den Nachbarorten – wollen wir dafür sorgen, dass Sie die lukrativen Aufträge direkt vor Ihrer Haustür einfahren?“",
+          "ts": "2026-09-23 05:11",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-neuhof",
+          "title": "Chancen-Scout — Neuhof  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Fahrrad-Wartungs- und Reparaturservice, der Pendlerräder direkt am Bahnhof Neuhof während der Arbeitszeit der Kunden instand setzt.\n\n**WARUM HIER:** Neuhof ist der zentrale K-Bahn-Knotenpunkt für Hunderte Pendler Richtung Frankfurt und Fulda, deren Räder tagsüber stundenlang ungenutzt am Park-and-Ride-Platz stehen.\n\n**ERSTER SCHRITT:** Beantrage bei der Gemeinde Neuhof eine Genehmigung für einen mobilen Werkstatt-Stellplatz am Bahnhof und bringe 50 Flyer mit Termin-QR-Code direkt an den dort geparkten Fahrrädern an.",
+          "ts": "2026-09-23 05:10",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-neuhof",
+          "title": "Senioren-Alltagsdienste — Neuhof  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der Seniorinnen und Senioren regelmäßig zu Einkäufen, Arztbesuchen oder Geselligkeiten fährt und sie auf Wunsch aufmerksam unterstützt.\n\n**WARUM HIER:** \nAufgrund der weiten Wege zwischen den Ortsteilen von Neuhof und des ausgedünnten öffentlichen Nahverkehrs bewahrt dieser Service die eigenständige Lebensführung im vertrauten Zuhause.\n\n**ERSTER SCHRITT:** \nEin offenes Treffen im Gemeindezentrum organisieren, um den konkreten Bedarf der Älteren zu erfassen und hilfsbereite Fahrerinnen und Fahrer aus dem Dorf miteinander zu vernetzen.",
+          "ts": "2026-09-23 05:11",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
