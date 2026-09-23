@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-23 14:48 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-23 18:47 UTC",
+  "total_results": 1,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-grossenlueder",
+      "title": "Chancen-Scout — Grossenlueder  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Aufbereitungs- und Wartungsservice reinigt und pflegt die Transporter sowie Werkzeuge lokaler Handwerksbetriebe direkt am Wochenende auf deren Firmengelände.\n\n**WARUM HIER:** Großenlüder hat eine hohe Dichte an mittelständischen Handwerksbetrieben (unter anderem im Gewerbegebiet Mühlenfeld), denen im strammen Betriebsalltag schlichtweg die Zeit für die regelmäßige Pflege ihres Fuhrparks fehlt.\n\n**ERSTER SCHRITT:** Biete drei lokalen Handwerksbetrieben in Großenlüder eine kostenlose Probe-Aufbereitung eines Transporters am Samstag an, um direkt vor Ort die ersten Stammkunden und Referenzen zu sichern.",
+      "ts": "2026-09-23 18:47",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "chancen-grossenlueder",
+          "title": "Chancen-Scout — Grossenlueder  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Aufbereitungs- und Wartungsservice reinigt und pflegt die Transporter sowie Werkzeuge lokaler Handwerksbetriebe direkt am Wochenende auf deren Firmengelände.\n\n**WARUM HIER:** Großenlüder hat eine hohe Dichte an mittelständischen Handwerksbetrieben (unter anderem im Gewerbegebiet Mühlenfeld), denen im strammen Betriebsalltag schlichtweg die Zeit für die regelmäßige Pflege ihres Fuhrparks fehlt.\n\n**ERSTER SCHRITT:** Biete drei lokalen Handwerksbetrieben in Großenlüder eine kostenlose Probe-Aufbereitung eines Transporters am Samstag an, um direkt vor Ort die ersten Stammkunden und Referenzen zu sichern.",
+          "ts": "2026-09-23 18:47",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

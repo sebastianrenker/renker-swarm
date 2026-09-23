@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-23T14:48Z",
+  "updated": "2026-09-23T18:47Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Aufbereitungs- und Wartungsservice reinigt und pflegt die Transporter sowie Werkzeuge lokaler Handwerksbetriebe direkt am Wochenende auf deren Firmengelände. **WARUM HIER:** Großenlüder hat eine hohe Dichte an mittelständischen Handwerksbetrieben (unter anderem im Gewerbegebiet Mühlenfeld), denen im strammen Betriebsalltag schlichtweg di",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -1183,9 +1187,9 @@
       "name": "Chancen-Scout — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Aufbereitungs- und Wartungsservice reinigt und pflegt die Transporter sowie Werkzeuge lokaler Handwerksbetriebe direkt am Wochenende auf deren Firmengelände. **WARUM HIER:** Großenlüder hat eine hohe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grossenlueder",
@@ -1495,8 +1499,17 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 11,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-grossenlueder",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Aufbereitungs- und Wartungsservice reinigt und pflegt die Transporter sowie Werkzeuge lokaler Handwerksbetriebe direkt am Wochenende auf deren Firmengelände. **WARUM HIER:** Großenlüder hat eine hohe Dichte an mittelständischen Handwerksbetrieben (unter anderem im Gewerbegebiet Mühlenfeld), denen im strammen Betriebsalltag schlichtweg di",
+      "ts": "2026-09-23 18:47",
+      "age_min": 0
+    }
+  ]
 }
