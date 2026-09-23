@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-23T05:11Z",
+  "updated": "2026-09-23T09:58Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Wartungsservice für E-Bikes und Diensträder, der Inspektionen und Kleinreparaturen direkt auf den Parkplätzen der Hünfelder Gewerbegebiete während der Arbeitszeit erledigt. **WARUM HIER:** Viele Hünfelder Mittelständler nutzen JobRad-Modelle für ihre Mitarbeiter, jedoch fehlen Pendlern oft die Zeit für Werkstattfahrten nach Fulda und den",
+        "text": "**WAS:** „Picknick & Pioniergeist“: Eine interaktive GPS-Rätsel-Rallye auf den Spuren von Computer-Pionier Konrad Zuse rund um den Hünfelder Haselsee inklusive eines reich gefüllten Rhöner Schmankerl-Rucksacks. **fuer WEN:** Perfekt für unternehmungslustige Paare, Familien und kleine Gruppen, die tüftlerischen Rätselspaß an der frischen Luft mit regionalem G",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der Seniorinnen und Senioren regelmäßig zu Einkäufen, Arztbesuchen oder Geselligkeiten fährt und sie auf Wunsch aufmerksam unterstützt. **WARUM HIER:** Aufgrund der weiten Wege zwischen den Ortsteilen von Neuhof und des ausgedünnten öffentlichen Nahverkehrs bewahrt dieser Service die ei",
+        "text": "**WAS:** Ein verlässlicher Dorf-Shuttle, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen persönlich zum Wocheneinkauf, zum Arzt oder zu Treffpunkten in der Kernstadt begleitet. **WARUM HIER:** Da viele Seniorinnen und Senioren würdevoll in ihren vertrauten Dörfern wie Mackenzell oder Sargenzell wohnen bleiben möchten, die Wege ohne eigenes Auto ",
         "age_min": 0
       }
     },
@@ -1101,90 +1101,90 @@
       "name": "Chancen-Scout — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Fahrrad-Wartungs- und Reparaturservice, der Pendlerräder direkt am Bahnhof Neuhof während der Arbeitszeit der Kunden instand setzt. **WARUM HIER:** Neuhof ist der zentrale K-Bahn-Knotenpunkt für Hund",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-neuhof",
       "name": "Handwerk-Sichtbarkeit — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **lokaler Sanitär- und Heizungsbaubetrieb (SHK)** in Neuhof. **Ansprache-Idee:** „Hallo Herr/Frau [Name], wenn Eigentümer in Neuhof auf Google nach einer neuen Wärmepumpe oder Badsanierung suchen, la",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-neuhof",
       "name": "Direktvermarktung — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Neuhöfer Feierabend-Kiste“ als wöchentliches Abo mit allen Zutaten für ein ehrliches, regionales Abendbrot – von Hausmacher Wurst und frischem Holzofenbrot bis hin zu knackigem Saison-Gemüse. **fuer WEN:** ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-neuhof",
       "name": "Vulkanregion-Tourismus — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der dreistündigen E-Bike-Genusstour „Salz & Vulkan“ erkunden Sie die beeindruckende Kulisse des Kalibergs Neuhof und genießen im Anschluss ein Picknick mit regionalen Vogelsberg-Spezialitäten am Aussichtspun",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-neuhof",
       "name": "Senioren-Alltagsdienste — Neuhof",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der Seniorinnen und Senioren regelmäßig zu Einkäufen, Arztbesuchen oder Geselligkeiten fährt und sie auf Wunsch aufmerksam unterstützt. **WARUM HIE",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-huenfeld",
       "name": "Chancen-Scout — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Wartungsservice für E-Bikes und Diensträder, der Inspektionen und Kleinreparaturen direkt auf den Parkplätzen der Hünfelder Gewerbegebiete während der Arbeitszeit erledigt. **WARUM HIER:** Viele Hünf",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-huenfeld",
       "name": "Handwerk-Sichtbarkeit — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. für Badsanierung, Heizungstausch und Notdienst). **Ansprache-Idee:** „Viele Hünfelder suchen online nach einem verlässlichen Handwerker für ein neues Bad oder den Heiz",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-huenfeld",
       "name": "Direktvermarktung — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Kiste“ im Abo mit frischen Zutaten und passenden Rezepten lokaler Höfe für einfache, ehrliche Gerichte unter der Woche. **FÜR WEN:** Für berufstätige Pendler und Familien aus",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-huenfeld",
       "name": "Vulkanregion-Tourismus — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Picknick & Pioniergeist“: Eine interaktive GPS-Rätsel-Rallye auf den Spuren von Computer-Pionier Konrad Zuse rund um den Hünfelder Haselsee inklusive eines reich gefüllten Rhöner Schmankerl-Rucksacks. **fuer WE",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-huenfeld",
       "name": "Senioren-Alltagsdienste — Huenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher Dorf-Shuttle, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen persönlich zum Wocheneinkauf, zum Arzt oder zu Treffpunkten in der Kernstadt begleitet. **WARUM HIER:** Da viele Senio",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grossenlueder",
@@ -1503,56 +1503,40 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 10,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "chancen-huenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Wartungsservice für E-Bikes und Diensträder, der Inspektionen und Kleinreparaturen direkt auf den Parkplätzen der Hünfelder Gewerbegebiete während der Arbeitszeit erledigt. **WARUM HIER:** Viele Hünfelder Mittelständler nutzen JobRad-Modelle für ihre Mitarbeiter, jedoch fehlen Pendlern oft die Zeit für Werkstattfahrten nach Fulda und den",
-      "ts": "2026-09-23 05:11",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-neuhof",
+      "agent": "senioren-huenfeld",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der Seniorinnen und Senioren regelmäßig zu Einkäufen, Arztbesuchen oder Geselligkeiten fährt und sie auf Wunsch aufmerksam unterstützt. **WARUM HIER:** Aufgrund der weiten Wege zwischen den Ortsteilen von Neuhof und des ausgedünnten öffentlichen Nahverkehrs bewahrt dieser Service die ei",
-      "ts": "2026-09-23 05:11",
+      "text": "**WAS:** Ein verlässlicher Dorf-Shuttle, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen persönlich zum Wocheneinkauf, zum Arzt oder zu Treffpunkten in der Kernstadt begleitet. **WARUM HIER:** Da viele Seniorinnen und Senioren würdevoll in ihren vertrauten Dörfern wie Mackenzell oder Sargenzell wohnen bleiben möchten, die Wege ohne eigenes Auto ",
+      "ts": "2026-09-23 09:58",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-neuhof",
+      "agent": "tourismus-huenfeld",
       "via": "gemini",
-      "text": "**WAS:** Bei der dreistündigen E-Bike-Genusstour „Salz & Vulkan“ erkunden Sie die beeindruckende Kulisse des Kalibergs Neuhof und genießen im Anschluss ein Picknick mit regionalen Vogelsberg-Spezialitäten am Aussichtspunkt. **für WEN:** Das Paket eignet sich perfekt für naturbegeisterte Paare, Aktivreisende und kleine Gruppen, die regionale Geschichte und Ku",
-      "ts": "2026-09-23 05:11",
+      "text": "**WAS:** „Picknick & Pioniergeist“: Eine interaktive GPS-Rätsel-Rallye auf den Spuren von Computer-Pionier Konrad Zuse rund um den Hünfelder Haselsee inklusive eines reich gefüllten Rhöner Schmankerl-Rucksacks. **fuer WEN:** Perfekt für unternehmungslustige Paare, Familien und kleine Gruppen, die tüftlerischen Rätselspaß an der frischen Luft mit regionalem G",
+      "ts": "2026-09-23 09:58",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-neuhof",
+      "agent": "direkt-huenfeld",
       "via": "gemini",
-      "text": "**WAS:** Die „Neuhöfer Feierabend-Kiste“ als wöchentliches Abo mit allen Zutaten für ein ehrliches, regionales Abendbrot – von Hausmacher Wurst und frischem Holzofenbrot bis hin zu knackigem Saison-Gemüse. **fuer WEN:** Für Pendler und beschäftigte Familien aus Neuhof und der Region Fulda, die nach der Arbeit ohne Supermarkt-Stress gute Lebensmittel aus der ",
-      "ts": "2026-09-23 05:11",
+      "text": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Kiste“ im Abo mit frischen Zutaten und passenden Rezepten lokaler Höfe für einfache, ehrliche Gerichte unter der Woche. **FÜR WEN:** Für berufstätige Pendler und Familien aus Hünfeld und den Ortsteilen, die nach der Arbeit ohne Einkaufsstress frisch und regional kochen möchten. **ERSTER SCHRITT:** Drei passende P",
+      "ts": "2026-09-23 09:58",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-neuhof",
+      "agent": "handwerk-huenfeld",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **lokaler Sanitär- und Heizungsbaubetrieb (SHK)** in Neuhof. **Ansprache-Idee:** „Hallo Herr/Frau [Name], wenn Eigentümer in Neuhof auf Google nach einer neuen Wärmepumpe oder Badsanierung suchen, landen sie aktuell bei der Konkurrenz aus den Nachbarorten – wollen wir dafür sorgen, dass Sie die lukrativen Aufträge direkt vor Ihrer Haustü",
-      "ts": "2026-09-23 05:11",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Fahrrad-Wartungs- und Reparaturservice, der Pendlerräder direkt am Bahnhof Neuhof während der Arbeitszeit der Kunden instand setzt. **WARUM HIER:** Neuhof ist der zentrale K-Bahn-Knotenpunkt für Hunderte Pendler Richtung Frankfurt und Fulda, deren Räder tagsüber stundenlang ungenutzt am Park-and-Ride-Platz stehen. **ERSTER SCHRITT:** Bea",
-      "ts": "2026-09-23 05:10",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (z. B. für Badsanierung, Heizungstausch und Notdienst). **Ansprache-Idee:** „Viele Hünfelder suchen online nach einem verlässlichen Handwerker für ein neues Bad oder den Heizungswechsel – sorgen wir dafür, dass die Kunden Ihre Telefonnummer finden und nicht die der Konkurrenz aus Fulda.“",
+      "ts": "2026-09-23 09:58",
       "age_min": 0
     }
   ]
