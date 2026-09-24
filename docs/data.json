@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-24T18:47Z",
+  "updated": "2026-09-24T21:55Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Eine bodenständige „Hosenfelder Feierabend-Kiste“ im flexiblen Abo mit frischen Zutaten für ein schnelles Abendessen (z. B. Saison-Gemüse, Hausmacher Wurst, Käse und Holzofenbrot), abgepackt zur kontaktlosen 24/7-Abholung an einer zentralen Hof-Station. **für WEN:** Für Berufspendler und Familien aus Hosenfeld und den Ortsteilen, die nach der Arbeit",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der individuelle Besorgungen, Fahrten zum Arzt und persönliche Begegnungen flexibel vor Ort kombiniert. **WARUM HIER:** In den acht weit verstreuten Ortsteilen von Hosenfeld bewahrt diese Hilfe die Selbstständigkeit der Älteren, wenn die Wege im Alltag zu lang werden. **ERSTER SCHRITT:** Gemeinsam mit d",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1273,27 +1281,27 @@
       "name": "Chancen-Scout — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Kaminholz-Aufbereitungsservice, der mit professioneller Säge-Spalt-Kombination auf Anhänger direkt auf die Höfe der Anwohner fährt. **WARUM HIER:** Die waldreiche Lage am Vogelsberg-Rand sorgt in Hos",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-hosenfeld",
       "name": "Handwerk-Sichtbarkeit — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** (Fokus: Wärmepumpen-Umstieg, Badsanierung und Notdienst) in Hosenfeld. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den Ortsteilen na",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-hosenfeld",
       "name": "Direktvermarktung — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine bodenständige „Hosenfelder Feierabend-Kiste“ im flexiblen Abo mit frischen Zutaten für ein schnelles Abendessen (z. B. Saison-Gemüse, Hausmacher Wurst, Käse und Holzofenbrot), abgepackt zur kontaktlosen 24/",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-hosenfeld",
@@ -1309,9 +1317,9 @@
       "name": "Senioren-Alltagsdienste — Hosenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der individuelle Besorgungen, Fahrten zum Arzt und persönliche Begegnungen flexibel vor Ort kombiniert. **WARUM HIER:** In den acht weit verstreuten Ortsteilen von ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-flieden",
@@ -1495,8 +1503,41 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 14,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-hosenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der individuelle Besorgungen, Fahrten zum Arzt und persönliche Begegnungen flexibel vor Ort kombiniert. **WARUM HIER:** In den acht weit verstreuten Ortsteilen von Hosenfeld bewahrt diese Hilfe die Selbstständigkeit der Älteren, wenn die Wege im Alltag zu lang werden. **ERSTER SCHRITT:** Gemeinsam mit d",
+      "ts": "2026-09-24 21:55",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-hosenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Eine bodenständige „Hosenfelder Feierabend-Kiste“ im flexiblen Abo mit frischen Zutaten für ein schnelles Abendessen (z. B. Saison-Gemüse, Hausmacher Wurst, Käse und Holzofenbrot), abgepackt zur kontaktlosen 24/7-Abholung an einer zentralen Hof-Station. **für WEN:** Für Berufspendler und Familien aus Hosenfeld und den Ortsteilen, die nach der Arbeit",
+      "ts": "2026-09-24 21:55",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-hosenfeld",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** (Fokus: Wärmepumpen-Umstieg, Badsanierung und Notdienst) in Hosenfeld. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den Ortsteilen nach 'Wärmepumpe' oder 'Badsanierung' googeln, landen sie aktuell meist bei Firmen aus Fulda – lassen Sie uns dafür sorgen, dass die guten Auf",
+      "ts": "2026-09-24 21:55",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-hosenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Kaminholz-Aufbereitungsservice, der mit professioneller Säge-Spalt-Kombination auf Anhänger direkt auf die Höfe der Anwohner fährt. **WARUM HIER:** Die waldreiche Lage am Vogelsberg-Rand sorgt in Hosenfeld und seinen Ortsteilen für eine extrem hohe Dichte an Kaminholz-Heizern, denen oft die Zeit oder die Kraft für das schwere Aufarbeiten",
+      "ts": "2026-09-24 21:55",
+      "age_min": 0
+    }
+  ]
 }
