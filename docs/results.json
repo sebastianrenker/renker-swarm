@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-24 09:58 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-24 14:50 UTC",
+  "total_results": 1,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-hosenfeld",
+      "title": "Vulkanregion-Tourismus — Hosenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** „Hosenfelder Wald-Aromen“ ist ein 3-stündiges geführtes Waldbaden-Erlebnis durch die ruhigen Wälder von Hosenfeld, abgerundet mit einem regionalen Vogelsberger Picknick an einer urigen Waldhütte.\n\n**FÜR WEN:** Dieses Angebot richtet sich an Paare, Naturgenießer und alltagsmüde Auszeit-Suchende, die in unberührter Natur tief durchatmen und entschleunigen möchten.\n\n**ERSTER SCHRITT:** Klicke auf den Buchungsbutton, wähle deinen Wunschtermin im Online-Kalender aus und sichere dir dein Ticket inklusive gefülltem Genuss-Rucksack mit wenigen Klicks.",
+      "ts": "2026-09-24 14:48",
+      "age_min": 1
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-hosenfeld",
+          "title": "Vulkanregion-Tourismus — Hosenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** „Hosenfelder Wald-Aromen“ ist ein 3-stündiges geführtes Waldbaden-Erlebnis durch die ruhigen Wälder von Hosenfeld, abgerundet mit einem regionalen Vogelsberger Picknick an einer urigen Waldhütte.\n\n**FÜR WEN:** Dieses Angebot richtet sich an Paare, Naturgenießer und alltagsmüde Auszeit-Suchende, die in unberührter Natur tief durchatmen und entschleunigen möchten.\n\n**ERSTER SCHRITT:** Klicke auf den Buchungsbutton, wähle deinen Wunschtermin im Online-Kalender aus und sichere dir dein Ticket inklusive gefülltem Genuss-Rucksack mit wenigen Klicks.",
+          "ts": "2026-09-24 14:48",
+          "age_min": 1
+        }
+      ]
+    }
+  ]
 }
