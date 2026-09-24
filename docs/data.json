@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-24T00:19Z",
+  "updated": "2026-09-24T05:08Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Ein lokal ansässiger **Sanitär- und Heizungsbauer** (Fokus auf Badsanierung und Wärmepumpen/Heizungstausch). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer direkt hier in Eichenzell nach einer neuen Heizung oder Badrenovierung googeln, landen sie aktuell noch bei Betrieben aus Fulda – wollen wir dafür sorgen, dass Ih",
+        "text": "**WAS:** Ein fürstliches Picknick im Schlosspark Fasanerie inklusive gefülltem Barock-Picknickkorb voller regionaler Rhön-Spezialitäten und einer anschließenden Führung durch Hessens schönstes Barockschloss. **fuer WEN:** Dieses Angebot richtet sich an Paare und Genießer, die Kultur, Natur und regionale Kulinarik bei einem stilvollen Tagesausflug miteinander",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Besorgungsdienst, der ältere Menschen aus den Ortsteilen würdevoll zu Arztterminen, Einkäufen oder Gemeinschaftstreffen begleitet und schwere Besorgungen direkt nach Hause bringt. **WARUM HIER:** Da Großenlüder aus sieben weit verstreuten Ortsteilen besteht, ist die eigenständige Mobilität zum Hauptor",
+        "text": "**WAS:** Das „Eichenzeller Ortsteil-Mobil“ bietet einen verlässlichen Fahr- und Begleitdienst auf Augenhöhe, der ältere Menschen würdevoll bei Einkäufen, Arztterminen und Nachbarschaftstreffen unterstützt. **WARUM HIER:** Da Eichenzell aus zehn verstreuten Ortsteilen besteht und sich wichtige Angebote im Hauptort konzentrieren, bewahrt dieser Dienst die selb",
         "age_min": 0
       }
     },
@@ -1200,81 +1200,81 @@
       "name": "Handwerk-Sichtbarkeit — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Wenn Hausbesitzer in Großenlüder nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grossenlueder",
       "name": "Direktvermarktung — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Lüdergrund-Feierabendbox“ im Abo, prall gefüllt mit frischem Holzofenbrot, heimischen Wurst- und Käsespezialitäten sowie saisonalem Knack-Gemüse direkt von den Höfen rund um Großenlüder. **fue",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-grossenlueder",
       "name": "Vulkanregion-Tourismus — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Beim Erlebnis-Paket „Lüder-Alpaka-Trekking & Rhöner Genuss-Picknick“ wandern Sie entspannt mit flauschigen Begleitern durch die naturnahen Auen von Großenlüder und genießen anschließend eine Vesperpause mit regi",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-grossenlueder",
       "name": "Senioren-Alltagsdienste — Grossenlueder",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Besorgungsdienst, der ältere Menschen aus den Ortsteilen würdevoll zu Arztterminen, Einkäufen oder Gemeinschaftstreffen begleitet und schwere Besorgungen direkt n",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-eichenzell",
       "name": "Chancen-Scout — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Fresh-Meal-Prep-Lieferservice für gesunde, vorgekochte Verpflegung, die direkt in die Pausenräume von Logistikbetrieben geliefert wird. **WARUM HIER:** Das Industriegebiet Rhön in Eichenzell ist eine",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-eichenzell",
       "name": "Handwerk-Sichtbarkeit — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokal ansässiger **Sanitär- und Heizungsbauer** (Fokus auf Badsanierung und Wärmepumpen/Heizungstausch). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer direkt hier in Eichenz",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-eichenzell",
       "name": "Direktvermarktung — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Eichenzeller Feierabend-Kiste“ – eine wöchentliche Abo-Box mit saisonalem Gemüse, Eiern und handwerklicher Wurst von Höfen aus der Region Fulda/Rhön, komplettiert durch eine einfache Rezeptkarte für ein sch",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-eichenzell",
       "name": "Vulkanregion-Tourismus — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein fürstliches Picknick im Schlosspark Fasanerie inklusive gefülltem Barock-Picknickkorb voller regionaler Rhön-Spezialitäten und einer anschließenden Führung durch Hessens schönstes Barockschloss. **fuer WEN:*",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-eichenzell",
       "name": "Senioren-Alltagsdienste — Eichenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das „Eichenzeller Ortsteil-Mobil“ bietet einen verlässlichen Fahr- und Begleitdienst auf Augenhöhe, der ältere Menschen würdevoll bei Einkäufen, Arztterminen und Nachbarschaftstreffen unterstützt. **WARUM HIER:*",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-hosenfeld",
@@ -1503,56 +1503,32 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 9,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-eichenzell",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokal ansässiger **Sanitär- und Heizungsbauer** (Fokus auf Badsanierung und Wärmepumpen/Heizungstausch). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer direkt hier in Eichenzell nach einer neuen Heizung oder Badrenovierung googeln, landen sie aktuell noch bei Betrieben aus Fulda – wollen wir dafür sorgen, dass Ih",
-      "ts": "2026-09-24 00:19",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-eichenzell",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Fresh-Meal-Prep-Lieferservice für gesunde, vorgekochte Verpflegung, die direkt in die Pausenräume von Logistikbetrieben geliefert wird. **WARUM HIER:** Das Industriegebiet Rhön in Eichenzell ist einer der größten Logistik-Hubs der Region mit tausenden Schichtarbeitern, bietet aber gerade zu Rand- und Nachtzeiten kaum hochwertige Gastrono",
-      "ts": "2026-09-24 00:19",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-grossenlueder",
+      "agent": "senioren-eichenzell",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Besorgungsdienst, der ältere Menschen aus den Ortsteilen würdevoll zu Arztterminen, Einkäufen oder Gemeinschaftstreffen begleitet und schwere Besorgungen direkt nach Hause bringt. **WARUM HIER:** Da Großenlüder aus sieben weit verstreuten Ortsteilen besteht, ist die eigenständige Mobilität zum Hauptor",
-      "ts": "2026-09-24 00:19",
+      "text": "**WAS:** Das „Eichenzeller Ortsteil-Mobil“ bietet einen verlässlichen Fahr- und Begleitdienst auf Augenhöhe, der ältere Menschen würdevoll bei Einkäufen, Arztterminen und Nachbarschaftstreffen unterstützt. **WARUM HIER:** Da Eichenzell aus zehn verstreuten Ortsteilen besteht und sich wichtige Angebote im Hauptort konzentrieren, bewahrt dieser Dienst die selb",
+      "ts": "2026-09-24 05:08",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-grossenlueder",
+      "agent": "tourismus-eichenzell",
       "via": "gemini",
-      "text": "**WAS:** Beim Erlebnis-Paket „Lüder-Alpaka-Trekking & Rhöner Genuss-Picknick“ wandern Sie entspannt mit flauschigen Begleitern durch die naturnahen Auen von Großenlüder und genießen anschließend eine Vesperpause mit regionalen Spezialitäten. **für WEN:** Das Angebot richtet sich an Paare, Familien und erholungssuchende Naturgenießer, die eine entschleunigend",
-      "ts": "2026-09-24 00:18",
+      "text": "**WAS:** Ein fürstliches Picknick im Schlosspark Fasanerie inklusive gefülltem Barock-Picknickkorb voller regionaler Rhön-Spezialitäten und einer anschließenden Führung durch Hessens schönstes Barockschloss. **fuer WEN:** Dieses Angebot richtet sich an Paare und Genießer, die Kultur, Natur und regionale Kulinarik bei einem stilvollen Tagesausflug miteinander",
+      "ts": "2026-09-24 05:08",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-grossenlueder",
+      "agent": "direkt-eichenzell",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Lüdergrund-Feierabendbox“ im Abo, prall gefüllt mit frischem Holzofenbrot, heimischen Wurst- und Käsespezialitäten sowie saisonalem Knack-Gemüse direkt von den Höfen rund um Großenlüder. **fuer WEN:** Für Pendler und beschäftigte Familien aus der Gemeinde, die nach Feierabend ohne Supermarkt-Stress ehrliche, regionale Qualität auf",
-      "ts": "2026-09-24 00:18",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-grossenlueder",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Wenn Hausbesitzer in Großenlüder nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die Aufträge aus der eigenen Nachbarschaft wieder direkt bei Ihnen landen.“",
-      "ts": "2026-09-24 00:18",
+      "text": "**WAS:** Die „Eichenzeller Feierabend-Kiste“ – eine wöchentliche Abo-Box mit saisonalem Gemüse, Eiern und handwerklicher Wurst von Höfen aus der Region Fulda/Rhön, komplettiert durch eine einfache Rezeptkarte für ein schnelles Abendessen. **FÜR WEN:** Für berufstätige Pendler und Familien aus Eichenzell und den Nachbardörfern, die nach Feierabend ohne Superm",
+      "ts": "2026-09-24 05:08",
       "age_min": 0
     }
   ]
