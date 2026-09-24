@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-24T05:08Z",
+  "updated": "2026-09-24T09:58Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein fürstliches Picknick im Schlosspark Fasanerie inklusive gefülltem Barock-Picknickkorb voller regionaler Rhön-Spezialitäten und einer anschließenden Führung durch Hessens schönstes Barockschloss. **fuer WEN:** Dieses Angebot richtet sich an Paare und Genießer, die Kultur, Natur und regionale Kulinarik bei einem stilvollen Tagesausflug miteinander",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Das „Eichenzeller Ortsteil-Mobil“ bietet einen verlässlichen Fahr- und Begleitdienst auf Augenhöhe, der ältere Menschen würdevoll bei Einkäufen, Arztterminen und Nachbarschaftstreffen unterstützt. **WARUM HIER:** Da Eichenzell aus zehn verstreuten Ortsteilen besteht und sich wichtige Angebote im Hauptort konzentrieren, bewahrt dieser Dienst die selb",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1254,27 +1246,27 @@
       "name": "Direktvermarktung — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Eichenzeller Feierabend-Kiste“ – eine wöchentliche Abo-Box mit saisonalem Gemüse, Eiern und handwerklicher Wurst von Höfen aus der Region Fulda/Rhön, komplettiert durch eine einfache Rezeptkarte für ein sch",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-eichenzell",
       "name": "Vulkanregion-Tourismus — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Ein fürstliches Picknick im Schlosspark Fasanerie inklusive gefülltem Barock-Picknickkorb voller regionaler Rhön-Spezialitäten und einer anschließenden Führung durch Hessens schönstes Barockschloss. **fuer WEN:*",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-eichenzell",
       "name": "Senioren-Alltagsdienste — Eichenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Das „Eichenzeller Ortsteil-Mobil“ bietet einen verlässlichen Fahr- und Begleitdienst auf Augenhöhe, der ältere Menschen würdevoll bei Einkäufen, Arztterminen und Nachbarschaftstreffen unterstützt. **WARUM HIER:*",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-hosenfeld",
@@ -1506,30 +1498,5 @@
     "used": 9,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-eichenzell",
-      "via": "gemini",
-      "text": "**WAS:** Das „Eichenzeller Ortsteil-Mobil“ bietet einen verlässlichen Fahr- und Begleitdienst auf Augenhöhe, der ältere Menschen würdevoll bei Einkäufen, Arztterminen und Nachbarschaftstreffen unterstützt. **WARUM HIER:** Da Eichenzell aus zehn verstreuten Ortsteilen besteht und sich wichtige Angebote im Hauptort konzentrieren, bewahrt dieser Dienst die selb",
-      "ts": "2026-09-24 05:08",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-eichenzell",
-      "via": "gemini",
-      "text": "**WAS:** Ein fürstliches Picknick im Schlosspark Fasanerie inklusive gefülltem Barock-Picknickkorb voller regionaler Rhön-Spezialitäten und einer anschließenden Führung durch Hessens schönstes Barockschloss. **fuer WEN:** Dieses Angebot richtet sich an Paare und Genießer, die Kultur, Natur und regionale Kulinarik bei einem stilvollen Tagesausflug miteinander",
-      "ts": "2026-09-24 05:08",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-eichenzell",
-      "via": "gemini",
-      "text": "**WAS:** Die „Eichenzeller Feierabend-Kiste“ – eine wöchentliche Abo-Box mit saisonalem Gemüse, Eiern und handwerklicher Wurst von Höfen aus der Region Fulda/Rhön, komplettiert durch eine einfache Rezeptkarte für ein schnelles Abendessen. **FÜR WEN:** Für berufstätige Pendler und Familien aus Eichenzell und den Nachbardörfern, die nach Feierabend ohne Superm",
-      "ts": "2026-09-24 05:08",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
