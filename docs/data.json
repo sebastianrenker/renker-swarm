@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-23T21:58Z",
+  "updated": "2026-09-24T00:19Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Betriebstyp:** Ein lokal ansässiger **Sanitär- und Heizungsbauer** (Fokus auf Badsanierung und Wärmepumpen/Heizungstausch). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer direkt hier in Eichenzell nach einer neuen Heizung oder Badrenovierung googeln, landen sie aktuell noch bei Betrieben aus Fulda – wollen wir dafür sorgen, dass Ih",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Besorgungsdienst, der ältere Menschen aus den Ortsteilen würdevoll zu Arztterminen, Einkäufen oder Gemeinschaftstreffen begleitet und schwere Besorgungen direkt nach Hause bringt. **WARUM HIER:** Da Großenlüder aus sieben weit verstreuten Ortsteilen besteht, ist die eigenständige Mobilität zum Hauptor",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1192,54 +1200,54 @@
       "name": "Handwerk-Sichtbarkeit — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Wenn Hausbesitzer in Großenlüder nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-grossenlueder",
       "name": "Direktvermarktung — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Lüdergrund-Feierabendbox“ im Abo, prall gefüllt mit frischem Holzofenbrot, heimischen Wurst- und Käsespezialitäten sowie saisonalem Knack-Gemüse direkt von den Höfen rund um Großenlüder. **fue",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-grossenlueder",
       "name": "Vulkanregion-Tourismus — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Beim Erlebnis-Paket „Lüder-Alpaka-Trekking & Rhöner Genuss-Picknick“ wandern Sie entspannt mit flauschigen Begleitern durch die naturnahen Auen von Großenlüder und genießen anschließend eine Vesperpause mit regi",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-grossenlueder",
       "name": "Senioren-Alltagsdienste — Grossenlueder",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Besorgungsdienst, der ältere Menschen aus den Ortsteilen würdevoll zu Arztterminen, Einkäufen oder Gemeinschaftstreffen begleitet und schwere Besorgungen direkt n",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-eichenzell",
       "name": "Chancen-Scout — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Fresh-Meal-Prep-Lieferservice für gesunde, vorgekochte Verpflegung, die direkt in die Pausenräume von Logistikbetrieben geliefert wird. **WARUM HIER:** Das Industriegebiet Rhön in Eichenzell ist eine",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-eichenzell",
       "name": "Handwerk-Sichtbarkeit — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokal ansässiger **Sanitär- und Heizungsbauer** (Fokus auf Badsanierung und Wärmepumpen/Heizungstausch). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer direkt hier in Eichenz",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-eichenzell",
@@ -1495,8 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 11,
+    "used": 6,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-eichenzell",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein lokal ansässiger **Sanitär- und Heizungsbauer** (Fokus auf Badsanierung und Wärmepumpen/Heizungstausch). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer direkt hier in Eichenzell nach einer neuen Heizung oder Badrenovierung googeln, landen sie aktuell noch bei Betrieben aus Fulda – wollen wir dafür sorgen, dass Ih",
+      "ts": "2026-09-24 00:19",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-eichenzell",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Fresh-Meal-Prep-Lieferservice für gesunde, vorgekochte Verpflegung, die direkt in die Pausenräume von Logistikbetrieben geliefert wird. **WARUM HIER:** Das Industriegebiet Rhön in Eichenzell ist einer der größten Logistik-Hubs der Region mit tausenden Schichtarbeitern, bietet aber gerade zu Rand- und Nachtzeiten kaum hochwertige Gastrono",
+      "ts": "2026-09-24 00:19",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grossenlueder",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Besorgungsdienst, der ältere Menschen aus den Ortsteilen würdevoll zu Arztterminen, Einkäufen oder Gemeinschaftstreffen begleitet und schwere Besorgungen direkt nach Hause bringt. **WARUM HIER:** Da Großenlüder aus sieben weit verstreuten Ortsteilen besteht, ist die eigenständige Mobilität zum Hauptor",
+      "ts": "2026-09-24 00:19",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-grossenlueder",
+      "via": "gemini",
+      "text": "**WAS:** Beim Erlebnis-Paket „Lüder-Alpaka-Trekking & Rhöner Genuss-Picknick“ wandern Sie entspannt mit flauschigen Begleitern durch die naturnahen Auen von Großenlüder und genießen anschließend eine Vesperpause mit regionalen Spezialitäten. **für WEN:** Das Angebot richtet sich an Paare, Familien und erholungssuchende Naturgenießer, die eine entschleunigend",
+      "ts": "2026-09-24 00:18",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-grossenlueder",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentliche „Lüdergrund-Feierabendbox“ im Abo, prall gefüllt mit frischem Holzofenbrot, heimischen Wurst- und Käsespezialitäten sowie saisonalem Knack-Gemüse direkt von den Höfen rund um Großenlüder. **fuer WEN:** Für Pendler und beschäftigte Familien aus der Gemeinde, die nach Feierabend ohne Supermarkt-Stress ehrliche, regionale Qualität auf",
+      "ts": "2026-09-24 00:18",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grossenlueder",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Wenn Hausbesitzer in Großenlüder nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die Aufträge aus der eigenen Nachbarschaft wieder direkt bei Ihnen landen.“",
+      "ts": "2026-09-24 00:18",
+      "age_min": 0
+    }
+  ]
 }
