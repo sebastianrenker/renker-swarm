@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-24T14:50Z",
+  "updated": "2026-09-24T18:47Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** „Hosenfelder Wald-Aromen“ ist ein 3-stündiges geführtes Waldbaden-Erlebnis durch die ruhigen Wälder von Hosenfeld, abgerundet mit einem regionalen Vogelsberger Picknick an einer urigen Waldhütte. **FÜR WEN:** Dieses Angebot richtet sich an Paare, Naturgenießer und alltagsmüde Auszeit-Suchende, die in unberührter Natur tief durchatmen und entschleuni",
-        "age_min": 1
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -1304,9 +1300,9 @@
       "name": "Vulkanregion-Tourismus — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Hosenfelder Wald-Aromen“ ist ein 3-stündiges geführtes Waldbaden-Erlebnis durch die ruhigen Wälder von Hosenfeld, abgerundet mit einem regionalen Vogelsberger Picknick an einer urigen Waldhütte. **FÜR WEN:** Di",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-hosenfeld",
@@ -1502,14 +1498,5 @@
     "used": 10,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-hosenfeld",
-      "via": "gemini",
-      "text": "**WAS:** „Hosenfelder Wald-Aromen“ ist ein 3-stündiges geführtes Waldbaden-Erlebnis durch die ruhigen Wälder von Hosenfeld, abgerundet mit einem regionalen Vogelsberger Picknick an einer urigen Waldhütte. **FÜR WEN:** Dieses Angebot richtet sich an Paare, Naturgenießer und alltagsmüde Auszeit-Suchende, die in unberührter Natur tief durchatmen und entschleuni",
-      "ts": "2026-09-24 14:48",
-      "age_min": 1
-    }
-  ]
+  "recent": []
 }
