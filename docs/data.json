@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-25T19:17Z",
+  "updated": "2026-09-25T22:36Z",
   "agents_total": 162,
-  "worked": 5,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Das Erlebnis-Paket „Rhöner Sternennacht“ beinhaltet eine geführte Dämmerungswanderung ab Gersfeld mit anschließender Sternenbeobachtung im zertifizierten Sternenpark sowie einen Picknickkorb voll regionaler Rhöner Delikatessen. **fuer WEN:** Dieses Angebot richtet sich an Paare und Naturgenießer, die eine romantische Auszeit suchen und den faszinier",
+        "text": "**WAS:** „Rhöner Sternen-Picknick“: Eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit einem prall gefüllten Picknickkorb voller regionaler Rhöner Spezialitäten und anschließender Sternenbeobachtung im lichtarmen Biosphärenreservat. **FÜR WEN:** Das Erlebnis ist perfekt für Paare, kleine Gruppen und Genießer, die eine romantische Auszeit in ",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Einkaufsservice liefert Senioren in den verstreuten Ortsteilen von Gersfeld wöchentlich Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein persönliches Wort. **WARUM HIER:** Die weitläufige Rhön-Landschaft mit ihren steilen Hanglagen und vielen Ortsteilen ohne eigenen Dorfladen macht Beso",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1416,81 +1412,81 @@
       "name": "Chancen-Scout — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Fahrrad-Pannendienst und Gepäck-Shuttleservice speziell für E-Biker und Fernwanderer rund um den Touren-Knotenpunkt Gersfeld. **WARUM HIER:** Als zentrales Tor zur Hochrhön (Wasserkuppe, Hochrhöner) ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-gersfeld",
       "name": "Handwerk-Sichtbarkeit — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld. **Ansprache-Idee:** „Viele Hausbesitzer in der Rhön suchen online nach neuen Heizungen oder schneller Hilfe bei Notfällen – sorgen wir dafür, dass Ihre T",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-gersfeld",
       "name": "Direktvermarktung — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Brotzeitbox“ im flexiblen Abo, vollgepackt mit frischem Landbrot, lokalem Hofkäse, Wurstspezialitäten (wie vom Rhönschaf) und regionalem Apfelsaft direkt von den Höfen der Umge",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-gersfeld",
       "name": "Vulkanregion-Tourismus — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Rhöner Sternennacht“ beinhaltet eine geführte Dämmerungswanderung ab Gersfeld mit anschließender Sternenbeobachtung im zertifizierten Sternenpark sowie einen Picknickkorb voll regionaler Rhön",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-gersfeld",
       "name": "Senioren-Alltagsdienste — Gersfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, mobiler Dorf-Einkaufsservice liefert Senioren in den verstreuten Ortsteilen von Gersfeld wöchentlich Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein persönlich",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-hilders",
       "name": "Chancen-Scout — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Lieferservice für regional bestückte Rhöner Vesper-Rucksäcke und Picknick-Kisten, die direkt an Ferienunterkünfte oder beliebte Wanderstartpunkte rund um Hilders geliefert werden. **WARUM HIER:** Hil",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-hilders",
       "name": "Handwerk-Sichtbarkeit — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb** in Hilders. **Ansprache-Idee:** „Damit Eigentümer aus Hilders und der Rhön bei der Suche nach neuen Bädern oder modernen Wärmepumpen sofort bei Ihnen anruf",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-hilders",
       "name": "Direktvermarktung — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Rhön-Vesper-Box“ im Abo, vollgepackt mit frischem Bauernbrot, Rhöner Hausmacher Wurst, regionalem Käse und saisonalem Gemüse direkt von Höfen rund um Hilders. **für WEN:** Für heimische Pendle",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-hilders",
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Rhöner Sternen-Picknick“: Eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit einem prall gefüllten Picknickkorb voller regionaler Rhöner Spezialitäten und anschließender Sternenbeobachtung im l",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-hilders",
@@ -1503,48 +1499,40 @@
     }
   ],
   "budget": {
-    "used": 15,
+    "used": 19,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-gersfeld",
+      "dept": "Chancen",
+      "agent": "tourismus-hilders",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Einkaufsservice liefert Senioren in den verstreuten Ortsteilen von Gersfeld wöchentlich Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein persönliches Wort. **WARUM HIER:** Die weitläufige Rhön-Landschaft mit ihren steilen Hanglagen und vielen Ortsteilen ohne eigenen Dorfladen macht Beso",
-      "ts": "2026-09-25 19:17",
+      "text": "**WAS:** „Rhöner Sternen-Picknick“: Eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit einem prall gefüllten Picknickkorb voller regionaler Rhöner Spezialitäten und anschließender Sternenbeobachtung im lichtarmen Biosphärenreservat. **FÜR WEN:** Das Erlebnis ist perfekt für Paare, kleine Gruppen und Genießer, die eine romantische Auszeit in ",
+      "ts": "2026-09-25 22:36",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-gersfeld",
+      "agent": "direkt-hilders",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Rhöner Sternennacht“ beinhaltet eine geführte Dämmerungswanderung ab Gersfeld mit anschließender Sternenbeobachtung im zertifizierten Sternenpark sowie einen Picknickkorb voll regionaler Rhöner Delikatessen. **fuer WEN:** Dieses Angebot richtet sich an Paare und Naturgenießer, die eine romantische Auszeit suchen und den faszinier",
-      "ts": "2026-09-25 19:17",
+      "text": "**WAS:** Eine wöchentliche „Rhön-Vesper-Box“ im Abo, vollgepackt mit frischem Bauernbrot, Rhöner Hausmacher Wurst, regionalem Käse und saisonalem Gemüse direkt von Höfen rund um Hilders. **für WEN:** Für heimische Pendler und Familien mit wenig Zeit unter der Woche sowie Urlaubsgäste, die bodenständige Qualität aus der Region schätzen. **ERSTER SCHRITT:** Dr",
+      "ts": "2026-09-25 22:36",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-gersfeld",
+      "agent": "handwerk-hilders",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Brotzeitbox“ im flexiblen Abo, vollgepackt mit frischem Landbrot, lokalem Hofkäse, Wurstspezialitäten (wie vom Rhönschaf) und regionalem Apfelsaft direkt von den Höfen der Umgebung. **fuer WEN:** Für einheimische Familien und Pendler, die bodenständige Lebensmittel aus der Nachbarschaft schätzen, sowie für Urlaubsg",
-      "ts": "2026-09-25 19:17",
+      "text": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb** in Hilders. **Ansprache-Idee:** „Damit Eigentümer aus Hilders und der Rhön bei der Suche nach neuen Bädern oder modernen Wärmepumpen sofort bei Ihnen anrufen – und die Aufträge nicht an Großbetriebe aus Fulda verlieren –, machen wir Ihre ehrliche Handwerksarbeit bei Google lokal unübersehbar.“",
+      "ts": "2026-09-25 22:36",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-gersfeld",
+      "agent": "chancen-hilders",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld. **Ansprache-Idee:** „Viele Hausbesitzer in der Rhön suchen online nach neuen Heizungen oder schneller Hilfe bei Notfällen – sorgen wir dafür, dass Ihre Telefonnummer bei Google direkt ganz oben steht, bevor die Kunden bei der Konkurrenz aus Fulda anrufen.“",
-      "ts": "2026-09-25 19:17",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-gersfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Fahrrad-Pannendienst und Gepäck-Shuttleservice speziell für E-Biker und Fernwanderer rund um den Touren-Knotenpunkt Gersfeld. **WARUM HIER:** Als zentrales Tor zur Hochrhön (Wasserkuppe, Hochrhöner) hat Gersfeld eine extrem hohe Dichte an Aktivtouristen, denen es bei Pannen oder Etappenwechseln auf den steilen Rhön-Routen an flexibler So",
-      "ts": "2026-09-25 19:16",
+      "text": "**WAS:** Ein mobiler Lieferservice für regional bestückte Rhöner Vesper-Rucksäcke und Picknick-Kisten, die direkt an Ferienunterkünfte oder beliebte Wanderstartpunkte rund um Hilders geliefert werden. **WARUM HIER:** Hilders ist als staatlich anerkannter Luftkurort ein zentraler Knotenpunkt für den Wandertourismus (u. a. Hochrhöner), bietet aber direkt an de",
+      "ts": "2026-09-25 22:36",
       "age_min": 0
     }
   ]
