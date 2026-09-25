@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-24T21:55Z",
+  "updated": "2026-09-25T00:13Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Eine bodenständige „Hosenfelder Feierabend-Kiste“ im flexiblen Abo mit frischen Zutaten für ein schnelles Abendessen (z. B. Saison-Gemüse, Hausmacher Wurst, Käse und Holzofenbrot), abgepackt zur kontaktlosen 24/7-Abholung an einer zentralen Hof-Station. **für WEN:** Für Berufspendler und Familien aus Hosenfeld und den Ortsteilen, die nach der Arbeit",
+        "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ als regionales Wochen-Abo mit frischem Bauernbrot, Rhöner Käse, Ahler Worscht und knackigem Gemüsesüppchen für ein ehrliches, heimisches Abendbrot. **FÜR WEN:** Für berufstätige Pendler und Familien aus dem Fliedetal, die gut essen wollen, aber unter der Woche keine Zeit haben, jeden Hofladen einzeln abzufahren. **ER",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der individuelle Besorgungen, Fahrten zum Arzt und persönliche Begegnungen flexibel vor Ort kombiniert. **WARUM HIER:** In den acht weit verstreuten Ortsteilen von Hosenfeld bewahrt diese Hilfe die Selbstständigkeit der Älteren, wenn die Wege im Alltag zu lang werden. **ERSTER SCHRITT:** Gemeinsam mit d",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1281,27 +1277,27 @@
       "name": "Chancen-Scout — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Kaminholz-Aufbereitungsservice, der mit professioneller Säge-Spalt-Kombination auf Anhänger direkt auf die Höfe der Anwohner fährt. **WARUM HIER:** Die waldreiche Lage am Vogelsberg-Rand sorgt in Hos",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-hosenfeld",
       "name": "Handwerk-Sichtbarkeit — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** (Fokus: Wärmepumpen-Umstieg, Badsanierung und Notdienst) in Hosenfeld. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den Ortsteilen na",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-hosenfeld",
       "name": "Direktvermarktung — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine bodenständige „Hosenfelder Feierabend-Kiste“ im flexiblen Abo mit frischen Zutaten für ein schnelles Abendessen (z. B. Saison-Gemüse, Hausmacher Wurst, Käse und Holzofenbrot), abgepackt zur kontaktlosen 24/",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-hosenfeld",
@@ -1317,36 +1313,36 @@
       "name": "Senioren-Alltagsdienste — Hosenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der individuelle Besorgungen, Fahrten zum Arzt und persönliche Begegnungen flexibel vor Ort kombiniert. **WARUM HIER:** In den acht weit verstreuten Ortsteilen von ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-flieden",
       "name": "Chancen-Scout — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein mobiler Hol- und Bringservice für die Wartung von E-Bikes und Gartengeräten, der Termine flexibel am späten Nachmittag und Wochenende anbietet. **WARUM HIER** Flieden hat durch die A66 und den Bahnhof eine se",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-flieden",
       "name": "Handwerk-Sichtbarkeit — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** in Flieden (mit Fokus auf Badsanierungen und den Tausch alter Heizungen gegen Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Fliedener auf dem Hand",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-flieden",
       "name": "Direktvermarktung — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Fliedener Feierabend-Kiste“ als regionales Wochen-Abo mit frischem Bauernbrot, Rhöner Käse, Ahler Worscht und knackigem Gemüsesüppchen für ein ehrliches, heimisches Abendbrot. **FÜR WEN:** Für berufstätige ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-flieden",
@@ -1503,40 +1499,32 @@
     }
   ],
   "budget": {
-    "used": 14,
+    "used": 3,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-hosenfeld",
+      "dept": "Chancen",
+      "agent": "direkt-flieden",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Begleitdienst, der individuelle Besorgungen, Fahrten zum Arzt und persönliche Begegnungen flexibel vor Ort kombiniert. **WARUM HIER:** In den acht weit verstreuten Ortsteilen von Hosenfeld bewahrt diese Hilfe die Selbstständigkeit der Älteren, wenn die Wege im Alltag zu lang werden. **ERSTER SCHRITT:** Gemeinsam mit d",
-      "ts": "2026-09-24 21:55",
+      "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ als regionales Wochen-Abo mit frischem Bauernbrot, Rhöner Käse, Ahler Worscht und knackigem Gemüsesüppchen für ein ehrliches, heimisches Abendbrot. **FÜR WEN:** Für berufstätige Pendler und Familien aus dem Fliedetal, die gut essen wollen, aber unter der Woche keine Zeit haben, jeden Hofladen einzeln abzufahren. **ER",
+      "ts": "2026-09-25 00:13",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-hosenfeld",
+      "agent": "handwerk-flieden",
       "via": "gemini",
-      "text": "**WAS:** Eine bodenständige „Hosenfelder Feierabend-Kiste“ im flexiblen Abo mit frischen Zutaten für ein schnelles Abendessen (z. B. Saison-Gemüse, Hausmacher Wurst, Käse und Holzofenbrot), abgepackt zur kontaktlosen 24/7-Abholung an einer zentralen Hof-Station. **für WEN:** Für Berufspendler und Familien aus Hosenfeld und den Ortsteilen, die nach der Arbeit",
-      "ts": "2026-09-24 21:55",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** in Flieden (mit Fokus auf Badsanierungen und den Tausch alter Heizungen gegen Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Fliedener auf dem Handy nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass Ihr Ha",
+      "ts": "2026-09-25 00:13",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-hosenfeld",
+      "agent": "chancen-flieden",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** (Fokus: Wärmepumpen-Umstieg, Badsanierung und Notdienst) in Hosenfeld. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den Ortsteilen nach 'Wärmepumpe' oder 'Badsanierung' googeln, landen sie aktuell meist bei Firmen aus Fulda – lassen Sie uns dafür sorgen, dass die guten Auf",
-      "ts": "2026-09-24 21:55",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-hosenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Kaminholz-Aufbereitungsservice, der mit professioneller Säge-Spalt-Kombination auf Anhänger direkt auf die Höfe der Anwohner fährt. **WARUM HIER:** Die waldreiche Lage am Vogelsberg-Rand sorgt in Hosenfeld und seinen Ortsteilen für eine extrem hohe Dichte an Kaminholz-Heizern, denen oft die Zeit oder die Kraft für das schwere Aufarbeiten",
-      "ts": "2026-09-24 21:55",
+      "text": "**WAS** Ein mobiler Hol- und Bringservice für die Wartung von E-Bikes und Gartengeräten, der Termine flexibel am späten Nachmittag und Wochenende anbietet. **WARUM HIER** Flieden hat durch die A66 und den Bahnhof eine sehr hohe Pendlerdichte gen Frankfurt und Fulda – diese Zielgruppe hat große Grundstücke und teure Räder, aber unter der Woche schlicht keine ",
+      "ts": "2026-09-25 00:13",
       "age_min": 0
     }
   ]
