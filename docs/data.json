@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:13Z",
+  "updated": "2026-09-25T04:59Z",
   "agents_total": 162,
   "worked": 3,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ als regionales Wochen-Abo mit frischem Bauernbrot, Rhöner Käse, Ahler Worscht und knackigem Gemüsesüppchen für ein ehrliches, heimisches Abendbrot. **FÜR WEN:** Für berufstätige Pendler und Familien aus dem Fliedetal, die gut essen wollen, aber unter der Woche keine Zeit haben, jeden Hofladen einzeln abzufahren. **ER",
+        "text": "**WAS:** Ein mobiler Gepäcktransfer- und Rückhol-Shuttledienst für Streckenwanderer und E-Biker. **WARUM HIER:** Tann ist ein beliebter Knotenpunkt für den Rhön-Tourismus (z. B. Der Hochrhöner), bietet aber kaum flexible ÖPNV-Angebote für Urlauber, die nach einer Tagestour zurück zu ihrem Auto oder Hotel müssen. **ERSTER SCHRITT:** Vereinbaren Sie Kooperatio",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Die „Fliedener Dorf-Begleitung“ ist ein verlässlicher, persönlicher Fahrdienst und Begleitservice, der ältere Menschen aus den Ortsteilen für Einkäufe, Arztbesuche oder kleine Besorgungen im Ortskern abholt und wieder sicher nach Hause bringt. **WARUM HIER:** In einer weitläufigen Gemeinde wie Flieden mit dezentralen Ortsteilen wie Magdlos oder Rück",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1322,54 +1326,54 @@
       "name": "Chancen-Scout — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein mobiler Hol- und Bringservice für die Wartung von E-Bikes und Gartengeräten, der Termine flexibel am späten Nachmittag und Wochenende anbietet. **WARUM HIER** Flieden hat durch die A66 und den Bahnhof eine se",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-flieden",
       "name": "Handwerk-Sichtbarkeit — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** in Flieden (mit Fokus auf Badsanierungen und den Tausch alter Heizungen gegen Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Fliedener auf dem Hand",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-flieden",
       "name": "Direktvermarktung — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Fliedener Feierabend-Kiste“ als regionales Wochen-Abo mit frischem Bauernbrot, Rhöner Käse, Ahler Worscht und knackigem Gemüsesüppchen für ein ehrliches, heimisches Abendbrot. **FÜR WEN:** Für berufstätige ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-flieden",
       "name": "Vulkanregion-Tourismus — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei der „Königlichen Picknick-Wanderung durchs Fliedetal“ erkunden Sie eigenständig via GPS-App die malerische Hügellandschaft rund um Flieden und genießen an einem Aussichtspunkt einen prall gefüllten Rucksack ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-flieden",
       "name": "Senioren-Alltagsdienste — Flieden",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Fliedener Dorf-Begleitung“ ist ein verlässlicher, persönlicher Fahrdienst und Begleitservice, der ältere Menschen aus den Ortsteilen für Einkäufe, Arztbesuche oder kleine Besorgungen im Ortskern abholt und ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-tann",
       "name": "Chancen-Scout — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Gepäcktransfer- und Rückhol-Shuttledienst für Streckenwanderer und E-Biker. **WARUM HIER:** Tann ist ein beliebter Knotenpunkt für den Rhön-Tourismus (z. B. Der Hochrhöner), bietet aber kaum flexible",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-tann",
@@ -1499,32 +1503,32 @@
     }
   ],
   "budget": {
-    "used": 3,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "direkt-flieden",
+      "agent": "chancen-tann",
       "via": "gemini",
-      "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ als regionales Wochen-Abo mit frischem Bauernbrot, Rhöner Käse, Ahler Worscht und knackigem Gemüsesüppchen für ein ehrliches, heimisches Abendbrot. **FÜR WEN:** Für berufstätige Pendler und Familien aus dem Fliedetal, die gut essen wollen, aber unter der Woche keine Zeit haben, jeden Hofladen einzeln abzufahren. **ER",
-      "ts": "2026-09-25 00:13",
+      "text": "**WAS:** Ein mobiler Gepäcktransfer- und Rückhol-Shuttledienst für Streckenwanderer und E-Biker. **WARUM HIER:** Tann ist ein beliebter Knotenpunkt für den Rhön-Tourismus (z. B. Der Hochrhöner), bietet aber kaum flexible ÖPNV-Angebote für Urlauber, die nach einer Tagestour zurück zu ihrem Auto oder Hotel müssen. **ERSTER SCHRITT:** Vereinbaren Sie Kooperatio",
+      "ts": "2026-09-25 04:59",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-flieden",
+      "via": "gemini",
+      "text": "**WAS:** Die „Fliedener Dorf-Begleitung“ ist ein verlässlicher, persönlicher Fahrdienst und Begleitservice, der ältere Menschen aus den Ortsteilen für Einkäufe, Arztbesuche oder kleine Besorgungen im Ortskern abholt und wieder sicher nach Hause bringt. **WARUM HIER:** In einer weitläufigen Gemeinde wie Flieden mit dezentralen Ortsteilen wie Magdlos oder Rück",
+      "ts": "2026-09-25 04:59",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-flieden",
+      "agent": "tourismus-flieden",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** in Flieden (mit Fokus auf Badsanierungen und den Tausch alter Heizungen gegen Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Fliedener auf dem Handy nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass Ihr Ha",
-      "ts": "2026-09-25 00:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-flieden",
-      "via": "gemini",
-      "text": "**WAS** Ein mobiler Hol- und Bringservice für die Wartung von E-Bikes und Gartengeräten, der Termine flexibel am späten Nachmittag und Wochenende anbietet. **WARUM HIER** Flieden hat durch die A66 und den Bahnhof eine sehr hohe Pendlerdichte gen Frankfurt und Fulda – diese Zielgruppe hat große Grundstücke und teure Räder, aber unter der Woche schlicht keine ",
-      "ts": "2026-09-25 00:13",
+      "text": "**WAS:** Bei der „Königlichen Picknick-Wanderung durchs Fliedetal“ erkunden Sie eigenständig via GPS-App die malerische Hügellandschaft rund um Flieden und genießen an einem Aussichtspunkt einen prall gefüllten Rucksack mit regionalen Köstlichkeiten aus der Rhön. **für WEN:** Das Paket ist ideal für Paare, Genusswanderer und kleine Familien, die eine entspan",
+      "ts": "2026-09-25 04:58",
       "age_min": 0
     }
   ]

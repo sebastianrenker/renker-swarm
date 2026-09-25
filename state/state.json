@@ -1,6 +1,6 @@
 {
   "day": "2026-09-25",
-  "calls_today": 3,
+  "calls_today": 6,
   "last_run": {
     "kommando-digest": 1789512777.070696,
     "chancen-vogelsberg": 1789512784.729297,
@@ -147,9 +147,9 @@
     "chancen-flieden": 1790295183.538712,
     "handwerk-flieden": 1790295197.6305072,
     "direkt-flieden": 1790295205.454014,
-    "tourismus-flieden": 1789380985.6235795,
-    "senioren-flieden": 1789380992.7373135,
-    "chancen-tann": 1789381003.1010437,
+    "tourismus-flieden": 1790312339.0501983,
+    "senioren-flieden": 1790312345.6715248,
+    "chancen-tann": 1790312352.9455178,
     "handwerk-tann": 1789403156.3213763,
     "direkt-tann": 1789417390.0031137,
     "tourismus-tann": 1789417397.6989005,
