@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-25 15:14 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-25 19:17 UTC",
+  "total_results": 5,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-gersfeld",
+      "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** \nEin verlässlicher, mobiler Dorf-Einkaufsservice liefert Senioren in den verstreuten Ortsteilen von Gersfeld wöchentlich Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein persönliches Wort.\n\n**WARUM HIER:** \nDie weitläufige Rhön-Landschaft mit ihren steilen Hanglagen und vielen Ortsteilen ohne eigenen Dorfladen macht Besorgungen für ältere Menschen in Gersfeld – besonders in den schneereichen Monaten – zu einer großen Hürde.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit den Gersfelder Ortsbeiräten und lokalen Anbietern wird über einen einfachen Informationsbrief der genaue Bedarf in den einzelnen Dörfern abgefragt.",
+      "ts": "2026-09-25 19:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-gersfeld",
+      "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDas Erlebnis-Paket „Rhöner Sternennacht“ beinhaltet eine geführte Dämmerungswanderung ab Gersfeld mit anschließender Sternenbeobachtung im zertifizierten Sternenpark sowie einen Picknickkorb voll regionaler Rhöner Delikatessen.\n\n**fuer WEN:** \nDieses Angebot richtet sich an Paare und Naturgenießer, die eine romantische Auszeit suchen und den faszinierenden Nachthimmel des Biosphärenreservats ungestört erleben möchten.\n\n**ERSTER SCHRITT:** \nBesuchen Sie unsere Buchungsseite, wählen Sie Ihren Wunschtermin aus und sichern Sie sich Ihr digitales Ticket direkt online per Klick.",
+      "ts": "2026-09-25 19:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-gersfeld",
+      "title": "Direktvermarktung — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Brotzeitbox“ im flexiblen Abo, vollgepackt mit frischem Landbrot, lokalem Hofkäse, Wurstspezialitäten (wie vom Rhönschaf) und regionalem Apfelsaft direkt von den Höfen der Umgebung.\n\n**fuer WEN:** Für einheimische Familien und Pendler, die bodenständige Lebensmittel aus der Nachbarschaft schätzen, sowie für Urlaubsgäste in den örtlichen Ferienwohnungen.\n\n**ERSTER SCHRITT:** Drei Höfe aus dem Gersfelder Umland für die Kooperation gewinnen und über einen Aushang beim Bäcker sowie in lokalen WhatsApp-Gruppen die ersten 15 Test-Abos vergeben.",
+      "ts": "2026-09-25 19:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-gersfeld",
+      "title": "Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:**\nEin **Heizungs- und Sanitärbetrieb** in Gersfeld.\n\n**Ansprache-Idee:**\n„Viele Hausbesitzer in der Rhön suchen online nach neuen Heizungen oder schneller Hilfe bei Notfällen – sorgen wir dafür, dass Ihre Telefonnummer bei Google direkt ganz oben steht, bevor die Kunden bei der Konkurrenz aus Fulda anrufen.“",
+      "ts": "2026-09-25 19:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-gersfeld",
+      "title": "Chancen-Scout — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEin mobiler Fahrrad-Pannendienst und Gepäck-Shuttleservice speziell für E-Biker und Fernwanderer rund um den Touren-Knotenpunkt Gersfeld.\n\n**WARUM HIER:** \nAls zentrales Tor zur Hochrhön (Wasserkuppe, Hochrhöner) hat Gersfeld eine extrem hohe Dichte an Aktivtouristen, denen es bei Pannen oder Etappenwechseln auf den steilen Rhön-Routen an flexibler Soforthilfe und Rücktransport-Logistik fehlt.\n\n**ERSTER SCHRITT:** \nRüstest du einen vorhandenen Kombi oder Transporter mit Grundwerkzeug sowie Transportträgern aus und legst Kooperations-Flyer bei den zehn größten Gersfelder Hotels, Pensionen und Campingplätzen aus.",
+      "ts": "2026-09-25 19:16",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 4,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-gersfeld",
+          "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDas Erlebnis-Paket „Rhöner Sternennacht“ beinhaltet eine geführte Dämmerungswanderung ab Gersfeld mit anschließender Sternenbeobachtung im zertifizierten Sternenpark sowie einen Picknickkorb voll regionaler Rhöner Delikatessen.\n\n**fuer WEN:** \nDieses Angebot richtet sich an Paare und Naturgenießer, die eine romantische Auszeit suchen und den faszinierenden Nachthimmel des Biosphärenreservats ungestört erleben möchten.\n\n**ERSTER SCHRITT:** \nBesuchen Sie unsere Buchungsseite, wählen Sie Ihren Wunschtermin aus und sichern Sie sich Ihr digitales Ticket direkt online per Klick.",
+          "ts": "2026-09-25 19:17",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-gersfeld",
+          "title": "Direktvermarktung — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Brotzeitbox“ im flexiblen Abo, vollgepackt mit frischem Landbrot, lokalem Hofkäse, Wurstspezialitäten (wie vom Rhönschaf) und regionalem Apfelsaft direkt von den Höfen der Umgebung.\n\n**fuer WEN:** Für einheimische Familien und Pendler, die bodenständige Lebensmittel aus der Nachbarschaft schätzen, sowie für Urlaubsgäste in den örtlichen Ferienwohnungen.\n\n**ERSTER SCHRITT:** Drei Höfe aus dem Gersfelder Umland für die Kooperation gewinnen und über einen Aushang beim Bäcker sowie in lokalen WhatsApp-Gruppen die ersten 15 Test-Abos vergeben.",
+          "ts": "2026-09-25 19:17",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-gersfeld",
+          "title": "Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:**\nEin **Heizungs- und Sanitärbetrieb** in Gersfeld.\n\n**Ansprache-Idee:**\n„Viele Hausbesitzer in der Rhön suchen online nach neuen Heizungen oder schneller Hilfe bei Notfällen – sorgen wir dafür, dass Ihre Telefonnummer bei Google direkt ganz oben steht, bevor die Kunden bei der Konkurrenz aus Fulda anrufen.“",
+          "ts": "2026-09-25 19:17",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-gersfeld",
+          "title": "Chancen-Scout — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEin mobiler Fahrrad-Pannendienst und Gepäck-Shuttleservice speziell für E-Biker und Fernwanderer rund um den Touren-Knotenpunkt Gersfeld.\n\n**WARUM HIER:** \nAls zentrales Tor zur Hochrhön (Wasserkuppe, Hochrhöner) hat Gersfeld eine extrem hohe Dichte an Aktivtouristen, denen es bei Pannen oder Etappenwechseln auf den steilen Rhön-Routen an flexibler Soforthilfe und Rücktransport-Logistik fehlt.\n\n**ERSTER SCHRITT:** \nRüstest du einen vorhandenen Kombi oder Transporter mit Grundwerkzeug sowie Transportträgern aus und legst Kooperations-Flyer bei den zehn größten Gersfelder Hotels, Pensionen und Campingplätzen aus.",
+          "ts": "2026-09-25 19:16",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-gersfeld",
+          "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin verlässlicher, mobiler Dorf-Einkaufsservice liefert Senioren in den verstreuten Ortsteilen von Gersfeld wöchentlich Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein persönliches Wort.\n\n**WARUM HIER:** \nDie weitläufige Rhön-Landschaft mit ihren steilen Hanglagen und vielen Ortsteilen ohne eigenen Dorfladen macht Besorgungen für ältere Menschen in Gersfeld – besonders in den schneereichen Monaten – zu einer großen Hürde.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit den Gersfelder Ortsbeiräten und lokalen Anbietern wird über einen einfachen Informationsbrief der genaue Bedarf in den einzelnen Dörfern abgefragt.",
+          "ts": "2026-09-25 19:17",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

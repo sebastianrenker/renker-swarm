@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-25T15:14Z",
+  "updated": "2026-09-25T19:17Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 5,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Das Erlebnis-Paket „Rhöner Sternennacht“ beinhaltet eine geführte Dämmerungswanderung ab Gersfeld mit anschließender Sternenbeobachtung im zertifizierten Sternenpark sowie einen Picknickkorb voll regionaler Rhöner Delikatessen. **fuer WEN:** Dieses Angebot richtet sich an Paare und Naturgenießer, die eine romantische Auszeit suchen und den faszinier",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Einkaufsservice liefert Senioren in den verstreuten Ortsteilen von Gersfeld wöchentlich Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein persönliches Wort. **WARUM HIER:** Die weitläufige Rhön-Landschaft mit ihren steilen Hanglagen und vielen Ortsteilen ohne eigenen Dorfladen macht Beso",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1408,45 +1416,45 @@
       "name": "Chancen-Scout — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Fahrrad-Pannendienst und Gepäck-Shuttleservice speziell für E-Biker und Fernwanderer rund um den Touren-Knotenpunkt Gersfeld. **WARUM HIER:** Als zentrales Tor zur Hochrhön (Wasserkuppe, Hochrhöner) ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-gersfeld",
       "name": "Handwerk-Sichtbarkeit — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld. **Ansprache-Idee:** „Viele Hausbesitzer in der Rhön suchen online nach neuen Heizungen oder schneller Hilfe bei Notfällen – sorgen wir dafür, dass Ihre T",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-gersfeld",
       "name": "Direktvermarktung — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Brotzeitbox“ im flexiblen Abo, vollgepackt mit frischem Landbrot, lokalem Hofkäse, Wurstspezialitäten (wie vom Rhönschaf) und regionalem Apfelsaft direkt von den Höfen der Umge",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-gersfeld",
       "name": "Vulkanregion-Tourismus — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Rhöner Sternennacht“ beinhaltet eine geführte Dämmerungswanderung ab Gersfeld mit anschließender Sternenbeobachtung im zertifizierten Sternenpark sowie einen Picknickkorb voll regionaler Rhön",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-gersfeld",
       "name": "Senioren-Alltagsdienste — Gersfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, mobiler Dorf-Einkaufsservice liefert Senioren in den verstreuten Ortsteilen von Gersfeld wöchentlich Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein persönlich",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-hilders",
@@ -1495,8 +1503,49 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 15,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-gersfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Einkaufsservice liefert Senioren in den verstreuten Ortsteilen von Gersfeld wöchentlich Lebensmittel sowie Medikamente direkt an die Haustür und nimmt sich Zeit für ein persönliches Wort. **WARUM HIER:** Die weitläufige Rhön-Landschaft mit ihren steilen Hanglagen und vielen Ortsteilen ohne eigenen Dorfladen macht Beso",
+      "ts": "2026-09-25 19:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-gersfeld",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Rhöner Sternennacht“ beinhaltet eine geführte Dämmerungswanderung ab Gersfeld mit anschließender Sternenbeobachtung im zertifizierten Sternenpark sowie einen Picknickkorb voll regionaler Rhöner Delikatessen. **fuer WEN:** Dieses Angebot richtet sich an Paare und Naturgenießer, die eine romantische Auszeit suchen und den faszinier",
+      "ts": "2026-09-25 19:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-gersfeld",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Brotzeitbox“ im flexiblen Abo, vollgepackt mit frischem Landbrot, lokalem Hofkäse, Wurstspezialitäten (wie vom Rhönschaf) und regionalem Apfelsaft direkt von den Höfen der Umgebung. **fuer WEN:** Für einheimische Familien und Pendler, die bodenständige Lebensmittel aus der Nachbarschaft schätzen, sowie für Urlaubsg",
+      "ts": "2026-09-25 19:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-gersfeld",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld. **Ansprache-Idee:** „Viele Hausbesitzer in der Rhön suchen online nach neuen Heizungen oder schneller Hilfe bei Notfällen – sorgen wir dafür, dass Ihre Telefonnummer bei Google direkt ganz oben steht, bevor die Kunden bei der Konkurrenz aus Fulda anrufen.“",
+      "ts": "2026-09-25 19:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-gersfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Fahrrad-Pannendienst und Gepäck-Shuttleservice speziell für E-Biker und Fernwanderer rund um den Touren-Knotenpunkt Gersfeld. **WARUM HIER:** Als zentrales Tor zur Hochrhön (Wasserkuppe, Hochrhöner) hat Gersfeld eine extrem hohe Dichte an Aktivtouristen, denen es bei Pannen oder Etappenwechseln auf den steilen Rhön-Routen an flexibler So",
+      "ts": "2026-09-25 19:16",
+      "age_min": 0
+    }
+  ]
 }
