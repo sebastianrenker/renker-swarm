@@ -1,57 +1,75 @@
 {
-  "updated": "2026-09-25 04:59 UTC",
-  "total_results": 3,
+  "updated": "2026-09-25 10:05 UTC",
+  "total_results": 4,
   "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "chancen-tann",
-      "title": "Chancen-Scout — Tann  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Gepäcktransfer- und Rückhol-Shuttledienst für Streckenwanderer und E-Biker.\n\n**WARUM HIER:** \nTann ist ein beliebter Knotenpunkt für den Rhön-Tourismus (z. B. Der Hochrhöner), bietet aber kaum flexible ÖPNV-Angebote für Urlauber, die nach einer Tagestour zurück zu ihrem Auto oder Hotel müssen.\n\n**ERSTER SCHRITT:** \nVereinbaren Sie Kooperationen mit der Tanner Tourist-Information sowie örtlichen Pensionen und starten Sie den Dienst bedarfsorientiert mit dem eigenen Pkw.",
-      "ts": "2026-09-25 04:59",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-flieden",
-      "title": "Senioren-Alltagsdienste — Flieden  ·  Kunden",
+      "agent": "senioren-tann",
+      "title": "Senioren-Alltagsdienste — Tann  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nDie „Fliedener Dorf-Begleitung“ ist ein verlässlicher, persönlicher Fahrdienst und Begleitservice, der ältere Menschen aus den Ortsteilen für Einkäufe, Arztbesuche oder kleine Besorgungen im Ortskern abholt und wieder sicher nach Hause bringt.\n\n**WARUM HIER:** \nIn einer weitläufigen Gemeinde wie Flieden mit dezentralen Ortsteilen wie Magdlos oder Rückers stellt die nachlassende eigene Mobilität die größte Hürde dar, um weiterhin selbstbestimmt im gewohnten Dorfumfeld wohnen zu bleiben.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Kommunalverwaltung wird eine einfache Telefon-Vermittlungsstelle im Rathaus eingerichtet, um Fahrwünsche unkompliziert aufzunehmen und mit freiwilligen Helfern aus den jeweiligen Dörfern zu koordinieren.",
-      "ts": "2026-09-25 04:59",
+      "text": "**WAS:** \nEin mobiler Dorfladen- und Erledigungsdienst, der einmal wöchentlich frische Lebensmittel, Medikamente und Zeit für ein persönliches Gespräch direkt zu den Höfen und Haustüren bringt.\n\n**WARUM HIER:** \nIn den weit verstreuten, oft steilen Ortsteilen von Tann schrumpft die Nahversorgung, wodurch ältere Menschen ohne eigenes Auto oder in strengen Rhön-Wintern isoliert werden.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den örtlichen Ortsvorstehern führen wir eine einfache Bedarfsabfrage durch, um die optimalen Haltepunkte und Routezeiten für die Senioren festzulegen.",
+      "ts": "2026-09-25 10:05",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-flieden",
-      "title": "Vulkanregion-Tourismus — Flieden  ·  Chancen",
+      "agent": "tourismus-tann",
+      "title": "Vulkanregion-Tourismus — Tann  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nBei der „Königlichen Picknick-Wanderung durchs Fliedetal“ erkunden Sie eigenständig via GPS-App die malerische Hügellandschaft rund um Flieden und genießen an einem Aussichtspunkt einen prall gefüllten Rucksack mit regionalen Köstlichkeiten aus der Rhön.\n\n**für WEN:** \nDas Paket ist ideal für Paare, Genusswanderer und kleine Familien, die eine entspannte, entschleunigende Tagesauszeit in der Natur mit lokalem Kulinarik-Erlebnis suchen.\n\n**ERSTER SCHRITT:** \nWählen Sie auf unserer Buchungsplattform Ihr Wunschdatum aus und reservieren Sie Ihren Picknickrucksack mit nur wenigen Klicks zur Abholung in Flieden.",
-      "ts": "2026-09-25 04:58",
+      "text": "**WAS:** Das Paket „Tanner Sternenstunden“ umfasst eine geführte Nachtwanderung mit einem zertifizierten Biosphären-Guide durch den Sternenpark Rhön inklusive einer stimmungsvollen Einkehr mit regionaler Rhöner Brotzeit unter der Milchstraße.\n\n**fuer WEN:** Perfekt geeignet für Paare, Naturgenießer und Nachthimmel-Begeisterte, die Entschleunigung und ein romantisches Abenteuer abseits des Stadtlichts suchen.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Kalender aus und sichere dir dein Ticket mit wenigen Klicks direkt auf unserer Buchungsplattform.",
+      "ts": "2026-09-25 10:05",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-tann",
+      "title": "Direktvermarktung — Tann  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentlich wechselnde „Rhöner Feierabend-Box“ zur Abholung an einem zentralen 24/7-Hofautomaten in Tann, vollgepackt mit frischem Bauernbrot, Rhönschaf-Spezialitäten, lokalem Käse und saisonalem Gemüsekram von Höfen aus der direkten Nachbarschaft.\n\n**fuer WEN:** Für beschäftigte Pendler aus dem Tanner Land und Feriengäste in den umliegenden Rhöner Ferienwohnungen, die nach Feierabend oder dem Wandern ohne Einkaufsstress ehrliche Landwirtschaft auf dem Teller haben wollen.\n\n**ERSTER SCHRITT:** Drei passende Betriebe aus dem Tanner Umland an einen Tisch holen, eine einfache Test-Box packen und die ersten 20 Abos über Mundpropaganda und einen Zettel am Bäckerladen vergeben.",
+      "ts": "2026-09-25 10:05",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-tann",
+      "title": "Handwerk-Sichtbarkeit — Tann  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsinstallateur\n\n**Ansprache-Idee:**\n„Wenn in Tann im Winter die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, greift jeder sofort zum Smartphone – sorgen wir dafür, dass Ihr Betrieb bei Google ganz oben steht, damit die lukrativen Aufträge bei Ihnen landen und nicht bei der Konkurrenz aus Fulda.“",
+      "ts": "2026-09-25 10:05",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-tann",
-          "title": "Chancen-Scout — Tann  ·  Chancen",
+          "agent": "tourismus-tann",
+          "title": "Vulkanregion-Tourismus — Tann  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Gepäcktransfer- und Rückhol-Shuttledienst für Streckenwanderer und E-Biker.\n\n**WARUM HIER:** \nTann ist ein beliebter Knotenpunkt für den Rhön-Tourismus (z. B. Der Hochrhöner), bietet aber kaum flexible ÖPNV-Angebote für Urlauber, die nach einer Tagestour zurück zu ihrem Auto oder Hotel müssen.\n\n**ERSTER SCHRITT:** \nVereinbaren Sie Kooperationen mit der Tanner Tourist-Information sowie örtlichen Pensionen und starten Sie den Dienst bedarfsorientiert mit dem eigenen Pkw.",
-          "ts": "2026-09-25 04:59",
+          "text": "**WAS:** Das Paket „Tanner Sternenstunden“ umfasst eine geführte Nachtwanderung mit einem zertifizierten Biosphären-Guide durch den Sternenpark Rhön inklusive einer stimmungsvollen Einkehr mit regionaler Rhöner Brotzeit unter der Milchstraße.\n\n**fuer WEN:** Perfekt geeignet für Paare, Naturgenießer und Nachthimmel-Begeisterte, die Entschleunigung und ein romantisches Abenteuer abseits des Stadtlichts suchen.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Kalender aus und sichere dir dein Ticket mit wenigen Klicks direkt auf unserer Buchungsplattform.",
+          "ts": "2026-09-25 10:05",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-flieden",
-          "title": "Vulkanregion-Tourismus — Flieden  ·  Chancen",
+          "agent": "direkt-tann",
+          "title": "Direktvermarktung — Tann  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nBei der „Königlichen Picknick-Wanderung durchs Fliedetal“ erkunden Sie eigenständig via GPS-App die malerische Hügellandschaft rund um Flieden und genießen an einem Aussichtspunkt einen prall gefüllten Rucksack mit regionalen Köstlichkeiten aus der Rhön.\n\n**für WEN:** \nDas Paket ist ideal für Paare, Genusswanderer und kleine Familien, die eine entspannte, entschleunigende Tagesauszeit in der Natur mit lokalem Kulinarik-Erlebnis suchen.\n\n**ERSTER SCHRITT:** \nWählen Sie auf unserer Buchungsplattform Ihr Wunschdatum aus und reservieren Sie Ihren Picknickrucksack mit nur wenigen Klicks zur Abholung in Flieden.",
-          "ts": "2026-09-25 04:58",
+          "text": "**WAS:** Eine wöchentlich wechselnde „Rhöner Feierabend-Box“ zur Abholung an einem zentralen 24/7-Hofautomaten in Tann, vollgepackt mit frischem Bauernbrot, Rhönschaf-Spezialitäten, lokalem Käse und saisonalem Gemüsekram von Höfen aus der direkten Nachbarschaft.\n\n**fuer WEN:** Für beschäftigte Pendler aus dem Tanner Land und Feriengäste in den umliegenden Rhöner Ferienwohnungen, die nach Feierabend oder dem Wandern ohne Einkaufsstress ehrliche Landwirtschaft auf dem Teller haben wollen.\n\n**ERSTER SCHRITT:** Drei passende Betriebe aus dem Tanner Umland an einen Tisch holen, eine einfache Test-Box packen und die ersten 20 Abos über Mundpropaganda und einen Zettel am Bäckerladen vergeben.",
+          "ts": "2026-09-25 10:05",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-tann",
+          "title": "Handwerk-Sichtbarkeit — Tann  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsinstallateur\n\n**Ansprache-Idee:**\n„Wenn in Tann im Winter die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, greift jeder sofort zum Smartphone – sorgen wir dafür, dass Ihr Betrieb bei Google ganz oben steht, damit die lukrativen Aufträge bei Ihnen landen und nicht bei der Konkurrenz aus Fulda.“",
+          "ts": "2026-09-25 10:05",
           "age_min": 0
         }
       ]
@@ -62,11 +80,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-flieden",
-          "title": "Senioren-Alltagsdienste — Flieden  ·  Kunden",
+          "agent": "senioren-tann",
+          "title": "Senioren-Alltagsdienste — Tann  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nDie „Fliedener Dorf-Begleitung“ ist ein verlässlicher, persönlicher Fahrdienst und Begleitservice, der ältere Menschen aus den Ortsteilen für Einkäufe, Arztbesuche oder kleine Besorgungen im Ortskern abholt und wieder sicher nach Hause bringt.\n\n**WARUM HIER:** \nIn einer weitläufigen Gemeinde wie Flieden mit dezentralen Ortsteilen wie Magdlos oder Rückers stellt die nachlassende eigene Mobilität die größte Hürde dar, um weiterhin selbstbestimmt im gewohnten Dorfumfeld wohnen zu bleiben.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Kommunalverwaltung wird eine einfache Telefon-Vermittlungsstelle im Rathaus eingerichtet, um Fahrwünsche unkompliziert aufzunehmen und mit freiwilligen Helfern aus den jeweiligen Dörfern zu koordinieren.",
-          "ts": "2026-09-25 04:59",
+          "text": "**WAS:** \nEin mobiler Dorfladen- und Erledigungsdienst, der einmal wöchentlich frische Lebensmittel, Medikamente und Zeit für ein persönliches Gespräch direkt zu den Höfen und Haustüren bringt.\n\n**WARUM HIER:** \nIn den weit verstreuten, oft steilen Ortsteilen von Tann schrumpft die Nahversorgung, wodurch ältere Menschen ohne eigenes Auto oder in strengen Rhön-Wintern isoliert werden.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den örtlichen Ortsvorstehern führen wir eine einfache Bedarfsabfrage durch, um die optimalen Haltepunkte und Routezeiten für die Senioren festzulegen.",
+          "ts": "2026-09-25 10:05",
           "age_min": 0
         }
       ]
