@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-25T10:05Z",
+  "updated": "2026-09-25T15:14Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Das Paket „Tanner Sternenstunden“ umfasst eine geführte Nachtwanderung mit einem zertifizierten Biosphären-Guide durch den Sternenpark Rhön inklusive einer stimmungsvollen Einkehr mit regionaler Rhöner Brotzeit unter der Milchstraße. **fuer WEN:** Perfekt geeignet für Paare, Naturgenießer und Nachthimmel-Begeisterte, die Entschleunigung und ein roma",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Dorfladen- und Erledigungsdienst, der einmal wöchentlich frische Lebensmittel, Medikamente und Zeit für ein persönliches Gespräch direkt zu den Höfen und Haustüren bringt. **WARUM HIER:** In den weit verstreuten, oft steilen Ortsteilen von Tann schrumpft die Nahversorgung, wodurch ältere Menschen ohne eigenes Auto oder in strengen Rhön-W",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1380,36 +1372,36 @@
       "name": "Handwerk-Sichtbarkeit — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsinstallateur **Ansprache-Idee:** „Wenn in Tann im Winter die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, greift jeder sofort zum Smartphone – sorgen wir dafür, dass Ihr ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-tann",
       "name": "Direktvermarktung — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentlich wechselnde „Rhöner Feierabend-Box“ zur Abholung an einem zentralen 24/7-Hofautomaten in Tann, vollgepackt mit frischem Bauernbrot, Rhönschaf-Spezialitäten, lokalem Käse und saisonalem Gemüsekram",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-tann",
       "name": "Vulkanregion-Tourismus — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Paket „Tanner Sternenstunden“ umfasst eine geführte Nachtwanderung mit einem zertifizierten Biosphären-Guide durch den Sternenpark Rhön inklusive einer stimmungsvollen Einkehr mit regionaler Rhöner Brotzeit ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-tann",
       "name": "Senioren-Alltagsdienste — Tann",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Dorfladen- und Erledigungsdienst, der einmal wöchentlich frische Lebensmittel, Medikamente und Zeit für ein persönliches Gespräch direkt zu den Höfen und Haustüren bringt. **WARUM HIER:** In den weit",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-gersfeld",
@@ -1506,38 +1498,5 @@
     "used": 10,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-tann",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorfladen- und Erledigungsdienst, der einmal wöchentlich frische Lebensmittel, Medikamente und Zeit für ein persönliches Gespräch direkt zu den Höfen und Haustüren bringt. **WARUM HIER:** In den weit verstreuten, oft steilen Ortsteilen von Tann schrumpft die Nahversorgung, wodurch ältere Menschen ohne eigenes Auto oder in strengen Rhön-W",
-      "ts": "2026-09-25 10:05",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-tann",
-      "via": "gemini",
-      "text": "**WAS:** Das Paket „Tanner Sternenstunden“ umfasst eine geführte Nachtwanderung mit einem zertifizierten Biosphären-Guide durch den Sternenpark Rhön inklusive einer stimmungsvollen Einkehr mit regionaler Rhöner Brotzeit unter der Milchstraße. **fuer WEN:** Perfekt geeignet für Paare, Naturgenießer und Nachthimmel-Begeisterte, die Entschleunigung und ein roma",
-      "ts": "2026-09-25 10:05",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-tann",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentlich wechselnde „Rhöner Feierabend-Box“ zur Abholung an einem zentralen 24/7-Hofautomaten in Tann, vollgepackt mit frischem Bauernbrot, Rhönschaf-Spezialitäten, lokalem Käse und saisonalem Gemüsekram von Höfen aus der direkten Nachbarschaft. **fuer WEN:** Für beschäftigte Pendler aus dem Tanner Land und Feriengäste in den umliegenden Rhö",
-      "ts": "2026-09-25 10:05",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-tann",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsinstallateur **Ansprache-Idee:** „Wenn in Tann im Winter die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, greift jeder sofort zum Smartphone – sorgen wir dafür, dass Ihr Betrieb bei Google ganz oben steht, damit die lukrativen Aufträge bei Ihnen landen und nicht bei der Konkurrenz aus Fulda.“",
-      "ts": "2026-09-25 10:05",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
