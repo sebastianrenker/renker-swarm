@@ -1,7 +1,81 @@
 {
-  "updated": "2026-09-26 10:41 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-26 14:44 UTC",
+  "total_results": 3,
+  "total_depts": 3,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "wachstum-offerta",
+      "title": "Growth — Offerta  ·  Chancen",
+      "via": "gemini",
+      "text": "**IDEE:**\nDer **„Layout-Cloning“-Viral-Loop**.\nWandle die Fußzeile von einem passiven Hinweis („Erstellt mit Offerta“) in einen aktiven Nutzen-CTA um:  \n*„Gefällt dir dieses Angebot? Erstelle deine eigenen Angebote kostenlos in 2 Minuten mit Offerta.“*\n\n**WARUM:**\nEmpfänger von Angeboten sind B2B-Kunden – sehr oft selbst Selbstständige, Agenturen oder Handwerker, die regelmäßig Angebote schreiben müssen. Genau in dem Moment, in dem sie ein professionelles Angebot lesen, ist die Aufmerksamkeit für das Thema am höchsten. Du nutzt die bestehenden Angebote deiner Nutzer als kostenlosen Werbeträger mit perfekter Zielgruppen-Ansprache.\n\n**ERSTER SCHRITT:**\nErgänze im Export-Template (PDF und Webansicht) ganz unten eine Zeile mit UTM-Tracking:  \n`Erstellt mit Offerta – Jetzt eigene Angebote kostenlos schreiben ➔ [Link]`  \nVerlinke direkt auf eine minimalistische Registrierungsseite. Aufwand: 30 Minuten Code-Anpassung.",
+      "ts": "2026-09-26 14:44",
+      "age_min": 0
+    },
+    {
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
+      "title": "Treasurer — Zahlen-Check  ·  Finanzen",
+      "via": "gemini",
+      "text": "Hier sind die 3 wichtigsten finanziellen und rechtlichen Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen:\n\n1. **Gewerbeanmeldung & Steuerstatus (§ 19 UStG):** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung geklärt sein – insbesondere die Entscheidung für oder gegen die Kleinunternehmerregelung nach § 19 UStG –, damit jede Rechnung ab Tag eins finanzamtssicher ist.\n2. **Rechtssicherheit (Impressum, AGB & DSGVO):** Ein vollständiges Impressum, saubere AGB sowie eine DSGVO-konforme Datenschutzerklärung müssen vor dem ersten Verkaufsangebot stehen, um existenzbedrohende und kostenintensive Abmahnungen zu vermeiden.\n3. **Ehrliche Kalkulation & Steuerrücklagen:** Der Paketpreis muss realistisch kalkuliert sein (inklusive aller Selbstkosten und Margen) und es muss ein klares System zur Bildung von Steuerrücklagen existieren, damit am Ende nicht die Liquiditätsfalle droht.",
+      "ts": "2026-09-26 14:44",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "kunden-faq",
+      "title": "Support Agent — FAQ-Bausteine  ·  Kunden",
+      "via": "gemini",
+      "text": "Hier sind 3 passende FAQ-Paare für Offerta:\n\n---\n\n**1. Ist Offerta wirklich kostenlos und wo ist der Haken?**\nJa, die Basisversion ist dauerhaft kostenlos. Damit kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Erst wenn du mehr Angebote brauchst, eigene Vorlagen nutzen oder das Offerta-Logo entfernen möchtest, wechselst du auf einen kostenpflichtigen Tarif. Keine versteckten Kosten, keine Testphase, die automatisch kostenpflichtig wird.\n\n**2. Wie bekommt mein Kunde das fertige Angebot?**\nDu hast zwei einfache Möglichkeiten: Du kannst das Angebot als PDF herunterladen und selbst per E-Mail versenden. Oder du sendest deinem Kunden einen Link direkt aus Offerta. Über diesen Link kann der Kunde das Angebot online ansehen und mit einem Klick digital annehmen.\n\n**3. Wie flexibel bin ich, wenn ich ein kostenpflichtiges Paket buche?**\nSehr flexibel. Du kannst alle gebührenpflichtigen Tarife monatlich kündigen oder anpassen. Es gibt keine Mindestvertragslaufzeit. Wenn du kündigst, wird dein Konto zum Ende des Abrechnungszeitraums einfach wieder auf die kostenlose Basisversion zurückgestuft. Deine erstellten Angebote bleiben erhalten.",
+      "ts": "2026-09-26 14:44",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "wachstum-offerta",
+          "title": "Growth — Offerta  ·  Chancen",
+          "via": "gemini",
+          "text": "**IDEE:**\nDer **„Layout-Cloning“-Viral-Loop**.\nWandle die Fußzeile von einem passiven Hinweis („Erstellt mit Offerta“) in einen aktiven Nutzen-CTA um:  \n*„Gefällt dir dieses Angebot? Erstelle deine eigenen Angebote kostenlos in 2 Minuten mit Offerta.“*\n\n**WARUM:**\nEmpfänger von Angeboten sind B2B-Kunden – sehr oft selbst Selbstständige, Agenturen oder Handwerker, die regelmäßig Angebote schreiben müssen. Genau in dem Moment, in dem sie ein professionelles Angebot lesen, ist die Aufmerksamkeit für das Thema am höchsten. Du nutzt die bestehenden Angebote deiner Nutzer als kostenlosen Werbeträger mit perfekter Zielgruppen-Ansprache.\n\n**ERSTER SCHRITT:**\nErgänze im Export-Template (PDF und Webansicht) ganz unten eine Zeile mit UTM-Tracking:  \n`Erstellt mit Offerta – Jetzt eigene Angebote kostenlos schreiben ➔ [Link]`  \nVerlinke direkt auf eine minimalistische Registrierungsseite. Aufwand: 30 Minuten Code-Anpassung.",
+          "ts": "2026-09-26 14:44",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "kunden-faq",
+          "title": "Support Agent — FAQ-Bausteine  ·  Kunden",
+          "via": "gemini",
+          "text": "Hier sind 3 passende FAQ-Paare für Offerta:\n\n---\n\n**1. Ist Offerta wirklich kostenlos und wo ist der Haken?**\nJa, die Basisversion ist dauerhaft kostenlos. Damit kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Erst wenn du mehr Angebote brauchst, eigene Vorlagen nutzen oder das Offerta-Logo entfernen möchtest, wechselst du auf einen kostenpflichtigen Tarif. Keine versteckten Kosten, keine Testphase, die automatisch kostenpflichtig wird.\n\n**2. Wie bekommt mein Kunde das fertige Angebot?**\nDu hast zwei einfache Möglichkeiten: Du kannst das Angebot als PDF herunterladen und selbst per E-Mail versenden. Oder du sendest deinem Kunden einen Link direkt aus Offerta. Über diesen Link kann der Kunde das Angebot online ansehen und mit einem Klick digital annehmen.\n\n**3. Wie flexibel bin ich, wenn ich ein kostenpflichtiges Paket buche?**\nSehr flexibel. Du kannst alle gebührenpflichtigen Tarife monatlich kündigen oder anpassen. Es gibt keine Mindestvertragslaufzeit. Wenn du kündigst, wird dein Konto zum Ende des Abrechnungszeitraums einfach wieder auf die kostenlose Basisversion zurückgestuft. Deine erstellten Angebote bleiben erhalten.",
+          "ts": "2026-09-26 14:44",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Finanzen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Finanzen",
+          "agent": "finanzen-check",
+          "title": "Treasurer — Zahlen-Check  ·  Finanzen",
+          "via": "gemini",
+          "text": "Hier sind die 3 wichtigsten finanziellen und rechtlichen Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen:\n\n1. **Gewerbeanmeldung & Steuerstatus (§ 19 UStG):** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung geklärt sein – insbesondere die Entscheidung für oder gegen die Kleinunternehmerregelung nach § 19 UStG –, damit jede Rechnung ab Tag eins finanzamtssicher ist.\n2. **Rechtssicherheit (Impressum, AGB & DSGVO):** Ein vollständiges Impressum, saubere AGB sowie eine DSGVO-konforme Datenschutzerklärung müssen vor dem ersten Verkaufsangebot stehen, um existenzbedrohende und kostenintensive Abmahnungen zu vermeiden.\n3. **Ehrliche Kalkulation & Steuerrücklagen:** Der Paketpreis muss realistisch kalkuliert sein (inklusive aller Selbstkosten und Margen) und es muss ein klares System zur Bildung von Steuerrücklagen existieren, damit am Ende nicht die Liquiditätsfalle droht.",
+          "ts": "2026-09-26 14:44",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

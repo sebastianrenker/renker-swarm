@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-26T10:41Z",
+  "updated": "2026-09-26T14:44Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**IDEE:** Der **„Layout-Cloning“-Viral-Loop**. Wandle die Fußzeile von einem passiven Hinweis („Erstellt mit Offerta“) in einen aktiven Nutzen-CTA um: *„Gefällt dir dieses Angebot? Erstelle deine eigenen Angebote kostenlos in 2 Minuten mit Offerta.“* **WARUM:** Empfänger von Angeboten sind B2B-Kunden – sehr oft selbst Selbstständige, Agenturen oder Handwerke",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,12 +30,20 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier sind 3 passende FAQ-Paare für Offerta: --- **1. Ist Offerta wirklich kostenlos und wo ist der Haken?** Ja, die Basisversion ist dauerhaft kostenlos. Damit kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Erst wenn du mehr Angebote brauchst, eigene Vorlagen nutzen oder das Offerta-Logo entfernen möchtest, wechselst du auf einen ",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier sind die 3 wichtigsten finanziellen und rechtlichen Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung & Steuerstatus (§ 19 UStG):** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung geklärt sein – insbesondere die Entscheidung für oder gegen die Kleinunternehmerregelung nach § 19 UStG –, damit jede",
+        "age_min": 0
+      }
     }
   ],
   "agents": [
@@ -85,27 +97,27 @@
       "name": "Support Agent — FAQ-Bausteine",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier sind 3 passende FAQ-Paare für Offerta: --- **1. Ist Offerta wirklich kostenlos und wo ist der Haken?** Ja, die Basisversion ist dauerhaft kostenlos. Damit kannst du bis zu 3 Angebote pro Monat erstellen und als PDF ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "finanzen-check",
       "name": "Treasurer — Zahlen-Check",
       "dept": "Finanzen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier sind die 3 wichtigsten finanziellen und rechtlichen Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung & Steuerstatus (§ 19 UStG):** Das Gewerbe muss offiziell angemeldet und die ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "wachstum-offerta",
       "name": "Growth — Offerta",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**IDEE:** Der **„Layout-Cloning“-Viral-Loop**. Wandle die Fußzeile von einem passiven Hinweis („Erstellt mit Offerta“) in einen aktiven Nutzen-CTA um: *„Gefällt dir dieses Angebot? Erstelle deine eigenen Angebote kostenl",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-offerta",
@@ -1495,8 +1507,33 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 9,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "wachstum-offerta",
+      "via": "gemini",
+      "text": "**IDEE:** Der **„Layout-Cloning“-Viral-Loop**. Wandle die Fußzeile von einem passiven Hinweis („Erstellt mit Offerta“) in einen aktiven Nutzen-CTA um: *„Gefällt dir dieses Angebot? Erstelle deine eigenen Angebote kostenlos in 2 Minuten mit Offerta.“* **WARUM:** Empfänger von Angeboten sind B2B-Kunden – sehr oft selbst Selbstständige, Agenturen oder Handwerke",
+      "ts": "2026-09-26 14:44",
+      "age_min": 0
+    },
+    {
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
+      "via": "gemini",
+      "text": "Hier sind die 3 wichtigsten finanziellen und rechtlichen Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung & Steuerstatus (§ 19 UStG):** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung geklärt sein – insbesondere die Entscheidung für oder gegen die Kleinunternehmerregelung nach § 19 UStG –, damit jede",
+      "ts": "2026-09-26 14:44",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "kunden-faq",
+      "via": "gemini",
+      "text": "Hier sind 3 passende FAQ-Paare für Offerta: --- **1. Ist Offerta wirklich kostenlos und wo ist der Haken?** Ja, die Basisversion ist dauerhaft kostenlos. Damit kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Erst wenn du mehr Angebote brauchst, eigene Vorlagen nutzen oder das Offerta-Logo entfernen möchtest, wechselst du auf einen ",
+      "ts": "2026-09-26 14:44",
+      "age_min": 0
+    }
+  ]
 }
