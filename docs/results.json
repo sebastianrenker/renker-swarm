@@ -1,57 +1,7 @@
 {
-  "updated": "2026-09-26 05:46 UTC",
-  "total_results": 2,
-  "total_depts": 2,
-  "active": [
-    {
-      "dept": "Bau",
-      "agent": "bau-landing-copy",
-      "title": "Web Designer — Landing-Texte  ·  Bau",
-      "via": "gemini",
-      "text": "Hier ist ein frischer, auf den Punkt gebrachter Text für deine Hero-Sektion:\n\n***\n\n**[HEADLINE]**\n# Mehr Aufträge. Neue Mitarbeiter. \n### Ihr Handwerk im Vogelsberg endlich online sichtbar.\n\n**[SUBLINE]**\nWir bringen Ihren Betrieb bei Google und Social Media ganz nach vorne in der Region. So finden Kunden und passende Fachkräfte direkt zu Ihnen – ohne dass Sie dafür wertvolle Zeit auf der Baustelle opfern.\n\n**[CTA-BUTTON]**\n👉 **Jetzt Erstgespräch vereinbaren** *(Kostenlos & unverbindlich)*",
-      "ts": "2026-09-26 05:46",
-      "age_min": 0
-    },
-    {
-      "dept": "Recherche",
-      "agent": "recherche-wettbewerb",
-      "title": "Researcher — Wettbewerb & Preise  ·  Recherche",
-      "via": "gemini",
-      "text": "Basierend auf aktuellen Marktstandards im DACH-Raum für Agenturdienstleistungen im KMU-Segment lässt sich die Preispositionierung für ein Handwerker-Digitalpaket wie folgt skizzieren. \n\n*Hinweis zur Methodik:* Im Markt durchgesetzt hat sich eine Kombination aus einmaligen Setup-Kosten und laufenden Monatspauschalen (Hosting, SEO-Pflege, GBP-Aktualisierungen), da rein einmalige Projekte die Sichtbarkeit nicht nachhaltig sichern.\n\n---\n\n### 1. Paketstufe: „Basis / Digitale Visitenkarte“\n* **Preisspanne:** 1.200 € – 1.800 € einmalig (zzgl. 50 € – 90 € / Monat)\n* **Begründung (1 Satz):** Dieses Paket senkt die Einstiegshürde für Solo-Selbstständige und Kleinstbetriebe, um die grundlegende Auffindbarkeit bei Google und ein seriöses Erscheinungsbild ohne finanzielles Risiko zu sichern.\n* **[*Annahme*]:** Es wird davon ausgegangen, dass der Kunde grundlegendes Bildmaterial und Texte stellt und keine Schnittstellen zu Branchensoftware benötigt werden.\n\n---\n\n### 2. Paketstufe: „Standard / Regionale Sichtbarkeit & Anfragen“ *(Sweet Spot)*\n* **Preisspanne:** 2.500 € – 4.500 € einmalig (zzgl. 150 € – 250 € / Monat)\n* **Begründung (1 Satz):** Bietet etablierten Betrieben das beste Preis-Leistungs-Verhältnis, um durch lokales SEO und einen einfachen Anfrage-Assistenten ungefilterte Anfragen in qualifizierte Kundenanfragen umzuwandeln.\n* **[*Annahme*]:** Die Zielgruppe ist bereit, für messbare Zeitersparnis im Büro (durch vorqualifizierte Anfragen) ein mittleres vierstelliges Budget zu investieren.\n\n---\n\n### 3. Paketstufe: „Premium / Marktführerschaft & Recruiting“\n* **Preisspanne:** 5.500 € – 9.000 € einmalig (zzgl. 350 € – 600 € / Monat)\n* **Begründung (1 Satz):** Richtet sich an wachsende Betriebe, die neben der Gewinnung von Marge-starken Wunschaufträgen auch ein digitales Bewerber-Modul zur Mitarbeitergewinnung benötigen.\n* **[*Annahme*]:** Der Betrieb hat ausreichende operative Kapazitäten und eine funktionierende Bürostruktur, um das höhere Anfragevolumen auch abzuarbeiten.\n\n---\n\n### Markt-Einschätzung (Fakt vs. Vermutung)\n\n* **Fakt:** Handwerker kaufen primär Zeitgewinn und Erleichterung im Tagesgeschäft, keine abstrakten Marketing-Kennzahlen (wie \"Traffic\" oder \"Impressions\").\n* **Vermutung / Unsicherheit:** Die Zahlungsbereitschaft variiert derzeit stark nach Gewerk. Während Heizung/Sanitär und Elektro aufgrund hoher Nachfrage eher in Recruiting-Module investieren, ist im Baugewerbe (aufgrund der aktuellen Baukrise) derzeit wieder mehr Fokus auf aktive Neukundengewinnung zu beobachten. Die Preisbereitschaft muss ggf. regional (Urban vs. Ländlich) angepasst werden.",
-      "ts": "2026-09-26 05:46",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Recherche",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Recherche",
-          "agent": "recherche-wettbewerb",
-          "title": "Researcher — Wettbewerb & Preise  ·  Recherche",
-          "via": "gemini",
-          "text": "Basierend auf aktuellen Marktstandards im DACH-Raum für Agenturdienstleistungen im KMU-Segment lässt sich die Preispositionierung für ein Handwerker-Digitalpaket wie folgt skizzieren. \n\n*Hinweis zur Methodik:* Im Markt durchgesetzt hat sich eine Kombination aus einmaligen Setup-Kosten und laufenden Monatspauschalen (Hosting, SEO-Pflege, GBP-Aktualisierungen), da rein einmalige Projekte die Sichtbarkeit nicht nachhaltig sichern.\n\n---\n\n### 1. Paketstufe: „Basis / Digitale Visitenkarte“\n* **Preisspanne:** 1.200 € – 1.800 € einmalig (zzgl. 50 € – 90 € / Monat)\n* **Begründung (1 Satz):** Dieses Paket senkt die Einstiegshürde für Solo-Selbstständige und Kleinstbetriebe, um die grundlegende Auffindbarkeit bei Google und ein seriöses Erscheinungsbild ohne finanzielles Risiko zu sichern.\n* **[*Annahme*]:** Es wird davon ausgegangen, dass der Kunde grundlegendes Bildmaterial und Texte stellt und keine Schnittstellen zu Branchensoftware benötigt werden.\n\n---\n\n### 2. Paketstufe: „Standard / Regionale Sichtbarkeit & Anfragen“ *(Sweet Spot)*\n* **Preisspanne:** 2.500 € – 4.500 € einmalig (zzgl. 150 € – 250 € / Monat)\n* **Begründung (1 Satz):** Bietet etablierten Betrieben das beste Preis-Leistungs-Verhältnis, um durch lokales SEO und einen einfachen Anfrage-Assistenten ungefilterte Anfragen in qualifizierte Kundenanfragen umzuwandeln.\n* **[*Annahme*]:** Die Zielgruppe ist bereit, für messbare Zeitersparnis im Büro (durch vorqualifizierte Anfragen) ein mittleres vierstelliges Budget zu investieren.\n\n---\n\n### 3. Paketstufe: „Premium / Marktführerschaft & Recruiting“\n* **Preisspanne:** 5.500 € – 9.000 € einmalig (zzgl. 350 € – 600 € / Monat)\n* **Begründung (1 Satz):** Richtet sich an wachsende Betriebe, die neben der Gewinnung von Marge-starken Wunschaufträgen auch ein digitales Bewerber-Modul zur Mitarbeitergewinnung benötigen.\n* **[*Annahme*]:** Der Betrieb hat ausreichende operative Kapazitäten und eine funktionierende Bürostruktur, um das höhere Anfragevolumen auch abzuarbeiten.\n\n---\n\n### Markt-Einschätzung (Fakt vs. Vermutung)\n\n* **Fakt:** Handwerker kaufen primär Zeitgewinn und Erleichterung im Tagesgeschäft, keine abstrakten Marketing-Kennzahlen (wie \"Traffic\" oder \"Impressions\").\n* **Vermutung / Unsicherheit:** Die Zahlungsbereitschaft variiert derzeit stark nach Gewerk. Während Heizung/Sanitär und Elektro aufgrund hoher Nachfrage eher in Recruiting-Module investieren, ist im Baugewerbe (aufgrund der aktuellen Baukrise) derzeit wieder mehr Fokus auf aktive Neukundengewinnung zu beobachten. Die Preisbereitschaft muss ggf. regional (Urban vs. Ländlich) angepasst werden.",
-          "ts": "2026-09-26 05:46",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Bau",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Bau",
-          "agent": "bau-landing-copy",
-          "title": "Web Designer — Landing-Texte  ·  Bau",
-          "via": "gemini",
-          "text": "Hier ist ein frischer, auf den Punkt gebrachter Text für deine Hero-Sektion:\n\n***\n\n**[HEADLINE]**\n# Mehr Aufträge. Neue Mitarbeiter. \n### Ihr Handwerk im Vogelsberg endlich online sichtbar.\n\n**[SUBLINE]**\nWir bringen Ihren Betrieb bei Google und Social Media ganz nach vorne in der Region. So finden Kunden und passende Fachkräfte direkt zu Ihnen – ohne dass Sie dafür wertvolle Zeit auf der Baustelle opfern.\n\n**[CTA-BUTTON]**\n👉 **Jetzt Erstgespräch vereinbaren** *(Kostenlos & unverbindlich)*",
-          "ts": "2026-09-26 05:46",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-09-26 10:41 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-26T05:46Z",
+  "updated": "2026-09-26T10:41Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -16,20 +16,12 @@
     {
       "id": "Recherche",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Basierend auf aktuellen Marktstandards im DACH-Raum für Agenturdienstleistungen im KMU-Segment lässt sich die Preispositionierung für ein Handwerker-Digitalpaket wie folgt skizzieren. *Hinweis zur Methodik:* Im Markt durchgesetzt hat sich eine Kombination aus einmaligen Setup-Kosten und laufenden Monatspauschalen (Hosting, SEO-Pflege, GBP-Aktualisierungen), ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Bau",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier ist ein frischer, auf den Punkt gebrachter Text für deine Hero-Sektion: *** **[HEADLINE]** # Mehr Aufträge. Neue Mitarbeiter. ### Ihr Handwerk im Vogelsberg endlich online sichtbar. **[SUBLINE]** Wir bringen Ihren Betrieb bei Google und Social Media ganz nach vorne in der Region. So finden Kunden und passende Fachkräfte direkt zu Ihnen – ohne dass Sie d",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Kunden",
@@ -75,18 +67,18 @@
       "name": "Researcher — Wettbewerb & Preise",
       "dept": "Recherche",
       "iv": 480,
-      "out": "Basierend auf aktuellen Marktstandards im DACH-Raum für Agenturdienstleistungen im KMU-Segment lässt sich die Preispositionierung für ein Handwerker-Digitalpaket wie folgt skizzieren. *Hinweis zur Methodik:* Im Markt dur",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "bau-landing-copy",
       "name": "Web Designer — Landing-Texte",
       "dept": "Bau",
       "iv": 600,
-      "out": "Hier ist ein frischer, auf den Punkt gebrachter Text für deine Hero-Sektion: *** **[HEADLINE]** # Mehr Aufträge. Neue Mitarbeiter. ### Ihr Handwerk im Vogelsberg endlich online sichtbar. **[SUBLINE]** Wir bringen Ihren B",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "kunden-faq",
@@ -1506,22 +1498,5 @@
     "used": 6,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Bau",
-      "agent": "bau-landing-copy",
-      "via": "gemini",
-      "text": "Hier ist ein frischer, auf den Punkt gebrachter Text für deine Hero-Sektion: *** **[HEADLINE]** # Mehr Aufträge. Neue Mitarbeiter. ### Ihr Handwerk im Vogelsberg endlich online sichtbar. **[SUBLINE]** Wir bringen Ihren Betrieb bei Google und Social Media ganz nach vorne in der Region. So finden Kunden und passende Fachkräfte direkt zu Ihnen – ohne dass Sie d",
-      "ts": "2026-09-26 05:46",
-      "age_min": 0
-    },
-    {
-      "dept": "Recherche",
-      "agent": "recherche-wettbewerb",
-      "via": "gemini",
-      "text": "Basierend auf aktuellen Marktstandards im DACH-Raum für Agenturdienstleistungen im KMU-Segment lässt sich die Preispositionierung für ein Handwerker-Digitalpaket wie folgt skizzieren. *Hinweis zur Methodik:* Im Markt durchgesetzt hat sich eine Kombination aus einmaligen Setup-Kosten und laufenden Monatspauschalen (Hosting, SEO-Pflege, GBP-Aktualisierungen), ",
-      "ts": "2026-09-26 05:46",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
