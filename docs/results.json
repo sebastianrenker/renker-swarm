@@ -1,24 +1,33 @@
 {
-  "updated": "2026-09-26 18:03 UTC",
-  "total_results": 2,
-  "total_depts": 1,
+  "updated": "2026-09-26 21:08 UTC",
+  "total_results": 3,
+  "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-lauterbach",
-      "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-lauterbach",
+      "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
       "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (speziell mit Fokus auf moderne Heizsysteme/Wärmepumpen und Badsanierung)\n\n**Ansprache-Idee:**\n„Sorgen wir dafür, dass Hausbesitzer aus Lauterbach bei der Suche nach einer neuen Heizung oder Notdiensten sofort Ihren Betrieb auf Google finden – statt die lukrativen Aufträge an die Konkurrenz aus Fulda zu verlieren.“",
-      "ts": "2026-09-26 18:03",
+      "text": "**WAS:** Ein mobiler Dorf-Einkaufs- und Begleitdienst, der frische Lebensmittel aus dem Hauptort direkt an die Haustür bringt und Zeit für einen persönlichen Plausch mitbringt.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen rund um Lauterbach fehlen oft fußläufige Einkaufsmöglichkeiten, was das selbstbestimmte Leben im eigenen Zuhause ohne eigenes Auto erschwert.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit dem lokalen Seniorenbeirat werden verlässliche Nachbarschaftspaten aus den einzelnen Dörfern für die ersten festen Wochenrouten gewonnen.",
+      "ts": "2026-09-26 21:08",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-lauterbach",
-      "title": "Chancen-Scout — Lauterbach  ·  Chancen",
+      "agent": "tourismus-lauterbach",
+      "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler All-in-One-Betreuungsservice für Ferienwohnungs-Vermieter in Lauterbach, der Reinigung, Gäste-Check-in und die Bestückung mit regionalen Produkten übernimmt.\n\n**WARUM HIER:** Der Vogelsberg-Tourismus wächst stetig, doch vielen privaten Vermietern in Lauterbach fehlt vor Ort die Zeit oder verlässliches Personal für das operative Tagesgeschäft.\n\n**ERSTER SCHRITT:** Kontaktiere gezielt 15 lokale FeWo-Anbieter auf Airbnb oder Booking.com in und um Lauterbach, um den konkreten Bedarf für ein Test-Abo abzufragen.",
-      "ts": "2026-09-26 18:03",
+      "text": "**WAS:** Bei der geführten Erlebnis-Tour „Auf den Spuren des Lauterbacher Strolchs“ überqueren Sie die berühmten Schrittsteine in der Lauter, genießen ein Vulkan-Picknick im Park und verkosten regionale Bierspezialitäten.\n\n**für WEN:** Perfekt für Paare, Genuss-Wanderer und kleine Gruppen, die lokale Geschichte, Natur und kulinarischen Genuss entspannt miteinander verbinden wollen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich mit wenigen Klicks Ihr All-in-One-Erlebnisticket.",
+      "ts": "2026-09-26 21:08",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-lauterbach",
+      "title": "Direktvermarktung — Lauterbach  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDie „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Grundnahrungsmitteln wie Vogelsberger Kartoffeln, Lauterbacher Landeiern, knackigem Saison-Gemüse und wechselnden Wurst- oder Käsespezialitäten direkt vom Erzeuger.\n\n**fuer WEN:** \nFür berufstätige Familien und Pendler aus Lauterbach und den umliegenden Dörfern, die regionale Qualität schätzen, aber unter der Woche keine Zeit für Klappermühlen-Fahrten von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** \nDrei lokale Erzeuger aus der Nachbarschaft an einen Tisch holen, um ein einfaches Basissortiment abzustimmen und mit 20 Test-Haushalten in die erste vierwöchige Testphase zu starten.",
+      "ts": "2026-09-26 21:08",
       "age_min": 0
     }
   ],
@@ -29,20 +38,35 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-lauterbach",
-          "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
+          "agent": "tourismus-lauterbach",
+          "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (speziell mit Fokus auf moderne Heizsysteme/Wärmepumpen und Badsanierung)\n\n**Ansprache-Idee:**\n„Sorgen wir dafür, dass Hausbesitzer aus Lauterbach bei der Suche nach einer neuen Heizung oder Notdiensten sofort Ihren Betrieb auf Google finden – statt die lukrativen Aufträge an die Konkurrenz aus Fulda zu verlieren.“",
-          "ts": "2026-09-26 18:03",
+          "text": "**WAS:** Bei der geführten Erlebnis-Tour „Auf den Spuren des Lauterbacher Strolchs“ überqueren Sie die berühmten Schrittsteine in der Lauter, genießen ein Vulkan-Picknick im Park und verkosten regionale Bierspezialitäten.\n\n**für WEN:** Perfekt für Paare, Genuss-Wanderer und kleine Gruppen, die lokale Geschichte, Natur und kulinarischen Genuss entspannt miteinander verbinden wollen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich mit wenigen Klicks Ihr All-in-One-Erlebnisticket.",
+          "ts": "2026-09-26 21:08",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-lauterbach",
-          "title": "Chancen-Scout — Lauterbach  ·  Chancen",
+          "agent": "direkt-lauterbach",
+          "title": "Direktvermarktung — Lauterbach  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler All-in-One-Betreuungsservice für Ferienwohnungs-Vermieter in Lauterbach, der Reinigung, Gäste-Check-in und die Bestückung mit regionalen Produkten übernimmt.\n\n**WARUM HIER:** Der Vogelsberg-Tourismus wächst stetig, doch vielen privaten Vermietern in Lauterbach fehlt vor Ort die Zeit oder verlässliches Personal für das operative Tagesgeschäft.\n\n**ERSTER SCHRITT:** Kontaktiere gezielt 15 lokale FeWo-Anbieter auf Airbnb oder Booking.com in und um Lauterbach, um den konkreten Bedarf für ein Test-Abo abzufragen.",
-          "ts": "2026-09-26 18:03",
+          "text": "**WAS:** \nDie „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Grundnahrungsmitteln wie Vogelsberger Kartoffeln, Lauterbacher Landeiern, knackigem Saison-Gemüse und wechselnden Wurst- oder Käsespezialitäten direkt vom Erzeuger.\n\n**fuer WEN:** \nFür berufstätige Familien und Pendler aus Lauterbach und den umliegenden Dörfern, die regionale Qualität schätzen, aber unter der Woche keine Zeit für Klappermühlen-Fahrten von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** \nDrei lokale Erzeuger aus der Nachbarschaft an einen Tisch holen, um ein einfaches Basissortiment abzustimmen und mit 20 Test-Haushalten in die erste vierwöchige Testphase zu starten.",
+          "ts": "2026-09-26 21:08",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-lauterbach",
+          "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Dorf-Einkaufs- und Begleitdienst, der frische Lebensmittel aus dem Hauptort direkt an die Haustür bringt und Zeit für einen persönlichen Plausch mitbringt.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen rund um Lauterbach fehlen oft fußläufige Einkaufsmöglichkeiten, was das selbstbestimmte Leben im eigenen Zuhause ohne eigenes Auto erschwert.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit dem lokalen Seniorenbeirat werden verlässliche Nachbarschaftspaten aus den einzelnen Dörfern für die ersten festen Wochenrouten gewonnen.",
+          "ts": "2026-09-26 21:08",
           "age_min": 0
         }
       ]
