@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-26T21:08Z",
+  "updated": "2026-09-26T23:37Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Bei der geführten Erlebnis-Tour „Auf den Spuren des Lauterbacher Strolchs“ überqueren Sie die berühmten Schrittsteine in der Lauter, genießen ein Vulkan-Picknick im Park und verkosten regionale Bierspezialitäten. **für WEN:** Perfekt für Paare, Genuss-Wanderer und kleine Gruppen, die lokale Geschichte, Natur und kulinarischen Genuss entspannt mitein",
+        "text": "**WAS** Ein mobiler E-Bike-Pannendienst und Gepäck-Shuttleservice für Aktivtouristen entlang des Vulkanradwegs und rund um Schotten. **WARUM HIER** Schotten ist das zentrale touristische Drehkreuz im Vogelsberg (Hoherodskopf, Niddastausee), lässt aber das Monetarisieren spontaner Service-Bedarfe der vielen Rad- und Wandergäste bisher weitgehend ungenutzt. **",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Dorf-Einkaufs- und Begleitdienst, der frische Lebensmittel aus dem Hauptort direkt an die Haustür bringt und Zeit für einen persönlichen Plausch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen rund um Lauterbach fehlen oft fußläufige Einkaufsmöglichkeiten, was das selbstbestimmte Leben im eigenen Zuhause ohne eigenes Auto e",
+        "text": "**WAS:** Ein mobiler Dorfbegleitdienst, der Seniorinnen und Senioren aus den umliegenden Ortsteilen für Einkäufe, Arzttermine und soziale Kontakte barrierefrei ins Alsfelder Zentrum und wieder sicher nach Hause bringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Alsfeld fehlen oft Dorfläden und eine dichte Busanbindung, wodurch die selbstbestimmt",
         "age_min": 0
       }
     },
@@ -183,81 +183,81 @@
       "name": "Direktvermarktung — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Grundnahrungsmitteln wie Vogelsberger Kartoffeln, Lauterbacher Landeiern, knackigem Saison-Gemüse und wechselnden Wurst- oder K",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-lauterbach",
       "name": "Vulkanregion-Tourismus — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der geführten Erlebnis-Tour „Auf den Spuren des Lauterbacher Strolchs“ überqueren Sie die berühmten Schrittsteine in der Lauter, genießen ein Vulkan-Picknick im Park und verkosten regionale Bierspezialitäten",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-lauterbach",
       "name": "Senioren-Alltagsdienste — Lauterbach",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Dorf-Einkaufs- und Begleitdienst, der frische Lebensmittel aus dem Hauptort direkt an die Haustür bringt und Zeit für einen persönlichen Plausch mitbringt. **WARUM HIER:** In den weit verstreuten Ort",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-alsfeld",
       "name": "Chancen-Scout — Alsfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Schonreinigungs-Service (Trockeneis- und Niederdruckverfahren) speziell für die sanfte Holz- und Fassadenerneuerung von Altbauten. **WARUM HIER:** Alsfeld besitzt eine weltbekannte, denkmalgeschützte",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-alsfeld",
       "name": "Handwerk-Sichtbarkeit — Alsfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** **Heizungs- und Sanitärbetriebe (SHK)** in Alsfeld (besonders wichtig bei Themen wie Heizungstausch, Wärmepumpen und Badsanierungen im Altbau/Fachwerk). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], w",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-alsfeld",
       "name": "Direktvermarktung — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Tüte“ im Abo mit frischem Saison-Gemüse, heimischen Spezialitäten wie Ahler Wurscht und einem einfachen Rezeptkarte-Vorschlag, flexibel abzuholen an einem festen Standp",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-alsfeld",
       "name": "Vulkanregion-Tourismus — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erleben Sie beim Paket „Märchenhaftes Fachwerk & Vulkan-Vesper“ eine abendliche Erlebnisführung durch Alsfelds historische Altstadt inklusive exklusivem Besuch im Märchenhaus und anschließender regionaler Spezia",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-alsfeld",
       "name": "Senioren-Alltagsdienste — Alsfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Dorfbegleitdienst, der Seniorinnen und Senioren aus den umliegenden Ortsteilen für Einkäufe, Arzttermine und soziale Kontakte barrierefrei ins Alsfelder Zentrum und wieder sicher nach Hause bringt. *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-schotten",
       "name": "Chancen-Scout — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein mobiler E-Bike-Pannendienst und Gepäck-Shuttleservice für Aktivtouristen entlang des Vulkanradwegs und rund um Schotten. **WARUM HIER** Schotten ist das zentrale touristische Drehkreuz im Vogelsberg (Hoherods",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-schotten",
@@ -1503,32 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 14,
+    "used": 20,
     "cap": 600
   },
   "recent": [
     {
+      "dept": "Chancen",
+      "agent": "chancen-schotten",
+      "via": "gemini",
+      "text": "**WAS** Ein mobiler E-Bike-Pannendienst und Gepäck-Shuttleservice für Aktivtouristen entlang des Vulkanradwegs und rund um Schotten. **WARUM HIER** Schotten ist das zentrale touristische Drehkreuz im Vogelsberg (Hoherodskopf, Niddastausee), lässt aber das Monetarisieren spontaner Service-Bedarfe der vielen Rad- und Wandergäste bisher weitgehend ungenutzt. **",
+      "ts": "2026-09-26 23:37",
+      "age_min": 0
+    },
+    {
       "dept": "Kunden",
-      "agent": "senioren-lauterbach",
+      "agent": "senioren-alsfeld",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorf-Einkaufs- und Begleitdienst, der frische Lebensmittel aus dem Hauptort direkt an die Haustür bringt und Zeit für einen persönlichen Plausch mitbringt. **WARUM HIER:** In den weit verstreuten Ortsteilen rund um Lauterbach fehlen oft fußläufige Einkaufsmöglichkeiten, was das selbstbestimmte Leben im eigenen Zuhause ohne eigenes Auto e",
-      "ts": "2026-09-26 21:08",
+      "text": "**WAS:** Ein mobiler Dorfbegleitdienst, der Seniorinnen und Senioren aus den umliegenden Ortsteilen für Einkäufe, Arzttermine und soziale Kontakte barrierefrei ins Alsfelder Zentrum und wieder sicher nach Hause bringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Alsfeld fehlen oft Dorfläden und eine dichte Busanbindung, wodurch die selbstbestimmt",
+      "ts": "2026-09-26 23:37",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-lauterbach",
+      "agent": "tourismus-alsfeld",
       "via": "gemini",
-      "text": "**WAS:** Bei der geführten Erlebnis-Tour „Auf den Spuren des Lauterbacher Strolchs“ überqueren Sie die berühmten Schrittsteine in der Lauter, genießen ein Vulkan-Picknick im Park und verkosten regionale Bierspezialitäten. **für WEN:** Perfekt für Paare, Genuss-Wanderer und kleine Gruppen, die lokale Geschichte, Natur und kulinarischen Genuss entspannt mitein",
-      "ts": "2026-09-26 21:08",
+      "text": "**WAS:** Erleben Sie beim Paket „Märchenhaftes Fachwerk & Vulkan-Vesper“ eine abendliche Erlebnisführung durch Alsfelds historische Altstadt inklusive exklusivem Besuch im Märchenhaus und anschließender regionaler Spezialitäten-Verkostung im Gewölbekeller. **für WEN:** Perfekt geeignet für Paare, Kulturgenießer und Kurzurlauber, die Geschichte, märchenhaften",
+      "ts": "2026-09-26 23:37",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-lauterbach",
+      "agent": "direkt-alsfeld",
       "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Grundnahrungsmitteln wie Vogelsberger Kartoffeln, Lauterbacher Landeiern, knackigem Saison-Gemüse und wechselnden Wurst- oder Käsespezialitäten direkt vom Erzeuger. **fuer WEN:** Für berufstätige Familien und Pendler aus Lauterbach und den umliegenden Dörfern, die re",
-      "ts": "2026-09-26 21:08",
+      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Tüte“ im Abo mit frischem Saison-Gemüse, heimischen Spezialitäten wie Ahler Wurscht und einem einfachen Rezeptkarte-Vorschlag, flexibel abzuholen an einem festen Standplatz nahe dem Alsfelder Bahnhof. **für WEN:** Für berufstätige Pendler und beschäftigte Familien aus Alsfeld und den umliegenden Dörfern, di",
+      "ts": "2026-09-26 23:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-alsfeld",
+      "via": "gemini",
+      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetriebe (SHK)** in Alsfeld (besonders wichtig bei Themen wie Heizungstausch, Wärmepumpen und Badsanierungen im Altbau/Fachwerk). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer in Alsfeld online nach einer neuen Heizung oder Badsanierung suchen, finden sie aktuell zuerst Ihre Mitbewerber – wollen wi",
+      "ts": "2026-09-26 23:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-alsfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Schonreinigungs-Service (Trockeneis- und Niederdruckverfahren) speziell für die sanfte Holz- und Fassadenerneuerung von Altbauten. **WARUM HIER:** Alsfeld besitzt eine weltbekannte, denkmalgeschützte Fachwerk-Altstadt mit enormem, laufendem Sanierungsbedarf, bei der aggressive Reinigungsmethoden verboten sind und spezialisierte Dienstlei",
+      "ts": "2026-09-26 23:36",
       "age_min": 0
     }
   ]
