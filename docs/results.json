@@ -1,90 +1,48 @@
 {
-  "updated": "2026-09-27 01:48 UTC",
-  "total_results": 4,
-  "total_depts": 2,
+  "updated": "2026-09-27 07:30 UTC",
+  "total_results": 2,
+  "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-schotten",
-      "title": "Senioren-Alltagsdienste — Schotten  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "handwerk-herbstein",
+      "title": "Handwerk-Sichtbarkeit — Herbstein  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Nachbarschafts- und Begleitdienst bringt Seniorinnen und Senioren aus den umliegenden Dörfern verlässlich für Besorgungen, Arztbesuche oder ein Kaffeetrinken ins Schottener Zentrum und wieder nach Hause.\n\n**WARUM HIER:** \nDa die 15 Ortsteile von Schotten weit im Hügelland des Vogelsbergs verstreut liegen und der öffentliche Nahverkehr spärlich ist, bewahrt dieser persönliche Fahrdienst die Selbstständigkeit und schützt vor Einsamkeit.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung und den Ortsbeiräten wird eine zentrale Telefonnummer für die einfache Buchung eingerichtet und ein fester Kreis ehrenamtlicher Alltagsbegleiter aus den Dörfern gewonnen.",
-      "ts": "2026-09-27 01:48",
+      "text": "**Betriebstyp:** \nEin örtlicher **Sanitär- und Heizungsbau-Betrieb (SHK)** in Herbstein.\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Hausbesitzer aus Herbstein und Umgebung online nach einer neuen Heizung oder Badrenovierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb landen – und nicht bei der Konkurrenz aus Lauterbach oder Alsfeld.“",
+      "ts": "2026-09-27 07:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-schotten",
-      "title": "Vulkanregion-Tourismus — Schotten  ·  Chancen",
+      "agent": "chancen-herbstein",
+      "title": "Chancen-Scout — Herbstein  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Genieße eine geführte E-Mountainbike-Abendtour von Schotten hinauf zum Hoherodskopf inklusive eines regionalen Vulkan-Picknicks bei Sonnenuntergang.\n\n**fuer WEN:** Das Erlebnis richtet sich an genussorientierte Aktivurlauber und Paare, die die Natur des Vogelsbergs entspannt und ohne große Anstrengung auf zwei Rädern entdecken wollen.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunschtermin aus und sichere dir dein Miet-E-Bike mit nur wenigen Klicks.",
-      "ts": "2026-09-27 01:48",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-schotten",
-      "title": "Direktvermarktung — Schotten  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nEine wöchentliche Abo-Box vollgepackt mit bodenständigen Vogelsberger Hofprodukten – von Hausmacher Wurst und Käse bis zu frischem Brot und Saison-Gemüse –, die flexibel an einer gekühlten 24/7-Abholstation in Schotten bereitsteht.\n\n**fuer WEN:** \nFür berufstätige Familien und Pendler aus Schotten und Umgebung, die ehrlich erzeugte Lebensmittel aus der Heimat schätzen, aber es selten zu den regulären Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger aus dem Schottener Raum an einen Tisch holen, ein festes Basissortiment schnüren und 15 Test-Haushalte für einen vierwöchigen Probelauf gewinnen.",
-      "ts": "2026-09-27 01:48",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-schotten",
-      "title": "Handwerk-Sichtbarkeit — Schotten  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb (SHK)** in Schotten, der online bisher kaum zu finden ist oder wenige Google-Bewertungen hat.\n\n**Ansprache-Idee:** \n„Wenn Hausbesitzer hier im Vogelsberg nach einer neuen Wärmepumpe oder einem Notdienst suchen, greifen sie zum Smartphone – sorgen wir dafür, dass die lukrativen Aufträge direkt aus Schotten bei Ihnen landen und nicht bei der Konkurrenz aus Giessen oder Nidda.“",
-      "ts": "2026-09-27 01:48",
+      "text": "**WAS:** Ein mobiler Vorbestell- und Lieferservice für regional gefüllte Picknick- und Brotzeitkisten direkt an die Wanderparkplätze, Radwege und die VulkanTherme rund um Herbstein.\n\n**WARUM HIER:** Herbstein profitiert als Heilbad stark vom Outdoor- und Gesundheitstourismus (Vulkanradweg, Wanderwege), bietet aber kaum flexible, regionale Verpflegungsangebote abseits fester Gastronomie-Öffnungszeiten.\n\n**ERSTER SCHRITT:** Kooperationen mit zwei lokalen Direktvermarktern für Wurst, Käse und Brot schließen und eine einfache Website für Wochenend-Vorbestellungen testen.",
+      "ts": "2026-09-27 07:29",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 3,
+      "count": 2,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-schotten",
-          "title": "Vulkanregion-Tourismus — Schotten  ·  Chancen",
+          "agent": "handwerk-herbstein",
+          "title": "Handwerk-Sichtbarkeit — Herbstein  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Genieße eine geführte E-Mountainbike-Abendtour von Schotten hinauf zum Hoherodskopf inklusive eines regionalen Vulkan-Picknicks bei Sonnenuntergang.\n\n**fuer WEN:** Das Erlebnis richtet sich an genussorientierte Aktivurlauber und Paare, die die Natur des Vogelsbergs entspannt und ohne große Anstrengung auf zwei Rädern entdecken wollen.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunschtermin aus und sichere dir dein Miet-E-Bike mit nur wenigen Klicks.",
-          "ts": "2026-09-27 01:48",
+          "text": "**Betriebstyp:** \nEin örtlicher **Sanitär- und Heizungsbau-Betrieb (SHK)** in Herbstein.\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Hausbesitzer aus Herbstein und Umgebung online nach einer neuen Heizung oder Badrenovierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb landen – und nicht bei der Konkurrenz aus Lauterbach oder Alsfeld.“",
+          "ts": "2026-09-27 07:29",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-schotten",
-          "title": "Direktvermarktung — Schotten  ·  Chancen",
+          "agent": "chancen-herbstein",
+          "title": "Chancen-Scout — Herbstein  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEine wöchentliche Abo-Box vollgepackt mit bodenständigen Vogelsberger Hofprodukten – von Hausmacher Wurst und Käse bis zu frischem Brot und Saison-Gemüse –, die flexibel an einer gekühlten 24/7-Abholstation in Schotten bereitsteht.\n\n**fuer WEN:** \nFür berufstätige Familien und Pendler aus Schotten und Umgebung, die ehrlich erzeugte Lebensmittel aus der Heimat schätzen, aber es selten zu den regulären Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger aus dem Schottener Raum an einen Tisch holen, ein festes Basissortiment schnüren und 15 Test-Haushalte für einen vierwöchigen Probelauf gewinnen.",
-          "ts": "2026-09-27 01:48",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-schotten",
-          "title": "Handwerk-Sichtbarkeit — Schotten  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb (SHK)** in Schotten, der online bisher kaum zu finden ist oder wenige Google-Bewertungen hat.\n\n**Ansprache-Idee:** \n„Wenn Hausbesitzer hier im Vogelsberg nach einer neuen Wärmepumpe oder einem Notdienst suchen, greifen sie zum Smartphone – sorgen wir dafür, dass die lukrativen Aufträge direkt aus Schotten bei Ihnen landen und nicht bei der Konkurrenz aus Giessen oder Nidda.“",
-          "ts": "2026-09-27 01:48",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-schotten",
-          "title": "Senioren-Alltagsdienste — Schotten  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Nachbarschafts- und Begleitdienst bringt Seniorinnen und Senioren aus den umliegenden Dörfern verlässlich für Besorgungen, Arztbesuche oder ein Kaffeetrinken ins Schottener Zentrum und wieder nach Hause.\n\n**WARUM HIER:** \nDa die 15 Ortsteile von Schotten weit im Hügelland des Vogelsbergs verstreut liegen und der öffentliche Nahverkehr spärlich ist, bewahrt dieser persönliche Fahrdienst die Selbstständigkeit und schützt vor Einsamkeit.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung und den Ortsbeiräten wird eine zentrale Telefonnummer für die einfache Buchung eingerichtet und ein fester Kreis ehrenamtlicher Alltagsbegleiter aus den Dörfern gewonnen.",
-          "ts": "2026-09-27 01:48",
+          "text": "**WAS:** Ein mobiler Vorbestell- und Lieferservice für regional gefüllte Picknick- und Brotzeitkisten direkt an die Wanderparkplätze, Radwege und die VulkanTherme rund um Herbstein.\n\n**WARUM HIER:** Herbstein profitiert als Heilbad stark vom Outdoor- und Gesundheitstourismus (Vulkanradweg, Wanderwege), bietet aber kaum flexible, regionale Verpflegungsangebote abseits fester Gastronomie-Öffnungszeiten.\n\n**ERSTER SCHRITT:** Kooperationen mit zwei lokalen Direktvermarktern für Wurst, Käse und Brot schließen und eine einfache Website für Wochenend-Vorbestellungen testen.",
+          "ts": "2026-09-27 07:29",
           "age_min": 0
         }
       ]
