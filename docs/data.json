@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-27T07:30Z",
+  "updated": "2026-09-27T13:14Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbau-Betrieb (SHK)** in Herbstein. **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus Herbstein und Umgebung online nach einer neuen Heizung oder Badrenovierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb landen – und nicht bei der Konkurrenz aus Lauterbach oder Alsfeld.“",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -296,18 +292,18 @@
       "name": "Chancen-Scout — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Vorbestell- und Lieferservice für regional gefüllte Picknick- und Brotzeitkisten direkt an die Wanderparkplätze, Radwege und die VulkanTherme rund um Herbstein. **WARUM HIER:** Herbstein profitiert a",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-herbstein",
       "name": "Handwerk-Sichtbarkeit — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbau-Betrieb (SHK)** in Herbstein. **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus Herbstein und Umgebung online nach einer neuen Heizung oder Badrenovierung ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-herbstein",
@@ -1502,22 +1498,5 @@
     "used": 6,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-herbstein",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbau-Betrieb (SHK)** in Herbstein. **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus Herbstein und Umgebung online nach einer neuen Heizung oder Badrenovierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb landen – und nicht bei der Konkurrenz aus Lauterbach oder Alsfeld.“",
-      "ts": "2026-09-27 07:29",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-herbstein",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Vorbestell- und Lieferservice für regional gefüllte Picknick- und Brotzeitkisten direkt an die Wanderparkplätze, Radwege und die VulkanTherme rund um Herbstein. **WARUM HIER:** Herbstein profitiert als Heilbad stark vom Outdoor- und Gesundheitstourismus (Vulkanradweg, Wanderwege), bietet aber kaum flexible, regionale Verpflegungsangebote",
-      "ts": "2026-09-27 07:29",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }

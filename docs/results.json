@@ -1,51 +1,7 @@
 {
-  "updated": "2026-09-27 07:30 UTC",
-  "total_results": 2,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-herbstein",
-      "title": "Handwerk-Sichtbarkeit — Herbstein  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** \nEin örtlicher **Sanitär- und Heizungsbau-Betrieb (SHK)** in Herbstein.\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Hausbesitzer aus Herbstein und Umgebung online nach einer neuen Heizung oder Badrenovierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb landen – und nicht bei der Konkurrenz aus Lauterbach oder Alsfeld.“",
-      "ts": "2026-09-27 07:29",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-herbstein",
-      "title": "Chancen-Scout — Herbstein  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Vorbestell- und Lieferservice für regional gefüllte Picknick- und Brotzeitkisten direkt an die Wanderparkplätze, Radwege und die VulkanTherme rund um Herbstein.\n\n**WARUM HIER:** Herbstein profitiert als Heilbad stark vom Outdoor- und Gesundheitstourismus (Vulkanradweg, Wanderwege), bietet aber kaum flexible, regionale Verpflegungsangebote abseits fester Gastronomie-Öffnungszeiten.\n\n**ERSTER SCHRITT:** Kooperationen mit zwei lokalen Direktvermarktern für Wurst, Käse und Brot schließen und eine einfache Website für Wochenend-Vorbestellungen testen.",
-      "ts": "2026-09-27 07:29",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 2,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-herbstein",
-          "title": "Handwerk-Sichtbarkeit — Herbstein  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** \nEin örtlicher **Sanitär- und Heizungsbau-Betrieb (SHK)** in Herbstein.\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Hausbesitzer aus Herbstein und Umgebung online nach einer neuen Heizung oder Badrenovierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb landen – und nicht bei der Konkurrenz aus Lauterbach oder Alsfeld.“",
-          "ts": "2026-09-27 07:29",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-herbstein",
-          "title": "Chancen-Scout — Herbstein  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler Vorbestell- und Lieferservice für regional gefüllte Picknick- und Brotzeitkisten direkt an die Wanderparkplätze, Radwege und die VulkanTherme rund um Herbstein.\n\n**WARUM HIER:** Herbstein profitiert als Heilbad stark vom Outdoor- und Gesundheitstourismus (Vulkanradweg, Wanderwege), bietet aber kaum flexible, regionale Verpflegungsangebote abseits fester Gastronomie-Öffnungszeiten.\n\n**ERSTER SCHRITT:** Kooperationen mit zwei lokalen Direktvermarktern für Wurst, Käse und Brot schließen und eine einfache Website für Wochenend-Vorbestellungen testen.",
-          "ts": "2026-09-27 07:29",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-09-27 13:14 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }
