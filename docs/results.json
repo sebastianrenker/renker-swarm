@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-27 17:47 UTC",
+  "updated": "2026-09-27 20:44 UTC",
   "total_results": 1,
   "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "biz-offerta",
-      "title": "Business — Offerta  ·  Chancen",
+      "agent": "biz-handwerk",
+      "title": "Business — Handwerk-Sichtbar  ·  Chancen",
       "via": "gemini",
-      "text": "**SCHRITT**\nEinen dezenten Footer-Hinweis („Erstellt mit Offerta – Kostenlos Angebote schreiben“) in alle PDF-Export-Dateien der Free-Nutzer einbauen, der auf unsere Landingpage verlinkt.\n\n**WARUM JETZT**\nDas ist der hebelstärkste virale Loop für ein Freemium-Tool. Jedes Angebot, das unsere Free-User an ihre Kunden schicken, geht direkt an B2B-Empfänger (andere Selbstständige, Handwerker, Agenturen). Wir verwandeln damit jedes erstellte Angebot in eine kostenlose Werbefläche für den nächsten potenziellen Nutzer – und schaffen gleichzeitig den ersten echten Anreiz für das Pro-Upgrade („Branding entfernen“).\n\n**WIE IN 1 TAG MACHBAR**\n1. **Vormittag (2 Std.):** Den PDF-Generator anpassen. Ganz unten auf der Seite eine Zeile einfügen: *„Erstellt mit Offerta.de“* (mit klickbarem Link).\n2. **Nachmittag (3 Std.):** In den Einstellungen der App eine Checkbox einbauen: *„Offerta-Branding auf PDFs entfernen“*. Wenn ein Free-User das Häkchen entfernt, ploppt eine simple Paywall-Modal auf („Feature ab Pro-Paket verfügbar“).\n3. **Abend (1 Std.):** Kurzer Test (PDF-Rendering, Link-Tracking via UTM-Parameter) und direkt deployen.",
-      "ts": "2026-09-27 17:47",
+      "text": "Hallo Herr [Nachname], ich bin [Dein Name] von „Handwerk-Sichtbar“ direkt hier aus dem Vogelsberg. \n\nMir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach online kaum zu finden ist – obwohl Sie auf den Dächern der Region eine Top-Arbeit machen. Ich nehme Ihnen dieses Thema komplett ab und stelle Ihren Betrieb digital sauber auf: mit einer einfachen Website, einem gepflegten Google-Profil und klaren Angebots-Paketen. Sie sparen sich den Büro-Frust und werden von Kunden aus dem Umkreis endlich direkt gefunden. Passt es Ihnen nächste Woche auf einen kurzen, 10-minütigen Kaffee bei Ihnen im Betrieb oder für ein schnelles Telefonat?",
+      "ts": "2026-09-27 20:44",
       "age_min": 0
     }
   ],
@@ -20,11 +20,11 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "biz-offerta",
-          "title": "Business — Offerta  ·  Chancen",
+          "agent": "biz-handwerk",
+          "title": "Business — Handwerk-Sichtbar  ·  Chancen",
           "via": "gemini",
-          "text": "**SCHRITT**\nEinen dezenten Footer-Hinweis („Erstellt mit Offerta – Kostenlos Angebote schreiben“) in alle PDF-Export-Dateien der Free-Nutzer einbauen, der auf unsere Landingpage verlinkt.\n\n**WARUM JETZT**\nDas ist der hebelstärkste virale Loop für ein Freemium-Tool. Jedes Angebot, das unsere Free-User an ihre Kunden schicken, geht direkt an B2B-Empfänger (andere Selbstständige, Handwerker, Agenturen). Wir verwandeln damit jedes erstellte Angebot in eine kostenlose Werbefläche für den nächsten potenziellen Nutzer – und schaffen gleichzeitig den ersten echten Anreiz für das Pro-Upgrade („Branding entfernen“).\n\n**WIE IN 1 TAG MACHBAR**\n1. **Vormittag (2 Std.):** Den PDF-Generator anpassen. Ganz unten auf der Seite eine Zeile einfügen: *„Erstellt mit Offerta.de“* (mit klickbarem Link).\n2. **Nachmittag (3 Std.):** In den Einstellungen der App eine Checkbox einbauen: *„Offerta-Branding auf PDFs entfernen“*. Wenn ein Free-User das Häkchen entfernt, ploppt eine simple Paywall-Modal auf („Feature ab Pro-Paket verfügbar“).\n3. **Abend (1 Std.):** Kurzer Test (PDF-Rendering, Link-Tracking via UTM-Parameter) und direkt deployen.",
-          "ts": "2026-09-27 17:47",
+          "text": "Hallo Herr [Nachname], ich bin [Dein Name] von „Handwerk-Sichtbar“ direkt hier aus dem Vogelsberg. \n\nMir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach online kaum zu finden ist – obwohl Sie auf den Dächern der Region eine Top-Arbeit machen. Ich nehme Ihnen dieses Thema komplett ab und stelle Ihren Betrieb digital sauber auf: mit einer einfachen Website, einem gepflegten Google-Profil und klaren Angebots-Paketen. Sie sparen sich den Büro-Frust und werden von Kunden aus dem Umkreis endlich direkt gefunden. Passt es Ihnen nächste Woche auf einen kurzen, 10-minütigen Kaffee bei Ihnen im Betrieb oder für ein schnelles Telefonat?",
+          "ts": "2026-09-27 20:44",
           "age_min": 0
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T17:47Z",
+  "updated": "2026-09-27T20:44Z",
   "agents_total": 162,
   "worked": 1,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**SCHRITT** Einen dezenten Footer-Hinweis („Erstellt mit Offerta – Kostenlos Angebote schreiben“) in alle PDF-Export-Dateien der Free-Nutzer einbauen, der auf unsere Landingpage verlinkt. **WARUM JETZT** Das ist der hebelstärkste virale Loop für ein Freemium-Tool. Jedes Angebot, das unsere Free-User an ihre Kunden schicken, geht direkt an B2B-Empfänger (ande",
+        "text": "Hallo Herr [Nachname], ich bin [Dein Name] von „Handwerk-Sichtbar“ direkt hier aus dem Vogelsberg. Mir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach online kaum zu finden ist – obwohl Sie auf den Dächern der Region eine Top-Arbeit machen. Ich nehme Ihnen dieses Thema komplett ab und stelle Ihren Betrieb digital sauber auf: mit einer einfachen Website",
         "age_min": 0
       }
     },
@@ -116,18 +116,18 @@
       "name": "Business — Offerta",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**SCHRITT** Einen dezenten Footer-Hinweis („Erstellt mit Offerta – Kostenlos Angebote schreiben“) in alle PDF-Export-Dateien der Free-Nutzer einbauen, der auf unsere Landingpage verlinkt. **WARUM JETZT** Das ist der hebe",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-handwerk",
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hallo Herr [Nachname], ich bin [Dein Name] von „Handwerk-Sichtbar“ direkt hier aus dem Vogelsberg. Mir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach online kaum zu finden ist – obwohl Sie auf den Dächern der Regi",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-vogelsbergbox",
@@ -1499,16 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 7,
+    "used": 8,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "biz-offerta",
+      "agent": "biz-handwerk",
       "via": "gemini",
-      "text": "**SCHRITT** Einen dezenten Footer-Hinweis („Erstellt mit Offerta – Kostenlos Angebote schreiben“) in alle PDF-Export-Dateien der Free-Nutzer einbauen, der auf unsere Landingpage verlinkt. **WARUM JETZT** Das ist der hebelstärkste virale Loop für ein Freemium-Tool. Jedes Angebot, das unsere Free-User an ihre Kunden schicken, geht direkt an B2B-Empfänger (ande",
-      "ts": "2026-09-27 17:47",
+      "text": "Hallo Herr [Nachname], ich bin [Dein Name] von „Handwerk-Sichtbar“ direkt hier aus dem Vogelsberg. Mir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach online kaum zu finden ist – obwohl Sie auf den Dächern der Region eine Top-Arbeit machen. Ich nehme Ihnen dieses Thema komplett ab und stelle Ihren Betrieb digital sauber auf: mit einer einfachen Website",
+      "ts": "2026-09-27 20:44",
       "age_min": 0
     }
   ]
