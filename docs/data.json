@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-26T23:37Z",
+  "updated": "2026-09-27T01:48Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS** Ein mobiler E-Bike-Pannendienst und Gepäck-Shuttleservice für Aktivtouristen entlang des Vulkanradwegs und rund um Schotten. **WARUM HIER** Schotten ist das zentrale touristische Drehkreuz im Vogelsberg (Hoherodskopf, Niddastausee), lässt aber das Monetarisieren spontaner Service-Bedarfe der vielen Rad- und Wandergäste bisher weitgehend ungenutzt. **",
+        "text": "**WAS:** Genieße eine geführte E-Mountainbike-Abendtour von Schotten hinauf zum Hoherodskopf inklusive eines regionalen Vulkan-Picknicks bei Sonnenuntergang. **fuer WEN:** Das Erlebnis richtet sich an genussorientierte Aktivurlauber und Paare, die die Natur des Vogelsbergs entspannt und ohne große Anstrengung auf zwei Rädern entdecken wollen. **ERSTER SCHRIT",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Dorfbegleitdienst, der Seniorinnen und Senioren aus den umliegenden Ortsteilen für Einkäufe, Arzttermine und soziale Kontakte barrierefrei ins Alsfelder Zentrum und wieder sicher nach Hause bringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Alsfeld fehlen oft Dorfläden und eine dichte Busanbindung, wodurch die selbstbestimmt",
+        "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst bringt Seniorinnen und Senioren aus den umliegenden Dörfern verlässlich für Besorgungen, Arztbesuche oder ein Kaffeetrinken ins Schottener Zentrum und wieder nach Hause. **WARUM HIER:** Da die 15 Ortsteile von Schotten weit im Hügelland des Vogelsbergs verstreut liegen und der öffentliche Nahverkehr spär",
         "age_min": 0
       }
     },
@@ -210,90 +210,90 @@
       "name": "Chancen-Scout — Alsfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Schonreinigungs-Service (Trockeneis- und Niederdruckverfahren) speziell für die sanfte Holz- und Fassadenerneuerung von Altbauten. **WARUM HIER:** Alsfeld besitzt eine weltbekannte, denkmalgeschützte",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-alsfeld",
       "name": "Handwerk-Sichtbarkeit — Alsfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** **Heizungs- und Sanitärbetriebe (SHK)** in Alsfeld (besonders wichtig bei Themen wie Heizungstausch, Wärmepumpen und Badsanierungen im Altbau/Fachwerk). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], w",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-alsfeld",
       "name": "Direktvermarktung — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Tüte“ im Abo mit frischem Saison-Gemüse, heimischen Spezialitäten wie Ahler Wurscht und einem einfachen Rezeptkarte-Vorschlag, flexibel abzuholen an einem festen Standp",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-alsfeld",
       "name": "Vulkanregion-Tourismus — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erleben Sie beim Paket „Märchenhaftes Fachwerk & Vulkan-Vesper“ eine abendliche Erlebnisführung durch Alsfelds historische Altstadt inklusive exklusivem Besuch im Märchenhaus und anschließender regionaler Spezia",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-alsfeld",
       "name": "Senioren-Alltagsdienste — Alsfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Dorfbegleitdienst, der Seniorinnen und Senioren aus den umliegenden Ortsteilen für Einkäufe, Arzttermine und soziale Kontakte barrierefrei ins Alsfelder Zentrum und wieder sicher nach Hause bringt. *",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-schotten",
       "name": "Chancen-Scout — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein mobiler E-Bike-Pannendienst und Gepäck-Shuttleservice für Aktivtouristen entlang des Vulkanradwegs und rund um Schotten. **WARUM HIER** Schotten ist das zentrale touristische Drehkreuz im Vogelsberg (Hoherods",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-schotten",
       "name": "Handwerk-Sichtbarkeit — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb (SHK)** in Schotten, der online bisher kaum zu finden ist oder wenige Google-Bewertungen hat. **Ansprache-Idee:** „Wenn Hausbesitzer hier im Vogelsberg nach ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-schotten",
       "name": "Direktvermarktung — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche Abo-Box vollgepackt mit bodenständigen Vogelsberger Hofprodukten – von Hausmacher Wurst und Käse bis zu frischem Brot und Saison-Gemüse –, die flexibel an einer gekühlten 24/7-Abholstation in S",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-schotten",
       "name": "Vulkanregion-Tourismus — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Genieße eine geführte E-Mountainbike-Abendtour von Schotten hinauf zum Hoherodskopf inklusive eines regionalen Vulkan-Picknicks bei Sonnenuntergang. **fuer WEN:** Das Erlebnis richtet sich an genussorientierte A",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-schotten",
       "name": "Senioren-Alltagsdienste — Schotten",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst bringt Seniorinnen und Senioren aus den umliegenden Dörfern verlässlich für Besorgungen, Arztbesuche oder ein Kaffeetrinken ins Schottener Zentrum und wieder nach Ha",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-herbstein",
@@ -1503,56 +1503,40 @@
     }
   ],
   "budget": {
-    "used": 20,
+    "used": 4,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "chancen-schotten",
-      "via": "gemini",
-      "text": "**WAS** Ein mobiler E-Bike-Pannendienst und Gepäck-Shuttleservice für Aktivtouristen entlang des Vulkanradwegs und rund um Schotten. **WARUM HIER** Schotten ist das zentrale touristische Drehkreuz im Vogelsberg (Hoherodskopf, Niddastausee), lässt aber das Monetarisieren spontaner Service-Bedarfe der vielen Rad- und Wandergäste bisher weitgehend ungenutzt. **",
-      "ts": "2026-09-26 23:37",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-alsfeld",
+      "agent": "senioren-schotten",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorfbegleitdienst, der Seniorinnen und Senioren aus den umliegenden Ortsteilen für Einkäufe, Arzttermine und soziale Kontakte barrierefrei ins Alsfelder Zentrum und wieder sicher nach Hause bringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Alsfeld fehlen oft Dorfläden und eine dichte Busanbindung, wodurch die selbstbestimmt",
-      "ts": "2026-09-26 23:37",
+      "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst bringt Seniorinnen und Senioren aus den umliegenden Dörfern verlässlich für Besorgungen, Arztbesuche oder ein Kaffeetrinken ins Schottener Zentrum und wieder nach Hause. **WARUM HIER:** Da die 15 Ortsteile von Schotten weit im Hügelland des Vogelsbergs verstreut liegen und der öffentliche Nahverkehr spär",
+      "ts": "2026-09-27 01:48",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-alsfeld",
+      "agent": "tourismus-schotten",
       "via": "gemini",
-      "text": "**WAS:** Erleben Sie beim Paket „Märchenhaftes Fachwerk & Vulkan-Vesper“ eine abendliche Erlebnisführung durch Alsfelds historische Altstadt inklusive exklusivem Besuch im Märchenhaus und anschließender regionaler Spezialitäten-Verkostung im Gewölbekeller. **für WEN:** Perfekt geeignet für Paare, Kulturgenießer und Kurzurlauber, die Geschichte, märchenhaften",
-      "ts": "2026-09-26 23:37",
+      "text": "**WAS:** Genieße eine geführte E-Mountainbike-Abendtour von Schotten hinauf zum Hoherodskopf inklusive eines regionalen Vulkan-Picknicks bei Sonnenuntergang. **fuer WEN:** Das Erlebnis richtet sich an genussorientierte Aktivurlauber und Paare, die die Natur des Vogelsbergs entspannt und ohne große Anstrengung auf zwei Rädern entdecken wollen. **ERSTER SCHRIT",
+      "ts": "2026-09-27 01:48",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-alsfeld",
+      "agent": "direkt-schotten",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Tüte“ im Abo mit frischem Saison-Gemüse, heimischen Spezialitäten wie Ahler Wurscht und einem einfachen Rezeptkarte-Vorschlag, flexibel abzuholen an einem festen Standplatz nahe dem Alsfelder Bahnhof. **für WEN:** Für berufstätige Pendler und beschäftigte Familien aus Alsfeld und den umliegenden Dörfern, di",
-      "ts": "2026-09-26 23:36",
+      "text": "**WAS:** Eine wöchentliche Abo-Box vollgepackt mit bodenständigen Vogelsberger Hofprodukten – von Hausmacher Wurst und Käse bis zu frischem Brot und Saison-Gemüse –, die flexibel an einer gekühlten 24/7-Abholstation in Schotten bereitsteht. **fuer WEN:** Für berufstätige Familien und Pendler aus Schotten und Umgebung, die ehrlich erzeugte Lebensmittel aus de",
+      "ts": "2026-09-27 01:48",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-alsfeld",
+      "agent": "handwerk-schotten",
       "via": "gemini",
-      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetriebe (SHK)** in Alsfeld (besonders wichtig bei Themen wie Heizungstausch, Wärmepumpen und Badsanierungen im Altbau/Fachwerk). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer in Alsfeld online nach einer neuen Heizung oder Badsanierung suchen, finden sie aktuell zuerst Ihre Mitbewerber – wollen wi",
-      "ts": "2026-09-26 23:36",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-alsfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Schonreinigungs-Service (Trockeneis- und Niederdruckverfahren) speziell für die sanfte Holz- und Fassadenerneuerung von Altbauten. **WARUM HIER:** Alsfeld besitzt eine weltbekannte, denkmalgeschützte Fachwerk-Altstadt mit enormem, laufendem Sanierungsbedarf, bei der aggressive Reinigungsmethoden verboten sind und spezialisierte Dienstlei",
-      "ts": "2026-09-26 23:36",
+      "text": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb (SHK)** in Schotten, der online bisher kaum zu finden ist oder wenige Google-Bewertungen hat. **Ansprache-Idee:** „Wenn Hausbesitzer hier im Vogelsberg nach einer neuen Wärmepumpe oder einem Notdienst suchen, greifen sie zum Smartphone – sorgen wir dafür, dass die lukrativen Aufträge direkt aus S",
+      "ts": "2026-09-27 01:48",
       "age_min": 0
     }
   ]
