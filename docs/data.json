@@ -1,19 +1,23 @@
 {
-  "updated": "2026-09-27T20:44Z",
+  "updated": "2026-09-27T23:26Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist der aktuelle Lagebericht: **1. Offerta:** Stabile Nutzerbasis; *nächster Hebel:* Automatisierung des Partner-Onboardings, um Zeitressourcen freizusetzen. **2. Handwerk-Sichtbar:** Zuverlässigster Cashflow-Bringung; *nächster Hebel:* Standardisierung des Sales-Pitches zur Erhöhung der Close-Rate bei High-Ticket-Kunden. **3. Vogelsberg-Box:** Operativ",
+        "age_min": 0
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "Hallo Herr [Nachname], ich bin [Dein Name] von „Handwerk-Sichtbar“ direkt hier aus dem Vogelsberg. Mir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach online kaum zu finden ist – obwohl Sie auf den Dächern der Region eine Top-Arbeit machen. Ich nehme Ihnen dieses Thema komplett ab und stelle Ihren Betrieb digital sauber auf: mit einer einfachen Website",
+        "text": "**WAS:** Das Paket „Vulkan-Entspannung & Basalt-Genuss“ kombiniert eine geführte Wanderung zu Herbsteins beeindruckenden Felsformationen mit einem gefüllten Vulkan-Picknickkorb und einer anschließenden Auszeit in der heilhaltigen VulkanTherme. **fuer WEN:** Ideal für erholungsbedürftige Paare und Naturgenießer, die ein aktives Draußen-Erlebnis im Vogelsberg ",
         "age_min": 0
       }
     },
@@ -30,7 +34,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Bring- und Erledigungsdienst, der Kisten mit regionalen Lebensmitteln sowie Apothekenbedarf direkt nach Hause liefert und sich stets Zeit für einen zugewandten Plausch an der Haustür nimmt. **WARUM HIER:** Da die acht Ortsteile von Herbstein weit im Vogelsberg verstreut liegen und Einkaufsmöglichkeiten vor Ort oft f",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -125,36 +133,36 @@
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": "Hallo Herr [Nachname], ich bin [Dein Name] von „Handwerk-Sichtbar“ direkt hier aus dem Vogelsberg. Mir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach online kaum zu finden ist – obwohl Sie auf den Dächern der Regi",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-vogelsbergbox",
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SCHRITT:** Digitaler „Smoke-Test“ über eine kostenlose Landingpage (z.B. mit Carrd oder Mailchimp) für eine fiktive, limitierte „Vogelsberg-Probier-Box“ (29 €), um unverbindliche Vorbestellungen / E-Mail-Adressen von E",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-terminki",
       "name": "Business — Termin-/Anruf-KI",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist der Demo-Schritt, den wir dem Betrieb im Gespräch vorspielen (am Telefon oder per Lautsprecher im Meeting), um den \"Aha-Effekt\" zu erzeugen, bevor wir über Verträge sprechen: --- ### SZENARIO **Branche:** Handwe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-board",
       "name": "Business — Lagebericht",
       "dept": "Kommando",
       "iv": 480,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist der aktuelle Lagebericht: **1. Offerta:** Stabile Nutzerbasis; *nächster Hebel:* Automatisierung des Partner-Onboardings, um Zeitressourcen freizusetzen. **2. Handwerk-Sichtbar:** Zuverlässigster Cashflow-Bringu",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-lauterbach",
@@ -314,27 +322,27 @@
       "name": "Direktvermarktung — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine ehrliche „Vulkan-Vesperkiste“ im flexiblen Abo, vollgepackt mit Vogelsberger Hausmacher-Wurst, regionalem Käse, frischem Landbrot und saisonalem Hofgemüse. **fuer WEN:** Für beschäftigte Familien und Pendle",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-herbstein",
       "name": "Vulkanregion-Tourismus — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Paket „Vulkan-Entspannung & Basalt-Genuss“ kombiniert eine geführte Wanderung zu Herbsteins beeindruckenden Felsformationen mit einem gefüllten Vulkan-Picknickkorb und einer anschließenden Auszeit in der hei",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-herbstein",
       "name": "Senioren-Alltagsdienste — Herbstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, ehrenamtlicher Bring- und Erledigungsdienst, der Kisten mit regionalen Lebensmitteln sowie Apothekenbedarf direkt nach Hause liefert und sich stets Zeit für einen zugewandten Plausch an der Ha",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grebenhain",
@@ -1499,16 +1507,56 @@
     }
   ],
   "budget": {
-    "used": 8,
+    "used": 14,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "biz-handwerk",
+      "dept": "Kunden",
+      "agent": "senioren-herbstein",
       "via": "gemini",
-      "text": "Hallo Herr [Nachname], ich bin [Dein Name] von „Handwerk-Sichtbar“ direkt hier aus dem Vogelsberg. Mir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach online kaum zu finden ist – obwohl Sie auf den Dächern der Region eine Top-Arbeit machen. Ich nehme Ihnen dieses Thema komplett ab und stelle Ihren Betrieb digital sauber auf: mit einer einfachen Website",
-      "ts": "2026-09-27 20:44",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Bring- und Erledigungsdienst, der Kisten mit regionalen Lebensmitteln sowie Apothekenbedarf direkt nach Hause liefert und sich stets Zeit für einen zugewandten Plausch an der Haustür nimmt. **WARUM HIER:** Da die acht Ortsteile von Herbstein weit im Vogelsberg verstreut liegen und Einkaufsmöglichkeiten vor Ort oft f",
+      "ts": "2026-09-27 23:26",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Das Paket „Vulkan-Entspannung & Basalt-Genuss“ kombiniert eine geführte Wanderung zu Herbsteins beeindruckenden Felsformationen mit einem gefüllten Vulkan-Picknickkorb und einer anschließenden Auszeit in der heilhaltigen VulkanTherme. **fuer WEN:** Ideal für erholungsbedürftige Paare und Naturgenießer, die ein aktives Draußen-Erlebnis im Vogelsberg ",
+      "ts": "2026-09-27 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Eine ehrliche „Vulkan-Vesperkiste“ im flexiblen Abo, vollgepackt mit Vogelsberger Hausmacher-Wurst, regionalem Käse, frischem Landbrot und saisonalem Hofgemüse. **fuer WEN:** Für beschäftigte Familien und Pendler aus dem Raum Herbstein, die ohne Aufwand bodenständig und heimisch einkaufen wollen, sowie für Aktivurlauber auf dem Vulkanring. **ERSTER ",
+      "ts": "2026-09-27 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "biz-board",
+      "via": "gemini",
+      "text": "Hier ist der aktuelle Lagebericht: **1. Offerta:** Stabile Nutzerbasis; *nächster Hebel:* Automatisierung des Partner-Onboardings, um Zeitressourcen freizusetzen. **2. Handwerk-Sichtbar:** Zuverlässigster Cashflow-Bringung; *nächster Hebel:* Standardisierung des Sales-Pitches zur Erhöhung der Close-Rate bei High-Ticket-Kunden. **3. Vogelsberg-Box:** Operativ",
+      "ts": "2026-09-27 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "biz-terminki",
+      "via": "gemini",
+      "text": "Hier ist der Demo-Schritt, den wir dem Betrieb im Gespräch vorspielen (am Telefon oder per Lautsprecher im Meeting), um den \"Aha-Effekt\" zu erzeugen, bevor wir über Verträge sprechen: --- ### SZENARIO **Branche:** Handwerk (Sanitär & Heizung – *übertragbar auf Notfall-Praxis oder Kanzlei*) **Situation:** Montag, 08:30 Uhr. Das Büro ist überlastet, die KI nim",
+      "ts": "2026-09-27 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "biz-vogelsbergbox",
+      "via": "gemini",
+      "text": "**SCHRITT:** Digitaler „Smoke-Test“ über eine kostenlose Landingpage (z.B. mit Carrd oder Mailchimp) für eine fiktive, limitierte „Vogelsberg-Probier-Box“ (29 €), um unverbindliche Vorbestellungen / E-Mail-Adressen von Endkunden einzusammeln. **WARUM:** Wir testen damit die tatsächliche kaufrelevante Nachfrage der B2C-Kunden, *bevor* wir auch nur einen Euro ",
+      "ts": "2026-09-27 23:25",
       "age_min": 0
     }
   ]

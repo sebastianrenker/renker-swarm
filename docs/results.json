@@ -1,30 +1,132 @@
 {
-  "updated": "2026-09-27 20:44 UTC",
-  "total_results": 1,
-  "total_depts": 1,
+  "updated": "2026-09-27 23:26 UTC",
+  "total_results": 6,
+  "total_depts": 3,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "biz-handwerk",
-      "title": "Business — Handwerk-Sichtbar  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-herbstein",
+      "title": "Senioren-Alltagsdienste — Herbstein  ·  Kunden",
       "via": "gemini",
-      "text": "Hallo Herr [Nachname], ich bin [Dein Name] von „Handwerk-Sichtbar“ direkt hier aus dem Vogelsberg. \n\nMir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach online kaum zu finden ist – obwohl Sie auf den Dächern der Region eine Top-Arbeit machen. Ich nehme Ihnen dieses Thema komplett ab und stelle Ihren Betrieb digital sauber auf: mit einer einfachen Website, einem gepflegten Google-Profil und klaren Angebots-Paketen. Sie sparen sich den Büro-Frust und werden von Kunden aus dem Umkreis endlich direkt gefunden. Passt es Ihnen nächste Woche auf einen kurzen, 10-minütigen Kaffee bei Ihnen im Betrieb oder für ein schnelles Telefonat?",
-      "ts": "2026-09-27 20:44",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Bring- und Erledigungsdienst, der Kisten mit regionalen Lebensmitteln sowie Apothekenbedarf direkt nach Hause liefert und sich stets Zeit für einen zugewandten Plausch an der Haustür nimmt.\n\n**WARUM HIER:** Da die acht Ortsteile von Herbstein weit im Vogelsberg verstreut liegen und Einkaufsmöglichkeiten vor Ort oft fehlen, bewahrt dieser mobile Dienst die Eigenständigkeit der älteren Menschen in ihrem vertrauten Dorf.\n\n**ERSTER SCHRITT:** Im Rahmen eines Treffens mit der Stadtverwaltung Herbstein und den Ortsvorstehern die genauen Routen festlegen und erste freiwillige Fahrerinnen und Fahrer aus den Ortsteilen gewinnen.",
+      "ts": "2026-09-27 23:26",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-herbstein",
+      "title": "Vulkanregion-Tourismus — Herbstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Das Paket „Vulkan-Entspannung & Basalt-Genuss“ kombiniert eine geführte Wanderung zu Herbsteins beeindruckenden Felsformationen mit einem gefüllten Vulkan-Picknickkorb und einer anschließenden Auszeit in der heilhaltigen VulkanTherme.\n\n**fuer WEN:** Ideal für erholungsbedürftige Paare und Naturgenießer, die ein aktives Draußen-Erlebnis im Vogelsberg perfekt mit entspannender Wellness verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie einfach Ihren Wunschtermin auf unserem Buchungsportal aus und sichern Sie sich Ihr digitales Komplett-Ticket mit wenigen Klicks online.",
+      "ts": "2026-09-27 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-herbstein",
+      "title": "Direktvermarktung — Herbstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine ehrliche „Vulkan-Vesperkiste“ im flexiblen Abo, vollgepackt mit Vogelsberger Hausmacher-Wurst, regionalem Käse, frischem Landbrot und saisonalem Hofgemüse.\n\n**fuer WEN:** Für beschäftigte Familien und Pendler aus dem Raum Herbstein, die ohne Aufwand bodenständig und heimisch einkaufen wollen, sowie für Aktivurlauber auf dem Vulkanring.\n\n**ERSTER SCHRITT:** Zwei benachbarte Landwirte und den örtlichen Bäcker an einen Tisch holen, um die Produkte für eine erste Test-Kiste zusammenzustellen und 15 Test-Kunden im Ort zu gewinnen.",
+      "ts": "2026-09-27 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "biz-board",
+      "title": "Business — Lagebericht  ·  Kommando",
+      "via": "gemini",
+      "text": "Hier ist der aktuelle Lagebericht:\n\n**1. Offerta:** Stabile Nutzerbasis; *nächster Hebel:* Automatisierung des Partner-Onboardings, um Zeitressourcen freizusetzen.\n**2. Handwerk-Sichtbar:** Zuverlässigster Cashflow-Bringung; *nächster Hebel:* Standardisierung des Sales-Pitches zur Erhöhung der Close-Rate bei High-Ticket-Kunden.\n**3. Vogelsberg-Box:** Operativ funktional, aber hoher Zeitfresser; *nächster Hebel:* Radikale Delegation des Tagesgeschäfts und reiner Fokus auf B2B-Großkunden.\n**4. Termin-KI:** Höchstes Skalierungs- und Marge-Potenzial (SaaS); *nächster Hebel:* Abschließen der Beta-Phase und harten Go-to-Market für die ersten zahlenden Abos initiieren.\n\n---\n\n### **DIE eine Sache für den Commander diese Woche:**\n\n**Vollfokus auf den Launch/Vertriebsauftakt von Termin-KI.** \nLass dich diese Woche nicht ins operative Klein-Klein der Vogelsberg-Box ziehen. Deine Priorität 1 ist es, das skalierbarste Asset (Termin-KI) an die ersten zahlenden Kunden zu bringen, während Handwerk-Sichtbar den Cashflow sichert. Alles andere wird diese Woche nur verwaltet, nicht ausgebaut.",
+      "ts": "2026-09-27 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "biz-terminki",
+      "title": "Business — Termin-/Anruf-KI  ·  Kunden",
+      "via": "gemini",
+      "text": "Hier ist der Demo-Schritt, den wir dem Betrieb im Gespräch vorspielen (am Telefon oder per Lautsprecher im Meeting), um den \"Aha-Effekt\" zu erzeugen, bevor wir über Verträge sprechen:\n\n---\n\n### SZENARIO\n**Branche:** Handwerk (Sanitär & Heizung – *übertragbar auf Notfall-Praxis oder Kanzlei*)  \n**Situation:** Montag, 08:30 Uhr. Das Büro ist überlastet, die KI nimmt nach dem zweiten Schellen an.\n\n* **KI:** „Guten Tag bei Haustechnik Weber. Ich bin die digitale Assistentin. Wie kann ich Ihnen helfen?“\n* **Anrufer:** „Ja hallo, Schulz hier. Meine Heizung gluckert, bleibt kalt und unten tropft leicht Wasser raus. Haben Sie heute jemanden da?“\n* **KI (qualifiziert & bewertet Dringlichkeit via Rencora-Stack):** „Hallo Herr Schulz. Schade, dass die Heizung Probleme macht. Tropft das Wasser stark oder stehen Sie schon im Nass?“\n* **Anrufer:** „Nein, es ist nur ein kleiner Eimer drunter, aber es ist kalt.“\n* **KI (erkennt: Wichtig, aber kein Rohrbruch-Notfall für die Feuerwehr):** „Verstanden. Ich trage das als dringenden Reparaturbedarf ein. Sind Sie Stammkunde bei uns oder zum ersten Mal da?“\n* **Anrufer:** „Erstes Mal, wir sind neu eingezogen in der Hauptstraße 12.“\n* **KI (synchronisiert Kalender & holt Freigabe):** „Perfekt, willkommen. Ich habe morgen um 10:30 Uhr oder um 14:00 Uhr einen Techniker in Ihrer Nähe. Was passt Ihnen besser?“\n* **Anrufer:** „10:30 Uhr passt super.“\n* **KI (Abschluss & Datenerfassung):** „Ist notiert: Morgen, 10:30 Uhr, Hauptstraße 12. Ich habe Ihre Nummer aus dem Anruf übernommen und sende Ihnen jetzt eine Bestätigung per SMS. Wenn sich etwas ändert, antworten Sie einfach darauf. Einen schönen Tag!“\n\n---\n\n### WAS ES ZEIGT\n1. **Kein Starres Menü (\"Drücken Sie die 1\"):** Der Anrufer spricht völlig frei. Die KI versteht Kontext, Dialekt und Unterbrechungen dank extrem niedriger Latenz des Rencora-Voice-Stacks.\n2. **Smarte Vorqualifizierung:** Die KI unterscheidet zwischen einem echten Notfall (Wasserschaden) und einem normalen Reparaturtermin. Sie fragt gezielt nach, statt nur \"Nachrichten aufzunehmen\".\n3. **Echte Automatisierung (End-to-End):** Der Anruf endet nicht mit \"Ich leite es weiter\", sondern mit einem **fest gebuchten Termin im Kalender** und einer **SMS-Bestätigung** beim Kunden – ohne dass der Chef oder die Sekretärin einen Finger gerührt hat.\n\n---\n\n### ERSTER TAG\n* **Dauer der Einrichtung:** Max. 30 Minuten.\n* **Ablauf am Tag 1:** \n  1. Wir schalten eine Rufumleitung für Ihre bestehende Telefonnummer bei \"Besetzt\" oder \"Nach 4-mal Klingeln\" auf die KI-Nummer.\n  2. Wir hinterlegen Ihre Öffnungszeiten und verknüpfen Ihren Google-/Outlook-/Branchen-Kalender.\n  3. **Ergebnis am Abend von Tag 1:** Der Betrieb verpasst keinen einzigen Anruf mehr, das Telefon-Chaos im Büro sinkt sofort um 50 %, und die ersten fertigen Termine stehen ohne Eigenaufwand im Kalender.",
+      "ts": "2026-09-27 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "biz-vogelsbergbox",
+      "title": "Business — Vogelsberg-Box  ·  Chancen",
+      "via": "gemini",
+      "text": "**SCHRITT:**\nDigitaler „Smoke-Test“ über eine kostenlose Landingpage (z.B. mit Carrd oder Mailchimp) für eine fiktive, limitierte „Vogelsberg-Probier-Box“ (29 €), um unverbindliche Vorbestellungen / E-Mail-Adressen von Endkunden einzusammeln.\n\n**WARUM:**\nWir testen damit die tatsächliche kaufrelevante Nachfrage der B2C-Kunden, *bevor* wir auch nur einen Euro für Produkte, Kühlverpackungen oder Logistik ausgeben oder Stunden in Hof-Verhandlungen investieren. Wenn sich innerhalb von 7 Tagen keine 50 lokalen Interessenten eintragen, stimmt das Versprechen oder der Preis nicht. Wenn es klappt, haben wir das perfekte Argument („Wir haben bereits 50 zahlungsbereite Kunden“), um danach die Höfe ohne Risiko an Bord zu holen.\n\n**erster Tag:**\n* **Morgens (2 Std.):** Landingpage erstellen. Inhalt: Ein ansprechendes Symbolbild einer frischen Hof-Box, 5 knackige Vorteile („100% aus der Region“, „Direkt vom Erzeuger“, „Flexibles Abo“), Preisanker (29 €) und ein Formular: *„Gehöre zu den ersten 50 Testern im Vogelsbergkreis – Jetzt unverbindlich reservieren“*.\n* **Nachmittags (1 Std.):** Ein kurzes Erklär-Video/Foto mit dem Smartphone aufnehmen („Hi, ich bin [Name] aus dem Vogelsberg. Wir wollen die besten Hofprodukte der Region in eine Box gepackt zu euch nach Hause bringen…“).\n* **Abends (1 Std.):** Den Link inkl. Video in 5 regionalen Facebook-Gruppen (z.B. *Alsfeld, Lauterbach, Schotten, Vogelsbergkreis*), auf Nebenan.de und im eigenen Status/Instagram teilen mit der Frage: *„Wer aus der Region hätte Bock darauf?“*",
+      "ts": "2026-09-27 23:25",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Chancen",
+      "id": "Kommando",
       "count": 1,
       "items": [
         {
-          "dept": "Chancen",
-          "agent": "biz-handwerk",
-          "title": "Business — Handwerk-Sichtbar  ·  Chancen",
+          "dept": "Kommando",
+          "agent": "biz-board",
+          "title": "Business — Lagebericht  ·  Kommando",
           "via": "gemini",
-          "text": "Hallo Herr [Nachname], ich bin [Dein Name] von „Handwerk-Sichtbar“ direkt hier aus dem Vogelsberg. \n\nMir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach online kaum zu finden ist – obwohl Sie auf den Dächern der Region eine Top-Arbeit machen. Ich nehme Ihnen dieses Thema komplett ab und stelle Ihren Betrieb digital sauber auf: mit einer einfachen Website, einem gepflegten Google-Profil und klaren Angebots-Paketen. Sie sparen sich den Büro-Frust und werden von Kunden aus dem Umkreis endlich direkt gefunden. Passt es Ihnen nächste Woche auf einen kurzen, 10-minütigen Kaffee bei Ihnen im Betrieb oder für ein schnelles Telefonat?",
-          "ts": "2026-09-27 20:44",
+          "text": "Hier ist der aktuelle Lagebericht:\n\n**1. Offerta:** Stabile Nutzerbasis; *nächster Hebel:* Automatisierung des Partner-Onboardings, um Zeitressourcen freizusetzen.\n**2. Handwerk-Sichtbar:** Zuverlässigster Cashflow-Bringung; *nächster Hebel:* Standardisierung des Sales-Pitches zur Erhöhung der Close-Rate bei High-Ticket-Kunden.\n**3. Vogelsberg-Box:** Operativ funktional, aber hoher Zeitfresser; *nächster Hebel:* Radikale Delegation des Tagesgeschäfts und reiner Fokus auf B2B-Großkunden.\n**4. Termin-KI:** Höchstes Skalierungs- und Marge-Potenzial (SaaS); *nächster Hebel:* Abschließen der Beta-Phase und harten Go-to-Market für die ersten zahlenden Abos initiieren.\n\n---\n\n### **DIE eine Sache für den Commander diese Woche:**\n\n**Vollfokus auf den Launch/Vertriebsauftakt von Termin-KI.** \nLass dich diese Woche nicht ins operative Klein-Klein der Vogelsberg-Box ziehen. Deine Priorität 1 ist es, das skalierbarste Asset (Termin-KI) an die ersten zahlenden Kunden zu bringen, während Handwerk-Sichtbar den Cashflow sichert. Alles andere wird diese Woche nur verwaltet, nicht ausgebaut.",
+          "ts": "2026-09-27 23:25",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Chancen",
+      "count": 3,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-herbstein",
+          "title": "Vulkanregion-Tourismus — Herbstein  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Das Paket „Vulkan-Entspannung & Basalt-Genuss“ kombiniert eine geführte Wanderung zu Herbsteins beeindruckenden Felsformationen mit einem gefüllten Vulkan-Picknickkorb und einer anschließenden Auszeit in der heilhaltigen VulkanTherme.\n\n**fuer WEN:** Ideal für erholungsbedürftige Paare und Naturgenießer, die ein aktives Draußen-Erlebnis im Vogelsberg perfekt mit entspannender Wellness verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie einfach Ihren Wunschtermin auf unserem Buchungsportal aus und sichern Sie sich Ihr digitales Komplett-Ticket mit wenigen Klicks online.",
+          "ts": "2026-09-27 23:25",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-herbstein",
+          "title": "Direktvermarktung — Herbstein  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Eine ehrliche „Vulkan-Vesperkiste“ im flexiblen Abo, vollgepackt mit Vogelsberger Hausmacher-Wurst, regionalem Käse, frischem Landbrot und saisonalem Hofgemüse.\n\n**fuer WEN:** Für beschäftigte Familien und Pendler aus dem Raum Herbstein, die ohne Aufwand bodenständig und heimisch einkaufen wollen, sowie für Aktivurlauber auf dem Vulkanring.\n\n**ERSTER SCHRITT:** Zwei benachbarte Landwirte und den örtlichen Bäcker an einen Tisch holen, um die Produkte für eine erste Test-Kiste zusammenzustellen und 15 Test-Kunden im Ort zu gewinnen.",
+          "ts": "2026-09-27 23:25",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "biz-vogelsbergbox",
+          "title": "Business — Vogelsberg-Box  ·  Chancen",
+          "via": "gemini",
+          "text": "**SCHRITT:**\nDigitaler „Smoke-Test“ über eine kostenlose Landingpage (z.B. mit Carrd oder Mailchimp) für eine fiktive, limitierte „Vogelsberg-Probier-Box“ (29 €), um unverbindliche Vorbestellungen / E-Mail-Adressen von Endkunden einzusammeln.\n\n**WARUM:**\nWir testen damit die tatsächliche kaufrelevante Nachfrage der B2C-Kunden, *bevor* wir auch nur einen Euro für Produkte, Kühlverpackungen oder Logistik ausgeben oder Stunden in Hof-Verhandlungen investieren. Wenn sich innerhalb von 7 Tagen keine 50 lokalen Interessenten eintragen, stimmt das Versprechen oder der Preis nicht. Wenn es klappt, haben wir das perfekte Argument („Wir haben bereits 50 zahlungsbereite Kunden“), um danach die Höfe ohne Risiko an Bord zu holen.\n\n**erster Tag:**\n* **Morgens (2 Std.):** Landingpage erstellen. Inhalt: Ein ansprechendes Symbolbild einer frischen Hof-Box, 5 knackige Vorteile („100% aus der Region“, „Direkt vom Erzeuger“, „Flexibles Abo“), Preisanker (29 €) und ein Formular: *„Gehöre zu den ersten 50 Testern im Vogelsbergkreis – Jetzt unverbindlich reservieren“*.\n* **Nachmittags (1 Std.):** Ein kurzes Erklär-Video/Foto mit dem Smartphone aufnehmen („Hi, ich bin [Name] aus dem Vogelsberg. Wir wollen die besten Hofprodukte der Region in eine Box gepackt zu euch nach Hause bringen…“).\n* **Abends (1 Std.):** Den Link inkl. Video in 5 regionalen Facebook-Gruppen (z.B. *Alsfeld, Lauterbach, Schotten, Vogelsbergkreis*), auf Nebenan.de und im eigenen Status/Instagram teilen mit der Frage: *„Wer aus der Region hätte Bock darauf?“*",
+          "ts": "2026-09-27 23:25",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-herbstein",
+          "title": "Senioren-Alltagsdienste — Herbstein  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Bring- und Erledigungsdienst, der Kisten mit regionalen Lebensmitteln sowie Apothekenbedarf direkt nach Hause liefert und sich stets Zeit für einen zugewandten Plausch an der Haustür nimmt.\n\n**WARUM HIER:** Da die acht Ortsteile von Herbstein weit im Vogelsberg verstreut liegen und Einkaufsmöglichkeiten vor Ort oft fehlen, bewahrt dieser mobile Dienst die Eigenständigkeit der älteren Menschen in ihrem vertrauten Dorf.\n\n**ERSTER SCHRITT:** Im Rahmen eines Treffens mit der Stadtverwaltung Herbstein und den Ortsvorstehern die genauen Routen festlegen und erste freiwillige Fahrerinnen und Fahrer aus den Ortsteilen gewinnen.",
+          "ts": "2026-09-27 23:26",
+          "age_min": 0
+        },
+        {
+          "dept": "Kunden",
+          "agent": "biz-terminki",
+          "title": "Business — Termin-/Anruf-KI  ·  Kunden",
+          "via": "gemini",
+          "text": "Hier ist der Demo-Schritt, den wir dem Betrieb im Gespräch vorspielen (am Telefon oder per Lautsprecher im Meeting), um den \"Aha-Effekt\" zu erzeugen, bevor wir über Verträge sprechen:\n\n---\n\n### SZENARIO\n**Branche:** Handwerk (Sanitär & Heizung – *übertragbar auf Notfall-Praxis oder Kanzlei*)  \n**Situation:** Montag, 08:30 Uhr. Das Büro ist überlastet, die KI nimmt nach dem zweiten Schellen an.\n\n* **KI:** „Guten Tag bei Haustechnik Weber. Ich bin die digitale Assistentin. Wie kann ich Ihnen helfen?“\n* **Anrufer:** „Ja hallo, Schulz hier. Meine Heizung gluckert, bleibt kalt und unten tropft leicht Wasser raus. Haben Sie heute jemanden da?“\n* **KI (qualifiziert & bewertet Dringlichkeit via Rencora-Stack):** „Hallo Herr Schulz. Schade, dass die Heizung Probleme macht. Tropft das Wasser stark oder stehen Sie schon im Nass?“\n* **Anrufer:** „Nein, es ist nur ein kleiner Eimer drunter, aber es ist kalt.“\n* **KI (erkennt: Wichtig, aber kein Rohrbruch-Notfall für die Feuerwehr):** „Verstanden. Ich trage das als dringenden Reparaturbedarf ein. Sind Sie Stammkunde bei uns oder zum ersten Mal da?“\n* **Anrufer:** „Erstes Mal, wir sind neu eingezogen in der Hauptstraße 12.“\n* **KI (synchronisiert Kalender & holt Freigabe):** „Perfekt, willkommen. Ich habe morgen um 10:30 Uhr oder um 14:00 Uhr einen Techniker in Ihrer Nähe. Was passt Ihnen besser?“\n* **Anrufer:** „10:30 Uhr passt super.“\n* **KI (Abschluss & Datenerfassung):** „Ist notiert: Morgen, 10:30 Uhr, Hauptstraße 12. Ich habe Ihre Nummer aus dem Anruf übernommen und sende Ihnen jetzt eine Bestätigung per SMS. Wenn sich etwas ändert, antworten Sie einfach darauf. Einen schönen Tag!“\n\n---\n\n### WAS ES ZEIGT\n1. **Kein Starres Menü (\"Drücken Sie die 1\"):** Der Anrufer spricht völlig frei. Die KI versteht Kontext, Dialekt und Unterbrechungen dank extrem niedriger Latenz des Rencora-Voice-Stacks.\n2. **Smarte Vorqualifizierung:** Die KI unterscheidet zwischen einem echten Notfall (Wasserschaden) und einem normalen Reparaturtermin. Sie fragt gezielt nach, statt nur \"Nachrichten aufzunehmen\".\n3. **Echte Automatisierung (End-to-End):** Der Anruf endet nicht mit \"Ich leite es weiter\", sondern mit einem **fest gebuchten Termin im Kalender** und einer **SMS-Bestätigung** beim Kunden – ohne dass der Chef oder die Sekretärin einen Finger gerührt hat.\n\n---\n\n### ERSTER TAG\n* **Dauer der Einrichtung:** Max. 30 Minuten.\n* **Ablauf am Tag 1:** \n  1. Wir schalten eine Rufumleitung für Ihre bestehende Telefonnummer bei \"Besetzt\" oder \"Nach 4-mal Klingeln\" auf die KI-Nummer.\n  2. Wir hinterlegen Ihre Öffnungszeiten und verknüpfen Ihren Google-/Outlook-/Branchen-Kalender.\n  3. **Ergebnis am Abend von Tag 1:** Der Betrieb verpasst keinen einzigen Anruf mehr, das Telefon-Chaos im Büro sinkt sofort um 50 %, und die ersten fertigen Termine stehen ohne Eigenaufwand im Kalender.",
+          "ts": "2026-09-27 23:25",
           "age_min": 0
         }
       ]
