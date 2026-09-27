@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-27 13:14 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-27 17:47 UTC",
+  "total_results": 1,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "biz-offerta",
+      "title": "Business — Offerta  ·  Chancen",
+      "via": "gemini",
+      "text": "**SCHRITT**\nEinen dezenten Footer-Hinweis („Erstellt mit Offerta – Kostenlos Angebote schreiben“) in alle PDF-Export-Dateien der Free-Nutzer einbauen, der auf unsere Landingpage verlinkt.\n\n**WARUM JETZT**\nDas ist der hebelstärkste virale Loop für ein Freemium-Tool. Jedes Angebot, das unsere Free-User an ihre Kunden schicken, geht direkt an B2B-Empfänger (andere Selbstständige, Handwerker, Agenturen). Wir verwandeln damit jedes erstellte Angebot in eine kostenlose Werbefläche für den nächsten potenziellen Nutzer – und schaffen gleichzeitig den ersten echten Anreiz für das Pro-Upgrade („Branding entfernen“).\n\n**WIE IN 1 TAG MACHBAR**\n1. **Vormittag (2 Std.):** Den PDF-Generator anpassen. Ganz unten auf der Seite eine Zeile einfügen: *„Erstellt mit Offerta.de“* (mit klickbarem Link).\n2. **Nachmittag (3 Std.):** In den Einstellungen der App eine Checkbox einbauen: *„Offerta-Branding auf PDFs entfernen“*. Wenn ein Free-User das Häkchen entfernt, ploppt eine simple Paywall-Modal auf („Feature ab Pro-Paket verfügbar“).\n3. **Abend (1 Std.):** Kurzer Test (PDF-Rendering, Link-Tracking via UTM-Parameter) und direkt deployen.",
+      "ts": "2026-09-27 17:47",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "biz-offerta",
+          "title": "Business — Offerta  ·  Chancen",
+          "via": "gemini",
+          "text": "**SCHRITT**\nEinen dezenten Footer-Hinweis („Erstellt mit Offerta – Kostenlos Angebote schreiben“) in alle PDF-Export-Dateien der Free-Nutzer einbauen, der auf unsere Landingpage verlinkt.\n\n**WARUM JETZT**\nDas ist der hebelstärkste virale Loop für ein Freemium-Tool. Jedes Angebot, das unsere Free-User an ihre Kunden schicken, geht direkt an B2B-Empfänger (andere Selbstständige, Handwerker, Agenturen). Wir verwandeln damit jedes erstellte Angebot in eine kostenlose Werbefläche für den nächsten potenziellen Nutzer – und schaffen gleichzeitig den ersten echten Anreiz für das Pro-Upgrade („Branding entfernen“).\n\n**WIE IN 1 TAG MACHBAR**\n1. **Vormittag (2 Std.):** Den PDF-Generator anpassen. Ganz unten auf der Seite eine Zeile einfügen: *„Erstellt mit Offerta.de“* (mit klickbarem Link).\n2. **Nachmittag (3 Std.):** In den Einstellungen der App eine Checkbox einbauen: *„Offerta-Branding auf PDFs entfernen“*. Wenn ein Free-User das Häkchen entfernt, ploppt eine simple Paywall-Modal auf („Feature ab Pro-Paket verfügbar“).\n3. **Abend (1 Std.):** Kurzer Test (PDF-Rendering, Link-Tracking via UTM-Parameter) und direkt deployen.",
+          "ts": "2026-09-27 17:47",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-27T13:14Z",
+  "updated": "2026-09-27T17:47Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**SCHRITT** Einen dezenten Footer-Hinweis („Erstellt mit Offerta – Kostenlos Angebote schreiben“) in alle PDF-Export-Dateien der Free-Nutzer einbauen, der auf unsere Landingpage verlinkt. **WARUM JETZT** Das ist der hebelstärkste virale Loop für ein Freemium-Tool. Jedes Angebot, das unsere Free-User an ihre Kunden schicken, geht direkt an B2B-Empfänger (ande",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -112,9 +116,9 @@
       "name": "Business — Offerta",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SCHRITT** Einen dezenten Footer-Hinweis („Erstellt mit Offerta – Kostenlos Angebote schreiben“) in alle PDF-Export-Dateien der Free-Nutzer einbauen, der auf unsere Landingpage verlinkt. **WARUM JETZT** Das ist der hebe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-handwerk",
@@ -1495,8 +1499,17 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 7,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "biz-offerta",
+      "via": "gemini",
+      "text": "**SCHRITT** Einen dezenten Footer-Hinweis („Erstellt mit Offerta – Kostenlos Angebote schreiben“) in alle PDF-Export-Dateien der Free-Nutzer einbauen, der auf unsere Landingpage verlinkt. **WARUM JETZT** Das ist der hebelstärkste virale Loop für ein Freemium-Tool. Jedes Angebot, das unsere Free-User an ihre Kunden schicken, geht direkt an B2B-Empfänger (ande",
+      "ts": "2026-09-27 17:47",
+      "age_min": 0
+    }
+  ]
 }
