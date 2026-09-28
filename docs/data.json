@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-28T16:44Z",
+  "updated": "2026-09-28T22:17Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb (SHK)** in Kirtorf. **Ansprache-Idee:** „Damit Kirtorfer mit kaputter Heizung oder Neubau-Plänen direkt auf Ihrem Handy-Display landen und nicht beim Betrieb aus Alsfeld oder Marburg, bringen wir Ihre Telefonnummer bei Google ganz nach oben.“",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein nachbarschaftlicher Shuttle-Dienst mit Haustür-Abholung, der ältere Menschen aus den Ortsteilen sicher zum Einkaufen, zu Arztterminen und zum Wochenmarkt im Stadtkern bringt sowie beim Tragen der Taschen unterstützt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Homberg (Ohm) fehlt oft die Nahversorgung vor Ort, weshalb eine verlässlich",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -391,54 +399,54 @@
       "name": "Handwerk-Sichtbarkeit — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbaubetrieb** (HLK). **Ansprache-Idee:** „Sorgen wir dafür, dass Hausbesitzer in Homberg bei der Suche nach einer neuen Wärmepumpe oder Badrenovierung sofort Ihren Meist",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-homberg-ohm",
       "name": "Direktvermarktung — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Feierabend-Box Homberg“ – eine rund um die Uhr zugängliche gekühlte SB-Abholstation an der Hauptdurchgangsstraße, gefüllt mit wechselnden Wochenpaketen aus Ohm-Gemüse, Eiern, Wurst im Glas und frischem Land",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-homberg-ohm",
       "name": "Vulkanregion-Tourismus — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe ein exklusives Sonnenuntergangs-Picknick auf dem Schlossberg Homberg (Ohm) mit einem Korb voller regionaler Vogelsberger Spezialitäten, kombiniert mit einer stimmungsvollen Fackel-Führung durch die histor",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-homberg-ohm",
       "name": "Senioren-Alltagsdienste — Homberg (Ohm)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein nachbarschaftlicher Shuttle-Dienst mit Haustür-Abholung, der ältere Menschen aus den Ortsteilen sicher zum Einkaufen, zu Arztterminen und zum Wochenmarkt im Stadtkern bringt sowie beim Tragen der Taschen unt",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-kirtorf",
       "name": "Chancen-Scout — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat für regionale Grill- und Frischeprodukte sowie Notfall-Lebensmittel direkt an der Durchgangsstraße. **WARUM HIER:** Kirtorf liegt als stark frequentiertes Nadelöhr an der",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-kirtorf",
       "name": "Handwerk-Sichtbarkeit — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb (SHK)** in Kirtorf. **Ansprache-Idee:** „Damit Kirtorfer mit kaputter Heizung oder Neubau-Plänen direkt auf Ihrem Handy-Display landen und nicht beim Betrieb aus Alsfeld",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-kirtorf",
@@ -1495,8 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 12,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-kirtorf",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb (SHK)** in Kirtorf. **Ansprache-Idee:** „Damit Kirtorfer mit kaputter Heizung oder Neubau-Plänen direkt auf Ihrem Handy-Display landen und nicht beim Betrieb aus Alsfeld oder Marburg, bringen wir Ihre Telefonnummer bei Google ganz nach oben.“",
+      "ts": "2026-09-28 22:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-kirtorf",
+      "via": "gemini",
+      "text": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat für regionale Grill- und Frischeprodukte sowie Notfall-Lebensmittel direkt an der Durchgangsstraße. **WARUM HIER:** Kirtorf liegt als stark frequentiertes Nadelöhr an der B62 zwischen den Industrie- und Wirtschaftszentren Stadtallendorf und Alsfeld, bietet aber nach Feierabend und am Wochenende keinerlei Spon",
+      "ts": "2026-09-28 22:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-homberg-ohm",
+      "via": "gemini",
+      "text": "**WAS:** Ein nachbarschaftlicher Shuttle-Dienst mit Haustür-Abholung, der ältere Menschen aus den Ortsteilen sicher zum Einkaufen, zu Arztterminen und zum Wochenmarkt im Stadtkern bringt sowie beim Tragen der Taschen unterstützt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Homberg (Ohm) fehlt oft die Nahversorgung vor Ort, weshalb eine verlässlich",
+      "ts": "2026-09-28 22:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-homberg-ohm",
+      "via": "gemini",
+      "text": "**WAS:** Erlebe ein exklusives Sonnenuntergangs-Picknick auf dem Schlossberg Homberg (Ohm) mit einem Korb voller regionaler Vogelsberger Spezialitäten, kombiniert mit einer stimmungsvollen Fackel-Führung durch die historische Schlossanlage. **für WEN:** Perfekt für Paare und Genussmenschen, die eine romantische Auszeit suchen und Kulturgeschichte mit kulinar",
+      "ts": "2026-09-28 22:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-homberg-ohm",
+      "via": "gemini",
+      "text": "**WAS:** Die „Feierabend-Box Homberg“ – eine rund um die Uhr zugängliche gekühlte SB-Abholstation an der Hauptdurchgangsstraße, gefüllt mit wechselnden Wochenpaketen aus Ohm-Gemüse, Eiern, Wurst im Glas und frischem Landbrot. **fuer WEN:** Für berufstätige Pendler und heimische Familien, die nach Feierabend keine Zeit für den Hofladen haben, aber trotzdem eh",
+      "ts": "2026-09-28 22:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-homberg-ohm",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbaubetrieb** (HLK). **Ansprache-Idee:** „Sorgen wir dafür, dass Hausbesitzer in Homberg bei der Suche nach einer neuen Wärmepumpe oder Badrenovierung sofort Ihren Meisterbetrieb auf dem Handy haben – und die Aufträge nicht an die Konkurrenz aus Gießen oder Marburg verlieren.“",
+      "ts": "2026-09-28 22:17",
+      "age_min": 0
+    }
+  ]
 }
