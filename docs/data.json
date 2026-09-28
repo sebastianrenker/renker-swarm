@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-28T01:49Z",
+  "updated": "2026-09-28T08:08Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Rucksack-Picknick-Lieferservice, der Wanderer und Radfahrer an Hotspots wie dem Schloss Homberg oder entlang des Ohmtal-Radwegs direkt mit verzehrfertigen, regionalen Vogelsberg-Spezialitäten beliefert. **WARUM HIER:** Homberg zieht durch den Homberger Sagenweg und die Radrouten viele Tagestouristen an, weist aber direkt an den Strecken ",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS** Ein nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen direkt an der Haustür abholt, verlässlich zu Einkäufen oder Arztterminen bringt und sie vor Ort geduldig unterstützt. **WARUM HIER** Grebenhain vereint 15 weit verstreute Ortsteile im hügeligen Vogelsberg, wodurch Besorgungen ohne eigenes Auto und bei lückenhaftem Nahverkehr für Sen",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -337,54 +345,54 @@
       "name": "Chancen-Scout — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike-Wartungs- und Pannendienst auf Werkstatt-Anhänger-Basis für Einheimische und Vulkanradweg-Touristen. **WARUM HIER:** Grebenhain ist ein zentraler Knotenpunkt am stark frequentierten Vulkanradw",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grebenhain",
       "name": "Handwerk-Sichtbarkeit — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb (SHK)** in Grebenhain (stark nachgefragt wegen Heizungsumrüstungen/Wärmepumpen und Badsanierungen im ländlichen Raum). **Ansprache-Idee (1 Satz):** „Sollen die Hausbesi",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-grebenhain",
       "name": "Direktvermarktung — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo-Paket, knackig gefüllt mit frischem Landbrot, regionaler Wurst, Vogelsberger Käse und aktuellem Hofgemüse. **fuer WEN:** Für Pendler, beschäftigte Famili",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-grebenhain",
       "name": "Vulkanregion-Tourismus — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Erlebnis-Paket: „Vulkan-Picknick auf zwei Rädern“** **WAS:** Sie leihen ein hochwertiges E-Bike in Grebenhain und erkunden den beliebten Vulkanradweg mit einem gefüllten Picknickkorb voller regionaler Vogelsberger Spez",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-grebenhain",
       "name": "Senioren-Alltagsdienste — Grebenhain",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen direkt an der Haustür abholt, verlässlich zu Einkäufen oder Arztterminen bringt und sie vor Ort geduldig unterstützt. **WARUM HIER** Grebenhain",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-homberg-ohm",
       "name": "Chancen-Scout — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Rucksack-Picknick-Lieferservice, der Wanderer und Radfahrer an Hotspots wie dem Schloss Homberg oder entlang des Ohmtal-Radwegs direkt mit verzehrfertigen, regionalen Vogelsberg-Spezialitäten beliefe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-homberg-ohm",
@@ -1495,8 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 0,
+    "used": 6,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-homberg-ohm",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Rucksack-Picknick-Lieferservice, der Wanderer und Radfahrer an Hotspots wie dem Schloss Homberg oder entlang des Ohmtal-Radwegs direkt mit verzehrfertigen, regionalen Vogelsberg-Spezialitäten beliefert. **WARUM HIER:** Homberg zieht durch den Homberger Sagenweg und die Radrouten viele Tagestouristen an, weist aber direkt an den Strecken ",
+      "ts": "2026-09-28 08:08",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grebenhain",
+      "via": "gemini",
+      "text": "**WAS** Ein nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen direkt an der Haustür abholt, verlässlich zu Einkäufen oder Arztterminen bringt und sie vor Ort geduldig unterstützt. **WARUM HIER** Grebenhain vereint 15 weit verstreute Ortsteile im hügeligen Vogelsberg, wodurch Besorgungen ohne eigenes Auto und bei lückenhaftem Nahverkehr für Sen",
+      "ts": "2026-09-28 08:07",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-grebenhain",
+      "via": "gemini",
+      "text": "**Erlebnis-Paket: „Vulkan-Picknick auf zwei Rädern“** **WAS:** Sie leihen ein hochwertiges E-Bike in Grebenhain und erkunden den beliebten Vulkanradweg mit einem gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten. **fuer WEN:** Das Angebot richtet sich an Genussradler, Paare und kleine Gruppen, die die sanfte Vulkanlandschaft entspannt und k",
+      "ts": "2026-09-28 08:07",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-grebenhain",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo-Paket, knackig gefüllt mit frischem Landbrot, regionaler Wurst, Vogelsberger Käse und aktuellem Hofgemüse. **fuer WEN:** Für Pendler, beschäftigte Familien und Anwohner rund um Grebenhain, die unter der Woche ohne Aufwand ehrliche Lebensmittel aus der direkten Nachbarschaft auf dem Tisch habe",
+      "ts": "2026-09-28 08:07",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grebenhain",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb (SHK)** in Grebenhain (stark nachgefragt wegen Heizungsumrüstungen/Wärmepumpen und Badsanierungen im ländlichen Raum). **Ansprache-Idee (1 Satz):** „Sollen die Hausbesitzer im Vogelsberg, die gerade nach einer neuen Heizung oder Badsanierung suchen, direkt bei Ihnen in Grebenhain anrufen – oder weiterhin be",
+      "ts": "2026-09-28 08:07",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-grebenhain",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Wartungs- und Pannendienst auf Werkstatt-Anhänger-Basis für Einheimische und Vulkanradweg-Touristen. **WARUM HIER:** Grebenhain ist ein zentraler Knotenpunkt am stark frequentierten Vulkanradweg, weist jedoch eine deutliche Unterversorgung an spontanen, flexiblen Fahrrad-Services direkt an der Strecke auf. **ERSTER SCHRITT:** Rich",
+      "ts": "2026-09-28 08:07",
+      "age_min": 0
+    }
+  ]
 }
