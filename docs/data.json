@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-28T22:17Z",
+  "updated": "2026-09-29T02:09Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb (SHK)** in Kirtorf. **Ansprache-Idee:** „Damit Kirtorfer mit kaputter Heizung oder Neubau-Plänen direkt auf Ihrem Handy-Display landen und nicht beim Betrieb aus Alsfeld oder Marburg, bringen wir Ihre Telefonnummer bei Google ganz nach oben.“",
+        "text": "**WAS:** Ein mobiler Vor-Ort-Wartungs- und Reparaturservice für E-Bikes, Rasenmäher und motorisierte Gartengeräte. **WARUM HIER:** In den 12 weitläufig verteilten Ortsteilen von Mücke leben viele Eigenheimbesitzer und Senioren ohne eigenen Fachbetrieb vor Ort, die für jede kleine Werkstattfahrt lange Wege nach Alsfeld oder Grünberg in Kauf nehmen müssen. **E",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein nachbarschaftlicher Shuttle-Dienst mit Haustür-Abholung, der ältere Menschen aus den Ortsteilen sicher zum Einkaufen, zu Arztterminen und zum Wochenmarkt im Stadtkern bringt sowie beim Tragen der Taschen unterstützt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Homberg (Ohm) fehlt oft die Nahversorgung vor Ort, weshalb eine verlässlich",
+        "text": "**WAS:** Ein verlässlicher, ehrenamtlich mitgetragener Nachbarschafts-Shuttle, der Senioren aus allen Ortsteilen flexibel zu Arztterminen, Einkäufen oder Gemeinschaftstreffen bringt und ihnen auf Wunsch einfühlsam zur Seite steht. **WARUM HIER:** In den weit verstreuten Dörfern Kirtorfs fehlen zunehmend Nahversorgungsangebote und ein dichter Busverkehr, wesh",
         "age_min": 0
       }
     },
@@ -399,90 +399,90 @@
       "name": "Handwerk-Sichtbarkeit — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbaubetrieb** (HLK). **Ansprache-Idee:** „Sorgen wir dafür, dass Hausbesitzer in Homberg bei der Suche nach einer neuen Wärmepumpe oder Badrenovierung sofort Ihren Meist",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-homberg-ohm",
       "name": "Direktvermarktung — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Feierabend-Box Homberg“ – eine rund um die Uhr zugängliche gekühlte SB-Abholstation an der Hauptdurchgangsstraße, gefüllt mit wechselnden Wochenpaketen aus Ohm-Gemüse, Eiern, Wurst im Glas und frischem Land",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-homberg-ohm",
       "name": "Vulkanregion-Tourismus — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe ein exklusives Sonnenuntergangs-Picknick auf dem Schlossberg Homberg (Ohm) mit einem Korb voller regionaler Vogelsberger Spezialitäten, kombiniert mit einer stimmungsvollen Fackel-Führung durch die histor",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-homberg-ohm",
       "name": "Senioren-Alltagsdienste — Homberg (Ohm)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein nachbarschaftlicher Shuttle-Dienst mit Haustür-Abholung, der ältere Menschen aus den Ortsteilen sicher zum Einkaufen, zu Arztterminen und zum Wochenmarkt im Stadtkern bringt sowie beim Tragen der Taschen unt",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-kirtorf",
       "name": "Chancen-Scout — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat für regionale Grill- und Frischeprodukte sowie Notfall-Lebensmittel direkt an der Durchgangsstraße. **WARUM HIER:** Kirtorf liegt als stark frequentiertes Nadelöhr an der",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-kirtorf",
       "name": "Handwerk-Sichtbarkeit — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb (SHK)** in Kirtorf. **Ansprache-Idee:** „Damit Kirtorfer mit kaputter Heizung oder Neubau-Plänen direkt auf Ihrem Handy-Display landen und nicht beim Betrieb aus Alsfeld",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-kirtorf",
       "name": "Direktvermarktung — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Feierabend-Box“ als Wochen-Abo mit frischen Zutaten direkt von Kirtorfer Höfen (z. B. Kartoffeln, Saison-Gemüse, Eier, Ahle Wurst und Landbrot) inklusive passender Rezeptkarte für schnelle, ehr",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-kirtorf",
       "name": "Vulkanregion-Tourismus — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Paket „Kirtorfer Kräuter- & Basalt-Picknick“ bietet eine geführte Naturwanderung durch das idyllische Gleental inklusive eines prall gefüllten Rucksacks mit regionalen Vogelsberger Spezialitäten. **für WEN:*",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-kirtorf",
       "name": "Senioren-Alltagsdienste — Kirtorf",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, ehrenamtlich mitgetragener Nachbarschafts-Shuttle, der Senioren aus allen Ortsteilen flexibel zu Arztterminen, Einkäufen oder Gemeinschaftstreffen bringt und ihnen auf Wunsch einfühlsam zur Se",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-muecke",
       "name": "Chancen-Scout — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Vor-Ort-Wartungs- und Reparaturservice für E-Bikes, Rasenmäher und motorisierte Gartengeräte. **WARUM HIER:** In den 12 weitläufig verteilten Ortsteilen von Mücke leben viele Eigenheimbesitzer und Se",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-muecke",
@@ -1503,56 +1503,40 @@
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 4,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-kirtorf",
+      "agent": "chancen-muecke",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb (SHK)** in Kirtorf. **Ansprache-Idee:** „Damit Kirtorfer mit kaputter Heizung oder Neubau-Plänen direkt auf Ihrem Handy-Display landen und nicht beim Betrieb aus Alsfeld oder Marburg, bringen wir Ihre Telefonnummer bei Google ganz nach oben.“",
-      "ts": "2026-09-28 22:17",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat für regionale Grill- und Frischeprodukte sowie Notfall-Lebensmittel direkt an der Durchgangsstraße. **WARUM HIER:** Kirtorf liegt als stark frequentiertes Nadelöhr an der B62 zwischen den Industrie- und Wirtschaftszentren Stadtallendorf und Alsfeld, bietet aber nach Feierabend und am Wochenende keinerlei Spon",
-      "ts": "2026-09-28 22:17",
+      "text": "**WAS:** Ein mobiler Vor-Ort-Wartungs- und Reparaturservice für E-Bikes, Rasenmäher und motorisierte Gartengeräte. **WARUM HIER:** In den 12 weitläufig verteilten Ortsteilen von Mücke leben viele Eigenheimbesitzer und Senioren ohne eigenen Fachbetrieb vor Ort, die für jede kleine Werkstattfahrt lange Wege nach Alsfeld oder Grünberg in Kauf nehmen müssen. **E",
+      "ts": "2026-09-29 02:08",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-homberg-ohm",
+      "agent": "senioren-kirtorf",
       "via": "gemini",
-      "text": "**WAS:** Ein nachbarschaftlicher Shuttle-Dienst mit Haustür-Abholung, der ältere Menschen aus den Ortsteilen sicher zum Einkaufen, zu Arztterminen und zum Wochenmarkt im Stadtkern bringt sowie beim Tragen der Taschen unterstützt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Homberg (Ohm) fehlt oft die Nahversorgung vor Ort, weshalb eine verlässlich",
-      "ts": "2026-09-28 22:17",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlich mitgetragener Nachbarschafts-Shuttle, der Senioren aus allen Ortsteilen flexibel zu Arztterminen, Einkäufen oder Gemeinschaftstreffen bringt und ihnen auf Wunsch einfühlsam zur Seite steht. **WARUM HIER:** In den weit verstreuten Dörfern Kirtorfs fehlen zunehmend Nahversorgungsangebote und ein dichter Busverkehr, wesh",
+      "ts": "2026-09-29 02:08",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-homberg-ohm",
+      "agent": "tourismus-kirtorf",
       "via": "gemini",
-      "text": "**WAS:** Erlebe ein exklusives Sonnenuntergangs-Picknick auf dem Schlossberg Homberg (Ohm) mit einem Korb voller regionaler Vogelsberger Spezialitäten, kombiniert mit einer stimmungsvollen Fackel-Führung durch die historische Schlossanlage. **für WEN:** Perfekt für Paare und Genussmenschen, die eine romantische Auszeit suchen und Kulturgeschichte mit kulinar",
-      "ts": "2026-09-28 22:17",
+      "text": "**WAS:** Das Paket „Kirtorfer Kräuter- & Basalt-Picknick“ bietet eine geführte Naturwanderung durch das idyllische Gleental inklusive eines prall gefüllten Rucksacks mit regionalen Vogelsberger Spezialitäten. **für WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit im Grünen mit lokalem Gaumenfreu",
+      "ts": "2026-09-29 02:08",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-homberg-ohm",
+      "agent": "direkt-kirtorf",
       "via": "gemini",
-      "text": "**WAS:** Die „Feierabend-Box Homberg“ – eine rund um die Uhr zugängliche gekühlte SB-Abholstation an der Hauptdurchgangsstraße, gefüllt mit wechselnden Wochenpaketen aus Ohm-Gemüse, Eiern, Wurst im Glas und frischem Landbrot. **fuer WEN:** Für berufstätige Pendler und heimische Familien, die nach Feierabend keine Zeit für den Hofladen haben, aber trotzdem eh",
-      "ts": "2026-09-28 22:17",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-homberg-ohm",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbaubetrieb** (HLK). **Ansprache-Idee:** „Sorgen wir dafür, dass Hausbesitzer in Homberg bei der Suche nach einer neuen Wärmepumpe oder Badrenovierung sofort Ihren Meisterbetrieb auf dem Handy haben – und die Aufträge nicht an die Konkurrenz aus Gießen oder Marburg verlieren.“",
-      "ts": "2026-09-28 22:17",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Box“ als Wochen-Abo mit frischen Zutaten direkt von Kirtorfer Höfen (z. B. Kartoffeln, Saison-Gemüse, Eier, Ahle Wurst und Landbrot) inklusive passender Rezeptkarte für schnelle, ehrliche Landküche. **für WEN:** Für Pendler und berufstätige Familien aus Kirtorf und den umliegenden Dörfern, die unter der Woche wenig Zeit ",
+      "ts": "2026-09-29 02:08",
       "age_min": 0
     }
   ]
