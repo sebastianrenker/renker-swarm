@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-29 14:58 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-09-29 19:53 UTC",
+  "total_results": 5,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-romrod",
+      "title": "Chancen-Scout — Romrod  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler VIP-Shuttle- und Last-Minute-Besorgungsdienst speziell für Hochzeits- und Tagungsgäste in Romrod.\n\n**WARUM HIER:** Das überregional beliebte Schloss Romrod zieht wöchentlich hunderte Eventgäste an, die im ländlichen Raum ohne eigenes Auto kaum flexibel zwischen Unterkünften, Bahnhöfen und der Location pendeln können.\n\n**ERSTER SCHRITT:** Pitch dein Konzept direkt beim Event-Management des Schlosses sowie den lokalen Ferienwohnungs-Betreibern, um als exklusiver Partner auf deren Empfehlungslisten für Gäste zu landen.",
+      "ts": "2026-09-29 19:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-muecke",
+      "title": "Senioren-Alltagsdienste — Muecke  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:**\nEin mobiler Nachbarschafts- und Begleitdienst, der Senioren sicher zu Arztterminen oder Besorgungen fährt und sie auf Wunsch mit Ruhe und Respekt unterstützt.\n\n**WARUM HIER:**\nIn den zwölf weit verstreuten Ortsteilen von Mücke sind die Wege zur medizinischen Versorgung und zu Einkaufsmöglichkeiten oft lang, sodass verlässliche Mobilität die Selbstständigkeit im eigenen Zuhause bewahrt.\n\n**ERSTER SCHRITT:**\nGemeinsam mit dem Seniorenbeirat Mücke die konkreten Bedarfe in den Ortsteilen erheben und vertrauensvolle, lokale Fahrerinnen und Fahrer für das Projekt gewinnen.",
+      "ts": "2026-09-29 19:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-muecke",
+      "title": "Vulkanregion-Tourismus — Muecke  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Erlebe eine geführte E-Bike-Tour durch das malerische Ohmtal inklusive eines gut gefüllten Picknickkorbs mit regionalen Vogelsberg-Spezialitäten für eine Rast direkt am geografischen Mittelpunkt Hessens in Mücke.\n\n**FÜR WEN:** Das Paket ist ideal für genussorientierte Paare, Aktivurlauber und kleine Gruppen, die Naturerlebnis und kulinarische Entschleunigung miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Kalender aus und sichere dir dein Miet-Bike samt Verpflegungspaket direkt mit wenigen Klicks.",
+      "ts": "2026-09-29 19:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-muecke",
+      "title": "Direktvermarktung — Muecke  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Box“ als gekühlte Regio-Automatenstation direkt am Bahnhof Mücke, bestückt mit tagesfrischem Landbrot, Hausmacher Wurst, lokalem Käse und Saison-Gemüse von Höfen aus der Umgebung.\n\n**fuer WEN:** Für Berufspendler und vielbeschäftigte Familien aus Mücke und den Ortsteilen, die nach Feierabend ohne Supermarkt-Stress ehrliche Lebensmittel aus der Heimat mitnehmen wollen.\n\n**ERSTER SCHRITT:** Drei regionale Erzeuger aus dem Umkreis an einen Tisch holen und bei der Gemeinde Mücke die Machbarkeit für einen Standplatz am Bahnhof anfragen.",
+      "ts": "2026-09-29 19:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-muecke",
+      "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin **Heizungs- und Sanitärbetrieb** (mit Fokus auf Badsanierung und moderne Heiztechnik/Wärmepumpen) in Mücke.\n\n**Ansprache-Idee:**\n„Sorgen wir dafür, dass Eigenheimbesitzer aus Mücke bei Badsanierungen und Heizungstausch direkt bei Ihnen anfragen – bevor sie einen Betrieb aus Gießen oder Alsfeld beauftragen.“",
+      "ts": "2026-09-29 19:52",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 4,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "chancen-romrod",
+          "title": "Chancen-Scout — Romrod  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler VIP-Shuttle- und Last-Minute-Besorgungsdienst speziell für Hochzeits- und Tagungsgäste in Romrod.\n\n**WARUM HIER:** Das überregional beliebte Schloss Romrod zieht wöchentlich hunderte Eventgäste an, die im ländlichen Raum ohne eigenes Auto kaum flexibel zwischen Unterkünften, Bahnhöfen und der Location pendeln können.\n\n**ERSTER SCHRITT:** Pitch dein Konzept direkt beim Event-Management des Schlosses sowie den lokalen Ferienwohnungs-Betreibern, um als exklusiver Partner auf deren Empfehlungslisten für Gäste zu landen.",
+          "ts": "2026-09-29 19:52",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-muecke",
+          "title": "Vulkanregion-Tourismus — Muecke  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Erlebe eine geführte E-Bike-Tour durch das malerische Ohmtal inklusive eines gut gefüllten Picknickkorbs mit regionalen Vogelsberg-Spezialitäten für eine Rast direkt am geografischen Mittelpunkt Hessens in Mücke.\n\n**FÜR WEN:** Das Paket ist ideal für genussorientierte Paare, Aktivurlauber und kleine Gruppen, die Naturerlebnis und kulinarische Entschleunigung miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Kalender aus und sichere dir dein Miet-Bike samt Verpflegungspaket direkt mit wenigen Klicks.",
+          "ts": "2026-09-29 19:52",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-muecke",
+          "title": "Direktvermarktung — Muecke  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Vogelsberger Feierabend-Box“ als gekühlte Regio-Automatenstation direkt am Bahnhof Mücke, bestückt mit tagesfrischem Landbrot, Hausmacher Wurst, lokalem Käse und Saison-Gemüse von Höfen aus der Umgebung.\n\n**fuer WEN:** Für Berufspendler und vielbeschäftigte Familien aus Mücke und den Ortsteilen, die nach Feierabend ohne Supermarkt-Stress ehrliche Lebensmittel aus der Heimat mitnehmen wollen.\n\n**ERSTER SCHRITT:** Drei regionale Erzeuger aus dem Umkreis an einen Tisch holen und bei der Gemeinde Mücke die Machbarkeit für einen Standplatz am Bahnhof anfragen.",
+          "ts": "2026-09-29 19:52",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-muecke",
+          "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin **Heizungs- und Sanitärbetrieb** (mit Fokus auf Badsanierung und moderne Heiztechnik/Wärmepumpen) in Mücke.\n\n**Ansprache-Idee:**\n„Sorgen wir dafür, dass Eigenheimbesitzer aus Mücke bei Badsanierungen und Heizungstausch direkt bei Ihnen anfragen – bevor sie einen Betrieb aus Gießen oder Alsfeld beauftragen.“",
+          "ts": "2026-09-29 19:52",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-muecke",
+          "title": "Senioren-Alltagsdienste — Muecke  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:**\nEin mobiler Nachbarschafts- und Begleitdienst, der Senioren sicher zu Arztterminen oder Besorgungen fährt und sie auf Wunsch mit Ruhe und Respekt unterstützt.\n\n**WARUM HIER:**\nIn den zwölf weit verstreuten Ortsteilen von Mücke sind die Wege zur medizinischen Versorgung und zu Einkaufsmöglichkeiten oft lang, sodass verlässliche Mobilität die Selbstständigkeit im eigenen Zuhause bewahrt.\n\n**ERSTER SCHRITT:**\nGemeinsam mit dem Seniorenbeirat Mücke die konkreten Bedarfe in den Ortsteilen erheben und vertrauensvolle, lokale Fahrerinnen und Fahrer für das Projekt gewinnen.",
+          "ts": "2026-09-29 19:52",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
