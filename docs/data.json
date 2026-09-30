@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-30T15:19Z",
+  "updated": "2026-09-30T20:12Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Kaffeewagen mit regionalen Blechkuchen und Herzhaftem, der an Wochenenden direkt am Fuß der Burgruine Schlossberg und an Schnittstellen der Vogelsberger Wanderwege steht. **WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein ganzjährig Tages- und Wandertouristen an, verfügt aber kaum noch über spontane, unkomplizierte Gastronomie o",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS** Ein nachbarschaftlicher Begleit- und Fahrdienst („Dörfer-Mobil“), der ältere Menschen fürsorglich von der eigenen Haustür zu Ärzten, Einkäufen oder Gemeinschaftstreffen bringt und sie auf Wunsch vor Ort unterstützt. **WARUM HIER** Da die 12 Ortsteile von Freiensteinau weit im Vogelsberg verstreut liegen und die Wege zum Kernort oder in die nächsten G",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -678,36 +670,36 @@
       "name": "Direktvermarktung — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit frischem Bauernbrot, Hausmacher Wurst, Hof-Käse und Eiern direkt von den Betrieben rund um Freiensteinau. **fuer WEN:** Für Pendler und Familien aus d",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-freiensteinau",
       "name": "Vulkanregion-Tourismus — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & E-Bike-Rallye“ beinhaltet die Tagesmiete hochwertiger E-Bikes, eine vorgeplante GPS-Entdeckertour sowie einen Rucksack voller regionaler Vogelsberger Spezialitäten für eine ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-freiensteinau",
       "name": "Senioren-Alltagsdienste — Freiensteinau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Ein nachbarschaftlicher Begleit- und Fahrdienst („Dörfer-Mobil“), der ältere Menschen fürsorglich von der eigenen Haustür zu Ärzten, Einkäufen oder Gemeinschaftstreffen bringt und sie auf Wunsch vor Ort unterstüt",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-ulrichstein",
       "name": "Chancen-Scout — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Kaffeewagen mit regionalen Blechkuchen und Herzhaftem, der an Wochenenden direkt am Fuß der Burgruine Schlossberg und an Schnittstellen der Vogelsberger Wanderwege steht. **WARUM HIER:** Als höchste ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-ulrichstein",
@@ -1506,38 +1498,5 @@
     "used": 14,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "chancen-ulrichstein",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Kaffeewagen mit regionalen Blechkuchen und Herzhaftem, der an Wochenenden direkt am Fuß der Burgruine Schlossberg und an Schnittstellen der Vogelsberger Wanderwege steht. **WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein ganzjährig Tages- und Wandertouristen an, verfügt aber kaum noch über spontane, unkomplizierte Gastronomie o",
-      "ts": "2026-09-30 15:19",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-freiensteinau",
-      "via": "gemini",
-      "text": "**WAS** Ein nachbarschaftlicher Begleit- und Fahrdienst („Dörfer-Mobil“), der ältere Menschen fürsorglich von der eigenen Haustür zu Ärzten, Einkäufen oder Gemeinschaftstreffen bringt und sie auf Wunsch vor Ort unterstützt. **WARUM HIER** Da die 12 Ortsteile von Freiensteinau weit im Vogelsberg verstreut liegen und die Wege zum Kernort oder in die nächsten G",
-      "ts": "2026-09-30 15:18",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-freiensteinau",
-      "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & E-Bike-Rallye“ beinhaltet die Tagesmiete hochwertiger E-Bikes, eine vorgeplante GPS-Entdeckertour sowie einen Rucksack voller regionaler Vogelsberger Spezialitäten für eine entspannte Rast an den Freiensteinauer Teichen. **fuer WEN:** Dieses Angebot richtet sich an Paare und Genuss-Radler, die die sanfte Vulkanl",
-      "ts": "2026-09-30 15:18",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-freiensteinau",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit frischem Bauernbrot, Hausmacher Wurst, Hof-Käse und Eiern direkt von den Betrieben rund um Freiensteinau. **fuer WEN:** Für Pendler und Familien aus der Gemeinde sowie Urlauber in der Region, die bodenständige Qualität ohne Supermarkt-Runde suchen. **ERSTER SCHRITT:** Zwei lokale Erzeuger ",
-      "ts": "2026-09-30 15:18",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
