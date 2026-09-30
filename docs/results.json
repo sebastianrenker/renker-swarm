@@ -1,42 +1,42 @@
 {
-  "updated": "2026-09-30 08:38 UTC",
+  "updated": "2026-09-30 15:19 UTC",
   "total_results": 4,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-freiensteinau",
-      "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+      "agent": "chancen-ulrichstein",
+      "title": "Chancen-Scout — Ulrichstein  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Wenn Hausbesitzer im Vogelsberg nach einer neuen Wärmepumpe oder schneller Hilfe bei einem Heizungsausfall suchen, landen sie aktuell oft bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Kunden aus Freiensteinau direkt Ihre Nummer auf dem Smartphone haben.“",
-      "ts": "2026-09-30 08:38",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-freiensteinau",
-      "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Mobiler Bring- und Holservice für Miet-E-Bikes inklusive kleinem Pannendienst, speziell zugeschnitten auf Campinggäste und Urlauber rund um den Nieder-Mooser See.\n\n**WARUM HIER:** Die Gemeinde profitiert stark vom Tourismus am See, bietet bisher aber kaum flexible Mobilitätsangebote direkt am Stellplatz, um das hügelige Vogelsberg-Umland ohne eigenes Auto zu erkunden.\n\n**ERSTER SCHRITT:** Mit drei bis fünf E-Bikes starten und eine exklusive Kooperation zur Flyer-Auslage und Buchung mit dem Betreiber des Campingparks Nieder-Mooser See vereinbaren.",
-      "ts": "2026-09-30 08:38",
+      "text": "**WAS:** Ein mobiler Kaffeewagen mit regionalen Blechkuchen und Herzhaftem, der an Wochenenden direkt am Fuß der Burgruine Schlossberg und an Schnittstellen der Vogelsberger Wanderwege steht.\n\n**WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein ganzjährig Tages- und Wandertouristen an, verfügt aber kaum noch über spontane, unkomplizierte Gastronomie ohne Schließtage.\n\n**ERSTER SCHRITT:** Beantrage beim Ordnungsamt Ulrichstein eine Stellplatzgenehmigung für den Schlossberg-Parkplatz und miete für einen zweimonatigen Test-Sommer einen einfachen Verkaufsanhänger.",
+      "ts": "2026-09-30 15:19",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-gemuenden-felda",
-      "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
+      "agent": "senioren-freiensteinau",
+      "title": "Senioren-Alltagsdienste — Freiensteinau  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Bringdienst, der Besorgungen aus den verbliebenen regionalen Geschäften direkt nach Hause liefert und Zeit für ein würdevolles, persönliches Gespräch an der Haustür mitbringt.\n\n**WARUM HIER:** Durch die Aufteilung auf sieben verstreute Ortsteile in Gemünden (Felda) und die Schließung kleiner Dorfläden wird der eigenständige Einkauf für viele ältere Menschen ohne eigenes Auto zunehmend zu einer beschwerlichen Hürde.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Gemeindeverwaltung und den Ortsvorstehern den konkreten Bedarf in den Ortsteilen erheben sowie erste Touren mit lokalen Partnern planen.",
-      "ts": "2026-09-30 08:38",
+      "text": "**WAS**\nEin nachbarschaftlicher Begleit- und Fahrdienst („Dörfer-Mobil“), der ältere Menschen fürsorglich von der eigenen Haustür zu Ärzten, Einkäufen oder Gemeinschaftstreffen bringt und sie auf Wunsch vor Ort unterstützt.\n\n**WARUM HIER**\nDa die 12 Ortsteile von Freiensteinau weit im Vogelsberg verstreut liegen und die Wege zum Kernort oder in die nächsten Gemeindezentren ohne eigenes Auto kaum zu bewältigen sind, sichert dieser Dienst die würdevolle und selbstbestimmte Teilhabe im gewohnten Dorfumfeld.\n\n**ERSTER SCHRITT**\nGemeinsam mit der Gemeindeverwaltung und den Ortsbeiräten wird eine einfache Bedarfsabfrage gestartet, um interessierte Senioren sowie freiwillige Fahrerinnen und Fahrer aus den einzelnen Ortsteilen zusammenzubringen.",
+      "ts": "2026-09-30 15:18",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-gemuenden-felda",
-      "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
+      "agent": "tourismus-freiensteinau",
+      "title": "Vulkanregion-Tourismus — Freiensteinau  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Bei dieser geführten Wildkräuter-Wanderung entlang der Felda sammeln Sie frische Vogelsberger Zutaten und genießen anschließend ein regionales Picknick im Schatten der historischen Burg Gemünden.\n\n**fuer WEN:** Das Paket richtet sich an naturverbundene Genießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit im Grünen suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich mit zwei Klicks Ihr Ticket inklusive Picknickkorb.",
-      "ts": "2026-09-30 08:37",
+      "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & E-Bike-Rallye“ beinhaltet die Tagesmiete hochwertiger E-Bikes, eine vorgeplante GPS-Entdeckertour sowie einen Rucksack voller regionaler Vogelsberger Spezialitäten für eine entspannte Rast an den Freiensteinauer Teichen.\n\n**fuer WEN:** Dieses Angebot richtet sich an Paare und Genuss-Radler, die die sanfte Vulkanlandschaft ohne große Anstrengung und kombiniert mit kulinarischen Highlights erkunden möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus, bestimme die Verpflegungsvariante (klassisch oder vegetarisch) und erhalte deine Buchungsbestätigung samt Startpunkt direkt per E-Mail.",
+      "ts": "2026-09-30 15:18",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-freiensteinau",
+      "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit frischem Bauernbrot, Hausmacher Wurst, Hof-Käse und Eiern direkt von den Betrieben rund um Freiensteinau.\n\n**fuer WEN:** Für Pendler und Familien aus der Gemeinde sowie Urlauber in der Region, die bodenständige Qualität ohne Supermarkt-Runde suchen.\n\n**ERSTER SCHRITT:** Zwei lokale Erzeuger und den Dorf-Bäcker an einen Tisch holen, um für den kommenden Monat ein erstes Test-Paket für 20 Haushalte zusammenzustellen.",
+      "ts": "2026-09-30 15:18",
       "age_min": 0
     }
   ],
@@ -47,29 +47,29 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-freiensteinau",
-          "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+          "agent": "chancen-ulrichstein",
+          "title": "Chancen-Scout — Ulrichstein  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Wenn Hausbesitzer im Vogelsberg nach einer neuen Wärmepumpe oder schneller Hilfe bei einem Heizungsausfall suchen, landen sie aktuell oft bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Kunden aus Freiensteinau direkt Ihre Nummer auf dem Smartphone haben.“",
-          "ts": "2026-09-30 08:38",
+          "text": "**WAS:** Ein mobiler Kaffeewagen mit regionalen Blechkuchen und Herzhaftem, der an Wochenenden direkt am Fuß der Burgruine Schlossberg und an Schnittstellen der Vogelsberger Wanderwege steht.\n\n**WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein ganzjährig Tages- und Wandertouristen an, verfügt aber kaum noch über spontane, unkomplizierte Gastronomie ohne Schließtage.\n\n**ERSTER SCHRITT:** Beantrage beim Ordnungsamt Ulrichstein eine Stellplatzgenehmigung für den Schlossberg-Parkplatz und miete für einen zweimonatigen Test-Sommer einen einfachen Verkaufsanhänger.",
+          "ts": "2026-09-30 15:19",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-freiensteinau",
-          "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
+          "agent": "tourismus-freiensteinau",
+          "title": "Vulkanregion-Tourismus — Freiensteinau  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Mobiler Bring- und Holservice für Miet-E-Bikes inklusive kleinem Pannendienst, speziell zugeschnitten auf Campinggäste und Urlauber rund um den Nieder-Mooser See.\n\n**WARUM HIER:** Die Gemeinde profitiert stark vom Tourismus am See, bietet bisher aber kaum flexible Mobilitätsangebote direkt am Stellplatz, um das hügelige Vogelsberg-Umland ohne eigenes Auto zu erkunden.\n\n**ERSTER SCHRITT:** Mit drei bis fünf E-Bikes starten und eine exklusive Kooperation zur Flyer-Auslage und Buchung mit dem Betreiber des Campingparks Nieder-Mooser See vereinbaren.",
-          "ts": "2026-09-30 08:38",
+          "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & E-Bike-Rallye“ beinhaltet die Tagesmiete hochwertiger E-Bikes, eine vorgeplante GPS-Entdeckertour sowie einen Rucksack voller regionaler Vogelsberger Spezialitäten für eine entspannte Rast an den Freiensteinauer Teichen.\n\n**fuer WEN:** Dieses Angebot richtet sich an Paare und Genuss-Radler, die die sanfte Vulkanlandschaft ohne große Anstrengung und kombiniert mit kulinarischen Highlights erkunden möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus, bestimme die Verpflegungsvariante (klassisch oder vegetarisch) und erhalte deine Buchungsbestätigung samt Startpunkt direkt per E-Mail.",
+          "ts": "2026-09-30 15:18",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-gemuenden-felda",
-          "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
+          "agent": "direkt-freiensteinau",
+          "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Bei dieser geführten Wildkräuter-Wanderung entlang der Felda sammeln Sie frische Vogelsberger Zutaten und genießen anschließend ein regionales Picknick im Schatten der historischen Burg Gemünden.\n\n**fuer WEN:** Das Paket richtet sich an naturverbundene Genießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit im Grünen suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich mit zwei Klicks Ihr Ticket inklusive Picknickkorb.",
-          "ts": "2026-09-30 08:37",
+          "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit frischem Bauernbrot, Hausmacher Wurst, Hof-Käse und Eiern direkt von den Betrieben rund um Freiensteinau.\n\n**fuer WEN:** Für Pendler und Familien aus der Gemeinde sowie Urlauber in der Region, die bodenständige Qualität ohne Supermarkt-Runde suchen.\n\n**ERSTER SCHRITT:** Zwei lokale Erzeuger und den Dorf-Bäcker an einen Tisch holen, um für den kommenden Monat ein erstes Test-Paket für 20 Haushalte zusammenzustellen.",
+          "ts": "2026-09-30 15:18",
           "age_min": 0
         }
       ]
@@ -80,11 +80,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-gemuenden-felda",
-          "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
+          "agent": "senioren-freiensteinau",
+          "title": "Senioren-Alltagsdienste — Freiensteinau  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Bringdienst, der Besorgungen aus den verbliebenen regionalen Geschäften direkt nach Hause liefert und Zeit für ein würdevolles, persönliches Gespräch an der Haustür mitbringt.\n\n**WARUM HIER:** Durch die Aufteilung auf sieben verstreute Ortsteile in Gemünden (Felda) und die Schließung kleiner Dorfläden wird der eigenständige Einkauf für viele ältere Menschen ohne eigenes Auto zunehmend zu einer beschwerlichen Hürde.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Gemeindeverwaltung und den Ortsvorstehern den konkreten Bedarf in den Ortsteilen erheben sowie erste Touren mit lokalen Partnern planen.",
-          "ts": "2026-09-30 08:38",
+          "text": "**WAS**\nEin nachbarschaftlicher Begleit- und Fahrdienst („Dörfer-Mobil“), der ältere Menschen fürsorglich von der eigenen Haustür zu Ärzten, Einkäufen oder Gemeinschaftstreffen bringt und sie auf Wunsch vor Ort unterstützt.\n\n**WARUM HIER**\nDa die 12 Ortsteile von Freiensteinau weit im Vogelsberg verstreut liegen und die Wege zum Kernort oder in die nächsten Gemeindezentren ohne eigenes Auto kaum zu bewältigen sind, sichert dieser Dienst die würdevolle und selbstbestimmte Teilhabe im gewohnten Dorfumfeld.\n\n**ERSTER SCHRITT**\nGemeinsam mit der Gemeindeverwaltung und den Ortsbeiräten wird eine einfache Bedarfsabfrage gestartet, um interessierte Senioren sowie freiwillige Fahrerinnen und Fahrer aus den einzelnen Ortsteilen zusammenzubringen.",
+          "ts": "2026-09-30 15:18",
           "age_min": 0
         }
       ]
