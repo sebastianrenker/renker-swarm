@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-30T02:15Z",
+  "updated": "2026-09-30T08:38Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Idee: Die „Gemündener Feierabend-Kiste“** * **WAS:** Eine gekühlte 24/7-Regio-Abholstation am Bahnhof Nieder-Gemünden mit vorbestellbaren Abo-Boxen, vollgepackt mit frischem Saison-Gemüse, Eiern und Hausmacher-Spezialitäten von Höfen direkt aus dem Feldatal. * **FÜR WEN:** Für Berufspendler auf dem Heimweg und beschäftigte Familien aus den Gemündener Ortst",
+        "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Wenn Hausbesitzer im Vogelsberg nach einer neuen Wärmepumpe oder schneller Hilfe bei einem Heizungsausfall suchen, landen sie aktuell oft bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Kunden aus Freiensteinau direkt Ihre Nummer auf dem Smartphone haben.“",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Der mobile Alltags- und Besorgungsdienst „Feldataler Mobilhelfer“ bringt frische Lebensmittel direkt an die Haustür, unterstützt bei kleinen Handgriffen im Haushalt und nimmt sich Zeit für ein persönliches Gespräch auf Augenhöhe. **WARUM HIER:** Da die acht Ortsteile von Feldatal weit auseinanderliegen und die lokale Nahversorgung eingeschränkt ist,",
+        "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Bringdienst, der Besorgungen aus den verbliebenen regionalen Geschäften direkt nach Hause liefert und Zeit für ein würdevolles, persönliches Gespräch an der Haustür mitbringt. **WARUM HIER:** Durch die Aufteilung auf sieben verstreute Ortsteile in Gemünden (Felda) und die Schließung kleiner Dorfläden wird der eigenstä",
         "age_min": 0
       }
     },
@@ -588,90 +588,90 @@
       "name": "Direktvermarktung — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Feldataler Feierabend-Kiste“ – ein ehrliches Wochen-Abo mit Vogelsberger Kartoffeln, frischen Eiern, Saison-Gemüse und regionalen Vesper-Spezialitäten, gekühlt hinterlegt in einer einfachen 24/7-Abholstatio",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-feldatal",
       "name": "Vulkanregion-Tourismus — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe eine geführte Halbtagswanderung auf dem Feldataler Mühlenweg mit spannenden Einblicken in die Vulkanhistorie und einem feinen Picknick aus regionalen Vogelsberger Spezialitäten direkt am Bachlauf der Feld",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-feldatal",
       "name": "Senioren-Alltagsdienste — Feldatal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der mobile Alltags- und Besorgungsdienst „Feldataler Mobilhelfer“ bringt frische Lebensmittel direkt an die Haustür, unterstützt bei kleinen Handgriffen im Haushalt und nimmt sich Zeit für ein persönliches Gespr",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-gemuenden-felda",
       "name": "Chancen-Scout — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Wartungs- und Pannenservice für E-Bikes und Fahrräder, der Termine direkt bei Kunden zu Hause wahrnimmt oder Liegengebliebenen an den Radwegen hilft. **WARUM HIER:** Gemünden liegt an beliebten Vogel",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-gemuenden-felda",
       "name": "Handwerk-Sichtbarkeit — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** in Gemünden (Felda). **Ansprache-Idee:** „Wenn bei jemandem in der Region die Heizung ausfällt oder eine neue Wärmepumpe geplant wird, greift der Kunde zuerst",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-gemuenden-felda",
       "name": "Direktvermarktung — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Idee: Die „Gemündener Feierabend-Kiste“** * **WAS:** Eine gekühlte 24/7-Regio-Abholstation am Bahnhof Nieder-Gemünden mit vorbestellbaren Abo-Boxen, vollgepackt mit frischem Saison-Gemüse, Eiern und Hausmacher-Speziali",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-gemuenden-felda",
       "name": "Vulkanregion-Tourismus — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei dieser geführten Wildkräuter-Wanderung entlang der Felda sammeln Sie frische Vogelsberger Zutaten und genießen anschließend ein regionales Picknick im Schatten der historischen Burg Gemünden. **fuer WEN:** D",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-gemuenden-felda",
       "name": "Senioren-Alltagsdienste — Gemuenden (Felda)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, mobiler Dorf-Bringdienst, der Besorgungen aus den verbliebenen regionalen Geschäften direkt nach Hause liefert und Zeit für ein würdevolles, persönliches Gespräch an der Haustür mitbringt. **W",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-freiensteinau",
       "name": "Chancen-Scout — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobiler Bring- und Holservice für Miet-E-Bikes inklusive kleinem Pannendienst, speziell zugeschnitten auf Campinggäste und Urlauber rund um den Nieder-Mooser See. **WARUM HIER:** Die Gemeinde profitiert stark vo",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-freiensteinau",
       "name": "Handwerk-Sichtbarkeit — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Wenn Hausbesitzer im Vogelsberg nach einer neuen Wärmepumpe oder schneller Hilfe bei einem Heizungsausfall suchen, landen sie aktuell oft bei Betri",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-freiensteinau",
@@ -1503,56 +1503,40 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 10,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "direkt-gemuenden-felda",
+      "agent": "handwerk-freiensteinau",
       "via": "gemini",
-      "text": "**Idee: Die „Gemündener Feierabend-Kiste“** * **WAS:** Eine gekühlte 24/7-Regio-Abholstation am Bahnhof Nieder-Gemünden mit vorbestellbaren Abo-Boxen, vollgepackt mit frischem Saison-Gemüse, Eiern und Hausmacher-Spezialitäten von Höfen direkt aus dem Feldatal. * **FÜR WEN:** Für Berufspendler auf dem Heimweg und beschäftigte Familien aus den Gemündener Ortst",
-      "ts": "2026-09-30 02:15",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Wenn Hausbesitzer im Vogelsberg nach einer neuen Wärmepumpe oder schneller Hilfe bei einem Heizungsausfall suchen, landen sie aktuell oft bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Kunden aus Freiensteinau direkt Ihre Nummer auf dem Smartphone haben.“",
+      "ts": "2026-09-30 08:38",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-feldatal",
+      "agent": "chancen-freiensteinau",
       "via": "gemini",
-      "text": "**WAS:** Die „Feldataler Feierabend-Kiste“ – ein ehrliches Wochen-Abo mit Vogelsberger Kartoffeln, frischen Eiern, Saison-Gemüse und regionalen Vesper-Spezialitäten, gekühlt hinterlegt in einer einfachen 24/7-Abholstation. **fuer WEN:** Für Pendler, vielbeschäftigte Familien und Heimatgenießer aus der Region, die ohne Aufwand echte Hofqualität auf dem Tisch ",
-      "ts": "2026-09-30 02:15",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-gemuenden-felda",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** in Gemünden (Felda). **Ansprache-Idee:** „Wenn bei jemandem in der Region die Heizung ausfällt oder eine neue Wärmepumpe geplant wird, greift der Kunde zuerst zum Smartphone – sorgen wir dafür, dass Ihre Telefonnummer ganz oben steht und die Aufträge nicht an Großbetriebe aus Alsfeld oder Lauterba",
-      "ts": "2026-09-30 02:15",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-gemuenden-felda",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Wartungs- und Pannenservice für E-Bikes und Fahrräder, der Termine direkt bei Kunden zu Hause wahrnimmt oder Liegengebliebenen an den Radwegen hilft. **WARUM HIER:** Gemünden liegt an beliebten Vogelsberger Radrouten und hat durch den hohen Senioren- und Pendleranteil eine hohe E-Bike-Dichte, verfügt aber über kein einziges lokales Zweir",
-      "ts": "2026-09-30 02:14",
+      "text": "**WAS:** Mobiler Bring- und Holservice für Miet-E-Bikes inklusive kleinem Pannendienst, speziell zugeschnitten auf Campinggäste und Urlauber rund um den Nieder-Mooser See. **WARUM HIER:** Die Gemeinde profitiert stark vom Tourismus am See, bietet bisher aber kaum flexible Mobilitätsangebote direkt am Stellplatz, um das hügelige Vogelsberg-Umland ohne eigenes",
+      "ts": "2026-09-30 08:38",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-feldatal",
+      "agent": "senioren-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** Der mobile Alltags- und Besorgungsdienst „Feldataler Mobilhelfer“ bringt frische Lebensmittel direkt an die Haustür, unterstützt bei kleinen Handgriffen im Haushalt und nimmt sich Zeit für ein persönliches Gespräch auf Augenhöhe. **WARUM HIER:** Da die acht Ortsteile von Feldatal weit auseinanderliegen und die lokale Nahversorgung eingeschränkt ist,",
-      "ts": "2026-09-30 02:14",
+      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Bringdienst, der Besorgungen aus den verbliebenen regionalen Geschäften direkt nach Hause liefert und Zeit für ein würdevolles, persönliches Gespräch an der Haustür mitbringt. **WARUM HIER:** Durch die Aufteilung auf sieben verstreute Ortsteile in Gemünden (Felda) und die Schließung kleiner Dorfläden wird der eigenstä",
+      "ts": "2026-09-30 08:38",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-feldatal",
+      "agent": "tourismus-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** Erlebe eine geführte Halbtagswanderung auf dem Feldataler Mühlenweg mit spannenden Einblicken in die Vulkanhistorie und einem feinen Picknick aus regionalen Vogelsberger Spezialitäten direkt am Bachlauf der Felda. **FÜR WEN:** Perfekt für naturbegeisterte Paare, aktive Genießer und kleine Freundesgruppen, die eine entschleunigende Auszeit suchen und",
-      "ts": "2026-09-30 02:14",
+      "text": "**WAS:** Bei dieser geführten Wildkräuter-Wanderung entlang der Felda sammeln Sie frische Vogelsberger Zutaten und genießen anschließend ein regionales Picknick im Schatten der historischen Burg Gemünden. **fuer WEN:** Das Paket richtet sich an naturverbundene Genießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit im Grünen suchen. **ERSTER SC",
+      "ts": "2026-09-30 08:37",
       "age_min": 0
     }
   ]
