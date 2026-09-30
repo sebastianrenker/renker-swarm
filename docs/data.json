@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-30T20:12Z",
+  "updated": "2026-09-30T23:49Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 5,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Allround-Service für kleine Handwerks-, Garten- und Instandhaltungsarbeiten an Wohnhäusern. **WARUM HIER:** In Schwalmtals Ortsteilen leben viele Senioren im eigenen Eigenheim sowie Berufspendler, während etablierte Handwerksbetriebe der Region solche Kleinstaufträge wegen Auftragsüberlastung kaum noch annehmen. **ERSTER SCHRITT:** Ein N",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Der „Vogelsberger Haustür-Service“ kombiniert die gezielte Lieferung von Lebensmitteln und Apothekenbedarf mit einem verlässlichen, respektvollen Plausch auf der Türschwelle. **WARUM HIER:** Als höchstgelegene Stadt Hessens stellt Ulrichstein ältere Menschen besonders im rauen Winter durch steile Wege, Schnee und weit verstreute Ortsteile ohne eigen",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -706,45 +714,45 @@
       "name": "Handwerk-Sichtbarkeit — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** in Ulrichstein. **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus der Region nach modernen Wärmepumpen oder einer Heizungswartung googeln, landen sie aktuell mei",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-ulrichstein",
       "name": "Direktvermarktung — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine regionale Abo-Box namens „Vogelsberger Höhen-Vesper“ mit haltbaren Landprodukten aus rauer Höhenlage wie Hausmacher-Wurst vom Roten Höhenvieh, regionalem Käse, lagerfähigen Einkellerungs-Kartoffeln und Bien",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-ulrichstein",
       "name": "Vulkanregion-Tourismus — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Vulkan-Picknick auf dem Schlossberg“: Ein reich gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten, der direkt am Fuß der historischen Burgruine Ulrichstein für deine genussvolle Auszeit bereitges",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-ulrichstein",
       "name": "Senioren-Alltagsdienste — Ulrichstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Vogelsberger Haustür-Service“ kombiniert die gezielte Lieferung von Lebensmitteln und Apothekenbedarf mit einem verlässlichen, respektvollen Plausch auf der Türschwelle. **WARUM HIER:** Als höchstgelegene S",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-schwalmtal",
       "name": "Chancen-Scout — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Allround-Service für kleine Handwerks-, Garten- und Instandhaltungsarbeiten an Wohnhäusern. **WARUM HIER:** In Schwalmtals Ortsteilen leben viele Senioren im eigenen Eigenheim sowie Berufspendler, wä",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-schwalmtal",
@@ -1495,8 +1503,49 @@
     }
   ],
   "budget": {
-    "used": 14,
+    "used": 19,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-schwalmtal",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Allround-Service für kleine Handwerks-, Garten- und Instandhaltungsarbeiten an Wohnhäusern. **WARUM HIER:** In Schwalmtals Ortsteilen leben viele Senioren im eigenen Eigenheim sowie Berufspendler, während etablierte Handwerksbetriebe der Region solche Kleinstaufträge wegen Auftragsüberlastung kaum noch annehmen. **ERSTER SCHRITT:** Ein N",
+      "ts": "2026-09-30 23:49",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-ulrichstein",
+      "via": "gemini",
+      "text": "**WAS:** Der „Vogelsberger Haustür-Service“ kombiniert die gezielte Lieferung von Lebensmitteln und Apothekenbedarf mit einem verlässlichen, respektvollen Plausch auf der Türschwelle. **WARUM HIER:** Als höchstgelegene Stadt Hessens stellt Ulrichstein ältere Menschen besonders im rauen Winter durch steile Wege, Schnee und weit verstreute Ortsteile ohne eigen",
+      "ts": "2026-09-30 23:49",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-ulrichstein",
+      "via": "gemini",
+      "text": "**WAS:** „Vulkan-Picknick auf dem Schlossberg“: Ein reich gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten, der direkt am Fuß der historischen Burgruine Ulrichstein für deine genussvolle Auszeit bereitgestellt wird. **fuer WEN:** Perfekt für Paare und Naturgenießer, die eine romantische Auszeit mit Panoramablick über das Vulkanmassiv suchen. ",
+      "ts": "2026-09-30 23:49",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-ulrichstein",
+      "via": "gemini",
+      "text": "**WAS:** Eine regionale Abo-Box namens „Vogelsberger Höhen-Vesper“ mit haltbaren Landprodukten aus rauer Höhenlage wie Hausmacher-Wurst vom Roten Höhenvieh, regionalem Käse, lagerfähigen Einkellerungs-Kartoffeln und Bienenhonig. **für WEN:** Für anspruchsvolle Pendler und Familien aus dem Raum Alsfeld/Lauterbach/Schotten sowie Heimatverbundene und Stamm-Urla",
+      "ts": "2026-09-30 23:49",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-ulrichstein",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** in Ulrichstein. **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus der Region nach modernen Wärmepumpen oder einer Heizungswartung googeln, landen sie aktuell meist bei der Konkurrenz aus Lauterbach oder Alsfeld – wollen wir dafür sorgen, dass diese lukrativen Anfragen direkt bei Ihnen in Ulrichstein ",
+      "ts": "2026-09-30 23:49",
+      "age_min": 0
+    }
+  ]
 }
