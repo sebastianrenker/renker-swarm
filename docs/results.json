@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-01 03:44 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-01 10:28 UTC",
+  "total_results": 1,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-schwalmtal",
+      "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:**  \nEin lokaler **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Heizungsnotdienst) in Schwalmtal.\n\n**Ansprache-Idee:**  \n„Viele Hausbesitzer in Schwalmtal suchen bei Heizungsproblemen zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor der Auftrag an einen Großbetrieb aus Mönchengladbach geht.“",
+      "ts": "2026-10-01 10:28",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-schwalmtal",
+          "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:**  \nEin lokaler **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Heizungsnotdienst) in Schwalmtal.\n\n**Ansprache-Idee:**  \n„Viele Hausbesitzer in Schwalmtal suchen bei Heizungsproblemen zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor der Auftrag an einen Großbetrieb aus Mönchengladbach geht.“",
+          "ts": "2026-10-01 10:28",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

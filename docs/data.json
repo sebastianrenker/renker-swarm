@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T03:44Z",
+  "updated": "2026-10-01T10:28Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Heizungsnotdienst) in Schwalmtal. **Ansprache-Idee:** „Viele Hausbesitzer in Schwalmtal suchen bei Heizungsproblemen zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor der Auftrag an einen Großbetrieb aus Mönch",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -751,9 +755,9 @@
       "name": "Handwerk-Sichtbarkeit — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Heizungsnotdienst) in Schwalmtal. **Ansprache-Idee:** „Viele Hausbesitzer in Schwalmtal suchen bei Heizun",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-schwalmtal",
@@ -1495,8 +1499,17 @@
     }
   ],
   "budget": {
-    "used": 0,
+    "used": 1,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-schwalmtal",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Heizungsnotdienst) in Schwalmtal. **Ansprache-Idee:** „Viele Hausbesitzer in Schwalmtal suchen bei Heizungsproblemen zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor der Auftrag an einen Großbetrieb aus Mönch",
+      "ts": "2026-10-01 10:28",
+      "age_min": 0
+    }
+  ]
 }
