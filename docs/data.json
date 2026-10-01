@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T10:28Z",
+  "updated": "2026-10-01T17:06Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Heizungsnotdienst) in Schwalmtal. **Ansprache-Idee:** „Viele Hausbesitzer in Schwalmtal suchen bei Heizungsproblemen zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor der Auftrag an einen Großbetrieb aus Mönch",
+        "text": "**WAS:** Genieße eine halbtägige E-Bike-Entdeckertour durch das malerische Schwalmtal mit Zwischenstopps an historischen Fachwerk-Juwelen und einem voll gepackten Picknickkorb voller regionaler Vogelsberger Spezialitäten. **FÜR WEN:** Das Paket richtet sich an Paare, Genussradler und Erholungssuchende, die Natur und Kulinarik entspannt auf zwei Rädern mitein",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Das „Schwalmtaler Ortsteil-Mobil“ ist ein würdevoller Hol- und Begleitdienst, der ältere Menschen aus den kleineren Honschaften barrierefrei für Besorgungen, Arzttermine oder zum Wochenmarkt in die Hauptorte Waldniel und Amern bringt. **WARUM HIER:** In den weit verstreuten Siedlungen Schwalmtals fehlen zunehmend Geschäfte und Fußwege vor der Haustü",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -755,36 +759,36 @@
       "name": "Handwerk-Sichtbarkeit — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Heizungsnotdienst) in Schwalmtal. **Ansprache-Idee:** „Viele Hausbesitzer in Schwalmtal suchen bei Heizun",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-schwalmtal",
       "name": "Direktvermarktung — Schwalmtal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine „Schwalmtaler Feierabend-Box“ im Abo, die wöchentlich frisches saisonales Gemüse, Eier und ein passendes einfaches Rezept für ein schnelles Familien-Abendessen direkt nach Hause liefert. **fuer WEN:** Für b",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-schwalmtal",
       "name": "Vulkanregion-Tourismus — Schwalmtal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Genieße eine halbtägige E-Bike-Entdeckertour durch das malerische Schwalmtal mit Zwischenstopps an historischen Fachwerk-Juwelen und einem voll gepackten Picknickkorb voller regionaler Vogelsberger Spezialitäten",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-schwalmtal",
       "name": "Senioren-Alltagsdienste — Schwalmtal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das „Schwalmtaler Ortsteil-Mobil“ ist ein würdevoller Hol- und Begleitdienst, der ältere Menschen aus den kleineren Honschaften barrierefrei für Besorgungen, Arzttermine oder zum Wochenmarkt in die Hauptorte Wal",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-wartenberg",
@@ -1499,16 +1503,32 @@
     }
   ],
   "budget": {
-    "used": 1,
+    "used": 4,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-schwalmtal",
+      "dept": "Kunden",
+      "agent": "senioren-schwalmtal",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Heizungsnotdienst) in Schwalmtal. **Ansprache-Idee:** „Viele Hausbesitzer in Schwalmtal suchen bei Heizungsproblemen zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor der Auftrag an einen Großbetrieb aus Mönch",
-      "ts": "2026-10-01 10:28",
+      "text": "**WAS:** Das „Schwalmtaler Ortsteil-Mobil“ ist ein würdevoller Hol- und Begleitdienst, der ältere Menschen aus den kleineren Honschaften barrierefrei für Besorgungen, Arzttermine oder zum Wochenmarkt in die Hauptorte Waldniel und Amern bringt. **WARUM HIER:** In den weit verstreuten Siedlungen Schwalmtals fehlen zunehmend Geschäfte und Fußwege vor der Haustü",
+      "ts": "2026-10-01 17:06",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-schwalmtal",
+      "via": "gemini",
+      "text": "**WAS:** Genieße eine halbtägige E-Bike-Entdeckertour durch das malerische Schwalmtal mit Zwischenstopps an historischen Fachwerk-Juwelen und einem voll gepackten Picknickkorb voller regionaler Vogelsberger Spezialitäten. **FÜR WEN:** Das Paket richtet sich an Paare, Genussradler und Erholungssuchende, die Natur und Kulinarik entspannt auf zwei Rädern mitein",
+      "ts": "2026-10-01 17:06",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-schwalmtal",
+      "via": "gemini",
+      "text": "**WAS:** Eine „Schwalmtaler Feierabend-Box“ im Abo, die wöchentlich frisches saisonales Gemüse, Eier und ein passendes einfaches Rezept für ein schnelles Familien-Abendessen direkt nach Hause liefert. **fuer WEN:** Für berufstätige Pendler und Familien aus Schwalmtal und den benachbarten Ortsteilen, die regional kochen wollen, aber unter der Woche keine Zeit",
+      "ts": "2026-10-01 17:06",
       "age_min": 0
     }
   ]

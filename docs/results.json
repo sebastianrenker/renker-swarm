@@ -1,30 +1,72 @@
 {
-  "updated": "2026-10-01 10:28 UTC",
-  "total_results": 1,
-  "total_depts": 1,
+  "updated": "2026-10-01 17:06 UTC",
+  "total_results": 3,
+  "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-schwalmtal",
-      "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-schwalmtal",
+      "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
       "via": "gemini",
-      "text": "**Betriebstyp:**  \nEin lokaler **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Heizungsnotdienst) in Schwalmtal.\n\n**Ansprache-Idee:**  \n„Viele Hausbesitzer in Schwalmtal suchen bei Heizungsproblemen zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor der Auftrag an einen Großbetrieb aus Mönchengladbach geht.“",
-      "ts": "2026-10-01 10:28",
+      "text": "**WAS:**  \nDas „Schwalmtaler Ortsteil-Mobil“ ist ein würdevoller Hol- und Begleitdienst, der ältere Menschen aus den kleineren Honschaften barrierefrei für Besorgungen, Arzttermine oder zum Wochenmarkt in die Hauptorte Waldniel und Amern bringt.\n\n**WARUM HIER:**  \nIn den weit verstreuten Siedlungen Schwalmtals fehlen zunehmend Geschäfte und Fußwege vor der Haustür, sodass Senioren ohne eigenes Auto rasch von der Gemeinschaft abgeschnitten sind.\n\n**ERSTER SCHRITT:**  \nIn Abstimmung mit dem Seniorenbeirat Schwalmtal wird eine kurze Bedarfsabfrage in den Außenbezirken durchgeführt, um erste verlässliche Ehrenamtliche für feste Wochentags-Routen zu gewinnen.",
+      "ts": "2026-10-01 17:06",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-schwalmtal",
+      "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Genieße eine halbtägige E-Bike-Entdeckertour durch das malerische Schwalmtal mit Zwischenstopps an historischen Fachwerk-Juwelen und einem voll gepackten Picknickkorb voller regionaler Vogelsberger Spezialitäten.\n\n**FÜR WEN:** Das Paket richtet sich an Paare, Genussradler und Erholungssuchende, die Natur und Kulinarik entspannt auf zwei Rädern miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus, um dir das Komplett-Paket inklusive Leih-E-Bike und regionalem Picknick mit wenigen Klicks zu sichern.",
+      "ts": "2026-10-01 17:06",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-schwalmtal",
+      "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine „Schwalmtaler Feierabend-Box“ im Abo, die wöchentlich frisches saisonales Gemüse, Eier und ein passendes einfaches Rezept für ein schnelles Familien-Abendessen direkt nach Hause liefert.\n\n**fuer WEN:** Für berufstätige Pendler und Familien aus Schwalmtal und den benachbarten Ortsteilen, die regional kochen wollen, aber unter der Woche keine Zeit für die",
+      "ts": "2026-10-01 17:06",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-schwalmtal",
-          "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
+          "agent": "tourismus-schwalmtal",
+          "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:**  \nEin lokaler **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Heizungsnotdienst) in Schwalmtal.\n\n**Ansprache-Idee:**  \n„Viele Hausbesitzer in Schwalmtal suchen bei Heizungsproblemen zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor der Auftrag an einen Großbetrieb aus Mönchengladbach geht.“",
-          "ts": "2026-10-01 10:28",
+          "text": "**WAS:** Genieße eine halbtägige E-Bike-Entdeckertour durch das malerische Schwalmtal mit Zwischenstopps an historischen Fachwerk-Juwelen und einem voll gepackten Picknickkorb voller regionaler Vogelsberger Spezialitäten.\n\n**FÜR WEN:** Das Paket richtet sich an Paare, Genussradler und Erholungssuchende, die Natur und Kulinarik entspannt auf zwei Rädern miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus, um dir das Komplett-Paket inklusive Leih-E-Bike und regionalem Picknick mit wenigen Klicks zu sichern.",
+          "ts": "2026-10-01 17:06",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-schwalmtal",
+          "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Eine „Schwalmtaler Feierabend-Box“ im Abo, die wöchentlich frisches saisonales Gemüse, Eier und ein passendes einfaches Rezept für ein schnelles Familien-Abendessen direkt nach Hause liefert.\n\n**fuer WEN:** Für berufstätige Pendler und Familien aus Schwalmtal und den benachbarten Ortsteilen, die regional kochen wollen, aber unter der Woche keine Zeit für die",
+          "ts": "2026-10-01 17:06",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-schwalmtal",
+          "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:**  \nDas „Schwalmtaler Ortsteil-Mobil“ ist ein würdevoller Hol- und Begleitdienst, der ältere Menschen aus den kleineren Honschaften barrierefrei für Besorgungen, Arzttermine oder zum Wochenmarkt in die Hauptorte Waldniel und Amern bringt.\n\n**WARUM HIER:**  \nIn den weit verstreuten Siedlungen Schwalmtals fehlen zunehmend Geschäfte und Fußwege vor der Haustür, sodass Senioren ohne eigenes Auto rasch von der Gemeinschaft abgeschnitten sind.\n\n**ERSTER SCHRITT:**  \nIn Abstimmung mit dem Seniorenbeirat Schwalmtal wird eine kurze Bedarfsabfrage in den Außenbezirken durchgeführt, um erste verlässliche Ehrenamtliche für feste Wochentags-Routen zu gewinnen.",
+          "ts": "2026-10-01 17:06",
           "age_min": 0
         }
       ]

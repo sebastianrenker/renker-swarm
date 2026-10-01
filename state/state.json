@@ -1,6 +1,6 @@
 {
   "day": "2026-10-01",
-  "calls_today": 1,
+  "calls_today": 4,
   "last_run": {
     "kommando-digest": 1790383979.3511949,
     "chancen-vogelsberg": 1790383991.42309,
@@ -82,9 +82,9 @@
     "senioren-ulrichstein": 1790812172.2860487,
     "chancen-schwalmtal": 1790812182.6408026,
     "handwerk-schwalmtal": 1790850521.9548311,
-    "direkt-schwalmtal": 1789853815.7096703,
-    "tourismus-schwalmtal": 1789853823.7461894,
-    "senioren-schwalmtal": 1789853835.51623,
+    "direkt-schwalmtal": 1790874391.0021856,
+    "tourismus-schwalmtal": 1790874398.4177032,
+    "senioren-schwalmtal": 1790874406.0858545,
     "chancen-wartenberg": 1789860794.530882,
     "handwerk-wartenberg": 1789860801.0264242,
     "direkt-wartenberg": 1789868352.6007504,
