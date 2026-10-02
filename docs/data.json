@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-02T01:15Z",
+  "updated": "2026-10-02T07:03Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 5,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler E-Bike-Verleih mit integriertem Lieferservice für regionale Picknick-Kisten direkt an den Campingplatz und die Wanderparkplätze der Antrifttalsperre. **WARUM HIER:** Der Tagestourismus rund um den Antrifttal-Stausee wächst stetig, jedoch fehlen vor Ort flexible Versorgungsangebote und eine Fahrrad-Service-Infrastruktur für Ausflügler völ",
+        "text": "**WAS:** Mobiler Brennholz-Stapel- und Garten-Schwerlast-Service für ältere Eigenheimbesitzer und Pendler im Gründchen. **WARUM HIER:** Grebenau weist eine sehr hohe Dichte an holzgeheizten Eigenheimen bei gleichzeitig alternder Bevölkerung auf, der es für das körperlich schwere Schleppen, Spalten und Stapeln von Brennholz oft an Kraft oder helfenden Angehör",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Der mobile Fahr- und Begleitdienst „Wartenberger Dorf-Paten“ unterstützt Seniorinnen und Senioren persönlich bei Einkäufen, Arztbesuchen und alltäglichen Besorgungen direkt ab der eigenen Haustür. **WARUM HIER:** Aufgrund der weit verstreuten Ortsteile rund um Wartenberg und der lückenhaften ÖPNV-Anbindung wird der Weg zum nächsten Supermarkt oder F",
+        "text": "**WAS** Ein nachbarschaftlicher Fahr- und Begleitdienst holt ältere Menschen direkt an der Haustür ab, unterstützt sie respektvoll bei Einkäufen oder Arztbesuchen und schenkt Zeit für ein zugewandtes Gespräch. **WARUM HIER** In den fünf weit verstreuten Ortsteilen von Antrifttal fehlen Nahversorger direkt vor der Haustür, sodass mobile Hilfe entscheidend daf",
         "age_min": 0
       }
     },
@@ -795,99 +795,99 @@
       "name": "Chancen-Scout — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein mobiler Fahrrad- und E-Bike-Inspektionsservice, der Reparaturen und Wartungen direkt vor der Haustür der Kunden in Angersbach und Landenhausen erledigt. **WARUM HIER** Wartenberg liegt strategisch perfekt an ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-wartenberg",
       "name": "Handwerk-Sichtbarkeit — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Hallo Herr [Name], wenn Wartenberger auf dem Smartphone nach einer neuen Wärmepumpe oder einer Badsanierung suchen, sollten sie direkt bei Ihre",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-wartenberg",
       "name": "Direktvermarktung — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das „Wartenberger Feierabend-Kistl“ ist eine wöchentliche Abokiste mit ehrlichen Grundnahrungsmitteln – wie Eiern, Käse, Holzofenbrot und Saison-Gemüse – von Höfen aus dem Erdinger Holzland, die freitags an eine",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-wartenberg",
       "name": "Vulkanregion-Tourismus — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Burgruine & Genuss“ ist eine geführte Abendwanderung zur historischen Burgruine Wartenberg mit einem gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten im Fackelschein. **für WEN:** Dieses Ange",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-wartenberg",
       "name": "Senioren-Alltagsdienste — Wartenberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der mobile Fahr- und Begleitdienst „Wartenberger Dorf-Paten“ unterstützt Seniorinnen und Senioren persönlich bei Einkäufen, Arztbesuchen und alltäglichen Besorgungen direkt ab der eigenen Haustür. **WARUM HIER:*",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-antrifttal",
       "name": "Chancen-Scout — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Verleih mit integriertem Lieferservice für regionale Picknick-Kisten direkt an den Campingplatz und die Wanderparkplätze der Antrifttalsperre. **WARUM HIER:** Der Tagestourismus rund um den An",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-antrifttal",
       "name": "Handwerk-Sichtbarkeit — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer (SHK-Betrieb)** in Antrifttal. **Ansprache-Idee (1 Satz):** „Damit die Menschen in Antrifttal und den Nachbardörfern bei einer geplanten Wärmepumpe oder einem Heizungsaus",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-antrifttal",
       "name": "Direktvermarktung — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Antrifttaler Feierabend-Kiste“ ist ein wöchentliches Abo mit frischem Landbrot, Ahler Wurscht, Hofkäse und knackigem Saison-Gemüse direkt von Erzeugern aus dem Vogelsbergkreis. **FÜR WEN:** Für Pendler und ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-antrifttal",
       "name": "Vulkanregion-Tourismus — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei der „Vulkan-Picknick-Auszeit am Antriftsee“ buchst du einen reich gefüllten Korb mit regionalen Vogelsberger Spezialitäten inklusive zweistündiger Tretboot-Miete für eine genussvolle Fahrt auf dem Stausee. *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-antrifttal",
       "name": "Senioren-Alltagsdienste — Antrifttal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein nachbarschaftlicher Fahr- und Begleitdienst holt ältere Menschen direkt an der Haustür ab, unterstützt sie respektvoll bei Einkäufen oder Arztbesuchen und schenkt Zeit für ein zugewandtes Gespräch. **WARUM HI",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grebenau",
       "name": "Chancen-Scout — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobiler Brennholz-Stapel- und Garten-Schwerlast-Service für ältere Eigenheimbesitzer und Pendler im Gründchen. **WARUM HIER:** Grebenau weist eine sehr hohe Dichte an holzgeheizten Eigenheimen bei gleichzeitig a",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grebenau",
@@ -1503,56 +1503,48 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 11,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-antrifttal",
+      "agent": "chancen-grebenau",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Verleih mit integriertem Lieferservice für regionale Picknick-Kisten direkt an den Campingplatz und die Wanderparkplätze der Antrifttalsperre. **WARUM HIER:** Der Tagestourismus rund um den Antrifttal-Stausee wächst stetig, jedoch fehlen vor Ort flexible Versorgungsangebote und eine Fahrrad-Service-Infrastruktur für Ausflügler völ",
-      "ts": "2026-10-02 01:15",
+      "text": "**WAS:** Mobiler Brennholz-Stapel- und Garten-Schwerlast-Service für ältere Eigenheimbesitzer und Pendler im Gründchen. **WARUM HIER:** Grebenau weist eine sehr hohe Dichte an holzgeheizten Eigenheimen bei gleichzeitig alternder Bevölkerung auf, der es für das körperlich schwere Schleppen, Spalten und Stapeln von Brennholz oft an Kraft oder helfenden Angehör",
+      "ts": "2026-10-02 07:03",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-wartenberg",
+      "agent": "senioren-antrifttal",
       "via": "gemini",
-      "text": "**WAS:** Der mobile Fahr- und Begleitdienst „Wartenberger Dorf-Paten“ unterstützt Seniorinnen und Senioren persönlich bei Einkäufen, Arztbesuchen und alltäglichen Besorgungen direkt ab der eigenen Haustür. **WARUM HIER:** Aufgrund der weit verstreuten Ortsteile rund um Wartenberg und der lückenhaften ÖPNV-Anbindung wird der Weg zum nächsten Supermarkt oder F",
-      "ts": "2026-10-02 01:15",
+      "text": "**WAS** Ein nachbarschaftlicher Fahr- und Begleitdienst holt ältere Menschen direkt an der Haustür ab, unterstützt sie respektvoll bei Einkäufen oder Arztbesuchen und schenkt Zeit für ein zugewandtes Gespräch. **WARUM HIER** In den fünf weit verstreuten Ortsteilen von Antrifttal fehlen Nahversorger direkt vor der Haustür, sodass mobile Hilfe entscheidend daf",
+      "ts": "2026-10-02 07:03",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-wartenberg",
+      "agent": "tourismus-antrifttal",
       "via": "gemini",
-      "text": "**WAS:** „Burgruine & Genuss“ ist eine geführte Abendwanderung zur historischen Burgruine Wartenberg mit einem gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten im Fackelschein. **für WEN:** Dieses Angebot richtet sich an Paare und kleine Gruppen, die Naturgeschichte und ein romantisches Kulinarik-Erlebnis im Grünen miteinander verbinden mö",
-      "ts": "2026-10-02 01:15",
+      "text": "**WAS:** Bei der „Vulkan-Picknick-Auszeit am Antriftsee“ buchst du einen reich gefüllten Korb mit regionalen Vogelsberger Spezialitäten inklusive zweistündiger Tretboot-Miete für eine genussvolle Fahrt auf dem Stausee. **fuer WEN:** Das Angebot richtet sich an Paare und Erholungssuchende, die eine romantische und entspannte Auszeit direkt auf dem Wasser verb",
+      "ts": "2026-10-02 07:03",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-wartenberg",
+      "agent": "direkt-antrifttal",
       "via": "gemini",
-      "text": "**WAS:** Das „Wartenberger Feierabend-Kistl“ ist eine wöchentliche Abokiste mit ehrlichen Grundnahrungsmitteln – wie Eiern, Käse, Holzofenbrot und Saison-Gemüse – von Höfen aus dem Erdinger Holzland, die freitags an einer zentralen Abholstation bereitsteht. **für WEN:** Es richtet sich an beschäftigte Pendler und Familien aus Wartenberg und den umliegenden G",
-      "ts": "2026-10-02 01:15",
+      "text": "**WAS:** Die „Antrifttaler Feierabend-Kiste“ ist ein wöchentliches Abo mit frischem Landbrot, Ahler Wurscht, Hofkäse und knackigem Saison-Gemüse direkt von Erzeugern aus dem Vogelsbergkreis. **FÜR WEN:** Für Pendler und geschäftige Familien aus Antrifttal und Umgebung, die Wert auf ehrliche, regionale Lebensmittel legen und sich nach der Arbeit den Gang in d",
+      "ts": "2026-10-02 07:03",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-wartenberg",
+      "agent": "handwerk-antrifttal",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Hallo Herr [Name], wenn Wartenberger auf dem Smartphone nach einer neuen Wärmepumpe oder einer Badsanierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb landen – und nicht bei der Konkurrenz aus der nächsten Großstadt.“",
-      "ts": "2026-10-02 01:15",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-wartenberg",
-      "via": "gemini",
-      "text": "**WAS** Ein mobiler Fahrrad- und E-Bike-Inspektionsservice, der Reparaturen und Wartungen direkt vor der Haustür der Kunden in Angersbach und Landenhausen erledigt. **WARUM HIER** Wartenberg liegt strategisch perfekt an beliebten Radrouten und hat viele Radpendler nach Fulda oder Lauterbach, verfügt aber über kein einziges eigenes Fahrradfachgeschäft im Geme",
-      "ts": "2026-10-02 01:15",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer (SHK-Betrieb)** in Antrifttal. **Ansprache-Idee (1 Satz):** „Damit die Menschen in Antrifttal und den Nachbardörfern bei einer geplanten Wärmepumpe oder einem Heizungsausfall direkt Ihren Betrieb auf dem Smartphone finden – und nicht die Konkurrenz aus Alsfeld oder Stadtallendorf.“",
+      "ts": "2026-10-02 07:02",
       "age_min": 0
     }
   ]
