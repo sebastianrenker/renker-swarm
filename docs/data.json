@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-02T18:54Z",
+  "updated": "2026-10-02T22:47Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** „Gründchen-Genussperle“ ist eine geführte E-Bike-Entdeckungstour durch die Wälder rund um Grebenau mit einem anschließenden Picknick voller regionaler Vulkan-Spezialitäten an einem verwunschenen Waldsee. **fuer WEN:** Dieses Angebot richtet sich an naturbegeisterte Paare, aktive Genießer und kleine Freundesgruppen, die eine entspannte Auszeit im Grü",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -886,27 +890,27 @@
       "name": "Handwerk-Sichtbarkeit — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbaubetrieb** in Grebenau. **Ansprache-Idee:** „Hallo Herr [Name], mit einer sauberen lokalen Google-Sichtbarkeit sorgen wir dafür, dass Hausbesitzer direkt aus Greben",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-grebenau",
       "name": "Direktvermarktung — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Gräbenauer Vesper-Box“ ist ein wöchentliches Abo mit frischem Bauernbrot, Hausmacher Wurst, Vogelsberger Käse und saisonalem Hofgemüse für eine ehrliche Brotzeit nach Feierabend. **fuer WEN:** Für beschäfti",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-grebenau",
       "name": "Vulkanregion-Tourismus — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Gründchen-Genussperle“ ist eine geführte E-Bike-Entdeckungstour durch die Wälder rund um Grebenau mit einem anschließenden Picknick voller regionaler Vulkan-Spezialitäten an einem verwunschenen Waldsee. **fuer ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-grebenau",
@@ -1495,8 +1499,33 @@
     }
   ],
   "budget": {
-    "used": 11,
+    "used": 14,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-grebenau",
+      "via": "gemini",
+      "text": "**WAS:** „Gründchen-Genussperle“ ist eine geführte E-Bike-Entdeckungstour durch die Wälder rund um Grebenau mit einem anschließenden Picknick voller regionaler Vulkan-Spezialitäten an einem verwunschenen Waldsee. **fuer WEN:** Dieses Angebot richtet sich an naturbegeisterte Paare, aktive Genießer und kleine Freundesgruppen, die eine entspannte Auszeit im Grü",
+      "ts": "2026-10-02 22:46",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-grebenau",
+      "via": "gemini",
+      "text": "**WAS:** Die „Gräbenauer Vesper-Box“ ist ein wöchentliches Abo mit frischem Bauernbrot, Hausmacher Wurst, Vogelsberger Käse und saisonalem Hofgemüse für eine ehrliche Brotzeit nach Feierabend. **fuer WEN:** Für beschäftigte Familien, Pendler und Senioren aus Grebenau und den Nachbardörfern, die gute Lebensmittel aus der Heimat schätzen, aber unter der Woche ",
+      "ts": "2026-10-02 22:46",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grebenau",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbaubetrieb** in Grebenau. **Ansprache-Idee:** „Hallo Herr [Name], mit einer sauberen lokalen Google-Sichtbarkeit sorgen wir dafür, dass Hausbesitzer direkt aus Grebenau und den Nachbardörfern bei Wärmepumpen-Anfragen oder Badsanierungen zuerst bei Ihnen anrufen – statt bei der Konkurrenz aus Alsfeld oder ",
+      "ts": "2026-10-02 22:46",
+      "age_min": 0
+    }
+  ]
 }
