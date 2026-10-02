@@ -1,7 +1,129 @@
 {
-  "updated": "2026-10-01 21:49 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-02 01:15 UTC",
+  "total_results": 6,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-antrifttal",
+      "title": "Chancen-Scout — Antrifttal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Verleih mit integriertem Lieferservice für regionale Picknick-Kisten direkt an den Campingplatz und die Wanderparkplätze der Antrifttalsperre.\n\n**WARUM HIER:** Der Tagestourismus rund um den Antrifttal-Stausee wächst stetig, jedoch fehlen vor Ort flexible Versorgungsangebote und eine Fahrrad-Service-Infrastruktur für Ausflügler völlig.\n\n**ERSTER SCHRITT:** Eine Partnerschaft mit dem Betreiber des See-Campingparks schließen und testweise fünf regional gefüllte Picknick-Rucksäcke über eine einfache Online-Landingpage zur Reservierung anbieten.",
+      "ts": "2026-10-02 01:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-wartenberg",
+      "title": "Senioren-Alltagsdienste — Wartenberg  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Der mobile Fahr- und Begleitdienst „Wartenberger Dorf-Paten“ unterstützt Seniorinnen und Senioren persönlich bei Einkäufen, Arztbesuchen und alltäglichen Besorgungen direkt ab der eigenen Haustür.\n\n**WARUM HIER:** Aufgrund der weit verstreuten Ortsteile rund um Wartenberg und der lückenhaften ÖPNV-Anbindung wird der Weg zum nächsten Supermarkt oder Facharzt für mobilitätseingeschränkte Menschen ohne eigenes Auto sonst zur unüberwindbaren Hürde.\n\n**ERSTER SCHRITT:** In Kooperation mit der Gemeinde und der lokalen Nachbarschaftshilfe wird eine zentrale, einfach erreichbare Telefon-Anlaufstelle eingerichtet, um Angebot und Nachfrage unbürokratisch zu zusammenzubringen.",
+      "ts": "2026-10-02 01:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-wartenberg",
+      "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** „Burgruine & Genuss“ ist eine geführte Abendwanderung zur historischen Burgruine Wartenberg mit einem gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten im Fackelschein.\n\n**für WEN:** Dieses Angebot richtet sich an Paare und kleine Gruppen, die Naturgeschichte und ein romantisches Kulinarik-Erlebnis im Grünen miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunschtermin aus und sichere dir dein Erlebnispaket direkt mit wenigen Klicks online.",
+      "ts": "2026-10-02 01:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-wartenberg",
+      "title": "Direktvermarktung — Wartenberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDas „Wartenberger Feierabend-Kistl“ ist eine wöchentliche Abokiste mit ehrlichen Grundnahrungsmitteln – wie Eiern, Käse, Holzofenbrot und Saison-Gemüse – von Höfen aus dem Erdinger Holzland, die freitags an einer zentralen Abholstation bereitsteht.\n\n**für WEN:** \nEs richtet sich an beschäftigte Pendler und Familien aus Wartenberg und den umliegenden Gemeinden, die sich ohne Aufwand bodenständig und regional ernähren wollen.\n\n**ERSTER SCHRITT:** \nDrei lokale Erzeuger (z. B. Hofläden/Landwirte aus der Umgebung) an einen Tisch holen, ein einfaches Starter-Sortiment festlegen und die Idee bei 20 Test-Haushalten in Wartenberg ausprobieren.",
+      "ts": "2026-10-02 01:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-wartenberg",
+      "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK)\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Wartenberger auf dem Smartphone nach einer neuen Wärmepumpe oder einer Badsanierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb landen – und nicht bei der Konkurrenz aus der nächsten Großstadt.“",
+      "ts": "2026-10-02 01:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-wartenberg",
+      "title": "Chancen-Scout — Wartenberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS**\nEin mobiler Fahrrad- und E-Bike-Inspektionsservice, der Reparaturen und Wartungen direkt vor der Haustür der Kunden in Angersbach und Landenhausen erledigt.\n\n**WARUM HIER**\nWartenberg liegt strategisch perfekt an beliebten Radrouten und hat viele Radpendler nach Fulda oder Lauterbach, verfügt aber über kein einziges eigenes Fahrradfachgeschäft im Gemeindegebiet.\n\n**ERSTER SCHRITT**\nBestücke einen vorhandenen Transporter mit Basiswerkzeug, erstelle eine einfache Buchungs-Website und verteile Flyer in den Wartenberger Wohngebieten sowie am Bahnhof Angersbach.",
+      "ts": "2026-10-02 01:15",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 5,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "chancen-antrifttal",
+          "title": "Chancen-Scout — Antrifttal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler E-Bike-Verleih mit integriertem Lieferservice für regionale Picknick-Kisten direkt an den Campingplatz und die Wanderparkplätze der Antrifttalsperre.\n\n**WARUM HIER:** Der Tagestourismus rund um den Antrifttal-Stausee wächst stetig, jedoch fehlen vor Ort flexible Versorgungsangebote und eine Fahrrad-Service-Infrastruktur für Ausflügler völlig.\n\n**ERSTER SCHRITT:** Eine Partnerschaft mit dem Betreiber des See-Campingparks schließen und testweise fünf regional gefüllte Picknick-Rucksäcke über eine einfache Online-Landingpage zur Reservierung anbieten.",
+          "ts": "2026-10-02 01:15",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-wartenberg",
+          "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** „Burgruine & Genuss“ ist eine geführte Abendwanderung zur historischen Burgruine Wartenberg mit einem gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten im Fackelschein.\n\n**für WEN:** Dieses Angebot richtet sich an Paare und kleine Gruppen, die Naturgeschichte und ein romantisches Kulinarik-Erlebnis im Grünen miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunschtermin aus und sichere dir dein Erlebnispaket direkt mit wenigen Klicks online.",
+          "ts": "2026-10-02 01:15",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-wartenberg",
+          "title": "Direktvermarktung — Wartenberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDas „Wartenberger Feierabend-Kistl“ ist eine wöchentliche Abokiste mit ehrlichen Grundnahrungsmitteln – wie Eiern, Käse, Holzofenbrot und Saison-Gemüse – von Höfen aus dem Erdinger Holzland, die freitags an einer zentralen Abholstation bereitsteht.\n\n**für WEN:** \nEs richtet sich an beschäftigte Pendler und Familien aus Wartenberg und den umliegenden Gemeinden, die sich ohne Aufwand bodenständig und regional ernähren wollen.\n\n**ERSTER SCHRITT:** \nDrei lokale Erzeuger (z. B. Hofläden/Landwirte aus der Umgebung) an einen Tisch holen, ein einfaches Starter-Sortiment festlegen und die Idee bei 20 Test-Haushalten in Wartenberg ausprobieren.",
+          "ts": "2026-10-02 01:15",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-wartenberg",
+          "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK)\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Wartenberger auf dem Smartphone nach einer neuen Wärmepumpe oder einer Badsanierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb landen – und nicht bei der Konkurrenz aus der nächsten Großstadt.“",
+          "ts": "2026-10-02 01:15",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-wartenberg",
+          "title": "Chancen-Scout — Wartenberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS**\nEin mobiler Fahrrad- und E-Bike-Inspektionsservice, der Reparaturen und Wartungen direkt vor der Haustür der Kunden in Angersbach und Landenhausen erledigt.\n\n**WARUM HIER**\nWartenberg liegt strategisch perfekt an beliebten Radrouten und hat viele Radpendler nach Fulda oder Lauterbach, verfügt aber über kein einziges eigenes Fahrradfachgeschäft im Gemeindegebiet.\n\n**ERSTER SCHRITT**\nBestücke einen vorhandenen Transporter mit Basiswerkzeug, erstelle eine einfache Buchungs-Website und verteile Flyer in den Wartenberger Wohngebieten sowie am Bahnhof Angersbach.",
+          "ts": "2026-10-02 01:15",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-wartenberg",
+          "title": "Senioren-Alltagsdienste — Wartenberg  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Der mobile Fahr- und Begleitdienst „Wartenberger Dorf-Paten“ unterstützt Seniorinnen und Senioren persönlich bei Einkäufen, Arztbesuchen und alltäglichen Besorgungen direkt ab der eigenen Haustür.\n\n**WARUM HIER:** Aufgrund der weit verstreuten Ortsteile rund um Wartenberg und der lückenhaften ÖPNV-Anbindung wird der Weg zum nächsten Supermarkt oder Facharzt für mobilitätseingeschränkte Menschen ohne eigenes Auto sonst zur unüberwindbaren Hürde.\n\n**ERSTER SCHRITT:** In Kooperation mit der Gemeinde und der lokalen Nachbarschaftshilfe wird eine zentrale, einfach erreichbare Telefon-Anlaufstelle eingerichtet, um Angebot und Nachfrage unbürokratisch zu zusammenzubringen.",
+          "ts": "2026-10-02 01:15",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
