@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-02T07:03Z",
+  "updated": "2026-10-02T13:50Z",
   "agents_total": 162,
-  "worked": 5,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Mobiler Brennholz-Stapel- und Garten-Schwerlast-Service für ältere Eigenheimbesitzer und Pendler im Gründchen. **WARUM HIER:** Grebenau weist eine sehr hohe Dichte an holzgeheizten Eigenheimen bei gleichzeitig alternder Bevölkerung auf, der es für das körperlich schwere Schleppen, Spalten und Stapeln von Brennholz oft an Kraft oder helfenden Angehör",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS** Ein nachbarschaftlicher Fahr- und Begleitdienst holt ältere Menschen direkt an der Haustür ab, unterstützt sie respektvoll bei Einkäufen oder Arztbesuchen und schenkt Zeit für ein zugewandtes Gespräch. **WARUM HIER** In den fünf weit verstreuten Ortsteilen von Antrifttal fehlen Nahversorger direkt vor der Haustür, sodass mobile Hilfe entscheidend daf",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -849,45 +841,45 @@
       "name": "Handwerk-Sichtbarkeit — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer (SHK-Betrieb)** in Antrifttal. **Ansprache-Idee (1 Satz):** „Damit die Menschen in Antrifttal und den Nachbardörfern bei einer geplanten Wärmepumpe oder einem Heizungsaus",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-antrifttal",
       "name": "Direktvermarktung — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Antrifttaler Feierabend-Kiste“ ist ein wöchentliches Abo mit frischem Landbrot, Ahler Wurscht, Hofkäse und knackigem Saison-Gemüse direkt von Erzeugern aus dem Vogelsbergkreis. **FÜR WEN:** Für Pendler und ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-antrifttal",
       "name": "Vulkanregion-Tourismus — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der „Vulkan-Picknick-Auszeit am Antriftsee“ buchst du einen reich gefüllten Korb mit regionalen Vogelsberger Spezialitäten inklusive zweistündiger Tretboot-Miete für eine genussvolle Fahrt auf dem Stausee. *",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-antrifttal",
       "name": "Senioren-Alltagsdienste — Antrifttal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Ein nachbarschaftlicher Fahr- und Begleitdienst holt ältere Menschen direkt an der Haustür ab, unterstützt sie respektvoll bei Einkäufen oder Arztbesuchen und schenkt Zeit für ein zugewandtes Gespräch. **WARUM HI",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-grebenau",
       "name": "Chancen-Scout — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobiler Brennholz-Stapel- und Garten-Schwerlast-Service für ältere Eigenheimbesitzer und Pendler im Gründchen. **WARUM HIER:** Grebenau weist eine sehr hohe Dichte an holzgeheizten Eigenheimen bei gleichzeitig a",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-grebenau",
@@ -1506,46 +1498,5 @@
     "used": 11,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "chancen-grebenau",
-      "via": "gemini",
-      "text": "**WAS:** Mobiler Brennholz-Stapel- und Garten-Schwerlast-Service für ältere Eigenheimbesitzer und Pendler im Gründchen. **WARUM HIER:** Grebenau weist eine sehr hohe Dichte an holzgeheizten Eigenheimen bei gleichzeitig alternder Bevölkerung auf, der es für das körperlich schwere Schleppen, Spalten und Stapeln von Brennholz oft an Kraft oder helfenden Angehör",
-      "ts": "2026-10-02 07:03",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-antrifttal",
-      "via": "gemini",
-      "text": "**WAS** Ein nachbarschaftlicher Fahr- und Begleitdienst holt ältere Menschen direkt an der Haustür ab, unterstützt sie respektvoll bei Einkäufen oder Arztbesuchen und schenkt Zeit für ein zugewandtes Gespräch. **WARUM HIER** In den fünf weit verstreuten Ortsteilen von Antrifttal fehlen Nahversorger direkt vor der Haustür, sodass mobile Hilfe entscheidend daf",
-      "ts": "2026-10-02 07:03",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-antrifttal",
-      "via": "gemini",
-      "text": "**WAS:** Bei der „Vulkan-Picknick-Auszeit am Antriftsee“ buchst du einen reich gefüllten Korb mit regionalen Vogelsberger Spezialitäten inklusive zweistündiger Tretboot-Miete für eine genussvolle Fahrt auf dem Stausee. **fuer WEN:** Das Angebot richtet sich an Paare und Erholungssuchende, die eine romantische und entspannte Auszeit direkt auf dem Wasser verb",
-      "ts": "2026-10-02 07:03",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-antrifttal",
-      "via": "gemini",
-      "text": "**WAS:** Die „Antrifttaler Feierabend-Kiste“ ist ein wöchentliches Abo mit frischem Landbrot, Ahler Wurscht, Hofkäse und knackigem Saison-Gemüse direkt von Erzeugern aus dem Vogelsbergkreis. **FÜR WEN:** Für Pendler und geschäftige Familien aus Antrifttal und Umgebung, die Wert auf ehrliche, regionale Lebensmittel legen und sich nach der Arbeit den Gang in d",
-      "ts": "2026-10-02 07:03",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-antrifttal",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer (SHK-Betrieb)** in Antrifttal. **Ansprache-Idee (1 Satz):** „Damit die Menschen in Antrifttal und den Nachbardörfern bei einer geplanten Wärmepumpe oder einem Heizungsausfall direkt Ihren Betrieb auf dem Smartphone finden – und nicht die Konkurrenz aus Alsfeld oder Stadtallendorf.“",
-      "ts": "2026-10-02 07:02",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
