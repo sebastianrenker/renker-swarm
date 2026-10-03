@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-03 12:31 UTC",
+  "updated": "2026-10-03 16:43 UTC",
   "total_results": 1,
   "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-fulda",
-      "title": "Senioren-Alltagsdienste — Fulda  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "chancen-petersberg",
+      "title": "Chancen-Scout — Petersberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher Einkaufs- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen des Fuldaer Landes direkt an der Haustür abholt, bei Wegen in die Stadt unterstützt und sicher wieder nach Hause bringt.\n\n**WARUM HIER:** In den verstreuten Dörfern rund um Fulda fehlen oft Dorfläden und dichte Busverbindungen, weshalb dieser Dienst die Selbstständigkeit und soziale Teilhabe im gewohnten Umfeld sichert.\n\n**ERSTER SCHRITT:** Nehmen Sie telefonisch Kontakt mit dem Seniorenbüro der Stadt Fulda auf, um die Fahrtage für Ihr Dorf zu erfragen und eine erste Begleitung abzusprechen.",
-      "ts": "2026-10-03 12:31",
+      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Inspektionsservice, der Wartungen und Kleinreparaturen direkt vor der Haustür der Kunden durchführt.\n\n**WARUM HIER:** Petersberg bietet eine extrem hohe Dichte an kaufkräftigen Eigenheimbesitzern und Pendler-Haushalten mit hochwertigen E-Bikes, verfügt aber über keine eigene Fahrradwerkstatt mit kurzfristigen Terminen.\n\n**ERSTER SCHRITT:** Ein Gewerbe anmelden, Basiswerkzeug in den eigenen Kombi packen und 500 Flyer mit einem Festpreis-Angebot für eine Vor-Ort-Inspektion in den Petersberger Wohngebieten verteilen.",
+      "ts": "2026-10-03 16:43",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Kunden",
+      "id": "Chancen",
       "count": 1,
       "items": [
         {
-          "dept": "Kunden",
-          "agent": "senioren-fulda",
-          "title": "Senioren-Alltagsdienste — Fulda  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "chancen-petersberg",
+          "title": "Chancen-Scout — Petersberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein verlässlicher Einkaufs- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen des Fuldaer Landes direkt an der Haustür abholt, bei Wegen in die Stadt unterstützt und sicher wieder nach Hause bringt.\n\n**WARUM HIER:** In den verstreuten Dörfern rund um Fulda fehlen oft Dorfläden und dichte Busverbindungen, weshalb dieser Dienst die Selbstständigkeit und soziale Teilhabe im gewohnten Umfeld sichert.\n\n**ERSTER SCHRITT:** Nehmen Sie telefonisch Kontakt mit dem Seniorenbüro der Stadt Fulda auf, um die Fahrtage für Ihr Dorf zu erfragen und eine erste Begleitung abzusprechen.",
-          "ts": "2026-10-03 12:31",
+          "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Inspektionsservice, der Wartungen und Kleinreparaturen direkt vor der Haustür der Kunden durchführt.\n\n**WARUM HIER:** Petersberg bietet eine extrem hohe Dichte an kaufkräftigen Eigenheimbesitzern und Pendler-Haushalten mit hochwertigen E-Bikes, verfügt aber über keine eigene Fahrradwerkstatt mit kurzfristigen Terminen.\n\n**ERSTER SCHRITT:** Ein Gewerbe anmelden, Basiswerkzeug in den eigenen Kombi packen und 500 Flyer mit einem Festpreis-Angebot für eine Vor-Ort-Inspektion in den Petersberger Wohngebieten verteilen.",
+          "ts": "2026-10-03 16:43",
           "age_min": 0
         }
       ]

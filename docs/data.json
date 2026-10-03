@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T12:31Z",
+  "updated": "2026-10-03T16:43Z",
   "agents_total": 162,
   "worked": 1,
   "departments": [
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Inspektionsservice, der Wartungen und Kleinreparaturen direkt vor der Haustür der Kunden durchführt. **WARUM HIER:** Petersberg bietet eine extrem hohe Dichte an kaufkräftigen Eigenheimbesitzern und Pendler-Haushalten mit hochwertigen E-Bikes, verfügt aber über keine eigene Fahrradwerkstatt mit kurzfristigen Terminen.",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher Einkaufs- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen des Fuldaer Landes direkt an der Haustür abholt, bei Wegen in die Stadt unterstützt und sicher wieder nach Hause bringt. **WARUM HIER:** In den verstreuten Dörfern rund um Fulda fehlen oft Dorfläden und dichte Busverbindungen, weshalb dieser Dienst die ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -998,18 +998,18 @@
       "name": "Senioren-Alltagsdienste — Fulda",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher Einkaufs- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen des Fuldaer Landes direkt an der Haustür abholt, bei Wegen in die Stadt unterstützt und sicher wieder nach Hause ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-petersberg",
       "name": "Chancen-Scout — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Inspektionsservice, der Wartungen und Kleinreparaturen direkt vor der Haustür der Kunden durchführt. **WARUM HIER:** Petersberg bietet eine extrem hohe Dichte an kaufkräftigen Eig",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-petersberg",
@@ -1499,16 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 11,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-fulda",
+      "dept": "Chancen",
+      "agent": "chancen-petersberg",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher Einkaufs- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen des Fuldaer Landes direkt an der Haustür abholt, bei Wegen in die Stadt unterstützt und sicher wieder nach Hause bringt. **WARUM HIER:** In den verstreuten Dörfern rund um Fulda fehlen oft Dorfläden und dichte Busverbindungen, weshalb dieser Dienst die ",
-      "ts": "2026-10-03 12:31",
+      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Inspektionsservice, der Wartungen und Kleinreparaturen direkt vor der Haustür der Kunden durchführt. **WARUM HIER:** Petersberg bietet eine extrem hohe Dichte an kaufkräftigen Eigenheimbesitzern und Pendler-Haushalten mit hochwertigen E-Bikes, verfügt aber über keine eigene Fahrradwerkstatt mit kurzfristigen Terminen.",
+      "ts": "2026-10-03 16:43",
       "age_min": 0
     }
   ]
