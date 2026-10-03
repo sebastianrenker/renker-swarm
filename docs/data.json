@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T22:47Z",
+  "updated": "2026-10-03T01:40Z",
   "agents_total": 162,
   "worked": 3,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** „Gründchen-Genussperle“ ist eine geführte E-Bike-Entdeckungstour durch die Wälder rund um Grebenau mit einem anschließenden Picknick voller regionaler Vulkan-Spezialitäten an einem verwunschenen Waldsee. **fuer WEN:** Dieses Angebot richtet sich an naturbegeisterte Paare, aktive Genießer und kleine Freundesgruppen, die eine entspannte Auszeit im Grü",
+        "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb (SHK)** in Lautertal. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer im Lautertal aktuell nach einer Wärmepumpe oder Badsanierung googeln, landen sie meist bei Betrieben aus Bensheim oder Darmstadt – lassen Sie uns dafür sorgen, dass Ihre Kunden aus der Nachbarschaft wieder zuerst b",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher Dorfmobil-Fahr- und Begleitdienst, der ältere Menschen auf Augenhöhe für Einkäufe, Arztbesuche oder soziale Kontakte direkt an der eigenen Haustür abholt. **WARUM HIER:** Da die sieben Ortsteile von Grebenau weit im Gründchen verstreut liegen und der öffentliche Nahverkehr dünn ist, bewahrt dieser Dienst die eigenständige Lebensfüh",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -890,54 +894,54 @@
       "name": "Handwerk-Sichtbarkeit — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbaubetrieb** in Grebenau. **Ansprache-Idee:** „Hallo Herr [Name], mit einer sauberen lokalen Google-Sichtbarkeit sorgen wir dafür, dass Hausbesitzer direkt aus Greben",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grebenau",
       "name": "Direktvermarktung — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Gräbenauer Vesper-Box“ ist ein wöchentliches Abo mit frischem Bauernbrot, Hausmacher Wurst, Vogelsberger Käse und saisonalem Hofgemüse für eine ehrliche Brotzeit nach Feierabend. **fuer WEN:** Für beschäfti",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-grebenau",
       "name": "Vulkanregion-Tourismus — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Gründchen-Genussperle“ ist eine geführte E-Bike-Entdeckungstour durch die Wälder rund um Grebenau mit einem anschließenden Picknick voller regionaler Vulkan-Spezialitäten an einem verwunschenen Waldsee. **fuer ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-grebenau",
       "name": "Senioren-Alltagsdienste — Grebenau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher Dorfmobil-Fahr- und Begleitdienst, der ältere Menschen auf Augenhöhe für Einkäufe, Arztbesuche oder soziale Kontakte direkt an der eigenen Haustür abholt. **WARUM HIER:** Da die sieben Ortsteil",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-lautertal",
       "name": "Chancen-Scout — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler „Haus & Hof“-Alltagsservice, der für ältere Immobilieneigentümer und Ferienhausbesitzer Kleinreparaturen, Gartenpflege, Brennholz-Service und Besorgungen übernimmt. **WARUM HIER:** Lautertal besteht ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-lautertal",
       "name": "Handwerk-Sichtbarkeit — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb (SHK)** in Lautertal. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer im Lautertal aktuell nach einer Wärmepumpe oder Badsanierung googeln, land",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-lautertal",
@@ -1499,32 +1503,32 @@
     }
   ],
   "budget": {
-    "used": 14,
+    "used": 3,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-grebenau",
+      "agent": "handwerk-lautertal",
       "via": "gemini",
-      "text": "**WAS:** „Gründchen-Genussperle“ ist eine geführte E-Bike-Entdeckungstour durch die Wälder rund um Grebenau mit einem anschließenden Picknick voller regionaler Vulkan-Spezialitäten an einem verwunschenen Waldsee. **fuer WEN:** Dieses Angebot richtet sich an naturbegeisterte Paare, aktive Genießer und kleine Freundesgruppen, die eine entspannte Auszeit im Grü",
-      "ts": "2026-10-02 22:46",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb (SHK)** in Lautertal. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer im Lautertal aktuell nach einer Wärmepumpe oder Badsanierung googeln, landen sie meist bei Betrieben aus Bensheim oder Darmstadt – lassen Sie uns dafür sorgen, dass Ihre Kunden aus der Nachbarschaft wieder zuerst b",
+      "ts": "2026-10-03 01:40",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-grebenau",
+      "agent": "chancen-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Die „Gräbenauer Vesper-Box“ ist ein wöchentliches Abo mit frischem Bauernbrot, Hausmacher Wurst, Vogelsberger Käse und saisonalem Hofgemüse für eine ehrliche Brotzeit nach Feierabend. **fuer WEN:** Für beschäftigte Familien, Pendler und Senioren aus Grebenau und den Nachbardörfern, die gute Lebensmittel aus der Heimat schätzen, aber unter der Woche ",
-      "ts": "2026-10-02 22:46",
+      "text": "**WAS:** Ein mobiler „Haus & Hof“-Alltagsservice, der für ältere Immobilieneigentümer und Ferienhausbesitzer Kleinreparaturen, Gartenpflege, Brennholz-Service und Besorgungen übernimmt. **WARUM HIER:** Lautertal besteht aus sieben weit verstreuten Ortsteilen mit stark alternder Bevölkerung, großen Grundstücken und ohne eigene lokale Handwerksfilialen für Kle",
+      "ts": "2026-10-03 01:40",
       "age_min": 0
     },
     {
-      "dept": "Chancen",
-      "agent": "handwerk-grebenau",
+      "dept": "Kunden",
+      "agent": "senioren-grebenau",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbaubetrieb** in Grebenau. **Ansprache-Idee:** „Hallo Herr [Name], mit einer sauberen lokalen Google-Sichtbarkeit sorgen wir dafür, dass Hausbesitzer direkt aus Grebenau und den Nachbardörfern bei Wärmepumpen-Anfragen oder Badsanierungen zuerst bei Ihnen anrufen – statt bei der Konkurrenz aus Alsfeld oder ",
-      "ts": "2026-10-02 22:46",
+      "text": "**WAS:** Ein verlässlicher Dorfmobil-Fahr- und Begleitdienst, der ältere Menschen auf Augenhöhe für Einkäufe, Arztbesuche oder soziale Kontakte direkt an der eigenen Haustür abholt. **WARUM HIER:** Da die sieben Ortsteile von Grebenau weit im Gründchen verstreut liegen und der öffentliche Nahverkehr dünn ist, bewahrt dieser Dienst die eigenständige Lebensfüh",
+      "ts": "2026-10-03 01:39",
       "age_min": 0
     }
   ]
