@@ -1,30 +1,108 @@
 {
-  "updated": "2026-10-03 16:43 UTC",
-  "total_results": 1,
-  "total_depts": 1,
+  "updated": "2026-10-03 19:28 UTC",
+  "total_results": 5,
+  "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "chancen-petersberg",
-      "title": "Chancen-Scout — Petersberg  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-kuenzell",
+      "title": "Senioren-Alltagsdienste — Kuenzell  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Inspektionsservice, der Wartungen und Kleinreparaturen direkt vor der Haustür der Kunden durchführt.\n\n**WARUM HIER:** Petersberg bietet eine extrem hohe Dichte an kaufkräftigen Eigenheimbesitzern und Pendler-Haushalten mit hochwertigen E-Bikes, verfügt aber über keine eigene Fahrradwerkstatt mit kurzfristigen Terminen.\n\n**ERSTER SCHRITT:** Ein Gewerbe anmelden, Basiswerkzeug in den eigenen Kombi packen und 500 Flyer mit einem Festpreis-Angebot für eine Vor-Ort-Inspektion in den Petersberger Wohngebieten verteilen.",
-      "ts": "2026-10-03 16:43",
+      "text": "**WAS:** Ein mobiler Ortsteil-Begleitdienst namens „Künzell Verbindet“, der Senioren aus den Außenorten verlässlich abholt, sie würdevoll bei Einkäufen, Arztbesuchen oder Gemeindetreffen begleitet und wieder nach Hause bringt.\n\n**WARUM HIER:** Die Gemeinde Künzell ist in acht teils weit verstreute, hügelige Ortsteile gegliedert, wodurch der Weg aus kleineren Orten wie Dietershausen oder Dirlos zum Kernort ohne eigenes Auto oft eine große Hürde darstellt.\n\n**ERSTER SCHRITT:** Ein Abstimmungsgespräch mit dem Seniorenbeirat der Gemeinde Künzell und den Ortsvorstehern führen, um den genauen Bedarf in den Dörfern zu erfassen und erste lokale Nachbarschaftspaten zu gewinnen.",
+      "ts": "2026-10-03 19:28",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-kuenzell",
+      "title": "Handwerk-Sichtbarkeit — Kuenzell  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer \n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Eigenheimbesitzer in Künzell nach ‚Heizung tauschen‘ oder ‚Badsanierung‘ googeln, finden sie aktuell zuerst die Konkurrenz aus Fulda – wollen wir das ändern, damit die lukrativen Aufträge direkt bei Ihnen im Ort landen?“",
+      "ts": "2026-10-03 19:28",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-petersberg",
+      "title": "Vulkanregion-Tourismus — Petersberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** „Rhön-Aussichten & Genuss“ beinhaltet einen fertig gepackten Picknickkorb voller regionaler Spezialitäten inklusive Decke, der direkt am Panoramapunkt der Liobakirche auf dem Petersberg für Sie bereitsteht.\n\n**fuer WEN:** Das Erlebnis ist perfekt für Paare, beste Freunde und Genießer, die nach einer kleinen Wanderung den Sonnenuntergang über den Dächern von Fulda entspannt erleben möchten.\n\n**ERSTER SCHRITT:** Wählen Sie einfach Ihren Wunschtermin auf unserer Buchungsseite aus und reservieren Sie Ihr Picknick-Paket direkt online.",
+      "ts": "2026-10-03 19:28",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-petersberg",
+      "title": "Direktvermarktung — Petersberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Petersberger Feierabend-Kiste“ – eine wöchentlich wechselnde Brotzeit- und Koch-Box mit frischem Landbrot, Rhöner Käse, Wurst und Saison-Gemüse, die donnerstags gekühlt an einem zentralen Hof-Automaten oder Unterstand zur Abholung bereitsteht.\n\n**fuer WEN:** Für Pendler und beschäftigte Familien aus Petersberg und den Ortsteilen, die nach dem Feierabend ohne Supermarkt-Stress ehrliche, regionale Hofprodukte auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Mit zwei benachbarten Betrieben (z. B. Bäcker und Gemüsebauer) ein Handverlesen-Set für 25 Euro schnüren und die ersten 15 Test-Kisten über Mundpropaganda und den örtlichen Dorffunk anbieten.",
+      "ts": "2026-10-03 19:28",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-petersberg",
+      "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) in Petersberg.\n\n**Ansprache-Idee:**\n„Hallo Herr/Frau [Name], sorgen wir dafür, dass Hausbesitzer aus Petersberg bei der Suche nach einer neuen Heizung oder Badsanierung sofort bei Ihnen landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Fulda verlieren.“",
+      "ts": "2026-10-03 19:28",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 4,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-petersberg",
-          "title": "Chancen-Scout — Petersberg  ·  Chancen",
+          "agent": "handwerk-kuenzell",
+          "title": "Handwerk-Sichtbarkeit — Kuenzell  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Inspektionsservice, der Wartungen und Kleinreparaturen direkt vor der Haustür der Kunden durchführt.\n\n**WARUM HIER:** Petersberg bietet eine extrem hohe Dichte an kaufkräftigen Eigenheimbesitzern und Pendler-Haushalten mit hochwertigen E-Bikes, verfügt aber über keine eigene Fahrradwerkstatt mit kurzfristigen Terminen.\n\n**ERSTER SCHRITT:** Ein Gewerbe anmelden, Basiswerkzeug in den eigenen Kombi packen und 500 Flyer mit einem Festpreis-Angebot für eine Vor-Ort-Inspektion in den Petersberger Wohngebieten verteilen.",
-          "ts": "2026-10-03 16:43",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer \n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Eigenheimbesitzer in Künzell nach ‚Heizung tauschen‘ oder ‚Badsanierung‘ googeln, finden sie aktuell zuerst die Konkurrenz aus Fulda – wollen wir das ändern, damit die lukrativen Aufträge direkt bei Ihnen im Ort landen?“",
+          "ts": "2026-10-03 19:28",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-petersberg",
+          "title": "Vulkanregion-Tourismus — Petersberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** „Rhön-Aussichten & Genuss“ beinhaltet einen fertig gepackten Picknickkorb voller regionaler Spezialitäten inklusive Decke, der direkt am Panoramapunkt der Liobakirche auf dem Petersberg für Sie bereitsteht.\n\n**fuer WEN:** Das Erlebnis ist perfekt für Paare, beste Freunde und Genießer, die nach einer kleinen Wanderung den Sonnenuntergang über den Dächern von Fulda entspannt erleben möchten.\n\n**ERSTER SCHRITT:** Wählen Sie einfach Ihren Wunschtermin auf unserer Buchungsseite aus und reservieren Sie Ihr Picknick-Paket direkt online.",
+          "ts": "2026-10-03 19:28",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-petersberg",
+          "title": "Direktvermarktung — Petersberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Petersberger Feierabend-Kiste“ – eine wöchentlich wechselnde Brotzeit- und Koch-Box mit frischem Landbrot, Rhöner Käse, Wurst und Saison-Gemüse, die donnerstags gekühlt an einem zentralen Hof-Automaten oder Unterstand zur Abholung bereitsteht.\n\n**fuer WEN:** Für Pendler und beschäftigte Familien aus Petersberg und den Ortsteilen, die nach dem Feierabend ohne Supermarkt-Stress ehrliche, regionale Hofprodukte auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Mit zwei benachbarten Betrieben (z. B. Bäcker und Gemüsebauer) ein Handverlesen-Set für 25 Euro schnüren und die ersten 15 Test-Kisten über Mundpropaganda und den örtlichen Dorffunk anbieten.",
+          "ts": "2026-10-03 19:28",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-petersberg",
+          "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) in Petersberg.\n\n**Ansprache-Idee:**\n„Hallo Herr/Frau [Name], sorgen wir dafür, dass Hausbesitzer aus Petersberg bei der Suche nach einer neuen Heizung oder Badsanierung sofort bei Ihnen landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Fulda verlieren.“",
+          "ts": "2026-10-03 19:28",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-kuenzell",
+          "title": "Senioren-Alltagsdienste — Kuenzell  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Ortsteil-Begleitdienst namens „Künzell Verbindet“, der Senioren aus den Außenorten verlässlich abholt, sie würdevoll bei Einkäufen, Arztbesuchen oder Gemeindetreffen begleitet und wieder nach Hause bringt.\n\n**WARUM HIER:** Die Gemeinde Künzell ist in acht teils weit verstreute, hügelige Ortsteile gegliedert, wodurch der Weg aus kleineren Orten wie Dietershausen oder Dirlos zum Kernort ohne eigenes Auto oft eine große Hürde darstellt.\n\n**ERSTER SCHRITT:** Ein Abstimmungsgespräch mit dem Seniorenbeirat der Gemeinde Künzell und den Ortsvorstehern führen, um den genauen Bedarf in den Dörfern zu erfassen und erste lokale Nachbarschaftspaten zu gewinnen.",
+          "ts": "2026-10-03 19:28",
           "age_min": 0
         }
       ]
