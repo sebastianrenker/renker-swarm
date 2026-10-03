@@ -1,57 +1,111 @@
 {
-  "updated": "2026-10-03 01:40 UTC",
-  "total_results": 3,
+  "updated": "2026-10-03 07:06 UTC",
+  "total_results": 6,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-lautertal",
-      "title": "Handwerk-Sichtbarkeit — Lautertal  ·  Chancen",
+      "agent": "tourismus-fulda",
+      "title": "Vulkanregion-Tourismus — Fulda  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbetrieb (SHK)** in Lautertal.\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Eigenheimbesitzer im Lautertal aktuell nach einer Wärmepumpe oder Badsanierung googeln, landen sie meist bei Betrieben aus Bensheim oder Darmstadt – lassen Sie uns dafür sorgen, dass Ihre Kunden aus der Nachbarschaft wieder zuerst bei Ihnen anrufen.“",
-      "ts": "2026-10-03 01:40",
+      "text": "**WAS:** Das Paket „Sternenlicht & Vulkanfeuer“ umfasst eine geführte Nachtwanderung im UNESCO-Biosphärenreservat Rhön nahe Fulda inklusive Teleskop-Blick in den Sternenhimmel und lokalem Bio-Picknick am Lagerfeuer.\n\n**fuer WEN:** Perfekt für Paare, kleine Gruppen und Naturfans, die die Faszination des internationalen Lichtschutzgebiets entspannt und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Plattform Ihren Wunschtermin aus und buchen Sie Ihr Ticket direkt online.",
+      "ts": "2026-10-03 07:06",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-lautertal",
-      "title": "Chancen-Scout — Lautertal  ·  Chancen",
+      "agent": "direkt-fulda",
+      "title": "Direktvermarktung — Fulda  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler „Haus & Hof“-Alltagsservice, der für ältere Immobilieneigentümer und Ferienhausbesitzer Kleinreparaturen, Gartenpflege, Brennholz-Service und Besorgungen übernimmt.\n\n**WARUM HIER:** Lautertal besteht aus sieben weit verstreuten Ortsteilen mit stark alternder Bevölkerung, großen Grundstücken und ohne eigene lokale Handwerksfilialen für Kleinstaufträge.\n\n**ERSTER SCHRITT:** Erstelle einen einfachen Flyer mit konkreten Festpreis-Angeboten (z. B. Rasenmähen, Dachrinnenreinigung, Winterfest-Schlagen) und verteile ihn direkt über die Ortsvorsteher sowie Schaukästen in allen Lautertaler Ortsteilen.",
-      "ts": "2026-10-03 01:40",
+      "text": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Kiste“ vollgepackt mit frischem Bauernbrot, lokalem Käse, Ahler Wurscht und Saison-Gemüse von Höfen rund um Fulda, geliefert an zentrale Abholstationen (z. B. an Pendler-Parkplätzen oder Bäckerbetrieben).\n\n**für WEN:** Für berufstätige Pendler und Familien im Raum Fulda, die ehrliche Lebensmittel aus der Region schätzen, aber unter der Woche keine Zeit für die Fahrt von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** Drei befreundete Erzeuger aus dem Landkreis an einen Tisch holen, eine einfache Probier-Kiste zusammenstellen und diese über eine WhatsApp-Gruppe an die ersten 20 Testkunden verkaufen.",
+      "ts": "2026-10-03 07:06",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-fulda",
+      "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin mittelständischer **Dachdeckerbetrieb in Fulda** (mit Fokus auf Altbausanierung und PV-Anlagen-Montage).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Hausbesitzer in und um Fulda aktuell nach einer Dachsanierung googeln, landen sie direkt bei Ihrer Konkurrenz – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der Region wieder zuerst auf Ihrem Tisch landen.“",
+      "ts": "2026-10-03 07:06",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-grebenau",
-      "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
+      "agent": "senioren-lautertal",
+      "title": "Senioren-Alltagsdienste — Lautertal  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nEin verlässlicher Dorfmobil-Fahr- und Begleitdienst, der ältere Menschen auf Augenhöhe für Einkäufe, Arztbesuche oder soziale Kontakte direkt an der eigenen Haustür abholt.\n\n**WARUM HIER:** \nDa die sieben Ortsteile von Grebenau weit im Gründchen verstreut liegen und der öffentliche Nahverkehr dünn ist, bewahrt dieser Dienst die eigenständige Lebensführung im gewohnten Dorfumfeld.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung wird eine feste Rufnummer als Anlaufstelle eingerichtet, um Fahrwünsche zu bündeln und freiwillige Fahrerinnen und Fahrer aus den Ortsteilen zu vernetzen.",
-      "ts": "2026-10-03 01:39",
+      "text": "**WAS**  \nDer mobile Alltagsbegleiter „Lautertal-Mobil“ unterstützt ältere Menschen direkt in ihren Ortsteilen durch verlässliche Fahrten zum Arzt, Begleitung beim Einkauf und Zeit für persönliche Gespräche im eigenen Zuhause.\n\n**WARUM HIER**  \nIn den weit verstreuten Dörfern Lautertals fehlen oft Geschäfte und Praxen vor Ort, weshalb eine würdevolle Selbstständigkeit im Alter stark von dezentraler, nachbarschaftlicher Mobilität abhängt.\n\n**ERSTER SCHRITT**  \nIn Kooperation mit der Gemeinde wird eine einfache Telefonzentrale eingerichtet und ein festes Netz aus geschulten, ehrenamtlichen Fahrerinnen und Fahrern aus den Ortsteilen aufgebaut.",
+      "ts": "2026-10-03 07:06",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-lautertal",
+      "title": "Vulkanregion-Tourismus — Lautertal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Genießen Sie ein geführtes Mini-Abenteuer durch das malerische Lautertal inklusive eines reich gefüllten Vesper-Rucksacks mit regionalen Vulkan-Spezialitäten und einer Verkostung von traditionellem Vogelsberger Kräuterlikör.\n\n**fuer WEN:** Das Angebot richtet sich an Naturgenießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit im Grünen suchen und die kulinarische Seite der Vulkanregion entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und schalten Sie Ihr Exklusiv-Ticket mit nur wenigen Klicks online frei.",
+      "ts": "2026-10-03 07:05",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-lautertal",
+      "title": "Direktvermarktung — Lautertal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEine gekühlte „Lautertaler Vesper-Box“ vollgepackt mit Odenwälder Handkäse, Hausmacher Wurst, frischem Bauernbrot und regionalem Streuobstsaft, die rund um die Uhr über einen Hof-Automaten an zentralen Knotenpunkten bereitsteht.\n\n**FÜR WEN:** \nFür Ausflügler und Wanderer im Felsenmeer-Gebiet, die eine ehrliche Brotzeit suchen, sowie für einheimische Pendler, die nach Feierabend unkompliziert regionale Produkte einkaufen wollen.\n\n**ERSTER SCHRITT:** \nGemeinsam mit zwei lokalen Betrieben (Bäcker und Metzgerei) ein festes Vesper-Set zusammenstellen und die Resonanz an einem Test-Wochenende mit einem mobilen Verkaufsstand am Felsenmeer prüfen.",
+      "ts": "2026-10-03 07:05",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-lautertal",
-          "title": "Handwerk-Sichtbarkeit — Lautertal  ·  Chancen",
+          "agent": "tourismus-fulda",
+          "title": "Vulkanregion-Tourismus — Fulda  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbetrieb (SHK)** in Lautertal.\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Eigenheimbesitzer im Lautertal aktuell nach einer Wärmepumpe oder Badsanierung googeln, landen sie meist bei Betrieben aus Bensheim oder Darmstadt – lassen Sie uns dafür sorgen, dass Ihre Kunden aus der Nachbarschaft wieder zuerst bei Ihnen anrufen.“",
-          "ts": "2026-10-03 01:40",
+          "text": "**WAS:** Das Paket „Sternenlicht & Vulkanfeuer“ umfasst eine geführte Nachtwanderung im UNESCO-Biosphärenreservat Rhön nahe Fulda inklusive Teleskop-Blick in den Sternenhimmel und lokalem Bio-Picknick am Lagerfeuer.\n\n**fuer WEN:** Perfekt für Paare, kleine Gruppen und Naturfans, die die Faszination des internationalen Lichtschutzgebiets entspannt und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Plattform Ihren Wunschtermin aus und buchen Sie Ihr Ticket direkt online.",
+          "ts": "2026-10-03 07:06",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-lautertal",
-          "title": "Chancen-Scout — Lautertal  ·  Chancen",
+          "agent": "direkt-fulda",
+          "title": "Direktvermarktung — Fulda  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler „Haus & Hof“-Alltagsservice, der für ältere Immobilieneigentümer und Ferienhausbesitzer Kleinreparaturen, Gartenpflege, Brennholz-Service und Besorgungen übernimmt.\n\n**WARUM HIER:** Lautertal besteht aus sieben weit verstreuten Ortsteilen mit stark alternder Bevölkerung, großen Grundstücken und ohne eigene lokale Handwerksfilialen für Kleinstaufträge.\n\n**ERSTER SCHRITT:** Erstelle einen einfachen Flyer mit konkreten Festpreis-Angeboten (z. B. Rasenmähen, Dachrinnenreinigung, Winterfest-Schlagen) und verteile ihn direkt über die Ortsvorsteher sowie Schaukästen in allen Lautertaler Ortsteilen.",
-          "ts": "2026-10-03 01:40",
+          "text": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Kiste“ vollgepackt mit frischem Bauernbrot, lokalem Käse, Ahler Wurscht und Saison-Gemüse von Höfen rund um Fulda, geliefert an zentrale Abholstationen (z. B. an Pendler-Parkplätzen oder Bäckerbetrieben).\n\n**für WEN:** Für berufstätige Pendler und Familien im Raum Fulda, die ehrliche Lebensmittel aus der Region schätzen, aber unter der Woche keine Zeit für die Fahrt von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** Drei befreundete Erzeuger aus dem Landkreis an einen Tisch holen, eine einfache Probier-Kiste zusammenstellen und diese über eine WhatsApp-Gruppe an die ersten 20 Testkunden verkaufen.",
+          "ts": "2026-10-03 07:06",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-fulda",
+          "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin mittelständischer **Dachdeckerbetrieb in Fulda** (mit Fokus auf Altbausanierung und PV-Anlagen-Montage).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Hausbesitzer in und um Fulda aktuell nach einer Dachsanierung googeln, landen sie direkt bei Ihrer Konkurrenz – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der Region wieder zuerst auf Ihrem Tisch landen.“",
+          "ts": "2026-10-03 07:06",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-lautertal",
+          "title": "Vulkanregion-Tourismus — Lautertal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Genießen Sie ein geführtes Mini-Abenteuer durch das malerische Lautertal inklusive eines reich gefüllten Vesper-Rucksacks mit regionalen Vulkan-Spezialitäten und einer Verkostung von traditionellem Vogelsberger Kräuterlikör.\n\n**fuer WEN:** Das Angebot richtet sich an Naturgenießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit im Grünen suchen und die kulinarische Seite der Vulkanregion entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und schalten Sie Ihr Exklusiv-Ticket mit nur wenigen Klicks online frei.",
+          "ts": "2026-10-03 07:05",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-lautertal",
+          "title": "Direktvermarktung — Lautertal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEine gekühlte „Lautertaler Vesper-Box“ vollgepackt mit Odenwälder Handkäse, Hausmacher Wurst, frischem Bauernbrot und regionalem Streuobstsaft, die rund um die Uhr über einen Hof-Automaten an zentralen Knotenpunkten bereitsteht.\n\n**FÜR WEN:** \nFür Ausflügler und Wanderer im Felsenmeer-Gebiet, die eine ehrliche Brotzeit suchen, sowie für einheimische Pendler, die nach Feierabend unkompliziert regionale Produkte einkaufen wollen.\n\n**ERSTER SCHRITT:** \nGemeinsam mit zwei lokalen Betrieben (Bäcker und Metzgerei) ein festes Vesper-Set zusammenstellen und die Resonanz an einem Test-Wochenende mit einem mobilen Verkaufsstand am Felsenmeer prüfen.",
+          "ts": "2026-10-03 07:05",
           "age_min": 0
         }
       ]
@@ -62,11 +116,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-grebenau",
-          "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
+          "agent": "senioren-lautertal",
+          "title": "Senioren-Alltagsdienste — Lautertal  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nEin verlässlicher Dorfmobil-Fahr- und Begleitdienst, der ältere Menschen auf Augenhöhe für Einkäufe, Arztbesuche oder soziale Kontakte direkt an der eigenen Haustür abholt.\n\n**WARUM HIER:** \nDa die sieben Ortsteile von Grebenau weit im Gründchen verstreut liegen und der öffentliche Nahverkehr dünn ist, bewahrt dieser Dienst die eigenständige Lebensführung im gewohnten Dorfumfeld.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung wird eine feste Rufnummer als Anlaufstelle eingerichtet, um Fahrwünsche zu bündeln und freiwillige Fahrerinnen und Fahrer aus den Ortsteilen zu vernetzen.",
-          "ts": "2026-10-03 01:39",
+          "text": "**WAS**  \nDer mobile Alltagsbegleiter „Lautertal-Mobil“ unterstützt ältere Menschen direkt in ihren Ortsteilen durch verlässliche Fahrten zum Arzt, Begleitung beim Einkauf und Zeit für persönliche Gespräche im eigenen Zuhause.\n\n**WARUM HIER**  \nIn den weit verstreuten Dörfern Lautertals fehlen oft Geschäfte und Praxen vor Ort, weshalb eine würdevolle Selbstständigkeit im Alter stark von dezentraler, nachbarschaftlicher Mobilität abhängt.\n\n**ERSTER SCHRITT**  \nIn Kooperation mit der Gemeinde wird eine einfache Telefonzentrale eingerichtet und ein festes Netz aus geschulten, ehrenamtlichen Fahrerinnen und Fahrern aus den Ortsteilen aufgebaut.",
+          "ts": "2026-10-03 07:06",
           "age_min": 0
         }
       ]
