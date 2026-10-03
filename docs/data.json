@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-03T07:06Z",
+  "updated": "2026-10-03T12:31Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Das Paket „Sternenlicht & Vulkanfeuer“ umfasst eine geführte Nachtwanderung im UNESCO-Biosphärenreservat Rhön nahe Fulda inklusive Teleskop-Blick in den Sternenhimmel und lokalem Bio-Picknick am Lagerfeuer. **fuer WEN:** Perfekt für Paare, kleine Gruppen und Naturfans, die die Faszination des internationalen Lichtschutzgebiets entspannt und kulinari",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -32,7 +28,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS** Der mobile Alltagsbegleiter „Lautertal-Mobil“ unterstützt ältere Menschen direkt in ihren Ortsteilen durch verlässliche Fahrten zum Arzt, Begleitung beim Einkauf und Zeit für persönliche Gespräche im eigenen Zuhause. **WARUM HIER** In den weit verstreuten Dörfern Lautertals fehlen oft Geschäfte und Praxen vor Ort, weshalb eine würdevolle Selbstständi",
+        "text": "**WAS:** Ein verlässlicher Einkaufs- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen des Fuldaer Landes direkt an der Haustür abholt, bei Wegen in die Stadt unterstützt und sicher wieder nach Hause bringt. **WARUM HIER:** In den verstreuten Dörfern rund um Fulda fehlen oft Dorfläden und dichte Busverbindungen, weshalb dieser Dienst die ",
         "age_min": 0
       }
     },
@@ -948,63 +944,63 @@
       "name": "Direktvermarktung — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine gekühlte „Lautertaler Vesper-Box“ vollgepackt mit Odenwälder Handkäse, Hausmacher Wurst, frischem Bauernbrot und regionalem Streuobstsaft, die rund um die Uhr über einen Hof-Automaten an zentralen Knotenpun",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-lautertal",
       "name": "Vulkanregion-Tourismus — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Genießen Sie ein geführtes Mini-Abenteuer durch das malerische Lautertal inklusive eines reich gefüllten Vesper-Rucksacks mit regionalen Vulkan-Spezialitäten und einer Verkostung von traditionellem Vogelsberger ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-lautertal",
       "name": "Senioren-Alltagsdienste — Lautertal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Der mobile Alltagsbegleiter „Lautertal-Mobil“ unterstützt ältere Menschen direkt in ihren Ortsteilen durch verlässliche Fahrten zum Arzt, Begleitung beim Einkauf und Zeit für persönliche Gespräche im eigenen Zuha",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-fulda",
       "name": "Handwerk-Sichtbarkeit — Fulda",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein mittelständischer **Dachdeckerbetrieb in Fulda** (mit Fokus auf Altbausanierung und PV-Anlagen-Montage). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer in und um Fulda aktuell nac",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-fulda",
       "name": "Direktvermarktung — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Kiste“ vollgepackt mit frischem Bauernbrot, lokalem Käse, Ahler Wurscht und Saison-Gemüse von Höfen rund um Fulda, geliefert an zentrale Abholstationen (z. B. an Pendler-Park",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-fulda",
       "name": "Vulkanregion-Tourismus — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Paket „Sternenlicht & Vulkanfeuer“ umfasst eine geführte Nachtwanderung im UNESCO-Biosphärenreservat Rhön nahe Fulda inklusive Teleskop-Blick in den Sternenhimmel und lokalem Bio-Picknick am Lagerfeuer. **fu",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-fulda",
       "name": "Senioren-Alltagsdienste — Fulda",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher Einkaufs- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen des Fuldaer Landes direkt an der Haustür abholt, bei Wegen in die Stadt unterstützt und sicher wieder nach Hause ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-petersberg",
@@ -1503,56 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 9,
+    "used": 10,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-fulda",
-      "via": "gemini",
-      "text": "**WAS:** Das Paket „Sternenlicht & Vulkanfeuer“ umfasst eine geführte Nachtwanderung im UNESCO-Biosphärenreservat Rhön nahe Fulda inklusive Teleskop-Blick in den Sternenhimmel und lokalem Bio-Picknick am Lagerfeuer. **fuer WEN:** Perfekt für Paare, kleine Gruppen und Naturfans, die die Faszination des internationalen Lichtschutzgebiets entspannt und kulinari",
-      "ts": "2026-10-03 07:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-fulda",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Kiste“ vollgepackt mit frischem Bauernbrot, lokalem Käse, Ahler Wurscht und Saison-Gemüse von Höfen rund um Fulda, geliefert an zentrale Abholstationen (z. B. an Pendler-Parkplätzen oder Bäckerbetrieben). **für WEN:** Für berufstätige Pendler und Familien im Raum Fulda, die ehrliche Lebensmittel aus der Region sc",
-      "ts": "2026-10-03 07:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-fulda",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein mittelständischer **Dachdeckerbetrieb in Fulda** (mit Fokus auf Altbausanierung und PV-Anlagen-Montage). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer in und um Fulda aktuell nach einer Dachsanierung googeln, landen sie direkt bei Ihrer Konkurrenz – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der Re",
-      "ts": "2026-10-03 07:06",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-lautertal",
+      "agent": "senioren-fulda",
       "via": "gemini",
-      "text": "**WAS** Der mobile Alltagsbegleiter „Lautertal-Mobil“ unterstützt ältere Menschen direkt in ihren Ortsteilen durch verlässliche Fahrten zum Arzt, Begleitung beim Einkauf und Zeit für persönliche Gespräche im eigenen Zuhause. **WARUM HIER** In den weit verstreuten Dörfern Lautertals fehlen oft Geschäfte und Praxen vor Ort, weshalb eine würdevolle Selbstständi",
-      "ts": "2026-10-03 07:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-lautertal",
-      "via": "gemini",
-      "text": "**WAS:** Genießen Sie ein geführtes Mini-Abenteuer durch das malerische Lautertal inklusive eines reich gefüllten Vesper-Rucksacks mit regionalen Vulkan-Spezialitäten und einer Verkostung von traditionellem Vogelsberger Kräuterlikör. **fuer WEN:** Das Angebot richtet sich an Naturgenießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit im Grünen",
-      "ts": "2026-10-03 07:05",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-lautertal",
-      "via": "gemini",
-      "text": "**WAS:** Eine gekühlte „Lautertaler Vesper-Box“ vollgepackt mit Odenwälder Handkäse, Hausmacher Wurst, frischem Bauernbrot und regionalem Streuobstsaft, die rund um die Uhr über einen Hof-Automaten an zentralen Knotenpunkten bereitsteht. **FÜR WEN:** Für Ausflügler und Wanderer im Felsenmeer-Gebiet, die eine ehrliche Brotzeit suchen, sowie für einheimische P",
-      "ts": "2026-10-03 07:05",
+      "text": "**WAS:** Ein verlässlicher Einkaufs- und Begleitdienst, der ältere Menschen aus den umliegenden Ortsteilen des Fuldaer Landes direkt an der Haustür abholt, bei Wegen in die Stadt unterstützt und sicher wieder nach Hause bringt. **WARUM HIER:** In den verstreuten Dörfern rund um Fulda fehlen oft Dorfläden und dichte Busverbindungen, weshalb dieser Dienst die ",
+      "ts": "2026-10-03 12:31",
       "age_min": 0
     }
   ]
