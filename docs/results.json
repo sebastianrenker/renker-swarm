@@ -1,30 +1,48 @@
 {
-  "updated": "2026-10-04 07:41 UTC",
-  "total_results": 1,
+  "updated": "2026-10-04 13:28 UTC",
+  "total_results": 2,
   "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-petersberg",
-      "title": "Senioren-Alltagsdienste — Petersberg  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "direkt-kuenzell",
+      "title": "Direktvermarktung — Kuenzell  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den einzelnen Ortsteilen sicher zu Einkäufen, Arztterminen und Dorftreffpunkten bringt.\n\n**WARUM HIER:** \nDa die Wege zwischen den verstreuten Petersberger Ortsteilen lang sind und die Nahversorgung vor Ort schwindet, bewahrt dieser Dienst die geschätzte Selbstständigkeit im eigenen Zuhause.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit dem örtlichen Seniorenbeirat wird ein einfaches, festes Buchungstelefon eingerichtet und über das Gemeindeblatt bekannt gemacht.",
-      "ts": "2026-10-04 07:41",
+      "text": "**WAS:** Eine regionale „Rhöner Feierabend-Box“ im wöchentlichen Abo mit frischem Holzofenbrot, Wurst, Käse und Saison-Gemüse von Künzeller Höfen, abholbereit an einer gekühlten 24/7-Station an der Hauptpendlerstrecke Richtung Fulda.\n\n**FÜR WEN:** Für berufstätige Pendler und Familien aus Künzell und Umgebung, die nach Feierabend wenig Zeit zum Einkaufen haben, aber ehrliche Lebensmittel aus der Nachbarschaft auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Drei passende Landwirte und Bäcker aus der Gemeinde an einen Tisch holen und das Angebot in einer vierwöchigen Testphase mit 20 Test-Abonnenten ausprobieren.",
+      "ts": "2026-10-04 13:28",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-kuenzell",
+      "title": "Chancen-Scout — Kuenzell  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Rundum-Service für die Einrichtung, Wartung und Wintereinlagerung von Mährobotern sowie smarten Gartenbewässerungssystemen.\n\n**WARUM HIER:** Künzell hat eine außerordentlich hohe Dichte an kaufkräftigen Pendler-Familien mit großen Eigenheim-Gärten (z. B. in Pilgerzell oder am Dicken Turm), die wenig Freizeit, aber Budget für automatisierte Gartenpflege haben.\n\n**ERSTER SCHRITT:** Verteile einen einfachen Flyer für einen „Herbst-Check inklusive Mähroboter-Einwinterung“ in den Künzeller Wohngebieten, um mit minimalem Startkapital die ersten Bestandskunden zu gewinnen.",
+      "ts": "2026-10-04 13:28",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Kunden",
-      "count": 1,
+      "id": "Chancen",
+      "count": 2,
       "items": [
         {
-          "dept": "Kunden",
-          "agent": "senioren-petersberg",
-          "title": "Senioren-Alltagsdienste — Petersberg  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "direkt-kuenzell",
+          "title": "Direktvermarktung — Kuenzell  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den einzelnen Ortsteilen sicher zu Einkäufen, Arztterminen und Dorftreffpunkten bringt.\n\n**WARUM HIER:** \nDa die Wege zwischen den verstreuten Petersberger Ortsteilen lang sind und die Nahversorgung vor Ort schwindet, bewahrt dieser Dienst die geschätzte Selbstständigkeit im eigenen Zuhause.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit dem örtlichen Seniorenbeirat wird ein einfaches, festes Buchungstelefon eingerichtet und über das Gemeindeblatt bekannt gemacht.",
-          "ts": "2026-10-04 07:41",
+          "text": "**WAS:** Eine regionale „Rhöner Feierabend-Box“ im wöchentlichen Abo mit frischem Holzofenbrot, Wurst, Käse und Saison-Gemüse von Künzeller Höfen, abholbereit an einer gekühlten 24/7-Station an der Hauptpendlerstrecke Richtung Fulda.\n\n**FÜR WEN:** Für berufstätige Pendler und Familien aus Künzell und Umgebung, die nach Feierabend wenig Zeit zum Einkaufen haben, aber ehrliche Lebensmittel aus der Nachbarschaft auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Drei passende Landwirte und Bäcker aus der Gemeinde an einen Tisch holen und das Angebot in einer vierwöchigen Testphase mit 20 Test-Abonnenten ausprobieren.",
+          "ts": "2026-10-04 13:28",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-kuenzell",
+          "title": "Chancen-Scout — Kuenzell  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Rundum-Service für die Einrichtung, Wartung und Wintereinlagerung von Mährobotern sowie smarten Gartenbewässerungssystemen.\n\n**WARUM HIER:** Künzell hat eine außerordentlich hohe Dichte an kaufkräftigen Pendler-Familien mit großen Eigenheim-Gärten (z. B. in Pilgerzell oder am Dicken Turm), die wenig Freizeit, aber Budget für automatisierte Gartenpflege haben.\n\n**ERSTER SCHRITT:** Verteile einen einfachen Flyer für einen „Herbst-Check inklusive Mähroboter-Einwinterung“ in den Künzeller Wohngebieten, um mit minimalem Startkapital die ersten Bestandskunden zu gewinnen.",
+          "ts": "2026-10-04 13:28",
           "age_min": 0
         }
       ]
