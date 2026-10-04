@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T13:28Z",
+  "updated": "2026-10-04T17:46Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Eine regionale „Rhöner Feierabend-Box“ im wöchentlichen Abo mit frischem Holzofenbrot, Wurst, Käse und Saison-Gemüse von Künzeller Höfen, abholbereit an einer gekühlten 24/7-Station an der Hauptpendlerstrecke Richtung Fulda. **FÜR WEN:** Für berufstätige Pendler und Familien aus Künzell und Umgebung, die nach Feierabend wenig Zeit zum Einkaufen habe",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -1052,9 +1048,9 @@
       "name": "Chancen-Scout — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Rundum-Service für die Einrichtung, Wartung und Wintereinlagerung von Mährobotern sowie smarten Gartenbewässerungssystemen. **WARUM HIER:** Künzell hat eine außerordentlich hohe Dichte an kaufkräftig",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-kuenzell",
@@ -1070,9 +1066,9 @@
       "name": "Direktvermarktung — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine regionale „Rhöner Feierabend-Box“ im wöchentlichen Abo mit frischem Holzofenbrot, Wurst, Käse und Saison-Gemüse von Künzeller Höfen, abholbereit an einer gekühlten 24/7-Station an der Hauptpendlerstrecke Ri",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-kuenzell",
@@ -1502,22 +1498,5 @@
     "used": 3,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** Eine regionale „Rhöner Feierabend-Box“ im wöchentlichen Abo mit frischem Holzofenbrot, Wurst, Käse und Saison-Gemüse von Künzeller Höfen, abholbereit an einer gekühlten 24/7-Station an der Hauptpendlerstrecke Richtung Fulda. **FÜR WEN:** Für berufstätige Pendler und Familien aus Künzell und Umgebung, die nach Feierabend wenig Zeit zum Einkaufen habe",
-      "ts": "2026-10-04 13:28",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Rundum-Service für die Einrichtung, Wartung und Wintereinlagerung von Mährobotern sowie smarten Gartenbewässerungssystemen. **WARUM HIER:** Künzell hat eine außerordentlich hohe Dichte an kaufkräftigen Pendler-Familien mit großen Eigenheim-Gärten (z. B. in Pilgerzell oder am Dicken Turm), die wenig Freizeit, aber Budget für automatisiert",
-      "ts": "2026-10-04 13:28",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
