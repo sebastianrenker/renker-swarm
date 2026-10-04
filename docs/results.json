@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-04 20:47 UTC",
+  "updated": "2026-10-04 23:47 UTC",
   "total_results": 2,
   "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-neuhof",
-      "title": "Chancen-Scout — Neuhof  ·  Chancen",
+      "agent": "direkt-neuhof",
+      "title": "Direktvermarktung — Neuhof  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat („Regio-Box“) mit warmmachbaren Fertiggerichten lokaler Metzger, Kaffeespezialitäten und Frische-Snacks.\n\n**WARUM HIER:** Neuhof bündelt durch das rund um die Uhr laufende K+S-Kaliwerk hunderte Schichtarbeiter und durch den Bahnhof zahlreiche Pendler, die außerhalb klassischer Öffnungszeiten eine hochwertige Verpflegungssalternative suchen.\n\n**ERSTER SCHRITT:** Pachten Sie eine wenige Quadratmeter große Standfläche im Bahnhofsumfeld oder an der Kaliwerk-Zufahrt und schließen Sie eine Lieferkooperation mit einer regionalen Metzgerei aus dem Landkreis Fulda.",
-      "ts": "2026-10-04 20:47",
+      "text": "**Idee: Die „Neuhöfer Feierabend-Kiste“**\n\n* **WAS:** Ein flexibles Wochen-Abo mit knackigem Saison-Gemüse, frischen Eiern, Brot und regionaler Wurst, das freitags kontaktlos in einer 24/7-Abholstation am Hof bereitsteht.\n* **FÜR WEN:** Für beschäftigte Pendler und Familien aus Neuhof und Umgebung, die nach dem Feierabend ohne Aufwand ehrliche, regionale Produkte auf dem Tisch haben wollen.\n* **ERSTER SCHRITT:** Zwei Nachbarhöfe für die Produkt-Ergänzung gewinnen und im Dorf eine kurze Umfrage starten, wer beim ersten Testlauf dabei wäre.",
+      "ts": "2026-10-04 23:47",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-kuenzell",
-      "title": "Vulkanregion-Tourismus — Kuenzell  ·  Chancen",
+      "agent": "handwerk-neuhof",
+      "title": "Handwerk-Sichtbarkeit — Neuhof  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „E-Bike-Genuss & Rhöner Picknick“ kombiniert eine dreistündige, geführte E-Bike-Tour durch die Künzeller Flussauen mit einem Rucksack voller regionaler Spezialitäten für eine entspannte Rast mit Weitblick.\n\n**FÜR WEN:** Ideal für Paare, Genussradler und Naturbegeisterte, die die Vorderrhön ohne Anstrengung und mit kulinarischem Mehrwert erkunden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin online aus, wähle deine Picknick-Variante (klassisch oder vegetarisch) und schließe die Buchung direkt mit wenigen Klicks ab.",
-      "ts": "2026-10-04 20:47",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Neuhof.\n\n**Ansprache-Idee:** \n„Wenn in Neuhof abends die Heizung ausfällt oder jemand ein neues Bad sucht, greift er sofort zum Smartphone – sorgen wir dafür, dass der Kunde direkt bei Ihnen anruft und nicht bei der Konkurrenz aus Fulda landet.“",
+      "ts": "2026-10-04 23:46",
       "age_min": 0
     }
   ],
@@ -29,20 +29,20 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-neuhof",
-          "title": "Chancen-Scout — Neuhof  ·  Chancen",
+          "agent": "direkt-neuhof",
+          "title": "Direktvermarktung — Neuhof  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat („Regio-Box“) mit warmmachbaren Fertiggerichten lokaler Metzger, Kaffeespezialitäten und Frische-Snacks.\n\n**WARUM HIER:** Neuhof bündelt durch das rund um die Uhr laufende K+S-Kaliwerk hunderte Schichtarbeiter und durch den Bahnhof zahlreiche Pendler, die außerhalb klassischer Öffnungszeiten eine hochwertige Verpflegungssalternative suchen.\n\n**ERSTER SCHRITT:** Pachten Sie eine wenige Quadratmeter große Standfläche im Bahnhofsumfeld oder an der Kaliwerk-Zufahrt und schließen Sie eine Lieferkooperation mit einer regionalen Metzgerei aus dem Landkreis Fulda.",
-          "ts": "2026-10-04 20:47",
+          "text": "**Idee: Die „Neuhöfer Feierabend-Kiste“**\n\n* **WAS:** Ein flexibles Wochen-Abo mit knackigem Saison-Gemüse, frischen Eiern, Brot und regionaler Wurst, das freitags kontaktlos in einer 24/7-Abholstation am Hof bereitsteht.\n* **FÜR WEN:** Für beschäftigte Pendler und Familien aus Neuhof und Umgebung, die nach dem Feierabend ohne Aufwand ehrliche, regionale Produkte auf dem Tisch haben wollen.\n* **ERSTER SCHRITT:** Zwei Nachbarhöfe für die Produkt-Ergänzung gewinnen und im Dorf eine kurze Umfrage starten, wer beim ersten Testlauf dabei wäre.",
+          "ts": "2026-10-04 23:47",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-kuenzell",
-          "title": "Vulkanregion-Tourismus — Kuenzell  ·  Chancen",
+          "agent": "handwerk-neuhof",
+          "title": "Handwerk-Sichtbarkeit — Neuhof  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Das Erlebnis-Paket „E-Bike-Genuss & Rhöner Picknick“ kombiniert eine dreistündige, geführte E-Bike-Tour durch die Künzeller Flussauen mit einem Rucksack voller regionaler Spezialitäten für eine entspannte Rast mit Weitblick.\n\n**FÜR WEN:** Ideal für Paare, Genussradler und Naturbegeisterte, die die Vorderrhön ohne Anstrengung und mit kulinarischem Mehrwert erkunden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin online aus, wähle deine Picknick-Variante (klassisch oder vegetarisch) und schließe die Buchung direkt mit wenigen Klicks ab.",
-          "ts": "2026-10-04 20:47",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Neuhof.\n\n**Ansprache-Idee:** \n„Wenn in Neuhof abends die Heizung ausfällt oder jemand ein neues Bad sucht, greift er sofort zum Smartphone – sorgen wir dafür, dass der Kunde direkt bei Ihnen anruft und nicht bei der Konkurrenz aus Fulda landet.“",
+          "ts": "2026-10-04 23:46",
           "age_min": 0
         }
       ]
