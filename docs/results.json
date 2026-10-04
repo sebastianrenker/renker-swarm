@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-04 17:46 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-04 20:47 UTC",
+  "total_results": 2,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-neuhof",
+      "title": "Chancen-Scout — Neuhof  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat („Regio-Box“) mit warmmachbaren Fertiggerichten lokaler Metzger, Kaffeespezialitäten und Frische-Snacks.\n\n**WARUM HIER:** Neuhof bündelt durch das rund um die Uhr laufende K+S-Kaliwerk hunderte Schichtarbeiter und durch den Bahnhof zahlreiche Pendler, die außerhalb klassischer Öffnungszeiten eine hochwertige Verpflegungssalternative suchen.\n\n**ERSTER SCHRITT:** Pachten Sie eine wenige Quadratmeter große Standfläche im Bahnhofsumfeld oder an der Kaliwerk-Zufahrt und schließen Sie eine Lieferkooperation mit einer regionalen Metzgerei aus dem Landkreis Fulda.",
+      "ts": "2026-10-04 20:47",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-kuenzell",
+      "title": "Vulkanregion-Tourismus — Kuenzell  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „E-Bike-Genuss & Rhöner Picknick“ kombiniert eine dreistündige, geführte E-Bike-Tour durch die Künzeller Flussauen mit einem Rucksack voller regionaler Spezialitäten für eine entspannte Rast mit Weitblick.\n\n**FÜR WEN:** Ideal für Paare, Genussradler und Naturbegeisterte, die die Vorderrhön ohne Anstrengung und mit kulinarischem Mehrwert erkunden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin online aus, wähle deine Picknick-Variante (klassisch oder vegetarisch) und schließe die Buchung direkt mit wenigen Klicks ab.",
+      "ts": "2026-10-04 20:47",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "chancen-neuhof",
+          "title": "Chancen-Scout — Neuhof  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat („Regio-Box“) mit warmmachbaren Fertiggerichten lokaler Metzger, Kaffeespezialitäten und Frische-Snacks.\n\n**WARUM HIER:** Neuhof bündelt durch das rund um die Uhr laufende K+S-Kaliwerk hunderte Schichtarbeiter und durch den Bahnhof zahlreiche Pendler, die außerhalb klassischer Öffnungszeiten eine hochwertige Verpflegungssalternative suchen.\n\n**ERSTER SCHRITT:** Pachten Sie eine wenige Quadratmeter große Standfläche im Bahnhofsumfeld oder an der Kaliwerk-Zufahrt und schließen Sie eine Lieferkooperation mit einer regionalen Metzgerei aus dem Landkreis Fulda.",
+          "ts": "2026-10-04 20:47",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-kuenzell",
+          "title": "Vulkanregion-Tourismus — Kuenzell  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Das Erlebnis-Paket „E-Bike-Genuss & Rhöner Picknick“ kombiniert eine dreistündige, geführte E-Bike-Tour durch die Künzeller Flussauen mit einem Rucksack voller regionaler Spezialitäten für eine entspannte Rast mit Weitblick.\n\n**FÜR WEN:** Ideal für Paare, Genussradler und Naturbegeisterte, die die Vorderrhön ohne Anstrengung und mit kulinarischem Mehrwert erkunden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin online aus, wähle deine Picknick-Variante (klassisch oder vegetarisch) und schließe die Buchung direkt mit wenigen Klicks ab.",
+          "ts": "2026-10-04 20:47",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

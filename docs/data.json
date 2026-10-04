@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T17:46Z",
+  "updated": "2026-10-04T20:47Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat („Regio-Box“) mit warmmachbaren Fertiggerichten lokaler Metzger, Kaffeespezialitäten und Frische-Snacks. **WARUM HIER:** Neuhof bündelt durch das rund um die Uhr laufende K+S-Kaliwerk hunderte Schichtarbeiter und durch den Bahnhof zahlreiche Pendler, die außerhalb klassischer Öffnungszeiten eine hochwertige V",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -1075,9 +1079,9 @@
       "name": "Vulkanregion-Tourismus — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „E-Bike-Genuss & Rhöner Picknick“ kombiniert eine dreistündige, geführte E-Bike-Tour durch die Künzeller Flussauen mit einem Rucksack voller regionaler Spezialitäten für eine entspannte Rast m",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-kuenzell",
@@ -1093,9 +1097,9 @@
       "name": "Chancen-Scout — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat („Regio-Box“) mit warmmachbaren Fertiggerichten lokaler Metzger, Kaffeespezialitäten und Frische-Snacks. **WARUM HIER:** Neuhof bündelt durch das rund um die Uhr laufende",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-neuhof",
@@ -1495,8 +1499,25 @@
     }
   ],
   "budget": {
-    "used": 3,
+    "used": 5,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Ein automatisierter 24/7-Verkaufsautomat („Regio-Box“) mit warmmachbaren Fertiggerichten lokaler Metzger, Kaffeespezialitäten und Frische-Snacks. **WARUM HIER:** Neuhof bündelt durch das rund um die Uhr laufende K+S-Kaliwerk hunderte Schichtarbeiter und durch den Bahnhof zahlreiche Pendler, die außerhalb klassischer Öffnungszeiten eine hochwertige V",
+      "ts": "2026-10-04 20:47",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-kuenzell",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „E-Bike-Genuss & Rhöner Picknick“ kombiniert eine dreistündige, geführte E-Bike-Tour durch die Künzeller Flussauen mit einem Rucksack voller regionaler Spezialitäten für eine entspannte Rast mit Weitblick. **FÜR WEN:** Ideal für Paare, Genussradler und Naturbegeisterte, die die Vorderrhön ohne Anstrengung und mit kulinarischem Meh",
+      "ts": "2026-10-04 20:47",
+      "age_min": 0
+    }
+  ]
 }
