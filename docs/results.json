@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-04 01:46 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-04 07:41 UTC",
+  "total_results": 1,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-petersberg",
+      "title": "Senioren-Alltagsdienste — Petersberg  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** \nEin verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den einzelnen Ortsteilen sicher zu Einkäufen, Arztterminen und Dorftreffpunkten bringt.\n\n**WARUM HIER:** \nDa die Wege zwischen den verstreuten Petersberger Ortsteilen lang sind und die Nahversorgung vor Ort schwindet, bewahrt dieser Dienst die geschätzte Selbstständigkeit im eigenen Zuhause.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit dem örtlichen Seniorenbeirat wird ein einfaches, festes Buchungstelefon eingerichtet und über das Gemeindeblatt bekannt gemacht.",
+      "ts": "2026-10-04 07:41",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-petersberg",
+          "title": "Senioren-Alltagsdienste — Petersberg  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den einzelnen Ortsteilen sicher zu Einkäufen, Arztterminen und Dorftreffpunkten bringt.\n\n**WARUM HIER:** \nDa die Wege zwischen den verstreuten Petersberger Ortsteilen lang sind und die Nahversorgung vor Ort schwindet, bewahrt dieser Dienst die geschätzte Selbstständigkeit im eigenen Zuhause.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit dem örtlichen Seniorenbeirat wird ein einfaches, festes Buchungstelefon eingerichtet und über das Gemeindeblatt bekannt gemacht.",
+          "ts": "2026-10-04 07:41",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

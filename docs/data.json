@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T01:46Z",
+  "updated": "2026-10-04T07:41Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -26,7 +26,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den einzelnen Ortsteilen sicher zu Einkäufen, Arztterminen und Dorftreffpunkten bringt. **WARUM HIER:** Da die Wege zwischen den verstreuten Petersberger Ortsteilen lang sind und die Nahversorgung vor Ort schwindet, bewahrt dieser Dienst die geschätzte Selbststän",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1039,9 +1043,9 @@
       "name": "Senioren-Alltagsdienste — Petersberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den einzelnen Ortsteilen sicher zu Einkäufen, Arztterminen und Dorftreffpunkten bringt. **WARUM HIER:** Da die Wege zwische",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-kuenzell",
@@ -1495,8 +1499,17 @@
     }
   ],
   "budget": {
-    "used": 0,
+    "used": 1,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-petersberg",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den einzelnen Ortsteilen sicher zu Einkäufen, Arztterminen und Dorftreffpunkten bringt. **WARUM HIER:** Da die Wege zwischen den verstreuten Petersberger Ortsteilen lang sind und die Nahversorgung vor Ort schwindet, bewahrt dieser Dienst die geschätzte Selbststän",
+      "ts": "2026-10-04 07:41",
+      "age_min": 0
+    }
+  ]
 }
