@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T22:21Z",
+  "updated": "2026-10-04T01:46Z",
   "agents_total": 162,
   "worked": 0,
   "departments": [
@@ -1495,7 +1495,7 @@
     }
   ],
   "budget": {
-    "used": 16,
+    "used": 0,
     "cap": 600
   },
   "recent": []
