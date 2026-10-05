@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-05T10:51Z",
+  "updated": "2026-10-05T19:34Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (mit Fokus auf Badsanierung oder Wärmepumpen) in Hünfeld. **Ansprache-Idee:** „Lassen Sie uns dafür sorgen, dass Hünfelder, die ihr Bad renovieren oder eine neue Heizung suchen, direkt Ihren Betrieb auf Google finden – bevor sie bei der Konkurrenz aus Fulda anrufen.“",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein nachbarschaftlicher Fahr- und Begleitdienst, der ältere Menschen persönlich zum Arzt, zum Einkaufen oder zu Dorffesten bringt und ihnen bei Bedarf helfend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof ist der öffentliche Nahverkehr spärlich, weshalb mobile Unterstützung direkt vor der Haustür entscheidend für ein",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1120,36 +1128,36 @@
       "name": "Vulkanregion-Tourismus — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Unter dem Motto „Neuhöfer Salz-Geheimnisse“ erwartet dich eine geführte E-Bike-Tour rund um die faszinierende Geschichte des Kalibergbaus mit anschließendem Rhöner Salz-Picknick und einer entspannenden Auszeit i",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-neuhof",
       "name": "Senioren-Alltagsdienste — Neuhof",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein nachbarschaftlicher Fahr- und Begleitdienst, der ältere Menschen persönlich zum Arzt, zum Einkaufen oder zu Dorffesten bringt und ihnen bei Bedarf helfend zur Seite steht. **WARUM HIER:** In den weit verstre",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-huenfeld",
       "name": "Chancen-Scout — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Fahrrad- und E-Bike-Servicedienst, der Wartungen und Reparaturen tagsüber direkt am Bahnhof Hünfeld oder auf den Parkplätzen lokaler Arbeitgeber durchführt. **WARUM HIER:** Hünfeld kombiniert eine ho",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-huenfeld",
       "name": "Handwerk-Sichtbarkeit — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (mit Fokus auf Badsanierung oder Wärmepumpen) in Hünfeld. **Ansprache-Idee:** „Lassen Sie uns dafür sorgen, dass Hünfelder, die ihr Bad renovieren oder eine neue Heizung such",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-huenfeld",
@@ -1495,8 +1503,41 @@
     }
   ],
   "budget": {
-    "used": 0,
+    "used": 4,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-huenfeld",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (mit Fokus auf Badsanierung oder Wärmepumpen) in Hünfeld. **Ansprache-Idee:** „Lassen Sie uns dafür sorgen, dass Hünfelder, die ihr Bad renovieren oder eine neue Heizung suchen, direkt Ihren Betrieb auf Google finden – bevor sie bei der Konkurrenz aus Fulda anrufen.“",
+      "ts": "2026-10-05 19:34",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-huenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Fahrrad- und E-Bike-Servicedienst, der Wartungen und Reparaturen tagsüber direkt am Bahnhof Hünfeld oder auf den Parkplätzen lokaler Arbeitgeber durchführt. **WARUM HIER:** Hünfeld kombiniert eine hohe Zahl an Bahnpendlern Richtung Fulda/Kassel mit dem Drehkreuz des Kegelspiel-Radwegs, hat aber vor Ort kaum Kapazitäten für schnelle, flex",
+      "ts": "2026-10-05 19:34",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Ein nachbarschaftlicher Fahr- und Begleitdienst, der ältere Menschen persönlich zum Arzt, zum Einkaufen oder zu Dorffesten bringt und ihnen bei Bedarf helfend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof ist der öffentliche Nahverkehr spärlich, weshalb mobile Unterstützung direkt vor der Haustür entscheidend für ein",
+      "ts": "2026-10-05 19:34",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Unter dem Motto „Neuhöfer Salz-Geheimnisse“ erwartet dich eine geführte E-Bike-Tour rund um die faszinierende Geschichte des Kalibergbaus mit anschließendem Rhöner Salz-Picknick und einer entspannenden Auszeit in einer lokalen Salzgrotte. **für WEN:** Dieses Angebot ist ideal für Paare, genussorientierte Aktive und kleine Gruppen, die Natur, Bergbau",
+      "ts": "2026-10-05 19:34",
+      "age_min": 0
+    }
+  ]
 }

@@ -1,7 +1,93 @@
 {
-  "updated": "2026-10-05 10:51 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-05 19:34 UTC",
+  "total_results": 4,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-huenfeld",
+      "title": "Handwerk-Sichtbarkeit — Huenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (mit Fokus auf Badsanierung oder Wärmepumpen) in Hünfeld.\n\n**Ansprache-Idee:**  \n„Lassen Sie uns dafür sorgen, dass Hünfelder, die ihr Bad renovieren oder eine neue Heizung suchen, direkt Ihren Betrieb auf Google finden – bevor sie bei der Konkurrenz aus Fulda anrufen.“",
+      "ts": "2026-10-05 19:34",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-huenfeld",
+      "title": "Chancen-Scout — Huenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Fahrrad- und E-Bike-Servicedienst, der Wartungen und Reparaturen tagsüber direkt am Bahnhof Hünfeld oder auf den Parkplätzen lokaler Arbeitgeber durchführt.\n\n**WARUM HIER:** Hünfeld kombiniert eine hohe Zahl an Bahnpendlern Richtung Fulda/Kassel mit dem Drehkreuz des Kegelspiel-Radwegs, hat aber vor Ort kaum Kapazitäten für schnelle, flexible Rad-Reparaturen ohne lange Werkstatt-Wartezeiten.\n\n**ERSTER SCHRITT:** Eine Standplatzgenehmigung für einen Servicewagen am Bahnhofsareal bei der Stadt Hünfeld anfragen und Flyer direkt an den dort parkenden Pendlerrädern anbringen.",
+      "ts": "2026-10-05 19:34",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-neuhof",
+      "title": "Senioren-Alltagsdienste — Neuhof  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein nachbarschaftlicher Fahr- und Begleitdienst, der ältere Menschen persönlich zum Arzt, zum Einkaufen oder zu Dorffesten bringt und ihnen bei Bedarf helfend zur Seite steht.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof ist der öffentliche Nahverkehr spärlich, weshalb mobile Unterstützung direkt vor der Haustür entscheidend für ein selbstbestimmtes Leben im gewohnten Zuhause ist.\n\n**ERSTER SCHRITT:** Ein gemeinsames Treffen mit dem Ortsbeirat und engagierten Nachbarn einzuberufen, um verlässliche Fahrtage und einfache Anmeldewege über das Gemeindeblatt zu vereinbaren.",
+      "ts": "2026-10-05 19:34",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-neuhof",
+      "title": "Vulkanregion-Tourismus — Neuhof  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Unter dem Motto „Neuhöfer Salz-Geheimnisse“ erwartet dich eine geführte E-Bike-Tour rund um die faszinierende Geschichte des Kalibergbaus mit anschließendem Rhöner Salz-Picknick und einer entspannenden Auszeit in einer lokalen Salzgrotte.\n\n**für WEN:** Dieses Angebot ist ideal für Paare, genussorientierte Aktive und kleine Gruppen, die Natur, Bergbau-Historie und Erholung miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Besuche unsere Buchungsseite, wähle deinen Wunschtermin sowie die passende E-Bike-Größe aus und sichere dir dein Ticket direkt online.",
+      "ts": "2026-10-05 19:34",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 3,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-huenfeld",
+          "title": "Handwerk-Sichtbarkeit — Huenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (mit Fokus auf Badsanierung oder Wärmepumpen) in Hünfeld.\n\n**Ansprache-Idee:**  \n„Lassen Sie uns dafür sorgen, dass Hünfelder, die ihr Bad renovieren oder eine neue Heizung suchen, direkt Ihren Betrieb auf Google finden – bevor sie bei der Konkurrenz aus Fulda anrufen.“",
+          "ts": "2026-10-05 19:34",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-huenfeld",
+          "title": "Chancen-Scout — Huenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Fahrrad- und E-Bike-Servicedienst, der Wartungen und Reparaturen tagsüber direkt am Bahnhof Hünfeld oder auf den Parkplätzen lokaler Arbeitgeber durchführt.\n\n**WARUM HIER:** Hünfeld kombiniert eine hohe Zahl an Bahnpendlern Richtung Fulda/Kassel mit dem Drehkreuz des Kegelspiel-Radwegs, hat aber vor Ort kaum Kapazitäten für schnelle, flexible Rad-Reparaturen ohne lange Werkstatt-Wartezeiten.\n\n**ERSTER SCHRITT:** Eine Standplatzgenehmigung für einen Servicewagen am Bahnhofsareal bei der Stadt Hünfeld anfragen und Flyer direkt an den dort parkenden Pendlerrädern anbringen.",
+          "ts": "2026-10-05 19:34",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-neuhof",
+          "title": "Vulkanregion-Tourismus — Neuhof  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Unter dem Motto „Neuhöfer Salz-Geheimnisse“ erwartet dich eine geführte E-Bike-Tour rund um die faszinierende Geschichte des Kalibergbaus mit anschließendem Rhöner Salz-Picknick und einer entspannenden Auszeit in einer lokalen Salzgrotte.\n\n**für WEN:** Dieses Angebot ist ideal für Paare, genussorientierte Aktive und kleine Gruppen, die Natur, Bergbau-Historie und Erholung miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Besuche unsere Buchungsseite, wähle deinen Wunschtermin sowie die passende E-Bike-Größe aus und sichere dir dein Ticket direkt online.",
+          "ts": "2026-10-05 19:34",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-neuhof",
+          "title": "Senioren-Alltagsdienste — Neuhof  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein nachbarschaftlicher Fahr- und Begleitdienst, der ältere Menschen persönlich zum Arzt, zum Einkaufen oder zu Dorffesten bringt und ihnen bei Bedarf helfend zur Seite steht.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof ist der öffentliche Nahverkehr spärlich, weshalb mobile Unterstützung direkt vor der Haustür entscheidend für ein selbstbestimmtes Leben im gewohnten Zuhause ist.\n\n**ERSTER SCHRITT:** Ein gemeinsames Treffen mit dem Ortsbeirat und engagierten Nachbarn einzuberufen, um verlässliche Fahrtage und einfache Anmeldewege über das Gemeindeblatt zu vereinbaren.",
+          "ts": "2026-10-05 19:34",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
