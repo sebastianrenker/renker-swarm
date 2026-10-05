@@ -1,51 +1,7 @@
 {
-  "updated": "2026-10-04 23:47 UTC",
-  "total_results": 2,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-neuhof",
-      "title": "Direktvermarktung — Neuhof  ·  Chancen",
-      "via": "gemini",
-      "text": "**Idee: Die „Neuhöfer Feierabend-Kiste“**\n\n* **WAS:** Ein flexibles Wochen-Abo mit knackigem Saison-Gemüse, frischen Eiern, Brot und regionaler Wurst, das freitags kontaktlos in einer 24/7-Abholstation am Hof bereitsteht.\n* **FÜR WEN:** Für beschäftigte Pendler und Familien aus Neuhof und Umgebung, die nach dem Feierabend ohne Aufwand ehrliche, regionale Produkte auf dem Tisch haben wollen.\n* **ERSTER SCHRITT:** Zwei Nachbarhöfe für die Produkt-Ergänzung gewinnen und im Dorf eine kurze Umfrage starten, wer beim ersten Testlauf dabei wäre.",
-      "ts": "2026-10-04 23:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-neuhof",
-      "title": "Handwerk-Sichtbarkeit — Neuhof  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Neuhof.\n\n**Ansprache-Idee:** \n„Wenn in Neuhof abends die Heizung ausfällt oder jemand ein neues Bad sucht, greift er sofort zum Smartphone – sorgen wir dafür, dass der Kunde direkt bei Ihnen anruft und nicht bei der Konkurrenz aus Fulda landet.“",
-      "ts": "2026-10-04 23:46",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 2,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "direkt-neuhof",
-          "title": "Direktvermarktung — Neuhof  ·  Chancen",
-          "via": "gemini",
-          "text": "**Idee: Die „Neuhöfer Feierabend-Kiste“**\n\n* **WAS:** Ein flexibles Wochen-Abo mit knackigem Saison-Gemüse, frischen Eiern, Brot und regionaler Wurst, das freitags kontaktlos in einer 24/7-Abholstation am Hof bereitsteht.\n* **FÜR WEN:** Für beschäftigte Pendler und Familien aus Neuhof und Umgebung, die nach dem Feierabend ohne Aufwand ehrliche, regionale Produkte auf dem Tisch haben wollen.\n* **ERSTER SCHRITT:** Zwei Nachbarhöfe für die Produkt-Ergänzung gewinnen und im Dorf eine kurze Umfrage starten, wer beim ersten Testlauf dabei wäre.",
-          "ts": "2026-10-04 23:47",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-neuhof",
-          "title": "Handwerk-Sichtbarkeit — Neuhof  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Neuhof.\n\n**Ansprache-Idee:** \n„Wenn in Neuhof abends die Heizung ausfällt oder jemand ein neues Bad sucht, greift er sofort zum Smartphone – sorgen wir dafür, dass der Kunde direkt bei Ihnen anruft und nicht bei der Konkurrenz aus Fulda landet.“",
-          "ts": "2026-10-04 23:46",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-10-05 03:40 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }

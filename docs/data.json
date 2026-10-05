@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T23:47Z",
+  "updated": "2026-10-05T03:40Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Idee: Die „Neuhöfer Feierabend-Kiste“** * **WAS:** Ein flexibles Wochen-Abo mit knackigem Saison-Gemüse, frischen Eiern, Brot und regionaler Wurst, das freitags kontaktlos in einer 24/7-Abholstation am Hof bereitsteht. * **FÜR WEN:** Für beschäftigte Pendler und Familien aus Neuhof und Umgebung, die nach dem Feierabend ohne Aufwand ehrliche, regionale Prod",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -1106,18 +1102,18 @@
       "name": "Handwerk-Sichtbarkeit — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Neuhof. **Ansprache-Idee:** „Wenn in Neuhof abends die Heizung ausfällt oder jemand ein neues Bad sucht, greift er sofort zum Smartphone – sorgen wir dafür, dass der Kunde",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-neuhof",
       "name": "Direktvermarktung — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Idee: Die „Neuhöfer Feierabend-Kiste“** * **WAS:** Ein flexibles Wochen-Abo mit knackigem Saison-Gemüse, frischen Eiern, Brot und regionaler Wurst, das freitags kontaktlos in einer 24/7-Abholstation am Hof bereitsteht.",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-neuhof",
@@ -1499,25 +1495,8 @@
     }
   ],
   "budget": {
-    "used": 7,
+    "used": 0,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-neuhof",
-      "via": "gemini",
-      "text": "**Idee: Die „Neuhöfer Feierabend-Kiste“** * **WAS:** Ein flexibles Wochen-Abo mit knackigem Saison-Gemüse, frischen Eiern, Brot und regionaler Wurst, das freitags kontaktlos in einer 24/7-Abholstation am Hof bereitsteht. * **FÜR WEN:** Für beschäftigte Pendler und Familien aus Neuhof und Umgebung, die nach dem Feierabend ohne Aufwand ehrliche, regionale Prod",
-      "ts": "2026-10-04 23:47",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-neuhof",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Neuhof. **Ansprache-Idee:** „Wenn in Neuhof abends die Heizung ausfällt oder jemand ein neues Bad sucht, greift er sofort zum Smartphone – sorgen wir dafür, dass der Kunde direkt bei Ihnen anruft und nicht bei der Konkurrenz aus Fulda landet.“",
-      "ts": "2026-10-04 23:46",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
