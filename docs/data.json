@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-06T19:31Z",
+  "updated": "2026-10-06T23:15Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Erlebe das Paket „Wandpoesie & Picknick“, das eine interaktive Smartphone-Rallye zu den Hauswand-Kunstwerken des „Offenen Buches“ in Hünfeld mit einem gut gefüllten Rhöner Genuss-Rucksack am nahegelegenen Haselsee kombiniert. **für WEN:** Dieses Angebot richtet sich an Paare, Freundesgruppen und genussorientierte Ausflügler, die Kultur, Bewegung und",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Dörflicher Begleit- und Fahrdienst „Hünfeld verbindet“** * **WAS:** Ein verlässlicher, mobiler Nachbarschaftsdienst, der Senioren aus den 13 Ortsteilen direkt zu Hause abholt, sie würdevoll zum Arzt, Wochenmarkt oder Einkauf in die Kernstadt begleitet und die Einkäufe bis in die Küche trägt. * **WARUM HIER:** In den weit verstreuten Hünfelder Dörfern fehle",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1165,18 +1173,18 @@
       "name": "Vulkanregion-Tourismus — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe das Paket „Wandpoesie & Picknick“, das eine interaktive Smartphone-Rallye zu den Hauswand-Kunstwerken des „Offenen Buches“ in Hünfeld mit einem gut gefüllten Rhöner Genuss-Rucksack am nahegelegenen Hasels",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-huenfeld",
       "name": "Senioren-Alltagsdienste — Huenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Dörflicher Begleit- und Fahrdienst „Hünfeld verbindet“** * **WAS:** Ein verlässlicher, mobiler Nachbarschaftsdienst, der Senioren aus den 13 Ortsteilen direkt zu Hause abholt, sie würdevoll zum Arzt, Wochenmarkt oder E",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grossenlueder",
@@ -1495,8 +1503,25 @@
     }
   ],
   "budget": {
-    "used": 1,
+    "used": 3,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-huenfeld",
+      "via": "gemini",
+      "text": "**Dörflicher Begleit- und Fahrdienst „Hünfeld verbindet“** * **WAS:** Ein verlässlicher, mobiler Nachbarschaftsdienst, der Senioren aus den 13 Ortsteilen direkt zu Hause abholt, sie würdevoll zum Arzt, Wochenmarkt oder Einkauf in die Kernstadt begleitet und die Einkäufe bis in die Küche trägt. * **WARUM HIER:** In den weit verstreuten Hünfelder Dörfern fehle",
+      "ts": "2026-10-06 23:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-huenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Erlebe das Paket „Wandpoesie & Picknick“, das eine interaktive Smartphone-Rallye zu den Hauswand-Kunstwerken des „Offenen Buches“ in Hünfeld mit einem gut gefüllten Rhöner Genuss-Rucksack am nahegelegenen Haselsee kombiniert. **für WEN:** Dieses Angebot richtet sich an Paare, Freundesgruppen und genussorientierte Ausflügler, die Kultur, Bewegung und",
+      "ts": "2026-10-06 23:15",
+      "age_min": 0
+    }
+  ]
 }
