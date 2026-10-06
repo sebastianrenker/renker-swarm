@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-06T00:55Z",
+  "updated": "2026-10-06T07:06Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Die „Hünfelder Feierabend-Kiste“ ist eine wöchentliche Abo-Box mit knackigem Saison-Gemüse, Rhöner Ahler Wurscht und frischem Hof-Käse, die griffbereit an einem zentralen Abholknotenpunkt (z. B. nahe Bahnhof oder B27) bereitsteht. **fuer WEN:** Für Pendler, Berufstätige und Familien aus Hünfeld und Umgebung, die ehrlich erzeugte Lebensmittel schätze",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -1160,9 +1156,9 @@
       "name": "Direktvermarktung — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Hünfelder Feierabend-Kiste“ ist eine wöchentliche Abo-Box mit knackigem Saison-Gemüse, Rhöner Ahler Wurscht und frischem Hof-Käse, die griffbereit an einem zentralen Abholknotenpunkt (z. B. nahe Bahnhof ode",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-huenfeld",
@@ -1502,14 +1498,5 @@
     "used": 1,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-huenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Die „Hünfelder Feierabend-Kiste“ ist eine wöchentliche Abo-Box mit knackigem Saison-Gemüse, Rhöner Ahler Wurscht und frischem Hof-Käse, die griffbereit an einem zentralen Abholknotenpunkt (z. B. nahe Bahnhof oder B27) bereitsteht. **fuer WEN:** Für Pendler, Berufstätige und Familien aus Hünfeld und Umgebung, die ehrlich erzeugte Lebensmittel schätze",
-      "ts": "2026-10-06 00:55",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
