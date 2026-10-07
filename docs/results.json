@@ -1,57 +1,7 @@
 {
-  "updated": "2026-10-06 23:15 UTC",
-  "total_results": 2,
-  "total_depts": 2,
-  "active": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-huenfeld",
-      "title": "Senioren-Alltagsdienste — Huenfeld  ·  Kunden",
-      "via": "gemini",
-      "text": "**Dörflicher Begleit- und Fahrdienst „Hünfeld verbindet“**\n\n* **WAS:** Ein verlässlicher, mobiler Nachbarschaftsdienst, der Senioren aus den 13 Ortsteilen direkt zu Hause abholt, sie würdevoll zum Arzt, Wochenmarkt oder Einkauf in die Kernstadt begleitet und die Einkäufe bis in die Küche trägt.\n* **WARUM HIER:** In den weit verstreuten Hünfelder Dörfern fehlen zunehmend Nahversorger und der ÖPNV ist ausgedünnt, weshalb dieser Dienst die Selbstständigkeit der Menschen bewahrt und sie am Gemeinschaftsleben teilhaben lässt.\n* **ERSTER SCHRITT:** In Zusammenarbeit mit den Hünfelder Ortsvorstehern wird ein fester Wochenfahrplan für die Dörfer erstellt und ein kleiner Kreis ehrenamtlicher Fahrerinnen und Fahrer aus der Region gewonnen.",
-      "ts": "2026-10-06 23:15",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-huenfeld",
-      "title": "Vulkanregion-Tourismus — Huenfeld  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Erlebe das Paket „Wandpoesie & Picknick“, das eine interaktive Smartphone-Rallye zu den Hauswand-Kunstwerken des „Offenen Buches“ in Hünfeld mit einem gut gefüllten Rhöner Genuss-Rucksack am nahegelegenen Haselsee kombiniert.\n\n**für WEN:** Dieses Angebot richtet sich an Paare, Freundesgruppen und genussorientierte Ausflügler, die Kultur, Bewegung und regionale Leckereien unkompliziert miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtag auf unserer Buchungsseite aus und erhalte sofort deinen App-Zugangscode sowie den Abhol-Coupon für deinen frischen Picknick-Rucksack.",
-      "ts": "2026-10-06 23:15",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-huenfeld",
-          "title": "Vulkanregion-Tourismus — Huenfeld  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Erlebe das Paket „Wandpoesie & Picknick“, das eine interaktive Smartphone-Rallye zu den Hauswand-Kunstwerken des „Offenen Buches“ in Hünfeld mit einem gut gefüllten Rhöner Genuss-Rucksack am nahegelegenen Haselsee kombiniert.\n\n**für WEN:** Dieses Angebot richtet sich an Paare, Freundesgruppen und genussorientierte Ausflügler, die Kultur, Bewegung und regionale Leckereien unkompliziert miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtag auf unserer Buchungsseite aus und erhalte sofort deinen App-Zugangscode sowie den Abhol-Coupon für deinen frischen Picknick-Rucksack.",
-          "ts": "2026-10-06 23:15",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-huenfeld",
-          "title": "Senioren-Alltagsdienste — Huenfeld  ·  Kunden",
-          "via": "gemini",
-          "text": "**Dörflicher Begleit- und Fahrdienst „Hünfeld verbindet“**\n\n* **WAS:** Ein verlässlicher, mobiler Nachbarschaftsdienst, der Senioren aus den 13 Ortsteilen direkt zu Hause abholt, sie würdevoll zum Arzt, Wochenmarkt oder Einkauf in die Kernstadt begleitet und die Einkäufe bis in die Küche trägt.\n* **WARUM HIER:** In den weit verstreuten Hünfelder Dörfern fehlen zunehmend Nahversorger und der ÖPNV ist ausgedünnt, weshalb dieser Dienst die Selbstständigkeit der Menschen bewahrt und sie am Gemeinschaftsleben teilhaben lässt.\n* **ERSTER SCHRITT:** In Zusammenarbeit mit den Hünfelder Ortsvorstehern wird ein fester Wochenfahrplan für die Dörfer erstellt und ein kleiner Kreis ehrenamtlicher Fahrerinnen und Fahrer aus der Region gewonnen.",
-          "ts": "2026-10-06 23:15",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-10-07 02:33 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }
