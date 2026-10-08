@@ -1,6 +1,6 @@
 {
   "day": "2026-10-08",
-  "calls_today": 6,
+  "calls_today": 10,
   "last_run": {
     "kommando-digest": 1790383979.3511949,
     "chancen-vogelsberg": 1790383991.42309,
@@ -140,11 +140,11 @@
     "tourismus-eichenzell": 1791422377.673963,
     "senioren-eichenzell": 1791422383.2334507,
     "chancen-hosenfeld": 1791422396.9408162,
-    "handwerk-hosenfeld": 1790286927.060094,
-    "direkt-hosenfeld": 1790286934.6540403,
+    "handwerk-hosenfeld": 1791491507.3105912,
+    "direkt-hosenfeld": 1791491514.6372137,
     "tourismus-hosenfeld": 1791422389.5238647,
-    "senioren-hosenfeld": 1790286939.8438406,
-    "chancen-flieden": 1790295183.538712,
+    "senioren-hosenfeld": 1791491523.4662123,
+    "chancen-flieden": 1791491532.310654,
     "handwerk-flieden": 1790295197.6305072,
     "direkt-flieden": 1790295205.454014,
     "tourismus-flieden": 1790312339.0501983,

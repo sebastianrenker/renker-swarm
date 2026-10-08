@@ -1,7 +1,93 @@
 {
-  "updated": "2026-10-08 14:57 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-08 20:32 UTC",
+  "total_results": 4,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-flieden",
+      "title": "Chancen-Scout — Flieden  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein 24/7-Regio-Automat („Feierabend-Box“) mit frisch vorgekochten Regionalgerichten und Snacks heimischer Erzeuger direkt am Bahnhof Flieden.\n\n**WARUM HIER:** Flieden ist eine ausgeprägte Pendler-Gemeinde Richtung Frankfurt und Fulda, wo tägliche Heimkehrer eine hohe Kaufkraft haben, aber nach Feierabend schnelle, hochwertige Verpflegung ohne Aufwand suchen.\n\n**ERSTER SCHRITT:** Pachten Sie eine kleine Standfläche am Bahnhofsareal und schließen Sie Kooperationen mit zwei lokalen Metzgern oder Landwirten für die tägliche Bestückung ab.",
+      "ts": "2026-10-08 20:32",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-hosenfeld",
+      "title": "Senioren-Alltagsdienste — Hosenfeld  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS**\nEin ehrenamtlich getragener Dorf-Fahr- und Begleitdienst bietet älteren Menschen aus allen acht Ortsteilen verlässliche Fahrten zum Arzt, zum Einkaufen sowie würdevolle Unterstützung bei alltäglichen Besorgungen.\n\n**WARUM HIER**\nDurch die weite geografische Verteilung der Ortsteile von Hosenfeld und die begrenzte Nahverkehrsanbindung bewahrt dieser persönliche Service die Eigenständigkeit und soziale Anbindung im gewohnten Dorfleben.\n\n**ERSTER SCHRITT**\nDie Gemeinde lädt zusammen mit den Ortsbeiräten zu einem Auftakttreffen ein, um freiwillige Fahrer und Begleiter zu gewinnen sowie eine einfache telefonische Anlaufstelle einzurichten.",
+      "ts": "2026-10-08 20:32",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-hosenfeld",
+      "title": "Direktvermarktung — Hosenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Hosenfelder Feierabend-Box“ ist eine wöchentliche Gemüsekiste ergänzt mit Eiern, Brot und Wurst direkt von Höfen aus dem Vorland von Vogelsberg und Rhön, flexibel abholbar an einer zentralen Station im Ort.\n\n**fuer WEN:** Das Angebot richt",
+      "ts": "2026-10-08 20:31",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-hosenfeld",
+      "title": "Handwerk-Sichtbarkeit — Hosenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK)\n\n**Ansprache-Idee:**\n„Wenn Menschen in Hosenfeld und den Ortsteilen auf Google nach einer neuen Wärmepumpe oder Badsanierung suchen, sollten sie direkt Ihren Meisterbetrieb finden – und nicht die Konkurrenz aus Fulda.“",
+      "ts": "2026-10-08 20:31",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 3,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "chancen-flieden",
+          "title": "Chancen-Scout — Flieden  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein 24/7-Regio-Automat („Feierabend-Box“) mit frisch vorgekochten Regionalgerichten und Snacks heimischer Erzeuger direkt am Bahnhof Flieden.\n\n**WARUM HIER:** Flieden ist eine ausgeprägte Pendler-Gemeinde Richtung Frankfurt und Fulda, wo tägliche Heimkehrer eine hohe Kaufkraft haben, aber nach Feierabend schnelle, hochwertige Verpflegung ohne Aufwand suchen.\n\n**ERSTER SCHRITT:** Pachten Sie eine kleine Standfläche am Bahnhofsareal und schließen Sie Kooperationen mit zwei lokalen Metzgern oder Landwirten für die tägliche Bestückung ab.",
+          "ts": "2026-10-08 20:32",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-hosenfeld",
+          "title": "Direktvermarktung — Hosenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Hosenfelder Feierabend-Box“ ist eine wöchentliche Gemüsekiste ergänzt mit Eiern, Brot und Wurst direkt von Höfen aus dem Vorland von Vogelsberg und Rhön, flexibel abholbar an einer zentralen Station im Ort.\n\n**fuer WEN:** Das Angebot richt",
+          "ts": "2026-10-08 20:31",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-hosenfeld",
+          "title": "Handwerk-Sichtbarkeit — Hosenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK)\n\n**Ansprache-Idee:**\n„Wenn Menschen in Hosenfeld und den Ortsteilen auf Google nach einer neuen Wärmepumpe oder Badsanierung suchen, sollten sie direkt Ihren Meisterbetrieb finden – und nicht die Konkurrenz aus Fulda.“",
+          "ts": "2026-10-08 20:31",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-hosenfeld",
+          "title": "Senioren-Alltagsdienste — Hosenfeld  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS**\nEin ehrenamtlich getragener Dorf-Fahr- und Begleitdienst bietet älteren Menschen aus allen acht Ortsteilen verlässliche Fahrten zum Arzt, zum Einkaufen sowie würdevolle Unterstützung bei alltäglichen Besorgungen.\n\n**WARUM HIER**\nDurch die weite geografische Verteilung der Ortsteile von Hosenfeld und die begrenzte Nahverkehrsanbindung bewahrt dieser persönliche Service die Eigenständigkeit und soziale Anbindung im gewohnten Dorfleben.\n\n**ERSTER SCHRITT**\nDie Gemeinde lädt zusammen mit den Ortsbeiräten zu einem Auftakttreffen ein, um freiwillige Fahrer und Begleiter zu gewinnen sowie eine einfache telefonische Anlaufstelle einzurichten.",
+          "ts": "2026-10-08 20:32",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
