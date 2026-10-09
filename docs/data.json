@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-08T20:32Z",
+  "updated": "2026-10-09T00:39Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein 24/7-Regio-Automat („Feierabend-Box“) mit frisch vorgekochten Regionalgerichten und Snacks heimischer Erzeuger direkt am Bahnhof Flieden. **WARUM HIER:** Flieden ist eine ausgeprägte Pendler-Gemeinde Richtung Frankfurt und Fulda, wo tägliche Heimkehrer eine hohe Kaufkraft haben, aber nach Feierabend schnelle, hochwertige Verpflegung ohne Aufwand",
+        "text": "**WAS:** Die „Fliedetal-Wochenkiste“ ist ein regionales Frische-Abo mit Brot, Eiern, Käse und Saison-Gemüse von mehreren Höfen aus der Gemeinde, abgelegt zur flexiblen Feierabend-Abholung in zentralen Kühlfächern am Bahnhof Flieden. **Für WEN:** Für Pendler und beschäftigte Familien aus Flieden und den Ortsteilen, die trotz wenig Zeit bodenständige Lebensmit",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS** Ein ehrenamtlich getragener Dorf-Fahr- und Begleitdienst bietet älteren Menschen aus allen acht Ortsteilen verlässliche Fahrten zum Arzt, zum Einkaufen sowie würdevolle Unterstützung bei alltäglichen Besorgungen. **WARUM HIER** Durch die weite geografische Verteilung der Ortsteile von Hosenfeld und die begrenzte Nahverkehrsanbindung bewahrt dieser pe",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1290,18 +1286,18 @@
       "name": "Handwerk-Sichtbarkeit — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Wenn Menschen in Hosenfeld und den Ortsteilen auf Google nach einer neuen Wärmepumpe oder Badsanierung suchen, sollten sie direkt Ihren Meister",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-hosenfeld",
       "name": "Direktvermarktung — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Hosenfelder Feierabend-Box“ ist eine wöchentliche Gemüsekiste ergänzt mit Eiern, Brot und Wurst direkt von Höfen aus dem Vorland von Vogelsberg und Rhön, flexibel abholbar an einer zentralen Station im Ort.",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-hosenfeld",
@@ -1317,36 +1313,36 @@
       "name": "Senioren-Alltagsdienste — Hosenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Ein ehrenamtlich getragener Dorf-Fahr- und Begleitdienst bietet älteren Menschen aus allen acht Ortsteilen verlässliche Fahrten zum Arzt, zum Einkaufen sowie würdevolle Unterstützung bei alltäglichen Besorgungen.",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-flieden",
       "name": "Chancen-Scout — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein 24/7-Regio-Automat („Feierabend-Box“) mit frisch vorgekochten Regionalgerichten und Snacks heimischer Erzeuger direkt am Bahnhof Flieden. **WARUM HIER:** Flieden ist eine ausgeprägte Pendler-Gemeinde Richtun",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-flieden",
       "name": "Handwerk-Sichtbarkeit — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Badsanierung). **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer direkt in Flieden nach einer neuen Heiz",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-flieden",
       "name": "Direktvermarktung — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Fliedetal-Wochenkiste“ ist ein regionales Frische-Abo mit Brot, Eiern, Käse und Saison-Gemüse von mehreren Höfen aus der Gemeinde, abgelegt zur flexiblen Feierabend-Abholung in zentralen Kühlfächern am Bahn",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-flieden",
@@ -1503,40 +1499,24 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 2,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-flieden",
+      "agent": "direkt-flieden",
       "via": "gemini",
-      "text": "**WAS:** Ein 24/7-Regio-Automat („Feierabend-Box“) mit frisch vorgekochten Regionalgerichten und Snacks heimischer Erzeuger direkt am Bahnhof Flieden. **WARUM HIER:** Flieden ist eine ausgeprägte Pendler-Gemeinde Richtung Frankfurt und Fulda, wo tägliche Heimkehrer eine hohe Kaufkraft haben, aber nach Feierabend schnelle, hochwertige Verpflegung ohne Aufwand",
-      "ts": "2026-10-08 20:32",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-hosenfeld",
-      "via": "gemini",
-      "text": "**WAS** Ein ehrenamtlich getragener Dorf-Fahr- und Begleitdienst bietet älteren Menschen aus allen acht Ortsteilen verlässliche Fahrten zum Arzt, zum Einkaufen sowie würdevolle Unterstützung bei alltäglichen Besorgungen. **WARUM HIER** Durch die weite geografische Verteilung der Ortsteile von Hosenfeld und die begrenzte Nahverkehrsanbindung bewahrt dieser pe",
-      "ts": "2026-10-08 20:32",
+      "text": "**WAS:** Die „Fliedetal-Wochenkiste“ ist ein regionales Frische-Abo mit Brot, Eiern, Käse und Saison-Gemüse von mehreren Höfen aus der Gemeinde, abgelegt zur flexiblen Feierabend-Abholung in zentralen Kühlfächern am Bahnhof Flieden. **Für WEN:** Für Pendler und beschäftigte Familien aus Flieden und den Ortsteilen, die trotz wenig Zeit bodenständige Lebensmit",
+      "ts": "2026-10-09 00:39",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-hosenfeld",
+      "agent": "handwerk-flieden",
       "via": "gemini",
-      "text": "**WAS:** Die „Hosenfelder Feierabend-Box“ ist eine wöchentliche Gemüsekiste ergänzt mit Eiern, Brot und Wurst direkt von Höfen aus dem Vorland von Vogelsberg und Rhön, flexibel abholbar an einer zentralen Station im Ort. **fuer WEN:** Das Angebot richt",
-      "ts": "2026-10-08 20:31",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-hosenfeld",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) **Ansprache-Idee:** „Wenn Menschen in Hosenfeld und den Ortsteilen auf Google nach einer neuen Wärmepumpe oder Badsanierung suchen, sollten sie direkt Ihren Meisterbetrieb finden – und nicht die Konkurrenz aus Fulda.“",
-      "ts": "2026-10-08 20:31",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** (insbesondere mit Fokus auf Wärmepumpen-Umrüstung und Badsanierung). **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer direkt in Flieden nach einer neuen Heizung oder Badsanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge",
+      "ts": "2026-10-09 00:39",
       "age_min": 0
     }
   ]
