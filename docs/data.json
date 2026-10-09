@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-09T06:43Z",
+  "updated": "2026-10-09T13:48Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Das Paket „Vulkan-Picknick & Kräuterzauber im Königreich Flieden“ umfasst eine geführte Wildkräuter-Wanderung durch die Fliedener Auen mit anschließendem Picknick aus regionalen Rhön-Vogelsberg-Spezialitäten. **für WEN:** Dieses Erlebnis richtet sich an Naturgenießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit suchen und die essbare",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst holt Seniorinnen und Senioren direkt an der Haustür in den Ortsteilen ab, unterstützt sie persönlich beim Einkauf oder Arztbesuch im Kernort und bringt sie sicher wieder nach Hause. **WARUM HIER:** Da wichtige Angebote wie Supermärkte und Hausarztpraxen im Kernort Flieden konzentriert sind, bewahrt diese",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1353,18 +1345,18 @@
       "name": "Vulkanregion-Tourismus — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Paket „Vulkan-Picknick & Kräuterzauber im Königreich Flieden“ umfasst eine geführte Wildkräuter-Wanderung durch die Fliedener Auen mit anschließendem Picknick aus regionalen Rhön-Vogelsberg-Spezialitäten. **",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-flieden",
       "name": "Senioren-Alltagsdienste — Flieden",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst holt Seniorinnen und Senioren direkt an der Haustür in den Ortsteilen ab, unterstützt sie persönlich beim Einkauf oder Arztbesuch im Kernort und bringt sie sicher wi",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-tann",
@@ -1506,22 +1498,5 @@
     "used": 4,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-flieden",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst holt Seniorinnen und Senioren direkt an der Haustür in den Ortsteilen ab, unterstützt sie persönlich beim Einkauf oder Arztbesuch im Kernort und bringt sie sicher wieder nach Hause. **WARUM HIER:** Da wichtige Angebote wie Supermärkte und Hausarztpraxen im Kernort Flieden konzentriert sind, bewahrt diese",
-      "ts": "2026-10-09 06:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-flieden",
-      "via": "gemini",
-      "text": "**WAS:** Das Paket „Vulkan-Picknick & Kräuterzauber im Königreich Flieden“ umfasst eine geführte Wildkräuter-Wanderung durch die Fliedener Auen mit anschließendem Picknick aus regionalen Rhön-Vogelsberg-Spezialitäten. **für WEN:** Dieses Erlebnis richtet sich an Naturgenießer, Paare und kleine Gruppen, die eine entschleunigende Auszeit suchen und die essbare",
-      "ts": "2026-10-09 06:42",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
