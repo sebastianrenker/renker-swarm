@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-09T23:16Z",
+  "updated": "2026-10-10T02:31Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein privater Gepäck- und Vesper-Transferservice für Etappenwanderer und Radtouristen rund um den Fernwanderweg „Der Hochrhöner“. **WARUM HIER:** Gersfeld ist das zentrale touristische Drehkreuz der Hohen Rhön mit hoher Dichte an Wandergästen, denen es aktuell an flexiblen Logistik-Lösungen für den Gepäcktransport zwischen den Unterkünften fehlt. **E",
+        "text": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Vesper-Kiste“ im Abo mit frischem Holzofenbrot, Rhönschaf-Käse, Hausmacher Wurst und saisonal Eingelegtem direkt von Höfen aus der Umgebung. **fuer WEN:** Für beschäftigte einheimische Familien, Pendler und Stamm-Urlauber in den hiesigen Ferienwohnungen, die bodenständige Qualität ohne Supermarkt-Schnickschnack wol",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst („Tanner Dorflotse“), der Seniorinnen und Senioren aus den umliegenden Ortsteilen sicher zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bringt und sie vor Ort einfühlsam unterstützt. **WARUM HIER:** In der weitläufigen Struktur der Rhön rund um Tann sind die Wege zum nächsten Arzt oder Supermark",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1371,72 +1367,72 @@
       "name": "Chancen-Scout — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Lieferservice für vorgebuchte Rhöner Picknick- und Brotzeitboxen mit regionalen Spezialitäten, die direkt an Tanner Ferienunterkünfte oder Wander-Startpunkte geliefert werden. **WARUM HIER:** Tann ha",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-tann",
       "name": "Handwerk-Sichtbarkeit — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Badsanierung und Wärmepumpen-Umstieg). **Ansprache-Idee:** „Wenn in Tann und Umgebung die Heizung ausfällt oder jemand eine moderne Wärmepumpe sucht, soll er direk",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-tann",
       "name": "Direktvermarktung — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine Selbstbedienungs-„Rhöner Vesper-Kiste“ am Regiomaten, bestückt mit frischem Holzofenbrot, Tanner Hausmacher Wurst, regionalem Käse und Apfelsaft für eine ehrliche Brotzeit. **fuer WEN:** Für Berufstätige au",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-tann",
       "name": "Vulkanregion-Tourismus — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe eine dreistündige, geführte Lama-Trekking-Tour durch das pittoreske Ulstertal bei Tann, abgerundet durch ein gemütliches Picknick mit regionalen Rhöner Bio-Spezialitäten. **fuer WEN:** Das Paket ist perfe",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-tann",
       "name": "Senioren-Alltagsdienste — Tann",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Alltags- und Begleitdienst („Tanner Dorflotse“), der Seniorinnen und Senioren aus den umliegenden Ortsteilen sicher zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bringt und sie vor O",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-gersfeld",
       "name": "Chancen-Scout — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein privater Gepäck- und Vesper-Transferservice für Etappenwanderer und Radtouristen rund um den Fernwanderweg „Der Hochrhöner“. **WARUM HIER:** Gersfeld ist das zentrale touristische Drehkreuz der Hohen Rhön mi",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-gersfeld",
       "name": "Handwerk-Sichtbarkeit — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld. (Gerade in der Rhön mit vielen älteren Wohnhäusern, Ferienwohnungen und kalten Wintern suchen Besitzer dringend nach lokalen Fachbetrieben für Heizungsta",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-gersfeld",
       "name": "Direktvermarktung — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Vesper-Kiste“ im Abo mit frischem Holzofenbrot, Rhönschaf-Käse, Hausmacher Wurst und saisonal Eingelegtem direkt von Höfen aus der Umgebung. **fuer WEN:** Für beschäftigte einh",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-gersfeld",
@@ -1503,56 +1499,24 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 2,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-gersfeld",
+      "agent": "direkt-gersfeld",
       "via": "gemini",
-      "text": "**WAS:** Ein privater Gepäck- und Vesper-Transferservice für Etappenwanderer und Radtouristen rund um den Fernwanderweg „Der Hochrhöner“. **WARUM HIER:** Gersfeld ist das zentrale touristische Drehkreuz der Hohen Rhön mit hoher Dichte an Wandergästen, denen es aktuell an flexiblen Logistik-Lösungen für den Gepäcktransport zwischen den Unterkünften fehlt. **E",
-      "ts": "2026-10-09 23:16",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-tann",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst („Tanner Dorflotse“), der Seniorinnen und Senioren aus den umliegenden Ortsteilen sicher zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bringt und sie vor Ort einfühlsam unterstützt. **WARUM HIER:** In der weitläufigen Struktur der Rhön rund um Tann sind die Wege zum nächsten Arzt oder Supermark",
-      "ts": "2026-10-09 23:16",
+      "text": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Vesper-Kiste“ im Abo mit frischem Holzofenbrot, Rhönschaf-Käse, Hausmacher Wurst und saisonal Eingelegtem direkt von Höfen aus der Umgebung. **fuer WEN:** Für beschäftigte einheimische Familien, Pendler und Stamm-Urlauber in den hiesigen Ferienwohnungen, die bodenständige Qualität ohne Supermarkt-Schnickschnack wol",
+      "ts": "2026-10-10 02:31",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-tann",
+      "agent": "handwerk-gersfeld",
       "via": "gemini",
-      "text": "**WAS:** Erlebe eine dreistündige, geführte Lama-Trekking-Tour durch das pittoreske Ulstertal bei Tann, abgerundet durch ein gemütliches Picknick mit regionalen Rhöner Bio-Spezialitäten. **fuer WEN:** Das Paket ist perfekt für Familien, Paare und Naturfreunde, die eine tierische Entschleunigung im UNESCO-Biosphärenreservat Rhön suchen. **ERSTER SCHRITT:** Wä",
-      "ts": "2026-10-09 23:16",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-tann",
-      "via": "gemini",
-      "text": "**WAS:** Eine Selbstbedienungs-„Rhöner Vesper-Kiste“ am Regiomaten, bestückt mit frischem Holzofenbrot, Tanner Hausmacher Wurst, regionalem Käse und Apfelsaft für eine ehrliche Brotzeit. **fuer WEN:** Für Berufstätige aus der Region, die nach Feierabend ohne Ladenzeiten einkaufen wollen, sowie für Rhön-Wanderer und Urlaubsgäste auf der Suche nach Verpflegung",
-      "ts": "2026-10-09 23:16",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-tann",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Badsanierung und Wärmepumpen-Umstieg). **Ansprache-Idee:** „Wenn in Tann und Umgebung die Heizung ausfällt oder jemand eine moderne Wärmepumpe sucht, soll er direkt Ihre Nummer auf dem Smartphone haben – und nicht die der Konkurrenz aus der nächsten Kreisstadt.“",
-      "ts": "2026-10-09 23:16",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-tann",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Lieferservice für vorgebuchte Rhöner Picknick- und Brotzeitboxen mit regionalen Spezialitäten, die direkt an Tanner Ferienunterkünfte oder Wander-Startpunkte geliefert werden. **WARUM HIER:** Tann hat eine hohe Dichte an Ferienwohnungen und profitiert stark vom Wandertourismus (z. B. Der Hochrhöner), leidet aber an Ruhetagen unter Lücken",
-      "ts": "2026-10-09 23:16",
+      "text": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld. (Gerade in der Rhön mit vielen älteren Wohnhäusern, Ferienwohnungen und kalten Wintern suchen Besitzer dringend nach lokalen Fachbetrieben für Heizungstausch und Notdienste). **Ansprache-Idee (1 Satz):** „Hallo [Name], immer mehr Haus- und Ferienhausbesitzer in der Rhön suchen auf dem Smartph",
+      "ts": "2026-10-10 02:31",
       "age_min": 0
     }
   ]
