@@ -1,38 +1,50 @@
 {
-  "updated": "2026-10-10T15:21Z",
+  "updated": "2026-10-10T19:25Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Tages-Fokus Commander – [Datum]** 1. **Offerta:** 5 offene Partner-Angebote im Raum Fulda nachfassen und bis 16:00 Uhr zum Abschluss bringen. 2. **Handwerk-Sichtbar:** Campaign-Funnel für die neue Handwerker-Aktion prüfen und direkt freigeben. 3. **Vogelsberg-Chancen:** 3 regionale Key-Arbeitgeber persönlich anrufen und das Recruiting-Bundle pitchten.",
+        "age_min": 0
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Das Erlebnis-Paket „Sternen-Picknick auf dem Buchschirmberg“ umfasst eine geführte Dämmerungswanderung nahe Hilders mit anschließender Himmelsbeobachtung im zertifizierten Sternenpark Rhön und einer regionalen Biosphären-Brotzeit. **für WEN:** Dieses Angebot richtet sich an Paare, Naturgenießer und kleine Gruppen, die Romantik, Astronomie und kulina",
+        "text": "**WAS** Ein schlanker B2B-Service, der mittelständischen Handwerks- und Industriebetrieben in Osthessen einsatzfertige KI-Tools zur Automatisierung von Büroarbeiten und Kundenanfragen einrichtet. **WARUM HIER** Die Region Fulda bietet einen extrem dichten, voll ausgelasteten Mittelstand mit akutem Fachkräftemangel, der über die Hochschule Fulda direkt auf ju",
         "age_min": 0
       }
     },
     {
       "id": "Recherche",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist eine nüchterne preisseitige Positionierung für ein Digital-Sichtbarkeits-Paket im Handwerkssektor (DACH-Raum). --- ### Methodische Annahmen (explizit markiert) * **Annahme 1:** Bei den genannten Preisen handelt es sich um **einmalige Einrichtungspreise** (netto, zzgl. USt.). Laufende Hosting- oder Wartungsgebühren sind nicht enthalten. * **Annahme 2",
+        "age_min": 0
+      }
     },
     {
       "id": "Bau",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**HEADLINE:** Mehr Wunschkunden für Ihr Handwerk – direkt aus dem Vogelsberg. **SUBLINE:** Wir machen Ihren Betrieb online sichtbar, damit die besten Aufträge aus der Region endlich bei Ihnen landen. Unkompliziert, persönlich und ganz ohne Fachchinesisch. **CTA-BUTTON:** Jetzt kostenloses Erstgespräch sichern",
+        "age_min": 0
+      }
     },
     {
       "id": "Kunden",
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Dorf-Begleitdienst bietet Senioren aus den Ortsteilen eine persönliche und respektvolle Fahrmöglichkeit mit Alltagsbegleitung für Einkäufe, Arztbesuche und soziale Kontakte im Kernort Hilders. **WARUM HIER:** Da die einzelnen Ortsteile weit im Rhöner Hügelland verstreut liegen und Erledigungen ohne eigenes Auto schwer zu bewältigen sind,",
+        "text": "Hier sind 3 ehrliche und direkte FAQs für Offerta: **1. Was kann die kostenlose Version von Offerta?** Du kannst dauerhaft kostenlos bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Es gibt keine zeitliche Begrenzung und du musst für die Registrierung keine Zahlungsdaten angeben. **2. Ist auf den kostenlosen Angeboten ein Wasserzeichen?** Ja,",
         "age_min": 0
       }
     },
@@ -48,54 +60,54 @@
       "name": "Chief of Staff — Tages-Digest",
       "dept": "Kommando",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Tages-Fokus Commander – [Datum]** 1. **Offerta:** 5 offene Partner-Angebote im Raum Fulda nachfassen und bis 16:00 Uhr zum Abschluss bringen. 2. **Handwerk-Sichtbar:** Campaign-Funnel für die neue Handwerker-Aktion prü",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-vogelsberg",
       "name": "Opportunity Finder — Vogelsberg",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein Express-Besorgungsdienst für regionale Handwerksbetriebe, der fehlendes Material und Werkzeuge direkt vom Großhandel auf die Baustellen im Vogelsbergkreis liefert, damit teure Fachkräfte nicht selbst fahren ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-fulda",
       "name": "Opportunity Finder — Fulda",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein schlanker B2B-Service, der mittelständischen Handwerks- und Industriebetrieben in Osthessen einsatzfertige KI-Tools zur Automatisierung von Büroarbeiten und Kundenanfragen einrichtet. **WARUM HIER** Die Regio",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "recherche-wettbewerb",
       "name": "Researcher — Wettbewerb & Preise",
       "dept": "Recherche",
       "iv": 480,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist eine nüchterne preisseitige Positionierung für ein Digital-Sichtbarkeits-Paket im Handwerkssektor (DACH-Raum). --- ### Methodische Annahmen (explizit markiert) * **Annahme 1:** Bei den genannten Preisen handelt ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "bau-landing-copy",
       "name": "Web Designer — Landing-Texte",
       "dept": "Bau",
       "iv": 600,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**HEADLINE:** Mehr Wunschkunden für Ihr Handwerk – direkt aus dem Vogelsberg. **SUBLINE:** Wir machen Ihren Betrieb online sichtbar, damit die besten Aufträge aus der Region endlich bei Ihnen landen. Unkompliziert, persö",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "kunden-faq",
       "name": "Support Agent — FAQ-Bausteine",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier sind 3 ehrliche und direkte FAQs für Offerta: **1. Was kann die kostenlose Version von Offerta?** Du kannst dauerhaft kostenlos bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Es gibt keine zeitlich",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "finanzen-check",
@@ -1479,56 +1491,80 @@
       "name": "Direktvermarktung — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Ulster-Vesper-Box“ – ein wöchentliches Abo-Paket vollgepackt mit frischem Bauernbrot, Rhönschaf-Käse, Hausmacher Wurst und saisonalem Hof-Gemüse direkt aus der unmittelbaren Umgebung von Hilders. **fuer WEN",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-hilders",
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Sternen-Picknick auf dem Buchschirmberg“ umfasst eine geführte Dämmerungswanderung nahe Hilders mit anschließender Himmelsbeobachtung im zertifizierten Sternenpark Rhön und einer regionalen B",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-hilders",
       "name": "Senioren-Alltagsdienste — Hilders",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Dorf-Begleitdienst bietet Senioren aus den Ortsteilen eine persönliche und respektvolle Fahrmöglichkeit mit Alltagsbegleitung für Einkäufe, Arztbesuche und soziale Kontakte im Kernort Hilders. **WARU",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     }
   ],
   "budget": {
-    "used": 9,
+    "used": 15,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Kunden",
-      "agent": "senioren-hilders",
+      "agent": "kunden-faq",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst bietet Senioren aus den Ortsteilen eine persönliche und respektvolle Fahrmöglichkeit mit Alltagsbegleitung für Einkäufe, Arztbesuche und soziale Kontakte im Kernort Hilders. **WARUM HIER:** Da die einzelnen Ortsteile weit im Rhöner Hügelland verstreut liegen und Erledigungen ohne eigenes Auto schwer zu bewältigen sind,",
-      "ts": "2026-10-10 15:21",
+      "text": "Hier sind 3 ehrliche und direkte FAQs für Offerta: **1. Was kann die kostenlose Version von Offerta?** Du kannst dauerhaft kostenlos bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Es gibt keine zeitliche Begrenzung und du musst für die Registrierung keine Zahlungsdaten angeben. **2. Ist auf den kostenlosen Angeboten ein Wasserzeichen?** Ja,",
+      "ts": "2026-10-10 19:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Bau",
+      "agent": "bau-landing-copy",
+      "via": "gemini",
+      "text": "**HEADLINE:** Mehr Wunschkunden für Ihr Handwerk – direkt aus dem Vogelsberg. **SUBLINE:** Wir machen Ihren Betrieb online sichtbar, damit die besten Aufträge aus der Region endlich bei Ihnen landen. Unkompliziert, persönlich und ganz ohne Fachchinesisch. **CTA-BUTTON:** Jetzt kostenloses Erstgespräch sichern",
+      "ts": "2026-10-10 19:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Recherche",
+      "agent": "recherche-wettbewerb",
+      "via": "gemini",
+      "text": "Hier ist eine nüchterne preisseitige Positionierung für ein Digital-Sichtbarkeits-Paket im Handwerkssektor (DACH-Raum). --- ### Methodische Annahmen (explizit markiert) * **Annahme 1:** Bei den genannten Preisen handelt es sich um **einmalige Einrichtungspreise** (netto, zzgl. USt.). Laufende Hosting- oder Wartungsgebühren sind nicht enthalten. * **Annahme 2",
+      "ts": "2026-10-10 19:25",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-hilders",
+      "agent": "chancen-fulda",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Sternen-Picknick auf dem Buchschirmberg“ umfasst eine geführte Dämmerungswanderung nahe Hilders mit anschließender Himmelsbeobachtung im zertifizierten Sternenpark Rhön und einer regionalen Biosphären-Brotzeit. **für WEN:** Dieses Angebot richtet sich an Paare, Naturgenießer und kleine Gruppen, die Romantik, Astronomie und kulina",
-      "ts": "2026-10-10 15:21",
+      "text": "**WAS** Ein schlanker B2B-Service, der mittelständischen Handwerks- und Industriebetrieben in Osthessen einsatzfertige KI-Tools zur Automatisierung von Büroarbeiten und Kundenanfragen einrichtet. **WARUM HIER** Die Region Fulda bietet einen extrem dichten, voll ausgelasteten Mittelstand mit akutem Fachkräftemangel, der über die Hochschule Fulda direkt auf ju",
+      "ts": "2026-10-10 19:25",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-hilders",
+      "agent": "chancen-vogelsberg",
       "via": "gemini",
-      "text": "**WAS:** Die „Ulster-Vesper-Box“ – ein wöchentliches Abo-Paket vollgepackt mit frischem Bauernbrot, Rhönschaf-Käse, Hausmacher Wurst und saisonalem Hof-Gemüse direkt aus der unmittelbaren Umgebung von Hilders. **fuer WEN:** Für beschäftigte Familien im Ulstertal, die ohne Aufwand echt regional einkaufen wollen, sowie für Wanderer und Urlauber, die eine ehrli",
-      "ts": "2026-10-10 15:21",
+      "text": "**WAS:** Ein Express-Besorgungsdienst für regionale Handwerksbetriebe, der fehlendes Material und Werkzeuge direkt vom Großhandel auf die Baustellen im Vogelsbergkreis liefert, damit teure Fachkräfte nicht selbst fahren müssen. **WARUM HIER:** Im flächengroßen Vogelsbergkreis verlieren Betriebe durch die langen Strecken zu Großhändlern nach Alsfeld, Lauterba",
+      "ts": "2026-10-10 19:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "kommando-digest",
+      "via": "gemini",
+      "text": "**Tages-Fokus Commander – [Datum]** 1. **Offerta:** 5 offene Partner-Angebote im Raum Fulda nachfassen und bis 16:00 Uhr zum Abschluss bringen. 2. **Handwerk-Sichtbar:** Campaign-Funnel für die neue Handwerker-Aktion prüfen und direkt freigeben. 3. **Vogelsberg-Chancen:** 3 regionale Key-Arbeitgeber persönlich anrufen und das Recruiting-Bundle pitchten.",
+      "ts": "2026-10-10 19:25",
       "age_min": 0
     }
   ]
