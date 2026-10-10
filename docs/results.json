@@ -1,48 +1,90 @@
 {
-  "updated": "2026-10-10 02:31 UTC",
-  "total_results": 2,
-  "total_depts": 1,
+  "updated": "2026-10-10 09:00 UTC",
+  "total_results": 4,
+  "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "direkt-gersfeld",
-      "title": "Direktvermarktung — Gersfeld  ·  Chancen",
+      "agent": "handwerk-hilders",
+      "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Vesper-Kiste“ im Abo mit frischem Holzofenbrot, Rhönschaf-Käse, Hausmacher Wurst und saisonal Eingelegtem direkt von Höfen aus der Umgebung.\n\n**fuer WEN:** Für beschäftigte einheimische Familien, Pendler und Stamm-Urlauber in den hiesigen Ferienwohnungen, die bodenständige Qualität ohne Supermarkt-Schnickschnack wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger und einen Dorf-Bäcker an einen Tisch holen, um ein einfaches Start-Sortiment und eine zentrale Abholstelle in Gersfeld zu vereinbaren.",
-      "ts": "2026-10-10 02:31",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Hilderser online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen hier im Ort bleiben?“",
+      "ts": "2026-10-10 09:00",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-gersfeld",
-      "title": "Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen",
+      "agent": "chancen-hilders",
+      "title": "Chancen-Scout — Hilders  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld. (Gerade in der Rhön mit vielen älteren Wohnhäusern, Ferienwohnungen und kalten Wintern suchen Besitzer dringend nach lokalen Fachbetrieben für Heizungstausch und Notdienste).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], immer mehr Haus- und Ferienhausbesitzer in der Rhön suchen auf dem Smartphone nach Fachbetrieben für Wärmepumpen und Badsanierungen – wollen wir Ihre Google-Seite so aufstellen, dass diese lukrativen Aufträge direkt bei Ihnen in Gersfeld landen statt bei der Konkurrenz aus Fulda?“",
-      "ts": "2026-10-10 02:31",
+      "text": "**WAS:** \nEin mobiler Vesper-Lieferservice, der fertig gepackte Wanderrucksäcke mit regionalen Rhöner Spezialitäten direkt an Wanderparkplätze und Ferienunterkünfte rund um Hilders bringt.\n\n**WARUM HIER:** \nHilders ist ein zentraler Etappenort des Premiumwanderwegs „Der Hochrhöner“, an dem viele Touristen durch Schließtage in der lokalen Ausflugsgastronomie nach unkomplizierter Verpflegung auf der Route suchen.\n\n**ERSTER SCHRITT:** \nStelle drei Vesper-Varianten mit Produkten Hilderser Direktvermarkter zusammen und lege Buchungsflyer in den örtlichen Ferienwohnungen sowie der Tourist-Info aus.",
+      "ts": "2026-10-10 09:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-gersfeld",
+      "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein nachbarschaftlicher Bring- und Begleitdienst („Gersfelder Dorflotse“), der ältere Menschen aus den verstreuten Ortsteilen sicher zu Ärzten, Besorgungen oder Gemeinschaftstreffs im Kernort fährt und vor Ort persönlich unterstützt.\n\n**WARUM HIER:** Die steile Rhön-Topografie, das oft raue Winterwetter und die weiten Wege zwischen den Höhenortsteilen von Gersfeld machen selbstständige",
+      "ts": "2026-10-10 09:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-gersfeld",
+      "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Gersfelder Rhön-Trekking & Biosphären-Picknick“ kombiniert eine geführte E-Bike-Tour zu den schönsten Aussichtspunkten rund um Gersfeld mit einem reich gefüllten Picknickkorb voller regionaler Rhöner Spezialitäten.\n\n**FÜR WEN:** Perfekt für genussorientierte Paare, Aktivurlauber und kleine Gruppen, die die einzigartige Biosphärenlandschaft der Rhön entspannt und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Buchen Sie Ihren Wunschtermin direkt online auf unserem Buchungsportal und wählen Sie dabei Ihre bevorzugte Picknick-Variante (klassisch oder vegetarisch) aus.",
+      "ts": "2026-10-10 09:00",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "direkt-gersfeld",
-          "title": "Direktvermarktung — Gersfeld  ·  Chancen",
+          "agent": "handwerk-hilders",
+          "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Eine wöchentliche „Gersfelder Rhön-Vesper-Kiste“ im Abo mit frischem Holzofenbrot, Rhönschaf-Käse, Hausmacher Wurst und saisonal Eingelegtem direkt von Höfen aus der Umgebung.\n\n**fuer WEN:** Für beschäftigte einheimische Familien, Pendler und Stamm-Urlauber in den hiesigen Ferienwohnungen, die bodenständige Qualität ohne Supermarkt-Schnickschnack wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger und einen Dorf-Bäcker an einen Tisch holen, um ein einfaches Start-Sortiment und eine zentrale Abholstelle in Gersfeld zu vereinbaren.",
-          "ts": "2026-10-10 02:31",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Hilderser online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen hier im Ort bleiben?“",
+          "ts": "2026-10-10 09:00",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-gersfeld",
-          "title": "Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen",
+          "agent": "chancen-hilders",
+          "title": "Chancen-Scout — Hilders  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld. (Gerade in der Rhön mit vielen älteren Wohnhäusern, Ferienwohnungen und kalten Wintern suchen Besitzer dringend nach lokalen Fachbetrieben für Heizungstausch und Notdienste).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], immer mehr Haus- und Ferienhausbesitzer in der Rhön suchen auf dem Smartphone nach Fachbetrieben für Wärmepumpen und Badsanierungen – wollen wir Ihre Google-Seite so aufstellen, dass diese lukrativen Aufträge direkt bei Ihnen in Gersfeld landen statt bei der Konkurrenz aus Fulda?“",
-          "ts": "2026-10-10 02:31",
+          "text": "**WAS:** \nEin mobiler Vesper-Lieferservice, der fertig gepackte Wanderrucksäcke mit regionalen Rhöner Spezialitäten direkt an Wanderparkplätze und Ferienunterkünfte rund um Hilders bringt.\n\n**WARUM HIER:** \nHilders ist ein zentraler Etappenort des Premiumwanderwegs „Der Hochrhöner“, an dem viele Touristen durch Schließtage in der lokalen Ausflugsgastronomie nach unkomplizierter Verpflegung auf der Route suchen.\n\n**ERSTER SCHRITT:** \nStelle drei Vesper-Varianten mit Produkten Hilderser Direktvermarkter zusammen und lege Buchungsflyer in den örtlichen Ferienwohnungen sowie der Tourist-Info aus.",
+          "ts": "2026-10-10 09:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-gersfeld",
+          "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Das Erlebnis-Paket „Gersfelder Rhön-Trekking & Biosphären-Picknick“ kombiniert eine geführte E-Bike-Tour zu den schönsten Aussichtspunkten rund um Gersfeld mit einem reich gefüllten Picknickkorb voller regionaler Rhöner Spezialitäten.\n\n**FÜR WEN:** Perfekt für genussorientierte Paare, Aktivurlauber und kleine Gruppen, die die einzigartige Biosphärenlandschaft der Rhön entspannt und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Buchen Sie Ihren Wunschtermin direkt online auf unserem Buchungsportal und wählen Sie dabei Ihre bevorzugte Picknick-Variante (klassisch oder vegetarisch) aus.",
+          "ts": "2026-10-10 09:00",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-gersfeld",
+          "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein nachbarschaftlicher Bring- und Begleitdienst („Gersfelder Dorflotse“), der ältere Menschen aus den verstreuten Ortsteilen sicher zu Ärzten, Besorgungen oder Gemeinschaftstreffs im Kernort fährt und vor Ort persönlich unterstützt.\n\n**WARUM HIER:** Die steile Rhön-Topografie, das oft raue Winterwetter und die weiten Wege zwischen den Höhenortsteilen von Gersfeld machen selbstständige",
+          "ts": "2026-10-10 09:00",
           "age_min": 0
         }
       ]
