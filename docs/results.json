@@ -1,75 +1,57 @@
 {
-  "updated": "2026-10-10 09:00 UTC",
-  "total_results": 4,
+  "updated": "2026-10-10 15:21 UTC",
+  "total_results": 3,
   "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-hilders",
-      "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Hilderser online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen hier im Ort bleiben?“",
-      "ts": "2026-10-10 09:00",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-hilders",
-      "title": "Chancen-Scout — Hilders  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Vesper-Lieferservice, der fertig gepackte Wanderrucksäcke mit regionalen Rhöner Spezialitäten direkt an Wanderparkplätze und Ferienunterkünfte rund um Hilders bringt.\n\n**WARUM HIER:** \nHilders ist ein zentraler Etappenort des Premiumwanderwegs „Der Hochrhöner“, an dem viele Touristen durch Schließtage in der lokalen Ausflugsgastronomie nach unkomplizierter Verpflegung auf der Route suchen.\n\n**ERSTER SCHRITT:** \nStelle drei Vesper-Varianten mit Produkten Hilderser Direktvermarkter zusammen und lege Buchungsflyer in den örtlichen Ferienwohnungen sowie der Tourist-Info aus.",
-      "ts": "2026-10-10 09:00",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-gersfeld",
-      "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+      "agent": "senioren-hilders",
+      "title": "Senioren-Alltagsdienste — Hilders  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein nachbarschaftlicher Bring- und Begleitdienst („Gersfelder Dorflotse“), der ältere Menschen aus den verstreuten Ortsteilen sicher zu Ärzten, Besorgungen oder Gemeinschaftstreffs im Kernort fährt und vor Ort persönlich unterstützt.\n\n**WARUM HIER:** Die steile Rhön-Topografie, das oft raue Winterwetter und die weiten Wege zwischen den Höhenortsteilen von Gersfeld machen selbstständige",
-      "ts": "2026-10-10 09:00",
+      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst bietet Senioren aus den Ortsteilen eine persönliche und respektvolle Fahrmöglichkeit mit Alltagsbegleitung für Einkäufe, Arztbesuche und soziale Kontakte im Kernort Hilders.\n\n**WARUM HIER:** Da die einzelnen Ortsteile weit im Rhöner Hügelland verstreut liegen und Erledigungen ohne eigenes Auto schwer zu bewältigen sind, bewahrt dieser gezielte Dienst die wertvolle Selbstständigkeit der älteren Menschen in ihrer Heimat.\n\n**ERSTER SCHRITT:** Die Marktgemeinde Hilders initiiert über das Mitteilungsblatt eine Interessenabfrage bei Senioren und lädt zeitgleich hilfsbereite Nachbarn zu einem ersten Treffen ins Rathaus ein, um ehrenamtliche Fahrpatenschaften zu organisieren.",
+      "ts": "2026-10-10 15:21",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-gersfeld",
-      "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+      "agent": "tourismus-hilders",
+      "title": "Vulkanregion-Tourismus — Hilders  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Gersfelder Rhön-Trekking & Biosphären-Picknick“ kombiniert eine geführte E-Bike-Tour zu den schönsten Aussichtspunkten rund um Gersfeld mit einem reich gefüllten Picknickkorb voller regionaler Rhöner Spezialitäten.\n\n**FÜR WEN:** Perfekt für genussorientierte Paare, Aktivurlauber und kleine Gruppen, die die einzigartige Biosphärenlandschaft der Rhön entspannt und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Buchen Sie Ihren Wunschtermin direkt online auf unserem Buchungsportal und wählen Sie dabei Ihre bevorzugte Picknick-Variante (klassisch oder vegetarisch) aus.",
-      "ts": "2026-10-10 09:00",
+      "text": "**WAS:** \nDas Erlebnis-Paket „Sternen-Picknick auf dem Buchschirmberg“ umfasst eine geführte Dämmerungswanderung nahe Hilders mit anschließender Himmelsbeobachtung im zertifizierten Sternenpark Rhön und einer regionalen Biosphären-Brotzeit.\n\n**für WEN:** \nDieses Angebot richtet sich an Paare, Naturgenießer und kleine Gruppen, die Romantik, Astronomie und kulinarischen Genuss unkompliziert miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** \nWähle auf unserer Buchungsseite deinen Wunschtermin aus und sichere dir dein All-inclusive-Ticket mit sofortiger Bestätigung direkt auf dein Smartphone.",
+      "ts": "2026-10-10 15:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-hilders",
+      "title": "Direktvermarktung — Hilders  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDie „Ulster-Vesper-Box“ – ein wöchentliches Abo-Paket vollgepackt mit frischem Bauernbrot, Rhönschaf-Käse, Hausmacher Wurst und saisonalem Hof-Gemüse direkt aus der unmittelbaren Umgebung von Hilders.\n\n**fuer WEN:** \nFür beschäftigte Familien im Ulstertal, die ohne Aufwand echt regional einkaufen wollen, sowie für Wanderer und Urlauber, die eine ehrliche Brotzeit für die Rhön-Tour suchen.\n\n**ERSTER SCHRITT:** \nZwei lokale Landwirte und den Dorfbäcker an einen Tisch holen, um den Inhalt und die Logistik für eine erste Test-Auflage von 20 Boxen abzusprechen.",
+      "ts": "2026-10-10 15:21",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 3,
+      "count": 2,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-hilders",
-          "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
+          "agent": "tourismus-hilders",
+          "title": "Vulkanregion-Tourismus — Hilders  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Hilderser online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen hier im Ort bleiben?“",
-          "ts": "2026-10-10 09:00",
+          "text": "**WAS:** \nDas Erlebnis-Paket „Sternen-Picknick auf dem Buchschirmberg“ umfasst eine geführte Dämmerungswanderung nahe Hilders mit anschließender Himmelsbeobachtung im zertifizierten Sternenpark Rhön und einer regionalen Biosphären-Brotzeit.\n\n**für WEN:** \nDieses Angebot richtet sich an Paare, Naturgenießer und kleine Gruppen, die Romantik, Astronomie und kulinarischen Genuss unkompliziert miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** \nWähle auf unserer Buchungsseite deinen Wunschtermin aus und sichere dir dein All-inclusive-Ticket mit sofortiger Bestätigung direkt auf dein Smartphone.",
+          "ts": "2026-10-10 15:21",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-hilders",
-          "title": "Chancen-Scout — Hilders  ·  Chancen",
+          "agent": "direkt-hilders",
+          "title": "Direktvermarktung — Hilders  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Vesper-Lieferservice, der fertig gepackte Wanderrucksäcke mit regionalen Rhöner Spezialitäten direkt an Wanderparkplätze und Ferienunterkünfte rund um Hilders bringt.\n\n**WARUM HIER:** \nHilders ist ein zentraler Etappenort des Premiumwanderwegs „Der Hochrhöner“, an dem viele Touristen durch Schließtage in der lokalen Ausflugsgastronomie nach unkomplizierter Verpflegung auf der Route suchen.\n\n**ERSTER SCHRITT:** \nStelle drei Vesper-Varianten mit Produkten Hilderser Direktvermarkter zusammen und lege Buchungsflyer in den örtlichen Ferienwohnungen sowie der Tourist-Info aus.",
-          "ts": "2026-10-10 09:00",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-gersfeld",
-          "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Das Erlebnis-Paket „Gersfelder Rhön-Trekking & Biosphären-Picknick“ kombiniert eine geführte E-Bike-Tour zu den schönsten Aussichtspunkten rund um Gersfeld mit einem reich gefüllten Picknickkorb voller regionaler Rhöner Spezialitäten.\n\n**FÜR WEN:** Perfekt für genussorientierte Paare, Aktivurlauber und kleine Gruppen, die die einzigartige Biosphärenlandschaft der Rhön entspannt und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Buchen Sie Ihren Wunschtermin direkt online auf unserem Buchungsportal und wählen Sie dabei Ihre bevorzugte Picknick-Variante (klassisch oder vegetarisch) aus.",
-          "ts": "2026-10-10 09:00",
+          "text": "**WAS:** \nDie „Ulster-Vesper-Box“ – ein wöchentliches Abo-Paket vollgepackt mit frischem Bauernbrot, Rhönschaf-Käse, Hausmacher Wurst und saisonalem Hof-Gemüse direkt aus der unmittelbaren Umgebung von Hilders.\n\n**fuer WEN:** \nFür beschäftigte Familien im Ulstertal, die ohne Aufwand echt regional einkaufen wollen, sowie für Wanderer und Urlauber, die eine ehrliche Brotzeit für die Rhön-Tour suchen.\n\n**ERSTER SCHRITT:** \nZwei lokale Landwirte und den Dorfbäcker an einen Tisch holen, um den Inhalt und die Logistik für eine erste Test-Auflage von 20 Boxen abzusprechen.",
+          "ts": "2026-10-10 15:21",
           "age_min": 0
         }
       ]
@@ -80,11 +62,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-gersfeld",
-          "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+          "agent": "senioren-hilders",
+          "title": "Senioren-Alltagsdienste — Hilders  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Ein nachbarschaftlicher Bring- und Begleitdienst („Gersfelder Dorflotse“), der ältere Menschen aus den verstreuten Ortsteilen sicher zu Ärzten, Besorgungen oder Gemeinschaftstreffs im Kernort fährt und vor Ort persönlich unterstützt.\n\n**WARUM HIER:** Die steile Rhön-Topografie, das oft raue Winterwetter und die weiten Wege zwischen den Höhenortsteilen von Gersfeld machen selbstständige",
-          "ts": "2026-10-10 09:00",
+          "text": "**WAS:** Ein mobiler Dorf-Begleitdienst bietet Senioren aus den Ortsteilen eine persönliche und respektvolle Fahrmöglichkeit mit Alltagsbegleitung für Einkäufe, Arztbesuche und soziale Kontakte im Kernort Hilders.\n\n**WARUM HIER:** Da die einzelnen Ortsteile weit im Rhöner Hügelland verstreut liegen und Erledigungen ohne eigenes Auto schwer zu bewältigen sind, bewahrt dieser gezielte Dienst die wertvolle Selbstständigkeit der älteren Menschen in ihrer Heimat.\n\n**ERSTER SCHRITT:** Die Marktgemeinde Hilders initiiert über das Mitteilungsblatt eine Interessenabfrage bei Senioren und lädt zeitgleich hilfsbereite Nachbarn zu einem ersten Treffen ins Rathaus ein, um ehrenamtliche Fahrpatenschaften zu organisieren.",
+          "ts": "2026-10-10 15:21",
           "age_min": 0
         }
       ]
