@@ -1,108 +1,54 @@
 {
-  "updated": "2026-10-11 01:30 UTC",
-  "total_results": 5,
+  "updated": "2026-10-11 07:46 UTC",
+  "total_results": 2,
   "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-lauterbach",
-      "title": "Direktvermarktung — Lauterbach  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-lauterbach",
+      "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein wöchentliches Abo-Kistchen („Lauterbacher Feierabend-Tasche“) mit knackigem Vogelsberger Saison-Gemüse, frischen Eiern und wechselnden Hof-Spezialitäten, das freitags kontaktlos an einer zentralen Abholstation in der Stadt bereitsteht.\n\n**fuer WEN:** Für berufstätige Familien und Pendler aus Lauterbach und Umgebung, die gute Lebensmittel direkt vom Bauern wollen, es aber unter der Woche nicht zu den regulären Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Drei bis vier lokale Höfe aus dem Vogelsbergkreis für eine Kooperation gewinnen und über Aushänge sowie eine einfache WhatsApp-Gruppe 20 Test-Kunden für einen einmonatigen Probelauf gewinnen.",
-      "ts": "2026-10-11 01:30",
+      "text": "**WAS:** \nEin mobiler, nachbarschaftlicher Besorgungs- und Begleitdienst, der ältere Menschen in den Ortsteilen verlässliche Hilfe bei Einkäufen, Arztbesuchen und Botengängen bietet und dabei stets Zeit für ein persönliches Gespräch mitbringt.\n\n**WARUM HIER:** \nIn den weit verstreuten Dörfern rund um das Lauterbacher Zentrum fehlen oft Einkaufsmöglichkeiten und dichte Busverbindungen, was die eigenständige und würdevolle Lebensführung der Senioren in ihrer gewohnten Heimat erschwert.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den lokalen Ortsbeiräten und Kirchengemeinden wird eine einfache Bedarfsabfrage gestartet, um Hilfesuchende und ehrenamtliche Fahrerinnen und Fahrer aus der direkten Nachbarschaft zusammenzubringen.",
+      "ts": "2026-10-11 07:46",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-lauterbach",
-      "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
+      "agent": "tourismus-lauterbach",
+      "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbetrieb (SHK)** in Lauterbach.\n\n**Ansprache-Idee:**\n„Wenn Hausbesitzer im Vogelsbergkreis nach ‚Wärmepumpe‘ oder ‚Badsanierung Lauterbach‘ googeln, landen sie aktuell meist bei den großen Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Ihr Betrieb bei den lukrativen Anfragen direkt vor Ihrer Haustür ganz oben steht.“",
-      "ts": "2026-10-11 01:30",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-lauterbach",
-      "title": "Chancen-Scout — Lauterbach  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannendienst und Vor-Ort-Wartungsservice auf Transporter-Basis für Radtouristen und Einheimische.\n\n**WARUM HIER:** Lauterbach liegt zentral am stark frequentierten Vulkanradweg, während ortsansässige Werkstätten durch den E-Bike-Boom oft wochenlange Vorlaufzeiten haben und keine Notfälle auf der Strecke bergen.\n\n**ERSTER SCHRITT:** Ein B2B-Partnernetzwerk mit den lokalen Gastgebern und der Lauterbacher Tourist-Info aufbauen, um Notfall-Flyer direkt an Radgäste zu verteilen.",
-      "ts": "2026-10-11 01:30",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "wachstum-offerta",
-      "title": "Growth — Offerta  ·  Chancen",
-      "via": "gemini",
-      "text": "**IDEE**\n\"Vorlage klonen\"-Fußzeile. Statt einem passiven \"Erstellt mit Offerta\" nutzt du einen aktiven Call-to-Action: *\"Gefällt dir dieses Angebots-Design? Klicke hier, um dieses Layout kostenlos für deine eigenen Angebote zu nutzen.\"* Der Link führt direkt zu einer Registrierung, die genau dieses Design sofort im Editor des neuen Nutzers öffnet.\n\n**WARUM**\nAngebote fließen von B2B zu B2B. Die Empfänger sind meist Selbstständige oder Entscheider, die selbst regelmäßig Angebote schreiben. Sie sehen das perfekte Endprodukt genau in dem Moment, in dem sie ein Dokument prüfen. Das wandelt jeden Angebotsempfänger ohne Cent-Einsatz in einen extrem qualifizierten B2B-Lead um.\n\n**ERSTER SCHRITT**\nPass den Standard-Fußzeilentext in deinen Angebotstemplates an und verlinke ihn auf `offerta.de/register?template=default` – erstelle eine einfache Logik, die neuen Usern nach dem Bestätigen der E-Mail direkt diesen Template-Typ im Editor anlegt.",
-      "ts": "2026-10-11 01:30",
-      "age_min": 0
-    },
-    {
-      "dept": "Finanzen",
-      "agent": "finanzen-check",
-      "title": "Treasurer — Zahlen-Check  ·  Finanzen",
-      "via": "gemini",
-      "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen:\n\n1. **Gewerbeaufnahme & Steuerstatus:** Du musst dein Gewerbe offiziell angemeldet und beim Finanzamt geklärt haben, ob du die Kleinunternehmerregelung (§ 19 UStG) nutzt oder der Regelbesteuerung unterliegst, um von Anfang an korrekte Rechnungen auszustellen.\n2. **Rechtssicherer Auftritt:** Deine Verkaufs- oder Website benötigt zwingend ein vollständiges Impressum, eine DSGVO-konforme Datenschutzerklärung sowie saubere AGB samt Widerrufsbelehrung, um teure Abmahnungen sofort zu vermeiden.\n3. **Ehrliche Preiskalkulation:** Der Paketpreis muss lückenlos kalkuliert sein, damit nach Abzug aller fixen Kosten, Transaktionsgebühren der Zahlungsanbieter und dem Steuerabzug auch tatsächlich eine nachhaltige Gewinnmarge bei dir hängenbleibt.",
-      "ts": "2026-10-11 01:30",
+      "text": "**WAS:** Die \"Lauterbacher Strolche-Tour\" kombiniert eine geführte E-Bike-Fahrt durch die vulkanische Natur mit einer Pause an den berühmten Schrittsteinen, inklusive einem Picknickkorb voll regionaler Spezialitäten und Lauterbacher Bier.\n\n**fuer WEN:** Dieses Angebot ist ideal für Paare, kleine Gruppen und Genussradler, die aktive Naturerlebnisse und kulinarische Entdeckungen entspannt verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnis-Paket mit wenigen Klicks direkt online.",
+      "ts": "2026-10-11 07:46",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 4,
+      "count": 1,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "direkt-lauterbach",
-          "title": "Direktvermarktung — Lauterbach  ·  Chancen",
+          "agent": "tourismus-lauterbach",
+          "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein wöchentliches Abo-Kistchen („Lauterbacher Feierabend-Tasche“) mit knackigem Vogelsberger Saison-Gemüse, frischen Eiern und wechselnden Hof-Spezialitäten, das freitags kontaktlos an einer zentralen Abholstation in der Stadt bereitsteht.\n\n**fuer WEN:** Für berufstätige Familien und Pendler aus Lauterbach und Umgebung, die gute Lebensmittel direkt vom Bauern wollen, es aber unter der Woche nicht zu den regulären Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Drei bis vier lokale Höfe aus dem Vogelsbergkreis für eine Kooperation gewinnen und über Aushänge sowie eine einfache WhatsApp-Gruppe 20 Test-Kunden für einen einmonatigen Probelauf gewinnen.",
-          "ts": "2026-10-11 01:30",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-lauterbach",
-          "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbetrieb (SHK)** in Lauterbach.\n\n**Ansprache-Idee:**\n„Wenn Hausbesitzer im Vogelsbergkreis nach ‚Wärmepumpe‘ oder ‚Badsanierung Lauterbach‘ googeln, landen sie aktuell meist bei den großen Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Ihr Betrieb bei den lukrativen Anfragen direkt vor Ihrer Haustür ganz oben steht.“",
-          "ts": "2026-10-11 01:30",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-lauterbach",
-          "title": "Chancen-Scout — Lauterbach  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler E-Bike-Pannendienst und Vor-Ort-Wartungsservice auf Transporter-Basis für Radtouristen und Einheimische.\n\n**WARUM HIER:** Lauterbach liegt zentral am stark frequentierten Vulkanradweg, während ortsansässige Werkstätten durch den E-Bike-Boom oft wochenlange Vorlaufzeiten haben und keine Notfälle auf der Strecke bergen.\n\n**ERSTER SCHRITT:** Ein B2B-Partnernetzwerk mit den lokalen Gastgebern und der Lauterbacher Tourist-Info aufbauen, um Notfall-Flyer direkt an Radgäste zu verteilen.",
-          "ts": "2026-10-11 01:30",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "wachstum-offerta",
-          "title": "Growth — Offerta  ·  Chancen",
-          "via": "gemini",
-          "text": "**IDEE**\n\"Vorlage klonen\"-Fußzeile. Statt einem passiven \"Erstellt mit Offerta\" nutzt du einen aktiven Call-to-Action: *\"Gefällt dir dieses Angebots-Design? Klicke hier, um dieses Layout kostenlos für deine eigenen Angebote zu nutzen.\"* Der Link führt direkt zu einer Registrierung, die genau dieses Design sofort im Editor des neuen Nutzers öffnet.\n\n**WARUM**\nAngebote fließen von B2B zu B2B. Die Empfänger sind meist Selbstständige oder Entscheider, die selbst regelmäßig Angebote schreiben. Sie sehen das perfekte Endprodukt genau in dem Moment, in dem sie ein Dokument prüfen. Das wandelt jeden Angebotsempfänger ohne Cent-Einsatz in einen extrem qualifizierten B2B-Lead um.\n\n**ERSTER SCHRITT**\nPass den Standard-Fußzeilentext in deinen Angebotstemplates an und verlinke ihn auf `offerta.de/register?template=default` – erstelle eine einfache Logik, die neuen Usern nach dem Bestätigen der E-Mail direkt diesen Template-Typ im Editor anlegt.",
-          "ts": "2026-10-11 01:30",
+          "text": "**WAS:** Die \"Lauterbacher Strolche-Tour\" kombiniert eine geführte E-Bike-Fahrt durch die vulkanische Natur mit einer Pause an den berühmten Schrittsteinen, inklusive einem Picknickkorb voll regionaler Spezialitäten und Lauterbacher Bier.\n\n**fuer WEN:** Dieses Angebot ist ideal für Paare, kleine Gruppen und Genussradler, die aktive Naturerlebnisse und kulinarische Entdeckungen entspannt verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnis-Paket mit wenigen Klicks direkt online.",
+          "ts": "2026-10-11 07:46",
           "age_min": 0
         }
       ]
     },
     {
-      "id": "Finanzen",
+      "id": "Kunden",
       "count": 1,
       "items": [
         {
-          "dept": "Finanzen",
-          "agent": "finanzen-check",
-          "title": "Treasurer — Zahlen-Check  ·  Finanzen",
+          "dept": "Kunden",
+          "agent": "senioren-lauterbach",
+          "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
           "via": "gemini",
-          "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen:\n\n1. **Gewerbeaufnahme & Steuerstatus:** Du musst dein Gewerbe offiziell angemeldet und beim Finanzamt geklärt haben, ob du die Kleinunternehmerregelung (§ 19 UStG) nutzt oder der Regelbesteuerung unterliegst, um von Anfang an korrekte Rechnungen auszustellen.\n2. **Rechtssicherer Auftritt:** Deine Verkaufs- oder Website benötigt zwingend ein vollständiges Impressum, eine DSGVO-konforme Datenschutzerklärung sowie saubere AGB samt Widerrufsbelehrung, um teure Abmahnungen sofort zu vermeiden.\n3. **Ehrliche Preiskalkulation:** Der Paketpreis muss lückenlos kalkuliert sein, damit nach Abzug aller fixen Kosten, Transaktionsgebühren der Zahlungsanbieter und dem Steuerabzug auch tatsächlich eine nachhaltige Gewinnmarge bei dir hängenbleibt.",
-          "ts": "2026-10-11 01:30",
+          "text": "**WAS:** \nEin mobiler, nachbarschaftlicher Besorgungs- und Begleitdienst, der ältere Menschen in den Ortsteilen verlässliche Hilfe bei Einkäufen, Arztbesuchen und Botengängen bietet und dabei stets Zeit für ein persönliches Gespräch mitbringt.\n\n**WARUM HIER:** \nIn den weit verstreuten Dörfern rund um das Lauterbacher Zentrum fehlen oft Einkaufsmöglichkeiten und dichte Busverbindungen, was die eigenständige und würdevolle Lebensführung der Senioren in ihrer gewohnten Heimat erschwert.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den lokalen Ortsbeiräten und Kirchengemeinden wird eine einfache Bedarfsabfrage gestartet, um Hilfesuchende und ehrenamtliche Fahrerinnen und Fahrer aus der direkten Nachbarschaft zusammenzubringen.",
+          "ts": "2026-10-11 07:46",
           "age_min": 0
         }
       ]
