@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-11T07:46Z",
+  "updated": "2026-10-11T14:34Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Die \"Lauterbacher Strolche-Tour\" kombiniert eine geführte E-Bike-Fahrt durch die vulkanische Natur mit einer Pause an den berühmten Schrittsteinen, inklusive einem Picknickkorb voll regionaler Spezialitäten und Lauterbacher Bier. **fuer WEN:** Dieses Angebot ist ideal für Paare, kleine Gruppen und Genussradler, die aktive Naturerlebnisse und kulinar",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler, nachbarschaftlicher Besorgungs- und Begleitdienst, der ältere Menschen in den Ortsteilen verlässliche Hilfe bei Einkäufen, Arztbesuchen und Botengängen bietet und dabei stets Zeit für ein persönliches Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um das Lauterbacher Zentrum fehlen oft Einkaufsmöglichkeiten und",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -192,18 +184,18 @@
       "name": "Vulkanregion-Tourismus — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die \"Lauterbacher Strolche-Tour\" kombiniert eine geführte E-Bike-Fahrt durch die vulkanische Natur mit einer Pause an den berühmten Schrittsteinen, inklusive einem Picknickkorb voll regionaler Spezialitäten und ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-lauterbach",
       "name": "Senioren-Alltagsdienste — Lauterbach",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler, nachbarschaftlicher Besorgungs- und Begleitdienst, der ältere Menschen in den Ortsteilen verlässliche Hilfe bei Einkäufen, Arztbesuchen und Botengängen bietet und dabei stets Zeit für ein persönlich",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-alsfeld",
@@ -1506,22 +1498,5 @@
     "used": 7,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-lauterbach",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler, nachbarschaftlicher Besorgungs- und Begleitdienst, der ältere Menschen in den Ortsteilen verlässliche Hilfe bei Einkäufen, Arztbesuchen und Botengängen bietet und dabei stets Zeit für ein persönliches Gespräch mitbringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um das Lauterbacher Zentrum fehlen oft Einkaufsmöglichkeiten und",
-      "ts": "2026-10-11 07:46",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-lauterbach",
-      "via": "gemini",
-      "text": "**WAS:** Die \"Lauterbacher Strolche-Tour\" kombiniert eine geführte E-Bike-Fahrt durch die vulkanische Natur mit einer Pause an den berühmten Schrittsteinen, inklusive einem Picknickkorb voll regionaler Spezialitäten und Lauterbacher Bier. **fuer WEN:** Dieses Angebot ist ideal für Paare, kleine Gruppen und Genussradler, die aktive Naturerlebnisse und kulinar",
-      "ts": "2026-10-11 07:46",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }

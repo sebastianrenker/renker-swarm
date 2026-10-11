@@ -1,57 +1,7 @@
 {
-  "updated": "2026-10-11 07:46 UTC",
-  "total_results": 2,
-  "total_depts": 2,
-  "active": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-lauterbach",
-      "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** \nEin mobiler, nachbarschaftlicher Besorgungs- und Begleitdienst, der ältere Menschen in den Ortsteilen verlässliche Hilfe bei Einkäufen, Arztbesuchen und Botengängen bietet und dabei stets Zeit für ein persönliches Gespräch mitbringt.\n\n**WARUM HIER:** \nIn den weit verstreuten Dörfern rund um das Lauterbacher Zentrum fehlen oft Einkaufsmöglichkeiten und dichte Busverbindungen, was die eigenständige und würdevolle Lebensführung der Senioren in ihrer gewohnten Heimat erschwert.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den lokalen Ortsbeiräten und Kirchengemeinden wird eine einfache Bedarfsabfrage gestartet, um Hilfesuchende und ehrenamtliche Fahrerinnen und Fahrer aus der direkten Nachbarschaft zusammenzubringen.",
-      "ts": "2026-10-11 07:46",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-lauterbach",
-      "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Die \"Lauterbacher Strolche-Tour\" kombiniert eine geführte E-Bike-Fahrt durch die vulkanische Natur mit einer Pause an den berühmten Schrittsteinen, inklusive einem Picknickkorb voll regionaler Spezialitäten und Lauterbacher Bier.\n\n**fuer WEN:** Dieses Angebot ist ideal für Paare, kleine Gruppen und Genussradler, die aktive Naturerlebnisse und kulinarische Entdeckungen entspannt verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnis-Paket mit wenigen Klicks direkt online.",
-      "ts": "2026-10-11 07:46",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-lauterbach",
-          "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Die \"Lauterbacher Strolche-Tour\" kombiniert eine geführte E-Bike-Fahrt durch die vulkanische Natur mit einer Pause an den berühmten Schrittsteinen, inklusive einem Picknickkorb voll regionaler Spezialitäten und Lauterbacher Bier.\n\n**fuer WEN:** Dieses Angebot ist ideal für Paare, kleine Gruppen und Genussradler, die aktive Naturerlebnisse und kulinarische Entdeckungen entspannt verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnis-Paket mit wenigen Klicks direkt online.",
-          "ts": "2026-10-11 07:46",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-lauterbach",
-          "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:** \nEin mobiler, nachbarschaftlicher Besorgungs- und Begleitdienst, der ältere Menschen in den Ortsteilen verlässliche Hilfe bei Einkäufen, Arztbesuchen und Botengängen bietet und dabei stets Zeit für ein persönliches Gespräch mitbringt.\n\n**WARUM HIER:** \nIn den weit verstreuten Dörfern rund um das Lauterbacher Zentrum fehlen oft Einkaufsmöglichkeiten und dichte Busverbindungen, was die eigenständige und würdevolle Lebensführung der Senioren in ihrer gewohnten Heimat erschwert.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den lokalen Ortsbeiräten und Kirchengemeinden wird eine einfache Bedarfsabfrage gestartet, um Hilfesuchende und ehrenamtliche Fahrerinnen und Fahrer aus der direkten Nachbarschaft zusammenzubringen.",
-          "ts": "2026-10-11 07:46",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-10-11 14:34 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }
