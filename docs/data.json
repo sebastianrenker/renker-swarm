@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-10T22:47Z",
+  "updated": "2026-10-11T01:30Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 5,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein wöchentliches Abo-Kistchen („Lauterbacher Feierabend-Tasche“) mit knackigem Vogelsberger Saison-Gemüse, frischen Eiern und wechselnden Hof-Spezialitäten, das freitags kontaktlos an einer zentralen Abholstation in der Stadt bereitsteht. **fuer WEN:** Für berufstätige Familien und Pendler aus Lauterbach und Umgebung, die gute Lebensmittel direkt v",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -31,7 +35,11 @@
     {
       "id": "Finanzen",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeaufnahme & Steuerstatus:** Du musst dein Gewerbe offiziell angemeldet und beim Finanzamt geklärt haben, ob du die Kleinunternehmerregelung (§ 19 UStG) nutzt oder der Regelbesteuerung unterliegst, um von Anfang an korrekte Rechnungen auszustellen. 2. **Rec",
+        "age_min": 0
+      }
     }
   ],
   "agents": [
@@ -94,18 +102,18 @@
       "name": "Treasurer — Zahlen-Check",
       "dept": "Finanzen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeaufnahme & Steuerstatus:** Du musst dein Gewerbe offiziell angemeldet und beim Finanzamt geklärt haben, ob du die K",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "wachstum-offerta",
       "name": "Growth — Offerta",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**IDEE** \"Vorlage klonen\"-Fußzeile. Statt einem passiven \"Erstellt mit Offerta\" nutzt du einen aktiven Call-to-Action: *\"Gefällt dir dieses Angebots-Design? Klicke hier, um dieses Layout kostenlos für deine eigenen Angeb",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-offerta",
@@ -157,27 +165,27 @@
       "name": "Chancen-Scout — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike-Pannendienst und Vor-Ort-Wartungsservice auf Transporter-Basis für Radtouristen und Einheimische. **WARUM HIER:** Lauterbach liegt zentral am stark frequentierten Vulkanradweg, während ortsans",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-lauterbach",
       "name": "Handwerk-Sichtbarkeit — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb (SHK)** in Lauterbach. **Ansprache-Idee:** „Wenn Hausbesitzer im Vogelsbergkreis nach ‚Wärmepumpe‘ oder ‚Badsanierung Lauterbach‘ googeln, landen sie aktuell me",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-lauterbach",
       "name": "Direktvermarktung — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein wöchentliches Abo-Kistchen („Lauterbacher Feierabend-Tasche“) mit knackigem Vogelsberger Saison-Gemüse, frischen Eiern und wechselnden Hof-Spezialitäten, das freitags kontaktlos an einer zentralen Abholstati",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-lauterbach",
@@ -1495,8 +1503,49 @@
     }
   ],
   "budget": {
-    "used": 15,
+    "used": 5,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-lauterbach",
+      "via": "gemini",
+      "text": "**WAS:** Ein wöchentliches Abo-Kistchen („Lauterbacher Feierabend-Tasche“) mit knackigem Vogelsberger Saison-Gemüse, frischen Eiern und wechselnden Hof-Spezialitäten, das freitags kontaktlos an einer zentralen Abholstation in der Stadt bereitsteht. **fuer WEN:** Für berufstätige Familien und Pendler aus Lauterbach und Umgebung, die gute Lebensmittel direkt v",
+      "ts": "2026-10-11 01:30",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-lauterbach",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb (SHK)** in Lauterbach. **Ansprache-Idee:** „Wenn Hausbesitzer im Vogelsbergkreis nach ‚Wärmepumpe‘ oder ‚Badsanierung Lauterbach‘ googeln, landen sie aktuell meist bei den großen Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Ihr Betrieb bei den lukrativen Anfragen direkt vor Ihrer Haustür ",
+      "ts": "2026-10-11 01:30",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-lauterbach",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannendienst und Vor-Ort-Wartungsservice auf Transporter-Basis für Radtouristen und Einheimische. **WARUM HIER:** Lauterbach liegt zentral am stark frequentierten Vulkanradweg, während ortsansässige Werkstätten durch den E-Bike-Boom oft wochenlange Vorlaufzeiten haben und keine Notfälle auf der Strecke bergen. **ERSTER SCHRITT:** ",
+      "ts": "2026-10-11 01:30",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "wachstum-offerta",
+      "via": "gemini",
+      "text": "**IDEE** \"Vorlage klonen\"-Fußzeile. Statt einem passiven \"Erstellt mit Offerta\" nutzt du einen aktiven Call-to-Action: *\"Gefällt dir dieses Angebots-Design? Klicke hier, um dieses Layout kostenlos für deine eigenen Angebote zu nutzen.\"* Der Link führt direkt zu einer Registrierung, die genau dieses Design sofort im Editor des neuen Nutzers öffnet. **WARUM** ",
+      "ts": "2026-10-11 01:30",
+      "age_min": 0
+    },
+    {
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
+      "via": "gemini",
+      "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeaufnahme & Steuerstatus:** Du musst dein Gewerbe offiziell angemeldet und beim Finanzamt geklärt haben, ob du die Kleinunternehmerregelung (§ 19 UStG) nutzt oder der Regelbesteuerung unterliegst, um von Anfang an korrekte Rechnungen auszustellen. 2. **Rec",
+      "ts": "2026-10-11 01:30",
+      "age_min": 0
+    }
+  ]
 }
