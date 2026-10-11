@@ -1,7 +1,111 @@
 {
-  "updated": "2026-10-11 14:34 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-11 19:10 UTC",
+  "total_results": 5,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-alsfeld",
+      "title": "Senioren-Alltagsdienste — Alsfeld  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein nachbarschaftlicher Begleit- und Fahrdienst („Alsfelder Markt-Mobil“), der ältere Menschen aus den Ortsteilen abholt, sie beim Einkauf sowie bei Arztbesuchen im Zentrum unterstützt und Raum für persönliche Begegnungen schafft.\n\n**WARUM HIER:** In den 16 weit verstreuten Ortsteilen von Alsfeld ist der öffentliche Nahverkehr spärlich, wodurch ältere Menschen ohne eigenes Fahrzeug rasch den Anschluss an die Versorgung und das Gemeinschaftsleben verlieren.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit dem Seniorenbeirat der Stadt Alsfeld werden in zwei Pilot-Dörfern die genauen Bedarfe abgefragt und erste ehrenamtliche Fahrerinnen und Fahrer für feste Wochentage gewonnen.",
+      "ts": "2026-10-11 19:10",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-alsfeld",
+      "title": "Vulkanregion-Tourismus — Alsfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Märchenhaftes Alsfeld & Kulinarik“ kombiniert eine private abendliche Führung mit dem historischen Nachtwächter durch die Altstadt, den Eintritt ins Alsfelder Märchenhaus und ein regionales 3-Gänge-Genussmenü.\n\n**fuer WEN:** Es eignet sich perfekt für Paare, Genusswanderer und Kulturbegeisterte, die Geschichte hautnah erleben und mit regionalen Spezialitäten des Vogelsbergs verbinden möchten.\n\n**ERSTER SCHRITT:** Klicke auf den Buchungs-Link, wähle deinen Wunschtermin im Kalender aus und sichere dir dein Erlebnisticket direkt online.",
+      "ts": "2026-10-11 19:10",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-alsfeld",
+      "title": "Direktvermarktung — Alsfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein flexibles Wochen-Abo mit frischem Saison-Gemüse, Eiern und Vogelsberger Hausmacher-Spezialitäten, das freitags an einer zentralen Abholstation in Alsfeld bereitsteht.\n\n**fuer WEN:** Für Pendler, Berufstätige und Familien aus Alsfeld und Umgebung, die ehrlich erzeugte Lebensmittel aus der Heimat schätzen, aber es selten zu den regulären Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Drei passende Landwirte aus dem Alsfelder Umland an einen Tisch holen und einen vierwöchigen Testlauf mit 20 Haushalten über eine WhatsApp-Gruppe starten.",
+      "ts": "2026-10-11 19:10",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-alsfeld",
+      "title": "Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin **Maler- und Lackierbetrieb mit Spezialisierung auf Altbau- und Fachwerksanierung** (besonders relevant für die historische Altstadt und das Umland von Alsfeld).\n\n**Ansprache-Idee:** \n„Wenn Hausbesitzer in Alsfeld nach Experten für Fachwerksanierung googeln, landen sie aktuell bei Betrieben aus dem Umland – lassen Sie uns dafür sorgen, dass Ihre saubere Arbeit direkt hier im Ort als Erste gefunden wird.“",
+      "ts": "2026-10-11 19:10",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-alsfeld",
+      "title": "Chancen-Scout — Alsfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS**\nEin B2B-Präsenteservice, der regional produzierte Vogelsberger Spezialitäten-Boxen für Mitarbeiterjubiläen, Kundengeschenke und Events der Alsfelder Firmen zusammenstellt und direkt ausliefert.\n\n**WARUM HIER**\nAlsfeld kombiniert eine dynamische Mittelstands- und Logistikstruktur an der A5 mit einer starken regionalen Erzeugerkultur im Vogelsberg – zwei Welten, die im B2B-Bereich bisher kaum professionell vernetzt sind.\n\n**ERSTER SCHRITT**\nDrei lokale Erzeuger als Partner gewinnen, zwei konkrete Musterboxen zusammenstellen und damit direkt zehn Personalabteilungen im Alsfelder Industriegebiet ansprechen.",
+      "ts": "2026-10-11 19:10",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 4,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-alsfeld",
+          "title": "Vulkanregion-Tourismus — Alsfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Das Erlebnis-Paket „Märchenhaftes Alsfeld & Kulinarik“ kombiniert eine private abendliche Führung mit dem historischen Nachtwächter durch die Altstadt, den Eintritt ins Alsfelder Märchenhaus und ein regionales 3-Gänge-Genussmenü.\n\n**fuer WEN:** Es eignet sich perfekt für Paare, Genusswanderer und Kulturbegeisterte, die Geschichte hautnah erleben und mit regionalen Spezialitäten des Vogelsbergs verbinden möchten.\n\n**ERSTER SCHRITT:** Klicke auf den Buchungs-Link, wähle deinen Wunschtermin im Kalender aus und sichere dir dein Erlebnisticket direkt online.",
+          "ts": "2026-10-11 19:10",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-alsfeld",
+          "title": "Direktvermarktung — Alsfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein flexibles Wochen-Abo mit frischem Saison-Gemüse, Eiern und Vogelsberger Hausmacher-Spezialitäten, das freitags an einer zentralen Abholstation in Alsfeld bereitsteht.\n\n**fuer WEN:** Für Pendler, Berufstätige und Familien aus Alsfeld und Umgebung, die ehrlich erzeugte Lebensmittel aus der Heimat schätzen, aber es selten zu den regulären Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Drei passende Landwirte aus dem Alsfelder Umland an einen Tisch holen und einen vierwöchigen Testlauf mit 20 Haushalten über eine WhatsApp-Gruppe starten.",
+          "ts": "2026-10-11 19:10",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-alsfeld",
+          "title": "Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin **Maler- und Lackierbetrieb mit Spezialisierung auf Altbau- und Fachwerksanierung** (besonders relevant für die historische Altstadt und das Umland von Alsfeld).\n\n**Ansprache-Idee:** \n„Wenn Hausbesitzer in Alsfeld nach Experten für Fachwerksanierung googeln, landen sie aktuell bei Betrieben aus dem Umland – lassen Sie uns dafür sorgen, dass Ihre saubere Arbeit direkt hier im Ort als Erste gefunden wird.“",
+          "ts": "2026-10-11 19:10",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-alsfeld",
+          "title": "Chancen-Scout — Alsfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS**\nEin B2B-Präsenteservice, der regional produzierte Vogelsberger Spezialitäten-Boxen für Mitarbeiterjubiläen, Kundengeschenke und Events der Alsfelder Firmen zusammenstellt und direkt ausliefert.\n\n**WARUM HIER**\nAlsfeld kombiniert eine dynamische Mittelstands- und Logistikstruktur an der A5 mit einer starken regionalen Erzeugerkultur im Vogelsberg – zwei Welten, die im B2B-Bereich bisher kaum professionell vernetzt sind.\n\n**ERSTER SCHRITT**\nDrei lokale Erzeuger als Partner gewinnen, zwei konkrete Musterboxen zusammenstellen und damit direkt zehn Personalabteilungen im Alsfelder Industriegebiet ansprechen.",
+          "ts": "2026-10-11 19:10",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-alsfeld",
+          "title": "Senioren-Alltagsdienste — Alsfeld  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein nachbarschaftlicher Begleit- und Fahrdienst („Alsfelder Markt-Mobil“), der ältere Menschen aus den Ortsteilen abholt, sie beim Einkauf sowie bei Arztbesuchen im Zentrum unterstützt und Raum für persönliche Begegnungen schafft.\n\n**WARUM HIER:** In den 16 weit verstreuten Ortsteilen von Alsfeld ist der öffentliche Nahverkehr spärlich, wodurch ältere Menschen ohne eigenes Fahrzeug rasch den Anschluss an die Versorgung und das Gemeinschaftsleben verlieren.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit dem Seniorenbeirat der Stadt Alsfeld werden in zwei Pilot-Dörfern die genauen Bedarfe abgefragt und erste ehrenamtliche Fahrerinnen und Fahrer für feste Wochentage gewonnen.",
+          "ts": "2026-10-11 19:10",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
