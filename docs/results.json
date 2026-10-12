@@ -1,7 +1,69 @@
 {
-  "updated": "2026-10-11 22:53 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-12 02:00 UTC",
+  "total_results": 3,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-schotten",
+      "title": "Direktvermarktung — Schotten  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDie „Vulkan-Vesper-Kiste“: Eine vorbestellbare Holzbox vollgepackt mit ehrlicher Wurst, Hofkäse, frischem Holzofenbrot und Streuobst-Saft direkt von Höfen aus dem Schottener Umland.\n\n**fuer WEN:** \nFür einheimische Familien, die regional einkaufen wollen, und Tagesgäste oder Wanderer am Hoherodskopf, die eine fertige, bodenständige Brotzeit suchen.\n\n**ERSTER SCHRITT:** \nZwei lokale Erzeuger (z. B. einen Käser und einen Metzger) sowie einen Bäcker an einen Tisch holen, um ein erstes festes Vesper-Paket und eine zentrale Abholstelle in Schotten zu vereinbaren.",
+      "ts": "2026-10-12 02:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-schotten",
+      "title": "Handwerk-Sichtbarkeit — Schotten  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin **Dachdeckerfachbetrieb** in Schotten.\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Schottener nach Sturmschäden oder einer Dachsanierung direkt auf dem Smartphone nach Hilfe suchen: Finden die Kunden dann sofort Ihren Meisterbetrieb oder fährt die Konkurrenz aus Lauterbach und Gießen die Aufträge ein?“",
+      "ts": "2026-10-12 02:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-schotten",
+      "title": "Chancen-Scout — Schotten  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Lieferservice für online vorbestellbare, regionale Picknick-Rucksäcke („Vogelsberg-Vesper“) direkt an die Parkplätze und Startpunkte rund um den Hoherodskopf und den Niddastausee.\n\n**WARUM HIER:** Schotten zieht wöchentlich tausende Tagestouristen aus dem Rhein-Main-Gebiet an, deren Verpflegungsbedarf die bestehende Gastronomie an Spitzenzeiten kaum deckt.\n\n**ERSTER SCHRITT:** Drei feste Vesper-Pakete mit einem lokalen Metzger und Bäcker kalkulieren, eine einfache Bestell-Landingpage aufsetzen und am Hoherodskopf Flyer an Parkscheinautomaten verteilen.",
+      "ts": "2026-10-12 02:00",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 3,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "direkt-schotten",
+          "title": "Direktvermarktung — Schotten  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDie „Vulkan-Vesper-Kiste“: Eine vorbestellbare Holzbox vollgepackt mit ehrlicher Wurst, Hofkäse, frischem Holzofenbrot und Streuobst-Saft direkt von Höfen aus dem Schottener Umland.\n\n**fuer WEN:** \nFür einheimische Familien, die regional einkaufen wollen, und Tagesgäste oder Wanderer am Hoherodskopf, die eine fertige, bodenständige Brotzeit suchen.\n\n**ERSTER SCHRITT:** \nZwei lokale Erzeuger (z. B. einen Käser und einen Metzger) sowie einen Bäcker an einen Tisch holen, um ein erstes festes Vesper-Paket und eine zentrale Abholstelle in Schotten zu vereinbaren.",
+          "ts": "2026-10-12 02:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-schotten",
+          "title": "Handwerk-Sichtbarkeit — Schotten  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin **Dachdeckerfachbetrieb** in Schotten.\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Schottener nach Sturmschäden oder einer Dachsanierung direkt auf dem Smartphone nach Hilfe suchen: Finden die Kunden dann sofort Ihren Meisterbetrieb oder fährt die Konkurrenz aus Lauterbach und Gießen die Aufträge ein?“",
+          "ts": "2026-10-12 02:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-schotten",
+          "title": "Chancen-Scout — Schotten  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Lieferservice für online vorbestellbare, regionale Picknick-Rucksäcke („Vogelsberg-Vesper“) direkt an die Parkplätze und Startpunkte rund um den Hoherodskopf und den Niddastausee.\n\n**WARUM HIER:** Schotten zieht wöchentlich tausende Tagestouristen aus dem Rhein-Main-Gebiet an, deren Verpflegungsbedarf die bestehende Gastronomie an Spitzenzeiten kaum deckt.\n\n**ERSTER SCHRITT:** Drei feste Vesper-Pakete mit einem lokalen Metzger und Bäcker kalkulieren, eine einfache Bestell-Landingpage aufsetzen und am Hoherodskopf Flyer an Parkscheinautomaten verteilen.",
+          "ts": "2026-10-12 02:00",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
