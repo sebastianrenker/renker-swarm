@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-12T02:00Z",
+  "updated": "2026-10-12T09:09Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Die „Vulkan-Vesper-Kiste“: Eine vorbestellbare Holzbox vollgepackt mit ehrlicher Wurst, Hofkäse, frischem Holzofenbrot und Streuobst-Saft direkt von Höfen aus dem Schottener Umland. **fuer WEN:** Für einheimische Familien, die regional einkaufen wollen, und Tagesgäste oder Wanderer am Hoherodskopf, die eine fertige, bodenständige Brotzeit suchen. **",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -251,27 +247,27 @@
       "name": "Chancen-Scout — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Lieferservice für online vorbestellbare, regionale Picknick-Rucksäcke („Vogelsberg-Vesper“) direkt an die Parkplätze und Startpunkte rund um den Hoherodskopf und den Niddastausee. **WARUM HIER:** Sch",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-schotten",
       "name": "Handwerk-Sichtbarkeit — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Dachdeckerfachbetrieb** in Schotten. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Schottener nach Sturmschäden oder einer Dachsanierung direkt auf dem Smartphone nach Hilfe suchen: Finden ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-schotten",
       "name": "Direktvermarktung — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vulkan-Vesper-Kiste“: Eine vorbestellbare Holzbox vollgepackt mit ehrlicher Wurst, Hofkäse, frischem Holzofenbrot und Streuobst-Saft direkt von Höfen aus dem Schottener Umland. **fuer WEN:** Für einheimisch",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-schotten",
@@ -1502,30 +1498,5 @@
     "used": 3,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-schotten",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vulkan-Vesper-Kiste“: Eine vorbestellbare Holzbox vollgepackt mit ehrlicher Wurst, Hofkäse, frischem Holzofenbrot und Streuobst-Saft direkt von Höfen aus dem Schottener Umland. **fuer WEN:** Für einheimische Familien, die regional einkaufen wollen, und Tagesgäste oder Wanderer am Hoherodskopf, die eine fertige, bodenständige Brotzeit suchen. **",
-      "ts": "2026-10-12 02:00",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-schotten",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Dachdeckerfachbetrieb** in Schotten. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Schottener nach Sturmschäden oder einer Dachsanierung direkt auf dem Smartphone nach Hilfe suchen: Finden die Kunden dann sofort Ihren Meisterbetrieb oder fährt die Konkurrenz aus Lauterbach und Gießen die Aufträge ein?“",
-      "ts": "2026-10-12 02:00",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-schotten",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Lieferservice für online vorbestellbare, regionale Picknick-Rucksäcke („Vogelsberg-Vesper“) direkt an die Parkplätze und Startpunkte rund um den Hoherodskopf und den Niddastausee. **WARUM HIER:** Schotten zieht wöchentlich tausende Tagestouristen aus dem Rhein-Main-Gebiet an, deren Verpflegungsbedarf die bestehende Gastronomie an Spitzen",
-      "ts": "2026-10-12 02:00",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
