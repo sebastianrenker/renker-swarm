@@ -1,33 +1,7 @@
 {
-  "updated": "2026-10-13 15:51 UTC",
-  "total_results": 1,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-herbstein",
-      "title": "Handwerk-Sichtbarkeit — Herbstein  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer in Herbstein (besonders gefragt bei Wärmepumpen-Wechsel, Badrenovierung und Notdiensten im Vogelsberg).\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn den Herbsteinern die Heizung ausfällt oder sie ein neues Bad planen, suchen sie direkt auf dem Handy – lassen Sie uns dafür sorgen, dass Ihre Nummer ganz oben steht, ohne dass Sie dafür Ihre wertvolle Feierabendzeit am PC opfern müssen.“",
-      "ts": "2026-10-13 15:51",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-herbstein",
-          "title": "Handwerk-Sichtbarkeit — Herbstein  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer in Herbstein (besonders gefragt bei Wärmepumpen-Wechsel, Badrenovierung und Notdiensten im Vogelsberg).\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn den Herbsteinern die Heizung ausfällt oder sie ein neues Bad planen, suchen sie direkt auf dem Handy – lassen Sie uns dafür sorgen, dass Ihre Nummer ganz oben steht, ohne dass Sie dafür Ihre wertvolle Feierabendzeit am PC opfern müssen.“",
-          "ts": "2026-10-13 15:51",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-10-13 20:57 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }
