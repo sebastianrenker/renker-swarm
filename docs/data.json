@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-12T19:00Z",
+  "updated": "2026-10-13T01:19Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice mit integrierter Ladestation und regionalen Snack-Proviantpaketen. **WARUM HIER:** Herbstein ist ein zentraler Etappenort am stark frequentierten Vulkanradweg und Heilbad mit Vulkantherme, wodurch im Sommer täglich hunderte kaufkräftige Rad- und Kurgäste mit Lade- und Reparaturbedarf den Ort passieren. ",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen aus den 15 Ortsteilen Schottens verlässlich zu Besorgungen, Arztterminen und sozialen Begegnungen begleitet sowie kleine Hilfen im Haushalt leistet. **WARUM HIER:** In der weitläufigen Vogelsberg-Gemeinde schließt dieser Dienst die Lücke des öffentlichen Nahverkehrs und bewahrt den Bewohner",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -274,27 +282,27 @@
       "name": "Vulkanregion-Tourismus — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Vulkan-Feuer & Sternenzauber“: Eine geführte Dämmerungs-E-Bike-Tour von Schotten hinauf zum Hoherodskopf inklusive regionalem Vulkan-Picknick und anschließender Sternenbeobachtung. **FÜR WEN:** Ideal für Paare,",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-schotten",
       "name": "Senioren-Alltagsdienste — Schotten",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen aus den 15 Ortsteilen Schottens verlässlich zu Besorgungen, Arztterminen und sozialen Begegnungen begleitet sowie kleine Hilfen im Haushalt leistet. **",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-herbstein",
       "name": "Chancen-Scout — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice mit integrierter Ladestation und regionalen Snack-Proviantpaketen. **WARUM HIER:** Herbstein ist ein zentraler Etappenort am stark frequentierten Vulkanradweg und H",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-herbstein",
@@ -1498,5 +1506,30 @@
     "used": 3,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice mit integrierter Ladestation und regionalen Snack-Proviantpaketen. **WARUM HIER:** Herbstein ist ein zentraler Etappenort am stark frequentierten Vulkanradweg und Heilbad mit Vulkantherme, wodurch im Sommer täglich hunderte kaufkräftige Rad- und Kurgäste mit Lade- und Reparaturbedarf den Ort passieren. ",
+      "ts": "2026-10-13 01:19",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-schotten",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen aus den 15 Ortsteilen Schottens verlässlich zu Besorgungen, Arztterminen und sozialen Begegnungen begleitet sowie kleine Hilfen im Haushalt leistet. **WARUM HIER:** In der weitläufigen Vogelsberg-Gemeinde schließt dieser Dienst die Lücke des öffentlichen Nahverkehrs und bewahrt den Bewohner",
+      "ts": "2026-10-13 01:19",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-schotten",
+      "via": "gemini",
+      "text": "**WAS:** „Vulkan-Feuer & Sternenzauber“: Eine geführte Dämmerungs-E-Bike-Tour von Schotten hinauf zum Hoherodskopf inklusive regionalem Vulkan-Picknick und anschließender Sternenbeobachtung. **FÜR WEN:** Ideal für Paare, aktive Genießer und kleine Gruppen, die Naturerlebnis, sanfte Bewegung und romantische Abendatmosphäre miteinander verbinden möchten. **ERS",
+      "ts": "2026-10-13 01:19",
+      "age_min": 0
+    }
+  ]
 }
