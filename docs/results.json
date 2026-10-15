@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-15 18:41 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-15 21:47 UTC",
+  "total_results": 2,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "biz-handwerk",
+      "title": "Business — Handwerk-Sichtbar  ·  Chancen",
+      "via": "gemini",
+      "text": "Hallo Herr [Name], als Dachdecker direkt hier in Lauterbach machen Sie sicher Top-Arbeit, aber wer im Vogelsberg online nach einem Fachbetrieb sucht, landet aktuell schnell bei der Konkurrenz. Das ist schade, denn immer mehr Kunden aus der Region schauen zuerst bei Google, bevor sie irgendwo anrufen. Genau dafür habe ich „Handwerk-Sichtbar“ gestartet: Ich helfe lokalen Betrieben mit einem sauberen Google-Profil, einer einfachen Website und klaren Angebotsvorlagen. Sie haben dabei kaum Aufwand und bekommen endlich genau die Aufträge aus der Umgebung, die sich wirklich lohnen. Passt es Ihnen diese Woche für ein kurzes, 10-minütiges Telefonat – ganz ohne Verkaufsdruck?",
+      "ts": "2026-10-15 21:47",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "biz-offerta",
+      "title": "Business — Offerta  ·  Chancen",
+      "via": "gemini",
+      "text": "**SCHRITT**  \nEinführung eines dezenten PDF-Footers („Erstellt mit Offerta – Kostenlose Angebote schreiben“) für alle Gratis-Nutzer, gekoppelt mit einem Pro-Button im Dashboard („Branding entfernen“).\n\n**WARUM JETZT**  \nWir verschenken jeden Tag kostenlose B2B-Reichweite. Jedes Angebot, das unsere Nutzer an ihre Kunden (Handwerker, Agenturen, Freelancer) schicken, landet genau in unserer Zielgruppe. Ohne diesen Footer aktivieren wir keinen viralen Loop und verpassen die simpelste Freemium-Konvertierung (Monetarisierungssignal).\n\n**wie in 1 Tag machbar**  \n* **Stunde 1–3 (Frontend/PDF):** In der PDF-Generierung festen Footer-Text inkl. Hyperlink unten rechts einfügen (dezent, grau, professionell).  \n* **Stunde 4–6 (Backend/Settings):** Ein Toggle-Schalter in den Einstellungen einbauen: *„Branding auf PDFs ausblenden“*. Wenn angeklickt -> Pop-up: „Nur im Pro-Tarif (9 €/Monat)“.  \n* **Stunde 7–8 (Payment & Deployment):** Stripe-Checkout-Link hinter den Pro-Button legen, testen, deployen. Fertig.",
+      "ts": "2026-10-15 21:47",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "biz-handwerk",
+          "title": "Business — Handwerk-Sichtbar  ·  Chancen",
+          "via": "gemini",
+          "text": "Hallo Herr [Name], als Dachdecker direkt hier in Lauterbach machen Sie sicher Top-Arbeit, aber wer im Vogelsberg online nach einem Fachbetrieb sucht, landet aktuell schnell bei der Konkurrenz. Das ist schade, denn immer mehr Kunden aus der Region schauen zuerst bei Google, bevor sie irgendwo anrufen. Genau dafür habe ich „Handwerk-Sichtbar“ gestartet: Ich helfe lokalen Betrieben mit einem sauberen Google-Profil, einer einfachen Website und klaren Angebotsvorlagen. Sie haben dabei kaum Aufwand und bekommen endlich genau die Aufträge aus der Umgebung, die sich wirklich lohnen. Passt es Ihnen diese Woche für ein kurzes, 10-minütiges Telefonat – ganz ohne Verkaufsdruck?",
+          "ts": "2026-10-15 21:47",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "biz-offerta",
+          "title": "Business — Offerta  ·  Chancen",
+          "via": "gemini",
+          "text": "**SCHRITT**  \nEinführung eines dezenten PDF-Footers („Erstellt mit Offerta – Kostenlose Angebote schreiben“) für alle Gratis-Nutzer, gekoppelt mit einem Pro-Button im Dashboard („Branding entfernen“).\n\n**WARUM JETZT**  \nWir verschenken jeden Tag kostenlose B2B-Reichweite. Jedes Angebot, das unsere Nutzer an ihre Kunden (Handwerker, Agenturen, Freelancer) schicken, landet genau in unserer Zielgruppe. Ohne diesen Footer aktivieren wir keinen viralen Loop und verpassen die simpelste Freemium-Konvertierung (Monetarisierungssignal).\n\n**wie in 1 Tag machbar**  \n* **Stunde 1–3 (Frontend/PDF):** In der PDF-Generierung festen Footer-Text inkl. Hyperlink unten rechts einfügen (dezent, grau, professionell).  \n* **Stunde 4–6 (Backend/Settings):** Ein Toggle-Schalter in den Einstellungen einbauen: *„Branding auf PDFs ausblenden“*. Wenn angeklickt -> Pop-up: „Nur im Pro-Tarif (9 €/Monat)“.  \n* **Stunde 7–8 (Payment & Deployment):** Stripe-Checkout-Link hinter den Pro-Button legen, testen, deployen. Fertig.",
+          "ts": "2026-10-15 21:47",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

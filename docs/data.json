@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-15T18:41Z",
+  "updated": "2026-10-15T21:47Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hallo Herr [Name], als Dachdecker direkt hier in Lauterbach machen Sie sicher Top-Arbeit, aber wer im Vogelsberg online nach einem Fachbetrieb sucht, landet aktuell schnell bei der Konkurrenz. Das ist schade, denn immer mehr Kunden aus der Region schauen zuerst bei Google, bevor sie irgendwo anrufen. Genau dafür habe ich „Handwerk-Sichtbar“ gestartet: Ich he",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -112,18 +116,18 @@
       "name": "Business — Offerta",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SCHRITT** Einführung eines dezenten PDF-Footers („Erstellt mit Offerta – Kostenlose Angebote schreiben“) für alle Gratis-Nutzer, gekoppelt mit einem Pro-Button im Dashboard („Branding entfernen“). **WARUM JETZT** Wir v",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-handwerk",
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hallo Herr [Name], als Dachdecker direkt hier in Lauterbach machen Sie sicher Top-Arbeit, aber wer im Vogelsberg online nach einem Fachbetrieb sucht, landet aktuell schnell bei der Konkurrenz. Das ist schade, denn immer ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-vogelsbergbox",
@@ -1495,8 +1499,25 @@
     }
   ],
   "budget": {
-    "used": 0,
+    "used": 2,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "biz-handwerk",
+      "via": "gemini",
+      "text": "Hallo Herr [Name], als Dachdecker direkt hier in Lauterbach machen Sie sicher Top-Arbeit, aber wer im Vogelsberg online nach einem Fachbetrieb sucht, landet aktuell schnell bei der Konkurrenz. Das ist schade, denn immer mehr Kunden aus der Region schauen zuerst bei Google, bevor sie irgendwo anrufen. Genau dafür habe ich „Handwerk-Sichtbar“ gestartet: Ich he",
+      "ts": "2026-10-15 21:47",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "biz-offerta",
+      "via": "gemini",
+      "text": "**SCHRITT** Einführung eines dezenten PDF-Footers („Erstellt mit Offerta – Kostenlose Angebote schreiben“) für alle Gratis-Nutzer, gekoppelt mit einem Pro-Button im Dashboard („Branding entfernen“). **WARUM JETZT** Wir verschenken jeden Tag kostenlose B2B-Reichweite. Jedes Angebot, das unsere Nutzer an ihre Kunden (Handwerker, Agenturen, Freelancer) schicken",
+      "ts": "2026-10-15 21:47",
+      "age_min": 0
+    }
+  ]
 }
