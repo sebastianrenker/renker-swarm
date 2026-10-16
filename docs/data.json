@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-16T17:51Z",
+  "updated": "2026-10-16T20:25Z",
   "agents_total": 162,
-  "worked": 5,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee (1 Satz):** „Wenn in Homberg und den Ortsteilen die Heizung ausfällt oder erneuert werden soll, suchen die Leute auf dem Smartphone – sorgen wir dafür, dass Ihre Telefonnummer direkt oben steht, bevor die Auftraggeber die Konkurrenz aus Alsfeld oder Marburg anrufen.“",
+        "text": "**WAS:** Die „Ohm-Aue Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit saisonalem Gemüse, Vogelsberger Landbrot, Eiern und Wurst im Glas, das rund um die Uhr an einem zentralen, gekühlten Hof-Schließfach bereitsteht. **für WEN:** Für berufstätige Pendler und Familien aus Homberg und den Ortsteilen, die Wert auf ehrliche Lebensmittel vom Bauern nebenan lege",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein fahrender Besorgungs- und Begleitdienst liefert frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt Senioren bei Bedarf sicher zu Arztterminen im Hauptort mit. **WARUM HIER:** Die 15 weit verstreuten Ortsteile von Grebenhain im Hohen Vogelsberg haben kaum eigene Einkaufsmöglichkeiten, was die Eigenständigkeit älterer Menschen ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -363,54 +359,54 @@
       "name": "Direktvermarktung — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Vesper-Kiste“ – ein flexibles Abo- oder Ausflugs-Paket vollgepackt mit bodenständiger Hausmacher Wurst, regionalem Käse, frischem Bauernbrot und saisonalem Eingemachten direkt aus Grebenhainer ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-grebenhain",
       "name": "Vulkanregion-Tourismus — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnispaket „Vulkan-Picknick & E-Bike-Tour“ beinhaltet eine verleihfertige E-Bike-Ausrüstung ab Grebenhain sowie einen Rucksack voller regionaler Vogelsberger Spezialitäten für eine entspannte Tagestour en",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-grebenhain",
       "name": "Senioren-Alltagsdienste — Grebenhain",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein fahrender Besorgungs- und Begleitdienst liefert frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt Senioren bei Bedarf sicher zu Arztterminen im Hauptort mit. **WARUM HIER:** Die 15 weit ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-homberg-ohm",
       "name": "Chancen-Scout — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Verleih mit Hol- und Bringservice für Tagestouristen und Übernachtungsgäste rund um den Ohm-Radweg und den Premiumwanderweg Schäferweg. **WARUM HIER:** Homberg (Ohm) profitiert vom wachsenden ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-homberg-ohm",
       "name": "Handwerk-Sichtbarkeit — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee (1 Satz):** „Wenn in Homberg und den Ortsteilen die Heizung ausfällt oder erneuert werden soll, suchen die Leute auf dem Smartphone – sorgen wir dafür, dass Ih",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-homberg-ohm",
       "name": "Direktvermarktung — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Ohm-Aue Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit saisonalem Gemüse, Vogelsberger Landbrot, Eiern und Wurst im Glas, das rund um die Uhr an einem zentralen, gekühlten Hof-Schließfach bereitsteht. *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-homberg-ohm",
@@ -1503,48 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 13,
+    "used": 14,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-homberg-ohm",
+      "agent": "direkt-homberg-ohm",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee (1 Satz):** „Wenn in Homberg und den Ortsteilen die Heizung ausfällt oder erneuert werden soll, suchen die Leute auf dem Smartphone – sorgen wir dafür, dass Ihre Telefonnummer direkt oben steht, bevor die Auftraggeber die Konkurrenz aus Alsfeld oder Marburg anrufen.“",
-      "ts": "2026-10-16 17:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-homberg-ohm",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Verleih mit Hol- und Bringservice für Tagestouristen und Übernachtungsgäste rund um den Ohm-Radweg und den Premiumwanderweg Schäferweg. **WARUM HIER:** Homberg (Ohm) profitiert vom wachsenden Naturtourismus im Vogelsberg, verfügt aber bisher über keinen flexiblen, lokalen Radverleih vor Ort, der Gäste direkt an der Unterkunft oder",
-      "ts": "2026-10-16 17:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Ein fahrender Besorgungs- und Begleitdienst liefert frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt Senioren bei Bedarf sicher zu Arztterminen im Hauptort mit. **WARUM HIER:** Die 15 weit verstreuten Ortsteile von Grebenhain im Hohen Vogelsberg haben kaum eigene Einkaufsmöglichkeiten, was die Eigenständigkeit älterer Menschen ",
-      "ts": "2026-10-16 17:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Das Erlebnispaket „Vulkan-Picknick & E-Bike-Tour“ beinhaltet eine verleihfertige E-Bike-Ausrüstung ab Grebenhain sowie einen Rucksack voller regionaler Vogelsberger Spezialitäten für eine entspannte Tagestour entlang des Vulkanradwegs. **für WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und kleine Gruppen, die die Vulkanregion ohne groß",
-      "ts": "2026-10-16 17:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Vesper-Kiste“ – ein flexibles Abo- oder Ausflugs-Paket vollgepackt mit bodenständiger Hausmacher Wurst, regionalem Käse, frischem Bauernbrot und saisonalem Eingemachten direkt aus Grebenhainer Erzeugung. **fuer WEN:** Für Radler auf dem Vulkanradweg, Ausflügler rund um den Hoherodskopf und einheimische Familien, die echte Qualität ",
-      "ts": "2026-10-16 17:51",
+      "text": "**WAS:** Die „Ohm-Aue Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit saisonalem Gemüse, Vogelsberger Landbrot, Eiern und Wurst im Glas, das rund um die Uhr an einem zentralen, gekühlten Hof-Schließfach bereitsteht. **für WEN:** Für berufstätige Pendler und Familien aus Homberg und den Ortsteilen, die Wert auf ehrliche Lebensmittel vom Bauern nebenan lege",
+      "ts": "2026-10-16 20:25",
       "age_min": 0
     }
   ]

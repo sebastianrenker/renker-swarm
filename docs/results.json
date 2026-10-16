@@ -1,108 +1,30 @@
 {
-  "updated": "2026-10-16 17:51 UTC",
-  "total_results": 5,
-  "total_depts": 2,
+  "updated": "2026-10-16 20:25 UTC",
+  "total_results": 1,
+  "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-homberg-ohm",
-      "title": "Handwerk-Sichtbarkeit — Homberg (Ohm)  ·  Chancen",
+      "agent": "direkt-homberg-ohm",
+      "title": "Direktvermarktung — Homberg (Ohm)  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee (1 Satz):**\n„Wenn in Homberg und den Ortsteilen die Heizung ausfällt oder erneuert werden soll, suchen die Leute auf dem Smartphone – sorgen wir dafür, dass Ihre Telefonnummer direkt oben steht, bevor die Auftraggeber die Konkurrenz aus Alsfeld oder Marburg anrufen.“",
-      "ts": "2026-10-16 17:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-homberg-ohm",
-      "title": "Chancen-Scout — Homberg (Ohm)  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Verleih mit Hol- und Bringservice für Tagestouristen und Übernachtungsgäste rund um den Ohm-Radweg und den Premiumwanderweg Schäferweg.\n\n**WARUM HIER:** Homberg (Ohm) profitiert vom wachsenden Naturtourismus im Vogelsberg, verfügt aber bisher über keinen flexiblen, lokalen Radverleih vor Ort, der Gäste direkt an der Unterkunft oder am Wanderparkplatz ausstattet.\n\n**ERSTER SCHRITT:** Starte schlank mit zwei geleasten E-Bikes, einer einfachen Buchungs-Landingpage und vereinbare Flyer-Kooperationen mit den Schlosspatrioten Homberg sowie lokalen Ferienwohnungen.",
-      "ts": "2026-10-16 17:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-grebenhain",
-      "title": "Senioren-Alltagsdienste — Grebenhain  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** Ein fahrender Besorgungs- und Begleitdienst liefert frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt Senioren bei Bedarf sicher zu Arztterminen im Hauptort mit.\n\n**WARUM HIER:** Die 15 weit verstreuten Ortsteile von Grebenhain im Hohen Vogelsberg haben kaum eigene Einkaufsmöglichkeiten, was die Eigenständigkeit älterer Menschen ohne Auto – besonders in den schneereichen Monaten – stark einschränkt.\n\n**ERSTER SCHRITT:** In Kooperation mit der Gemeinde Grebenhain und den lokalen Händlern wird ein fester, wöchentlicher Fahrplan entwickelt und beim nächsten Seniorennachmittag persönlich vorgestellt.",
-      "ts": "2026-10-16 17:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-grebenhain",
-      "title": "Vulkanregion-Tourismus — Grebenhain  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Das Erlebnispaket „Vulkan-Picknick & E-Bike-Tour“ beinhaltet eine verleihfertige E-Bike-Ausrüstung ab Grebenhain sowie einen Rucksack voller regionaler Vogelsberger Spezialitäten für eine entspannte Tagestour entlang des Vulkanradwegs.\n\n**für WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und kleine Gruppen, die die Vulkanregion ohne große Anstrengung aktiv und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und reservieren Sie das Paket mit wenigen Klicks direkt online.",
-      "ts": "2026-10-16 17:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-grebenhain",
-      "title": "Direktvermarktung — Grebenhain  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Vesper-Kiste“ – ein flexibles Abo- oder Ausflugs-Paket vollgepackt mit bodenständiger Hausmacher Wurst, regionalem Käse, frischem Bauernbrot und saisonalem Eingemachten direkt aus Grebenhainer Erzeugung.\n\n**fuer WEN:** Für Radler auf dem Vulkanradweg, Ausflügler rund um den Hoherodskopf und einheimische Familien, die echte Qualität suchen, aber nicht jeden Hof einzeln anfahren wollen.\n\n**ERSTER SCHRITT:** Drei befreundete Höfe aus der Nachbarschaft an einen Tisch holen, ein festes Grundsortiment für eine Test-Kiste schnüren und diese per Aushang am Radweg sowie über Mundpropaganda anbieten.",
-      "ts": "2026-10-16 17:51",
+      "text": "**WAS:** Die „Ohm-Aue Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit saisonalem Gemüse, Vogelsberger Landbrot, Eiern und Wurst im Glas, das rund um die Uhr an einem zentralen, gekühlten Hof-Schließfach bereitsteht.\n\n**für WEN:** Für berufstätige Pendler und Familien aus Homberg und den Ortsteilen, die Wert auf ehrliche Lebensmittel vom Bauern nebenan legen, es aber zeitlich nicht zu den klassischen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Mit zwei benachbarten Landwirten und dem lokalen Bäcker ein einfaches Start-Sortiment festlegen und über Mundpropaganda sowie Aushänge 20 Test-Abonnenten für einen Probemonat gewinnen.",
+      "ts": "2026-10-16 20:25",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 4,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-homberg-ohm",
-          "title": "Handwerk-Sichtbarkeit — Homberg (Ohm)  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee (1 Satz):**\n„Wenn in Homberg und den Ortsteilen die Heizung ausfällt oder erneuert werden soll, suchen die Leute auf dem Smartphone – sorgen wir dafür, dass Ihre Telefonnummer direkt oben steht, bevor die Auftraggeber die Konkurrenz aus Alsfeld oder Marburg anrufen.“",
-          "ts": "2026-10-16 17:51",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-homberg-ohm",
-          "title": "Chancen-Scout — Homberg (Ohm)  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler E-Bike-Verleih mit Hol- und Bringservice für Tagestouristen und Übernachtungsgäste rund um den Ohm-Radweg und den Premiumwanderweg Schäferweg.\n\n**WARUM HIER:** Homberg (Ohm) profitiert vom wachsenden Naturtourismus im Vogelsberg, verfügt aber bisher über keinen flexiblen, lokalen Radverleih vor Ort, der Gäste direkt an der Unterkunft oder am Wanderparkplatz ausstattet.\n\n**ERSTER SCHRITT:** Starte schlank mit zwei geleasten E-Bikes, einer einfachen Buchungs-Landingpage und vereinbare Flyer-Kooperationen mit den Schlosspatrioten Homberg sowie lokalen Ferienwohnungen.",
-          "ts": "2026-10-16 17:51",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-grebenhain",
-          "title": "Vulkanregion-Tourismus — Grebenhain  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Das Erlebnispaket „Vulkan-Picknick & E-Bike-Tour“ beinhaltet eine verleihfertige E-Bike-Ausrüstung ab Grebenhain sowie einen Rucksack voller regionaler Vogelsberger Spezialitäten für eine entspannte Tagestour entlang des Vulkanradwegs.\n\n**für WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und kleine Gruppen, die die Vulkanregion ohne große Anstrengung aktiv und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und reservieren Sie das Paket mit wenigen Klicks direkt online.",
-          "ts": "2026-10-16 17:51",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-grebenhain",
-          "title": "Direktvermarktung — Grebenhain  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Die „Vogelsberger Vesper-Kiste“ – ein flexibles Abo- oder Ausflugs-Paket vollgepackt mit bodenständiger Hausmacher Wurst, regionalem Käse, frischem Bauernbrot und saisonalem Eingemachten direkt aus Grebenhainer Erzeugung.\n\n**fuer WEN:** Für Radler auf dem Vulkanradweg, Ausflügler rund um den Hoherodskopf und einheimische Familien, die echte Qualität suchen, aber nicht jeden Hof einzeln anfahren wollen.\n\n**ERSTER SCHRITT:** Drei befreundete Höfe aus der Nachbarschaft an einen Tisch holen, ein festes Grundsortiment für eine Test-Kiste schnüren und diese per Aushang am Radweg sowie über Mundpropaganda anbieten.",
-          "ts": "2026-10-16 17:51",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
       "count": 1,
       "items": [
         {
-          "dept": "Kunden",
-          "agent": "senioren-grebenhain",
-          "title": "Senioren-Alltagsdienste — Grebenhain  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "direkt-homberg-ohm",
+          "title": "Direktvermarktung — Homberg (Ohm)  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein fahrender Besorgungs- und Begleitdienst liefert frische Lebensmittel sowie Medikamente direkt an die Haustür und nimmt Senioren bei Bedarf sicher zu Arztterminen im Hauptort mit.\n\n**WARUM HIER:** Die 15 weit verstreuten Ortsteile von Grebenhain im Hohen Vogelsberg haben kaum eigene Einkaufsmöglichkeiten, was die Eigenständigkeit älterer Menschen ohne Auto – besonders in den schneereichen Monaten – stark einschränkt.\n\n**ERSTER SCHRITT:** In Kooperation mit der Gemeinde Grebenhain und den lokalen Händlern wird ein fester, wöchentlicher Fahrplan entwickelt und beim nächsten Seniorennachmittag persönlich vorgestellt.",
-          "ts": "2026-10-16 17:51",
+          "text": "**WAS:** Die „Ohm-Aue Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit saisonalem Gemüse, Vogelsberger Landbrot, Eiern und Wurst im Glas, das rund um die Uhr an einem zentralen, gekühlten Hof-Schließfach bereitsteht.\n\n**für WEN:** Für berufstätige Pendler und Familien aus Homberg und den Ortsteilen, die Wert auf ehrliche Lebensmittel vom Bauern nebenan legen, es aber zeitlich nicht zu den klassischen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Mit zwei benachbarten Landwirten und dem lokalen Bäcker ein einfaches Start-Sortiment festlegen und über Mundpropaganda sowie Aushänge 20 Test-Abonnenten für einen Probemonat gewinnen.",
+          "ts": "2026-10-16 20:25",
           "age_min": 0
         }
       ]
