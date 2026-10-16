@@ -1,48 +1,54 @@
 {
-  "updated": "2026-10-15 21:47 UTC",
+  "updated": "2026-10-16 00:01 UTC",
   "total_results": 2,
-  "total_depts": 1,
+  "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "biz-handwerk",
-      "title": "Business — Handwerk-Sichtbar  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "biz-terminki",
+      "title": "Business — Termin-/Anruf-KI  ·  Kunden",
       "via": "gemini",
-      "text": "Hallo Herr [Name], als Dachdecker direkt hier in Lauterbach machen Sie sicher Top-Arbeit, aber wer im Vogelsberg online nach einem Fachbetrieb sucht, landet aktuell schnell bei der Konkurrenz. Das ist schade, denn immer mehr Kunden aus der Region schauen zuerst bei Google, bevor sie irgendwo anrufen. Genau dafür habe ich „Handwerk-Sichtbar“ gestartet: Ich helfe lokalen Betrieben mit einem sauberen Google-Profil, einer einfachen Website und klaren Angebotsvorlagen. Sie haben dabei kaum Aufwand und bekommen endlich genau die Aufträge aus der Umgebung, die sich wirklich lohnen. Passt es Ihnen diese Woche für ein kurzes, 10-minütiges Telefonat – ganz ohne Verkaufsdruck?",
-      "ts": "2026-10-15 21:47",
+      "text": "**SZENARIO**\n*Audio-Szenario: Montagmorgen, 08:15 Uhr – Rushhour im Handwerksbetrieb (Elektro/Sanitär).*\n\n* **Anrufer (hektisch):** „Guten Morgen, Müller hier! Bei uns im Gewerbegebiet ist die Hauptsicherung geflogen, die Produktion steht. Ich brauche HEUTE jemanden!“\n* **KI (ruhig, extrem natürliche Stimme, Rencora-Stack):** „Guten Morgen Herr Müller. Das ist ein Notfall, ich kümmere mich darum. Ist der Hauptschalter bereits gesichert und betrifft es nur Ihr Gebäude oder auch die Nachbarn?“\n* **Anrufer:** „Nur unseres. Hauptschalter ist aus.“\n* **KI:** „Alles klar. Ich habe Ihre Adresse aus dem System erfasst: Industriestraße 4. Ich buche Ihnen direkt unseren Notdienst-Slot für 10:30 Uhr ein. Meister Schmidt übernimmt das. Ich schicke Ihnen jetzt eine Bestätigung per SMS. Passt das für Sie?“\n* **Anrufer:** „Ja, perfekt, danke!“\n* **KI:** „Gerne. Bis später, Herr Müller.“\n\n---\n\n**WAS ES ZEIGT**\n1. **Latenzfreie Natürlichkeit:** Keine Roboter-Denkpausen, kein \"Drücken Sie die 1\". Der Anrufer merkt in der Stresssituation nicht einmal, dass er mit einer KI spricht.\n2. **Fachliche Erst-Qualifizierung (Triage):** Die KI filtert Notfälle von Routine-Terminen und stellt die *richtigen* Branchen-Fragen (z. B. \"Hauptschalter aus?\").\n3. **Vollautomatische Execution:** Der Termin landet ohne menschliches Zutun im Kalender/CRM, der Notdienst-Techniker wird benachrichtigt, der Kunde bekommt eine SMS. Kein Anruf geht verloren, kein Umsatz wird verschenkt.\n\n---\n\n**ERSTER TAG**\n*Bevor wir über Verträge oder Preise sprechen:*\n\nWir richten dem Betrieb innerhalb von 24 Stunden eine **personalisierte Test-Rufnummer** ein (mit dem eigenen Firmennamen und den echten Öffnungszeiten/Termintypen). \n\nDer Inhaber und sein Büro-Team rufen die Nummer am ersten Tag **3-mal selbst an** und testen sie mit ihren schwierigsten Anrufern (Dialekt, Hektik, Sonderwünsche). Erst wenn der Inhaber sagt: *„Das klingt besser und schneller als mein eigenes Büro in der Rushhour“*, sprechen wir über das Deployment.",
+      "ts": "2026-10-16 00:01",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "biz-offerta",
-      "title": "Business — Offerta  ·  Chancen",
+      "agent": "biz-vogelsbergbox",
+      "title": "Business — Vogelsberg-Box  ·  Chancen",
       "via": "gemini",
-      "text": "**SCHRITT**  \nEinführung eines dezenten PDF-Footers („Erstellt mit Offerta – Kostenlose Angebote schreiben“) für alle Gratis-Nutzer, gekoppelt mit einem Pro-Button im Dashboard („Branding entfernen“).\n\n**WARUM JETZT**  \nWir verschenken jeden Tag kostenlose B2B-Reichweite. Jedes Angebot, das unsere Nutzer an ihre Kunden (Handwerker, Agenturen, Freelancer) schicken, landet genau in unserer Zielgruppe. Ohne diesen Footer aktivieren wir keinen viralen Loop und verpassen die simpelste Freemium-Konvertierung (Monetarisierungssignal).\n\n**wie in 1 Tag machbar**  \n* **Stunde 1–3 (Frontend/PDF):** In der PDF-Generierung festen Footer-Text inkl. Hyperlink unten rechts einfügen (dezent, grau, professionell).  \n* **Stunde 4–6 (Backend/Settings):** Ein Toggle-Schalter in den Einstellungen einbauen: *„Branding auf PDFs ausblenden“*. Wenn angeklickt -> Pop-up: „Nur im Pro-Tarif (9 €/Monat)“.  \n* **Stunde 7–8 (Payment & Deployment):** Stripe-Checkout-Link hinter den Pro-Button legen, testen, deployen. Fertig.",
-      "ts": "2026-10-15 21:47",
+      "text": "**SCHRITT**\nErstellung und Launch einer kostenlosen „Smoke-Test“-Landingpage (Vorbestell-/Warteliste) für eine limitierte **„Vogelsberg-Probier-Box“** über ein Gratis-Tool (z. B. Carrd.co oder Mailchimp).\n\n**WARUM**\nDamit prüfen wir das eche Kundeninteresse direkt an der Basis, **bevor** wir auch nur einen Euro für Ware, Verpackung oder Verträge mit Höfen ausgeben. Wenn sich innerhalb kurzer Zeit 50 bis 100 Anwohner aus der Region eintragen, haben wir den harten Beweis, dass Nachfrage da ist. Wenn nicht, passen wir das Angebot an, ohne Geld verloren zu haben.\n\n**ERSTER TAG**\n*   **09:00 – 11:00 Uhr:** Gratis-Account bei Carrd.co erstellen und eine einfache One-Page-Website aufbauen.\n*   **11:00 – 12:30 Uhr:** Texten des Angebots: *„Hol dir die besten Hofprodukte aus dem Vogelsberg direkt nach Hause. Die 1. Test-Box startet bald – trage dich ein und erhalte 10% Rabatt auf deine erste Box.“* (Symbol-Fotos von regionalem Gemüse, Käse, Wurst einfügen).\n*   **13:30 – 14:30 Uhr:** E-Mail-Formular einbinden und Seite kostenlos veröffentlichen (z.B. *vogelsberg-box.carrd.co*).\n*   **15:00 – 17:00 Uhr:** Den Link mit einem persönlichen Aufruf in lokalen Kanälen posten: In 5 regionalen Facebook-Gruppen (z. B. Alsfeld, Lauterbach, Fulda-Umland), auf *Nebenan.de* und im eigenen WhatsApp-Status verteilen.",
+      "ts": "2026-10-16 00:00",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 1,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "biz-handwerk",
-          "title": "Business — Handwerk-Sichtbar  ·  Chancen",
+          "agent": "biz-vogelsbergbox",
+          "title": "Business — Vogelsberg-Box  ·  Chancen",
           "via": "gemini",
-          "text": "Hallo Herr [Name], als Dachdecker direkt hier in Lauterbach machen Sie sicher Top-Arbeit, aber wer im Vogelsberg online nach einem Fachbetrieb sucht, landet aktuell schnell bei der Konkurrenz. Das ist schade, denn immer mehr Kunden aus der Region schauen zuerst bei Google, bevor sie irgendwo anrufen. Genau dafür habe ich „Handwerk-Sichtbar“ gestartet: Ich helfe lokalen Betrieben mit einem sauberen Google-Profil, einer einfachen Website und klaren Angebotsvorlagen. Sie haben dabei kaum Aufwand und bekommen endlich genau die Aufträge aus der Umgebung, die sich wirklich lohnen. Passt es Ihnen diese Woche für ein kurzes, 10-minütiges Telefonat – ganz ohne Verkaufsdruck?",
-          "ts": "2026-10-15 21:47",
+          "text": "**SCHRITT**\nErstellung und Launch einer kostenlosen „Smoke-Test“-Landingpage (Vorbestell-/Warteliste) für eine limitierte **„Vogelsberg-Probier-Box“** über ein Gratis-Tool (z. B. Carrd.co oder Mailchimp).\n\n**WARUM**\nDamit prüfen wir das eche Kundeninteresse direkt an der Basis, **bevor** wir auch nur einen Euro für Ware, Verpackung oder Verträge mit Höfen ausgeben. Wenn sich innerhalb kurzer Zeit 50 bis 100 Anwohner aus der Region eintragen, haben wir den harten Beweis, dass Nachfrage da ist. Wenn nicht, passen wir das Angebot an, ohne Geld verloren zu haben.\n\n**ERSTER TAG**\n*   **09:00 – 11:00 Uhr:** Gratis-Account bei Carrd.co erstellen und eine einfache One-Page-Website aufbauen.\n*   **11:00 – 12:30 Uhr:** Texten des Angebots: *„Hol dir die besten Hofprodukte aus dem Vogelsberg direkt nach Hause. Die 1. Test-Box startet bald – trage dich ein und erhalte 10% Rabatt auf deine erste Box.“* (Symbol-Fotos von regionalem Gemüse, Käse, Wurst einfügen).\n*   **13:30 – 14:30 Uhr:** E-Mail-Formular einbinden und Seite kostenlos veröffentlichen (z.B. *vogelsberg-box.carrd.co*).\n*   **15:00 – 17:00 Uhr:** Den Link mit einem persönlichen Aufruf in lokalen Kanälen posten: In 5 regionalen Facebook-Gruppen (z. B. Alsfeld, Lauterbach, Fulda-Umland), auf *Nebenan.de* und im eigenen WhatsApp-Status verteilen.",
+          "ts": "2026-10-16 00:00",
           "age_min": 0
-        },
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
         {
-          "dept": "Chancen",
-          "agent": "biz-offerta",
-          "title": "Business — Offerta  ·  Chancen",
+          "dept": "Kunden",
+          "agent": "biz-terminki",
+          "title": "Business — Termin-/Anruf-KI  ·  Kunden",
           "via": "gemini",
-          "text": "**SCHRITT**  \nEinführung eines dezenten PDF-Footers („Erstellt mit Offerta – Kostenlose Angebote schreiben“) für alle Gratis-Nutzer, gekoppelt mit einem Pro-Button im Dashboard („Branding entfernen“).\n\n**WARUM JETZT**  \nWir verschenken jeden Tag kostenlose B2B-Reichweite. Jedes Angebot, das unsere Nutzer an ihre Kunden (Handwerker, Agenturen, Freelancer) schicken, landet genau in unserer Zielgruppe. Ohne diesen Footer aktivieren wir keinen viralen Loop und verpassen die simpelste Freemium-Konvertierung (Monetarisierungssignal).\n\n**wie in 1 Tag machbar**  \n* **Stunde 1–3 (Frontend/PDF):** In der PDF-Generierung festen Footer-Text inkl. Hyperlink unten rechts einfügen (dezent, grau, professionell).  \n* **Stunde 4–6 (Backend/Settings):** Ein Toggle-Schalter in den Einstellungen einbauen: *„Branding auf PDFs ausblenden“*. Wenn angeklickt -> Pop-up: „Nur im Pro-Tarif (9 €/Monat)“.  \n* **Stunde 7–8 (Payment & Deployment):** Stripe-Checkout-Link hinter den Pro-Button legen, testen, deployen. Fertig.",
-          "ts": "2026-10-15 21:47",
+          "text": "**SZENARIO**\n*Audio-Szenario: Montagmorgen, 08:15 Uhr – Rushhour im Handwerksbetrieb (Elektro/Sanitär).*\n\n* **Anrufer (hektisch):** „Guten Morgen, Müller hier! Bei uns im Gewerbegebiet ist die Hauptsicherung geflogen, die Produktion steht. Ich brauche HEUTE jemanden!“\n* **KI (ruhig, extrem natürliche Stimme, Rencora-Stack):** „Guten Morgen Herr Müller. Das ist ein Notfall, ich kümmere mich darum. Ist der Hauptschalter bereits gesichert und betrifft es nur Ihr Gebäude oder auch die Nachbarn?“\n* **Anrufer:** „Nur unseres. Hauptschalter ist aus.“\n* **KI:** „Alles klar. Ich habe Ihre Adresse aus dem System erfasst: Industriestraße 4. Ich buche Ihnen direkt unseren Notdienst-Slot für 10:30 Uhr ein. Meister Schmidt übernimmt das. Ich schicke Ihnen jetzt eine Bestätigung per SMS. Passt das für Sie?“\n* **Anrufer:** „Ja, perfekt, danke!“\n* **KI:** „Gerne. Bis später, Herr Müller.“\n\n---\n\n**WAS ES ZEIGT**\n1. **Latenzfreie Natürlichkeit:** Keine Roboter-Denkpausen, kein \"Drücken Sie die 1\". Der Anrufer merkt in der Stresssituation nicht einmal, dass er mit einer KI spricht.\n2. **Fachliche Erst-Qualifizierung (Triage):** Die KI filtert Notfälle von Routine-Terminen und stellt die *richtigen* Branchen-Fragen (z. B. \"Hauptschalter aus?\").\n3. **Vollautomatische Execution:** Der Termin landet ohne menschliches Zutun im Kalender/CRM, der Notdienst-Techniker wird benachrichtigt, der Kunde bekommt eine SMS. Kein Anruf geht verloren, kein Umsatz wird verschenkt.\n\n---\n\n**ERSTER TAG**\n*Bevor wir über Verträge oder Preise sprechen:*\n\nWir richten dem Betrieb innerhalb von 24 Stunden eine **personalisierte Test-Rufnummer** ein (mit dem eigenen Firmennamen und den echten Öffnungszeiten/Termintypen). \n\nDer Inhaber und sein Büro-Team rufen die Nummer am ersten Tag **3-mal selbst an** und testen sie mit ihren schwierigsten Anrufern (Dialekt, Hektik, Sonderwünsche). Erst wenn der Inhaber sagt: *„Das klingt besser und schneller als mein eigenes Büro in der Rushhour“*, sprechen wir über das Deployment.",
+          "ts": "2026-10-16 00:01",
           "age_min": 0
         }
       ]

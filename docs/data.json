@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:47Z",
+  "updated": "2026-10-16T00:01Z",
   "agents_total": 162,
   "worked": 2,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "Hallo Herr [Name], als Dachdecker direkt hier in Lauterbach machen Sie sicher Top-Arbeit, aber wer im Vogelsberg online nach einem Fachbetrieb sucht, landet aktuell schnell bei der Konkurrenz. Das ist schade, denn immer mehr Kunden aus der Region schauen zuerst bei Google, bevor sie irgendwo anrufen. Genau dafür habe ich „Handwerk-Sichtbar“ gestartet: Ich he",
+        "text": "**SCHRITT** Erstellung und Launch einer kostenlosen „Smoke-Test“-Landingpage (Vorbestell-/Warteliste) für eine limitierte **„Vogelsberg-Probier-Box“** über ein Gratis-Tool (z. B. Carrd.co oder Mailchimp). **WARUM** Damit prüfen wir das eche Kundeninteresse direkt an der Basis, **bevor** wir auch nur einen Euro für Ware, Verpackung oder Verträge mit Höfen aus",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**SZENARIO** *Audio-Szenario: Montagmorgen, 08:15 Uhr – Rushhour im Handwerksbetrieb (Elektro/Sanitär).* * **Anrufer (hektisch):** „Guten Morgen, Müller hier! Bei uns im Gewerbegebiet ist die Hauptsicherung geflogen, die Produktion steht. Ich brauche HEUTE jemanden!“ * **KI (ruhig, extrem natürliche Stimme, Rencora-Stack):** „Guten Morgen Herr Müller. Das is",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -116,36 +120,36 @@
       "name": "Business — Offerta",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**SCHRITT** Einführung eines dezenten PDF-Footers („Erstellt mit Offerta – Kostenlose Angebote schreiben“) für alle Gratis-Nutzer, gekoppelt mit einem Pro-Button im Dashboard („Branding entfernen“). **WARUM JETZT** Wir v",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-handwerk",
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": "Hallo Herr [Name], als Dachdecker direkt hier in Lauterbach machen Sie sicher Top-Arbeit, aber wer im Vogelsberg online nach einem Fachbetrieb sucht, landet aktuell schnell bei der Konkurrenz. Das ist schade, denn immer ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-vogelsbergbox",
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SCHRITT** Erstellung und Launch einer kostenlosen „Smoke-Test“-Landingpage (Vorbestell-/Warteliste) für eine limitierte **„Vogelsberg-Probier-Box“** über ein Gratis-Tool (z. B. Carrd.co oder Mailchimp). **WARUM** Damit",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-terminki",
       "name": "Business — Termin-/Anruf-KI",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SZENARIO** *Audio-Szenario: Montagmorgen, 08:15 Uhr – Rushhour im Handwerksbetrieb (Elektro/Sanitär).* * **Anrufer (hektisch):** „Guten Morgen, Müller hier! Bei uns im Gewerbegebiet ist die Hauptsicherung geflogen, die",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-board",
@@ -1504,19 +1508,19 @@
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "biz-handwerk",
+      "dept": "Kunden",
+      "agent": "biz-terminki",
       "via": "gemini",
-      "text": "Hallo Herr [Name], als Dachdecker direkt hier in Lauterbach machen Sie sicher Top-Arbeit, aber wer im Vogelsberg online nach einem Fachbetrieb sucht, landet aktuell schnell bei der Konkurrenz. Das ist schade, denn immer mehr Kunden aus der Region schauen zuerst bei Google, bevor sie irgendwo anrufen. Genau dafür habe ich „Handwerk-Sichtbar“ gestartet: Ich he",
-      "ts": "2026-10-15 21:47",
+      "text": "**SZENARIO** *Audio-Szenario: Montagmorgen, 08:15 Uhr – Rushhour im Handwerksbetrieb (Elektro/Sanitär).* * **Anrufer (hektisch):** „Guten Morgen, Müller hier! Bei uns im Gewerbegebiet ist die Hauptsicherung geflogen, die Produktion steht. Ich brauche HEUTE jemanden!“ * **KI (ruhig, extrem natürliche Stimme, Rencora-Stack):** „Guten Morgen Herr Müller. Das is",
+      "ts": "2026-10-16 00:01",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "biz-offerta",
+      "agent": "biz-vogelsbergbox",
       "via": "gemini",
-      "text": "**SCHRITT** Einführung eines dezenten PDF-Footers („Erstellt mit Offerta – Kostenlose Angebote schreiben“) für alle Gratis-Nutzer, gekoppelt mit einem Pro-Button im Dashboard („Branding entfernen“). **WARUM JETZT** Wir verschenken jeden Tag kostenlose B2B-Reichweite. Jedes Angebot, das unsere Nutzer an ihre Kunden (Handwerker, Agenturen, Freelancer) schicken",
-      "ts": "2026-10-15 21:47",
+      "text": "**SCHRITT** Erstellung und Launch einer kostenlosen „Smoke-Test“-Landingpage (Vorbestell-/Warteliste) für eine limitierte **„Vogelsberg-Probier-Box“** über ein Gratis-Tool (z. B. Carrd.co oder Mailchimp). **WARUM** Damit prüfen wir das eche Kundeninteresse direkt an der Basis, **bevor** wir auch nur einen Euro für Ware, Verpackung oder Verträge mit Höfen aus",
+      "ts": "2026-10-16 00:00",
       "age_min": 0
     }
   ]
