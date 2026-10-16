@@ -1,19 +1,23 @@
 {
-  "updated": "2026-10-16T00:01Z",
+  "updated": "2026-10-16T04:29Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist der Lagebericht, Commander: * **Offerta:** Stand: Stabil, aber Marge stagniert | **Nächster Hebel:** Lead-Qualifizierung verschärfen, um Abschlussquote im Sales-Call zu erhöhen. * **Handwerk-Sichtbar:** Stand: Fulfillment läuft gut, Neukundengewinnung schwankt | **Nächster Hebel:** Outbound-Fokus auf hochmargige Gewerbe (SHK/Elektro) hochfahren. * *",
+        "age_min": 0
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**SCHRITT** Erstellung und Launch einer kostenlosen „Smoke-Test“-Landingpage (Vorbestell-/Warteliste) für eine limitierte **„Vogelsberg-Probier-Box“** über ein Gratis-Tool (z. B. Carrd.co oder Mailchimp). **WARUM** Damit prüfen wir das eche Kundeninteresse direkt an der Basis, **bevor** wir auch nur einen Euro für Ware, Verpackung oder Verträge mit Höfen aus",
+        "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder jemand auf eine Wärmepumpe umrüsten möchte, schaut er zuerst aufs Handy – lassen Sie uns dafür sorgen, dass die Aufträge direkt bei Ihnen in Grebenhain landen und nicht bei der Großkonkurrenz aus Fulda oder Lauterbach.“",
         "age_min": 0
       }
     },
@@ -32,7 +36,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**SZENARIO** *Audio-Szenario: Montagmorgen, 08:15 Uhr – Rushhour im Handwerksbetrieb (Elektro/Sanitär).* * **Anrufer (hektisch):** „Guten Morgen, Müller hier! Bei uns im Gewerbegebiet ist die Hauptsicherung geflogen, die Produktion steht. Ich brauche HEUTE jemanden!“ * **KI (ruhig, extrem natürliche Stimme, Rencora-Stack):** „Guten Morgen Herr Müller. Das is",
+        "text": "**WAS:** Ein ehrenamtlich gestützter Fahrdienst mit persönlicher Begleitung, der ältere Menschen aus den einzelnen Ortsteilen direkt zu Hause abholt, um gemeinsam Einkäufe, Apotheken- und Arztwege im Kernort zu erledigen. **WARUM HIER:** Da die Nahversorgung in den verstreuten Herbsteiner Ortsteilen stark ausgedünnt ist, bewahrt dieser verlässliche Nachbarsc",
         "age_min": 0
       }
     },
@@ -138,27 +142,27 @@
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": "**SCHRITT** Erstellung und Launch einer kostenlosen „Smoke-Test“-Landingpage (Vorbestell-/Warteliste) für eine limitierte **„Vogelsberg-Probier-Box“** über ein Gratis-Tool (z. B. Carrd.co oder Mailchimp). **WARUM** Damit",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-terminki",
       "name": "Business — Termin-/Anruf-KI",
       "dept": "Kunden",
       "iv": 720,
-      "out": "**SZENARIO** *Audio-Szenario: Montagmorgen, 08:15 Uhr – Rushhour im Handwerksbetrieb (Elektro/Sanitär).* * **Anrufer (hektisch):** „Guten Morgen, Müller hier! Bei uns im Gewerbegebiet ist die Hauptsicherung geflogen, die",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-board",
       "name": "Business — Lagebericht",
       "dept": "Kommando",
       "iv": 480,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist der Lagebericht, Commander: * **Offerta:** Stand: Stabil, aber Marge stagniert | **Nächster Hebel:** Lead-Qualifizierung verschärfen, um Abschlussquote im Sales-Call zu erhöhen. * **Handwerk-Sichtbar:** Stand: F",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-lauterbach",
@@ -318,45 +322,45 @@
       "name": "Direktvermarktung — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Eintopf-Kiste“ – eine saisonale Abo-Box mit frischem Wurzelgemüse, robusten Kartoffeln, passender Einlage (wie Rindfleisch oder Mettenden vom eigenen Hof) und einer einfachen Rezeptkarte für eh",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-herbstein",
       "name": "Vulkanregion-Tourismus — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Sie erleben eine geführte Entdeckertour zu den imposanten Herbsteiner Basaltformationen inklusive regionalem Vulkan-Picknick und entspannen anschließend mit einem Tagesticket in der VulkanTherme. **FUER WEN:** D",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-herbstein",
       "name": "Senioren-Alltagsdienste — Herbstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein ehrenamtlich gestützter Fahrdienst mit persönlicher Begleitung, der ältere Menschen aus den einzelnen Ortsteilen direkt zu Hause abholt, um gemeinsam Einkäufe, Apotheken- und Arztwege im Kernort zu erledigen",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grebenhain",
       "name": "Chancen-Scout — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike-Pannendienst mit integriertem Gepäckshuttle für Radtouristen rund um den Vogelsberg. **WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, auf dem bei Pannen oder Akku-",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grebenhain",
       "name": "Handwerk-Sichtbarkeit — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder jemand auf eine Wärmepumpe umrüsten möchte, schaut er zuerst aufs Handy – lassen Sie uns dafür sorgen, dass ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-grebenhain",
@@ -1503,24 +1507,56 @@
     }
   ],
   "budget": {
-    "used": 2,
+    "used": 8,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "biz-terminki",
+      "dept": "Chancen",
+      "agent": "handwerk-grebenhain",
       "via": "gemini",
-      "text": "**SZENARIO** *Audio-Szenario: Montagmorgen, 08:15 Uhr – Rushhour im Handwerksbetrieb (Elektro/Sanitär).* * **Anrufer (hektisch):** „Guten Morgen, Müller hier! Bei uns im Gewerbegebiet ist die Hauptsicherung geflogen, die Produktion steht. Ich brauche HEUTE jemanden!“ * **KI (ruhig, extrem natürliche Stimme, Rencora-Stack):** „Guten Morgen Herr Müller. Das is",
-      "ts": "2026-10-16 00:01",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder jemand auf eine Wärmepumpe umrüsten möchte, schaut er zuerst aufs Handy – lassen Sie uns dafür sorgen, dass die Aufträge direkt bei Ihnen in Grebenhain landen und nicht bei der Großkonkurrenz aus Fulda oder Lauterbach.“",
+      "ts": "2026-10-16 04:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "biz-vogelsbergbox",
+      "agent": "chancen-grebenhain",
       "via": "gemini",
-      "text": "**SCHRITT** Erstellung und Launch einer kostenlosen „Smoke-Test“-Landingpage (Vorbestell-/Warteliste) für eine limitierte **„Vogelsberg-Probier-Box“** über ein Gratis-Tool (z. B. Carrd.co oder Mailchimp). **WARUM** Damit prüfen wir das eche Kundeninteresse direkt an der Basis, **bevor** wir auch nur einen Euro für Ware, Verpackung oder Verträge mit Höfen aus",
-      "ts": "2026-10-16 00:00",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannendienst mit integriertem Gepäckshuttle für Radtouristen rund um den Vogelsberg. **WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, auf dem bei Pannen oder Akku-Ausfällen bisher schnelle, lokale Soforthilfe vor Ort fehlt. **ERSTER SCHRITT:** Statte ein vorhandenes Auto mit Fahrradträger, Werkzeug und",
+      "ts": "2026-10-16 04:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein ehrenamtlich gestützter Fahrdienst mit persönlicher Begleitung, der ältere Menschen aus den einzelnen Ortsteilen direkt zu Hause abholt, um gemeinsam Einkäufe, Apotheken- und Arztwege im Kernort zu erledigen. **WARUM HIER:** Da die Nahversorgung in den verstreuten Herbsteiner Ortsteilen stark ausgedünnt ist, bewahrt dieser verlässliche Nachbarsc",
+      "ts": "2026-10-16 04:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Sie erleben eine geführte Entdeckertour zu den imposanten Herbsteiner Basaltformationen inklusive regionalem Vulkan-Picknick und entspannen anschließend mit einem Tagesticket in der VulkanTherme. **FUER WEN:** Das Angebot ist ideal für Erholungssuchende und Paare, die Naturwissen hautnah mit einer entschleunigenden Wellness-Auszeit im Heilbad verbin",
+      "ts": "2026-10-16 04:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Eintopf-Kiste“ – eine saisonale Abo-Box mit frischem Wurzelgemüse, robusten Kartoffeln, passender Einlage (wie Rindfleisch oder Mettenden vom eigenen Hof) und einer einfachen Rezeptkarte für ehrliche Hausmannskost. **fuer WEN:** Für beschäftigte Familien und Senioren aus der Region Herbstein, die unter der Woche wenig Zeit zum Eink",
+      "ts": "2026-10-16 04:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "biz-board",
+      "via": "gemini",
+      "text": "Hier ist der Lagebericht, Commander: * **Offerta:** Stand: Stabil, aber Marge stagniert | **Nächster Hebel:** Lead-Qualifizierung verschärfen, um Abschlussquote im Sales-Call zu erhöhen. * **Handwerk-Sichtbar:** Stand: Fulfillment läuft gut, Neukundengewinnung schwankt | **Nächster Hebel:** Outbound-Fokus auf hochmargige Gewerbe (SHK/Elektro) hochfahren. * *",
+      "ts": "2026-10-16 04:28",
       "age_min": 0
     }
   ]

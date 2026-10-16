@@ -1,39 +1,117 @@
 {
-  "updated": "2026-10-16 00:01 UTC",
-  "total_results": 2,
-  "total_depts": 2,
+  "updated": "2026-10-16 04:29 UTC",
+  "total_results": 6,
+  "total_depts": 3,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "biz-terminki",
-      "title": "Business — Termin-/Anruf-KI  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "handwerk-grebenhain",
+      "title": "Handwerk-Sichtbarkeit — Grebenhain  ·  Chancen",
       "via": "gemini",
-      "text": "**SZENARIO**\n*Audio-Szenario: Montagmorgen, 08:15 Uhr – Rushhour im Handwerksbetrieb (Elektro/Sanitär).*\n\n* **Anrufer (hektisch):** „Guten Morgen, Müller hier! Bei uns im Gewerbegebiet ist die Hauptsicherung geflogen, die Produktion steht. Ich brauche HEUTE jemanden!“\n* **KI (ruhig, extrem natürliche Stimme, Rencora-Stack):** „Guten Morgen Herr Müller. Das ist ein Notfall, ich kümmere mich darum. Ist der Hauptschalter bereits gesichert und betrifft es nur Ihr Gebäude oder auch die Nachbarn?“\n* **Anrufer:** „Nur unseres. Hauptschalter ist aus.“\n* **KI:** „Alles klar. Ich habe Ihre Adresse aus dem System erfasst: Industriestraße 4. Ich buche Ihnen direkt unseren Notdienst-Slot für 10:30 Uhr ein. Meister Schmidt übernimmt das. Ich schicke Ihnen jetzt eine Bestätigung per SMS. Passt das für Sie?“\n* **Anrufer:** „Ja, perfekt, danke!“\n* **KI:** „Gerne. Bis später, Herr Müller.“\n\n---\n\n**WAS ES ZEIGT**\n1. **Latenzfreie Natürlichkeit:** Keine Roboter-Denkpausen, kein \"Drücken Sie die 1\". Der Anrufer merkt in der Stresssituation nicht einmal, dass er mit einer KI spricht.\n2. **Fachliche Erst-Qualifizierung (Triage):** Die KI filtert Notfälle von Routine-Terminen und stellt die *richtigen* Branchen-Fragen (z. B. \"Hauptschalter aus?\").\n3. **Vollautomatische Execution:** Der Termin landet ohne menschliches Zutun im Kalender/CRM, der Notdienst-Techniker wird benachrichtigt, der Kunde bekommt eine SMS. Kein Anruf geht verloren, kein Umsatz wird verschenkt.\n\n---\n\n**ERSTER TAG**\n*Bevor wir über Verträge oder Preise sprechen:*\n\nWir richten dem Betrieb innerhalb von 24 Stunden eine **personalisierte Test-Rufnummer** ein (mit dem eigenen Firmennamen und den echten Öffnungszeiten/Termintypen). \n\nDer Inhaber und sein Büro-Team rufen die Nummer am ersten Tag **3-mal selbst an** und testen sie mit ihren schwierigsten Anrufern (Dialekt, Hektik, Sonderwünsche). Erst wenn der Inhaber sagt: *„Das klingt besser und schneller als mein eigenes Büro in der Rushhour“*, sprechen wir über das Deployment.",
-      "ts": "2026-10-16 00:01",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb \n\n**Ansprache-Idee:**\n„Wenn im Vogelsberg die Heizung ausfällt oder jemand auf eine Wärmepumpe umrüsten möchte, schaut er zuerst aufs Handy – lassen Sie uns dafür sorgen, dass die Aufträge direkt bei Ihnen in Grebenhain landen und nicht bei der Großkonkurrenz aus Fulda oder Lauterbach.“",
+      "ts": "2026-10-16 04:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "biz-vogelsbergbox",
-      "title": "Business — Vogelsberg-Box  ·  Chancen",
+      "agent": "chancen-grebenhain",
+      "title": "Chancen-Scout — Grebenhain  ·  Chancen",
       "via": "gemini",
-      "text": "**SCHRITT**\nErstellung und Launch einer kostenlosen „Smoke-Test“-Landingpage (Vorbestell-/Warteliste) für eine limitierte **„Vogelsberg-Probier-Box“** über ein Gratis-Tool (z. B. Carrd.co oder Mailchimp).\n\n**WARUM**\nDamit prüfen wir das eche Kundeninteresse direkt an der Basis, **bevor** wir auch nur einen Euro für Ware, Verpackung oder Verträge mit Höfen ausgeben. Wenn sich innerhalb kurzer Zeit 50 bis 100 Anwohner aus der Region eintragen, haben wir den harten Beweis, dass Nachfrage da ist. Wenn nicht, passen wir das Angebot an, ohne Geld verloren zu haben.\n\n**ERSTER TAG**\n*   **09:00 – 11:00 Uhr:** Gratis-Account bei Carrd.co erstellen und eine einfache One-Page-Website aufbauen.\n*   **11:00 – 12:30 Uhr:** Texten des Angebots: *„Hol dir die besten Hofprodukte aus dem Vogelsberg direkt nach Hause. Die 1. Test-Box startet bald – trage dich ein und erhalte 10% Rabatt auf deine erste Box.“* (Symbol-Fotos von regionalem Gemüse, Käse, Wurst einfügen).\n*   **13:30 – 14:30 Uhr:** E-Mail-Formular einbinden und Seite kostenlos veröffentlichen (z.B. *vogelsberg-box.carrd.co*).\n*   **15:00 – 17:00 Uhr:** Den Link mit einem persönlichen Aufruf in lokalen Kanälen posten: In 5 regionalen Facebook-Gruppen (z. B. Alsfeld, Lauterbach, Fulda-Umland), auf *Nebenan.de* und im eigenen WhatsApp-Status verteilen.",
-      "ts": "2026-10-16 00:00",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannendienst mit integriertem Gepäckshuttle für Radtouristen rund um den Vogelsberg.\n\n**WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, auf dem bei Pannen oder Akku-Ausfällen bisher schnelle, lokale Soforthilfe vor Ort fehlt.\n\n**ERSTER SCHRITT:** Statte ein vorhandenes Auto mit Fahrradträger, Werkzeug und Ersatz-Akkus aus und hinterlege Visitenkarten mit einer Notfall-Nummer bei den lokalen Pensionen und Gaststätten entlang der Route.",
+      "ts": "2026-10-16 04:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-herbstein",
+      "title": "Senioren-Alltagsdienste — Herbstein  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:**\nEin ehrenamtlich gestützter Fahrdienst mit persönlicher Begleitung, der ältere Menschen aus den einzelnen Ortsteilen direkt zu Hause abholt, um gemeinsam Einkäufe, Apotheken- und Arztwege im Kernort zu erledigen.\n\n**WARUM HIER:**\nDa die Nahversorgung in den verstreuten Herbsteiner Ortsteilen stark ausgedünnt ist, bewahrt dieser verlässliche Nachbarschaftsdienst die eigenständige Lebensführung und den sozialen Kontakt, ohne dass man auf fremde Hilfe angewiesen wirkt.\n\n**ERSTER SCHRITT:**\nIn Kooperation mit der Stadtverwaltung Herbstein und den örtlichen Vereinen wird eine zentrale Telefonnummer eingerichtet, über die Fahrten unbürokratisch für bestimmte Wochentage angemeldet werden können.",
+      "ts": "2026-10-16 04:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-herbstein",
+      "title": "Vulkanregion-Tourismus — Herbstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Sie erleben eine geführte Entdeckertour zu den imposanten Herbsteiner Basaltformationen inklusive regionalem Vulkan-Picknick und entspannen anschließend mit einem Tagesticket in der VulkanTherme.\n\n**FUER WEN:** Das Angebot ist ideal für Erholungssuchende und Paare, die Naturwissen hautnah mit einer entschleunigenden Wellness-Auszeit im Heilbad verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Website Ihren Wunschtermin aus und buchen Sie Ihr All-in-One-Ticket direkt online.",
+      "ts": "2026-10-16 04:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-herbstein",
+      "title": "Direktvermarktung — Herbstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDie „Vogelsberger Eintopf-Kiste“ – eine saisonale Abo-Box mit frischem Wurzelgemüse, robusten Kartoffeln, passender Einlage (wie Rindfleisch oder Mettenden vom eigenen Hof) und einer einfachen Rezeptkarte für ehrliche Hausmannskost.\n\n**fuer WEN:** \nFür beschäftigte Familien und Senioren aus der Region Herbstein, die unter der Woche wenig Zeit zum Einkaufen haben, aber Wert auf ein bodenständiges, regionales Essen legen.\n\n**ERSTER SCHRITT:** \nZehn Probe-Kisten packen und das Angebot über Aushänge beim örtlichen Bäcker sowie in den lokalen WhatsApp-Dorfgruppen für einen vierwöchigen Testlauf anbieten.",
+      "ts": "2026-10-16 04:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "biz-board",
+      "title": "Business — Lagebericht  ·  Kommando",
+      "via": "gemini",
+      "text": "Hier ist der Lagebericht, Commander:\n\n* **Offerta:** Stand: Stabil, aber Marge stagniert | **Nächster Hebel:** Lead-Qualifizierung verschärfen, um Abschlussquote im Sales-Call zu erhöhen.\n* **Handwerk-Sichtbar:** Stand: Fulfillment läuft gut, Neukundengewinnung schwankt | **Nächster Hebel:** Outbound-Fokus auf hochmargige Gewerbe (SHK/Elektro) hochfahren.\n* **Vogelsberg-Box:** Stand: B2C-Geschäft bleibt margenschwach | **Nächster Hebel:** B2B-Angebote für regionale Firmen-Geschenke aktiv pitchen.\n* **Termin-KI:** Stand: Produkt ist einsatzbereit, es fehlen Referenzen | **Nächster Hebel:** Erste 5 Pilotkunden für Case Studies closen.\n\n---\n\n### **DIE eine Sache für diese Woche:**\n**Termin-KI auf die Straße bringen:** Fokussiere deine Energie zu 100 % darauf, die ersten 5 Pilotkunden für Termin-KI zu sichern. Wir brauchen harte Markt-Validierung und Case Studies – der Rest ist diese Woche Sekundärrauschen.",
+      "ts": "2026-10-16 04:28",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Chancen",
+      "id": "Kommando",
       "count": 1,
       "items": [
         {
-          "dept": "Chancen",
-          "agent": "biz-vogelsbergbox",
-          "title": "Business — Vogelsberg-Box  ·  Chancen",
+          "dept": "Kommando",
+          "agent": "biz-board",
+          "title": "Business — Lagebericht  ·  Kommando",
           "via": "gemini",
-          "text": "**SCHRITT**\nErstellung und Launch einer kostenlosen „Smoke-Test“-Landingpage (Vorbestell-/Warteliste) für eine limitierte **„Vogelsberg-Probier-Box“** über ein Gratis-Tool (z. B. Carrd.co oder Mailchimp).\n\n**WARUM**\nDamit prüfen wir das eche Kundeninteresse direkt an der Basis, **bevor** wir auch nur einen Euro für Ware, Verpackung oder Verträge mit Höfen ausgeben. Wenn sich innerhalb kurzer Zeit 50 bis 100 Anwohner aus der Region eintragen, haben wir den harten Beweis, dass Nachfrage da ist. Wenn nicht, passen wir das Angebot an, ohne Geld verloren zu haben.\n\n**ERSTER TAG**\n*   **09:00 – 11:00 Uhr:** Gratis-Account bei Carrd.co erstellen und eine einfache One-Page-Website aufbauen.\n*   **11:00 – 12:30 Uhr:** Texten des Angebots: *„Hol dir die besten Hofprodukte aus dem Vogelsberg direkt nach Hause. Die 1. Test-Box startet bald – trage dich ein und erhalte 10% Rabatt auf deine erste Box.“* (Symbol-Fotos von regionalem Gemüse, Käse, Wurst einfügen).\n*   **13:30 – 14:30 Uhr:** E-Mail-Formular einbinden und Seite kostenlos veröffentlichen (z.B. *vogelsberg-box.carrd.co*).\n*   **15:00 – 17:00 Uhr:** Den Link mit einem persönlichen Aufruf in lokalen Kanälen posten: In 5 regionalen Facebook-Gruppen (z. B. Alsfeld, Lauterbach, Fulda-Umland), auf *Nebenan.de* und im eigenen WhatsApp-Status verteilen.",
-          "ts": "2026-10-16 00:00",
+          "text": "Hier ist der Lagebericht, Commander:\n\n* **Offerta:** Stand: Stabil, aber Marge stagniert | **Nächster Hebel:** Lead-Qualifizierung verschärfen, um Abschlussquote im Sales-Call zu erhöhen.\n* **Handwerk-Sichtbar:** Stand: Fulfillment läuft gut, Neukundengewinnung schwankt | **Nächster Hebel:** Outbound-Fokus auf hochmargige Gewerbe (SHK/Elektro) hochfahren.\n* **Vogelsberg-Box:** Stand: B2C-Geschäft bleibt margenschwach | **Nächster Hebel:** B2B-Angebote für regionale Firmen-Geschenke aktiv pitchen.\n* **Termin-KI:** Stand: Produkt ist einsatzbereit, es fehlen Referenzen | **Nächster Hebel:** Erste 5 Pilotkunden für Case Studies closen.\n\n---\n\n### **DIE eine Sache für diese Woche:**\n**Termin-KI auf die Straße bringen:** Fokussiere deine Energie zu 100 % darauf, die ersten 5 Pilotkunden für Termin-KI zu sichern. Wir brauchen harte Markt-Validierung und Case Studies – der Rest ist diese Woche Sekundärrauschen.",
+          "ts": "2026-10-16 04:28",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Chancen",
+      "count": 4,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-grebenhain",
+          "title": "Handwerk-Sichtbarkeit — Grebenhain  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb \n\n**Ansprache-Idee:**\n„Wenn im Vogelsberg die Heizung ausfällt oder jemand auf eine Wärmepumpe umrüsten möchte, schaut er zuerst aufs Handy – lassen Sie uns dafür sorgen, dass die Aufträge direkt bei Ihnen in Grebenhain landen und nicht bei der Großkonkurrenz aus Fulda oder Lauterbach.“",
+          "ts": "2026-10-16 04:29",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-grebenhain",
+          "title": "Chancen-Scout — Grebenhain  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler E-Bike-Pannendienst mit integriertem Gepäckshuttle für Radtouristen rund um den Vogelsberg.\n\n**WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, auf dem bei Pannen oder Akku-Ausfällen bisher schnelle, lokale Soforthilfe vor Ort fehlt.\n\n**ERSTER SCHRITT:** Statte ein vorhandenes Auto mit Fahrradträger, Werkzeug und Ersatz-Akkus aus und hinterlege Visitenkarten mit einer Notfall-Nummer bei den lokalen Pensionen und Gaststätten entlang der Route.",
+          "ts": "2026-10-16 04:29",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-herbstein",
+          "title": "Vulkanregion-Tourismus — Herbstein  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Sie erleben eine geführte Entdeckertour zu den imposanten Herbsteiner Basaltformationen inklusive regionalem Vulkan-Picknick und entspannen anschließend mit einem Tagesticket in der VulkanTherme.\n\n**FUER WEN:** Das Angebot ist ideal für Erholungssuchende und Paare, die Naturwissen hautnah mit einer entschleunigenden Wellness-Auszeit im Heilbad verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Website Ihren Wunschtermin aus und buchen Sie Ihr All-in-One-Ticket direkt online.",
+          "ts": "2026-10-16 04:29",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-herbstein",
+          "title": "Direktvermarktung — Herbstein  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDie „Vogelsberger Eintopf-Kiste“ – eine saisonale Abo-Box mit frischem Wurzelgemüse, robusten Kartoffeln, passender Einlage (wie Rindfleisch oder Mettenden vom eigenen Hof) und einer einfachen Rezeptkarte für ehrliche Hausmannskost.\n\n**fuer WEN:** \nFür beschäftigte Familien und Senioren aus der Region Herbstein, die unter der Woche wenig Zeit zum Einkaufen haben, aber Wert auf ein bodenständiges, regionales Essen legen.\n\n**ERSTER SCHRITT:** \nZehn Probe-Kisten packen und das Angebot über Aushänge beim örtlichen Bäcker sowie in den lokalen WhatsApp-Dorfgruppen für einen vierwöchigen Testlauf anbieten.",
+          "ts": "2026-10-16 04:29",
           "age_min": 0
         }
       ]
@@ -44,11 +122,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "biz-terminki",
-          "title": "Business — Termin-/Anruf-KI  ·  Kunden",
+          "agent": "senioren-herbstein",
+          "title": "Senioren-Alltagsdienste — Herbstein  ·  Kunden",
           "via": "gemini",
-          "text": "**SZENARIO**\n*Audio-Szenario: Montagmorgen, 08:15 Uhr – Rushhour im Handwerksbetrieb (Elektro/Sanitär).*\n\n* **Anrufer (hektisch):** „Guten Morgen, Müller hier! Bei uns im Gewerbegebiet ist die Hauptsicherung geflogen, die Produktion steht. Ich brauche HEUTE jemanden!“\n* **KI (ruhig, extrem natürliche Stimme, Rencora-Stack):** „Guten Morgen Herr Müller. Das ist ein Notfall, ich kümmere mich darum. Ist der Hauptschalter bereits gesichert und betrifft es nur Ihr Gebäude oder auch die Nachbarn?“\n* **Anrufer:** „Nur unseres. Hauptschalter ist aus.“\n* **KI:** „Alles klar. Ich habe Ihre Adresse aus dem System erfasst: Industriestraße 4. Ich buche Ihnen direkt unseren Notdienst-Slot für 10:30 Uhr ein. Meister Schmidt übernimmt das. Ich schicke Ihnen jetzt eine Bestätigung per SMS. Passt das für Sie?“\n* **Anrufer:** „Ja, perfekt, danke!“\n* **KI:** „Gerne. Bis später, Herr Müller.“\n\n---\n\n**WAS ES ZEIGT**\n1. **Latenzfreie Natürlichkeit:** Keine Roboter-Denkpausen, kein \"Drücken Sie die 1\". Der Anrufer merkt in der Stresssituation nicht einmal, dass er mit einer KI spricht.\n2. **Fachliche Erst-Qualifizierung (Triage):** Die KI filtert Notfälle von Routine-Terminen und stellt die *richtigen* Branchen-Fragen (z. B. \"Hauptschalter aus?\").\n3. **Vollautomatische Execution:** Der Termin landet ohne menschliches Zutun im Kalender/CRM, der Notdienst-Techniker wird benachrichtigt, der Kunde bekommt eine SMS. Kein Anruf geht verloren, kein Umsatz wird verschenkt.\n\n---\n\n**ERSTER TAG**\n*Bevor wir über Verträge oder Preise sprechen:*\n\nWir richten dem Betrieb innerhalb von 24 Stunden eine **personalisierte Test-Rufnummer** ein (mit dem eigenen Firmennamen und den echten Öffnungszeiten/Termintypen). \n\nDer Inhaber und sein Büro-Team rufen die Nummer am ersten Tag **3-mal selbst an** und testen sie mit ihren schwierigsten Anrufern (Dialekt, Hektik, Sonderwünsche). Erst wenn der Inhaber sagt: *„Das klingt besser und schneller als mein eigenes Büro in der Rushhour“*, sprechen wir über das Deployment.",
-          "ts": "2026-10-16 00:01",
+          "text": "**WAS:**\nEin ehrenamtlich gestützter Fahrdienst mit persönlicher Begleitung, der ältere Menschen aus den einzelnen Ortsteilen direkt zu Hause abholt, um gemeinsam Einkäufe, Apotheken- und Arztwege im Kernort zu erledigen.\n\n**WARUM HIER:**\nDa die Nahversorgung in den verstreuten Herbsteiner Ortsteilen stark ausgedünnt ist, bewahrt dieser verlässliche Nachbarschaftsdienst die eigenständige Lebensführung und den sozialen Kontakt, ohne dass man auf fremde Hilfe angewiesen wirkt.\n\n**ERSTER SCHRITT:**\nIn Kooperation mit der Stadtverwaltung Herbstein und den örtlichen Vereinen wird eine zentrale Telefonnummer eingerichtet, über die Fahrten unbürokratisch für bestimmte Wochentage angemeldet werden können.",
+          "ts": "2026-10-16 04:29",
           "age_min": 0
         }
       ]
