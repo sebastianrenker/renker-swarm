@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-16T20:25Z",
+  "updated": "2026-10-16T22:56Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Die „Ohm-Aue Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit saisonalem Gemüse, Vogelsberger Landbrot, Eiern und Wurst im Glas, das rund um die Uhr an einem zentralen, gekühlten Hof-Schließfach bereitsteht. **für WEN:** Für berufstätige Pendler und Familien aus Homberg und den Ortsteilen, die Wert auf ehrliche Lebensmittel vom Bauern nebenan lege",
+        "text": "**WAS:** Genieß das exklusive „Schloss-Picknick & Vulkan-Panorama“-Paket mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten und einer digitalen Erlebniskarte für die historische Altstadt von Homberg (Ohm). **fuer WEN:** Dieses Angebot ist perfekt für Paare, Genuss-Wanderer und Auszeit-Suchende, die Geschichte und Natur mit kulina",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Dienst:** „Der Ohm-Begleiter“ (Mobiler Nachbarschafts- und Begleitdienst) * **WAS:** Ein verlässlicher, ehrenamtlich gestützter Begleit- und Fahrdienst, der ältere Menschen aus den Ortsteilen auf Augenhöhe zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bringt. * **WARUM HIER:** In den weit verstreuten Dörfern rund um Homberg (Ohm) sichert d",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -404,27 +408,27 @@
       "name": "Direktvermarktung — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Ohm-Aue Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit saisonalem Gemüse, Vogelsberger Landbrot, Eiern und Wurst im Glas, das rund um die Uhr an einem zentralen, gekühlten Hof-Schließfach bereitsteht. *",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-homberg-ohm",
       "name": "Vulkanregion-Tourismus — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Genieß das exklusive „Schloss-Picknick & Vulkan-Panorama“-Paket mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten und einer digitalen Erlebniskarte für die historische Altstadt von ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-homberg-ohm",
       "name": "Senioren-Alltagsdienste — Homberg (Ohm)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Dienst:** „Der Ohm-Begleiter“ (Mobiler Nachbarschafts- und Begleitdienst) * **WAS:** Ein verlässlicher, ehrenamtlich gestützter Begleit- und Fahrdienst, der ältere Menschen aus den Ortsteilen auf Augenhöhe zu Arzttermi",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-kirtorf",
@@ -1499,16 +1503,24 @@
     }
   ],
   "budget": {
-    "used": 14,
+    "used": 16,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-homberg-ohm",
+      "dept": "Kunden",
+      "agent": "senioren-homberg-ohm",
       "via": "gemini",
-      "text": "**WAS:** Die „Ohm-Aue Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit saisonalem Gemüse, Vogelsberger Landbrot, Eiern und Wurst im Glas, das rund um die Uhr an einem zentralen, gekühlten Hof-Schließfach bereitsteht. **für WEN:** Für berufstätige Pendler und Familien aus Homberg und den Ortsteilen, die Wert auf ehrliche Lebensmittel vom Bauern nebenan lege",
-      "ts": "2026-10-16 20:25",
+      "text": "**Dienst:** „Der Ohm-Begleiter“ (Mobiler Nachbarschafts- und Begleitdienst) * **WAS:** Ein verlässlicher, ehrenamtlich gestützter Begleit- und Fahrdienst, der ältere Menschen aus den Ortsteilen auf Augenhöhe zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bringt. * **WARUM HIER:** In den weit verstreuten Dörfern rund um Homberg (Ohm) sichert d",
+      "ts": "2026-10-16 22:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-homberg-ohm",
+      "via": "gemini",
+      "text": "**WAS:** Genieß das exklusive „Schloss-Picknick & Vulkan-Panorama“-Paket mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten und einer digitalen Erlebniskarte für die historische Altstadt von Homberg (Ohm). **fuer WEN:** Dieses Angebot ist perfekt für Paare, Genuss-Wanderer und Auszeit-Suchende, die Geschichte und Natur mit kulina",
+      "ts": "2026-10-16 22:56",
       "age_min": 0
     }
   ]
