@@ -1,102 +1,30 @@
 {
-  "updated": "2026-10-17 18:42 UTC",
-  "total_results": 5,
+  "updated": "2026-10-17 20:59 UTC",
+  "total_results": 1,
   "total_depts": 1,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-gemuenden-felda",
-      "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-gemuenden-felda",
+      "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Erleben Sie ein geführtes E-Bike-Picknick durch das romantische Feldatal mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten.\n\n**fuer WEN:** Ideal für Paare und Naturgenießer, die die sanfte Vulkanlandschaft ohne große Anstrengung erkunden und entspannt im Grünen schlemmen möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserem Buchungsportal einfach Ihren Wunschtermin aus und sichern Sie sich Ihr E-Bike samt Genusspaket mit wenigen Klicks.",
-      "ts": "2026-10-17 18:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-gemuenden-felda",
-      "title": "Direktvermarktung — Gemuenden (Felda)  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentlich wechselnde „Vogelsberger Feierabend-Kiste“ mit frischem Saison-Gemüse, heimischen Kartoffeln und ehrlichem Landbrot, die unkompliziert rund um die Uhr in einem hölzernen Abhol-Unterstand am Hof bereitsteht.\n\n**fuer WEN:** Für beschäftigte Familien und Pendler aus Gemünden und den umliegenden Dörfern, die nach Feierabend ohne Zeitdruck ehrliche Lebensmittel direkt von hier mitnehmen möchten.\n\n**ERSTER SCHRITT:** Zwei bis drei benachbarte Erzeuger (z. B. für Brot oder Eier) für ein gemeinsames Angebot gewinnen und über Mundpropaganda sowie Aushänge im Dorf 15 Test-Abonnenten für einen Probemonat suchen.",
-      "ts": "2026-10-17 18:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-feldatal",
-      "title": "Direktvermarktung — Feldatal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Die „Feldataler Feierabend-Kiste“ ist ein wöchentliches Abo-Paket mit frischem Saison-Gemüse, Eiern, Kartoffeln und Vogelsberger Wurstspezialitäten, das kontaktlos an einer zentralen Abholstation im Ort bereitsteht.\n\n**FÜR WEN:** Für berufstätige Pendler und Familien aus Feldatal und Umgebung, die unter der Woche wenig Zeit haben, aber ehrliche Lebensmittel direkt vom Bauern um die Ecke wollen.\n\n**ERSTER SCHRITT:** Drei bis vier benachbarte Höfe an einen Tisch holen, um ein verlässliches Basissortiment abzustimmen und einen gut erreichbaren Abholort festzulegen.",
-      "ts": "2026-10-17 18:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-gemuenden-felda",
-      "title": "Handwerk-Sichtbarkeit — Gemuenden (Felda)  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:**  \nEin lokaler **Sanitär- und Heizungsbauer (SHK-Betrieb)**.\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo Herr [Name], wenn in Gemünden die Heizung ausfällt oder ein Bad renoviert wird, suchen die Leute heute auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Nummer direkt ganz oben steht und die lukrativen Aufträge im Ort bleiben, statt an Betriebe aus Alsfeld oder Lauterbach zu gehen.“",
-      "ts": "2026-10-17 18:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-gemuenden-felda",
-      "title": "Chancen-Scout — Gemuenden (Felda)  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:**\nEin app-basierter, kontaktloser 24/7-Verleih von robusten PKW-Anhängern (speziell für Grünschnitt-, Brennholz- und Baustofftransporte) direkt im Ort.\n\n**WARUM HIER:**\nIm weitläufigen Feldatal besitzen fast alle Haushalte große Gärten oder Kaminholzbedarf, doch für den nächsten gewerblichen Anhängerverleih muss man derzeit bis nach Alsfeld fahren.\n\n**ERSTER SCHRITT:**\nEinen gebrauchten Planen- oder Gitteranhänger kaufen, mit einem smarten Bluetooth-Kupplungsschloss ausrüsten und einen gut sichtbaren Stellplatz im Ort anpachten.",
-      "ts": "2026-10-17 18:42",
+      "text": "**WAS:**  \nEin mobiler Fahr- und Besorgungsdienst, der Senioren nicht nur verlässlich zu Einkäufen oder Arztterminen begleitet, sondern auch Zeit für ein persönliches Gespräch und kleine Handreichungen im Haus mitbringt.\n\n**WARUM HIER:**  \nDa die sieben Ortsteile von Gemünden (Felda) weit auseinanderliegen und Nahversorger vor Ort weitgehend fehlen, ermöglicht dieser Service ein würdevolles Leben im eigenen Zuhause ohne lange, beschwerliche Wege.\n\n**ERSTER SCHRITT:**  \nIn Zusammenarbeit mit den Ortsvorstehern wird eine einfache Anrufzentrale im Gemeindebüro eingerichtet, um Bedarfe unbürokratisch zu erfassen und erste verlässliche Routen zu planen.",
+      "ts": "2026-10-17 20:59",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Chancen",
-      "count": 5,
+      "id": "Kunden",
+      "count": 1,
       "items": [
         {
-          "dept": "Chancen",
-          "agent": "tourismus-gemuenden-felda",
-          "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
+          "dept": "Kunden",
+          "agent": "senioren-gemuenden-felda",
+          "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Erleben Sie ein geführtes E-Bike-Picknick durch das romantische Feldatal mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten.\n\n**fuer WEN:** Ideal für Paare und Naturgenießer, die die sanfte Vulkanlandschaft ohne große Anstrengung erkunden und entspannt im Grünen schlemmen möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserem Buchungsportal einfach Ihren Wunschtermin aus und sichern Sie sich Ihr E-Bike samt Genusspaket mit wenigen Klicks.",
-          "ts": "2026-10-17 18:42",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-gemuenden-felda",
-          "title": "Direktvermarktung — Gemuenden (Felda)  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Eine wöchentlich wechselnde „Vogelsberger Feierabend-Kiste“ mit frischem Saison-Gemüse, heimischen Kartoffeln und ehrlichem Landbrot, die unkompliziert rund um die Uhr in einem hölzernen Abhol-Unterstand am Hof bereitsteht.\n\n**fuer WEN:** Für beschäftigte Familien und Pendler aus Gemünden und den umliegenden Dörfern, die nach Feierabend ohne Zeitdruck ehrliche Lebensmittel direkt von hier mitnehmen möchten.\n\n**ERSTER SCHRITT:** Zwei bis drei benachbarte Erzeuger (z. B. für Brot oder Eier) für ein gemeinsames Angebot gewinnen und über Mundpropaganda sowie Aushänge im Dorf 15 Test-Abonnenten für einen Probemonat suchen.",
-          "ts": "2026-10-17 18:42",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-feldatal",
-          "title": "Direktvermarktung — Feldatal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Die „Feldataler Feierabend-Kiste“ ist ein wöchentliches Abo-Paket mit frischem Saison-Gemüse, Eiern, Kartoffeln und Vogelsberger Wurstspezialitäten, das kontaktlos an einer zentralen Abholstation im Ort bereitsteht.\n\n**FÜR WEN:** Für berufstätige Pendler und Familien aus Feldatal und Umgebung, die unter der Woche wenig Zeit haben, aber ehrliche Lebensmittel direkt vom Bauern um die Ecke wollen.\n\n**ERSTER SCHRITT:** Drei bis vier benachbarte Höfe an einen Tisch holen, um ein verlässliches Basissortiment abzustimmen und einen gut erreichbaren Abholort festzulegen.",
-          "ts": "2026-10-17 18:42",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-gemuenden-felda",
-          "title": "Handwerk-Sichtbarkeit — Gemuenden (Felda)  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:**  \nEin lokaler **Sanitär- und Heizungsbauer (SHK-Betrieb)**.\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo Herr [Name], wenn in Gemünden die Heizung ausfällt oder ein Bad renoviert wird, suchen die Leute heute auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Nummer direkt ganz oben steht und die lukrativen Aufträge im Ort bleiben, statt an Betriebe aus Alsfeld oder Lauterbach zu gehen.“",
-          "ts": "2026-10-17 18:42",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-gemuenden-felda",
-          "title": "Chancen-Scout — Gemuenden (Felda)  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:**\nEin app-basierter, kontaktloser 24/7-Verleih von robusten PKW-Anhängern (speziell für Grünschnitt-, Brennholz- und Baustofftransporte) direkt im Ort.\n\n**WARUM HIER:**\nIm weitläufigen Feldatal besitzen fast alle Haushalte große Gärten oder Kaminholzbedarf, doch für den nächsten gewerblichen Anhängerverleih muss man derzeit bis nach Alsfeld fahren.\n\n**ERSTER SCHRITT:**\nEinen gebrauchten Planen- oder Gitteranhänger kaufen, mit einem smarten Bluetooth-Kupplungsschloss ausrüsten und einen gut sichtbaren Stellplatz im Ort anpachten.",
-          "ts": "2026-10-17 18:42",
+          "text": "**WAS:**  \nEin mobiler Fahr- und Besorgungsdienst, der Senioren nicht nur verlässlich zu Einkäufen oder Arztterminen begleitet, sondern auch Zeit für ein persönliches Gespräch und kleine Handreichungen im Haus mitbringt.\n\n**WARUM HIER:**  \nDa die sieben Ortsteile von Gemünden (Felda) weit auseinanderliegen und Nahversorger vor Ort weitgehend fehlen, ermöglicht dieser Service ein würdevolles Leben im eigenen Zuhause ohne lange, beschwerliche Wege.\n\n**ERSTER SCHRITT:**  \nIn Zusammenarbeit mit den Ortsvorstehern wird eine einfache Anrufzentrale im Gemeindebüro eingerichtet, um Bedarfe unbürokratisch zu erfassen und erste verlässliche Routen zu planen.",
+          "ts": "2026-10-17 20:59",
           "age_min": 0
         }
       ]
