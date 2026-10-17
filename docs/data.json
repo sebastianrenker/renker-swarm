@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-17T05:35Z",
+  "updated": "2026-10-17T09:40Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** **Sanitär- und Heizungsfachbetrieb** (mit Fokus auf Wärmepumpen-Modernisierung und Kundendienst in den Ortsteilen von Mücke). **Ansprache-Idee:** „Wenn die Mücker nach einer neuen Wärmepumpe suchen oder die Heizung streikt, finden sie bei Google meist Betriebe aus Grünberg oder Gießen – lassen Sie uns dafür sorgen, dass diese lukrativen Auft",
+        "text": "**WAS:** „Erze, Basalt & Brotzeit“: Eine E-Bike-Entdeckertour zu den historischen Erzgruben rund um Mücke inklusive eines prall gefüllten Vogelsberger Picknickkorbs. **fuer WEN:** Ideal für Genussradler, Paare und kleine Gruppen, die regionale Vulkan- und Bergbaugeschichte aktiv mit kulinarischem Genuss verbinden möchten. **ERSTER SCHRITT:** Wähle auf unsere",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler, verlässlicher Einkaufs- und Begleitdienst, der Senioren direkt an der eigenen Haustür abholt, individuell bei Gängen zu Ärzten oder Supermärkten unterstützt und sicher wieder nach Hause bringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht und Geschäfte des täglichen Bedarfs oft nur in den größeren Zentren liege",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -485,36 +489,36 @@
       "name": "Handwerk-Sichtbarkeit — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** **Sanitär- und Heizungsfachbetrieb** (mit Fokus auf Wärmepumpen-Modernisierung und Kundendienst in den Ortsteilen von Mücke). **Ansprache-Idee:** „Wenn die Mücker nach einer neuen Wärmepumpe suchen oder ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-muecke",
       "name": "Direktvermarktung — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist eine wöchentliche Frische-Box mit ehrlichen Hofprodukten wie Eiern, Käse, Brot und Saison-Gemüse, die freitags zur unkomplizierten Abholung an einer zentralen Station am B",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-muecke",
       "name": "Vulkanregion-Tourismus — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Erze, Basalt & Brotzeit“: Eine E-Bike-Entdeckertour zu den historischen Erzgruben rund um Mücke inklusive eines prall gefüllten Vogelsberger Picknickkorbs. **fuer WEN:** Ideal für Genussradler, Paare und kleine",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-muecke",
       "name": "Senioren-Alltagsdienste — Muecke",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler, verlässlicher Einkaufs- und Begleitdienst, der Senioren direkt an der eigenen Haustür abholt, individuell bei Gängen zu Ärzten oder Supermärkten unterstützt und sicher wieder nach Hause bringt. **WA",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-romrod",
@@ -1499,16 +1503,32 @@
     }
   ],
   "budget": {
-    "used": 7,
+    "used": 10,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-muecke",
+      "dept": "Kunden",
+      "agent": "senioren-muecke",
       "via": "gemini",
-      "text": "**Betriebstyp:** **Sanitär- und Heizungsfachbetrieb** (mit Fokus auf Wärmepumpen-Modernisierung und Kundendienst in den Ortsteilen von Mücke). **Ansprache-Idee:** „Wenn die Mücker nach einer neuen Wärmepumpe suchen oder die Heizung streikt, finden sie bei Google meist Betriebe aus Grünberg oder Gießen – lassen Sie uns dafür sorgen, dass diese lukrativen Auft",
-      "ts": "2026-10-17 05:35",
+      "text": "**WAS:** Ein mobiler, verlässlicher Einkaufs- und Begleitdienst, der Senioren direkt an der eigenen Haustür abholt, individuell bei Gängen zu Ärzten oder Supermärkten unterstützt und sicher wieder nach Hause bringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht und Geschäfte des täglichen Bedarfs oft nur in den größeren Zentren liege",
+      "ts": "2026-10-17 09:40",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-muecke",
+      "via": "gemini",
+      "text": "**WAS:** „Erze, Basalt & Brotzeit“: Eine E-Bike-Entdeckertour zu den historischen Erzgruben rund um Mücke inklusive eines prall gefüllten Vogelsberger Picknickkorbs. **fuer WEN:** Ideal für Genussradler, Paare und kleine Gruppen, die regionale Vulkan- und Bergbaugeschichte aktiv mit kulinarischem Genuss verbinden möchten. **ERSTER SCHRITT:** Wähle auf unsere",
+      "ts": "2026-10-17 09:40",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-muecke",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist eine wöchentliche Frische-Box mit ehrlichen Hofprodukten wie Eiern, Käse, Brot und Saison-Gemüse, die freitags zur unkomplizierten Abholung an einer zentralen Station am Bahnhof Mücke bereitsteht. **fuer WEN:** Das Angebot richtet sich an Berufspendler und vielbeschäftigte Familien aus Mücke und den benachbart",
+      "ts": "2026-10-17 09:40",
       "age_min": 0
     }
   ]

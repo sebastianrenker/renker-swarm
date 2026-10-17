@@ -1,30 +1,72 @@
 {
-  "updated": "2026-10-17 05:35 UTC",
-  "total_results": 1,
-  "total_depts": 1,
+  "updated": "2026-10-17 09:40 UTC",
+  "total_results": 3,
+  "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-muecke",
-      "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-muecke",
+      "title": "Senioren-Alltagsdienste — Muecke  ·  Kunden",
       "via": "gemini",
-      "text": "**Betriebstyp:** **Sanitär- und Heizungsfachbetrieb** (mit Fokus auf Wärmepumpen-Modernisierung und Kundendienst in den Ortsteilen von Mücke).\n\n**Ansprache-Idee:**\n„Wenn die Mücker nach einer neuen Wärmepumpe suchen oder die Heizung streikt, finden sie bei Google meist Betriebe aus Grünberg oder Gießen – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen hier im Ort landen.“",
-      "ts": "2026-10-17 05:35",
+      "text": "**WAS:** Ein mobiler, verlässlicher Einkaufs- und Begleitdienst, der Senioren direkt an der eigenen Haustür abholt, individuell bei Gängen zu Ärzten oder Supermärkten unterstützt und sicher wieder nach Hause bringt.\n\n**WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht und Geschäfte des täglichen Bedarfs oft nur in den größeren Zentren liegen, sichert dieser Dienst die eigenständige Lebensführung und Teilnahme am Gemeinschaftsleben trotz eingeschränkter Mobilität.\n\n**ERSTER SCHRITT:** In Kooperation mit der Gemeinde Mücke und den lokalen Ortsbeiräten wird eine einfache Buchungs-Telefonnummer im Rathaus geschaltet und ein fester Kreis ehrenamtlicher Fahrerinnen und Fahrer aus den einzelnen Dörfern aufgebaut.",
+      "ts": "2026-10-17 09:40",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-muecke",
+      "title": "Vulkanregion-Tourismus — Muecke  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** „Erze, Basalt & Brotzeit“: Eine E-Bike-Entdeckertour zu den historischen Erzgruben rund um Mücke inklusive eines prall gefüllten Vogelsberger Picknickkorbs.\n\n**fuer WEN:** Ideal für Genussradler, Paare und kleine Gruppen, die regionale Vulkan- und Bergbaugeschichte aktiv mit kulinarischem Genuss verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Plattform dein Wunschdatum sowie die Picknick-Variante aus und erhalte deine Routen-App mitsamt Buchungsbestätigung direkt per E-Mail.",
+      "ts": "2026-10-17 09:40",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-muecke",
+      "title": "Direktvermarktung — Muecke  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist eine wöchentliche Frische-Box mit ehrlichen Hofprodukten wie Eiern, Käse, Brot und Saison-Gemüse, die freitags zur unkomplizierten Abholung an einer zentralen Station am Bahnhof Mücke bereitsteht.\n\n**fuer WEN:** Das Angebot richtet sich an Berufspendler und vielbeschäftigte Familien aus Mücke und den benachbarten Ortsteilen, die ohne Aufwand regional und frisch einkaufen wollen.\n\n**ERSTER SCHRITT:** Drei passende Partner-Höfe aus dem Umkreis kontaktieren, um ein festes Start-Sortiment abzustimmen, und das Angebot über Mundpropaganda sowie Flyer am Bahnhof testen.",
+      "ts": "2026-10-17 09:40",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-muecke",
-          "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
+          "agent": "tourismus-muecke",
+          "title": "Vulkanregion-Tourismus — Muecke  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** **Sanitär- und Heizungsfachbetrieb** (mit Fokus auf Wärmepumpen-Modernisierung und Kundendienst in den Ortsteilen von Mücke).\n\n**Ansprache-Idee:**\n„Wenn die Mücker nach einer neuen Wärmepumpe suchen oder die Heizung streikt, finden sie bei Google meist Betriebe aus Grünberg oder Gießen – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen hier im Ort landen.“",
-          "ts": "2026-10-17 05:35",
+          "text": "**WAS:** „Erze, Basalt & Brotzeit“: Eine E-Bike-Entdeckertour zu den historischen Erzgruben rund um Mücke inklusive eines prall gefüllten Vogelsberger Picknickkorbs.\n\n**fuer WEN:** Ideal für Genussradler, Paare und kleine Gruppen, die regionale Vulkan- und Bergbaugeschichte aktiv mit kulinarischem Genuss verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Plattform dein Wunschdatum sowie die Picknick-Variante aus und erhalte deine Routen-App mitsamt Buchungsbestätigung direkt per E-Mail.",
+          "ts": "2026-10-17 09:40",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-muecke",
+          "title": "Direktvermarktung — Muecke  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist eine wöchentliche Frische-Box mit ehrlichen Hofprodukten wie Eiern, Käse, Brot und Saison-Gemüse, die freitags zur unkomplizierten Abholung an einer zentralen Station am Bahnhof Mücke bereitsteht.\n\n**fuer WEN:** Das Angebot richtet sich an Berufspendler und vielbeschäftigte Familien aus Mücke und den benachbarten Ortsteilen, die ohne Aufwand regional und frisch einkaufen wollen.\n\n**ERSTER SCHRITT:** Drei passende Partner-Höfe aus dem Umkreis kontaktieren, um ein festes Start-Sortiment abzustimmen, und das Angebot über Mundpropaganda sowie Flyer am Bahnhof testen.",
+          "ts": "2026-10-17 09:40",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-muecke",
+          "title": "Senioren-Alltagsdienste — Muecke  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler, verlässlicher Einkaufs- und Begleitdienst, der Senioren direkt an der eigenen Haustür abholt, individuell bei Gängen zu Ärzten oder Supermärkten unterstützt und sicher wieder nach Hause bringt.\n\n**WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht und Geschäfte des täglichen Bedarfs oft nur in den größeren Zentren liegen, sichert dieser Dienst die eigenständige Lebensführung und Teilnahme am Gemeinschaftsleben trotz eingeschränkter Mobilität.\n\n**ERSTER SCHRITT:** In Kooperation mit der Gemeinde Mücke und den lokalen Ortsbeiräten wird eine einfache Buchungs-Telefonnummer im Rathaus geschaltet und ein fester Kreis ehrenamtlicher Fahrerinnen und Fahrer aus den einzelnen Dörfern aufgebaut.",
+          "ts": "2026-10-17 09:40",
           "age_min": 0
         }
       ]
