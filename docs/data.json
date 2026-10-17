@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-17T16:25Z",
+  "updated": "2026-10-17T18:42Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 5,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** „Feuer & Basalt“ ist ein vierstündiges Mikro-Abenteuer, bei dem Sie im historischen Schmiedemuseum Groß-Felda Ihr eigenes Glückshufeisen schmieden und anschließend ein regionales Vulkan-Picknick an den beeindruckenden Basaltformationen des Feldatals genießen. **für WEN:** Perfekt für erlebnishungrige Paare und Naturbegeisterte, die traditionelles Ha",
+        "text": "**WAS:** Erleben Sie ein geführtes E-Bike-Picknick durch das romantische Feldatal mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten. **fuer WEN:** Ideal für Paare und Naturgenießer, die die sanfte Vulkanlandschaft ohne große Anstrengung erkunden und entspannt im Grünen schlemmen möchten. **ERSTER SCHRITT:** Wählen Sie auf unsere",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Einkaufs- und Alltagsbegleitdienst, der ältere Menschen in den Ortsteilen direkt zu Hause besucht, frische Lebensmittel bringt, bei Besorgungen unterstützt und Zeit für ein zugewandtes Gespräch mitbringt. **WARUM HIER:** In den sieben verstreuten Dörfern von Feldatal gibt es kaum noch fußläufige Nahversorgung, weshalb dieser fahrende Die",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -552,9 +548,9 @@
       "name": "Vulkanregion-Tourismus — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: „Romrod bei Nacht: Fackel-Romantik & Schloss-Aperitif“** * **WAS:** Ein abendlicher, geführter Fackelspaziergang durch den Schlosspark und die historischen Gassen von Romrod mit anschließender Verkostun",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-romrod",
@@ -588,63 +584,63 @@
       "name": "Direktvermarktung — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Feldataler Feierabend-Kiste“ ist ein wöchentliches Abo-Paket mit frischem Saison-Gemüse, Eiern, Kartoffeln und Vogelsberger Wurstspezialitäten, das kontaktlos an einer zentralen Abholstation im Ort bereitst",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-feldatal",
       "name": "Vulkanregion-Tourismus — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Feuer & Basalt“ ist ein vierstündiges Mikro-Abenteuer, bei dem Sie im historischen Schmiedemuseum Groß-Felda Ihr eigenes Glückshufeisen schmieden und anschließend ein regionales Vulkan-Picknick an den beeindruc",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-feldatal",
       "name": "Senioren-Alltagsdienste — Feldatal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Einkaufs- und Alltagsbegleitdienst, der ältere Menschen in den Ortsteilen direkt zu Hause besucht, frische Lebensmittel bringt, bei Besorgungen unterstützt und Zeit für ein zugewandtes Gespräch mitbr",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-gemuenden-felda",
       "name": "Chancen-Scout — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein app-basierter, kontaktloser 24/7-Verleih von robusten PKW-Anhängern (speziell für Grünschnitt-, Brennholz- und Baustofftransporte) direkt im Ort. **WARUM HIER:** Im weitläufigen Feldatal besitzen fast alle H",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-gemuenden-felda",
       "name": "Handwerk-Sichtbarkeit — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbauer (SHK-Betrieb)**. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn in Gemünden die Heizung ausfällt oder ein Bad renoviert wird, suchen die Leute heute auf de",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-gemuenden-felda",
       "name": "Direktvermarktung — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentlich wechselnde „Vogelsberger Feierabend-Kiste“ mit frischem Saison-Gemüse, heimischen Kartoffeln und ehrlichem Landbrot, die unkompliziert rund um die Uhr in einem hölzernen Abhol-Unterstand am Hof ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-gemuenden-felda",
       "name": "Vulkanregion-Tourismus — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erleben Sie ein geführtes E-Bike-Picknick durch das romantische Feldatal mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten. **fuer WEN:** Ideal für Paare und Naturgenießer, die die ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-gemuenden-felda",
@@ -1503,32 +1499,48 @@
     }
   ],
   "budget": {
-    "used": 19,
+    "used": 24,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-feldatal",
+      "dept": "Chancen",
+      "agent": "tourismus-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Einkaufs- und Alltagsbegleitdienst, der ältere Menschen in den Ortsteilen direkt zu Hause besucht, frische Lebensmittel bringt, bei Besorgungen unterstützt und Zeit für ein zugewandtes Gespräch mitbringt. **WARUM HIER:** In den sieben verstreuten Dörfern von Feldatal gibt es kaum noch fußläufige Nahversorgung, weshalb dieser fahrende Die",
-      "ts": "2026-10-17 16:25",
+      "text": "**WAS:** Erleben Sie ein geführtes E-Bike-Picknick durch das romantische Feldatal mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten. **fuer WEN:** Ideal für Paare und Naturgenießer, die die sanfte Vulkanlandschaft ohne große Anstrengung erkunden und entspannt im Grünen schlemmen möchten. **ERSTER SCHRITT:** Wählen Sie auf unsere",
+      "ts": "2026-10-17 18:42",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-feldatal",
+      "agent": "direkt-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** „Feuer & Basalt“ ist ein vierstündiges Mikro-Abenteuer, bei dem Sie im historischen Schmiedemuseum Groß-Felda Ihr eigenes Glückshufeisen schmieden und anschließend ein regionales Vulkan-Picknick an den beeindruckenden Basaltformationen des Feldatals genießen. **für WEN:** Perfekt für erlebnishungrige Paare und Naturbegeisterte, die traditionelles Ha",
-      "ts": "2026-10-17 16:25",
+      "text": "**WAS:** Eine wöchentlich wechselnde „Vogelsberger Feierabend-Kiste“ mit frischem Saison-Gemüse, heimischen Kartoffeln und ehrlichem Landbrot, die unkompliziert rund um die Uhr in einem hölzernen Abhol-Unterstand am Hof bereitsteht. **fuer WEN:** Für beschäftigte Familien und Pendler aus Gemünden und den umliegenden Dörfern, die nach Feierabend ohne Zeitdruc",
+      "ts": "2026-10-17 18:42",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-romrod",
+      "agent": "direkt-feldatal",
       "via": "gemini",
-      "text": "**Erlebnis-Paket: „Romrod bei Nacht: Fackel-Romantik & Schloss-Aperitif“** * **WAS:** Ein abendlicher, geführter Fackelspaziergang durch den Schlosspark und die historischen Gassen von Romrod mit anschließender Verkostung regionaler Vogelsberger Spezialitäten im stimmungsvollen Schlossinnenhof. * **fuer WEN:** Perfekt für Paare und kleine Gruppen, die eine r",
-      "ts": "2026-10-17 16:25",
+      "text": "**WAS:** Die „Feldataler Feierabend-Kiste“ ist ein wöchentliches Abo-Paket mit frischem Saison-Gemüse, Eiern, Kartoffeln und Vogelsberger Wurstspezialitäten, das kontaktlos an einer zentralen Abholstation im Ort bereitsteht. **FÜR WEN:** Für berufstätige Pendler und Familien aus Feldatal und Umgebung, die unter der Woche wenig Zeit haben, aber ehrliche Leben",
+      "ts": "2026-10-17 18:42",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-gemuenden-felda",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbauer (SHK-Betrieb)**. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn in Gemünden die Heizung ausfällt oder ein Bad renoviert wird, suchen die Leute heute auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Nummer direkt ganz oben steht und die lukrativen Aufträge im Ort bleiben, statt an Bet",
+      "ts": "2026-10-17 18:42",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-gemuenden-felda",
+      "via": "gemini",
+      "text": "**WAS:** Ein app-basierter, kontaktloser 24/7-Verleih von robusten PKW-Anhängern (speziell für Grünschnitt-, Brennholz- und Baustofftransporte) direkt im Ort. **WARUM HIER:** Im weitläufigen Feldatal besitzen fast alle Haushalte große Gärten oder Kaminholzbedarf, doch für den nächsten gewerblichen Anhängerverleih muss man derzeit bis nach Alsfeld fahren. **E",
+      "ts": "2026-10-17 18:42",
       "age_min": 0
     }
   ]
