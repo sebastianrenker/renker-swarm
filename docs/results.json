@@ -1,111 +1,57 @@
 {
-  "updated": "2026-10-17 13:13 UTC",
-  "total_results": 6,
+  "updated": "2026-10-17 16:25 UTC",
+  "total_results": 3,
   "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-feldatal",
-      "title": "Handwerk-Sichtbarkeit — Feldatal  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer \n\n**Ansprache-Idee:** „Damit bei einer kaputten Heizung oder einem Badumbau in Feldatal nicht die Konkurrenz aus Alsfeld angerufen wird, sorgen wir dafür, dass Ihr Betrieb bei Google auf dem Smartphone sofort an erster Stelle steht.“",
-      "ts": "2026-10-17 13:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-feldatal",
-      "title": "Chancen-Scout — Feldatal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Allround-Hausmeister- und Alltagshilfedienst für Kleinreparaturen, Gartenpflege und Besorgungsfahrten für die ältere Bevölkerung in den Feldataler Ortsteilen.\n\n**WARUM HIER:** Durch die demografische Alterung und die weitläufige Struktur der Gemeinde herrscht im Feldatal ein hoher, ungedeckter Bedarf an pragmatischer Hilfe direkt an der Haustür, da viele klassische Handwerksbetriebe für Kleinstaufträge gar nicht mehr anfahren.\n\n**ERSTER SCHRITT:** Ein Kleingewerbe anmelden, einen Flyer mit konkreten Festpreisen für Rasenmähen, Rinnenreinigung und Besorgungen erstellen und diesen im Nahkauf Groß-Felda sowie direkt in den Briefkästen der Ortsteile verteilen.",
-      "ts": "2026-10-17 13:12",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-romrod",
-      "title": "Senioren-Alltagsdienste — Romrod  ·  Kunden",
+      "agent": "senioren-feldatal",
+      "title": "Senioren-Alltagsdienste — Feldatal  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Dorf-Fahrdienst und Einkaufsbegleiter, der ältere Menschen aus allen fünf Ortsteilen von Romrod direkt an der Haustür abholt, zu Terminen begleitet und wieder sicher nach Hause bringt.\n\n**WARUM HIER:** Da in den kleineren, verstreuten Ortsteilen wie Stornfels oder Zell Geschäfte und medizinische Versorgung fehlen, sichert dieser Dienst die Eigenständigkeit der Senioren in ihrer vertrauten Heimat ohne Zwang zum eigenen Auto.\n\n**ERSTER SCHRITT:** Gemeinsam mit dem Seniorenbeirat der Stadt Romrod wird eine zentrale Telefonnummer eingerichtet und über das städtische Mitteilungsblatt nach freiwilligen Fahrerinnen und Fahrern gesucht.",
-      "ts": "2026-10-17 13:12",
+      "text": "**WAS:** \nEin mobiler Einkaufs- und Alltagsbegleitdienst, der ältere Menschen in den Ortsteilen direkt zu Hause besucht, frische Lebensmittel bringt, bei Besorgungen unterstützt und Zeit für ein zugewandtes Gespräch mitbringt.\n\n**WARUM HIER:** \nIn den sieben verstreuten Dörfern von Feldatal gibt es kaum noch fußläufige Nahversorgung, weshalb dieser fahrende Dienst Selbstständigkeit im gewohnten Zuhause bewahrt und sozialer Isolation vorbeugt.\n\n**ERSTER SCHRITT:** \nIn Abstimmung mit der Gemeinde Feldatal wird über das Mitteilungsblatt eine einfache Bedarfsabfrage gestartet, um Interessen zu bündeln und erste feste Touren durch die Ortsteile zu planen.",
+      "ts": "2026-10-17 16:25",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-romrod",
-      "title": "Direktvermarktung — Romrod  ·  Chancen",
+      "agent": "tourismus-feldatal",
+      "title": "Vulkanregion-Tourismus — Feldatal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit ehrlichen Grundnahrungsmitteln wie frischem Brot, Eiern, Käse und Saison-Gemüse, das kontaktlos rund um die Uhr an einer zentralen Abholstation in Romrod bereitsteht.\n\n**für WEN:** Für berufstätige Pendler und Familien aus Romrod und den Ortsteilen, die Wert auf regionale Produkte legen, aber unter der Woche keine Zeit für Klapper-Touren von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** Drei feste Partner-Höfe aus dem Umkreis und einen lokalen Bäcker an einen Tisch holen, um den Inhalt für eine vierwöchige Testphase mit 15 Test-Haushalten festzuzurren.",
-      "ts": "2026-10-17 13:12",
+      "text": "**WAS:** „Feuer & Basalt“ ist ein vierstündiges Mikro-Abenteuer, bei dem Sie im historischen Schmiedemuseum Groß-Felda Ihr eigenes Glückshufeisen schmieden und anschließend ein regionales Vulkan-Picknick an den beeindruckenden Basaltformationen des Feldatals genießen.\n\n**für WEN:** Perfekt für erlebnishungrige Paare und Naturbegeisterte, die traditionelles Handwerk hautnah ausprobieren und die feurige Geschichte des Vogelsbergs entschleunigt entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie Ihren Wunschtermin direkt in unserem Online-Kalender aus und sichern Sie sich mit wenigen Klicks Ihren Platz am Schmiedefeuer.",
+      "ts": "2026-10-17 16:25",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-romrod",
-      "title": "Handwerk-Sichtbarkeit — Romrod  ·  Chancen",
+      "agent": "tourismus-romrod",
+      "title": "Vulkanregion-Tourismus — Romrod  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:**  \nEin **SHK-Betrieb (Heizung, Sanitär, Klima)** in Romrod.\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo [Name], wenn Eigentümer hier in Romrod und den Ortsteilen nach einer neuen Wärmepumpe oder einem Notdienst googeln, finden sie aktuell meist nur die Konkurrenz aus Alsfeld – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge direkt vor Ihrer Haustür wieder bei Ihnen landen.“",
-      "ts": "2026-10-17 13:12",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-romrod",
-      "title": "Chancen-Scout — Romrod  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein lokaler Event-Concierge- und Notfall-Shuttle-Service speziell für die zahlreichen Hochzeits- und Tagungsgäste auf Schloss Romrod.\n\n**WARUM HIER:** Schloss Romrod zieht ganzjährig überregionale, kaufkräftige Kundschaft an, der es vor Ort an spontanen Dienstleistern für Last-Minute-Besorgungen, Fahrtdienste ins Umland oder schnelle Deko-Hilfen fehlt.\n\n**ERSTER SCHRITT:** Führe ein Gespräch mit der Schloss-Eventleitung, um die häufigsten spontanen Gästewünsche zu erfragen, und erstelle daraufhin ein einfaches Service-Menü auf Kommissionsbasis.",
-      "ts": "2026-10-17 13:12",
+      "text": "**Erlebnis-Paket: „Romrod bei Nacht: Fackel-Romantik & Schloss-Aperitif“**\n\n* **WAS:** Ein abendlicher, geführter Fackelspaziergang durch den Schlosspark und die historischen Gassen von Romrod mit anschließender Verkostung regionaler Vogelsberger Spezialitäten im stimmungsvollen Schlossinnenhof.\n* **fuer WEN:** Perfekt für Paare und kleine Gruppen, die eine romantische Auszeit suchen und Geschichte mit regionalem Genuss verbinden möchten.\n* **ERSTER SCHRITT:** Wählen Sie online Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnis-Ticket mit wenigen Klicks auf unserer Buchungsseite.",
+      "ts": "2026-10-17 16:25",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 5,
+      "count": 2,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-feldatal",
-          "title": "Handwerk-Sichtbarkeit — Feldatal  ·  Chancen",
+          "agent": "tourismus-feldatal",
+          "title": "Vulkanregion-Tourismus — Feldatal  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer \n\n**Ansprache-Idee:** „Damit bei einer kaputten Heizung oder einem Badumbau in Feldatal nicht die Konkurrenz aus Alsfeld angerufen wird, sorgen wir dafür, dass Ihr Betrieb bei Google auf dem Smartphone sofort an erster Stelle steht.“",
-          "ts": "2026-10-17 13:13",
+          "text": "**WAS:** „Feuer & Basalt“ ist ein vierstündiges Mikro-Abenteuer, bei dem Sie im historischen Schmiedemuseum Groß-Felda Ihr eigenes Glückshufeisen schmieden und anschließend ein regionales Vulkan-Picknick an den beeindruckenden Basaltformationen des Feldatals genießen.\n\n**für WEN:** Perfekt für erlebnishungrige Paare und Naturbegeisterte, die traditionelles Handwerk hautnah ausprobieren und die feurige Geschichte des Vogelsbergs entschleunigt entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie Ihren Wunschtermin direkt in unserem Online-Kalender aus und sichern Sie sich mit wenigen Klicks Ihren Platz am Schmiedefeuer.",
+          "ts": "2026-10-17 16:25",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-feldatal",
-          "title": "Chancen-Scout — Feldatal  ·  Chancen",
+          "agent": "tourismus-romrod",
+          "title": "Vulkanregion-Tourismus — Romrod  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Allround-Hausmeister- und Alltagshilfedienst für Kleinreparaturen, Gartenpflege und Besorgungsfahrten für die ältere Bevölkerung in den Feldataler Ortsteilen.\n\n**WARUM HIER:** Durch die demografische Alterung und die weitläufige Struktur der Gemeinde herrscht im Feldatal ein hoher, ungedeckter Bedarf an pragmatischer Hilfe direkt an der Haustür, da viele klassische Handwerksbetriebe für Kleinstaufträge gar nicht mehr anfahren.\n\n**ERSTER SCHRITT:** Ein Kleingewerbe anmelden, einen Flyer mit konkreten Festpreisen für Rasenmähen, Rinnenreinigung und Besorgungen erstellen und diesen im Nahkauf Groß-Felda sowie direkt in den Briefkästen der Ortsteile verteilen.",
-          "ts": "2026-10-17 13:12",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-romrod",
-          "title": "Direktvermarktung — Romrod  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit ehrlichen Grundnahrungsmitteln wie frischem Brot, Eiern, Käse und Saison-Gemüse, das kontaktlos rund um die Uhr an einer zentralen Abholstation in Romrod bereitsteht.\n\n**für WEN:** Für berufstätige Pendler und Familien aus Romrod und den Ortsteilen, die Wert auf regionale Produkte legen, aber unter der Woche keine Zeit für Klapper-Touren von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** Drei feste Partner-Höfe aus dem Umkreis und einen lokalen Bäcker an einen Tisch holen, um den Inhalt für eine vierwöchige Testphase mit 15 Test-Haushalten festzuzurren.",
-          "ts": "2026-10-17 13:12",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-romrod",
-          "title": "Handwerk-Sichtbarkeit — Romrod  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:**  \nEin **SHK-Betrieb (Heizung, Sanitär, Klima)** in Romrod.\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo [Name], wenn Eigentümer hier in Romrod und den Ortsteilen nach einer neuen Wärmepumpe oder einem Notdienst googeln, finden sie aktuell meist nur die Konkurrenz aus Alsfeld – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge direkt vor Ihrer Haustür wieder bei Ihnen landen.“",
-          "ts": "2026-10-17 13:12",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-romrod",
-          "title": "Chancen-Scout — Romrod  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein lokaler Event-Concierge- und Notfall-Shuttle-Service speziell für die zahlreichen Hochzeits- und Tagungsgäste auf Schloss Romrod.\n\n**WARUM HIER:** Schloss Romrod zieht ganzjährig überregionale, kaufkräftige Kundschaft an, der es vor Ort an spontanen Dienstleistern für Last-Minute-Besorgungen, Fahrtdienste ins Umland oder schnelle Deko-Hilfen fehlt.\n\n**ERSTER SCHRITT:** Führe ein Gespräch mit der Schloss-Eventleitung, um die häufigsten spontanen Gästewünsche zu erfragen, und erstelle daraufhin ein einfaches Service-Menü auf Kommissionsbasis.",
-          "ts": "2026-10-17 13:12",
+          "text": "**Erlebnis-Paket: „Romrod bei Nacht: Fackel-Romantik & Schloss-Aperitif“**\n\n* **WAS:** Ein abendlicher, geführter Fackelspaziergang durch den Schlosspark und die historischen Gassen von Romrod mit anschließender Verkostung regionaler Vogelsberger Spezialitäten im stimmungsvollen Schlossinnenhof.\n* **fuer WEN:** Perfekt für Paare und kleine Gruppen, die eine romantische Auszeit suchen und Geschichte mit regionalem Genuss verbinden möchten.\n* **ERSTER SCHRITT:** Wählen Sie online Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnis-Ticket mit wenigen Klicks auf unserer Buchungsseite.",
+          "ts": "2026-10-17 16:25",
           "age_min": 0
         }
       ]
@@ -116,11 +62,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-romrod",
-          "title": "Senioren-Alltagsdienste — Romrod  ·  Kunden",
+          "agent": "senioren-feldatal",
+          "title": "Senioren-Alltagsdienste — Feldatal  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Dorf-Fahrdienst und Einkaufsbegleiter, der ältere Menschen aus allen fünf Ortsteilen von Romrod direkt an der Haustür abholt, zu Terminen begleitet und wieder sicher nach Hause bringt.\n\n**WARUM HIER:** Da in den kleineren, verstreuten Ortsteilen wie Stornfels oder Zell Geschäfte und medizinische Versorgung fehlen, sichert dieser Dienst die Eigenständigkeit der Senioren in ihrer vertrauten Heimat ohne Zwang zum eigenen Auto.\n\n**ERSTER SCHRITT:** Gemeinsam mit dem Seniorenbeirat der Stadt Romrod wird eine zentrale Telefonnummer eingerichtet und über das städtische Mitteilungsblatt nach freiwilligen Fahrerinnen und Fahrern gesucht.",
-          "ts": "2026-10-17 13:12",
+          "text": "**WAS:** \nEin mobiler Einkaufs- und Alltagsbegleitdienst, der ältere Menschen in den Ortsteilen direkt zu Hause besucht, frische Lebensmittel bringt, bei Besorgungen unterstützt und Zeit für ein zugewandtes Gespräch mitbringt.\n\n**WARUM HIER:** \nIn den sieben verstreuten Dörfern von Feldatal gibt es kaum noch fußläufige Nahversorgung, weshalb dieser fahrende Dienst Selbstständigkeit im gewohnten Zuhause bewahrt und sozialer Isolation vorbeugt.\n\n**ERSTER SCHRITT:** \nIn Abstimmung mit der Gemeinde Feldatal wird über das Mitteilungsblatt eine einfache Bedarfsabfrage gestartet, um Interessen zu bündeln und erste feste Touren durch die Ortsteile zu planen.",
+          "ts": "2026-10-17 16:25",
           "age_min": 0
         }
       ]
