@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-17T20:59Z",
+  "updated": "2026-10-17T22:58Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -26,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Fahr- und Besorgungsdienst, der Senioren nicht nur verlässlich zu Einkäufen oder Arztterminen begleitet, sondern auch Zeit für ein persönliches Gespräch und kleine Handreichungen im Haus mitbringt. **WARUM HIER:** Da die sieben Ortsteile von Gemünden (Felda) weit auseinanderliegen und Nahversorger vor Ort weitgehend fehlen, ermöglicht di",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -647,9 +643,9 @@
       "name": "Senioren-Alltagsdienste — Gemuenden (Felda)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Fahr- und Besorgungsdienst, der Senioren nicht nur verlässlich zu Einkäufen oder Arztterminen begleitet, sondern auch Zeit für ein persönliches Gespräch und kleine Handreichungen im Haus mitbringt. *",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-freiensteinau",
@@ -1502,14 +1498,5 @@
     "used": 25,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-gemuenden-felda",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Fahr- und Besorgungsdienst, der Senioren nicht nur verlässlich zu Einkäufen oder Arztterminen begleitet, sondern auch Zeit für ein persönliches Gespräch und kleine Handreichungen im Haus mitbringt. **WARUM HIER:** Da die sieben Ortsteile von Gemünden (Felda) weit auseinanderliegen und Nahversorger vor Ort weitgehend fehlen, ermöglicht di",
-      "ts": "2026-10-17 20:59",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }

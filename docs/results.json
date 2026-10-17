@@ -1,33 +1,7 @@
 {
-  "updated": "2026-10-17 20:59 UTC",
-  "total_results": 1,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-gemuenden-felda",
-      "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:**  \nEin mobiler Fahr- und Besorgungsdienst, der Senioren nicht nur verlässlich zu Einkäufen oder Arztterminen begleitet, sondern auch Zeit für ein persönliches Gespräch und kleine Handreichungen im Haus mitbringt.\n\n**WARUM HIER:**  \nDa die sieben Ortsteile von Gemünden (Felda) weit auseinanderliegen und Nahversorger vor Ort weitgehend fehlen, ermöglicht dieser Service ein würdevolles Leben im eigenen Zuhause ohne lange, beschwerliche Wege.\n\n**ERSTER SCHRITT:**  \nIn Zusammenarbeit mit den Ortsvorstehern wird eine einfache Anrufzentrale im Gemeindebüro eingerichtet, um Bedarfe unbürokratisch zu erfassen und erste verlässliche Routen zu planen.",
-      "ts": "2026-10-17 20:59",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-gemuenden-felda",
-          "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:**  \nEin mobiler Fahr- und Besorgungsdienst, der Senioren nicht nur verlässlich zu Einkäufen oder Arztterminen begleitet, sondern auch Zeit für ein persönliches Gespräch und kleine Handreichungen im Haus mitbringt.\n\n**WARUM HIER:**  \nDa die sieben Ortsteile von Gemünden (Felda) weit auseinanderliegen und Nahversorger vor Ort weitgehend fehlen, ermöglicht dieser Service ein würdevolles Leben im eigenen Zuhause ohne lange, beschwerliche Wege.\n\n**ERSTER SCHRITT:**  \nIn Zusammenarbeit mit den Ortsvorstehern wird eine einfache Anrufzentrale im Gemeindebüro eingerichtet, um Bedarfe unbürokratisch zu erfassen und erste verlässliche Routen zu planen.",
-          "ts": "2026-10-17 20:59",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-10-17 22:58 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }
