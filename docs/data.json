@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-17T01:02Z",
+  "updated": "2026-10-17T05:35Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein autarker, schlüsselloser Mietanhänger-Service für Privatpersonen und Kleingewerbe mit vollautomatischer 24/7-Onlinebuchung über das Smartphone. **WARUM HIER:** Mücke bietet durch die direkte A5-Anschlussstelle Atzenhain und die hohe Dichte an Eigenheimen mit Garten ideale Voraussetzungen, hat aber bisher keinen flexiblen Transportverleih vor Ort",
+        "text": "**Betriebstyp:** **Sanitär- und Heizungsfachbetrieb** (mit Fokus auf Wärmepumpen-Modernisierung und Kundendienst in den Ortsteilen von Mücke). **Ansprache-Idee:** „Wenn die Mücker nach einer neuen Wärmepumpe suchen oder die Heizung streikt, finden sie bei Google meist Betriebe aus Grünberg oder Gießen – lassen Sie uns dafür sorgen, dass diese lukrativen Auft",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Begleitdienst, der Senioren aus den Kirtorfer Ortsteilen würdevoll und ohne Zeitdruck zu Einkäufen, Arztterminen oder zum gemeinsamen Kaffee im Kernort bringt. **WARUM HIER:** Da die sechs Kirtorfer Ortsteile weit auseinanderliegen und die Busanbindungen spärlich sind, schließt dieser Dienst die Lücke",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -435,63 +431,63 @@
       "name": "Chancen-Scout — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein schlanker, mobiler Hausmeister- und Gartenpflegedienst, der Senioren in Kirtorf und seinen sieben Ortsteilen bei der alltäglichen Instandhaltung ihrer Häuser und Grundstücke unterstützt. **WARUM HIER:** In d",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-kirtorf",
       "name": "Handwerk-Sichtbarkeit — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbau-Betrieb** in Kirtorf. **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung streikt oder eine neue Wärmepumpe geplant wird, greifen die Leute sofort zum Smartphone – ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-kirtorf",
       "name": "Direktvermarktung — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Kirtorfer Feierabend-Box“ mit knackigem Saison-Gemüse, frischen Eiern und Hausmacher-Spezialitäten von heimischen Höfen, die kontaktlos an einer gekühlten 24/7-Abholstation an der B62 bereitst",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-kirtorf",
       "name": "Vulkanregion-Tourismus — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Paket „Vulkan-Picknick & E-Bike-Genuss-Tour“ umfasst die Miete hochwertiger E-Bikes, eine digitale Erlebniskarte zu geologischen Highlights rund um Kirtorf sowie einen Rucksack voll regionaler Vogelsberger S",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-kirtorf",
       "name": "Senioren-Alltagsdienste — Kirtorf",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Begleitdienst, der Senioren aus den Kirtorfer Ortsteilen würdevoll und ohne Zeitdruck zu Einkäufen, Arztterminen oder zum gemeinsamen Kaffee im Kernort bringt. **",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-muecke",
       "name": "Chancen-Scout — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein autarker, schlüsselloser Mietanhänger-Service für Privatpersonen und Kleingewerbe mit vollautomatischer 24/7-Onlinebuchung über das Smartphone. **WARUM HIER:** Mücke bietet durch die direkte A5-Anschlussstel",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-muecke",
       "name": "Handwerk-Sichtbarkeit — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** **Sanitär- und Heizungsfachbetrieb** (mit Fokus auf Wärmepumpen-Modernisierung und Kundendienst in den Ortsteilen von Mücke). **Ansprache-Idee:** „Wenn die Mücker nach einer neuen Wärmepumpe suchen oder ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-muecke",
@@ -1503,56 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 7,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-muecke",
+      "agent": "handwerk-muecke",
       "via": "gemini",
-      "text": "**WAS:** Ein autarker, schlüsselloser Mietanhänger-Service für Privatpersonen und Kleingewerbe mit vollautomatischer 24/7-Onlinebuchung über das Smartphone. **WARUM HIER:** Mücke bietet durch die direkte A5-Anschlussstelle Atzenhain und die hohe Dichte an Eigenheimen mit Garten ideale Voraussetzungen, hat aber bisher keinen flexiblen Transportverleih vor Ort",
-      "ts": "2026-10-17 01:02",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Begleitdienst, der Senioren aus den Kirtorfer Ortsteilen würdevoll und ohne Zeitdruck zu Einkäufen, Arztterminen oder zum gemeinsamen Kaffee im Kernort bringt. **WARUM HIER:** Da die sechs Kirtorfer Ortsteile weit auseinanderliegen und die Busanbindungen spärlich sind, schließt dieser Dienst die Lücke",
-      "ts": "2026-10-17 01:02",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Das Paket „Vulkan-Picknick & E-Bike-Genuss-Tour“ umfasst die Miete hochwertiger E-Bikes, eine digitale Erlebniskarte zu geologischen Highlights rund um Kirtorf sowie einen Rucksack voll regionaler Vogelsberger Spezialitäten für eine Rast im Grünen. **für WEN:** Dieses Angebot richtet sich an Paare, Naturgenießer und kleine Gruppen, die die Vulkanreg",
-      "ts": "2026-10-17 01:02",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Kirtorfer Feierabend-Box“ mit knackigem Saison-Gemüse, frischen Eiern und Hausmacher-Spezialitäten von heimischen Höfen, die kontaktlos an einer gekühlten 24/7-Abholstation an der B62 bereitsteht. **für WEN:** Für berufstätige Pendler und beschäftigte Familien aus Kirtorf und Umgebung, die trotz wenig Zeit Wert auf ehrliche, regio",
-      "ts": "2026-10-17 01:02",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-kirtorf",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbau-Betrieb** in Kirtorf. **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung streikt oder eine neue Wärmepumpe geplant wird, greifen die Leute sofort zum Smartphone – sorgen wir dafür, dass Ihr Betrieb bei Google direkt ganz oben steht, bevor der Kunde beim Notdienst im Nachbarort anruft.“",
-      "ts": "2026-10-17 01:02",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Ein schlanker, mobiler Hausmeister- und Gartenpflegedienst, der Senioren in Kirtorf und seinen sieben Ortsteilen bei der alltäglichen Instandhaltung ihrer Häuser und Grundstücke unterstützt. **WARUM HIER:** In den Kirtorfer Ortsteilen gibt es einen hohen Anteil älterer Eigenheimbesitzer, deren Kinder oft weggezogen sind und für deren Kleinstaufträge",
-      "ts": "2026-10-17 01:02",
+      "text": "**Betriebstyp:** **Sanitär- und Heizungsfachbetrieb** (mit Fokus auf Wärmepumpen-Modernisierung und Kundendienst in den Ortsteilen von Mücke). **Ansprache-Idee:** „Wenn die Mücker nach einer neuen Wärmepumpe suchen oder die Heizung streikt, finden sie bei Google meist Betriebe aus Grünberg oder Gießen – lassen Sie uns dafür sorgen, dass diese lukrativen Auft",
+      "ts": "2026-10-17 05:35",
       "age_min": 0
     }
   ]
