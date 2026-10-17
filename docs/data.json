@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-17T09:40Z",
+  "updated": "2026-10-17T13:13Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** „Erze, Basalt & Brotzeit“: Eine E-Bike-Entdeckertour zu den historischen Erzgruben rund um Mücke inklusive eines prall gefüllten Vogelsberger Picknickkorbs. **fuer WEN:** Ideal für Genussradler, Paare und kleine Gruppen, die regionale Vulkan- und Bergbaugeschichte aktiv mit kulinarischem Genuss verbinden möchten. **ERSTER SCHRITT:** Wähle auf unsere",
+        "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Damit bei einer kaputten Heizung oder einem Badumbau in Feldatal nicht die Konkurrenz aus Alsfeld angerufen wird, sorgen wir dafür, dass Ihr Betrieb bei Google auf dem Smartphone sofort an erster Stelle steht.“",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler, verlässlicher Einkaufs- und Begleitdienst, der Senioren direkt an der eigenen Haustür abholt, individuell bei Gängen zu Ärzten oder Supermärkten unterstützt und sicher wieder nach Hause bringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht und Geschäfte des täglichen Bedarfs oft nur in den größeren Zentren liege",
+        "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Dorf-Fahrdienst und Einkaufsbegleiter, der ältere Menschen aus allen fünf Ortsteilen von Romrod direkt an der Haustür abholt, zu Terminen begleitet und wieder sicher nach Hause bringt. **WARUM HIER:** Da in den kleineren, verstreuten Ortsteilen wie Stornfels oder Zell Geschäfte und medizinische Versorgun",
         "age_min": 0
       }
     },
@@ -498,54 +498,54 @@
       "name": "Direktvermarktung — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist eine wöchentliche Frische-Box mit ehrlichen Hofprodukten wie Eiern, Käse, Brot und Saison-Gemüse, die freitags zur unkomplizierten Abholung an einer zentralen Station am B",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-muecke",
       "name": "Vulkanregion-Tourismus — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Erze, Basalt & Brotzeit“: Eine E-Bike-Entdeckertour zu den historischen Erzgruben rund um Mücke inklusive eines prall gefüllten Vogelsberger Picknickkorbs. **fuer WEN:** Ideal für Genussradler, Paare und kleine",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-muecke",
       "name": "Senioren-Alltagsdienste — Muecke",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler, verlässlicher Einkaufs- und Begleitdienst, der Senioren direkt an der eigenen Haustür abholt, individuell bei Gängen zu Ärzten oder Supermärkten unterstützt und sicher wieder nach Hause bringt. **WA",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-romrod",
       "name": "Chancen-Scout — Romrod",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein lokaler Event-Concierge- und Notfall-Shuttle-Service speziell für die zahlreichen Hochzeits- und Tagungsgäste auf Schloss Romrod. **WARUM HIER:** Schloss Romrod zieht ganzjährig überregionale, kaufkräftige K",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-romrod",
       "name": "Handwerk-Sichtbarkeit — Romrod",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **SHK-Betrieb (Heizung, Sanitär, Klima)** in Romrod. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigentümer hier in Romrod und den Ortsteilen nach einer neuen Wärmepumpe oder einem Notdienst goo",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-romrod",
       "name": "Direktvermarktung — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit ehrlichen Grundnahrungsmitteln wie frischem Brot, Eiern, Käse und Saison-Gemüse, das kontaktlos rund um die Uhr an einer zentralen Abholstatio",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-romrod",
@@ -561,27 +561,27 @@
       "name": "Senioren-Alltagsdienste — Romrod",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Dorf-Fahrdienst und Einkaufsbegleiter, der ältere Menschen aus allen fünf Ortsteilen von Romrod direkt an der Haustür abholt, zu Terminen begleitet und wieder sicher",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-feldatal",
       "name": "Chancen-Scout — Feldatal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Allround-Hausmeister- und Alltagshilfedienst für Kleinreparaturen, Gartenpflege und Besorgungsfahrten für die ältere Bevölkerung in den Feldataler Ortsteilen. **WARUM HIER:** Durch die demografische ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-feldatal",
       "name": "Handwerk-Sichtbarkeit — Feldatal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Damit bei einer kaputten Heizung oder einem Badumbau in Feldatal nicht die Konkurrenz aus Alsfeld angerufen wird, sorgen wir dafür, dass Ihr Betrieb bei Go",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-feldatal",
@@ -1503,32 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 16,
     "cap": 600
   },
   "recent": [
     {
+      "dept": "Chancen",
+      "agent": "handwerk-feldatal",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Damit bei einer kaputten Heizung oder einem Badumbau in Feldatal nicht die Konkurrenz aus Alsfeld angerufen wird, sorgen wir dafür, dass Ihr Betrieb bei Google auf dem Smartphone sofort an erster Stelle steht.“",
+      "ts": "2026-10-17 13:13",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-feldatal",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Allround-Hausmeister- und Alltagshilfedienst für Kleinreparaturen, Gartenpflege und Besorgungsfahrten für die ältere Bevölkerung in den Feldataler Ortsteilen. **WARUM HIER:** Durch die demografische Alterung und die weitläufige Struktur der Gemeinde herrscht im Feldatal ein hoher, ungedeckter Bedarf an pragmatischer Hilfe direkt an der H",
+      "ts": "2026-10-17 13:12",
+      "age_min": 0
+    },
+    {
       "dept": "Kunden",
-      "agent": "senioren-muecke",
+      "agent": "senioren-romrod",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler, verlässlicher Einkaufs- und Begleitdienst, der Senioren direkt an der eigenen Haustür abholt, individuell bei Gängen zu Ärzten oder Supermärkten unterstützt und sicher wieder nach Hause bringt. **WARUM HIER:** Da Mücke aus zwölf weit verstreuten Ortsteilen besteht und Geschäfte des täglichen Bedarfs oft nur in den größeren Zentren liege",
-      "ts": "2026-10-17 09:40",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Dorf-Fahrdienst und Einkaufsbegleiter, der ältere Menschen aus allen fünf Ortsteilen von Romrod direkt an der Haustür abholt, zu Terminen begleitet und wieder sicher nach Hause bringt. **WARUM HIER:** Da in den kleineren, verstreuten Ortsteilen wie Stornfels oder Zell Geschäfte und medizinische Versorgun",
+      "ts": "2026-10-17 13:12",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-muecke",
+      "agent": "direkt-romrod",
       "via": "gemini",
-      "text": "**WAS:** „Erze, Basalt & Brotzeit“: Eine E-Bike-Entdeckertour zu den historischen Erzgruben rund um Mücke inklusive eines prall gefüllten Vogelsberger Picknickkorbs. **fuer WEN:** Ideal für Genussradler, Paare und kleine Gruppen, die regionale Vulkan- und Bergbaugeschichte aktiv mit kulinarischem Genuss verbinden möchten. **ERSTER SCHRITT:** Wähle auf unsere",
-      "ts": "2026-10-17 09:40",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit ehrlichen Grundnahrungsmitteln wie frischem Brot, Eiern, Käse und Saison-Gemüse, das kontaktlos rund um die Uhr an einer zentralen Abholstation in Romrod bereitsteht. **für WEN:** Für berufstätige Pendler und Familien aus Romrod und den Ortsteilen, die Wert auf regionale Produkte l",
+      "ts": "2026-10-17 13:12",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-muecke",
+      "agent": "handwerk-romrod",
       "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist eine wöchentliche Frische-Box mit ehrlichen Hofprodukten wie Eiern, Käse, Brot und Saison-Gemüse, die freitags zur unkomplizierten Abholung an einer zentralen Station am Bahnhof Mücke bereitsteht. **fuer WEN:** Das Angebot richtet sich an Berufspendler und vielbeschäftigte Familien aus Mücke und den benachbart",
-      "ts": "2026-10-17 09:40",
+      "text": "**Betriebstyp:** Ein **SHK-Betrieb (Heizung, Sanitär, Klima)** in Romrod. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigentümer hier in Romrod und den Ortsteilen nach einer neuen Wärmepumpe oder einem Notdienst googeln, finden sie aktuell meist nur die Konkurrenz aus Alsfeld – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge direkt vor Ihrer H",
+      "ts": "2026-10-17 13:12",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-romrod",
+      "via": "gemini",
+      "text": "**WAS:** Ein lokaler Event-Concierge- und Notfall-Shuttle-Service speziell für die zahlreichen Hochzeits- und Tagungsgäste auf Schloss Romrod. **WARUM HIER:** Schloss Romrod zieht ganzjährig überregionale, kaufkräftige Kundschaft an, der es vor Ort an spontanen Dienstleistern für Last-Minute-Besorgungen, Fahrtdienste ins Umland oder schnelle Deko-Hilfen fehl",
+      "ts": "2026-10-17 13:12",
       "age_min": 0
     }
   ]
