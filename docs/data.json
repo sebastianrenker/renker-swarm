@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-18T13:34Z",
+  "updated": "2026-10-18T16:56Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Bei der „Vulkan-Sternenstunde“ erleben Sie ein abendliches Picknick auf der Burgruine Ulrichstein mit einem gefüllten Korb voller regionaler Bio-Köstlichkeiten, Leih-Fernglas und digitaler Sternenkarte. **für WEN:** Dieses Angebot richtet sich an Romantiker und Naturgenießer, die den ungestörten Nachthimmel über Hessens höchstgelegener Stadt in unge",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Dorf-Begleitdienst holt ältere Menschen direkt an der Haustür ab, begleitet sie würdevoll zum Einkaufen oder Arzt und unterstützt auf Wunsch bei kleinen Handreichen im Alltag. **WARUM HIER:** In den zwölf weit verstreuten Ortsteilen von Freiensteinau ohne eigene Nahversorgung ist dieser vertraute Fahr- und Hilfeservice der Schlüssel, um ",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -679,54 +687,54 @@
       "name": "Vulkanregion-Tourismus — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & Seen-Cruising“ umfasst eine selbstgeführte E-Bike-Miet-Tour entlang der idyllischen Freiensteinauer Seenplatte inklusive eines prall gefüllten Picknickkorbs mit regionalen V",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-freiensteinau",
       "name": "Senioren-Alltagsdienste — Freiensteinau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Dorf-Begleitdienst holt ältere Menschen direkt an der Haustür ab, begleitet sie würdevoll zum Einkaufen oder Arzt und unterstützt auf Wunsch bei kleinen Handreichen im Alltag. **WARUM HIER:** In den ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-ulrichstein",
       "name": "Chancen-Scout — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Proviantdienst auf E-Lastenrad-Basis für Tagestouristen an der Burgruine Schlossberg und den umliegenden Wanderwegen. **WARUM HIER:** Als höchstgelegene Stadt Hessens zieht Ulrichs",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-ulrichstein",
       "name": "Handwerk-Sichtbarkeit — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb **Ansprache-Idee:** „Wenn im Vogelsberger Winter die Heizung ausfällt, greifen die Leute direkt zum Handy – sorgen wir dafür, dass Ihr Betrieb in Ulrichstein sofort gefun",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-ulrichstein",
       "name": "Direktvermarktung — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Höhen-Kiste“ ist ein monatliches Abo-Paket vollgepackt mit ehrlichem Weiderindfleisch, deftiger Hausmacher-Wurst, Vogelsberger Kartoffeln und frischem Landbrot direkt aus der Nachbarschaft. **f",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-ulrichstein",
       "name": "Vulkanregion-Tourismus — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei der „Vulkan-Sternenstunde“ erleben Sie ein abendliches Picknick auf der Burgruine Ulrichstein mit einem gefüllten Korb voller regionaler Bio-Köstlichkeiten, Leih-Fernglas und digitaler Sternenkarte. **für WE",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-ulrichstein",
@@ -1495,8 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 3,
+    "used": 9,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-ulrichstein",
+      "via": "gemini",
+      "text": "**WAS:** Bei der „Vulkan-Sternenstunde“ erleben Sie ein abendliches Picknick auf der Burgruine Ulrichstein mit einem gefüllten Korb voller regionaler Bio-Köstlichkeiten, Leih-Fernglas und digitaler Sternenkarte. **für WEN:** Dieses Angebot richtet sich an Romantiker und Naturgenießer, die den ungestörten Nachthimmel über Hessens höchstgelegener Stadt in unge",
+      "ts": "2026-10-18 16:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-ulrichstein",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Höhen-Kiste“ ist ein monatliches Abo-Paket vollgepackt mit ehrlichem Weiderindfleisch, deftiger Hausmacher-Wurst, Vogelsberger Kartoffeln und frischem Landbrot direkt aus der Nachbarschaft. **für WEN:** Für beschäftigte Familien und Pendler rund um Ulrichstein, die Wert auf bodenständige Essenstradition legen, aber unter der Woche ",
+      "ts": "2026-10-18 16:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-ulrichstein",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb **Ansprache-Idee:** „Wenn im Vogelsberger Winter die Heizung ausfällt, greifen die Leute direkt zum Handy – sorgen wir dafür, dass Ihr Betrieb in Ulrichstein sofort gefunden wird, bevor der Kunde den Notdienst aus der nächsten Kreisstadt anruft.“",
+      "ts": "2026-10-18 16:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-ulrichstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Proviantdienst auf E-Lastenrad-Basis für Tagestouristen an der Burgruine Schlossberg und den umliegenden Wanderwegen. **WARUM HIER:** Als höchstgelegene Stadt Hessens zieht Ulrichstein viele Outdoor-Touristen an, hat aber direkt an den Hauptaussichtspunkten keine flexiblen Gastronomie- oder Servicestationen. **ERSTER S",
+      "ts": "2026-10-18 16:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-freiensteinau",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst holt ältere Menschen direkt an der Haustür ab, begleitet sie würdevoll zum Einkaufen oder Arzt und unterstützt auf Wunsch bei kleinen Handreichen im Alltag. **WARUM HIER:** In den zwölf weit verstreuten Ortsteilen von Freiensteinau ohne eigene Nahversorgung ist dieser vertraute Fahr- und Hilfeservice der Schlüssel, um ",
+      "ts": "2026-10-18 16:55",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-freiensteinau",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & Seen-Cruising“ umfasst eine selbstgeführte E-Bike-Miet-Tour entlang der idyllischen Freiensteinauer Seenplatte inklusive eines prall gefüllten Picknickkorbs mit regionalen Vogelsberger Delikatessen. **für WEN:** Dieses Angebot richtet sich an Genussradler, Paare und Naturbegeisterte, die die ruhige Vulkanlandsch",
+      "ts": "2026-10-18 16:55",
+      "age_min": 0
+    }
+  ]
 }
