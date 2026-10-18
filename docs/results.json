@@ -1,33 +1,7 @@
 {
-  "updated": "2026-10-18 05:11 UTC",
-  "total_results": 1,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-freiensteinau",
-      "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nEine wetterfeste 24/7-Abholstation an der Durchgangsstraße mit einer wöchentlich wechselnden „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Eiern und Saison-Gemüse von Erzeugern aus Freiensteinau und Umgebung.\n\n**für WEN:** \nFür Berufspendler, beschäftigte Familien und Anwohner der Ortsteile, die nach Feierabend ohne Aufwand ehrliche, regionale Lebensmittel für die Woche mitnehmen möchten.\n\n**ERSTER SCHRITT:** \nDrei bis vier örtliche Landwirte und den Bäcker an einen Tisch holen, um ein bodenständiges Start-Sortiment festzulegen und einen verkehrsgünstigen Stellplatz für die Abholbox zu pachten.",
-      "ts": "2026-10-18 05:11",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "direkt-freiensteinau",
-          "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nEine wetterfeste 24/7-Abholstation an der Durchgangsstraße mit einer wöchentlich wechselnden „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Eiern und Saison-Gemüse von Erzeugern aus Freiensteinau und Umgebung.\n\n**für WEN:** \nFür Berufspendler, beschäftigte Familien und Anwohner der Ortsteile, die nach Feierabend ohne Aufwand ehrliche, regionale Lebensmittel für die Woche mitnehmen möchten.\n\n**ERSTER SCHRITT:** \nDrei bis vier örtliche Landwirte und den Bäcker an einen Tisch holen, um ein bodenständiges Start-Sortiment festzulegen und einen verkehrsgünstigen Stellplatz für die Abholbox zu pachten.",
-          "ts": "2026-10-18 05:11",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-10-18 09:36 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }

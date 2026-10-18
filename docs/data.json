@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-18T05:11Z",
+  "updated": "2026-10-18T09:36Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Eine wetterfeste 24/7-Abholstation an der Durchgangsstraße mit einer wöchentlich wechselnden „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Eiern und Saison-Gemüse von Erzeugern aus Freiensteinau und Umgebung. **für WEN:** Für Berufspendler, beschäftigte Familien und Anwohner der Ortsteile, die nach Feieraben",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -674,9 +670,9 @@
       "name": "Direktvermarktung — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wetterfeste 24/7-Abholstation an der Durchgangsstraße mit einer wöchentlich wechselnden „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Eiern und Saison-Gemüse von Er",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-freiensteinau",
@@ -1502,14 +1498,5 @@
     "used": 3,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-freiensteinau",
-      "via": "gemini",
-      "text": "**WAS:** Eine wetterfeste 24/7-Abholstation an der Durchgangsstraße mit einer wöchentlich wechselnden „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Eiern und Saison-Gemüse von Erzeugern aus Freiensteinau und Umgebung. **für WEN:** Für Berufspendler, beschäftigte Familien und Anwohner der Ortsteile, die nach Feieraben",
-      "ts": "2026-10-18 05:11",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
