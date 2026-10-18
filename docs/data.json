@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:12Z",
+  "updated": "2026-10-18T21:31Z",
   "agents_total": 162,
   "worked": 1,
   "departments": [
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler, digital buchbarer Instandhaltungs- und Hofpflegeservice speziell für weitläufige Dorfgrundstücke, Fachwerkanwesen und Gärten in den Schwalmtaler Ortsteilen. **WARUM HIER:** In Schwalmtal treffen viele pflegeintensive Altbauten und große Grundstücke auf berufstätige A5-Pendler mit wenig Zeit sowie eine älter werdende Bevölkerung, die sch",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Lieferdienst („Höhen-Mobil“), der ältere Menschen würdevoll aus allen Ortsteilen zum Arzt oder Einkauf begleitet und bei Bedarf Schweres bis in die Küche trägt. **WARUM HIER:** In Ulrichstein – der höchstgelegenen Stadt Hessens – erschweren steile Wege, weit verstreute Dörfer und raue Vogelsberger Win",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -737,18 +737,18 @@
       "name": "Senioren-Alltagsdienste — Ulrichstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Lieferdienst („Höhen-Mobil“), der ältere Menschen würdevoll aus allen Ortsteilen zum Arzt oder Einkauf begleitet und bei Bedarf Schweres bis in die Küche trägt. *",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-schwalmtal",
       "name": "Chancen-Scout — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler, digital buchbarer Instandhaltungs- und Hofpflegeservice speziell für weitläufige Dorfgrundstücke, Fachwerkanwesen und Gärten in den Schwalmtaler Ortsteilen. **WARUM HIER:** In Schwalmtal treffen vie",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-schwalmtal",
@@ -1499,16 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 11,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-ulrichstein",
+      "dept": "Chancen",
+      "agent": "chancen-schwalmtal",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Lieferdienst („Höhen-Mobil“), der ältere Menschen würdevoll aus allen Ortsteilen zum Arzt oder Einkauf begleitet und bei Bedarf Schweres bis in die Küche trägt. **WARUM HIER:** In Ulrichstein – der höchstgelegenen Stadt Hessens – erschweren steile Wege, weit verstreute Dörfer und raue Vogelsberger Win",
-      "ts": "2026-10-18 19:12",
+      "text": "**WAS:** Ein mobiler, digital buchbarer Instandhaltungs- und Hofpflegeservice speziell für weitläufige Dorfgrundstücke, Fachwerkanwesen und Gärten in den Schwalmtaler Ortsteilen. **WARUM HIER:** In Schwalmtal treffen viele pflegeintensive Altbauten und große Grundstücke auf berufstätige A5-Pendler mit wenig Zeit sowie eine älter werdende Bevölkerung, die sch",
+      "ts": "2026-10-18 21:31",
       "age_min": 0
     }
   ]

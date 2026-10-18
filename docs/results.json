@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-18 19:12 UTC",
+  "updated": "2026-10-18 21:31 UTC",
   "total_results": 1,
   "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-ulrichstein",
-      "title": "Senioren-Alltagsdienste — Ulrichstein  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "chancen-schwalmtal",
+      "title": "Chancen-Scout — Schwalmtal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Lieferdienst („Höhen-Mobil“), der ältere Menschen würdevoll aus allen Ortsteilen zum Arzt oder Einkauf begleitet und bei Bedarf Schweres bis in die Küche trägt.\n\n**WARUM HIER:** In Ulrichstein – der höchstgelegenen Stadt Hessens – erschweren steile Wege, weit verstreute Dörfer und raue Vogelsberger Winter die eigenständige Versorgung im Alter ganz besonders.\n\n**ERSTER SCHRITT:** Gemeinsam mit dem Seniorenbeirat und lokalen Vereinen ein Auftakttreffen veranstalten, um Bedarfe feinfühlig zu erfassen und hilfsbereite Nachbarinnen und Nachbarn mit wetterfesten Fahrzeugen einzubinden.",
-      "ts": "2026-10-18 19:12",
+      "text": "**WAS:** Ein mobiler, digital buchbarer Instandhaltungs- und Hofpflegeservice speziell für weitläufige Dorfgrundstücke, Fachwerkanwesen und Gärten in den Schwalmtaler Ortsteilen.\n\n**WARUM HIER:** In Schwalmtal treffen viele pflegeintensive Altbauten und große Grundstücke auf berufstätige A5-Pendler mit wenig Zeit sowie eine älter werdende Bevölkerung, die schwere Außenarbeiten nicht mehr selbst stemmen kann.\n\n**ERSTER SCHRITT:** Drei klare Festpreis-Pakete (z. B. „Hof & Rinne“, „Grünschnitt & Holz“) schnüren und diese direkt im Schwalmtaler Mitteilungsblatt sowie über Aushänge in Brauerschwend und Storndorf vermarkten.",
+      "ts": "2026-10-18 21:31",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Kunden",
+      "id": "Chancen",
       "count": 1,
       "items": [
         {
-          "dept": "Kunden",
-          "agent": "senioren-ulrichstein",
-          "title": "Senioren-Alltagsdienste — Ulrichstein  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "chancen-schwalmtal",
+          "title": "Chancen-Scout — Schwalmtal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Lieferdienst („Höhen-Mobil“), der ältere Menschen würdevoll aus allen Ortsteilen zum Arzt oder Einkauf begleitet und bei Bedarf Schweres bis in die Küche trägt.\n\n**WARUM HIER:** In Ulrichstein – der höchstgelegenen Stadt Hessens – erschweren steile Wege, weit verstreute Dörfer und raue Vogelsberger Winter die eigenständige Versorgung im Alter ganz besonders.\n\n**ERSTER SCHRITT:** Gemeinsam mit dem Seniorenbeirat und lokalen Vereinen ein Auftakttreffen veranstalten, um Bedarfe feinfühlig zu erfassen und hilfsbereite Nachbarinnen und Nachbarn mit wetterfesten Fahrzeugen einzubinden.",
-          "ts": "2026-10-18 19:12",
+          "text": "**WAS:** Ein mobiler, digital buchbarer Instandhaltungs- und Hofpflegeservice speziell für weitläufige Dorfgrundstücke, Fachwerkanwesen und Gärten in den Schwalmtaler Ortsteilen.\n\n**WARUM HIER:** In Schwalmtal treffen viele pflegeintensive Altbauten und große Grundstücke auf berufstätige A5-Pendler mit wenig Zeit sowie eine älter werdende Bevölkerung, die schwere Außenarbeiten nicht mehr selbst stemmen kann.\n\n**ERSTER SCHRITT:** Drei klare Festpreis-Pakete (z. B. „Hof & Rinne“, „Grünschnitt & Holz“) schnüren und diese direkt im Schwalmtaler Mitteilungsblatt sowie über Aushänge in Brauerschwend und Storndorf vermarkten.",
+          "ts": "2026-10-18 21:31",
           "age_min": 0
         }
       ]
