@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-17T22:58Z",
+  "updated": "2026-10-18T00:44Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder ein modernes Bad geplant wird, suchen die Leute heute auf dem Smartphone – finden die Freiensteinauer dann direkt Ihren Betrieb oder die Konkurrenz aus Schlüchtern und Lauterbach?“",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -652,18 +656,18 @@
       "name": "Chancen-Scout — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobiler Verleih einer Holzofen-Fasssauna auf Anhängerbasis für Tages- und Wochenendmieten direkt vor die Haustür oder ans Ferienhaus. **WARUM HIER:** Freiensteinau profitiert stark vom Natur- und Campingtourismu",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-freiensteinau",
       "name": "Handwerk-Sichtbarkeit — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder ein modernes Bad geplant wird, suchen die Leute heute auf dem Smartphone – finden die Freiensteinauer ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-freiensteinau",
@@ -1495,8 +1499,25 @@
     }
   ],
   "budget": {
-    "used": 25,
+    "used": 2,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-freiensteinau",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder ein modernes Bad geplant wird, suchen die Leute heute auf dem Smartphone – finden die Freiensteinauer dann direkt Ihren Betrieb oder die Konkurrenz aus Schlüchtern und Lauterbach?“",
+      "ts": "2026-10-18 00:44",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-freiensteinau",
+      "via": "gemini",
+      "text": "**WAS:** Mobiler Verleih einer Holzofen-Fasssauna auf Anhängerbasis für Tages- und Wochenendmieten direkt vor die Haustür oder ans Ferienhaus. **WARUM HIER:** Freiensteinau profitiert stark vom Natur- und Campingtourismus rund um den Nieder-Mooser See, bietet für die kältere Nebensaison jedoch kaum flexible Wellness-Angebote für Ferienhausgäste und Einheimis",
+      "ts": "2026-10-18 00:44",
+      "age_min": 0
+    }
+  ]
 }

@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-17 22:58 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-18 00:44 UTC",
+  "total_results": 2,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-freiensteinau",
+      "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Wenn im Vogelsberg die Heizung ausfällt oder ein modernes Bad geplant wird, suchen die Leute heute auf dem Smartphone – finden die Freiensteinauer dann direkt Ihren Betrieb oder die Konkurrenz aus Schlüchtern und Lauterbach?“",
+      "ts": "2026-10-18 00:44",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-freiensteinau",
+      "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nMobiler Verleih einer Holzofen-Fasssauna auf Anhängerbasis für Tages- und Wochenendmieten direkt vor die Haustür oder ans Ferienhaus.\n\n**WARUM HIER:** \nFreiensteinau profitiert stark vom Natur- und Campingtourismus rund um den Nieder-Mooser See, bietet für die kältere Nebensaison jedoch kaum flexible Wellness-Angebote für Ferienhausgäste und Einheimische.\n\n**ERSTER SCHRITT:** \nEinen gebrauchsfähigen Saunawagen anschaffen und Kooperationsflyer bei den örtlichen Ferienhausvermietern sowie am Campingplatz Nieder-Mooser See auslegen.",
+      "ts": "2026-10-18 00:44",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-freiensteinau",
+          "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Wenn im Vogelsberg die Heizung ausfällt oder ein modernes Bad geplant wird, suchen die Leute heute auf dem Smartphone – finden die Freiensteinauer dann direkt Ihren Betrieb oder die Konkurrenz aus Schlüchtern und Lauterbach?“",
+          "ts": "2026-10-18 00:44",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-freiensteinau",
+          "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nMobiler Verleih einer Holzofen-Fasssauna auf Anhängerbasis für Tages- und Wochenendmieten direkt vor die Haustür oder ans Ferienhaus.\n\n**WARUM HIER:** \nFreiensteinau profitiert stark vom Natur- und Campingtourismus rund um den Nieder-Mooser See, bietet für die kältere Nebensaison jedoch kaum flexible Wellness-Angebote für Ferienhausgäste und Einheimische.\n\n**ERSTER SCHRITT:** \nEinen gebrauchsfähigen Saunawagen anschaffen und Kooperationsflyer bei den örtlichen Ferienhausvermietern sowie am Campingplatz Nieder-Mooser See auslegen.",
+          "ts": "2026-10-18 00:44",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
