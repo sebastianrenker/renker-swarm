@@ -1,48 +1,30 @@
 {
-  "updated": "2026-10-18 00:44 UTC",
-  "total_results": 2,
+  "updated": "2026-10-18 05:11 UTC",
+  "total_results": 1,
   "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-freiensteinau",
-      "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+      "agent": "direkt-freiensteinau",
+      "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Wenn im Vogelsberg die Heizung ausfällt oder ein modernes Bad geplant wird, suchen die Leute heute auf dem Smartphone – finden die Freiensteinauer dann direkt Ihren Betrieb oder die Konkurrenz aus Schlüchtern und Lauterbach?“",
-      "ts": "2026-10-18 00:44",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-freiensteinau",
-      "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nMobiler Verleih einer Holzofen-Fasssauna auf Anhängerbasis für Tages- und Wochenendmieten direkt vor die Haustür oder ans Ferienhaus.\n\n**WARUM HIER:** \nFreiensteinau profitiert stark vom Natur- und Campingtourismus rund um den Nieder-Mooser See, bietet für die kältere Nebensaison jedoch kaum flexible Wellness-Angebote für Ferienhausgäste und Einheimische.\n\n**ERSTER SCHRITT:** \nEinen gebrauchsfähigen Saunawagen anschaffen und Kooperationsflyer bei den örtlichen Ferienhausvermietern sowie am Campingplatz Nieder-Mooser See auslegen.",
-      "ts": "2026-10-18 00:44",
+      "text": "**WAS:** \nEine wetterfeste 24/7-Abholstation an der Durchgangsstraße mit einer wöchentlich wechselnden „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Eiern und Saison-Gemüse von Erzeugern aus Freiensteinau und Umgebung.\n\n**für WEN:** \nFür Berufspendler, beschäftigte Familien und Anwohner der Ortsteile, die nach Feierabend ohne Aufwand ehrliche, regionale Lebensmittel für die Woche mitnehmen möchten.\n\n**ERSTER SCHRITT:** \nDrei bis vier örtliche Landwirte und den Bäcker an einen Tisch holen, um ein bodenständiges Start-Sortiment festzulegen und einen verkehrsgünstigen Stellplatz für die Abholbox zu pachten.",
+      "ts": "2026-10-18 05:11",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 1,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-freiensteinau",
-          "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+          "agent": "direkt-freiensteinau",
+          "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Wenn im Vogelsberg die Heizung ausfällt oder ein modernes Bad geplant wird, suchen die Leute heute auf dem Smartphone – finden die Freiensteinauer dann direkt Ihren Betrieb oder die Konkurrenz aus Schlüchtern und Lauterbach?“",
-          "ts": "2026-10-18 00:44",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-freiensteinau",
-          "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nMobiler Verleih einer Holzofen-Fasssauna auf Anhängerbasis für Tages- und Wochenendmieten direkt vor die Haustür oder ans Ferienhaus.\n\n**WARUM HIER:** \nFreiensteinau profitiert stark vom Natur- und Campingtourismus rund um den Nieder-Mooser See, bietet für die kältere Nebensaison jedoch kaum flexible Wellness-Angebote für Ferienhausgäste und Einheimische.\n\n**ERSTER SCHRITT:** \nEinen gebrauchsfähigen Saunawagen anschaffen und Kooperationsflyer bei den örtlichen Ferienhausvermietern sowie am Campingplatz Nieder-Mooser See auslegen.",
-          "ts": "2026-10-18 00:44",
+          "text": "**WAS:** \nEine wetterfeste 24/7-Abholstation an der Durchgangsstraße mit einer wöchentlich wechselnden „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Eiern und Saison-Gemüse von Erzeugern aus Freiensteinau und Umgebung.\n\n**für WEN:** \nFür Berufspendler, beschäftigte Familien und Anwohner der Ortsteile, die nach Feierabend ohne Aufwand ehrliche, regionale Lebensmittel für die Woche mitnehmen möchten.\n\n**ERSTER SCHRITT:** \nDrei bis vier örtliche Landwirte und den Bäcker an einen Tisch holen, um ein bodenständiges Start-Sortiment festzulegen und einen verkehrsgünstigen Stellplatz für die Abholbox zu pachten.",
+          "ts": "2026-10-18 05:11",
           "age_min": 0
         }
       ]

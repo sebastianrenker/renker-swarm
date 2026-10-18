@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-18T00:44Z",
+  "updated": "2026-10-18T05:11Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder ein modernes Bad geplant wird, suchen die Leute heute auf dem Smartphone – finden die Freiensteinauer dann direkt Ihren Betrieb oder die Konkurrenz aus Schlüchtern und Lauterbach?“",
+        "text": "**WAS:** Eine wetterfeste 24/7-Abholstation an der Durchgangsstraße mit einer wöchentlich wechselnden „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Eiern und Saison-Gemüse von Erzeugern aus Freiensteinau und Umgebung. **für WEN:** Für Berufspendler, beschäftigte Familien und Anwohner der Ortsteile, die nach Feieraben",
         "age_min": 0
       }
     },
@@ -656,27 +656,27 @@
       "name": "Chancen-Scout — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobiler Verleih einer Holzofen-Fasssauna auf Anhängerbasis für Tages- und Wochenendmieten direkt vor die Haustür oder ans Ferienhaus. **WARUM HIER:** Freiensteinau profitiert stark vom Natur- und Campingtourismu",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-freiensteinau",
       "name": "Handwerk-Sichtbarkeit — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder ein modernes Bad geplant wird, suchen die Leute heute auf dem Smartphone – finden die Freiensteinauer ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-freiensteinau",
       "name": "Direktvermarktung — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wetterfeste 24/7-Abholstation an der Durchgangsstraße mit einer wöchentlich wechselnden „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Eiern und Saison-Gemüse von Er",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-freiensteinau",
@@ -1499,24 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 2,
+    "used": 3,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-freiensteinau",
+      "agent": "direkt-freiensteinau",
       "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder ein modernes Bad geplant wird, suchen die Leute heute auf dem Smartphone – finden die Freiensteinauer dann direkt Ihren Betrieb oder die Konkurrenz aus Schlüchtern und Lauterbach?“",
-      "ts": "2026-10-18 00:44",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-freiensteinau",
-      "via": "gemini",
-      "text": "**WAS:** Mobiler Verleih einer Holzofen-Fasssauna auf Anhängerbasis für Tages- und Wochenendmieten direkt vor die Haustür oder ans Ferienhaus. **WARUM HIER:** Freiensteinau profitiert stark vom Natur- und Campingtourismus rund um den Nieder-Mooser See, bietet für die kältere Nebensaison jedoch kaum flexible Wellness-Angebote für Ferienhausgäste und Einheimis",
-      "ts": "2026-10-18 00:44",
+      "text": "**WAS:** Eine wetterfeste 24/7-Abholstation an der Durchgangsstraße mit einer wöchentlich wechselnden „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Bauernbrot, Hausmacher Wurst, Eiern und Saison-Gemüse von Erzeugern aus Freiensteinau und Umgebung. **für WEN:** Für Berufspendler, beschäftigte Familien und Anwohner der Ortsteile, die nach Feieraben",
+      "ts": "2026-10-18 05:11",
       "age_min": 0
     }
   ]
