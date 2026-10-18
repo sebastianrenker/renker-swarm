@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-18T21:31Z",
+  "updated": "2026-10-18T23:39Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler, digital buchbarer Instandhaltungs- und Hofpflegeservice speziell für weitläufige Dorfgrundstücke, Fachwerkanwesen und Gärten in den Schwalmtaler Ortsteilen. **WARUM HIER:** In Schwalmtal treffen viele pflegeintensive Altbauten und große Grundstücke auf berufstätige A5-Pendler mit wenig Zeit sowie eine älter werdende Bevölkerung, die sch",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -746,9 +742,9 @@
       "name": "Chancen-Scout — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler, digital buchbarer Instandhaltungs- und Hofpflegeservice speziell für weitläufige Dorfgrundstücke, Fachwerkanwesen und Gärten in den Schwalmtaler Ortsteilen. **WARUM HIER:** In Schwalmtal treffen vie",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-schwalmtal",
@@ -1502,14 +1498,5 @@
     "used": 11,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "chancen-schwalmtal",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler, digital buchbarer Instandhaltungs- und Hofpflegeservice speziell für weitläufige Dorfgrundstücke, Fachwerkanwesen und Gärten in den Schwalmtaler Ortsteilen. **WARUM HIER:** In Schwalmtal treffen viele pflegeintensive Altbauten und große Grundstücke auf berufstätige A5-Pendler mit wenig Zeit sowie eine älter werdende Bevölkerung, die sch",
-      "ts": "2026-10-18 21:31",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
