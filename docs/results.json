@@ -1,48 +1,126 @@
 {
-  "updated": "2026-10-19 06:53 UTC",
-  "total_results": 2,
-  "total_depts": 1,
+  "updated": "2026-10-19 14:17 UTC",
+  "total_results": 6,
+  "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-wartenberg",
-      "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-antrifttal",
+      "title": "Senioren-Alltagsdienste — Antrifttal  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** „Basalt & Brotzeit“ – Ein gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten inklusive Erlebniskarte für eine selbstgeführte Abendwanderung zur Burgruine Wartenberg.\n\n**für WEN:** Dieses Angebot richtet sich an Paare und Genusswanderer, die historische Orte mit einem romantischen Open-Air-Abendessen verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihr Wunschdatum aus und reservieren Sie Ihren frisch gepackten Picknickkorb zur Abholung in Wartenberg-Angersbach.",
-      "ts": "2026-10-19 06:53",
+      "text": "**WAS:** \nDer „Antrifttaler Nachbarschafts-Fahrdienst“ bringt ältere Menschen verlässlich zu Arztterminen, Einkäufen im nahen Alsfeld oder Seniorentreffs und schenkt dabei Zeit für persönliche Gespräche.\n\n**WARUM HIER:** \nDa die fünf verstreuten Ortsteile von Antrifttal kaum eigene Nahversorgung bieten und der öffentliche Nahverkehr spärlich ist, bewahrt dieses würdevolle Angebot die Eigenständigkeit, ohne das Gefühl zu vermitteln, der eigenen Familie zur Last zu fallen.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung ein erstes Vernetzungstreffen im DGH Ruhlkirchen organisieren, um ehrenamtliche Fahrerinnen und Fahrer zu gewinnen und den genauen Bedarf der Seniorinnen und Senioren abzufragen.",
+      "ts": "2026-10-19 14:17",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-wartenberg",
-      "title": "Direktvermarktung — Wartenberg  ·  Chancen",
+      "agent": "tourismus-antrifttal",
+      "title": "Vulkanregion-Tourismus — Antrifttal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Wartenberger Feierabend-Kiste“ mit frischem Saison-Gemüse, Hof-Eiern, Käse und einem wechselnden, pfannenfertigen Regio-Gericht zur schnellen Zubereitung.\n\n**FÜR WEN:** Für Pendler und beschäftigte Familien aus Wartenberg und Umgebung, die abends ohne großen Aufwand ehrliche, regionale Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Mit zwei bis drei Erzeugern aus der direkten Nachbarschaft sprechen und das Angebot vier Wochen lang mit 15 Test-Haushalten ausprobieren.",
-      "ts": "2026-10-19 06:53",
+      "text": "**WAS:** Das Paket „Sonnenuntergang & Picknick am Antriftstausee“ kombiniert eine entspannte E-Bike-Miet-Tour durch das Antrifttal mit einem reich gefüllten Korb voller regionaler Vogelsberger Spezialitäten für eine Rast direkt am Wasser.\n\n**fuer WEN:** Dieses Angebot richtet sich an Paare und Genussurlauber, die die idyllische Natur des Vogelsbergs aktiv und gleichzeitig kulinarisch entschleunigt erleben möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunschtermin aus und sichere dir dein Erlebnispaket mit nur wenigen Klicks.",
+      "ts": "2026-10-19 14:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-antrifttal",
+      "title": "Direktvermarktung — Antrifttal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine „Antrifttaler Feierabend-Kiste“ im flexiblen Abo mit ehrlichen Grundnahrungsmitteln – wie Kartoffeln, Eiern, Saison-Gemüse und Hausmacher Wurst direkt von Höfen aus dem Antrifttal –, die wöchentlich an einer zentralen 24/7-Abholstation bereitsteht.\n\n**für WEN:** Für berufstätige Familien und Pendler aus dem Antrifttal und der Alsfelder Umgebung, die unter der Woche wenig Zeit für Hofladen-Runden haben, aber trotzdem gut und regional kochen wollen.\n\n**ERSTER SCHRITT:** Schließe dich mit zwei lokalen Erzeugern zusammen, packt zehn Probe-Kisten mit einer einfachen Rezeptkarte für ein Vogelsberger Gerichte-Klassiker und verteilt diese zum Testen an Familien im Ort gegen ehrliches Feedback.",
+      "ts": "2026-10-19 14:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-antrifttal",
+      "title": "Handwerk-Sichtbarkeit — Antrifttal  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Damit Hausbesitzer aus Antrifttal und dem Umkreis bei der Suche nach Heizungstausch oder Bad-Sanierung direkt auf Ihrer Website landen – und nicht bei den Großbetrieben aus Alsfeld –, bringen wir Ihren Meisterbetrieb auf Google einfach und ehrlich ganz nach vorne.“",
+      "ts": "2026-10-19 14:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-antrifttal",
+      "title": "Chancen-Scout — Antrifttal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Picknickbox- und Kaffeeservice per E-Lastenrad mit regionalen Vogelsberger Produkten auf Vorbestellung für Tagestouristen, Camper und Wanderer rund um den Antriftstausee.\n\n**WARUM HIER:** Der Antriftstausee ist der zentrale Naherholungshotspot der kleinsten Vogelsberg-Gemeinde mit hohem Besucheraufkommen am Wochenende, leidet aber unter lückenhafter fixer Gastronomie.\n\n**ERSTER SCHRITT:** Mit regionalen Direktvermarktern Liefervereinbarungen treffen und bei der Gemeinde Antrifttal die Stellplatzgenehmigung für Wochenenden am Seeufer einholen.",
+      "ts": "2026-10-19 14:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-wartenberg",
+      "title": "Senioren-Alltagsdienste — Wartenberg  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Der „Wartenberger Dorfbegleiter“ ist ein verlässlicher, persönlicher Service für Besorgungen, Fahrten zum Arzt oder zum Friedhof und für helfende Hände bei kleineren Verrichtungen im eigenen Zuhause.\n\n**WARUM HIER:** Da in den weitläufigen Ortsteilen von Wartenberg die Wege zu Supermärkten und Arztpraxen ohne eigenes Auto oft zu beschwerlich sind, bewahrt dieser Dienst die geschätzte Selbstständigkeit im gewohnten Umfeld.\n\n**ERSTER SCHRITT:** Bei einem unverbindlichen Erstbesuch lernen wir uns ganz in Ruhe bei einer Tasse Kaffee kennen, um persönliche Wünsche und den genauen Bedarf abzustimmen.",
+      "ts": "2026-10-19 14:16",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 4,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-wartenberg",
-          "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
+          "agent": "tourismus-antrifttal",
+          "title": "Vulkanregion-Tourismus — Antrifttal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** „Basalt & Brotzeit“ – Ein gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten inklusive Erlebniskarte für eine selbstgeführte Abendwanderung zur Burgruine Wartenberg.\n\n**für WEN:** Dieses Angebot richtet sich an Paare und Genusswanderer, die historische Orte mit einem romantischen Open-Air-Abendessen verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihr Wunschdatum aus und reservieren Sie Ihren frisch gepackten Picknickkorb zur Abholung in Wartenberg-Angersbach.",
-          "ts": "2026-10-19 06:53",
+          "text": "**WAS:** Das Paket „Sonnenuntergang & Picknick am Antriftstausee“ kombiniert eine entspannte E-Bike-Miet-Tour durch das Antrifttal mit einem reich gefüllten Korb voller regionaler Vogelsberger Spezialitäten für eine Rast direkt am Wasser.\n\n**fuer WEN:** Dieses Angebot richtet sich an Paare und Genussurlauber, die die idyllische Natur des Vogelsbergs aktiv und gleichzeitig kulinarisch entschleunigt erleben möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunschtermin aus und sichere dir dein Erlebnispaket mit nur wenigen Klicks.",
+          "ts": "2026-10-19 14:17",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-wartenberg",
-          "title": "Direktvermarktung — Wartenberg  ·  Chancen",
+          "agent": "direkt-antrifttal",
+          "title": "Direktvermarktung — Antrifttal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Eine wöchentliche „Wartenberger Feierabend-Kiste“ mit frischem Saison-Gemüse, Hof-Eiern, Käse und einem wechselnden, pfannenfertigen Regio-Gericht zur schnellen Zubereitung.\n\n**FÜR WEN:** Für Pendler und beschäftigte Familien aus Wartenberg und Umgebung, die abends ohne großen Aufwand ehrliche, regionale Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Mit zwei bis drei Erzeugern aus der direkten Nachbarschaft sprechen und das Angebot vier Wochen lang mit 15 Test-Haushalten ausprobieren.",
-          "ts": "2026-10-19 06:53",
+          "text": "**WAS:** Eine „Antrifttaler Feierabend-Kiste“ im flexiblen Abo mit ehrlichen Grundnahrungsmitteln – wie Kartoffeln, Eiern, Saison-Gemüse und Hausmacher Wurst direkt von Höfen aus dem Antrifttal –, die wöchentlich an einer zentralen 24/7-Abholstation bereitsteht.\n\n**für WEN:** Für berufstätige Familien und Pendler aus dem Antrifttal und der Alsfelder Umgebung, die unter der Woche wenig Zeit für Hofladen-Runden haben, aber trotzdem gut und regional kochen wollen.\n\n**ERSTER SCHRITT:** Schließe dich mit zwei lokalen Erzeugern zusammen, packt zehn Probe-Kisten mit einer einfachen Rezeptkarte für ein Vogelsberger Gerichte-Klassiker und verteilt diese zum Testen an Familien im Ort gegen ehrliches Feedback.",
+          "ts": "2026-10-19 14:16",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-antrifttal",
+          "title": "Handwerk-Sichtbarkeit — Antrifttal  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Damit Hausbesitzer aus Antrifttal und dem Umkreis bei der Suche nach Heizungstausch oder Bad-Sanierung direkt auf Ihrer Website landen – und nicht bei den Großbetrieben aus Alsfeld –, bringen wir Ihren Meisterbetrieb auf Google einfach und ehrlich ganz nach vorne.“",
+          "ts": "2026-10-19 14:16",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-antrifttal",
+          "title": "Chancen-Scout — Antrifttal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Picknickbox- und Kaffeeservice per E-Lastenrad mit regionalen Vogelsberger Produkten auf Vorbestellung für Tagestouristen, Camper und Wanderer rund um den Antriftstausee.\n\n**WARUM HIER:** Der Antriftstausee ist der zentrale Naherholungshotspot der kleinsten Vogelsberg-Gemeinde mit hohem Besucheraufkommen am Wochenende, leidet aber unter lückenhafter fixer Gastronomie.\n\n**ERSTER SCHRITT:** Mit regionalen Direktvermarktern Liefervereinbarungen treffen und bei der Gemeinde Antrifttal die Stellplatzgenehmigung für Wochenenden am Seeufer einholen.",
+          "ts": "2026-10-19 14:16",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-antrifttal",
+          "title": "Senioren-Alltagsdienste — Antrifttal  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nDer „Antrifttaler Nachbarschafts-Fahrdienst“ bringt ältere Menschen verlässlich zu Arztterminen, Einkäufen im nahen Alsfeld oder Seniorentreffs und schenkt dabei Zeit für persönliche Gespräche.\n\n**WARUM HIER:** \nDa die fünf verstreuten Ortsteile von Antrifttal kaum eigene Nahversorgung bieten und der öffentliche Nahverkehr spärlich ist, bewahrt dieses würdevolle Angebot die Eigenständigkeit, ohne das Gefühl zu vermitteln, der eigenen Familie zur Last zu fallen.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung ein erstes Vernetzungstreffen im DGH Ruhlkirchen organisieren, um ehrenamtliche Fahrerinnen und Fahrer zu gewinnen und den genauen Bedarf der Seniorinnen und Senioren abzufragen.",
+          "ts": "2026-10-19 14:17",
+          "age_min": 0
+        },
+        {
+          "dept": "Kunden",
+          "agent": "senioren-wartenberg",
+          "title": "Senioren-Alltagsdienste — Wartenberg  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Der „Wartenberger Dorfbegleiter“ ist ein verlässlicher, persönlicher Service für Besorgungen, Fahrten zum Arzt oder zum Friedhof und für helfende Hände bei kleineren Verrichtungen im eigenen Zuhause.\n\n**WARUM HIER:** Da in den weitläufigen Ortsteilen von Wartenberg die Wege zu Supermärkten und Arztpraxen ohne eigenes Auto oft zu beschwerlich sind, bewahrt dieser Dienst die geschätzte Selbstständigkeit im gewohnten Umfeld.\n\n**ERSTER SCHRITT:** Bei einem unverbindlichen Erstbesuch lernen wir uns ganz in Ruhe bei einer Tasse Kaffee kennen, um persönliche Wünsche und den genauen Bedarf abzustimmen.",
+          "ts": "2026-10-19 14:16",
           "age_min": 0
         }
       ]
