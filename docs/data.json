@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-19T01:43Z",
+  "updated": "2026-10-19T06:53Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (Fokus auf Badrenovierung & Heizungstausch) **Ansprache-Idee:** „Hallo Herr [Name], wenn in Wartenberg ein Bad saniert werden soll oder im Winter die Heizung streikt, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt Ihren Meisterbetrieb anrufen und nicht die Konkurrenz aus Erding oder ",
+        "text": "**WAS:** „Basalt & Brotzeit“ – Ein gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten inklusive Erlebniskarte für eine selbstgeführte Abendwanderung zur Burgruine Wartenberg. **für WEN:** Dieses Angebot richtet sich an Paare und Genusswanderer, die historische Orte mit einem romantischen Open-Air-Abendessen verbinden möchten. **ERSTER SCHRITT:*",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein persönlicher, mobiler Dorf-Begleitservice unterstützt Seniorinnen und Senioren individuell bei Einkäufen, Arztbesuchen und Behördengängen, ohne ihre Eigenständigkeit zu untergraben. **WARUM HIER:** In Schwalmtal liegen viele kleine Ortsteile isoliert von den Versorgungskernen Waldniel und Amern, wodurch einfache Alltagswege ohne eigenes Fahrzeug",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -759,72 +755,72 @@
       "name": "Handwerk-Sichtbarkeit — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) in Schwalmtal. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Schwalmtaler Hausbesitzer aktuell online nach einer neuen Wärmepumpe oder Badsanierung suchen, ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-schwalmtal",
       "name": "Direktvermarktung — Schwalmtal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine „Schwalmtaler Feierabend-Kiste“ als Wochenabo mit saisonalem Gemüse, Eiern und einem einfachen Hof-Rezept, die donnerstags an zentralen Abholstationen in Waldniel und Amern bereitsteht. **fuer WEN:** Für be",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-schwalmtal",
       "name": "Vulkanregion-Tourismus — Schwalmtal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Vulkan-Vesper & Pedelec“ – Eine geführte E-Bike-Halbtagestour durch das malerische Schwalmtal zur Burgruine Hopfgarten inklusive eines reich gefüllten Picknickkorbs mit regionalen Spezialitäten aus dem Vogelsbe",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-schwalmtal",
       "name": "Senioren-Alltagsdienste — Schwalmtal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein persönlicher, mobiler Dorf-Begleitservice unterstützt Seniorinnen und Senioren individuell bei Einkäufen, Arztbesuchen und Behördengängen, ohne ihre Eigenständigkeit zu untergraben. **WARUM HIER:** In Schwal",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-wartenberg",
       "name": "Chancen-Scout — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Wartungsservice, der Räder morgens direkt am Bahnhof Angersbach entgegennimmt und bis zur Rückkunft der Pendler am Abend gewartet übergibt. **WARUM HIER:** Wartenberg hat durch di",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-wartenberg",
       "name": "Handwerk-Sichtbarkeit — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer (Fokus auf Badrenovierung & Heizungstausch) **Ansprache-Idee:** „Hallo Herr [Name], wenn in Wartenberg ein Bad saniert werden soll oder im Winter die Heizung streikt, suchen di",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-wartenberg",
       "name": "Direktvermarktung — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Wartenberger Feierabend-Kiste“ mit frischem Saison-Gemüse, Hof-Eiern, Käse und einem wechselnden, pfannenfertigen Regio-Gericht zur schnellen Zubereitung. **FÜR WEN:** Für Pendler und beschäft",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-wartenberg",
       "name": "Vulkanregion-Tourismus — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Basalt & Brotzeit“ – Ein gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten inklusive Erlebniskarte für eine selbstgeführte Abendwanderung zur Burgruine Wartenberg. **für WEN:** Dieses Angebot ric",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-wartenberg",
@@ -1503,56 +1499,24 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 8,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-wartenberg",
+      "agent": "tourismus-wartenberg",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (Fokus auf Badrenovierung & Heizungstausch) **Ansprache-Idee:** „Hallo Herr [Name], wenn in Wartenberg ein Bad saniert werden soll oder im Winter die Heizung streikt, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt Ihren Meisterbetrieb anrufen und nicht die Konkurrenz aus Erding oder ",
-      "ts": "2026-10-19 01:43",
+      "text": "**WAS:** „Basalt & Brotzeit“ – Ein gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten inklusive Erlebniskarte für eine selbstgeführte Abendwanderung zur Burgruine Wartenberg. **für WEN:** Dieses Angebot richtet sich an Paare und Genusswanderer, die historische Orte mit einem romantischen Open-Air-Abendessen verbinden möchten. **ERSTER SCHRITT:*",
+      "ts": "2026-10-19 06:53",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-wartenberg",
+      "agent": "direkt-wartenberg",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Wartungsservice, der Räder morgens direkt am Bahnhof Angersbach entgegennimmt und bis zur Rückkunft der Pendler am Abend gewartet übergibt. **WARUM HIER:** Wartenberg hat durch die direkte Bahnanbindung nach Fulda viele Fahrrad-Pendler und profitiert vom Vulkanradweg-Tourismus, verfügt aktuell aber über keinen eigenen",
-      "ts": "2026-10-19 01:43",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-schwalmtal",
-      "via": "gemini",
-      "text": "**WAS:** Ein persönlicher, mobiler Dorf-Begleitservice unterstützt Seniorinnen und Senioren individuell bei Einkäufen, Arztbesuchen und Behördengängen, ohne ihre Eigenständigkeit zu untergraben. **WARUM HIER:** In Schwalmtal liegen viele kleine Ortsteile isoliert von den Versorgungskernen Waldniel und Amern, wodurch einfache Alltagswege ohne eigenes Fahrzeug",
-      "ts": "2026-10-19 01:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-schwalmtal",
-      "via": "gemini",
-      "text": "**WAS:** „Vulkan-Vesper & Pedelec“ – Eine geführte E-Bike-Halbtagestour durch das malerische Schwalmtal zur Burgruine Hopfgarten inklusive eines reich gefüllten Picknickkorbs mit regionalen Spezialitäten aus dem Vogelsberg. **FÜR WEN:** Das Paket richtet sich an Genussradler, Paare und kleine Gruppen, die aktive Naturerholung ohne große Anstrengung mit regio",
-      "ts": "2026-10-19 01:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-schwalmtal",
-      "via": "gemini",
-      "text": "**WAS:** Eine „Schwalmtaler Feierabend-Kiste“ als Wochenabo mit saisonalem Gemüse, Eiern und einem einfachen Hof-Rezept, die donnerstags an zentralen Abholstationen in Waldniel und Amern bereitsteht. **fuer WEN:** Für berufstätige Pendler und Familien aus der Gemeinde, die frische Niederrhein-Produkte wollen, aber unter der Woche keine Zeit für Klappermarch ",
-      "ts": "2026-10-19 01:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-schwalmtal",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) in Schwalmtal. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Schwalmtaler Hausbesitzer aktuell online nach einer neuen Wärmepumpe oder Badsanierung suchen, landen sie meist bei der Konkurrenz aus Mönchengladbach oder Viersen – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge bei Ihnen",
-      "ts": "2026-10-19 01:42",
+      "text": "**WAS:** Eine wöchentliche „Wartenberger Feierabend-Kiste“ mit frischem Saison-Gemüse, Hof-Eiern, Käse und einem wechselnden, pfannenfertigen Regio-Gericht zur schnellen Zubereitung. **FÜR WEN:** Für Pendler und beschäftigte Familien aus Wartenberg und Umgebung, die abends ohne großen Aufwand ehrliche, regionale Lebensmittel auf dem Tisch haben wollen. **ERS",
+      "ts": "2026-10-19 06:53",
       "age_min": 0
     }
   ]

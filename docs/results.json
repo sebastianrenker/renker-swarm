@@ -1,126 +1,48 @@
 {
-  "updated": "2026-10-19 01:43 UTC",
-  "total_results": 6,
-  "total_depts": 2,
+  "updated": "2026-10-19 06:53 UTC",
+  "total_results": 2,
+  "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-wartenberg",
-      "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
+      "agent": "tourismus-wartenberg",
+      "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (Fokus auf Badrenovierung & Heizungstausch)\n\n**Ansprache-Idee:** \n„Hallo Herr [Name], wenn in Wartenberg ein Bad saniert werden soll oder im Winter die Heizung streikt, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt Ihren Meisterbetrieb anrufen und nicht die Konkurrenz aus Erding oder Landshut.“",
-      "ts": "2026-10-19 01:43",
+      "text": "**WAS:** „Basalt & Brotzeit“ – Ein gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten inklusive Erlebniskarte für eine selbstgeführte Abendwanderung zur Burgruine Wartenberg.\n\n**für WEN:** Dieses Angebot richtet sich an Paare und Genusswanderer, die historische Orte mit einem romantischen Open-Air-Abendessen verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihr Wunschdatum aus und reservieren Sie Ihren frisch gepackten Picknickkorb zur Abholung in Wartenberg-Angersbach.",
+      "ts": "2026-10-19 06:53",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-wartenberg",
-      "title": "Chancen-Scout — Wartenberg  ·  Chancen",
+      "agent": "direkt-wartenberg",
+      "title": "Direktvermarktung — Wartenberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Wartungsservice, der Räder morgens direkt am Bahnhof Angersbach entgegennimmt und bis zur Rückkunft der Pendler am Abend gewartet übergibt.\n\n**WARUM HIER:** Wartenberg hat durch die direkte Bahnanbindung nach Fulda viele Fahrrad-Pendler und profitiert vom Vulkanradweg-Tourismus, verfügt aktuell aber über keinen eigenen Fahrradfachbetrieb im Ort.\n\n**ERSTER SCHRITT:** 50 Flyer mit einem konkreten Terminangebot für einen ersten Test-Servicetag direkt an den am Bahnhof Angersbach parkenden Fahrrädern anbringen.",
-      "ts": "2026-10-19 01:43",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-schwalmtal",
-      "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** Ein persönlicher, mobiler Dorf-Begleitservice unterstützt Seniorinnen und Senioren individuell bei Einkäufen, Arztbesuchen und Behördengängen, ohne ihre Eigenständigkeit zu untergraben.\n\n**WARUM HIER:** In Schwalmtal liegen viele kleine Ortsteile isoliert von den Versorgungskernen Waldniel und Amern, wodurch einfache Alltagswege ohne eigenes Fahrzeug für ältere Menschen schnell zu einer großen Hürde werden.\n\n**ERSTER SCHRITT:** Ein erstes Abstimmungsgespräch mit den örtlichen Nachbarschaftsnetzwerken und der Gemeindeverwaltung legt die Routen und festen Ansprechpartner für die am stärksten betroffenen Außenorte fest.",
-      "ts": "2026-10-19 01:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-schwalmtal",
-      "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** „Vulkan-Vesper & Pedelec“ – Eine geführte E-Bike-Halbtagestour durch das malerische Schwalmtal zur Burgruine Hopfgarten inklusive eines reich gefüllten Picknickkorbs mit regionalen Spezialitäten aus dem Vogelsberg.\n\n**FÜR WEN:** Das Paket richtet sich an Genussradler, Paare und kleine Gruppen, die aktive Naturerholung ohne große Anstrengung mit regionalem Kulinarik-Genuss verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnis mit nur wenigen Klicks direkt online.",
-      "ts": "2026-10-19 01:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-schwalmtal",
-      "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Eine „Schwalmtaler Feierabend-Kiste“ als Wochenabo mit saisonalem Gemüse, Eiern und einem einfachen Hof-Rezept, die donnerstags an zentralen Abholstationen in Waldniel und Amern bereitsteht.\n\n**fuer WEN:** Für berufstätige Pendler und Familien aus der Gemeinde, die frische Niederrhein-Produkte wollen, aber unter der Woche keine Zeit für Klappermarch durch verschiedene Hofläden haben.\n\n**ERSTER SCHRITT:** Drei regionale Betriebe (z. B. Gemüse-, Eier- und Kartoffelhof) an einen Tisch holen, um den Inhalt und den Preis für einen vierwöchigen Testlauf mit 20 Haushalten festzulegen.",
-      "ts": "2026-10-19 01:42",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-schwalmtal",
-      "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) in Schwalmtal.\n\n**Ansprache-Idee (1 Satz):** \n„Hallo Herr [Name], wenn Schwalmtaler Hausbesitzer aktuell online nach einer neuen Wärmepumpe oder Badsanierung suchen, landen sie meist bei der Konkurrenz aus Mönchengladbach oder Viersen – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge bei Ihnen direkt hier in der Gemeinde bleiben.“",
-      "ts": "2026-10-19 01:42",
+      "text": "**WAS:** Eine wöchentliche „Wartenberger Feierabend-Kiste“ mit frischem Saison-Gemüse, Hof-Eiern, Käse und einem wechselnden, pfannenfertigen Regio-Gericht zur schnellen Zubereitung.\n\n**FÜR WEN:** Für Pendler und beschäftigte Familien aus Wartenberg und Umgebung, die abends ohne großen Aufwand ehrliche, regionale Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Mit zwei bis drei Erzeugern aus der direkten Nachbarschaft sprechen und das Angebot vier Wochen lang mit 15 Test-Haushalten ausprobieren.",
+      "ts": "2026-10-19 06:53",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 5,
+      "count": 2,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-wartenberg",
-          "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
+          "agent": "tourismus-wartenberg",
+          "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (Fokus auf Badrenovierung & Heizungstausch)\n\n**Ansprache-Idee:** \n„Hallo Herr [Name], wenn in Wartenberg ein Bad saniert werden soll oder im Winter die Heizung streikt, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt Ihren Meisterbetrieb anrufen und nicht die Konkurrenz aus Erding oder Landshut.“",
-          "ts": "2026-10-19 01:43",
+          "text": "**WAS:** „Basalt & Brotzeit“ – Ein gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten inklusive Erlebniskarte für eine selbstgeführte Abendwanderung zur Burgruine Wartenberg.\n\n**für WEN:** Dieses Angebot richtet sich an Paare und Genusswanderer, die historische Orte mit einem romantischen Open-Air-Abendessen verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihr Wunschdatum aus und reservieren Sie Ihren frisch gepackten Picknickkorb zur Abholung in Wartenberg-Angersbach.",
+          "ts": "2026-10-19 06:53",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-wartenberg",
-          "title": "Chancen-Scout — Wartenberg  ·  Chancen",
+          "agent": "direkt-wartenberg",
+          "title": "Direktvermarktung — Wartenberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Wartungsservice, der Räder morgens direkt am Bahnhof Angersbach entgegennimmt und bis zur Rückkunft der Pendler am Abend gewartet übergibt.\n\n**WARUM HIER:** Wartenberg hat durch die direkte Bahnanbindung nach Fulda viele Fahrrad-Pendler und profitiert vom Vulkanradweg-Tourismus, verfügt aktuell aber über keinen eigenen Fahrradfachbetrieb im Ort.\n\n**ERSTER SCHRITT:** 50 Flyer mit einem konkreten Terminangebot für einen ersten Test-Servicetag direkt an den am Bahnhof Angersbach parkenden Fahrrädern anbringen.",
-          "ts": "2026-10-19 01:43",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-schwalmtal",
-          "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** „Vulkan-Vesper & Pedelec“ – Eine geführte E-Bike-Halbtagestour durch das malerische Schwalmtal zur Burgruine Hopfgarten inklusive eines reich gefüllten Picknickkorbs mit regionalen Spezialitäten aus dem Vogelsberg.\n\n**FÜR WEN:** Das Paket richtet sich an Genussradler, Paare und kleine Gruppen, die aktive Naturerholung ohne große Anstrengung mit regionalem Kulinarik-Genuss verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnis mit nur wenigen Klicks direkt online.",
-          "ts": "2026-10-19 01:42",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-schwalmtal",
-          "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Eine „Schwalmtaler Feierabend-Kiste“ als Wochenabo mit saisonalem Gemüse, Eiern und einem einfachen Hof-Rezept, die donnerstags an zentralen Abholstationen in Waldniel und Amern bereitsteht.\n\n**fuer WEN:** Für berufstätige Pendler und Familien aus der Gemeinde, die frische Niederrhein-Produkte wollen, aber unter der Woche keine Zeit für Klappermarch durch verschiedene Hofläden haben.\n\n**ERSTER SCHRITT:** Drei regionale Betriebe (z. B. Gemüse-, Eier- und Kartoffelhof) an einen Tisch holen, um den Inhalt und den Preis für einen vierwöchigen Testlauf mit 20 Haushalten festzulegen.",
-          "ts": "2026-10-19 01:42",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-schwalmtal",
-          "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK) in Schwalmtal.\n\n**Ansprache-Idee (1 Satz):** \n„Hallo Herr [Name], wenn Schwalmtaler Hausbesitzer aktuell online nach einer neuen Wärmepumpe oder Badsanierung suchen, landen sie meist bei der Konkurrenz aus Mönchengladbach oder Viersen – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge bei Ihnen direkt hier in der Gemeinde bleiben.“",
-          "ts": "2026-10-19 01:42",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-schwalmtal",
-          "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:** Ein persönlicher, mobiler Dorf-Begleitservice unterstützt Seniorinnen und Senioren individuell bei Einkäufen, Arztbesuchen und Behördengängen, ohne ihre Eigenständigkeit zu untergraben.\n\n**WARUM HIER:** In Schwalmtal liegen viele kleine Ortsteile isoliert von den Versorgungskernen Waldniel und Amern, wodurch einfache Alltagswege ohne eigenes Fahrzeug für ältere Menschen schnell zu einer großen Hürde werden.\n\n**ERSTER SCHRITT:** Ein erstes Abstimmungsgespräch mit den örtlichen Nachbarschaftsnetzwerken und der Gemeindeverwaltung legt die Routen und festen Ansprechpartner für die am stärksten betroffenen Außenorte fest.",
-          "ts": "2026-10-19 01:42",
+          "text": "**WAS:** Eine wöchentliche „Wartenberger Feierabend-Kiste“ mit frischem Saison-Gemüse, Hof-Eiern, Käse und einem wechselnden, pfannenfertigen Regio-Gericht zur schnellen Zubereitung.\n\n**FÜR WEN:** Für Pendler und beschäftigte Familien aus Wartenberg und Umgebung, die abends ohne großen Aufwand ehrliche, regionale Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Mit zwei bis drei Erzeugern aus der direkten Nachbarschaft sprechen und das Angebot vier Wochen lang mit 15 Test-Haushalten ausprobieren.",
+          "ts": "2026-10-19 06:53",
           "age_min": 0
         }
       ]
