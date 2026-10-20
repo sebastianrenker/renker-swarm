@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-20 07:30 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-20 12:59 UTC",
+  "total_results": 2,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-grebenau",
+      "title": "Vulkanregion-Tourismus — Grebenau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** **„Gründchen-Genuss-Rallye“** – Ein Tages-Paket inklusive E-Bike-Verleih, digitaler GPS-Route zu den schönsten Panorama-Plätzen rund um Grebenau und einem prall gefüllten Picknick-Rucksack mit regionalen Vogelsberger Spezialitäten.\n\n**fuer WEN:** Ideal für Paare, aktive Naturliebhaber und kleine Freundesgruppen, die die hügelige Vulkanlandschaft entschleunigt und kulinarisch auf eigene Faust erkunden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Website Ihren Wunschtermin aus und buchen Sie das Paket direkt online, um Ihr E-Bike samt frischem Picknick morgens an der Station in Grebenau kontaktlos entgegenzunehmen.",
+      "ts": "2026-10-20 12:59",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-grebenau",
+      "title": "Direktvermarktung — Grebenau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine 24/7-Abholstation in Grebenau für die „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Landbrot, Ahler Wurst, regionalem Käse und Eiern direkt von den Höfen aus dem Gründchen.\n\n**fuer WEN:** Für berufstätige Pendler, beschäftigte Familien und Ausflügler, die auch nach Feierabend unkompliziert ehrliche Lebensmittel aus der Nachbarschaft suchen.\n\n**ERSTER SCHRITT:** Drei bis vier lokale Erzeuger an einen Tisch holen, ein einfaches Basissortiment festlegen und bei der Stadt wegen eines zentralen Stellplatzes für den Abholschrank anfragen.",
+      "ts": "2026-10-20 12:59",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-grebenau",
+          "title": "Vulkanregion-Tourismus — Grebenau  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** **„Gründchen-Genuss-Rallye“** – Ein Tages-Paket inklusive E-Bike-Verleih, digitaler GPS-Route zu den schönsten Panorama-Plätzen rund um Grebenau und einem prall gefüllten Picknick-Rucksack mit regionalen Vogelsberger Spezialitäten.\n\n**fuer WEN:** Ideal für Paare, aktive Naturliebhaber und kleine Freundesgruppen, die die hügelige Vulkanlandschaft entschleunigt und kulinarisch auf eigene Faust erkunden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Website Ihren Wunschtermin aus und buchen Sie das Paket direkt online, um Ihr E-Bike samt frischem Picknick morgens an der Station in Grebenau kontaktlos entgegenzunehmen.",
+          "ts": "2026-10-20 12:59",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-grebenau",
+          "title": "Direktvermarktung — Grebenau  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Eine 24/7-Abholstation in Grebenau für die „Vogelsberger Feierabend-Kiste“, vollgepackt mit frischem Landbrot, Ahler Wurst, regionalem Käse und Eiern direkt von den Höfen aus dem Gründchen.\n\n**fuer WEN:** Für berufstätige Pendler, beschäftigte Familien und Ausflügler, die auch nach Feierabend unkompliziert ehrliche Lebensmittel aus der Nachbarschaft suchen.\n\n**ERSTER SCHRITT:** Drei bis vier lokale Erzeuger an einen Tisch holen, ein einfaches Basissortiment festlegen und bei der Stadt wegen eines zentralen Stellplatzes für den Abholschrank anfragen.",
+          "ts": "2026-10-20 12:59",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
