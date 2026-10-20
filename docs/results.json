@@ -1,30 +1,66 @@
 {
-  "updated": "2026-10-20 21:09 UTC",
-  "total_results": 1,
+  "updated": "2026-10-20 23:51 UTC",
+  "total_results": 3,
   "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-grebenau",
-      "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "direkt-lautertal",
+      "title": "Direktvermarktung — Lautertal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin verlässlicher, begleiteter Einkaufs- und Mobil-Dienst („Gründchen-Mobil“), der Senioren direkt an der Haustür abholt und bei Wocheneinkäufen sowie Besorgungen im Umland unterstützt.\n\n**WARUM HIER:** \nDa die sieben Ortsteile von Grebenau weit auseinanderliegen und kaum noch Nahversorgung vor Ort bieten, sichert dieser Dienst die alltägliche Eigenständigkeit und soziale Teilhabe im vertrauten Zuhause.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung wird im Mitteilungsblatt zu einem Runden Tisch eingeladen, um den genauen Bedarf der Ortsteile zu erfassen und freiwillige Fahrerinnen und Fahrer zu gewinnen.",
-      "ts": "2026-10-20 21:09",
+      "text": "**WAS:** Eine gekühlte 24/7-Abholstation im Lautertal für online vorbestellbare \"Odenwälder Vesper-Boxen\", vollgepackt mit frischem Bauernbrot, lokalem Kochkäse, Landwurst und Saisonobst direkt von den umliegenden Höfen.\n\n**für WEN:** Für Feierabend-Pendler auf dem Heimweg durchs Tal und Wochenend-Wanderer rund ums Felsenmeer, die unkompliziert ehrliche Hofprodukte aus der Nachbarschaft suchen.\n\n**ERSTER SCHRITT:** Drei passende Landwirte aus dem Lautertal für die Erstbestückung kontaktieren und bei der Gemeinde einen gut zugänglichen Stellplatz an der Hauptstraße (B47) anfragen.",
+      "ts": "2026-10-20 23:51",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-lautertal",
+      "title": "Handwerk-Sichtbarkeit — Lautertal  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** (Fokus: Wärmepumpen & Badsanierungen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Immobilienbesitzer hier in Lautertal nach ‚Badsanierung‘ oder ‚Heizungstausch‘ googeln, landen sie aktuell bei Firmen aus den umliegenden Städten – wollen wir gemeinsam dafür sorgen, dass die lukrativen Aufträge wieder direkt bei Ihnen im Tal bleiben?“",
+      "ts": "2026-10-20 23:51",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-lautertal",
+      "title": "Chancen-Scout — Lautertal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Gepäcktransport-Service auf Abruf für Aktivtouristen entlang der Lautertaler Wander- und Radrouten.\n\n**WARUM HIER:** Lautertal liegt touristisch attraktiv im Naturpark Hoher Vogelsberg mit hoher Dichte an E-Bikern, bietet derzeit aber keine flexible Reparatur- oder Transport-Infrastruktur direkt vor Ort.\n\n**ERSTER SCHRITT:** Einen vorhandenen Kombi oder Transporter mit Grundwerkzeug und Radträger ausstatten sowie Kooperationen mit den lokalen Pensionen und Gaststätten im Lautertal vereinbaren.",
+      "ts": "2026-10-20 23:51",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Kunden",
-      "count": 1,
+      "id": "Chancen",
+      "count": 3,
       "items": [
         {
-          "dept": "Kunden",
-          "agent": "senioren-grebenau",
-          "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "direkt-lautertal",
+          "title": "Direktvermarktung — Lautertal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin verlässlicher, begleiteter Einkaufs- und Mobil-Dienst („Gründchen-Mobil“), der Senioren direkt an der Haustür abholt und bei Wocheneinkäufen sowie Besorgungen im Umland unterstützt.\n\n**WARUM HIER:** \nDa die sieben Ortsteile von Grebenau weit auseinanderliegen und kaum noch Nahversorgung vor Ort bieten, sichert dieser Dienst die alltägliche Eigenständigkeit und soziale Teilhabe im vertrauten Zuhause.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung wird im Mitteilungsblatt zu einem Runden Tisch eingeladen, um den genauen Bedarf der Ortsteile zu erfassen und freiwillige Fahrerinnen und Fahrer zu gewinnen.",
-          "ts": "2026-10-20 21:09",
+          "text": "**WAS:** Eine gekühlte 24/7-Abholstation im Lautertal für online vorbestellbare \"Odenwälder Vesper-Boxen\", vollgepackt mit frischem Bauernbrot, lokalem Kochkäse, Landwurst und Saisonobst direkt von den umliegenden Höfen.\n\n**für WEN:** Für Feierabend-Pendler auf dem Heimweg durchs Tal und Wochenend-Wanderer rund ums Felsenmeer, die unkompliziert ehrliche Hofprodukte aus der Nachbarschaft suchen.\n\n**ERSTER SCHRITT:** Drei passende Landwirte aus dem Lautertal für die Erstbestückung kontaktieren und bei der Gemeinde einen gut zugänglichen Stellplatz an der Hauptstraße (B47) anfragen.",
+          "ts": "2026-10-20 23:51",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-lautertal",
+          "title": "Handwerk-Sichtbarkeit — Lautertal  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** (Fokus: Wärmepumpen & Badsanierungen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Immobilienbesitzer hier in Lautertal nach ‚Badsanierung‘ oder ‚Heizungstausch‘ googeln, landen sie aktuell bei Firmen aus den umliegenden Städten – wollen wir gemeinsam dafür sorgen, dass die lukrativen Aufträge wieder direkt bei Ihnen im Tal bleiben?“",
+          "ts": "2026-10-20 23:51",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-lautertal",
+          "title": "Chancen-Scout — Lautertal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Gepäcktransport-Service auf Abruf für Aktivtouristen entlang der Lautertaler Wander- und Radrouten.\n\n**WARUM HIER:** Lautertal liegt touristisch attraktiv im Naturpark Hoher Vogelsberg mit hoher Dichte an E-Bikern, bietet derzeit aber keine flexible Reparatur- oder Transport-Infrastruktur direkt vor Ort.\n\n**ERSTER SCHRITT:** Einen vorhandenen Kombi oder Transporter mit Grundwerkzeug und Radträger ausstatten sowie Kooperationen mit den lokalen Pensionen und Gaststätten im Lautertal vereinbaren.",
+          "ts": "2026-10-20 23:51",
           "age_min": 0
         }
       ]
