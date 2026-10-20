@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-20T17:50Z",
+  "updated": "2026-10-20T21:09Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -26,7 +26,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher, begleiteter Einkaufs- und Mobil-Dienst („Gründchen-Mobil“), der Senioren direkt an der Haustür abholt und bei Wocheneinkäufen sowie Besorgungen im Umland unterstützt. **WARUM HIER:** Da die sieben Ortsteile von Grebenau weit auseinanderliegen und kaum noch Nahversorgung vor Ort bieten, sichert dieser Dienst die alltägliche Eigenst",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -913,9 +917,9 @@
       "name": "Senioren-Alltagsdienste — Grebenau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, begleiteter Einkaufs- und Mobil-Dienst („Gründchen-Mobil“), der Senioren direkt an der Haustür abholt und bei Wocheneinkäufen sowie Besorgungen im Umland unterstützt. **WARUM HIER:** Da die si",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-lautertal",
@@ -1495,8 +1499,17 @@
     }
   ],
   "budget": {
-    "used": 4,
+    "used": 5,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grebenau",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, begleiteter Einkaufs- und Mobil-Dienst („Gründchen-Mobil“), der Senioren direkt an der Haustür abholt und bei Wocheneinkäufen sowie Besorgungen im Umland unterstützt. **WARUM HIER:** Da die sieben Ortsteile von Grebenau weit auseinanderliegen und kaum noch Nahversorgung vor Ort bieten, sichert dieser Dienst die alltägliche Eigenst",
+      "ts": "2026-10-20 21:09",
+      "age_min": 0
+    }
+  ]
 }

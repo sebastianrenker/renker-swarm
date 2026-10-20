@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-20 17:50 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-20 21:09 UTC",
+  "total_results": 1,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grebenau",
+      "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** \nEin verlässlicher, begleiteter Einkaufs- und Mobil-Dienst („Gründchen-Mobil“), der Senioren direkt an der Haustür abholt und bei Wocheneinkäufen sowie Besorgungen im Umland unterstützt.\n\n**WARUM HIER:** \nDa die sieben Ortsteile von Grebenau weit auseinanderliegen und kaum noch Nahversorgung vor Ort bieten, sichert dieser Dienst die alltägliche Eigenständigkeit und soziale Teilhabe im vertrauten Zuhause.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung wird im Mitteilungsblatt zu einem Runden Tisch eingeladen, um den genauen Bedarf der Ortsteile zu erfassen und freiwillige Fahrerinnen und Fahrer zu gewinnen.",
+      "ts": "2026-10-20 21:09",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-grebenau",
+          "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin verlässlicher, begleiteter Einkaufs- und Mobil-Dienst („Gründchen-Mobil“), der Senioren direkt an der Haustür abholt und bei Wocheneinkäufen sowie Besorgungen im Umland unterstützt.\n\n**WARUM HIER:** \nDa die sieben Ortsteile von Grebenau weit auseinanderliegen und kaum noch Nahversorgung vor Ort bieten, sichert dieser Dienst die alltägliche Eigenständigkeit und soziale Teilhabe im vertrauten Zuhause.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung wird im Mitteilungsblatt zu einem Runden Tisch eingeladen, um den genauen Bedarf der Ortsteile zu erfassen und freiwillige Fahrerinnen und Fahrer zu gewinnen.",
+          "ts": "2026-10-20 21:09",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
