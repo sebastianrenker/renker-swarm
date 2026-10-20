@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-20T02:05Z",
+  "updated": "2026-10-20T07:30Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik) **Ansprache-Idee:** „Viele Eigenheimbesitzer im Vogelsberg suchen aktuell direkt auf dem Smartphone nach Wärmepumpen oder Badsanierungen – sorgen wir dafür, dass diese lukrativen Anfragen bei Ihnen in Grebenau landen und nicht bei der Konkurrenz aus Alsfel",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -881,18 +877,18 @@
       "name": "Chancen-Scout — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Lohn-Sägespaltdienst, der angeliefertes Stammholz direkt auf den Höfen der Kunden ofenfertig verarbeitet und aufschichtet. **WARUM HIER:** Im waldreichen „Gründchen“ rund um Grebenau heizen extrem vi",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-grebenau",
       "name": "Handwerk-Sichtbarkeit — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik) **Ansprache-Idee:** „Viele Eigenheimbesitzer im Vogelsberg suchen aktuell direkt auf dem Smartphone nach Wärmepumpen",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grebenau",
@@ -1502,22 +1498,5 @@
     "used": 2,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-grebenau",
-      "via": "gemini",
-      "text": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik) **Ansprache-Idee:** „Viele Eigenheimbesitzer im Vogelsberg suchen aktuell direkt auf dem Smartphone nach Wärmepumpen oder Badsanierungen – sorgen wir dafür, dass diese lukrativen Anfragen bei Ihnen in Grebenau landen und nicht bei der Konkurrenz aus Alsfel",
-      "ts": "2026-10-20 02:05",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-grebenau",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Lohn-Sägespaltdienst, der angeliefertes Stammholz direkt auf den Höfen der Kunden ofenfertig verarbeitet und aufschichtet. **WARUM HIER:** Im waldreichen „Gründchen“ rund um Grebenau heizen extrem viele Haushalte mit Holz, doch der zunehmend älteren Bevölkerung fehlt die Kraft für die schwere Eigenleistung bei der Holzwerbung. **ERSTER S",
-      "ts": "2026-10-20 02:05",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }

@@ -1,51 +1,7 @@
 {
-  "updated": "2026-10-20 02:05 UTC",
-  "total_results": 2,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-grebenau",
-      "title": "Handwerk-Sichtbarkeit — Grebenau  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik)\n\n**Ansprache-Idee:**\n„Viele Eigenheimbesitzer im Vogelsberg suchen aktuell direkt auf dem Smartphone nach Wärmepumpen oder Badsanierungen – sorgen wir dafür, dass diese lukrativen Anfragen bei Ihnen in Grebenau landen und nicht bei der Konkurrenz aus Alsfeld oder Lauterbach.“",
-      "ts": "2026-10-20 02:05",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-grebenau",
-      "title": "Chancen-Scout — Grebenau  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Lohn-Sägespaltdienst, der angeliefertes Stammholz direkt auf den Höfen der Kunden ofenfertig verarbeitet und aufschichtet.\n\n**WARUM HIER:** Im waldreichen „Gründchen“ rund um Grebenau heizen extrem viele Haushalte mit Holz, doch der zunehmend älteren Bevölkerung fehlt die Kraft für die schwere Eigenleistung bei der Holzwerbung.\n\n**ERSTER SCHRITT:** Leihe dir für ein Wochenende einen mobilen Sägespaltautomaten und schalte eine einfache Kleinanzeige im Grebenauer Mitteilungsblatt, um die ersten drei Testaufträge einzusammeln.",
-      "ts": "2026-10-20 02:05",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 2,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-grebenau",
-          "title": "Handwerk-Sichtbarkeit — Grebenau  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik)\n\n**Ansprache-Idee:**\n„Viele Eigenheimbesitzer im Vogelsberg suchen aktuell direkt auf dem Smartphone nach Wärmepumpen oder Badsanierungen – sorgen wir dafür, dass diese lukrativen Anfragen bei Ihnen in Grebenau landen und nicht bei der Konkurrenz aus Alsfeld oder Lauterbach.“",
-          "ts": "2026-10-20 02:05",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-grebenau",
-          "title": "Chancen-Scout — Grebenau  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler Lohn-Sägespaltdienst, der angeliefertes Stammholz direkt auf den Höfen der Kunden ofenfertig verarbeitet und aufschichtet.\n\n**WARUM HIER:** Im waldreichen „Gründchen“ rund um Grebenau heizen extrem viele Haushalte mit Holz, doch der zunehmend älteren Bevölkerung fehlt die Kraft für die schwere Eigenleistung bei der Holzwerbung.\n\n**ERSTER SCHRITT:** Leihe dir für ein Wochenende einen mobilen Sägespaltautomaten und schalte eine einfache Kleinanzeige im Grebenauer Mitteilungsblatt, um die ersten drei Testaufträge einzusammeln.",
-          "ts": "2026-10-20 02:05",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-10-20 07:30 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }
