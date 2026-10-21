@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-20T23:51Z",
+  "updated": "2026-10-21T03:00Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Eine gekühlte 24/7-Abholstation im Lautertal für online vorbestellbare \"Odenwälder Vesper-Boxen\", vollgepackt mit frischem Bauernbrot, lokalem Kochkäse, Landwurst und Saisonobst direkt von den umliegenden Höfen. **für WEN:** Für Feierabend-Pendler auf dem Heimweg durchs Tal und Wochenend-Wanderer rund ums Felsenmeer, die unkompliziert ehrliche Hofpr",
+        "text": "**WAS:** „Lautertaler Vulkan-Picknick“: Eine geführte Abendwanderung zu den Basaltformationen von Lautertal mit einem Picknickkorb voller regionaler Bio-Spezialitäten und anschließender Sternenbeobachtung im Naturpark Vogelsberg. **für WEN:** Ideal für Paare, kleine Freundesgruppen und Genusswanderer, die eine entschleunigende Auszeit in der Natur mit region",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Der „Dorf-Kurier Lautertal“ ist ein verlässlicher Nachbarschaftsdienst, der Seniorinnen und Senioren Besorgungen abnimmt, Begleitung zu Arztterminen bietet und Zeit für ein kurzes, wertschätzendes Gespräch mitbringt. **WARUM HIER:** Da Lautertal aus vielen verstreuten Ortsteilen besteht und steile Hügelwege sowie ein dünner Nahverkehr besorgungen er",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -926,45 +930,45 @@
       "name": "Chancen-Scout — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Gepäcktransport-Service auf Abruf für Aktivtouristen entlang der Lautertaler Wander- und Radrouten. **WARUM HIER:** Lautertal liegt touristisch attraktiv im Naturpark Hoher Vogelsb",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-lautertal",
       "name": "Handwerk-Sichtbarkeit — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** (Fokus: Wärmepumpen & Badsanierungen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Immobilienbesitzer hier in Lautertal nach ‚Badsanierung‘ oder ‚Heizung",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-lautertal",
       "name": "Direktvermarktung — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine gekühlte 24/7-Abholstation im Lautertal für online vorbestellbare \"Odenwälder Vesper-Boxen\", vollgepackt mit frischem Bauernbrot, lokalem Kochkäse, Landwurst und Saisonobst direkt von den umliegenden Höfen.",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-lautertal",
       "name": "Vulkanregion-Tourismus — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Lautertaler Vulkan-Picknick“: Eine geführte Abendwanderung zu den Basaltformationen von Lautertal mit einem Picknickkorb voller regionaler Bio-Spezialitäten und anschließender Sternenbeobachtung im Naturpark Vo",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-lautertal",
       "name": "Senioren-Alltagsdienste — Lautertal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Dorf-Kurier Lautertal“ ist ein verlässlicher Nachbarschaftsdienst, der Seniorinnen und Senioren Besorgungen abnimmt, Begleitung zu Arztterminen bietet und Zeit für ein kurzes, wertschätzendes Gespräch mitbr",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-fulda",
@@ -1499,32 +1503,24 @@
     }
   ],
   "budget": {
-    "used": 8,
+    "used": 2,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-lautertal",
+      "dept": "Kunden",
+      "agent": "senioren-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Eine gekühlte 24/7-Abholstation im Lautertal für online vorbestellbare \"Odenwälder Vesper-Boxen\", vollgepackt mit frischem Bauernbrot, lokalem Kochkäse, Landwurst und Saisonobst direkt von den umliegenden Höfen. **für WEN:** Für Feierabend-Pendler auf dem Heimweg durchs Tal und Wochenend-Wanderer rund ums Felsenmeer, die unkompliziert ehrliche Hofpr",
-      "ts": "2026-10-20 23:51",
+      "text": "**WAS:** Der „Dorf-Kurier Lautertal“ ist ein verlässlicher Nachbarschaftsdienst, der Seniorinnen und Senioren Besorgungen abnimmt, Begleitung zu Arztterminen bietet und Zeit für ein kurzes, wertschätzendes Gespräch mitbringt. **WARUM HIER:** Da Lautertal aus vielen verstreuten Ortsteilen besteht und steile Hügelwege sowie ein dünner Nahverkehr besorgungen er",
+      "ts": "2026-10-21 03:00",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-lautertal",
+      "agent": "tourismus-lautertal",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** (Fokus: Wärmepumpen & Badsanierungen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Immobilienbesitzer hier in Lautertal nach ‚Badsanierung‘ oder ‚Heizungstausch‘ googeln, landen sie aktuell bei Firmen aus den umliegenden Städten – wollen wir gemeinsam dafür sorgen, dass die lukrativen Aufträg",
-      "ts": "2026-10-20 23:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-lautertal",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Gepäcktransport-Service auf Abruf für Aktivtouristen entlang der Lautertaler Wander- und Radrouten. **WARUM HIER:** Lautertal liegt touristisch attraktiv im Naturpark Hoher Vogelsberg mit hoher Dichte an E-Bikern, bietet derzeit aber keine flexible Reparatur- oder Transport-Infrastruktur direkt vor Ort. **ERSTER SCHRIT",
-      "ts": "2026-10-20 23:51",
+      "text": "**WAS:** „Lautertaler Vulkan-Picknick“: Eine geführte Abendwanderung zu den Basaltformationen von Lautertal mit einem Picknickkorb voller regionaler Bio-Spezialitäten und anschließender Sternenbeobachtung im Naturpark Vogelsberg. **für WEN:** Ideal für Paare, kleine Freundesgruppen und Genusswanderer, die eine entschleunigende Auszeit in der Natur mit region",
+      "ts": "2026-10-21 02:59",
       "age_min": 0
     }
   ]
