@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-21T18:37Z",
+  "updated": "2026-10-21T21:59Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** Heizung-Sanitär-Betrieb (SHK) in Künzell. **Ansprache-Idee:** „Hallo [Name], wenn Eigenheimbesitzer in Künzell nach einer Badrenovierung oder neuen Heizung googeln, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass Ihr Handwerksbetrieb direkt hier im Ort die erste Adresse auf Google Maps wird?“",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -32,7 +28,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Der „Künzeller Dorfbegleiter“ ist ein fester, persönlicher Abhol- und Begleitdienst, der ältere Menschen aus den Außenortsteilen nicht nur sicher zum Arzt oder Einkauf bringt, sondern ihnen vor Ort auch ganz ohne Zeitdruck beim Tragen und Orientieren zur Seite steht. **WARUM HIER:** Da sich das Gemeindegebiet von Künzell auf mehrere verstreute Dörfe",
+        "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Nachbarschafts-Fahrdienst, der ältere Menschen flexibel aus ihren Ortsteilen zu Einkäufen, Arztterminen oder lokalen Treffpunkten begleitet. **WARUM HIER:** Da Ärztinnen, Apotheken und Lebensmittelmärkte im Kernort konzentriert sind, die Ortsteile von Petersberg aber weit verteilt liegen, sichert dieser Dienst die e",
         "age_min": 0
       }
     },
@@ -1029,27 +1025,27 @@
       "name": "Direktvermarktung — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Petersberger Feierabend-Kiste“ ist ein wöchentliches Abo mit allen frischen Zutaten und einem einfachen Rezept für zwei bodenständige Abendessen direkt von Höfen aus der Rhön. **für WEN:** Für berufstätige ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-petersberg",
       "name": "Vulkanregion-Tourismus — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Petersberger Panorama-Picknick & Sternen-Moment“ umfasst einen prall gefüllten Picknickkorb mit regionalen Rhöner Spezialitäten und eine leicht verständliche Touren-App für eine stimmungsvoll",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-petersberg",
       "name": "Senioren-Alltagsdienste — Petersberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, ehrenamtlicher Nachbarschafts-Fahrdienst, der ältere Menschen flexibel aus ihren Ortsteilen zu Einkäufen, Arztterminen oder lokalen Treffpunkten begleitet. **WARUM HIER:** Da Ärztinnen, Apothe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-kuenzell",
@@ -1065,9 +1061,9 @@
       "name": "Handwerk-Sichtbarkeit — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizung-Sanitär-Betrieb (SHK) in Künzell. **Ansprache-Idee:** „Hallo [Name], wenn Eigenheimbesitzer in Künzell nach einer Badrenovierung oder neuen Heizung googeln, landen sie aktuell meist bei Betrieben",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-kuenzell",
@@ -1092,9 +1088,9 @@
       "name": "Senioren-Alltagsdienste — Kuenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Künzeller Dorfbegleiter“ ist ein fester, persönlicher Abhol- und Begleitdienst, der ältere Menschen aus den Außenortsteilen nicht nur sicher zum Arzt oder Einkauf bringt, sondern ihnen vor Ort auch ganz ohn",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-neuhof",
@@ -1503,40 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 13,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Kunden",
-      "agent": "senioren-kuenzell",
+      "agent": "senioren-petersberg",
       "via": "gemini",
-      "text": "**WAS:** Der „Künzeller Dorfbegleiter“ ist ein fester, persönlicher Abhol- und Begleitdienst, der ältere Menschen aus den Außenortsteilen nicht nur sicher zum Arzt oder Einkauf bringt, sondern ihnen vor Ort auch ganz ohne Zeitdruck beim Tragen und Orientieren zur Seite steht. **WARUM HIER:** Da sich das Gemeindegebiet von Künzell auf mehrere verstreute Dörfe",
-      "ts": "2026-10-21 18:36",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-kuenzell",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Heizung-Sanitär-Betrieb (SHK) in Künzell. **Ansprache-Idee:** „Hallo [Name], wenn Eigenheimbesitzer in Künzell nach einer Badrenovierung oder neuen Heizung googeln, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass Ihr Handwerksbetrieb direkt hier im Ort die erste Adresse auf Google Maps wird?“",
-      "ts": "2026-10-21 18:36",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-petersberg",
-      "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Petersberger Panorama-Picknick & Sternen-Moment“ umfasst einen prall gefüllten Picknickkorb mit regionalen Rhöner Spezialitäten und eine leicht verständliche Touren-App für eine stimmungsvolle Dämmerungswanderung auf den Rauschenberg. **für WEN:** Ideal für Paare und kleine Freundesgruppen, die eine romantische Auszeit in der Nat",
-      "ts": "2026-10-21 18:36",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-petersberg",
-      "via": "gemini",
-      "text": "**WAS:** Die „Petersberger Feierabend-Kiste“ ist ein wöchentliches Abo mit allen frischen Zutaten und einem einfachen Rezept für zwei bodenständige Abendessen direkt von Höfen aus der Rhön. **für WEN:** Für berufstätige Pendler und Familien aus Petersberg und Fulda, die nach der Arbeit ohne Einkaufsstress frisch und regional kochen möchten. **ERSTER SCHRITT:",
-      "ts": "2026-10-21 18:36",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Nachbarschafts-Fahrdienst, der ältere Menschen flexibel aus ihren Ortsteilen zu Einkäufen, Arztterminen oder lokalen Treffpunkten begleitet. **WARUM HIER:** Da Ärztinnen, Apotheken und Lebensmittelmärkte im Kernort konzentriert sind, die Ortsteile von Petersberg aber weit verteilt liegen, sichert dieser Dienst die e",
+      "ts": "2026-10-21 21:59",
       "age_min": 0
     }
   ]

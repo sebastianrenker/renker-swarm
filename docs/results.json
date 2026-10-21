@@ -1,90 +1,30 @@
 {
-  "updated": "2026-10-21 18:37 UTC",
-  "total_results": 4,
-  "total_depts": 2,
+  "updated": "2026-10-21 21:59 UTC",
+  "total_results": 1,
+  "total_depts": 1,
   "active": [
     {
       "dept": "Kunden",
-      "agent": "senioren-kuenzell",
-      "title": "Senioren-Alltagsdienste — Kuenzell  ·  Kunden",
+      "agent": "senioren-petersberg",
+      "title": "Senioren-Alltagsdienste — Petersberg  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:**  \nDer „Künzeller Dorfbegleiter“ ist ein fester, persönlicher Abhol- und Begleitdienst, der ältere Menschen aus den Außenortsteilen nicht nur sicher zum Arzt oder Einkauf bringt, sondern ihnen vor Ort auch ganz ohne Zeitdruck beim Tragen und Orientieren zur Seite steht.\n\n**WARUM HIER:**  \nDa sich das Gemeindegebiet von Künzell auf mehrere verstreute Dörfer verteilt und wichtige Nahversorger meist im Hauptort liegen, bewahrt dieser Dienst die Eigenständigkeit der Senioren, die kein eigenes Auto mehr nutzen können.\n\n**ERSTER SCHRITT:**  \nIn Abstimmung mit dem Seniorenbeirat der Gemeinde Künzell wird ein einfaches Servicetelefon eingerichtet, über das erste Fahrten koordiniert und ehrenamtliche Paten aus den jeweiligen Ortsteilen gewonnen werden.",
-      "ts": "2026-10-21 18:36",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-kuenzell",
-      "title": "Handwerk-Sichtbarkeit — Kuenzell  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Heizung-Sanitär-Betrieb (SHK) in Künzell.\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn Eigenheimbesitzer in Künzell nach einer Badrenovierung oder neuen Heizung googeln, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass Ihr Handwerksbetrieb direkt hier im Ort die erste Adresse auf Google Maps wird?“",
-      "ts": "2026-10-21 18:36",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-petersberg",
-      "title": "Vulkanregion-Tourismus — Petersberg  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Petersberger Panorama-Picknick & Sternen-Moment“ umfasst einen prall gefüllten Picknickkorb mit regionalen Rhöner Spezialitäten und eine leicht verständliche Touren-App für eine stimmungsvolle Dämmerungswanderung auf den Rauschenberg.\n\n**für WEN:** Ideal für Paare und kleine Freundesgruppen, die eine romantische Auszeit in der Natur mit kulinarischem Genuss und einem fantastischen Weitblick über das Fuldaer Land verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsseite Ihren Wunschtermin aus und stellen Sie Ihre kulinarischen Lieblings-Schmankerl für den Korb zusammen.",
-      "ts": "2026-10-21 18:36",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-petersberg",
-      "title": "Direktvermarktung — Petersberg  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nDie „Petersberger Feierabend-Kiste“ ist ein wöchentliches Abo mit allen frischen Zutaten und einem einfachen Rezept für zwei bodenständige Abendessen direkt von Höfen aus der Rhön.\n\n**für WEN:** \nFür berufstätige Pendler und Familien aus Petersberg und Fulda, die nach der Arbeit ohne Einkaufsstress frisch und regional kochen möchten.\n\n**ERSTER SCHRITT:** \nZwei passende Erzeuger aus der Umgebung für Gemüse und Käse/Wurst kontaktieren und das Angebot über eine einfache WhatsApp-Bestellgruppe mit 20 Test-Haushalten aus der Nachbarschaft starten.",
-      "ts": "2026-10-21 18:36",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Nachbarschafts-Fahrdienst, der ältere Menschen flexibel aus ihren Ortsteilen zu Einkäufen, Arztterminen oder lokalen Treffpunkten begleitet.\n\n**WARUM HIER:** Da Ärztinnen, Apotheken und Lebensmittelmärkte im Kernort konzentriert sind, die Ortsteile von Petersberg aber weit verteilt liegen, sichert dieser Dienst die eigenständige Versorgung und schützt vor Einsamkeit.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Gemeinde und den örtlichen Vereinen wird ein Runder Tisch einberufen, um den genauen Fahrbedarf der Seniorinnen zu erheben und erste ehrenamtliche Fahrerinnen und Fahrer zu gewinnen.",
+      "ts": "2026-10-21 21:59",
       "age_min": 0
     }
   ],
   "departments": [
-    {
-      "id": "Chancen",
-      "count": 3,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-kuenzell",
-          "title": "Handwerk-Sichtbarkeit — Kuenzell  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Heizung-Sanitär-Betrieb (SHK) in Künzell.\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn Eigenheimbesitzer in Künzell nach einer Badrenovierung oder neuen Heizung googeln, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass Ihr Handwerksbetrieb direkt hier im Ort die erste Adresse auf Google Maps wird?“",
-          "ts": "2026-10-21 18:36",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-petersberg",
-          "title": "Vulkanregion-Tourismus — Petersberg  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Das Erlebnis-Paket „Petersberger Panorama-Picknick & Sternen-Moment“ umfasst einen prall gefüllten Picknickkorb mit regionalen Rhöner Spezialitäten und eine leicht verständliche Touren-App für eine stimmungsvolle Dämmerungswanderung auf den Rauschenberg.\n\n**für WEN:** Ideal für Paare und kleine Freundesgruppen, die eine romantische Auszeit in der Natur mit kulinarischem Genuss und einem fantastischen Weitblick über das Fuldaer Land verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsseite Ihren Wunschtermin aus und stellen Sie Ihre kulinarischen Lieblings-Schmankerl für den Korb zusammen.",
-          "ts": "2026-10-21 18:36",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-petersberg",
-          "title": "Direktvermarktung — Petersberg  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nDie „Petersberger Feierabend-Kiste“ ist ein wöchentliches Abo mit allen frischen Zutaten und einem einfachen Rezept für zwei bodenständige Abendessen direkt von Höfen aus der Rhön.\n\n**für WEN:** \nFür berufstätige Pendler und Familien aus Petersberg und Fulda, die nach der Arbeit ohne Einkaufsstress frisch und regional kochen möchten.\n\n**ERSTER SCHRITT:** \nZwei passende Erzeuger aus der Umgebung für Gemüse und Käse/Wurst kontaktieren und das Angebot über eine einfache WhatsApp-Bestellgruppe mit 20 Test-Haushalten aus der Nachbarschaft starten.",
-          "ts": "2026-10-21 18:36",
-          "age_min": 0
-        }
-      ]
-    },
     {
       "id": "Kunden",
       "count": 1,
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-kuenzell",
-          "title": "Senioren-Alltagsdienste — Kuenzell  ·  Kunden",
+          "agent": "senioren-petersberg",
+          "title": "Senioren-Alltagsdienste — Petersberg  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:**  \nDer „Künzeller Dorfbegleiter“ ist ein fester, persönlicher Abhol- und Begleitdienst, der ältere Menschen aus den Außenortsteilen nicht nur sicher zum Arzt oder Einkauf bringt, sondern ihnen vor Ort auch ganz ohne Zeitdruck beim Tragen und Orientieren zur Seite steht.\n\n**WARUM HIER:**  \nDa sich das Gemeindegebiet von Künzell auf mehrere verstreute Dörfer verteilt und wichtige Nahversorger meist im Hauptort liegen, bewahrt dieser Dienst die Eigenständigkeit der Senioren, die kein eigenes Auto mehr nutzen können.\n\n**ERSTER SCHRITT:**  \nIn Abstimmung mit dem Seniorenbeirat der Gemeinde Künzell wird ein einfaches Servicetelefon eingerichtet, über das erste Fahrten koordiniert und ehrenamtliche Paten aus den jeweiligen Ortsteilen gewonnen werden.",
-          "ts": "2026-10-21 18:36",
+          "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Nachbarschafts-Fahrdienst, der ältere Menschen flexibel aus ihren Ortsteilen zu Einkäufen, Arztterminen oder lokalen Treffpunkten begleitet.\n\n**WARUM HIER:** Da Ärztinnen, Apotheken und Lebensmittelmärkte im Kernort konzentriert sind, die Ortsteile von Petersberg aber weit verteilt liegen, sichert dieser Dienst die eigenständige Versorgung und schützt vor Einsamkeit.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Gemeinde und den örtlichen Vereinen wird ein Runder Tisch einberufen, um den genauen Fahrbedarf der Seniorinnen zu erheben und erste ehrenamtliche Fahrerinnen und Fahrer zu gewinnen.",
+          "ts": "2026-10-21 21:59",
           "age_min": 0
         }
       ]
