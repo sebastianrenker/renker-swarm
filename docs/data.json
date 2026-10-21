@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-21T08:28Z",
+  "updated": "2026-10-21T14:01Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsfachbetrieb** in Petersberg. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn den Petersbergern im Winter die Heizung ausfällt oder sie ein neues Bad planen, suchen sie zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt bei Ihnen anrufen und nicht bei der Konkurrenz aus Fulda.“",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Dorfbegleitdienst, der ältere Menschen in den verstreuten Ortsteilen rund um Fulda individuell beim Einkaufen, bei Arztbesuchen und bei Wegen des täglichen Lebens unterstützt. **WARUM HIER:** Im weitläufigen Landkreis Fulda wohnen viele Senioren in kleinen Dörfern mit ausgedünntem Nahverkehr, wo verlässliche, persönliche Mobilitätshilfe ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -975,54 +967,54 @@
       "name": "Handwerk-Sichtbarkeit — Fulda",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbaubetrieb in Fulda **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer in Fulda aktuell nach einer neuen Wärmepumpe oder Badrenovierung googeln, landen sie direkt bei Ihrer Ko",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-fulda",
       "name": "Direktvermarktung — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Kiste“ im Abo mit frischem Saisongemüse, regionalem Brot, Käse und einem einfachen Rezept für ein ehrliches Abendessen ohne langen Einkaufsaufwand. **FÜR WEN:** Für Berufstät",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-fulda",
       "name": "Vulkanregion-Tourismus — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Geführte Abend-Wanderung im UNESCO-Biosphärenreservat Rhön nahe Fulda mit professioneller Sternenbeobachtung im Lichtschutzgebiet und einem Picknickkorb voll regionaler Biorhoen-Spezialitäten. **fuer WEN:** Perf",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-fulda",
       "name": "Senioren-Alltagsdienste — Fulda",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Dorfbegleitdienst, der ältere Menschen in den verstreuten Ortsteilen rund um Fulda individuell beim Einkaufen, bei Arztbesuchen und bei Wegen des täglichen Lebens unterstützt. **WARUM HIER:** Im weit",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-petersberg",
       "name": "Chancen-Scout — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Vor-Ort-Service für die professionelle Reinigung und Pflege von Photovoltaik-Anlagen und Steinauffahrten bei Privathaushalten. **WARUM HIER:** Petersberg weist eine enorm hohe Dichte an Einfamilienhä",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-petersberg",
       "name": "Handwerk-Sichtbarkeit — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsfachbetrieb** in Petersberg. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn den Petersbergern im Winter die Heizung ausfällt oder sie ein neues Bad planen, suche",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-petersberg",
@@ -1506,54 +1498,5 @@
     "used": 8,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-petersberg",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsfachbetrieb** in Petersberg. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn den Petersbergern im Winter die Heizung ausfällt oder sie ein neues Bad planen, suchen sie zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt bei Ihnen anrufen und nicht bei der Konkurrenz aus Fulda.“",
-      "ts": "2026-10-21 08:28",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-petersberg",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Vor-Ort-Service für die professionelle Reinigung und Pflege von Photovoltaik-Anlagen und Steinauffahrten bei Privathaushalten. **WARUM HIER:** Petersberg weist eine enorm hohe Dichte an Einfamilienhäusern mit alternden PV-Anlagen auf, deren Besitzer (oft Pendler nach Fulda oder Senioren) weder Zeit, Ausrüstung noch Lust auf die gefährlic",
-      "ts": "2026-10-21 08:28",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-fulda",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorfbegleitdienst, der ältere Menschen in den verstreuten Ortsteilen rund um Fulda individuell beim Einkaufen, bei Arztbesuchen und bei Wegen des täglichen Lebens unterstützt. **WARUM HIER:** Im weitläufigen Landkreis Fulda wohnen viele Senioren in kleinen Dörfern mit ausgedünntem Nahverkehr, wo verlässliche, persönliche Mobilitätshilfe ",
-      "ts": "2026-10-21 08:28",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-fulda",
-      "via": "gemini",
-      "text": "**WAS:** Geführte Abend-Wanderung im UNESCO-Biosphärenreservat Rhön nahe Fulda mit professioneller Sternenbeobachtung im Lichtschutzgebiet und einem Picknickkorb voll regionaler Biorhoen-Spezialitäten. **fuer WEN:** Perfekt für Paare, kleine Gruppen und Genießer, die eine entschleunigende Auszeit in der Natur mit romantischem Sternenhimmel und lokaler Kulina",
-      "ts": "2026-10-21 08:27",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-fulda",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Rhöner Feierabend-Kiste“ im Abo mit frischem Saisongemüse, regionalem Brot, Käse und einem einfachen Rezept für ein ehrliches Abendessen ohne langen Einkaufsaufwand. **FÜR WEN:** Für Berufstätige, Pendler und geschäftige Familien aus dem Raum Fulda, die Wert auf echte Heimaterzeugnisse legen, aber unter der Woche keine Zeit für Kl",
-      "ts": "2026-10-21 08:27",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-fulda",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbaubetrieb in Fulda **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer in Fulda aktuell nach einer neuen Wärmepumpe oder Badrenovierung googeln, landen sie direkt bei Ihrer Konkurrenz – sorgen wir dafür, dass die lukrativen Aufträge aus der Region wieder bei Ihnen anfragen.“",
-      "ts": "2026-10-21 08:27",
-      "age_min": 1
-    }
-  ]
+  "recent": []
 }
