@@ -1,40 +1,112 @@
 {
-  "updated": "2026-10-21 03:00 UTC",
-  "total_results": 2,
+  "updated": "2026-10-21 08:28 UTC",
+  "total_results": 6,
   "total_depts": 2,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-lautertal",
-      "title": "Senioren-Alltagsdienste — Lautertal  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "handwerk-petersberg",
+      "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nDer „Dorf-Kurier Lautertal“ ist ein verlässlicher Nachbarschaftsdienst, der Seniorinnen und Senioren Besorgungen abnimmt, Begleitung zu Arztterminen bietet und Zeit für ein kurzes, wertschätzendes Gespräch mitbringt.\n\n**WARUM HIER:** \nDa Lautertal aus vielen verstreuten Ortsteilen besteht und steile Hügelwege sowie ein dünner Nahverkehr besorgungen erschweren, sichert dieser mobile Dienst die Eigenständigkeit im vertrauten Zuhause.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung wird über das Mitteilungsblatt eine feste Telefon-Sprechzeit bekanntgegeben und ein Aufruf für freiwillige Helferinnen und Helfer aus den jeweiligen Dörfern gestartet.",
-      "ts": "2026-10-21 03:00",
+      "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsfachbetrieb** in Petersberg.\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn den Petersbergern im Winter die Heizung ausfällt oder sie ein neues Bad planen, suchen sie zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt bei Ihnen anrufen und nicht bei der Konkurrenz aus Fulda.“",
+      "ts": "2026-10-21 08:28",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-lautertal",
-      "title": "Vulkanregion-Tourismus — Lautertal  ·  Chancen",
+      "agent": "chancen-petersberg",
+      "title": "Chancen-Scout — Petersberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** „Lautertaler Vulkan-Picknick“: Eine geführte Abendwanderung zu den Basaltformationen von Lautertal mit einem Picknickkorb voller regionaler Bio-Spezialitäten und anschließender Sternenbeobachtung im Naturpark Vogelsberg.\n\n**für WEN:** Ideal für Paare, kleine Freundesgruppen und Genusswanderer, die eine entschleunigende Auszeit in der Natur mit regionalen Kulinarik-Highlights verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Website Ihren Wunschtermin aus, geben Sie die Personenanzahl an und sichern Sie sich Ihr Online-Ticket direkt mit wenigen Klicks.",
-      "ts": "2026-10-21 02:59",
+      "text": "**WAS:** Ein mobiler Vor-Ort-Service für die professionelle Reinigung und Pflege von Photovoltaik-Anlagen und Steinauffahrten bei Privathaushalten.\n\n**WARUM HIER:** Petersberg weist eine enorm hohe Dichte an Einfamilienhäusern mit alternden PV-Anlagen auf, deren Besitzer (oft Pendler nach Fulda oder Senioren) weder Zeit, Ausrüstung noch Lust auf die gefährliche Dacharbeit haben.\n\n**ERSTER SCHRITT:** Besorge ein mobiles Profi-Reinigungset (Einsatz unter 2.000 €) und verteile 500 Flyer mit einem einfachen Festpreis-Angebot direkt in den Wohngebieten Petersberg-Süd und Stöckels.",
+      "ts": "2026-10-21 08:28",
       "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-fulda",
+      "title": "Senioren-Alltagsdienste — Fulda  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Dorfbegleitdienst, der ältere Menschen in den verstreuten Ortsteilen rund um Fulda individuell beim Einkaufen, bei Arztbesuchen und bei Wegen des täglichen Lebens unterstützt.\n\n**WARUM HIER:** Im weitläufigen Landkreis Fulda wohnen viele Senioren in kleinen Dörfern mit ausgedünntem Nahverkehr, wo verlässliche, persönliche Mobilitätshilfe den Verbleib im vertrauten Zuhause sichert.\n\n**ERSTER SCHRITT:** Nehmen Sie für ein unverbindliches Erstgespräch im eigenen Zuhause Kontakt mit dem Pflegestützpunkt des Landkreises Fulda auf.",
+      "ts": "2026-10-21 08:28",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-fulda",
+      "title": "Vulkanregion-Tourismus — Fulda  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:**\nGeführte Abend-Wanderung im UNESCO-Biosphärenreservat Rhön nahe Fulda mit professioneller Sternenbeobachtung im Lichtschutzgebiet und einem Picknickkorb voll regionaler Biorhoen-Spezialitäten.\n\n**fuer WEN:**\nPerfekt für Paare, kleine Gruppen und Genießer, die eine entschleunigende Auszeit in der Natur mit romantischem Sternenhimmel und lokaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:**\nWählen Sie Ihren Wunschtermin auf unserer Buchungsplattform aus und sichern Sie sich Ihr digitales Ticket mit sofortiger Bestätigung.",
+      "ts": "2026-10-21 08:27",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-fulda",
+      "title": "Direktvermarktung — Fulda  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEine wöchentliche „Rhöner Feierabend-Kiste“ im Abo mit frischem Saisongemüse, regionalem Brot, Käse und einem einfachen Rezept für ein ehrliches Abendessen ohne langen Einkaufsaufwand.\n\n**FÜR WEN:** \nFür Berufstätige, Pendler und geschäftige Familien aus dem Raum Fulda, die Wert auf echte Heimaterzeugnisse legen, aber unter der Woche keine Zeit für Klapperfahrten zu verschiedenen Hofläden haben.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger aus dem Landkreis Fulda an einen Tisch holen, ein fixes Test-Paket schnüren und dieses über Mundpropaganda an 20 Test-Abonnenten ausliefern, um Rückmeldungen einzuholen.",
+      "ts": "2026-10-21 08:27",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-fulda",
+      "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbaubetrieb in Fulda\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Hausbesitzer in Fulda aktuell nach einer neuen Wärmepumpe oder Badrenovierung googeln, landen sie direkt bei Ihrer Konkurrenz – sorgen wir dafür, dass die lukrativen Aufträge aus der Region wieder bei Ihnen anfragen.“",
+      "ts": "2026-10-21 08:27",
+      "age_min": 1
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-lautertal",
-          "title": "Vulkanregion-Tourismus — Lautertal  ·  Chancen",
+          "agent": "handwerk-petersberg",
+          "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** „Lautertaler Vulkan-Picknick“: Eine geführte Abendwanderung zu den Basaltformationen von Lautertal mit einem Picknickkorb voller regionaler Bio-Spezialitäten und anschließender Sternenbeobachtung im Naturpark Vogelsberg.\n\n**für WEN:** Ideal für Paare, kleine Freundesgruppen und Genusswanderer, die eine entschleunigende Auszeit in der Natur mit regionalen Kulinarik-Highlights verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Website Ihren Wunschtermin aus, geben Sie die Personenanzahl an und sichern Sie sich Ihr Online-Ticket direkt mit wenigen Klicks.",
-          "ts": "2026-10-21 02:59",
+          "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsfachbetrieb** in Petersberg.\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn den Petersbergern im Winter die Heizung ausfällt oder sie ein neues Bad planen, suchen sie zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt bei Ihnen anrufen und nicht bei der Konkurrenz aus Fulda.“",
+          "ts": "2026-10-21 08:28",
           "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-petersberg",
+          "title": "Chancen-Scout — Petersberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Vor-Ort-Service für die professionelle Reinigung und Pflege von Photovoltaik-Anlagen und Steinauffahrten bei Privathaushalten.\n\n**WARUM HIER:** Petersberg weist eine enorm hohe Dichte an Einfamilienhäusern mit alternden PV-Anlagen auf, deren Besitzer (oft Pendler nach Fulda oder Senioren) weder Zeit, Ausrüstung noch Lust auf die gefährliche Dacharbeit haben.\n\n**ERSTER SCHRITT:** Besorge ein mobiles Profi-Reinigungset (Einsatz unter 2.000 €) und verteile 500 Flyer mit einem einfachen Festpreis-Angebot direkt in den Wohngebieten Petersberg-Süd und Stöckels.",
+          "ts": "2026-10-21 08:28",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-fulda",
+          "title": "Vulkanregion-Tourismus — Fulda  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:**\nGeführte Abend-Wanderung im UNESCO-Biosphärenreservat Rhön nahe Fulda mit professioneller Sternenbeobachtung im Lichtschutzgebiet und einem Picknickkorb voll regionaler Biorhoen-Spezialitäten.\n\n**fuer WEN:**\nPerfekt für Paare, kleine Gruppen und Genießer, die eine entschleunigende Auszeit in der Natur mit romantischem Sternenhimmel und lokaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:**\nWählen Sie Ihren Wunschtermin auf unserer Buchungsplattform aus und sichern Sie sich Ihr digitales Ticket mit sofortiger Bestätigung.",
+          "ts": "2026-10-21 08:27",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-fulda",
+          "title": "Direktvermarktung — Fulda  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEine wöchentliche „Rhöner Feierabend-Kiste“ im Abo mit frischem Saisongemüse, regionalem Brot, Käse und einem einfachen Rezept für ein ehrliches Abendessen ohne langen Einkaufsaufwand.\n\n**FÜR WEN:** \nFür Berufstätige, Pendler und geschäftige Familien aus dem Raum Fulda, die Wert auf echte Heimaterzeugnisse legen, aber unter der Woche keine Zeit für Klapperfahrten zu verschiedenen Hofläden haben.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger aus dem Landkreis Fulda an einen Tisch holen, ein fixes Test-Paket schnüren und dieses über Mundpropaganda an 20 Test-Abonnenten ausliefern, um Rückmeldungen einzuholen.",
+          "ts": "2026-10-21 08:27",
+          "age_min": 1
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-fulda",
+          "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbaubetrieb in Fulda\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Hausbesitzer in Fulda aktuell nach einer neuen Wärmepumpe oder Badrenovierung googeln, landen sie direkt bei Ihrer Konkurrenz – sorgen wir dafür, dass die lukrativen Aufträge aus der Region wieder bei Ihnen anfragen.“",
+          "ts": "2026-10-21 08:27",
+          "age_min": 1
         }
       ]
     },
@@ -44,11 +116,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-lautertal",
-          "title": "Senioren-Alltagsdienste — Lautertal  ·  Kunden",
+          "agent": "senioren-fulda",
+          "title": "Senioren-Alltagsdienste — Fulda  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nDer „Dorf-Kurier Lautertal“ ist ein verlässlicher Nachbarschaftsdienst, der Seniorinnen und Senioren Besorgungen abnimmt, Begleitung zu Arztterminen bietet und Zeit für ein kurzes, wertschätzendes Gespräch mitbringt.\n\n**WARUM HIER:** \nDa Lautertal aus vielen verstreuten Ortsteilen besteht und steile Hügelwege sowie ein dünner Nahverkehr besorgungen erschweren, sichert dieser mobile Dienst die Eigenständigkeit im vertrauten Zuhause.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung wird über das Mitteilungsblatt eine feste Telefon-Sprechzeit bekanntgegeben und ein Aufruf für freiwillige Helferinnen und Helfer aus den jeweiligen Dörfern gestartet.",
-          "ts": "2026-10-21 03:00",
+          "text": "**WAS:** Ein mobiler Dorfbegleitdienst, der ältere Menschen in den verstreuten Ortsteilen rund um Fulda individuell beim Einkaufen, bei Arztbesuchen und bei Wegen des täglichen Lebens unterstützt.\n\n**WARUM HIER:** Im weitläufigen Landkreis Fulda wohnen viele Senioren in kleinen Dörfern mit ausgedünntem Nahverkehr, wo verlässliche, persönliche Mobilitätshilfe den Verbleib im vertrauten Zuhause sichert.\n\n**ERSTER SCHRITT:** Nehmen Sie für ein unverbindliches Erstgespräch im eigenen Zuhause Kontakt mit dem Pflegestützpunkt des Landkreises Fulda auf.",
+          "ts": "2026-10-21 08:28",
           "age_min": 0
         }
       ]
