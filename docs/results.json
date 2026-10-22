@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-21 21:59 UTC",
+  "updated": "2026-10-22 00:31 UTC",
   "total_results": 1,
   "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-petersberg",
-      "title": "Senioren-Alltagsdienste — Petersberg  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "chancen-kuenzell",
+      "title": "Chancen-Scout — Kuenzell  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Nachbarschafts-Fahrdienst, der ältere Menschen flexibel aus ihren Ortsteilen zu Einkäufen, Arztterminen oder lokalen Treffpunkten begleitet.\n\n**WARUM HIER:** Da Ärztinnen, Apotheken und Lebensmittelmärkte im Kernort konzentriert sind, die Ortsteile von Petersberg aber weit verteilt liegen, sichert dieser Dienst die eigenständige Versorgung und schützt vor Einsamkeit.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Gemeinde und den örtlichen Vereinen wird ein Runder Tisch einberufen, um den genauen Fahrbedarf der Seniorinnen zu erheben und erste ehrenamtliche Fahrerinnen und Fahrer zu gewinnen.",
-      "ts": "2026-10-21 21:59",
+      "text": "**WAS:** Mobile Vor-Ort-Wartung und Express-Reparatur für E-Bikes und Lastenräder direkt an der Haustür der Kunden.\n\n**WARUM HIER:** Künzell weist als wohlhabender, topografisch hügeliger Vorort von Fulda eine sehr hohe E-Bike-Dichte bei Pendlern und Familien auf, verfügt aber über keinen eigenen schnellen Vor-Ort-Fahrradservice ohne lange Wartezeiten.\n\n**ERSTER SCHRITT:** Verteile einen einfachen Flyer mit drei festen Inspektions-Paketen gezielt in den Einfamilienhaus-Siedlungen von Pilgerzell und Keulos, um die ersten zehn Testkunden zu gewinnen.",
+      "ts": "2026-10-22 00:31",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Kunden",
+      "id": "Chancen",
       "count": 1,
       "items": [
         {
-          "dept": "Kunden",
-          "agent": "senioren-petersberg",
-          "title": "Senioren-Alltagsdienste — Petersberg  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "chancen-kuenzell",
+          "title": "Chancen-Scout — Kuenzell  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Nachbarschafts-Fahrdienst, der ältere Menschen flexibel aus ihren Ortsteilen zu Einkäufen, Arztterminen oder lokalen Treffpunkten begleitet.\n\n**WARUM HIER:** Da Ärztinnen, Apotheken und Lebensmittelmärkte im Kernort konzentriert sind, die Ortsteile von Petersberg aber weit verteilt liegen, sichert dieser Dienst die eigenständige Versorgung und schützt vor Einsamkeit.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Gemeinde und den örtlichen Vereinen wird ein Runder Tisch einberufen, um den genauen Fahrbedarf der Seniorinnen zu erheben und erste ehrenamtliche Fahrerinnen und Fahrer zu gewinnen.",
-          "ts": "2026-10-21 21:59",
+          "text": "**WAS:** Mobile Vor-Ort-Wartung und Express-Reparatur für E-Bikes und Lastenräder direkt an der Haustür der Kunden.\n\n**WARUM HIER:** Künzell weist als wohlhabender, topografisch hügeliger Vorort von Fulda eine sehr hohe E-Bike-Dichte bei Pendlern und Familien auf, verfügt aber über keinen eigenen schnellen Vor-Ort-Fahrradservice ohne lange Wartezeiten.\n\n**ERSTER SCHRITT:** Verteile einen einfachen Flyer mit drei festen Inspektions-Paketen gezielt in den Einfamilienhaus-Siedlungen von Pilgerzell und Keulos, um die ersten zehn Testkunden zu gewinnen.",
+          "ts": "2026-10-22 00:31",
           "age_min": 0
         }
       ]

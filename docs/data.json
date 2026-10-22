@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T21:59Z",
+  "updated": "2026-10-22T00:31Z",
   "agents_total": 162,
   "worked": 1,
   "departments": [
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Mobile Vor-Ort-Wartung und Express-Reparatur für E-Bikes und Lastenräder direkt an der Haustür der Kunden. **WARUM HIER:** Künzell weist als wohlhabender, topografisch hügeliger Vorort von Fulda eine sehr hohe E-Bike-Dichte bei Pendlern und Familien auf, verfügt aber über keinen eigenen schnellen Vor-Ort-Fahrradservice ohne lange Wartezeiten. **ERST",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Nachbarschafts-Fahrdienst, der ältere Menschen flexibel aus ihren Ortsteilen zu Einkäufen, Arztterminen oder lokalen Treffpunkten begleitet. **WARUM HIER:** Da Ärztinnen, Apotheken und Lebensmittelmärkte im Kernort konzentriert sind, die Ortsteile von Petersberg aber weit verteilt liegen, sichert dieser Dienst die e",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1043,18 +1043,18 @@
       "name": "Senioren-Alltagsdienste — Petersberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, ehrenamtlicher Nachbarschafts-Fahrdienst, der ältere Menschen flexibel aus ihren Ortsteilen zu Einkäufen, Arztterminen oder lokalen Treffpunkten begleitet. **WARUM HIER:** Da Ärztinnen, Apothe",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-kuenzell",
       "name": "Chancen-Scout — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobile Vor-Ort-Wartung und Express-Reparatur für E-Bikes und Lastenräder direkt an der Haustür der Kunden. **WARUM HIER:** Künzell weist als wohlhabender, topografisch hügeliger Vorort von Fulda eine sehr hohe E",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-kuenzell",
@@ -1499,16 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 13,
+    "used": 1,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-petersberg",
+      "dept": "Chancen",
+      "agent": "chancen-kuenzell",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Nachbarschafts-Fahrdienst, der ältere Menschen flexibel aus ihren Ortsteilen zu Einkäufen, Arztterminen oder lokalen Treffpunkten begleitet. **WARUM HIER:** Da Ärztinnen, Apotheken und Lebensmittelmärkte im Kernort konzentriert sind, die Ortsteile von Petersberg aber weit verteilt liegen, sichert dieser Dienst die e",
-      "ts": "2026-10-21 21:59",
+      "text": "**WAS:** Mobile Vor-Ort-Wartung und Express-Reparatur für E-Bikes und Lastenräder direkt an der Haustür der Kunden. **WARUM HIER:** Künzell weist als wohlhabender, topografisch hügeliger Vorort von Fulda eine sehr hohe E-Bike-Dichte bei Pendlern und Familien auf, verfügt aber über keinen eigenen schnellen Vor-Ort-Fahrradservice ohne lange Wartezeiten. **ERST",
+      "ts": "2026-10-22 00:31",
       "age_min": 0
     }
   ]
