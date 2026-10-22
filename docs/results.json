@@ -1,39 +1,75 @@
 {
-  "updated": "2026-10-22 10:23 UTC",
-  "total_results": 2,
+  "updated": "2026-10-22 15:27 UTC",
+  "total_results": 4,
   "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "chancen-huenfeld",
-      "title": "Chancen-Scout — Huenfeld  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-huenfeld",
+      "title": "Senioren-Alltagsdienste — Huenfeld  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Mobiler Wartungs- und Reparaturservice für E-Bikes und Firmenräder direkt beim Kunden oder auf dem Betriebsgelände.\n\n**WARUM HIER:** Hünfeld weist durch viele JobRad-Nutzer in den örtlichen Gewerbegebieten und den Freizeitverkehr am Kegelspiel-Radweg eine hohe E-Bike-Dichte auf, hat aber spürbare Engpässe bei flexiblen Werkstattkapazitäten.\n\n**ERSTER SCHRITT:** Mit einem gut ausgestatteten Werkstatt-Transporter die HR-Abteilungen der Hünfelder Mittelständler kontaktieren und feste monatliche \"Service-Tage\" für die Mitarbeiter-Fahrräder vereinbaren.",
-      "ts": "2026-10-22 10:23",
+      "text": "**WAS:**\nEin mobiler Dorfbegleitdienst, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen zu Arztterminen, Einkäufen oder Gemeinschaftsveranstaltungen fährt und sie vor Ort geduldig unterstützt.\n\n**WARUM HIER:**\nIn den ländlich geprägten, hügeligen Ortsteilen rund um Hünfeld ist der öffentliche Nahverkehr spärlich, weshalb viele Seniorinnen und Senioren ohne eigenes Auto isoliert sind und alltägliche Wege kaum noch alleine bewältigen können.\n\n**ERSTER SCHRITT:**\nGemeinsam mit der Stadt Hünfeld und den örtlichen Ortsvorstehern eine einfache Bedarfsabfrage in zwei Pilot-Dörfern durchführen, um feste Fahr- und Begleittage zu etablieren.",
+      "ts": "2026-10-22 15:27",
       "age_min": 0
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-neuhof",
-      "title": "Senioren-Alltagsdienste — Neuhof  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "tourismus-huenfeld",
+      "title": "Vulkanregion-Tourismus — Huenfeld  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher Fahr- und Besorgungsdienst holt ältere Mitbürger direkt zu Hause ab und begleitet sie persönlich zum Arzt, zum Einkaufen oder zu Treffpunkten in den Nachbardörfern.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen fußläufige Angebote und eine dichte Busanbindung, weshalb mobile Nachbarschaftshilfe die Selbstständigkeit und soziale Teilhabe im gewohnten Umfeld bewahrt.\n\n**ERSTER SCHRITT:** Gemeinsam mit dem Ortsbeirat und engagierten Bürgern wird ein zentrales Dorf-Telefon eingerichtet, über das Anfragen unkompliziert aufgenommen und Fahrten koordiniert werden.",
-      "ts": "2026-10-22 10:23",
+      "text": "**WAS:** Das Erlebnis-Paket „Zuse, Zauber & Rhön-Tapas“ kombiniert eine interaktive Smartphone-Rätseltour auf den Spuren des Computerpioniers Konrad Zuse rund um den Hünfelder Haselsee mit einem gut gefüllten Picknickkorb voller regionaler Leckereien.\n\n**FÜR WEN:** Dieses Angebot richtet sich an Paare, Familien und neugierige Entdecker, die Lust auf eine genussvolle und unterhaltsame Auszeit an der frischen Luft haben.\n\n**ERSTER SCHRITT:** Buche deinen Wunschtermin mit wenigen Klicks online, um deinen App-Zugangscode sowie die Abholbestätigung für deinen Picknickkorb direkt auf dein Smartphone zu erhalten.",
+      "ts": "2026-10-22 15:27",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-huenfeld",
+      "title": "Direktvermarktung — Huenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDie „Hünfelder Feierabend-Kiste“ – ein wöchentliches Abokisten-Modell mit saisonalem Gemüse, Rhöner Wurst, Käse und frischem Brot, verpackt mit einfachen Rezepten zur flexiblen Abholung an gekühlten 24/7-Regiomaten.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Hünfeld und den Ortsteilen, die unter der Woche wenig Zeit haben, aber ehrliche Qualität direkt vom Erzeuger auf dem Teller wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Betriebe (Gemüsehof, Bäcker, Metzgerei) an einen Tisch holen, ein fixes Test-Paket schnüren und über eine einfache WhatsApp-Gruppe die ersten 20 Stammkunden suchen.",
+      "ts": "2026-10-22 15:27",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-huenfeld",
+      "title": "Handwerk-Sichtbarkeit — Huenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer in Hünfeld (Fokus: Heizungsmodernisierung & Notdienst).\n\n**Ansprache-Idee:** \n„Viele Hünfelder suchen aktuell auf dem Smartphone nach Experten für den Heizungstausch – sorgen wir dafür, dass sie direkt bei Ihnen anrufen und die lukrativen Aufträge nicht an Konkurrenten aus Fulda verlieren.“",
+      "ts": "2026-10-22 15:26",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-huenfeld",
-          "title": "Chancen-Scout — Huenfeld  ·  Chancen",
+          "agent": "tourismus-huenfeld",
+          "title": "Vulkanregion-Tourismus — Huenfeld  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Mobiler Wartungs- und Reparaturservice für E-Bikes und Firmenräder direkt beim Kunden oder auf dem Betriebsgelände.\n\n**WARUM HIER:** Hünfeld weist durch viele JobRad-Nutzer in den örtlichen Gewerbegebieten und den Freizeitverkehr am Kegelspiel-Radweg eine hohe E-Bike-Dichte auf, hat aber spürbare Engpässe bei flexiblen Werkstattkapazitäten.\n\n**ERSTER SCHRITT:** Mit einem gut ausgestatteten Werkstatt-Transporter die HR-Abteilungen der Hünfelder Mittelständler kontaktieren und feste monatliche \"Service-Tage\" für die Mitarbeiter-Fahrräder vereinbaren.",
-          "ts": "2026-10-22 10:23",
+          "text": "**WAS:** Das Erlebnis-Paket „Zuse, Zauber & Rhön-Tapas“ kombiniert eine interaktive Smartphone-Rätseltour auf den Spuren des Computerpioniers Konrad Zuse rund um den Hünfelder Haselsee mit einem gut gefüllten Picknickkorb voller regionaler Leckereien.\n\n**FÜR WEN:** Dieses Angebot richtet sich an Paare, Familien und neugierige Entdecker, die Lust auf eine genussvolle und unterhaltsame Auszeit an der frischen Luft haben.\n\n**ERSTER SCHRITT:** Buche deinen Wunschtermin mit wenigen Klicks online, um deinen App-Zugangscode sowie die Abholbestätigung für deinen Picknickkorb direkt auf dein Smartphone zu erhalten.",
+          "ts": "2026-10-22 15:27",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-huenfeld",
+          "title": "Direktvermarktung — Huenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDie „Hünfelder Feierabend-Kiste“ – ein wöchentliches Abokisten-Modell mit saisonalem Gemüse, Rhöner Wurst, Käse und frischem Brot, verpackt mit einfachen Rezepten zur flexiblen Abholung an gekühlten 24/7-Regiomaten.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Hünfeld und den Ortsteilen, die unter der Woche wenig Zeit haben, aber ehrliche Qualität direkt vom Erzeuger auf dem Teller wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Betriebe (Gemüsehof, Bäcker, Metzgerei) an einen Tisch holen, ein fixes Test-Paket schnüren und über eine einfache WhatsApp-Gruppe die ersten 20 Stammkunden suchen.",
+          "ts": "2026-10-22 15:27",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-huenfeld",
+          "title": "Handwerk-Sichtbarkeit — Huenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer in Hünfeld (Fokus: Heizungsmodernisierung & Notdienst).\n\n**Ansprache-Idee:** \n„Viele Hünfelder suchen aktuell auf dem Smartphone nach Experten für den Heizungstausch – sorgen wir dafür, dass sie direkt bei Ihnen anrufen und die lukrativen Aufträge nicht an Konkurrenten aus Fulda verlieren.“",
+          "ts": "2026-10-22 15:26",
           "age_min": 0
         }
       ]
@@ -44,11 +80,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-neuhof",
-          "title": "Senioren-Alltagsdienste — Neuhof  ·  Kunden",
+          "agent": "senioren-huenfeld",
+          "title": "Senioren-Alltagsdienste — Huenfeld  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Ein verlässlicher Fahr- und Besorgungsdienst holt ältere Mitbürger direkt zu Hause ab und begleitet sie persönlich zum Arzt, zum Einkaufen oder zu Treffpunkten in den Nachbardörfern.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen fußläufige Angebote und eine dichte Busanbindung, weshalb mobile Nachbarschaftshilfe die Selbstständigkeit und soziale Teilhabe im gewohnten Umfeld bewahrt.\n\n**ERSTER SCHRITT:** Gemeinsam mit dem Ortsbeirat und engagierten Bürgern wird ein zentrales Dorf-Telefon eingerichtet, über das Anfragen unkompliziert aufgenommen und Fahrten koordiniert werden.",
-          "ts": "2026-10-22 10:23",
+          "text": "**WAS:**\nEin mobiler Dorfbegleitdienst, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen zu Arztterminen, Einkäufen oder Gemeinschaftsveranstaltungen fährt und sie vor Ort geduldig unterstützt.\n\n**WARUM HIER:**\nIn den ländlich geprägten, hügeligen Ortsteilen rund um Hünfeld ist der öffentliche Nahverkehr spärlich, weshalb viele Seniorinnen und Senioren ohne eigenes Auto isoliert sind und alltägliche Wege kaum noch alleine bewältigen können.\n\n**ERSTER SCHRITT:**\nGemeinsam mit der Stadt Hünfeld und den örtlichen Ortsvorstehern eine einfache Bedarfsabfrage in zwei Pilot-Dörfern durchführen, um feste Fahr- und Begleittage zu etablieren.",
+          "ts": "2026-10-22 15:27",
           "age_min": 0
         }
       ]
