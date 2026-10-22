@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-22T00:31Z",
+  "updated": "2026-10-22T05:22Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Mobile Vor-Ort-Wartung und Express-Reparatur für E-Bikes und Lastenräder direkt an der Haustür der Kunden. **WARUM HIER:** Künzell weist als wohlhabender, topografisch hügeliger Vorort von Fulda eine sehr hohe E-Bike-Dichte bei Pendlern und Familien auf, verfügt aber über keinen eigenen schnellen Vor-Ort-Fahrradservice ohne lange Wartezeiten. **ERST",
+        "text": "**WAS:** Bei der geführten Abend-Wanderung auf den imposanten Kaliberg „Monte Kali“ in Neuhof erleben Sie einen spektakulären 360-Grad-Blick über die Rhön und genießen auf dem Gipfel ein Picknick mit regionalen Vogelsberger Spezialitäten. **fuer WEN:** Das Paket richtet sich an Paare, Genuss-Wanderer und Fotografie-Begeisterte, die eine außergewöhnliche Indu",
         "age_min": 0
       }
     },
@@ -1052,9 +1052,9 @@
       "name": "Chancen-Scout — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobile Vor-Ort-Wartung und Express-Reparatur für E-Bikes und Lastenräder direkt an der Haustür der Kunden. **WARUM HIER:** Künzell weist als wohlhabender, topografisch hügeliger Vorort von Fulda eine sehr hohe E",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-kuenzell",
@@ -1070,18 +1070,18 @@
       "name": "Direktvermarktung — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine regionale „Rhön-Feierabend-Box“ im wöchentlichen Abo mit frischem Bauernbrot, Käse, Wurst und Saison-Gemüse, die gut gekühlt rund um die Uhr an einer zentralen Abholstation in Künzell bereitsteht. **für WEN",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-kuenzell",
       "name": "Vulkanregion-Tourismus — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Künzeller Sternenstunden“ kombiniert eine geführte Dämmerungswanderung um den historischen Florenberg mit einem gefüllten Rhöner Gourmet-Picknickkorb und anschließender professioneller Sterne",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-kuenzell",
@@ -1097,36 +1097,36 @@
       "name": "Chancen-Scout — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein automatisierter 24/7-Regiomat mit frischen, vorgekochten Schichtarbeiter-Mahlzeiten (Meal-Prep) und regionalem Alltagsbedarf. **WARUM HIER:** Durch das K+S-Kaliwerk mit rund 700 Beschäftigten im Dreischichtb",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-neuhof",
       "name": "Handwerk-Sichtbarkeit — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer in Neuhof nach einer neuen Wärmepumpe oder Bad-Sanierung googeln, landen sie aktuell meist bei der Konkurrenz ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-neuhof",
       "name": "Direktvermarktung — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Neuhöfer Feierabend-Kiste“ als wöchentliches Abo mit frischem Brot, Eiern, Saison-Gemüse und Hausmacher Wurst, die freitags flexibel an einer wetterfesten Abhol-Station am Hof bereitsteht. **fuer WEN:** Für",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-neuhof",
       "name": "Vulkanregion-Tourismus — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei der geführten Abend-Wanderung auf den imposanten Kaliberg „Monte Kali“ in Neuhof erleben Sie einen spektakulären 360-Grad-Blick über die Rhön und genießen auf dem Gipfel ein Picknick mit regionalen Vogelsber",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-neuhof",
@@ -1499,16 +1499,56 @@
     }
   ],
   "budget": {
-    "used": 1,
+    "used": 7,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-kuenzell",
+      "agent": "tourismus-neuhof",
       "via": "gemini",
-      "text": "**WAS:** Mobile Vor-Ort-Wartung und Express-Reparatur für E-Bikes und Lastenräder direkt an der Haustür der Kunden. **WARUM HIER:** Künzell weist als wohlhabender, topografisch hügeliger Vorort von Fulda eine sehr hohe E-Bike-Dichte bei Pendlern und Familien auf, verfügt aber über keinen eigenen schnellen Vor-Ort-Fahrradservice ohne lange Wartezeiten. **ERST",
-      "ts": "2026-10-22 00:31",
+      "text": "**WAS:** Bei der geführten Abend-Wanderung auf den imposanten Kaliberg „Monte Kali“ in Neuhof erleben Sie einen spektakulären 360-Grad-Blick über die Rhön und genießen auf dem Gipfel ein Picknick mit regionalen Vogelsberger Spezialitäten. **fuer WEN:** Das Paket richtet sich an Paare, Genuss-Wanderer und Fotografie-Begeisterte, die eine außergewöhnliche Indu",
+      "ts": "2026-10-22 05:22",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Die „Neuhöfer Feierabend-Kiste“ als wöchentliches Abo mit frischem Brot, Eiern, Saison-Gemüse und Hausmacher Wurst, die freitags flexibel an einer wetterfesten Abhol-Station am Hof bereitsteht. **fuer WEN:** Für Pendler und beschäftigte Familien aus Neuhof und den Nachbardörfern, die ehrliche Landprodukte schätzen, es aber unter der Woche nicht zu d",
+      "ts": "2026-10-22 05:22",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-neuhof",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer in Neuhof nach einer neuen Wärmepumpe oder Bad-Sanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir gemeinsam dafür sorgen, dass diese lukrativen Aufträge bei Ihnen im Ort bleiben?“",
+      "ts": "2026-10-22 05:22",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Ein automatisierter 24/7-Regiomat mit frischen, vorgekochten Schichtarbeiter-Mahlzeiten (Meal-Prep) und regionalem Alltagsbedarf. **WARUM HIER:** Durch das K+S-Kaliwerk mit rund 700 Beschäftigten im Dreischichtbetrieb und die vielen A66-Pendler gibt es in Neuhof eine konstant hohe Nachfrage nach schneller Verpflegung außerhalb regulärer Ladenöffnung",
+      "ts": "2026-10-22 05:22",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-kuenzell",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Künzeller Sternenstunden“ kombiniert eine geführte Dämmerungswanderung um den historischen Florenberg mit einem gefüllten Rhöner Gourmet-Picknickkorb und anschließender professioneller Sternenbeobachtung. **für WEN:** Dieses Angebot eignet sich perfekt für Paare und Erholungssuchende, die einen romantischen, entschleunigenden Abe",
+      "ts": "2026-10-22 05:22",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-kuenzell",
+      "via": "gemini",
+      "text": "**WAS:** Eine regionale „Rhön-Feierabend-Box“ im wöchentlichen Abo mit frischem Bauernbrot, Käse, Wurst und Saison-Gemüse, die gut gekühlt rund um die Uhr an einer zentralen Abholstation in Künzell bereitsteht. **für WEN:** Für berufstätige Pendler und Familien aus Künzell, die ehrliche Hofprodukte aus der Region schätzen, aber unter der Woche keine Zeit für",
+      "ts": "2026-10-22 05:21",
       "age_min": 0
     }
   ]

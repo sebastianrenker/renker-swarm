@@ -1,30 +1,120 @@
 {
-  "updated": "2026-10-22 00:31 UTC",
-  "total_results": 1,
+  "updated": "2026-10-22 05:22 UTC",
+  "total_results": 6,
   "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-kuenzell",
-      "title": "Chancen-Scout — Kuenzell  ·  Chancen",
+      "agent": "tourismus-neuhof",
+      "title": "Vulkanregion-Tourismus — Neuhof  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Mobile Vor-Ort-Wartung und Express-Reparatur für E-Bikes und Lastenräder direkt an der Haustür der Kunden.\n\n**WARUM HIER:** Künzell weist als wohlhabender, topografisch hügeliger Vorort von Fulda eine sehr hohe E-Bike-Dichte bei Pendlern und Familien auf, verfügt aber über keinen eigenen schnellen Vor-Ort-Fahrradservice ohne lange Wartezeiten.\n\n**ERSTER SCHRITT:** Verteile einen einfachen Flyer mit drei festen Inspektions-Paketen gezielt in den Einfamilienhaus-Siedlungen von Pilgerzell und Keulos, um die ersten zehn Testkunden zu gewinnen.",
-      "ts": "2026-10-22 00:31",
+      "text": "**WAS:**\nBei der geführten Abend-Wanderung auf den imposanten Kaliberg „Monte Kali“ in Neuhof erleben Sie einen spektakulären 360-Grad-Blick über die Rhön und genießen auf dem Gipfel ein Picknick mit regionalen Vogelsberger Spezialitäten.\n\n**fuer WEN:**\nDas Paket richtet sich an Paare, Genuss-Wanderer und Fotografie-Begeisterte, die eine außergewöhnliche Industrienatur-Kulisse mit heimatlicher Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:**\nWählen Sie auf unserer Plattform einfach Ihren Wunschtermin aus und sichern Sie sich Ihr exklusives Gipfel-Vesper mit wenigen Klicks online.",
+      "ts": "2026-10-22 05:22",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-neuhof",
+      "title": "Direktvermarktung — Neuhof  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDie „Neuhöfer Feierabend-Kiste“ als wöchentliches Abo mit frischem Brot, Eiern, Saison-Gemüse und Hausmacher Wurst, die freitags flexibel an einer wetterfesten Abhol-Station am Hof bereitsteht.\n\n**fuer WEN:** \nFür Pendler und beschäftigte Familien aus Neuhof und den Nachbardörfern, die ehrliche Landprodukte schätzen, es aber unter der Woche nicht zu den klassischen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** \nMit zwei Nachbarbetrieben (z. B. Bäcker und Metzger) das Sortiment abstimmen und über die Dorf-WhatsApp-Gruppe sowie einen Aushang erst einmal 15 Test-Kisten für einen Probemonat anbieten.",
+      "ts": "2026-10-22 05:22",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-neuhof",
+      "title": "Handwerk-Sichtbarkeit — Neuhof  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Hallo Herr [Name], wenn Hausbesitzer in Neuhof nach einer neuen Wärmepumpe oder Bad-Sanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir gemeinsam dafür sorgen, dass diese lukrativen Aufträge bei Ihnen im Ort bleiben?“",
+      "ts": "2026-10-22 05:22",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-neuhof",
+      "title": "Chancen-Scout — Neuhof  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein automatisierter 24/7-Regiomat mit frischen, vorgekochten Schichtarbeiter-Mahlzeiten (Meal-Prep) und regionalem Alltagsbedarf.\n\n**WARUM HIER:** Durch das K+S-Kaliwerk mit rund 700 Beschäftigten im Dreischichtbetrieb und die vielen A66-Pendler gibt es in Neuhof eine konstant hohe Nachfrage nach schneller Verpflegung außerhalb regulärer Ladenöffnungszeiten.\n\n**ERSTER SCHRITT:** Einen verkehrsgünstigen Stellplatz nahe dem K+S-Gelände oder Bahnhof anfragen und eine Kooperation mit einer Neuhofer Metzgerei für die Belieferung vereinbaren.",
+      "ts": "2026-10-22 05:22",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-kuenzell",
+      "title": "Vulkanregion-Tourismus — Kuenzell  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Künzeller Sternenstunden“ kombiniert eine geführte Dämmerungswanderung um den historischen Florenberg mit einem gefüllten Rhöner Gourmet-Picknickkorb und anschließender professioneller Sternenbeobachtung.\n\n**für WEN:** Dieses Angebot eignet sich perfekt für Paare und Erholungssuchende, die einen romantischen, entschleunigenden Abend in der Natur mit regionalem Genuss verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Plattform deinen Wunschtermin aus, gib deine kulinarischen Vorlieben für den Picknickkorb an und sichere dir dein digitales Ticket mit nur wenigen Klicks.",
+      "ts": "2026-10-22 05:22",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-kuenzell",
+      "title": "Direktvermarktung — Kuenzell  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine regionale „Rhön-Feierabend-Box“ im wöchentlichen Abo mit frischem Bauernbrot, Käse, Wurst und Saison-Gemüse, die gut gekühlt rund um die Uhr an einer zentralen Abholstation in Künzell bereitsteht.\n\n**für WEN:** Für berufstätige Pendler und Familien aus Künzell, die ehrliche Hofprodukte aus der Region schätzen, aber unter der Woche keine Zeit für Fahrten zu einzelnen Hofläden haben.\n\n**ERSTER SCHRITT:** Drei bis vier lokale Landwirte und einen Bäcker aus der direkten Umgebung für ein einfaches Start-Sortiment gewinnen und die Box vier Wochen lang mit 20 Test-Haushalten ausprobieren.",
+      "ts": "2026-10-22 05:21",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 6,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-kuenzell",
-          "title": "Chancen-Scout — Kuenzell  ·  Chancen",
+          "agent": "tourismus-neuhof",
+          "title": "Vulkanregion-Tourismus — Neuhof  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Mobile Vor-Ort-Wartung und Express-Reparatur für E-Bikes und Lastenräder direkt an der Haustür der Kunden.\n\n**WARUM HIER:** Künzell weist als wohlhabender, topografisch hügeliger Vorort von Fulda eine sehr hohe E-Bike-Dichte bei Pendlern und Familien auf, verfügt aber über keinen eigenen schnellen Vor-Ort-Fahrradservice ohne lange Wartezeiten.\n\n**ERSTER SCHRITT:** Verteile einen einfachen Flyer mit drei festen Inspektions-Paketen gezielt in den Einfamilienhaus-Siedlungen von Pilgerzell und Keulos, um die ersten zehn Testkunden zu gewinnen.",
-          "ts": "2026-10-22 00:31",
+          "text": "**WAS:**\nBei der geführten Abend-Wanderung auf den imposanten Kaliberg „Monte Kali“ in Neuhof erleben Sie einen spektakulären 360-Grad-Blick über die Rhön und genießen auf dem Gipfel ein Picknick mit regionalen Vogelsberger Spezialitäten.\n\n**fuer WEN:**\nDas Paket richtet sich an Paare, Genuss-Wanderer und Fotografie-Begeisterte, die eine außergewöhnliche Industrienatur-Kulisse mit heimatlicher Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:**\nWählen Sie auf unserer Plattform einfach Ihren Wunschtermin aus und sichern Sie sich Ihr exklusives Gipfel-Vesper mit wenigen Klicks online.",
+          "ts": "2026-10-22 05:22",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-neuhof",
+          "title": "Direktvermarktung — Neuhof  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDie „Neuhöfer Feierabend-Kiste“ als wöchentliches Abo mit frischem Brot, Eiern, Saison-Gemüse und Hausmacher Wurst, die freitags flexibel an einer wetterfesten Abhol-Station am Hof bereitsteht.\n\n**fuer WEN:** \nFür Pendler und beschäftigte Familien aus Neuhof und den Nachbardörfern, die ehrliche Landprodukte schätzen, es aber unter der Woche nicht zu den klassischen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** \nMit zwei Nachbarbetrieben (z. B. Bäcker und Metzger) das Sortiment abstimmen und über die Dorf-WhatsApp-Gruppe sowie einen Aushang erst einmal 15 Test-Kisten für einen Probemonat anbieten.",
+          "ts": "2026-10-22 05:22",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-neuhof",
+          "title": "Handwerk-Sichtbarkeit — Neuhof  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Hallo Herr [Name], wenn Hausbesitzer in Neuhof nach einer neuen Wärmepumpe oder Bad-Sanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir gemeinsam dafür sorgen, dass diese lukrativen Aufträge bei Ihnen im Ort bleiben?“",
+          "ts": "2026-10-22 05:22",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-neuhof",
+          "title": "Chancen-Scout — Neuhof  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein automatisierter 24/7-Regiomat mit frischen, vorgekochten Schichtarbeiter-Mahlzeiten (Meal-Prep) und regionalem Alltagsbedarf.\n\n**WARUM HIER:** Durch das K+S-Kaliwerk mit rund 700 Beschäftigten im Dreischichtbetrieb und die vielen A66-Pendler gibt es in Neuhof eine konstant hohe Nachfrage nach schneller Verpflegung außerhalb regulärer Ladenöffnungszeiten.\n\n**ERSTER SCHRITT:** Einen verkehrsgünstigen Stellplatz nahe dem K+S-Gelände oder Bahnhof anfragen und eine Kooperation mit einer Neuhofer Metzgerei für die Belieferung vereinbaren.",
+          "ts": "2026-10-22 05:22",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-kuenzell",
+          "title": "Vulkanregion-Tourismus — Kuenzell  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Das Erlebnis-Paket „Künzeller Sternenstunden“ kombiniert eine geführte Dämmerungswanderung um den historischen Florenberg mit einem gefüllten Rhöner Gourmet-Picknickkorb und anschließender professioneller Sternenbeobachtung.\n\n**für WEN:** Dieses Angebot eignet sich perfekt für Paare und Erholungssuchende, die einen romantischen, entschleunigenden Abend in der Natur mit regionalem Genuss verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Plattform deinen Wunschtermin aus, gib deine kulinarischen Vorlieben für den Picknickkorb an und sichere dir dein digitales Ticket mit nur wenigen Klicks.",
+          "ts": "2026-10-22 05:22",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-kuenzell",
+          "title": "Direktvermarktung — Kuenzell  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Eine regionale „Rhön-Feierabend-Box“ im wöchentlichen Abo mit frischem Bauernbrot, Käse, Wurst und Saison-Gemüse, die gut gekühlt rund um die Uhr an einer zentralen Abholstation in Künzell bereitsteht.\n\n**für WEN:** Für berufstätige Pendler und Familien aus Künzell, die ehrliche Hofprodukte aus der Region schätzen, aber unter der Woche keine Zeit für Fahrten zu einzelnen Hofläden haben.\n\n**ERSTER SCHRITT:** Drei bis vier lokale Landwirte und einen Bäcker aus der direkten Umgebung für ein einfaches Start-Sortiment gewinnen und die Box vier Wochen lang mit 20 Test-Haushalten ausprobieren.",
+          "ts": "2026-10-22 05:21",
           "age_min": 0
         }
       ]
