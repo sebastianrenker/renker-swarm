@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-22T15:27Z",
+  "updated": "2026-10-22T19:21Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Das Erlebnis-Paket „Zuse, Zauber & Rhön-Tapas“ kombiniert eine interaktive Smartphone-Rätseltour auf den Spuren des Computerpioniers Konrad Zuse rund um den Hünfelder Haselsee mit einem gut gefüllten Picknickkorb voller regionaler Leckereien. **FÜR WEN:** Dieses Angebot richtet sich an Paare, Familien und neugierige Entdecker, die Lust auf eine genu",
+        "text": "**WAS:** Ein mobiler, digital vorbestellbarer B2B-Mittagstisch-Lieferservice mit frischen, regionalen Gerichten speziell für Mitarbeiter im Industriepark Rhön. **WARUM HIER:** Der Industriepark Rhön ist einer der größten Gewerbestandorte Osthessens mit tausenden Beschäftigten, bietet aber abseits von klassischem Fast Food kaum schnelle, gesunde Gastronomie-A",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Dorfbegleitdienst, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen zu Arztterminen, Einkäufen oder Gemeinschaftsveranstaltungen fährt und sie vor Ort geduldig unterstützt. **WARUM HIER:** In den ländlich geprägten, hügeligen Ortsteilen rund um Hünfeld ist der öffentliche Nahverkehr spärlich, weshalb viele Seniorinnen und Sen",
+        "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Dorf-Begleitdienst, der ältere Menschen aus den entlegeneren Ortsteilen flexibel zu Arztterminen, Besorgungen oder Seniorentreffs im Kernort bringt und persönlich unterstützt. **WARUM HIER:** Da Großenlüder aus mehreren weit verstreuten Ortsteilen wie Kleinlüder oder Müs besteht und der öffentliche Nahverkehr oft un",
         "age_min": 0
       }
     },
@@ -1155,90 +1155,90 @@
       "name": "Handwerk-Sichtbarkeit — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer in Hünfeld (Fokus: Heizungsmodernisierung & Notdienst). **Ansprache-Idee:** „Viele Hünfelder suchen aktuell auf dem Smartphone nach Experten für den Heizungstausch – sorgen wir",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-huenfeld",
       "name": "Direktvermarktung — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Hünfelder Feierabend-Kiste“ – ein wöchentliches Abokisten-Modell mit saisonalem Gemüse, Rhöner Wurst, Käse und frischem Brot, verpackt mit einfachen Rezepten zur flexiblen Abholung an gekühlten 24/7-Regioma",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-huenfeld",
       "name": "Vulkanregion-Tourismus — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Zuse, Zauber & Rhön-Tapas“ kombiniert eine interaktive Smartphone-Rätseltour auf den Spuren des Computerpioniers Konrad Zuse rund um den Hünfelder Haselsee mit einem gut gefüllten Picknickkor",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-huenfeld",
       "name": "Senioren-Alltagsdienste — Huenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Dorfbegleitdienst, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen zu Arztterminen, Einkäufen oder Gemeinschaftsveranstaltungen fährt und sie vor Ort geduldig unterstützt. **WARUM HIER:*",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-grossenlueder",
       "name": "Chancen-Scout — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobiler Vor-Ort-Service für die Wartung, Schärfung und Reparatur von Rasenmähern, Gartengeräten und E-Bikes mittels Werkstatt-Anhänger. **WARUM HIER:** Großenlüder hat mit seinen acht weitläufigen Ortsteilen ein",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grossenlueder",
       "name": "Handwerk-Sichtbarkeit — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK-Handwerk) in Großenlüder. **Ansprache-Idee:** „Damit Eigenheimbesitzer aus Großenlüder bei einer geplanten Badsanierung oder Fragen zur neuen Heizung direkt Ihre Vor-Ort",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-grossenlueder",
       "name": "Direktvermarktung — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Lüdertaler Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit frischem Landbrot, Hausmacher Wurst, regionalem Käse und Saison-Gemüse von Höfen rund um Großenlüder. **FÜR WEN:** Für beschäftigte Familien und",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-grossenlueder",
       "name": "Vulkanregion-Tourismus — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Lüder-Kräuter & Kalkstein-Picknick“ ist eine geführte Mikro-Wanderung rund um den naturnahen Kalkberg in Großenlüder, bei der Sie essbare Wildkräuter sammeln und anschließend ein Picknick mit regionalen Rhön-Vo",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-grossenlueder",
       "name": "Senioren-Alltagsdienste — Grossenlueder",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, ehrenamtlicher Dorf-Begleitdienst, der ältere Menschen aus den entlegeneren Ortsteilen flexibel zu Arztterminen, Besorgungen oder Seniorentreffs im Kernort bringt und persönlich unterstützt. *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-eichenzell",
       "name": "Chancen-Scout — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler, digital vorbestellbarer B2B-Mittagstisch-Lieferservice mit frischen, regionalen Gerichten speziell für Mitarbeiter im Industriepark Rhön. **WARUM HIER:** Der Industriepark Rhön ist einer der größten",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-eichenzell",
@@ -1503,40 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 13,
+    "used": 19,
     "cap": 600
   },
   "recent": [
     {
+      "dept": "Chancen",
+      "agent": "chancen-eichenzell",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler, digital vorbestellbarer B2B-Mittagstisch-Lieferservice mit frischen, regionalen Gerichten speziell für Mitarbeiter im Industriepark Rhön. **WARUM HIER:** Der Industriepark Rhön ist einer der größten Gewerbestandorte Osthessens mit tausenden Beschäftigten, bietet aber abseits von klassischem Fast Food kaum schnelle, gesunde Gastronomie-A",
+      "ts": "2026-10-22 19:21",
+      "age_min": 0
+    },
+    {
       "dept": "Kunden",
-      "agent": "senioren-huenfeld",
+      "agent": "senioren-grossenlueder",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorfbegleitdienst, der ältere Menschen aus den verstreuten Hünfelder Ortsteilen zu Arztterminen, Einkäufen oder Gemeinschaftsveranstaltungen fährt und sie vor Ort geduldig unterstützt. **WARUM HIER:** In den ländlich geprägten, hügeligen Ortsteilen rund um Hünfeld ist der öffentliche Nahverkehr spärlich, weshalb viele Seniorinnen und Sen",
-      "ts": "2026-10-22 15:27",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Dorf-Begleitdienst, der ältere Menschen aus den entlegeneren Ortsteilen flexibel zu Arztterminen, Besorgungen oder Seniorentreffs im Kernort bringt und persönlich unterstützt. **WARUM HIER:** Da Großenlüder aus mehreren weit verstreuten Ortsteilen wie Kleinlüder oder Müs besteht und der öffentliche Nahverkehr oft un",
+      "ts": "2026-10-22 19:21",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-huenfeld",
+      "agent": "tourismus-grossenlueder",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Zuse, Zauber & Rhön-Tapas“ kombiniert eine interaktive Smartphone-Rätseltour auf den Spuren des Computerpioniers Konrad Zuse rund um den Hünfelder Haselsee mit einem gut gefüllten Picknickkorb voller regionaler Leckereien. **FÜR WEN:** Dieses Angebot richtet sich an Paare, Familien und neugierige Entdecker, die Lust auf eine genu",
-      "ts": "2026-10-22 15:27",
+      "text": "**WAS:** „Lüder-Kräuter & Kalkstein-Picknick“ ist eine geführte Mikro-Wanderung rund um den naturnahen Kalkberg in Großenlüder, bei der Sie essbare Wildkräuter sammeln und anschließend ein Picknick mit regionalen Rhön-Vogelsberg-Spezialitäten an der historischen Schnepfenkapelle genießen. **fuer WEN:** Das Angebot richtet sich an Naturgenießer, Paare und kle",
+      "ts": "2026-10-22 19:21",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-huenfeld",
+      "agent": "direkt-grossenlueder",
       "via": "gemini",
-      "text": "**WAS:** Die „Hünfelder Feierabend-Kiste“ – ein wöchentliches Abokisten-Modell mit saisonalem Gemüse, Rhöner Wurst, Käse und frischem Brot, verpackt mit einfachen Rezepten zur flexiblen Abholung an gekühlten 24/7-Regiomaten. **FÜR WEN:** Für berufstätige Pendler und Familien aus Hünfeld und den Ortsteilen, die unter der Woche wenig Zeit haben, aber ehrliche ",
-      "ts": "2026-10-22 15:27",
+      "text": "**WAS:** Die „Lüdertaler Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit frischem Landbrot, Hausmacher Wurst, regionalem Käse und Saison-Gemüse von Höfen rund um Großenlüder. **FÜR WEN:** Für beschäftigte Familien und B254-Pendler, die gute Lebensmittel aus der Heimat schätzen, aber im Alltag keine Zeit für mehrere Wege zu einzelnen Hofläden haben. **ERST",
+      "ts": "2026-10-22 19:21",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-huenfeld",
+      "agent": "handwerk-grossenlueder",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer in Hünfeld (Fokus: Heizungsmodernisierung & Notdienst). **Ansprache-Idee:** „Viele Hünfelder suchen aktuell auf dem Smartphone nach Experten für den Heizungstausch – sorgen wir dafür, dass sie direkt bei Ihnen anrufen und die lukrativen Aufträge nicht an Konkurrenten aus Fulda verlieren.“",
-      "ts": "2026-10-22 15:26",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK-Handwerk) in Großenlüder. **Ansprache-Idee:** „Damit Eigenheimbesitzer aus Großenlüder bei einer geplanten Badsanierung oder Fragen zur neuen Heizung direkt Ihre Vor-Ort-Expertise auf Google finden – und nicht an die Konkurrenz aus Fulda geraten.“",
+      "ts": "2026-10-22 19:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-grossenlueder",
+      "via": "gemini",
+      "text": "**WAS:** Mobiler Vor-Ort-Service für die Wartung, Schärfung und Reparatur von Rasenmähern, Gartengeräten und E-Bikes mittels Werkstatt-Anhänger. **WARUM HIER:** Großenlüder hat mit seinen acht weitläufigen Ortsteilen eine extrem hohe Eigenheim- und Vereinsdichte, aber keinen eigenen Fachhandel für Kleinmotoren- und Fahrradservice mehr direkt im Ort. **ERSTER",
+      "ts": "2026-10-22 19:21",
       "age_min": 0
     }
   ]
