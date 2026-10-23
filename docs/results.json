@@ -1,108 +1,30 @@
 {
-  "updated": "2026-10-22 22:35 UTC",
-  "total_results": 5,
-  "total_depts": 2,
+  "updated": "2026-10-23 00:57 UTC",
+  "total_results": 1,
+  "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-hosenfeld",
-      "title": "Vulkanregion-Tourismus — Hosenfeld  ·  Chancen",
+      "agent": "chancen-hosenfeld",
+      "title": "Chancen-Scout — Hosenfeld  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin dreistündiges, geführtes Waldbaden-Erlebnis im ruhigen Gieseler Forst bei Hosenfeld inklusive einer kleinen Rast mit regionalem Wildkräuter-Picknick.\n\n**fuer WEN:** \nIdeal für gestresste Naturgenießer, Paare und Erholungssuchende, die eine entschleunigende Auszeit vom Alltag suchen.\n\n**ERSTER SCHRITT:** \nWählen Sie Ihren Wunschtermin im Online-Kalender aus und sichern Sie sich Ihr Ticket direkt mit wenigen Klicks.",
-      "ts": "2026-10-22 22:34",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-eichenzell",
-      "title": "Senioren-Alltagsdienste — Eichenzell  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** \nEin verlässlicher Begleit- und Fahrdienst auf Spendenbasis, der ältere Menschen aus allen Ortsteilen würdevoll zu Einkäufen, Arztterminen und sozialen Treffpunkten bringt.\n\n**WARUM HIER:** \nDie weit verstreute Struktur Eichenzells erschwert ohne eigenen Pkw die Versorgung in den kleineren Dörfern, während die Hilfsbereitschaft innerhalb der Ortsteile eine starke Basis bietet.\n\n**ERSTER SCHRITT:** \nGemeinsam mit dem Seniorenbüro Eichenzell und den Ortsbeiräten starten wir eine Befragung zur genauen Bedarfsermittlung und gewinnen erste ehrenamtliche Paten aus den Dörfern.",
-      "ts": "2026-10-22 22:34",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-eichenzell",
-      "title": "Vulkanregion-Tourismus — Eichenzell  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** „Barocker Picknick-Traum“ – ein Erlebnispaket bestehend aus einer Führung durch das Schloss Fasanerie in Eichenzell und einem regional gefüllten Rhöner Gourmet-Picknickkorb für den Schlosspark.\n\n**für WEN:** Perfekt für Genussmenschen und Paare, die Kultur und Natur entspannt miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie online auf unserer Plattform Ihren Wunschtermin aus und buchen Sie Ihr Picknick-Paket mit nur wenigen Klicks direkt fest.",
-      "ts": "2026-10-22 22:34",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-eichenzell",
-      "title": "Direktvermarktung — Eichenzell  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Eine gekühlte 24/7-Abholstation am Eichenzeller Bahnhof mit wöchentlich frisch gepackten „Feierabend-Boxen“, gefüllt mit Brotzeitspezialitäten, Eiern und Saison-Gemüse von Höfen aus dem Fuldaer Land.\n\n**fuer WEN:** Für Pendler und vielbeschäftigte Familien aus Eichenzell und den Ortsteilen, die Wert auf ehrliche Landprodukte legen, es aber unter der Woche nicht zu den Öffnungszeiten der Hofläden schaffen.\n\n**ERSTER SCHRITT:** Mit drei Erzeugern aus der direkten Umgebung das Sortiment festlegen und mit 20 Test-Kunden eine vierwöchige Testphase per einfacher WhatsApp-Bestellung starten.",
-      "ts": "2026-10-22 22:34",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-eichenzell",
-      "title": "Handwerk-Sichtbarkeit — Eichenzell  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK)\n\n**Ansprache-Idee:** \n„Hallo Herr/Frau [Name], wenn Eichenzeller auf Google nach einer neuen Wärmepumpe oder Badsanierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen im Ort hängenbleiben?“",
-      "ts": "2026-10-22 22:34",
+      "text": "**WAS:** Ein mobiler Hausmeister- und Kleinreparaturservice, der flexible Objekt- und Gartenpflege direkt in allen acht verstreuten Ortsteilen von Hosenfeld anbietet.\n\n**WARUM HIER:** Zwischen der hohen Pendlerquote Richtung Fulda und der alternden Dorfgemeinschaft besteht eine klare Versorgungslücke für kleinteilige Instandhaltungen, für die große Handwerksbetriebe aus der Region gar nicht mehr ausrücken.\n\n**ERSTER SCHRITT:** Ein Kleingewerbe anmelden und einen Flyer mit transparenten Paketpreisen (z. B. für Winterfest-Machung oder Dachrinnenreinigung) direkt in die Briefkästen von Hainzell, Blankenau und Hosenfeld werfen.",
+      "ts": "2026-10-23 00:57",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 4,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-hosenfeld",
-          "title": "Vulkanregion-Tourismus — Hosenfeld  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nEin dreistündiges, geführtes Waldbaden-Erlebnis im ruhigen Gieseler Forst bei Hosenfeld inklusive einer kleinen Rast mit regionalem Wildkräuter-Picknick.\n\n**fuer WEN:** \nIdeal für gestresste Naturgenießer, Paare und Erholungssuchende, die eine entschleunigende Auszeit vom Alltag suchen.\n\n**ERSTER SCHRITT:** \nWählen Sie Ihren Wunschtermin im Online-Kalender aus und sichern Sie sich Ihr Ticket direkt mit wenigen Klicks.",
-          "ts": "2026-10-22 22:34",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-eichenzell",
-          "title": "Vulkanregion-Tourismus — Eichenzell  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** „Barocker Picknick-Traum“ – ein Erlebnispaket bestehend aus einer Führung durch das Schloss Fasanerie in Eichenzell und einem regional gefüllten Rhöner Gourmet-Picknickkorb für den Schlosspark.\n\n**für WEN:** Perfekt für Genussmenschen und Paare, die Kultur und Natur entspannt miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie online auf unserer Plattform Ihren Wunschtermin aus und buchen Sie Ihr Picknick-Paket mit nur wenigen Klicks direkt fest.",
-          "ts": "2026-10-22 22:34",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-eichenzell",
-          "title": "Direktvermarktung — Eichenzell  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Eine gekühlte 24/7-Abholstation am Eichenzeller Bahnhof mit wöchentlich frisch gepackten „Feierabend-Boxen“, gefüllt mit Brotzeitspezialitäten, Eiern und Saison-Gemüse von Höfen aus dem Fuldaer Land.\n\n**fuer WEN:** Für Pendler und vielbeschäftigte Familien aus Eichenzell und den Ortsteilen, die Wert auf ehrliche Landprodukte legen, es aber unter der Woche nicht zu den Öffnungszeiten der Hofläden schaffen.\n\n**ERSTER SCHRITT:** Mit drei Erzeugern aus der direkten Umgebung das Sortiment festlegen und mit 20 Test-Kunden eine vierwöchige Testphase per einfacher WhatsApp-Bestellung starten.",
-          "ts": "2026-10-22 22:34",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-eichenzell",
-          "title": "Handwerk-Sichtbarkeit — Eichenzell  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (SHK)\n\n**Ansprache-Idee:** \n„Hallo Herr/Frau [Name], wenn Eichenzeller auf Google nach einer neuen Wärmepumpe oder Badsanierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen im Ort hängenbleiben?“",
-          "ts": "2026-10-22 22:34",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
       "count": 1,
       "items": [
         {
-          "dept": "Kunden",
-          "agent": "senioren-eichenzell",
-          "title": "Senioren-Alltagsdienste — Eichenzell  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "chancen-hosenfeld",
+          "title": "Chancen-Scout — Hosenfeld  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin verlässlicher Begleit- und Fahrdienst auf Spendenbasis, der ältere Menschen aus allen Ortsteilen würdevoll zu Einkäufen, Arztterminen und sozialen Treffpunkten bringt.\n\n**WARUM HIER:** \nDie weit verstreute Struktur Eichenzells erschwert ohne eigenen Pkw die Versorgung in den kleineren Dörfern, während die Hilfsbereitschaft innerhalb der Ortsteile eine starke Basis bietet.\n\n**ERSTER SCHRITT:** \nGemeinsam mit dem Seniorenbüro Eichenzell und den Ortsbeiräten starten wir eine Befragung zur genauen Bedarfsermittlung und gewinnen erste ehrenamtliche Paten aus den Dörfern.",
-          "ts": "2026-10-22 22:34",
+          "text": "**WAS:** Ein mobiler Hausmeister- und Kleinreparaturservice, der flexible Objekt- und Gartenpflege direkt in allen acht verstreuten Ortsteilen von Hosenfeld anbietet.\n\n**WARUM HIER:** Zwischen der hohen Pendlerquote Richtung Fulda und der alternden Dorfgemeinschaft besteht eine klare Versorgungslücke für kleinteilige Instandhaltungen, für die große Handwerksbetriebe aus der Region gar nicht mehr ausrücken.\n\n**ERSTER SCHRITT:** Ein Kleingewerbe anmelden und einen Flyer mit transparenten Paketpreisen (z. B. für Winterfest-Machung oder Dachrinnenreinigung) direkt in die Briefkästen von Hainzell, Blankenau und Hosenfeld werfen.",
+          "ts": "2026-10-23 00:57",
           "age_min": 0
         }
       ]
