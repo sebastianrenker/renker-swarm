@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-23T05:46Z",
+  "updated": "2026-10-23T10:54Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik/Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den benachbarten Orten online nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür so",
+        "text": "**WAS:** Das Erlebnis-Paket „Fliedener Genuss-Radeln“ kombiniert eine entspannte E-Bike-Tour durch das malerische Fliedetal mit einem prall gefüllten Picknickkorb voller regionaler Rhöner Spezialitäten. **FÜR WEN:** Perfekt geeignet für naturnahe Genießer und Paare, die die Landschaft zwischen Vogelsberg und Rhön aktiv und kulinarisch erkunden möchten. **ERS",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Besorgungsdienst bringt ältere Menschen aus den acht Ortsteilen von Hosenfeld auf Wunsch direkt von der Haustür zu Einkäufen oder Arztterminen und verbindet dies mit Zeit für ein persönliches Gespräch. **WARUM HIER:** Durch die weiten Wege zwischen den einzelnen Dörfern der Gemeinde und die überschaub",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1286,18 +1290,18 @@
       "name": "Handwerk-Sichtbarkeit — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik/Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den benachbarten Ort",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-hosenfeld",
       "name": "Direktvermarktung — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Vogelsberg-Vesperbox“ im flexiblen Abo, gefüllt mit frischem Holzofenbrot, regionalem Käse, Hausmacher Wurst und saisonalem Hof-Gemüse, kontaktlos abholbereit an einer 24/7-Abholstation in Hos",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-hosenfeld",
@@ -1313,45 +1317,45 @@
       "name": "Senioren-Alltagsdienste — Hosenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Besorgungsdienst bringt ältere Menschen aus den acht Ortsteilen von Hosenfeld auf Wunsch direkt von der Haustür zu Einkäufen oder Arztterminen und verbindet dies ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-flieden",
       "name": "Chancen-Scout — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Mietservice für Spezial-Gartengeräte und Kleinbaumaschinen (z. B. Profi-Vertikutierer, Holzspalter, Rüttelplatten), der das Equipment per Anhänger direkt ans Grundstück in Flieden und seinen Ortsteil",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-flieden",
       "name": "Handwerk-Sichtbarkeit — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärfachbetrieb **Ansprache-Idee:** „Sorgen wir dafür, dass Fliedener Hausbesitzer bei der Suche nach neuen Heizungen oder Badsanierungen sofort Ihren Betrieb auf Google finden – bevor s",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-flieden",
       "name": "Direktvermarktung — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Fliedener Feierabend-Kiste“ – ein einfaches Regio-Abo mit saisonalem Gemüse, Eiern, Rhöner Wurst und Frischebrot, das wöchentlich kontaktlos in einer gekühlten Abholbox am Bahnhof Flieden bereitsteht. **fue",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-flieden",
       "name": "Vulkanregion-Tourismus — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Fliedener Genuss-Radeln“ kombiniert eine entspannte E-Bike-Tour durch das malerische Fliedetal mit einem prall gefüllten Picknickkorb voller regionaler Rhöner Spezialitäten. **FÜR WEN:** Perf",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-flieden",
@@ -1499,16 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 2,
+    "used": 8,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-hosenfeld",
+      "agent": "tourismus-flieden",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik/Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den benachbarten Orten online nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür so",
-      "ts": "2026-10-23 05:46",
+      "text": "**WAS:** Das Erlebnis-Paket „Fliedener Genuss-Radeln“ kombiniert eine entspannte E-Bike-Tour durch das malerische Fliedetal mit einem prall gefüllten Picknickkorb voller regionaler Rhöner Spezialitäten. **FÜR WEN:** Perfekt geeignet für naturnahe Genießer und Paare, die die Landschaft zwischen Vogelsberg und Rhön aktiv und kulinarisch erkunden möchten. **ERS",
+      "ts": "2026-10-23 10:54",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-flieden",
+      "via": "gemini",
+      "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ – ein einfaches Regio-Abo mit saisonalem Gemüse, Eiern, Rhöner Wurst und Frischebrot, das wöchentlich kontaktlos in einer gekühlten Abholbox am Bahnhof Flieden bereitsteht. **fuer WEN:** Für Pendler und vielbeschäftigte Familien aus dem Königreich Flieden, die nach dem Feierabend ohne Zusatzwege ehrliche, heimische L",
+      "ts": "2026-10-23 10:54",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-flieden",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärfachbetrieb **Ansprache-Idee:** „Sorgen wir dafür, dass Fliedener Hausbesitzer bei der Suche nach neuen Heizungen oder Badsanierungen sofort Ihren Betrieb auf Google finden – bevor sie den Auftrag an eine größere Firma aus Fulda vergeben.“",
+      "ts": "2026-10-23 10:54",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-flieden",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Mietservice für Spezial-Gartengeräte und Kleinbaumaschinen (z. B. Profi-Vertikutierer, Holzspalter, Rüttelplatten), der das Equipment per Anhänger direkt ans Grundstück in Flieden und seinen Ortsteilen liefert. **WARUM HIER:** Flieden prägen viele Eigenheime mit großen Gärten und berufstätige Pendler, die Wochenendprojekte selbst umsetze",
+      "ts": "2026-10-23 10:54",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-hosenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Besorgungsdienst bringt ältere Menschen aus den acht Ortsteilen von Hosenfeld auf Wunsch direkt von der Haustür zu Einkäufen oder Arztterminen und verbindet dies mit Zeit für ein persönliches Gespräch. **WARUM HIER:** Durch die weiten Wege zwischen den einzelnen Dörfern der Gemeinde und die überschaub",
+      "ts": "2026-10-23 10:54",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-hosenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentliche „Vogelsberg-Vesperbox“ im flexiblen Abo, gefüllt mit frischem Holzofenbrot, regionalem Käse, Hausmacher Wurst und saisonalem Hof-Gemüse, kontaktlos abholbereit an einer 24/7-Abholstation in Hosenfeld. **fuer WEN:** Für berufstätige Familien und Pendler aus Hosenfeld und dem Fuldaer Umland, die ehrliche Landprodukte schätzen, aber u",
+      "ts": "2026-10-23 10:54",
       "age_min": 0
     }
   ]
