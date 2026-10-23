@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-23 00:57 UTC",
+  "updated": "2026-10-23 05:46 UTC",
   "total_results": 1,
   "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-hosenfeld",
-      "title": "Chancen-Scout — Hosenfeld  ·  Chancen",
+      "agent": "handwerk-hosenfeld",
+      "title": "Handwerk-Sichtbarkeit — Hosenfeld  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Hausmeister- und Kleinreparaturservice, der flexible Objekt- und Gartenpflege direkt in allen acht verstreuten Ortsteilen von Hosenfeld anbietet.\n\n**WARUM HIER:** Zwischen der hohen Pendlerquote Richtung Fulda und der alternden Dorfgemeinschaft besteht eine klare Versorgungslücke für kleinteilige Instandhaltungen, für die große Handwerksbetriebe aus der Region gar nicht mehr ausrücken.\n\n**ERSTER SCHRITT:** Ein Kleingewerbe anmelden und einen Flyer mit transparenten Paketpreisen (z. B. für Winterfest-Machung oder Dachrinnenreinigung) direkt in die Briefkästen von Hainzell, Blankenau und Hosenfeld werfen.",
-      "ts": "2026-10-23 00:57",
+      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik/Wärmepumpen).\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den benachbarten Orten online nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Dorf bleiben.“",
+      "ts": "2026-10-23 05:46",
       "age_min": 0
     }
   ],
@@ -20,11 +20,11 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-hosenfeld",
-          "title": "Chancen-Scout — Hosenfeld  ·  Chancen",
+          "agent": "handwerk-hosenfeld",
+          "title": "Handwerk-Sichtbarkeit — Hosenfeld  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Hausmeister- und Kleinreparaturservice, der flexible Objekt- und Gartenpflege direkt in allen acht verstreuten Ortsteilen von Hosenfeld anbietet.\n\n**WARUM HIER:** Zwischen der hohen Pendlerquote Richtung Fulda und der alternden Dorfgemeinschaft besteht eine klare Versorgungslücke für kleinteilige Instandhaltungen, für die große Handwerksbetriebe aus der Region gar nicht mehr ausrücken.\n\n**ERSTER SCHRITT:** Ein Kleingewerbe anmelden und einen Flyer mit transparenten Paketpreisen (z. B. für Winterfest-Machung oder Dachrinnenreinigung) direkt in die Briefkästen von Hainzell, Blankenau und Hosenfeld werfen.",
-          "ts": "2026-10-23 00:57",
+          "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik/Wärmepumpen).\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den benachbarten Orten online nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Dorf bleiben.“",
+          "ts": "2026-10-23 05:46",
           "age_min": 0
         }
       ]

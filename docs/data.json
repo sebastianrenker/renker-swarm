@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T00:57Z",
+  "updated": "2026-10-23T05:46Z",
   "agents_total": 162,
   "worked": 1,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Hausmeister- und Kleinreparaturservice, der flexible Objekt- und Gartenpflege direkt in allen acht verstreuten Ortsteilen von Hosenfeld anbietet. **WARUM HIER:** Zwischen der hohen Pendlerquote Richtung Fulda und der alternden Dorfgemeinschaft besteht eine klare Versorgungslücke für kleinteilige Instandhaltungen, für die große Handwerksb",
+        "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik/Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den benachbarten Orten online nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür so",
         "age_min": 0
       }
     },
@@ -1277,18 +1277,18 @@
       "name": "Chancen-Scout — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Hausmeister- und Kleinreparaturservice, der flexible Objekt- und Gartenpflege direkt in allen acht verstreuten Ortsteilen von Hosenfeld anbietet. **WARUM HIER:** Zwischen der hohen Pendlerquote Richt",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-hosenfeld",
       "name": "Handwerk-Sichtbarkeit — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik/Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den benachbarten Ort",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-hosenfeld",
@@ -1499,16 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 1,
+    "used": 2,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-hosenfeld",
+      "agent": "handwerk-hosenfeld",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Hausmeister- und Kleinreparaturservice, der flexible Objekt- und Gartenpflege direkt in allen acht verstreuten Ortsteilen von Hosenfeld anbietet. **WARUM HIER:** Zwischen der hohen Pendlerquote Richtung Fulda und der alternden Dorfgemeinschaft besteht eine klare Versorgungslücke für kleinteilige Instandhaltungen, für die große Handwerksb",
-      "ts": "2026-10-23 00:57",
+      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (fokussiert auf Badsanierung und moderne Heiztechnik/Wärmepumpen). **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer aus Hosenfeld und den benachbarten Orten online nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür so",
+      "ts": "2026-10-23 05:46",
       "age_min": 0
     }
   ]
