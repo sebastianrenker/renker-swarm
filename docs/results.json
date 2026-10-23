@@ -1,7 +1,57 @@
 {
-  "updated": "2026-10-23 19:32 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-23 22:38 UTC",
+  "total_results": 2,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-tann",
+      "title": "Chancen-Scout — Tann  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Geführte „Sternenpark-Abendwanderungen“ inklusive einem regionalen Rhöner Picknick-Paket für Urlauber und Tagesgäste.\n\n**WARUM HIER:** Tann liegt perfekt im lichtarmen UNESCO-Biosphärenreservat Rhön und zieht viele Kurgäste sowie Wanderer an, bietet ihnen nach Sonnenuntergang bisher aber kaum fertige, leicht buchbare Erlebnis-Angebote.\n\n**ERSTER SCHRITT:** Erstelle ein einfaches Test-Paket für drei feste Termine und hänge Flyer in der Tourist-Information Tann sowie bei den größten örtlichen Ferienwohnungs-Vermietern aus.",
+      "ts": "2026-10-23 22:38",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-flieden",
+      "title": "Senioren-Alltagsdienste — Flieden  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Hol- und Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen für Einkäufe, Arztbesuche oder Gemeinschaftsaktivitäten barrierefrei ins Ortszentrum von Flieden bringt.\n\n**WARUM HIER:** Da in vielen der neun Fliedener Ortsteile die Nahversorgung fehlt und Busverbindungen im ländlichen Raum selten sind, ermöglicht dieser Service das gewohnte Leben im eigenen Dorf ohne das Gefühl von Isolation.\n\n**ERSTER SCHRITT:** Im Austausch mit der Gemeinde Flieden und den örtlichen Ortsvorstehern wird der konkrete Bedarf ermittelt, um erste engagierte Fahrerinnen und Fahrer direkt aus den jeweiligen Dörfern zu gewinnen.",
+      "ts": "2026-10-23 22:37",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "chancen-tann",
+          "title": "Chancen-Scout — Tann  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Geführte „Sternenpark-Abendwanderungen“ inklusive einem regionalen Rhöner Picknick-Paket für Urlauber und Tagesgäste.\n\n**WARUM HIER:** Tann liegt perfekt im lichtarmen UNESCO-Biosphärenreservat Rhön und zieht viele Kurgäste sowie Wanderer an, bietet ihnen nach Sonnenuntergang bisher aber kaum fertige, leicht buchbare Erlebnis-Angebote.\n\n**ERSTER SCHRITT:** Erstelle ein einfaches Test-Paket für drei feste Termine und hänge Flyer in der Tourist-Information Tann sowie bei den größten örtlichen Ferienwohnungs-Vermietern aus.",
+          "ts": "2026-10-23 22:38",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-flieden",
+          "title": "Senioren-Alltagsdienste — Flieden  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Hol- und Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen für Einkäufe, Arztbesuche oder Gemeinschaftsaktivitäten barrierefrei ins Ortszentrum von Flieden bringt.\n\n**WARUM HIER:** Da in vielen der neun Fliedener Ortsteile die Nahversorgung fehlt und Busverbindungen im ländlichen Raum selten sind, ermöglicht dieser Service das gewohnte Leben im eigenen Dorf ohne das Gefühl von Isolation.\n\n**ERSTER SCHRITT:** Im Austausch mit der Gemeinde Flieden und den örtlichen Ortsvorstehern wird der konkrete Bedarf ermittelt, um erste engagierte Fahrerinnen und Fahrer direkt aus den jeweiligen Dörfern zu gewinnen.",
+          "ts": "2026-10-23 22:37",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

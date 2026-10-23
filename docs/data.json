@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-23T19:32Z",
+  "updated": "2026-10-23T22:38Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Geführte „Sternenpark-Abendwanderungen“ inklusive einem regionalen Rhöner Picknick-Paket für Urlauber und Tagesgäste. **WARUM HIER:** Tann liegt perfekt im lichtarmen UNESCO-Biosphärenreservat Rhön und zieht viele Kurgäste sowie Wanderer an, bietet ihnen nach Sonnenuntergang bisher aber kaum fertige, leicht buchbare Erlebnis-Angebote. **ERSTER SCHRI",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Hol- und Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen für Einkäufe, Arztbesuche oder Gemeinschaftsaktivitäten barrierefrei ins Ortszentrum von Flieden bringt. **WARUM HIER:** Da in vielen der neun Fliedener Ortsteile die Nahversorgung fehlt und Busverbindungen im ländlichen Raum selt",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1354,18 +1362,18 @@
       "name": "Senioren-Alltagsdienste — Flieden",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Hol- und Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen für Einkäufe, Arztbesuche oder Gemeinschaftsaktivitäten barrierefrei ins Ortszentrum von F",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-tann",
       "name": "Chancen-Scout — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Geführte „Sternenpark-Abendwanderungen“ inklusive einem regionalen Rhöner Picknick-Paket für Urlauber und Tagesgäste. **WARUM HIER:** Tann liegt perfekt im lichtarmen UNESCO-Biosphärenreservat Rhön und zieht vie",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-tann",
@@ -1495,8 +1503,25 @@
     }
   ],
   "budget": {
-    "used": 8,
+    "used": 10,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-tann",
+      "via": "gemini",
+      "text": "**WAS:** Geführte „Sternenpark-Abendwanderungen“ inklusive einem regionalen Rhöner Picknick-Paket für Urlauber und Tagesgäste. **WARUM HIER:** Tann liegt perfekt im lichtarmen UNESCO-Biosphärenreservat Rhön und zieht viele Kurgäste sowie Wanderer an, bietet ihnen nach Sonnenuntergang bisher aber kaum fertige, leicht buchbare Erlebnis-Angebote. **ERSTER SCHRI",
+      "ts": "2026-10-23 22:38",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-flieden",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Hol- und Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen für Einkäufe, Arztbesuche oder Gemeinschaftsaktivitäten barrierefrei ins Ortszentrum von Flieden bringt. **WARUM HIER:** Da in vielen der neun Fliedener Ortsteile die Nahversorgung fehlt und Busverbindungen im ländlichen Raum selt",
+      "ts": "2026-10-23 22:37",
+      "age_min": 0
+    }
+  ]
 }
