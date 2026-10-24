@@ -1,26 +1,34 @@
 {
-  "updated": "2026-10-24T14:01Z",
+  "updated": "2026-10-24T17:26Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Tages-Fokus** 1. **Offerta:** Die 3 ausstehenden Partner-Angebote für die regionale Sonderaktion final freigeben. 2. **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe aus der Pipeline für das Onboarding-Webinar heute nachfassen. 3. **Vogelsberg-Chancen:** Pitch-Mail für das neue Arbeitgeber-Paket an die Wirtschaftsförderung des Vogelsbergkreises ver",
+        "age_min": 0
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Eine handfeste „Rhöner Brotzeit-Kiste“ im Wochen-Abo, vollgepackt mit frischem Bauernsauerteigbrot, Hausmacher Wurst, lokalem Käse und Apfelsaft direkt von den Höfen rund ums Ulstertal. **für WEN:** Für Urlaubsgäste in den Hilderser Ferienwohnungen, die direkt bei der Ankunft ehrliche Regionalprodukte auf dem Tisch haben wollen, sowie für einheimisc",
+        "text": "**WAS:** Ein mobiler Vor-Ort-Wartungsservice für E-Bikes und Diensträder, der im Firmenauftrag direkt auf die Betriebsgelände der Fuldaer Gewerbegebiete fährt. **WARUM HIER:** Der starke E-Bike-Boom unter Pendlern im hügeligen Osthessen trifft auf monatelange Wartezeiten bei etablierten Fuldaer Fahrradhändlern, woraus lokale Unternehmen eine ideale Möglichke",
         "age_min": 0
       }
     },
     {
       "id": "Recherche",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist ein Preispositionierungsmodell für den DACH-Markt. Das Preismodell unterscheidet zwischen einmaligen Einrichtungskosten (Setup) und laufenden Kosten für Wartung/SEO, da die Pflege des Google-Unternehmensprofils ein kontinuierlicher Prozess ist. --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Leistungsumfang:** Simple Website (One-Pager/bis zu 3",
+        "age_min": 0
+      }
     },
     {
       "id": "Bau",
@@ -32,7 +40,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS** Ein verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den verstreuten Gersfelder Ortsteilen sicher zu Arztterminen oder Besorgungen bringt und sie auf Wunsch vor Ort geduldig unterstützt. **WARUM HIER** Die weit auseinanderliegenden, teils steilen Rhön-Dörfer rund um Gersfeld und das raue Winterwetter machen selbst kurze Wege zum Hauptor",
+        "text": "**WAS:** Ein mobiler Begleit- und Besorgungsdienst („Rhöner Dorf-Kompagnon“), der Ältere aus den verstreuten Ortsteilen würdevoll zu Arztterminen oder Einkäufen im Kernort begleitet und schwere Waren direkt in die Wohnung trägt. **WARUM HIER:** In den steilen, weit auseinanderliegenden Rhöndörfern rund um Hilders sind Busverbindungen spärlich und besonders d",
         "age_min": 0
       }
     },
@@ -48,36 +56,36 @@
       "name": "Chief of Staff — Tages-Digest",
       "dept": "Kommando",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Tages-Fokus** 1. **Offerta:** Die 3 ausstehenden Partner-Angebote für die regionale Sonderaktion final freigeben. 2. **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe aus der Pipeline für das Onboarding-Webinar ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-vogelsberg",
       "name": "Opportunity Finder — Vogelsberg",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler \"Kleinkram-Service\" auf Honorarbasis für Reparatur- und Wartungsarbeiten im Haushalt von Senioren (z. B. Rollos reparieren, Lampen tauschen, Dichtungen wechseln), für die reguläre Handwerksbetriebe k",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-fulda",
       "name": "Opportunity Finder — Fulda",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Vor-Ort-Wartungsservice für E-Bikes und Diensträder, der im Firmenauftrag direkt auf die Betriebsgelände der Fuldaer Gewerbegebiete fährt. **WARUM HIER:** Der starke E-Bike-Boom unter Pendlern im hüg",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "recherche-wettbewerb",
       "name": "Researcher — Wettbewerb & Preise",
       "dept": "Recherche",
       "iv": 480,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist ein Preispositionierungsmodell für den DACH-Markt. Das Preismodell unterscheidet zwischen einmaligen Einrichtungskosten (Setup) und laufenden Kosten für Wartung/SEO, da die Pflege des Google-Unternehmensprofils ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "bau-landing-copy",
@@ -1434,125 +1442,125 @@
       "name": "Direktvermarktung — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine saisonale „Rhön-Brotzeit-Box“ im flexiblen Abo oder auf Bestellung, gefüllt mit bodenständigen Gersfelder Hofprodukten wie Hausmacher Wurst, Rhöner Bergkäse, frischem Bauernbrot und regionalen Schmankerln. ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-gersfeld",
       "name": "Vulkanregion-Tourismus — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei dieser dreistündigen, geführten Abendwanderung durch den offiziellen Sternenpark Rhön rund um Gersfeld beobachten Sie unter fachkundiger Anleitung den Nachthimmel und genießen eine regionale Rhöner Brotzeit ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-gersfeld",
       "name": "Senioren-Alltagsdienste — Gersfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Ein verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den verstreuten Gersfelder Ortsteilen sicher zu Arztterminen oder Besorgungen bringt und sie auf Wunsch vor Ort geduldig unterstützt. **WARUM HIE",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-hilders",
       "name": "Chancen-Scout — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein digital buchbarer Miet-Service für bestückte Proviant-Rucksäcke mit regionalen Rhöner Spezialitäten und Outdoor-Equipment für Tageswanderer. **WARUM HIER:** Hilders ist als zentraler Luftkurort am Prädikatsw",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-hilders",
       "name": "Handwerk-Sichtbarkeit — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Heizung-Sanitär-Betrieb** (mit Fokus auf Wärmepumpen und Badmodernisierung). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer oder Ferienhaus-Betreiber hier in der Rhön nach 'Wärmepumpe' oder 'Badre",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-hilders",
       "name": "Direktvermarktung — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine handfeste „Rhöner Brotzeit-Kiste“ im Wochen-Abo, vollgepackt mit frischem Bauernsauerteigbrot, Hausmacher Wurst, lokalem Käse und Apfelsaft direkt von den Höfen rund ums Ulstertal. **für WEN:** Für Urlaubsg",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-hilders",
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Rhöner SternenZauber“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit nächtlichem Biosphären-Picknick und professioneller Sternenbeobachtung im UNESCO-Sternenpark Rhön. **fuer WEN:** Diese",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-hilders",
       "name": "Senioren-Alltagsdienste — Hilders",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Begleit- und Besorgungsdienst („Rhöner Dorf-Kompagnon“), der Ältere aus den verstreuten Ortsteilen würdevoll zu Arztterminen oder Einkäufen im Kernort begleitet und schwere Waren direkt in die Wohnun",
+      "via": "gemini",
+      "age_min": 0
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 18,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-hilders",
+      "dept": "Recherche",
+      "agent": "recherche-wettbewerb",
       "via": "gemini",
-      "text": "**WAS:** Eine handfeste „Rhöner Brotzeit-Kiste“ im Wochen-Abo, vollgepackt mit frischem Bauernsauerteigbrot, Hausmacher Wurst, lokalem Käse und Apfelsaft direkt von den Höfen rund ums Ulstertal. **für WEN:** Für Urlaubsgäste in den Hilderser Ferienwohnungen, die direkt bei der Ankunft ehrliche Regionalprodukte auf dem Tisch haben wollen, sowie für einheimisc",
-      "ts": "2026-10-24 14:01",
+      "text": "Hier ist ein Preispositionierungsmodell für den DACH-Markt. Das Preismodell unterscheidet zwischen einmaligen Einrichtungskosten (Setup) und laufenden Kosten für Wartung/SEO, da die Pflege des Google-Unternehmensprofils ein kontinuierlicher Prozess ist. --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Leistungsumfang:** Simple Website (One-Pager/bis zu 3",
+      "ts": "2026-10-24 17:26",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-hilders",
+      "agent": "chancen-fulda",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Heizung-Sanitär-Betrieb** (mit Fokus auf Wärmepumpen und Badmodernisierung). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer oder Ferienhaus-Betreiber hier in der Rhön nach 'Wärmepumpe' oder 'Badrenovierung' googeln, landen sie meist bei Großbetrieben aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen in",
-      "ts": "2026-10-24 14:00",
+      "text": "**WAS:** Ein mobiler Vor-Ort-Wartungsservice für E-Bikes und Diensträder, der im Firmenauftrag direkt auf die Betriebsgelände der Fuldaer Gewerbegebiete fährt. **WARUM HIER:** Der starke E-Bike-Boom unter Pendlern im hügeligen Osthessen trifft auf monatelange Wartezeiten bei etablierten Fuldaer Fahrradhändlern, woraus lokale Unternehmen eine ideale Möglichke",
+      "ts": "2026-10-24 17:26",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-hilders",
+      "agent": "chancen-vogelsberg",
       "via": "gemini",
-      "text": "**WAS:** Ein digital buchbarer Miet-Service für bestückte Proviant-Rucksäcke mit regionalen Rhöner Spezialitäten und Outdoor-Equipment für Tageswanderer. **WARUM HIER:** Hilders ist als zentraler Luftkurort am Prädikatswanderweg „Der Hochrhöner“ stark touristisch geprägt, leidet auf den Etappen (z. B. rund um den Buchschirmberg) aber unter einer zunehmend lü",
-      "ts": "2026-10-24 14:00",
+      "text": "**WAS:** Ein mobiler \"Kleinkram-Service\" auf Honorarbasis für Reparatur- und Wartungsarbeiten im Haushalt von Senioren (z. B. Rollos reparieren, Lampen tauschen, Dichtungen wechseln), für die reguläre Handwerksbetriebe keine Kapazitäten haben. **WARUM HIER:** Im Vogelsbergkreis trifft eine stark alternde Bevölkerung in weit verteilten Dörfern auf völlig ausg",
+      "ts": "2026-10-24 17:26",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "kommando-digest",
+      "via": "gemini",
+      "text": "**Tages-Fokus** 1. **Offerta:** Die 3 ausstehenden Partner-Angebote für die regionale Sonderaktion final freigeben. 2. **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe aus der Pipeline für das Onboarding-Webinar heute nachfassen. 3. **Vogelsberg-Chancen:** Pitch-Mail für das neue Arbeitgeber-Paket an die Wirtschaftsförderung des Vogelsbergkreises ver",
+      "ts": "2026-10-24 17:25",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-gersfeld",
+      "agent": "senioren-hilders",
       "via": "gemini",
-      "text": "**WAS** Ein verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den verstreuten Gersfelder Ortsteilen sicher zu Arztterminen oder Besorgungen bringt und sie auf Wunsch vor Ort geduldig unterstützt. **WARUM HIER** Die weit auseinanderliegenden, teils steilen Rhön-Dörfer rund um Gersfeld und das raue Winterwetter machen selbst kurze Wege zum Hauptor",
-      "ts": "2026-10-24 14:00",
+      "text": "**WAS:** Ein mobiler Begleit- und Besorgungsdienst („Rhöner Dorf-Kompagnon“), der Ältere aus den verstreuten Ortsteilen würdevoll zu Arztterminen oder Einkäufen im Kernort begleitet und schwere Waren direkt in die Wohnung trägt. **WARUM HIER:** In den steilen, weit auseinanderliegenden Rhöndörfern rund um Hilders sind Busverbindungen spärlich und besonders d",
+      "ts": "2026-10-24 17:25",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-gersfeld",
+      "agent": "tourismus-hilders",
       "via": "gemini",
-      "text": "**WAS:** Bei dieser dreistündigen, geführten Abendwanderung durch den offiziellen Sternenpark Rhön rund um Gersfeld beobachten Sie unter fachkundiger Anleitung den Nachthimmel und genießen eine regionale Rhöner Brotzeit im Freien. **fuer WEN:** Das Erlebnis richtet sich an Paare, Naturbegeisterte und Erholungssuchende, die eine romantische und entschleunigen",
-      "ts": "2026-10-24 14:00",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-gersfeld",
-      "via": "gemini",
-      "text": "**WAS:** Eine saisonale „Rhön-Brotzeit-Box“ im flexiblen Abo oder auf Bestellung, gefüllt mit bodenständigen Gersfelder Hofprodukten wie Hausmacher Wurst, Rhöner Bergkäse, frischem Bauernbrot und regionalen Schmankerln. **fuer WEN:** Für qualitätsbewusste Anwohner aus Gersfeld und Umgebung sowie Ferienhaus-Gäste und Wanderer, die sich unkompliziert echte Rhö",
-      "ts": "2026-10-24 14:00",
+      "text": "**WAS:** „Rhöner SternenZauber“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit nächtlichem Biosphären-Picknick und professioneller Sternenbeobachtung im UNESCO-Sternenpark Rhön. **fuer WEN:** Dieses Erlebnis ist perfekt für Paare und Genusswanderer, die eine entschleunigende Auszeit unter einem der dunkelsten Nachthimmel Deutschlands s",
+      "ts": "2026-10-24 17:25",
       "age_min": 0
     }
   ]

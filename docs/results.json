@@ -1,111 +1,123 @@
 {
-  "updated": "2026-10-24 14:01 UTC",
+  "updated": "2026-10-24 17:26 UTC",
   "total_results": 6,
-  "total_depts": 2,
+  "total_depts": 4,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-hilders",
-      "title": "Direktvermarktung — Hilders  ·  Chancen",
+      "dept": "Recherche",
+      "agent": "recherche-wettbewerb",
+      "title": "Researcher — Wettbewerb & Preise  ·  Recherche",
       "via": "gemini",
-      "text": "**WAS:** Eine handfeste „Rhöner Brotzeit-Kiste“ im Wochen-Abo, vollgepackt mit frischem Bauernsauerteigbrot, Hausmacher Wurst, lokalem Käse und Apfelsaft direkt von den Höfen rund ums Ulstertal.\n\n**für WEN:** Für Urlaubsgäste in den Hilderser Ferienwohnungen, die direkt bei der Ankunft ehrliche Regionalprodukte auf dem Tisch haben wollen, sowie für einheimische Familien, die sich den Gang zu einzelnen Hofläden sparen möchten.\n\n**ERSTER SCHRITT:** Sprich mit zwei Höfen und einem Bäcker aus der Umgebung für die Produkte und vereinbare mit drei lokalen Ferienwohnungs-Vermietern einen Testlauf mit Flyern und einem Probier-Korb für deren Gäste.",
-      "ts": "2026-10-24 14:01",
+      "text": "Hier ist ein Preispositionierungsmodell für den DACH-Markt. Das Preismodell unterscheidet zwischen einmaligen Einrichtungskosten (Setup) und laufenden Kosten für Wartung/SEO, da die Pflege des Google-Unternehmensprofils ein kontinuierlicher Prozess ist.\n\n---\n\n### Paket 1: Basis („Digitale Visitenkarte“)\n* **Leistungsumfang:** Simple Website (One-Pager/bis zu 3 Seiten), Basis-Google-Unternehmensprofil, einfaches Kontakt-/Anfrageformular.\n* **Preisspanne:** **1.200 € – 1.800 € einmalig** (optional: 30 € – 50 € / Monat für Hosting & Wartung)\n* **Begründung (1 Satz):** Dieses Paket deckt die minimale digitale Existenz ab, um bei lokaler Namenssuche auffindbar zu sein, und richtet sich an preissensible Einzelunternehmer mit voller Auftragslage.\n\n### Paket 2: Standard („Regionale Sichtbarkeit & Anfragen-Filter“)\n* **Leistungsumfang:** Mehrseitige Website (5–8 Seiten inkl. Leistungen), optimiertes Google-Profil mit Bewertungs-System, interaktives Anfragen-Tool (z. B. vorgefilterte Angebotsanfrage/Fotos-Upload).\n* **Preisspanne:** **2.500 € – 4.500 € einmalig** + **100 € – 200 € / Monat** (für Pflege, lokales SEO & System-Updates)\n* **Begründung (1 Satz):** Es bietet das beste Kosten-Nutzen-Verhältnis für wachsende Betriebe, da es die regionale Auffindbarkeit erhöht und durch digitale Vorqualifizierung von Kundenanfragen Büroarbeitszeit einspart.\n\n### Paket 3: Premium („Marktführer & Neukundengewinnung“)\n* **Leistungsumfang:** Umfangreiche Website inkl. Karriereseite/Recruiting, aktives Google-Profil-Management (Beiträge, Fotos, Google Ads), automatisierter Angebots-Rechner mit ERP/CRM-Schnittstelle.\n* **Preisspanne:** **5.000 € – 8.500 € einmalig** + **300 € – 600 € / Monat** (für aktives Marketing & Betreuung)\n* **Begründung (1 Satz):** Diese Stufe richtet sich an etablierte Betriebe mit freien Kapazitäten, die systematisch hochmargige Aufträge und Fachkräfte gewinnen wollen.\n\n---\n\n### Miteinbezogene Annahmen (als solche markiert)\n\n1. **Annahme zum Markt:** Es wird vorausgesetzt, dass der Zielmarkt in der DACH-Region liegt; die Preisspannen orientieren sich an marktüblichen Agentur- und Freelancer-Preisen im KMU-Segment (Stand 2023/2024).\n2. **Annahme zum Material/Content:** Es wird angenommen, dass der Handwerker verwertbares Bildmaterial (Logo, Fotos von Projekten/Team) beistellt. *Falls dieses komplett neu erstellt werden muss (Fotograf), steigen die Setup-Preise um geschätzt 800 € bis 2.000 €.*\n3. **Annahme zur Kaufbereitschaft:** Es wird angenommen, dass Handwerker primär den Nutzen in der Zeitersparnis bei der Angebotserstellung sehen und weniger im reinen „Design“ der Website.\n4. **Annahme zum Zahlungsmodell:** Die Trennung in Setup + Monatsgebühr wird als notwendig angenommen, da ein Google-Unternehmensprofil ohne laufende Interaktion (Rezensionen, Updates",
+      "ts": "2026-10-24 17:26",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-hilders",
-      "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
+      "agent": "chancen-fulda",
+      "title": "Opportunity Finder — Fulda  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Heizung-Sanitär-Betrieb** (mit Fokus auf Wärmepumpen und Badmodernisierung).\n\n**Ansprache-Idee (1 Satz):**\n„Wenn Hausbesitzer oder Ferienhaus-Betreiber hier in der Rhön nach 'Wärmepumpe' oder 'Badrenovierung' googeln, landen sie meist bei Großbetrieben aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen in Hilders landen?“",
-      "ts": "2026-10-24 14:00",
+      "text": "**WAS:** Ein mobiler Vor-Ort-Wartungsservice für E-Bikes und Diensträder, der im Firmenauftrag direkt auf die Betriebsgelände der Fuldaer Gewerbegebiete fährt.\n\n**WARUM HIER:** Der starke E-Bike-Boom unter Pendlern im hügeligen Osthessen trifft auf monatelange Wartezeiten bei etablierten Fuldaer Fahrradhändlern, woraus lokale Unternehmen eine ideale Möglichkeit für ein gefragtes Mitarbeiter-Goodie machen können.\n\n**ERSTER SCHRITT diese Woche:** Erstelle ein einseitiges Angebots-PDF für einen \"Bike-Check-Tag\" im Betrieb und sende es gezielt an die HR-Leitung von zehn Mittelständlern im Industriepark West.",
+      "ts": "2026-10-24 17:26",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-hilders",
-      "title": "Chancen-Scout — Hilders  ·  Chancen",
+      "agent": "chancen-vogelsberg",
+      "title": "Opportunity Finder — Vogelsberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein digital buchbarer Miet-Service für bestückte Proviant-Rucksäcke mit regionalen Rhöner Spezialitäten und Outdoor-Equipment für Tageswanderer.\n\n**WARUM HIER:** Hilders ist als zentraler Luftkurort am Prädikatswanderweg „Der Hochrhöner“ stark touristisch geprägt, leidet auf den Etappen (z. B. rund um den Buchschirmberg) aber unter einer zunehmend lückenhaften Gastronomiedichte.\n\n**ERSTER SCHRITT:** Partnervereinbarungen mit zwei lokalen Hofläden für den Lebensmittel-Inhalt schließen und drei Test-Rucksäcke zur Vermietung in einer Hilderser Pension hinterlegen.",
-      "ts": "2026-10-24 14:00",
+      "text": "**WAS:** \nEin mobiler \"Kleinkram-Service\" auf Honorarbasis für Reparatur- und Wartungsarbeiten im Haushalt von Senioren (z. B. Rollos reparieren, Lampen tauschen, Dichtungen wechseln), für die reguläre Handwerksbetriebe keine Kapazitäten haben.\n\n**WARUM HIER:** \nIm Vogelsbergkreis trifft eine stark alternde Bevölkerung in weit verteilten Dörfern auf völlig ausgebuchte Handwerker, wodurch eine massive Versorgungslücke bei kleinsten Alltagshilfen entsteht.\n\n**ERSTER SCHRITT DIESE WOCHE:** \nErstelle einen einfachen DIN-A5-Flyer mit konkreten Paketpreisen (z. B. \"1 Stunde Allround-Hilfe für 35 €\") und lege ihn nach kurzer Rücksprache in drei Apotheken und Bäckerfilialen im Raum Alsfeld, Lauterbach oder Schotten aus.",
+      "ts": "2026-10-24 17:26",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "kommando-digest",
+      "title": "Chief of Staff — Tages-Digest  ·  Kommando",
+      "via": "gemini",
+      "text": "**Tages-Fokus**\n\n1. **Offerta:** Die 3 ausstehenden Partner-Angebote für die regionale Sonderaktion final freigeben.\n2. **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe aus der Pipeline für das Onboarding-Webinar heute nachfassen.\n3. **Vogelsberg-Chancen:** Pitch-Mail für das neue Arbeitgeber-Paket an die Wirtschaftsförderung des Vogelsbergkreises versenden.",
+      "ts": "2026-10-24 17:25",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-gersfeld",
-      "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+      "agent": "senioren-hilders",
+      "title": "Senioren-Alltagsdienste — Hilders  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS**  \nEin verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den verstreuten Gersfelder Ortsteilen sicher zu Arztterminen oder Besorgungen bringt und sie auf Wunsch vor Ort geduldig unterstützt.\n\n**WARUM HIER**  \nDie weit auseinanderliegenden, teils steilen Rhön-Dörfer rund um Gersfeld und das raue Winterwetter machen selbst kurze Wege zum Hauptort ohne eigenes Auto zu einer großen Hürde für die Selbstständigkeit.\n\n**ERSTER SCHRITT**  \nGemeinsam mit der Stadtverwaltung und den Ortsvorstehern wird ein einfaches Bürgertelefon im Rathaus eingerichtet, um den konkreten Bedarf abzufragen und hilfsbereite Fahrerinnen und Fahrer aus den Dörfern zu gewinnen.",
-      "ts": "2026-10-24 14:00",
+      "text": "**WAS:** \nEin mobiler Begleit- und Besorgungsdienst („Rhöner Dorf-Kompagnon“), der Ältere aus den verstreuten Ortsteilen würdevoll zu Arztterminen oder Einkäufen im Kernort begleitet und schwere Waren direkt in die Wohnung trägt.\n\n**WARUM HIER:** \nIn den steilen, weit auseinanderliegenden Rhöndörfern rund um Hilders sind Busverbindungen spärlich und besonders der raue Winter macht Wege ohne eigenen Pkw nahezu unmöglich.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den Ortsvorstehern wird eine einfache Telefon-Anlaufstelle im Rathaus eingerichtet, um konkrete Hilfegesuche unbürokratisch mit verlässlichen Nachbarschaftshelfern zu verknüpfen.",
+      "ts": "2026-10-24 17:25",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-gersfeld",
-      "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+      "agent": "tourismus-hilders",
+      "title": "Vulkanregion-Tourismus — Hilders  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Bei dieser dreistündigen, geführten Abendwanderung durch den offiziellen Sternenpark Rhön rund um Gersfeld beobachten Sie unter fachkundiger Anleitung den Nachthimmel und genießen eine regionale Rhöner Brotzeit im Freien.\n\n**fuer WEN:** Das Erlebnis richtet sich an Paare, Naturbegeisterte und Erholungssuchende, die eine romantische und entschleunigende Auszeit abseits des Alltags suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Ticket mit direkter Online-Bestätigung.",
-      "ts": "2026-10-24 14:00",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-gersfeld",
-      "title": "Direktvermarktung — Gersfeld  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Eine saisonale „Rhön-Brotzeit-Box“ im flexiblen Abo oder auf Bestellung, gefüllt mit bodenständigen Gersfelder Hofprodukten wie Hausmacher Wurst, Rhöner Bergkäse, frischem Bauernbrot und regionalen Schmankerln.\n\n**fuer WEN:** Für qualitätsbewusste Anwohner aus Gersfeld und Umgebung sowie Ferienhaus-Gäste und Wanderer, die sich unkompliziert echte Rhöner Hofqualität nach Hause oder in die Unterkunft holen wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger aus der Umgebung an einen Tisch holen, um ein solides Basissortiment abzustimmen und mit zehn Test-Boxen erstes Feedback im Ort einzuholen.",
-      "ts": "2026-10-24 14:00",
+      "text": "**WAS:** „Rhöner SternenZauber“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit nächtlichem Biosphären-Picknick und professioneller Sternenbeobachtung im UNESCO-Sternenpark Rhön.\n\n**fuer WEN:** Dieses Erlebnis ist perfekt für Paare und Genusswanderer, die eine entschleunigende Auszeit unter einem der dunkelsten Nachthimmel Deutschlands suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Website Ihren Wunschtermin aus und sichern Sie sich Ihr Digital-Ticket mit wenigen Klicks online.",
+      "ts": "2026-10-24 17:25",
       "age_min": 0
     }
   ],
   "departments": [
     {
+      "id": "Kommando",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kommando",
+          "agent": "kommando-digest",
+          "title": "Chief of Staff — Tages-Digest  ·  Kommando",
+          "via": "gemini",
+          "text": "**Tages-Fokus**\n\n1. **Offerta:** Die 3 ausstehenden Partner-Angebote für die regionale Sonderaktion final freigeben.\n2. **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe aus der Pipeline für das Onboarding-Webinar heute nachfassen.\n3. **Vogelsberg-Chancen:** Pitch-Mail für das neue Arbeitgeber-Paket an die Wirtschaftsförderung des Vogelsbergkreises versenden.",
+          "ts": "2026-10-24 17:25",
+          "age_min": 0
+        }
+      ]
+    },
+    {
       "id": "Chancen",
-      "count": 5,
+      "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "direkt-hilders",
-          "title": "Direktvermarktung — Hilders  ·  Chancen",
+          "agent": "chancen-fulda",
+          "title": "Opportunity Finder — Fulda  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Eine handfeste „Rhöner Brotzeit-Kiste“ im Wochen-Abo, vollgepackt mit frischem Bauernsauerteigbrot, Hausmacher Wurst, lokalem Käse und Apfelsaft direkt von den Höfen rund ums Ulstertal.\n\n**für WEN:** Für Urlaubsgäste in den Hilderser Ferienwohnungen, die direkt bei der Ankunft ehrliche Regionalprodukte auf dem Tisch haben wollen, sowie für einheimische Familien, die sich den Gang zu einzelnen Hofläden sparen möchten.\n\n**ERSTER SCHRITT:** Sprich mit zwei Höfen und einem Bäcker aus der Umgebung für die Produkte und vereinbare mit drei lokalen Ferienwohnungs-Vermietern einen Testlauf mit Flyern und einem Probier-Korb für deren Gäste.",
-          "ts": "2026-10-24 14:01",
+          "text": "**WAS:** Ein mobiler Vor-Ort-Wartungsservice für E-Bikes und Diensträder, der im Firmenauftrag direkt auf die Betriebsgelände der Fuldaer Gewerbegebiete fährt.\n\n**WARUM HIER:** Der starke E-Bike-Boom unter Pendlern im hügeligen Osthessen trifft auf monatelange Wartezeiten bei etablierten Fuldaer Fahrradhändlern, woraus lokale Unternehmen eine ideale Möglichkeit für ein gefragtes Mitarbeiter-Goodie machen können.\n\n**ERSTER SCHRITT diese Woche:** Erstelle ein einseitiges Angebots-PDF für einen \"Bike-Check-Tag\" im Betrieb und sende es gezielt an die HR-Leitung von zehn Mittelständlern im Industriepark West.",
+          "ts": "2026-10-24 17:26",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-hilders",
-          "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
+          "agent": "chancen-vogelsberg",
+          "title": "Opportunity Finder — Vogelsberg  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Ein **Heizung-Sanitär-Betrieb** (mit Fokus auf Wärmepumpen und Badmodernisierung).\n\n**Ansprache-Idee (1 Satz):**\n„Wenn Hausbesitzer oder Ferienhaus-Betreiber hier in der Rhön nach 'Wärmepumpe' oder 'Badrenovierung' googeln, landen sie meist bei Großbetrieben aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen in Hilders landen?“",
-          "ts": "2026-10-24 14:00",
+          "text": "**WAS:** \nEin mobiler \"Kleinkram-Service\" auf Honorarbasis für Reparatur- und Wartungsarbeiten im Haushalt von Senioren (z. B. Rollos reparieren, Lampen tauschen, Dichtungen wechseln), für die reguläre Handwerksbetriebe keine Kapazitäten haben.\n\n**WARUM HIER:** \nIm Vogelsbergkreis trifft eine stark alternde Bevölkerung in weit verteilten Dörfern auf völlig ausgebuchte Handwerker, wodurch eine massive Versorgungslücke bei kleinsten Alltagshilfen entsteht.\n\n**ERSTER SCHRITT DIESE WOCHE:** \nErstelle einen einfachen DIN-A5-Flyer mit konkreten Paketpreisen (z. B. \"1 Stunde Allround-Hilfe für 35 €\") und lege ihn nach kurzer Rücksprache in drei Apotheken und Bäckerfilialen im Raum Alsfeld, Lauterbach oder Schotten aus.",
+          "ts": "2026-10-24 17:26",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-hilders",
-          "title": "Chancen-Scout — Hilders  ·  Chancen",
+          "agent": "tourismus-hilders",
+          "title": "Vulkanregion-Tourismus — Hilders  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein digital buchbarer Miet-Service für bestückte Proviant-Rucksäcke mit regionalen Rhöner Spezialitäten und Outdoor-Equipment für Tageswanderer.\n\n**WARUM HIER:** Hilders ist als zentraler Luftkurort am Prädikatswanderweg „Der Hochrhöner“ stark touristisch geprägt, leidet auf den Etappen (z. B. rund um den Buchschirmberg) aber unter einer zunehmend lückenhaften Gastronomiedichte.\n\n**ERSTER SCHRITT:** Partnervereinbarungen mit zwei lokalen Hofläden für den Lebensmittel-Inhalt schließen und drei Test-Rucksäcke zur Vermietung in einer Hilderser Pension hinterlegen.",
-          "ts": "2026-10-24 14:00",
+          "text": "**WAS:** „Rhöner SternenZauber“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit nächtlichem Biosphären-Picknick und professioneller Sternenbeobachtung im UNESCO-Sternenpark Rhön.\n\n**fuer WEN:** Dieses Erlebnis ist perfekt für Paare und Genusswanderer, die eine entschleunigende Auszeit unter einem der dunkelsten Nachthimmel Deutschlands suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Website Ihren Wunschtermin aus und sichern Sie sich Ihr Digital-Ticket mit wenigen Klicks online.",
+          "ts": "2026-10-24 17:25",
           "age_min": 0
-        },
+        }
+      ]
+    },
+    {
+      "id": "Recherche",
+      "count": 1,
+      "items": [
         {
-          "dept": "Chancen",
-          "agent": "tourismus-gersfeld",
-          "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+          "dept": "Recherche",
+          "agent": "recherche-wettbewerb",
+          "title": "Researcher — Wettbewerb & Preise  ·  Recherche",
           "via": "gemini",
-          "text": "**WAS:** Bei dieser dreistündigen, geführten Abendwanderung durch den offiziellen Sternenpark Rhön rund um Gersfeld beobachten Sie unter fachkundiger Anleitung den Nachthimmel und genießen eine regionale Rhöner Brotzeit im Freien.\n\n**fuer WEN:** Das Erlebnis richtet sich an Paare, Naturbegeisterte und Erholungssuchende, die eine romantische und entschleunigende Auszeit abseits des Alltags suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Ticket mit direkter Online-Bestätigung.",
-          "ts": "2026-10-24 14:00",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-gersfeld",
-          "title": "Direktvermarktung — Gersfeld  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Eine saisonale „Rhön-Brotzeit-Box“ im flexiblen Abo oder auf Bestellung, gefüllt mit bodenständigen Gersfelder Hofprodukten wie Hausmacher Wurst, Rhöner Bergkäse, frischem Bauernbrot und regionalen Schmankerln.\n\n**fuer WEN:** Für qualitätsbewusste Anwohner aus Gersfeld und Umgebung sowie Ferienhaus-Gäste und Wanderer, die sich unkompliziert echte Rhöner Hofqualität nach Hause oder in die Unterkunft holen wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger aus der Umgebung an einen Tisch holen, um ein solides Basissortiment abzustimmen und mit zehn Test-Boxen erstes Feedback im Ort einzuholen.",
-          "ts": "2026-10-24 14:00",
+          "text": "Hier ist ein Preispositionierungsmodell für den DACH-Markt. Das Preismodell unterscheidet zwischen einmaligen Einrichtungskosten (Setup) und laufenden Kosten für Wartung/SEO, da die Pflege des Google-Unternehmensprofils ein kontinuierlicher Prozess ist.\n\n---\n\n### Paket 1: Basis („Digitale Visitenkarte“)\n* **Leistungsumfang:** Simple Website (One-Pager/bis zu 3 Seiten), Basis-Google-Unternehmensprofil, einfaches Kontakt-/Anfrageformular.\n* **Preisspanne:** **1.200 € – 1.800 € einmalig** (optional: 30 € – 50 € / Monat für Hosting & Wartung)\n* **Begründung (1 Satz):** Dieses Paket deckt die minimale digitale Existenz ab, um bei lokaler Namenssuche auffindbar zu sein, und richtet sich an preissensible Einzelunternehmer mit voller Auftragslage.\n\n### Paket 2: Standard („Regionale Sichtbarkeit & Anfragen-Filter“)\n* **Leistungsumfang:** Mehrseitige Website (5–8 Seiten inkl. Leistungen), optimiertes Google-Profil mit Bewertungs-System, interaktives Anfragen-Tool (z. B. vorgefilterte Angebotsanfrage/Fotos-Upload).\n* **Preisspanne:** **2.500 € – 4.500 € einmalig** + **100 € – 200 € / Monat** (für Pflege, lokales SEO & System-Updates)\n* **Begründung (1 Satz):** Es bietet das beste Kosten-Nutzen-Verhältnis für wachsende Betriebe, da es die regionale Auffindbarkeit erhöht und durch digitale Vorqualifizierung von Kundenanfragen Büroarbeitszeit einspart.\n\n### Paket 3: Premium („Marktführer & Neukundengewinnung“)\n* **Leistungsumfang:** Umfangreiche Website inkl. Karriereseite/Recruiting, aktives Google-Profil-Management (Beiträge, Fotos, Google Ads), automatisierter Angebots-Rechner mit ERP/CRM-Schnittstelle.\n* **Preisspanne:** **5.000 € – 8.500 € einmalig** + **300 € – 600 € / Monat** (für aktives Marketing & Betreuung)\n* **Begründung (1 Satz):** Diese Stufe richtet sich an etablierte Betriebe mit freien Kapazitäten, die systematisch hochmargige Aufträge und Fachkräfte gewinnen wollen.\n\n---\n\n### Miteinbezogene Annahmen (als solche markiert)\n\n1. **Annahme zum Markt:** Es wird vorausgesetzt, dass der Zielmarkt in der DACH-Region liegt; die Preisspannen orientieren sich an marktüblichen Agentur- und Freelancer-Preisen im KMU-Segment (Stand 2023/2024).\n2. **Annahme zum Material/Content:** Es wird angenommen, dass der Handwerker verwertbares Bildmaterial (Logo, Fotos von Projekten/Team) beistellt. *Falls dieses komplett neu erstellt werden muss (Fotograf), steigen die Setup-Preise um geschätzt 800 € bis 2.000 €.*\n3. **Annahme zur Kaufbereitschaft:** Es wird angenommen, dass Handwerker primär den Nutzen in der Zeitersparnis bei der Angebotserstellung sehen und weniger im reinen „Design“ der Website.\n4. **Annahme zum Zahlungsmodell:** Die Trennung in Setup + Monatsgebühr wird als notwendig angenommen, da ein Google-Unternehmensprofil ohne laufende Interaktion (Rezensionen, Updates",
+          "ts": "2026-10-24 17:26",
           "age_min": 0
         }
       ]
@@ -116,11 +128,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-gersfeld",
-          "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+          "agent": "senioren-hilders",
+          "title": "Senioren-Alltagsdienste — Hilders  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS**  \nEin verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den verstreuten Gersfelder Ortsteilen sicher zu Arztterminen oder Besorgungen bringt und sie auf Wunsch vor Ort geduldig unterstützt.\n\n**WARUM HIER**  \nDie weit auseinanderliegenden, teils steilen Rhön-Dörfer rund um Gersfeld und das raue Winterwetter machen selbst kurze Wege zum Hauptort ohne eigenes Auto zu einer großen Hürde für die Selbstständigkeit.\n\n**ERSTER SCHRITT**  \nGemeinsam mit der Stadtverwaltung und den Ortsvorstehern wird ein einfaches Bürgertelefon im Rathaus eingerichtet, um den konkreten Bedarf abzufragen und hilfsbereite Fahrerinnen und Fahrer aus den Dörfern zu gewinnen.",
-          "ts": "2026-10-24 14:00",
+          "text": "**WAS:** \nEin mobiler Begleit- und Besorgungsdienst („Rhöner Dorf-Kompagnon“), der Ältere aus den verstreuten Ortsteilen würdevoll zu Arztterminen oder Einkäufen im Kernort begleitet und schwere Waren direkt in die Wohnung trägt.\n\n**WARUM HIER:** \nIn den steilen, weit auseinanderliegenden Rhöndörfern rund um Hilders sind Busverbindungen spärlich und besonders der raue Winter macht Wege ohne eigenen Pkw nahezu unmöglich.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den Ortsvorstehern wird eine einfache Telefon-Anlaufstelle im Rathaus eingerichtet, um konkrete Hilfegesuche unbürokratisch mit verlässlichen Nachbarschaftshelfern zu verknüpfen.",
+          "ts": "2026-10-24 17:25",
           "age_min": 0
         }
       ]
