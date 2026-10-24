@@ -1,57 +1,111 @@
 {
-  "updated": "2026-10-24 10:09 UTC",
-  "total_results": 3,
+  "updated": "2026-10-24 14:01 UTC",
+  "total_results": 6,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-gersfeld",
-      "title": "Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen",
+      "agent": "direkt-hilders",
+      "title": "Direktvermarktung — Hilders  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:**  \nEin **Heizungs- und Sanitärbetrieb** in Gersfeld (mit Fokus auf Wärmepumpen, Pellets und Heizungsmodernisierung).\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo [Name], wenn Eigenheimbesitzer aus Gersfeld und der Rhön online nach einer neuen Wärmepumpe suchen, landen sie aktuell meist bei Großbetrieben aus Fulda – wollen wir sorgenfreie Anfragen aus der direkten Nachbarschaft wieder zu Ihnen holen?“",
-      "ts": "2026-10-24 10:09",
+      "text": "**WAS:** Eine handfeste „Rhöner Brotzeit-Kiste“ im Wochen-Abo, vollgepackt mit frischem Bauernsauerteigbrot, Hausmacher Wurst, lokalem Käse und Apfelsaft direkt von den Höfen rund ums Ulstertal.\n\n**für WEN:** Für Urlaubsgäste in den Hilderser Ferienwohnungen, die direkt bei der Ankunft ehrliche Regionalprodukte auf dem Tisch haben wollen, sowie für einheimische Familien, die sich den Gang zu einzelnen Hofläden sparen möchten.\n\n**ERSTER SCHRITT:** Sprich mit zwei Höfen und einem Bäcker aus der Umgebung für die Produkte und vereinbare mit drei lokalen Ferienwohnungs-Vermietern einen Testlauf mit Flyern und einem Probier-Korb für deren Gäste.",
+      "ts": "2026-10-24 14:01",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-gersfeld",
-      "title": "Chancen-Scout — Gersfeld  ·  Chancen",
+      "agent": "handwerk-hilders",
+      "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Gepäck- und E-Bike-Shuttleservice, der Equipment und Räder flexibel zwischen den Etappenunterkünften der Touristen transportiert und Notfall-Pannenhilfe auf den Routen anbietet.\n\n**WARUM HIER:** \nGersfeld ist das zentrale Drehkreuz für den HOCHRHÖNER-Wanderweg und den Ganzjahrestourismus an der Wasserkuppe, besitzt bisher aber keinen spezialisierten, schlanken Etappen-Logistiker für Individualreisende.\n\n**ERSTER SCHRITT:** \nKooperationen mit den fünf größten Gersfelder Pensionen und Hotels vereinbaren, um den Service ab der nächsten Saison direkt bei der Buchung der Gäste zu platzieren.",
-      "ts": "2026-10-24 10:08",
+      "text": "**Betriebstyp:** Ein **Heizung-Sanitär-Betrieb** (mit Fokus auf Wärmepumpen und Badmodernisierung).\n\n**Ansprache-Idee (1 Satz):**\n„Wenn Hausbesitzer oder Ferienhaus-Betreiber hier in der Rhön nach 'Wärmepumpe' oder 'Badrenovierung' googeln, landen sie meist bei Großbetrieben aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen in Hilders landen?“",
+      "ts": "2026-10-24 14:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-hilders",
+      "title": "Chancen-Scout — Hilders  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein digital buchbarer Miet-Service für bestückte Proviant-Rucksäcke mit regionalen Rhöner Spezialitäten und Outdoor-Equipment für Tageswanderer.\n\n**WARUM HIER:** Hilders ist als zentraler Luftkurort am Prädikatswanderweg „Der Hochrhöner“ stark touristisch geprägt, leidet auf den Etappen (z. B. rund um den Buchschirmberg) aber unter einer zunehmend lückenhaften Gastronomiedichte.\n\n**ERSTER SCHRITT:** Partnervereinbarungen mit zwei lokalen Hofläden für den Lebensmittel-Inhalt schließen und drei Test-Rucksäcke zur Vermietung in einer Hilderser Pension hinterlegen.",
+      "ts": "2026-10-24 14:00",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-tann",
-      "title": "Senioren-Alltagsdienste — Tann  ·  Kunden",
+      "agent": "senioren-gersfeld",
+      "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Einkaufs- und Begleitdienst holt ältere Menschen direkt an ihrer Haustür in den Ortsteilen ab, unterstützt sie auf Augenhöhe beim Erledigen ihrer Besorgungen im Kernort Tann und schafft Raum für das geschätzte Miteinander.\n\n**WARUM HIER:** Durch die weit verstreute Lage der Rhöndörfer rund um Tann und das Fehlen von Lebensmittelgeschäften vor Ort wird die selbstbestimmte Versorgung für immobile Seniorinnen und Senioren ohne eigenes Auto zur täglichen Herausforderung.\n\n**ERSTER SCHRITT:** In Abstimmung mit der Stadtverwaltung Tann und den Ortsbeiräten starten wir eine einfache Bedarfsabfrage, um feste Wochentags-Routen zu planen und verlässliche Fahrerinnen und Fahrer aus der Region zu gewinnen.",
-      "ts": "2026-10-24 10:08",
+      "text": "**WAS**  \nEin verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den verstreuten Gersfelder Ortsteilen sicher zu Arztterminen oder Besorgungen bringt und sie auf Wunsch vor Ort geduldig unterstützt.\n\n**WARUM HIER**  \nDie weit auseinanderliegenden, teils steilen Rhön-Dörfer rund um Gersfeld und das raue Winterwetter machen selbst kurze Wege zum Hauptort ohne eigenes Auto zu einer großen Hürde für die Selbstständigkeit.\n\n**ERSTER SCHRITT**  \nGemeinsam mit der Stadtverwaltung und den Ortsvorstehern wird ein einfaches Bürgertelefon im Rathaus eingerichtet, um den konkreten Bedarf abzufragen und hilfsbereite Fahrerinnen und Fahrer aus den Dörfern zu gewinnen.",
+      "ts": "2026-10-24 14:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-gersfeld",
+      "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Bei dieser dreistündigen, geführten Abendwanderung durch den offiziellen Sternenpark Rhön rund um Gersfeld beobachten Sie unter fachkundiger Anleitung den Nachthimmel und genießen eine regionale Rhöner Brotzeit im Freien.\n\n**fuer WEN:** Das Erlebnis richtet sich an Paare, Naturbegeisterte und Erholungssuchende, die eine romantische und entschleunigende Auszeit abseits des Alltags suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Ticket mit direkter Online-Bestätigung.",
+      "ts": "2026-10-24 14:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-gersfeld",
+      "title": "Direktvermarktung — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine saisonale „Rhön-Brotzeit-Box“ im flexiblen Abo oder auf Bestellung, gefüllt mit bodenständigen Gersfelder Hofprodukten wie Hausmacher Wurst, Rhöner Bergkäse, frischem Bauernbrot und regionalen Schmankerln.\n\n**fuer WEN:** Für qualitätsbewusste Anwohner aus Gersfeld und Umgebung sowie Ferienhaus-Gäste und Wanderer, die sich unkompliziert echte Rhöner Hofqualität nach Hause oder in die Unterkunft holen wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger aus der Umgebung an einen Tisch holen, um ein solides Basissortiment abzustimmen und mit zehn Test-Boxen erstes Feedback im Ort einzuholen.",
+      "ts": "2026-10-24 14:00",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-gersfeld",
-          "title": "Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen",
+          "agent": "direkt-hilders",
+          "title": "Direktvermarktung — Hilders  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:**  \nEin **Heizungs- und Sanitärbetrieb** in Gersfeld (mit Fokus auf Wärmepumpen, Pellets und Heizungsmodernisierung).\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo [Name], wenn Eigenheimbesitzer aus Gersfeld und der Rhön online nach einer neuen Wärmepumpe suchen, landen sie aktuell meist bei Großbetrieben aus Fulda – wollen wir sorgenfreie Anfragen aus der direkten Nachbarschaft wieder zu Ihnen holen?“",
-          "ts": "2026-10-24 10:09",
+          "text": "**WAS:** Eine handfeste „Rhöner Brotzeit-Kiste“ im Wochen-Abo, vollgepackt mit frischem Bauernsauerteigbrot, Hausmacher Wurst, lokalem Käse und Apfelsaft direkt von den Höfen rund ums Ulstertal.\n\n**für WEN:** Für Urlaubsgäste in den Hilderser Ferienwohnungen, die direkt bei der Ankunft ehrliche Regionalprodukte auf dem Tisch haben wollen, sowie für einheimische Familien, die sich den Gang zu einzelnen Hofläden sparen möchten.\n\n**ERSTER SCHRITT:** Sprich mit zwei Höfen und einem Bäcker aus der Umgebung für die Produkte und vereinbare mit drei lokalen Ferienwohnungs-Vermietern einen Testlauf mit Flyern und einem Probier-Korb für deren Gäste.",
+          "ts": "2026-10-24 14:01",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-gersfeld",
-          "title": "Chancen-Scout — Gersfeld  ·  Chancen",
+          "agent": "handwerk-hilders",
+          "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Gepäck- und E-Bike-Shuttleservice, der Equipment und Räder flexibel zwischen den Etappenunterkünften der Touristen transportiert und Notfall-Pannenhilfe auf den Routen anbietet.\n\n**WARUM HIER:** \nGersfeld ist das zentrale Drehkreuz für den HOCHRHÖNER-Wanderweg und den Ganzjahrestourismus an der Wasserkuppe, besitzt bisher aber keinen spezialisierten, schlanken Etappen-Logistiker für Individualreisende.\n\n**ERSTER SCHRITT:** \nKooperationen mit den fünf größten Gersfelder Pensionen und Hotels vereinbaren, um den Service ab der nächsten Saison direkt bei der Buchung der Gäste zu platzieren.",
-          "ts": "2026-10-24 10:08",
+          "text": "**Betriebstyp:** Ein **Heizung-Sanitär-Betrieb** (mit Fokus auf Wärmepumpen und Badmodernisierung).\n\n**Ansprache-Idee (1 Satz):**\n„Wenn Hausbesitzer oder Ferienhaus-Betreiber hier in der Rhön nach 'Wärmepumpe' oder 'Badrenovierung' googeln, landen sie meist bei Großbetrieben aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen in Hilders landen?“",
+          "ts": "2026-10-24 14:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-hilders",
+          "title": "Chancen-Scout — Hilders  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein digital buchbarer Miet-Service für bestückte Proviant-Rucksäcke mit regionalen Rhöner Spezialitäten und Outdoor-Equipment für Tageswanderer.\n\n**WARUM HIER:** Hilders ist als zentraler Luftkurort am Prädikatswanderweg „Der Hochrhöner“ stark touristisch geprägt, leidet auf den Etappen (z. B. rund um den Buchschirmberg) aber unter einer zunehmend lückenhaften Gastronomiedichte.\n\n**ERSTER SCHRITT:** Partnervereinbarungen mit zwei lokalen Hofläden für den Lebensmittel-Inhalt schließen und drei Test-Rucksäcke zur Vermietung in einer Hilderser Pension hinterlegen.",
+          "ts": "2026-10-24 14:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-gersfeld",
+          "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Bei dieser dreistündigen, geführten Abendwanderung durch den offiziellen Sternenpark Rhön rund um Gersfeld beobachten Sie unter fachkundiger Anleitung den Nachthimmel und genießen eine regionale Rhöner Brotzeit im Freien.\n\n**fuer WEN:** Das Erlebnis richtet sich an Paare, Naturbegeisterte und Erholungssuchende, die eine romantische und entschleunigende Auszeit abseits des Alltags suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Ticket mit direkter Online-Bestätigung.",
+          "ts": "2026-10-24 14:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-gersfeld",
+          "title": "Direktvermarktung — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Eine saisonale „Rhön-Brotzeit-Box“ im flexiblen Abo oder auf Bestellung, gefüllt mit bodenständigen Gersfelder Hofprodukten wie Hausmacher Wurst, Rhöner Bergkäse, frischem Bauernbrot und regionalen Schmankerln.\n\n**fuer WEN:** Für qualitätsbewusste Anwohner aus Gersfeld und Umgebung sowie Ferienhaus-Gäste und Wanderer, die sich unkompliziert echte Rhöner Hofqualität nach Hause oder in die Unterkunft holen wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger aus der Umgebung an einen Tisch holen, um ein solides Basissortiment abzustimmen und mit zehn Test-Boxen erstes Feedback im Ort einzuholen.",
+          "ts": "2026-10-24 14:00",
           "age_min": 0
         }
       ]
@@ -62,11 +116,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-tann",
-          "title": "Senioren-Alltagsdienste — Tann  ·  Kunden",
+          "agent": "senioren-gersfeld",
+          "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Einkaufs- und Begleitdienst holt ältere Menschen direkt an ihrer Haustür in den Ortsteilen ab, unterstützt sie auf Augenhöhe beim Erledigen ihrer Besorgungen im Kernort Tann und schafft Raum für das geschätzte Miteinander.\n\n**WARUM HIER:** Durch die weit verstreute Lage der Rhöndörfer rund um Tann und das Fehlen von Lebensmittelgeschäften vor Ort wird die selbstbestimmte Versorgung für immobile Seniorinnen und Senioren ohne eigenes Auto zur täglichen Herausforderung.\n\n**ERSTER SCHRITT:** In Abstimmung mit der Stadtverwaltung Tann und den Ortsbeiräten starten wir eine einfache Bedarfsabfrage, um feste Wochentags-Routen zu planen und verlässliche Fahrerinnen und Fahrer aus der Region zu gewinnen.",
-          "ts": "2026-10-24 10:08",
+          "text": "**WAS**  \nEin verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den verstreuten Gersfelder Ortsteilen sicher zu Arztterminen oder Besorgungen bringt und sie auf Wunsch vor Ort geduldig unterstützt.\n\n**WARUM HIER**  \nDie weit auseinanderliegenden, teils steilen Rhön-Dörfer rund um Gersfeld und das raue Winterwetter machen selbst kurze Wege zum Hauptort ohne eigenes Auto zu einer großen Hürde für die Selbstständigkeit.\n\n**ERSTER SCHRITT**  \nGemeinsam mit der Stadtverwaltung und den Ortsvorstehern wird ein einfaches Bürgertelefon im Rathaus eingerichtet, um den konkreten Bedarf abzufragen und hilfsbereite Fahrerinnen und Fahrer aus den Dörfern zu gewinnen.",
+          "ts": "2026-10-24 14:00",
           "age_min": 0
         }
       ]

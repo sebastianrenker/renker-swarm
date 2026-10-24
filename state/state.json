@@ -1,6 +1,6 @@
 {
   "day": "2026-10-24",
-  "calls_today": 6,
+  "calls_today": 12,
   "last_run": {
     "kommando-digest": 1791660306.194706,
     "chancen-vogelsberg": 1791660314.5555248,
@@ -156,12 +156,12 @@
     "senioren-tann": 1792836529.5245879,
     "chancen-gersfeld": 1792836537.3182778,
     "handwerk-gersfeld": 1792836541.6833253,
-    "direkt-gersfeld": 1791599497.2777777,
-    "tourismus-gersfeld": 1791622821.6065404,
-    "senioren-gersfeld": 1791622831.0174375,
-    "chancen-hilders": 1791622839.4876235,
-    "handwerk-hilders": 1791622844.9180186,
-    "direkt-hilders": 1791645678.0892897,
+    "direkt-gersfeld": 1792850426.2751226,
+    "tourismus-gersfeld": 1792850434.8723285,
+    "senioren-gersfeld": 1792850442.2794266,
+    "chancen-hilders": 1792850451.0937476,
+    "handwerk-hilders": 1792850457.2206695,
+    "direkt-hilders": 1792850466.6105568,
     "tourismus-hilders": 1791645684.1906822,
     "senioren-hilders": 1791645692.4370503
   }
