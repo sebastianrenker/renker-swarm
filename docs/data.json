@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T21:52Z",
+  "updated": "2026-10-24T23:57Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Reparaturen direkt auf den Radwegen oder vor der Haustür der Kunden erledigt. **WARUM HIER:** Lauterbach ist der zentrale Knotenpunkt am stark frequentierten Vulkanradweg, wo gestrandete Radtouristen mangels mobiler Hilfe oft feststecken und die regionalen Fahrradläden monatelange Wartezeiten haben",
+        "text": "**WAS:** „Lauterbacher Strolche-Tour“ – Eine selbstgeführte Genuss-Wanderung über die historischen Schrittsteine mit digitaler Rätsel-App und einem prall gefüllten Picknickrucksack voller regionaler Vulkan-Spezialitäten. **für WEN:** Dieses Angebot richtet sich an Paare, Familien und kleine Gruppen, die Naturerlebnis, Geschichte und regionale Kulinarik entsp",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Der „Lauterbacher Dorf-Begleiter“ ist ein persönlicher Alltagsdienst, der Seniorinnen und Senioren aus den Ortsteilen würdevoll zu Besorgungen oder Arztterminen begleitet und ihnen bei kleineren Aufgaben im Haushalt unterstützend zur Hand geht. **WARUM HIER:** In den weit verstreuten Dörfern rund um das Zentrum von Lauterbach schränkt der ausgedünnt",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -161,45 +165,45 @@
       "name": "Chancen-Scout — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Reparaturen direkt auf den Radwegen oder vor der Haustür der Kunden erledigt. **WARUM HIER:** Lauterbach ist der zentrale Knotenpunkt am stark frequentierten V",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-lauterbach",
       "name": "Handwerk-Sichtbarkeit — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Dachdeckerbetrieb **Ansprache-Idee (1 Satz):** „Hallo Herr/Frau [Name], wenn in Lauterbach nach dem nächsten Unwetter oder für eine energetische Sanierung ein Dachdecker direkt auf dem Smartphone gesucht",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-lauterbach",
       "name": "Direktvermarktung — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo mit knackigem Saison-Gemüse, Eiern, frischem Bauernbrot und wechselnden Regio-Schmankerln, rund um die Uhr abholbar aus einer gekühlten Abholbox am Laute",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-lauterbach",
       "name": "Vulkanregion-Tourismus — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Lauterbacher Strolche-Tour“ – Eine selbstgeführte Genuss-Wanderung über die historischen Schrittsteine mit digitaler Rätsel-App und einem prall gefüllten Picknickrucksack voller regionaler Vulkan-Spezialitäten.",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-lauterbach",
       "name": "Senioren-Alltagsdienste — Lauterbach",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Lauterbacher Dorf-Begleiter“ ist ein persönlicher Alltagsdienst, der Seniorinnen und Senioren aus den Ortsteilen würdevoll zu Besorgungen oder Arztterminen begleitet und ihnen bei kleineren Aufgaben im Haus",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-alsfeld",
@@ -1499,16 +1503,40 @@
     }
   ],
   "budget": {
-    "used": 23,
+    "used": 27,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "chancen-lauterbach",
+      "dept": "Kunden",
+      "agent": "senioren-lauterbach",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Reparaturen direkt auf den Radwegen oder vor der Haustür der Kunden erledigt. **WARUM HIER:** Lauterbach ist der zentrale Knotenpunkt am stark frequentierten Vulkanradweg, wo gestrandete Radtouristen mangels mobiler Hilfe oft feststecken und die regionalen Fahrradläden monatelange Wartezeiten haben",
-      "ts": "2026-10-24 21:52",
+      "text": "**WAS:** Der „Lauterbacher Dorf-Begleiter“ ist ein persönlicher Alltagsdienst, der Seniorinnen und Senioren aus den Ortsteilen würdevoll zu Besorgungen oder Arztterminen begleitet und ihnen bei kleineren Aufgaben im Haushalt unterstützend zur Hand geht. **WARUM HIER:** In den weit verstreuten Dörfern rund um das Zentrum von Lauterbach schränkt der ausgedünnt",
+      "ts": "2026-10-24 23:57",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-lauterbach",
+      "via": "gemini",
+      "text": "**WAS:** „Lauterbacher Strolche-Tour“ – Eine selbstgeführte Genuss-Wanderung über die historischen Schrittsteine mit digitaler Rätsel-App und einem prall gefüllten Picknickrucksack voller regionaler Vulkan-Spezialitäten. **für WEN:** Dieses Angebot richtet sich an Paare, Familien und kleine Gruppen, die Naturerlebnis, Geschichte und regionale Kulinarik entsp",
+      "ts": "2026-10-24 23:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-lauterbach",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo mit knackigem Saison-Gemüse, Eiern, frischem Bauernbrot und wechselnden Regio-Schmankerln, rund um die Uhr abholbar aus einer gekühlten Abholbox am Lauterbacher Bahnhof. **fuer WEN:** Für berufstätige Pendler und Familien aus Lauterbach, die ehrliche Lebensmittel direkt vom Erzeuger wollen, e",
+      "ts": "2026-10-24 23:56",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-lauterbach",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Dachdeckerbetrieb **Ansprache-Idee (1 Satz):** „Hallo Herr/Frau [Name], wenn in Lauterbach nach dem nächsten Unwetter oder für eine energetische Sanierung ein Dachdecker direkt auf dem Smartphone gesucht wird, landen die Kunden aktuell bei Ihrer Konkurrenz – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge aus der Region künftig b",
+      "ts": "2026-10-24 23:56",
       "age_min": 0
     }
   ]
