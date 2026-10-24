@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-23T22:38Z",
+  "updated": "2026-10-24T01:05Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Geführte „Sternenpark-Abendwanderungen“ inklusive einem regionalen Rhöner Picknick-Paket für Urlauber und Tagesgäste. **WARUM HIER:** Tann liegt perfekt im lichtarmen UNESCO-Biosphärenreservat Rhön und zieht viele Kurgäste sowie Wanderer an, bietet ihnen nach Sonnenuntergang bisher aber kaum fertige, leicht buchbare Erlebnis-Angebote. **ERSTER SCHRI",
+        "text": "**WAS:** Erlebe eine geführte Abend-Wanderung mit flauschigen Rhön-Lamas durch die Natur rund um Tann, gekrönt von einem regionalen Picknick unter dem spektakulären Sternenhimmel des Biosphärenreservats Rhön. **fuer WEN:** Dieses Erlebnis eignet sich perfekt für Paare, Familien und Naturbegeisterte, die eine entschleunigende Auszeit mit Tieren und einen unve",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Hol- und Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen für Einkäufe, Arztbesuche oder Gemeinschaftsaktivitäten barrierefrei ins Ortszentrum von Flieden bringt. **WARUM HIER:** Da in vielen der neun Fliedener Ortsteile die Nahversorgung fehlt und Busverbindungen im ländlichen Raum selt",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1362,45 +1358,45 @@
       "name": "Senioren-Alltagsdienste — Flieden",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Hol- und Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen für Einkäufe, Arztbesuche oder Gemeinschaftsaktivitäten barrierefrei ins Ortszentrum von F",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-tann",
       "name": "Chancen-Scout — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Geführte „Sternenpark-Abendwanderungen“ inklusive einem regionalen Rhöner Picknick-Paket für Urlauber und Tagesgäste. **WARUM HIER:** Tann liegt perfekt im lichtarmen UNESCO-Biosphärenreservat Rhön und zieht vie",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-tann",
       "name": "Handwerk-Sichtbarkeit — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Tann. **Ansprache-Idee:** „Hallo [Name], wenn Tanner Bürger auf dem Smartphone nach ‚Heizung kaputt‘ oder ‚Bad renovieren‘ suchen, landen sie aktuell bei Betrieben aus der",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-tann",
       "name": "Direktvermarktung — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine saisonale „Rhön-Vesper-Kiste“ im flexiblen Abo, vollgepackt mit frischem Tanner Landbrot, Hausmacher Wurst, regionalem Käse und Streuobst-Apfelsaft direkt von den Höfen der Umgebung. **für WEN:** Für Wander",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-tann",
       "name": "Vulkanregion-Tourismus — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe eine geführte Abend-Wanderung mit flauschigen Rhön-Lamas durch die Natur rund um Tann, gekrönt von einem regionalen Picknick unter dem spektakulären Sternenhimmel des Biosphärenreservats Rhön. **fuer WEN:",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-tann",
@@ -1503,24 +1499,32 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 3,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-tann",
+      "agent": "tourismus-tann",
       "via": "gemini",
-      "text": "**WAS:** Geführte „Sternenpark-Abendwanderungen“ inklusive einem regionalen Rhöner Picknick-Paket für Urlauber und Tagesgäste. **WARUM HIER:** Tann liegt perfekt im lichtarmen UNESCO-Biosphärenreservat Rhön und zieht viele Kurgäste sowie Wanderer an, bietet ihnen nach Sonnenuntergang bisher aber kaum fertige, leicht buchbare Erlebnis-Angebote. **ERSTER SCHRI",
-      "ts": "2026-10-23 22:38",
+      "text": "**WAS:** Erlebe eine geführte Abend-Wanderung mit flauschigen Rhön-Lamas durch die Natur rund um Tann, gekrönt von einem regionalen Picknick unter dem spektakulären Sternenhimmel des Biosphärenreservats Rhön. **fuer WEN:** Dieses Erlebnis eignet sich perfekt für Paare, Familien und Naturbegeisterte, die eine entschleunigende Auszeit mit Tieren und einen unve",
+      "ts": "2026-10-24 01:05",
       "age_min": 0
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-flieden",
+      "dept": "Chancen",
+      "agent": "direkt-tann",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Hol- und Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen für Einkäufe, Arztbesuche oder Gemeinschaftsaktivitäten barrierefrei ins Ortszentrum von Flieden bringt. **WARUM HIER:** Da in vielen der neun Fliedener Ortsteile die Nahversorgung fehlt und Busverbindungen im ländlichen Raum selt",
-      "ts": "2026-10-23 22:37",
+      "text": "**WAS:** Eine saisonale „Rhön-Vesper-Kiste“ im flexiblen Abo, vollgepackt mit frischem Tanner Landbrot, Hausmacher Wurst, regionalem Käse und Streuobst-Apfelsaft direkt von den Höfen der Umgebung. **für WEN:** Für Wanderer und Ausflügler in der Rhön sowie beschäftigte Einheimische, die ehrliche, bodenständige Verpflegung für das Wochenende suchen. **ERSTER S",
+      "ts": "2026-10-24 01:05",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-tann",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Tann. **Ansprache-Idee:** „Hallo [Name], wenn Tanner Bürger auf dem Smartphone nach ‚Heizung kaputt‘ oder ‚Bad renovieren‘ suchen, landen sie aktuell bei Betrieben aus der Nachbarstadt – lassen Sie uns dafür sorgen, dass Ihr Betrieb direkt an erster Stelle steht.“",
+      "ts": "2026-10-24 01:05",
       "age_min": 0
     }
   ]

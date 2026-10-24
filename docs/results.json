@@ -1,54 +1,66 @@
 {
-  "updated": "2026-10-23 22:38 UTC",
-  "total_results": 2,
-  "total_depts": 2,
+  "updated": "2026-10-24 01:05 UTC",
+  "total_results": 3,
+  "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-tann",
-      "title": "Chancen-Scout — Tann  ·  Chancen",
+      "agent": "tourismus-tann",
+      "title": "Vulkanregion-Tourismus — Tann  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Geführte „Sternenpark-Abendwanderungen“ inklusive einem regionalen Rhöner Picknick-Paket für Urlauber und Tagesgäste.\n\n**WARUM HIER:** Tann liegt perfekt im lichtarmen UNESCO-Biosphärenreservat Rhön und zieht viele Kurgäste sowie Wanderer an, bietet ihnen nach Sonnenuntergang bisher aber kaum fertige, leicht buchbare Erlebnis-Angebote.\n\n**ERSTER SCHRITT:** Erstelle ein einfaches Test-Paket für drei feste Termine und hänge Flyer in der Tourist-Information Tann sowie bei den größten örtlichen Ferienwohnungs-Vermietern aus.",
-      "ts": "2026-10-23 22:38",
+      "text": "**WAS:** Erlebe eine geführte Abend-Wanderung mit flauschigen Rhön-Lamas durch die Natur rund um Tann, gekrönt von einem regionalen Picknick unter dem spektakulären Sternenhimmel des Biosphärenreservats Rhön.\n\n**fuer WEN:** Dieses Erlebnis eignet sich perfekt für Paare, Familien und Naturbegeisterte, die eine entschleunigende Auszeit mit Tieren und einen unvergesslichen Blick in die Sterne suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform dein Wunschdatum aus und sichere dir dein Ticket für dieses exklusive Abendabenteuer in Tann mit wenigen Klicks.",
+      "ts": "2026-10-24 01:05",
       "age_min": 0
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-flieden",
-      "title": "Senioren-Alltagsdienste — Flieden  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "direkt-tann",
+      "title": "Direktvermarktung — Tann  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Hol- und Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen für Einkäufe, Arztbesuche oder Gemeinschaftsaktivitäten barrierefrei ins Ortszentrum von Flieden bringt.\n\n**WARUM HIER:** Da in vielen der neun Fliedener Ortsteile die Nahversorgung fehlt und Busverbindungen im ländlichen Raum selten sind, ermöglicht dieser Service das gewohnte Leben im eigenen Dorf ohne das Gefühl von Isolation.\n\n**ERSTER SCHRITT:** Im Austausch mit der Gemeinde Flieden und den örtlichen Ortsvorstehern wird der konkrete Bedarf ermittelt, um erste engagierte Fahrerinnen und Fahrer direkt aus den jeweiligen Dörfern zu gewinnen.",
-      "ts": "2026-10-23 22:37",
+      "text": "**WAS:** Eine saisonale „Rhön-Vesper-Kiste“ im flexiblen Abo, vollgepackt mit frischem Tanner Landbrot, Hausmacher Wurst, regionalem Käse und Streuobst-Apfelsaft direkt von den Höfen der Umgebung.\n\n**für WEN:** Für Wanderer und Ausflügler in der Rhön sowie beschäftigte Einheimische, die ehrliche, bodenständige Verpflegung für das Wochenende suchen.\n\n**ERSTER SCHRITT:** Drei passende Landwirte und Bäcker aus dem Tanner Land für ein Test-Paket zusammenbringen und die ersten 20 Kisten auf Vorbestellung zum Abholen anbieten.",
+      "ts": "2026-10-24 01:05",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-tann",
+      "title": "Handwerk-Sichtbarkeit — Tann  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Tann.\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn Tanner Bürger auf dem Smartphone nach ‚Heizung kaputt‘ oder ‚Bad renovieren‘ suchen, landen sie aktuell bei Betrieben aus der Nachbarstadt – lassen Sie uns dafür sorgen, dass Ihr Betrieb direkt an erster Stelle steht.“",
+      "ts": "2026-10-24 01:05",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-tann",
-          "title": "Chancen-Scout — Tann  ·  Chancen",
+          "agent": "tourismus-tann",
+          "title": "Vulkanregion-Tourismus — Tann  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Geführte „Sternenpark-Abendwanderungen“ inklusive einem regionalen Rhöner Picknick-Paket für Urlauber und Tagesgäste.\n\n**WARUM HIER:** Tann liegt perfekt im lichtarmen UNESCO-Biosphärenreservat Rhön und zieht viele Kurgäste sowie Wanderer an, bietet ihnen nach Sonnenuntergang bisher aber kaum fertige, leicht buchbare Erlebnis-Angebote.\n\n**ERSTER SCHRITT:** Erstelle ein einfaches Test-Paket für drei feste Termine und hänge Flyer in der Tourist-Information Tann sowie bei den größten örtlichen Ferienwohnungs-Vermietern aus.",
-          "ts": "2026-10-23 22:38",
+          "text": "**WAS:** Erlebe eine geführte Abend-Wanderung mit flauschigen Rhön-Lamas durch die Natur rund um Tann, gekrönt von einem regionalen Picknick unter dem spektakulären Sternenhimmel des Biosphärenreservats Rhön.\n\n**fuer WEN:** Dieses Erlebnis eignet sich perfekt für Paare, Familien und Naturbegeisterte, die eine entschleunigende Auszeit mit Tieren und einen unvergesslichen Blick in die Sterne suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform dein Wunschdatum aus und sichere dir dein Ticket für dieses exklusive Abendabenteuer in Tann mit wenigen Klicks.",
+          "ts": "2026-10-24 01:05",
           "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
+        },
         {
-          "dept": "Kunden",
-          "agent": "senioren-flieden",
-          "title": "Senioren-Alltagsdienste — Flieden  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "direkt-tann",
+          "title": "Direktvermarktung — Tann  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein verlässlicher, ehrenamtlich unterstützter Hol- und Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen für Einkäufe, Arztbesuche oder Gemeinschaftsaktivitäten barrierefrei ins Ortszentrum von Flieden bringt.\n\n**WARUM HIER:** Da in vielen der neun Fliedener Ortsteile die Nahversorgung fehlt und Busverbindungen im ländlichen Raum selten sind, ermöglicht dieser Service das gewohnte Leben im eigenen Dorf ohne das Gefühl von Isolation.\n\n**ERSTER SCHRITT:** Im Austausch mit der Gemeinde Flieden und den örtlichen Ortsvorstehern wird der konkrete Bedarf ermittelt, um erste engagierte Fahrerinnen und Fahrer direkt aus den jeweiligen Dörfern zu gewinnen.",
-          "ts": "2026-10-23 22:37",
+          "text": "**WAS:** Eine saisonale „Rhön-Vesper-Kiste“ im flexiblen Abo, vollgepackt mit frischem Tanner Landbrot, Hausmacher Wurst, regionalem Käse und Streuobst-Apfelsaft direkt von den Höfen der Umgebung.\n\n**für WEN:** Für Wanderer und Ausflügler in der Rhön sowie beschäftigte Einheimische, die ehrliche, bodenständige Verpflegung für das Wochenende suchen.\n\n**ERSTER SCHRITT:** Drei passende Landwirte und Bäcker aus dem Tanner Land für ein Test-Paket zusammenbringen und die ersten 20 Kisten auf Vorbestellung zum Abholen anbieten.",
+          "ts": "2026-10-24 01:05",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-tann",
+          "title": "Handwerk-Sichtbarkeit — Tann  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Tann.\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn Tanner Bürger auf dem Smartphone nach ‚Heizung kaputt‘ oder ‚Bad renovieren‘ suchen, landen sie aktuell bei Betrieben aus der Nachbarstadt – lassen Sie uns dafür sorgen, dass Ihr Betrieb direkt an erster Stelle steht.“",
+          "ts": "2026-10-24 01:05",
           "age_min": 0
         }
       ]

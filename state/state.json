@@ -1,6 +1,6 @@
 {
-  "day": "2026-10-23",
-  "calls_today": 10,
+  "day": "2026-10-24",
+  "calls_today": 3,
   "last_run": {
     "kommando-digest": 1791660306.194706,
     "chancen-vogelsberg": 1791660314.5555248,
@@ -150,9 +150,9 @@
     "tourismus-flieden": 1792752894.6216052,
     "senioren-flieden": 1792795073.2329628,
     "chancen-tann": 1792795081.2868867,
-    "handwerk-tann": 1791587779.9455316,
-    "direkt-tann": 1791587785.3755474,
-    "tourismus-tann": 1791587791.8964736,
+    "handwerk-tann": 1792803922.4226997,
+    "direkt-tann": 1792803930.5069852,
+    "tourismus-tann": 1792803934.6928854,
     "senioren-tann": 1791587798.9864619,
     "chancen-gersfeld": 1791587807.6288216,
     "handwerk-gersfeld": 1791599490.4575386,
