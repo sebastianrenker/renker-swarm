@@ -1,123 +1,57 @@
 {
-  "updated": "2026-10-24 17:26 UTC",
-  "total_results": 6,
+  "updated": "2026-10-24 19:39 UTC",
+  "total_results": 4,
   "total_depts": 4,
   "active": [
     {
-      "dept": "Recherche",
-      "agent": "recherche-wettbewerb",
-      "title": "Researcher — Wettbewerb & Preise  ·  Recherche",
-      "via": "gemini",
-      "text": "Hier ist ein Preispositionierungsmodell für den DACH-Markt. Das Preismodell unterscheidet zwischen einmaligen Einrichtungskosten (Setup) und laufenden Kosten für Wartung/SEO, da die Pflege des Google-Unternehmensprofils ein kontinuierlicher Prozess ist.\n\n---\n\n### Paket 1: Basis („Digitale Visitenkarte“)\n* **Leistungsumfang:** Simple Website (One-Pager/bis zu 3 Seiten), Basis-Google-Unternehmensprofil, einfaches Kontakt-/Anfrageformular.\n* **Preisspanne:** **1.200 € – 1.800 € einmalig** (optional: 30 € – 50 € / Monat für Hosting & Wartung)\n* **Begründung (1 Satz):** Dieses Paket deckt die minimale digitale Existenz ab, um bei lokaler Namenssuche auffindbar zu sein, und richtet sich an preissensible Einzelunternehmer mit voller Auftragslage.\n\n### Paket 2: Standard („Regionale Sichtbarkeit & Anfragen-Filter“)\n* **Leistungsumfang:** Mehrseitige Website (5–8 Seiten inkl. Leistungen), optimiertes Google-Profil mit Bewertungs-System, interaktives Anfragen-Tool (z. B. vorgefilterte Angebotsanfrage/Fotos-Upload).\n* **Preisspanne:** **2.500 € – 4.500 € einmalig** + **100 € – 200 € / Monat** (für Pflege, lokales SEO & System-Updates)\n* **Begründung (1 Satz):** Es bietet das beste Kosten-Nutzen-Verhältnis für wachsende Betriebe, da es die regionale Auffindbarkeit erhöht und durch digitale Vorqualifizierung von Kundenanfragen Büroarbeitszeit einspart.\n\n### Paket 3: Premium („Marktführer & Neukundengewinnung“)\n* **Leistungsumfang:** Umfangreiche Website inkl. Karriereseite/Recruiting, aktives Google-Profil-Management (Beiträge, Fotos, Google Ads), automatisierter Angebots-Rechner mit ERP/CRM-Schnittstelle.\n* **Preisspanne:** **5.000 € – 8.500 € einmalig** + **300 € – 600 € / Monat** (für aktives Marketing & Betreuung)\n* **Begründung (1 Satz):** Diese Stufe richtet sich an etablierte Betriebe mit freien Kapazitäten, die systematisch hochmargige Aufträge und Fachkräfte gewinnen wollen.\n\n---\n\n### Miteinbezogene Annahmen (als solche markiert)\n\n1. **Annahme zum Markt:** Es wird vorausgesetzt, dass der Zielmarkt in der DACH-Region liegt; die Preisspannen orientieren sich an marktüblichen Agentur- und Freelancer-Preisen im KMU-Segment (Stand 2023/2024).\n2. **Annahme zum Material/Content:** Es wird angenommen, dass der Handwerker verwertbares Bildmaterial (Logo, Fotos von Projekten/Team) beistellt. *Falls dieses komplett neu erstellt werden muss (Fotograf), steigen die Setup-Preise um geschätzt 800 € bis 2.000 €.*\n3. **Annahme zur Kaufbereitschaft:** Es wird angenommen, dass Handwerker primär den Nutzen in der Zeitersparnis bei der Angebotserstellung sehen und weniger im reinen „Design“ der Website.\n4. **Annahme zum Zahlungsmodell:** Die Trennung in Setup + Monatsgebühr wird als notwendig angenommen, da ein Google-Unternehmensprofil ohne laufende Interaktion (Rezensionen, Updates",
-      "ts": "2026-10-24 17:26",
-      "age_min": 0
-    },
-    {
       "dept": "Chancen",
-      "agent": "chancen-fulda",
-      "title": "Opportunity Finder — Fulda  ·  Chancen",
+      "agent": "wachstum-offerta",
+      "title": "Growth — Offerta  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Vor-Ort-Wartungsservice für E-Bikes und Diensträder, der im Firmenauftrag direkt auf die Betriebsgelände der Fuldaer Gewerbegebiete fährt.\n\n**WARUM HIER:** Der starke E-Bike-Boom unter Pendlern im hügeligen Osthessen trifft auf monatelange Wartezeiten bei etablierten Fuldaer Fahrradhändlern, woraus lokale Unternehmen eine ideale Möglichkeit für ein gefragtes Mitarbeiter-Goodie machen können.\n\n**ERSTER SCHRITT diese Woche:** Erstelle ein einseitiges Angebots-PDF für einen \"Bike-Check-Tag\" im Betrieb und sende es gezielt an die HR-Leitung von zehn Mittelständlern im Industriepark West.",
-      "ts": "2026-10-24 17:26",
+      "text": "**IDEE**\nDer „Template-Snatcher“ im Footer der digitalen Web-Angebote. Statt eines generischen Links („Erstellt mit Offerta“) nutzt du",
+      "ts": "2026-10-24 19:39",
       "age_min": 0
     },
     {
-      "dept": "Chancen",
-      "agent": "chancen-vogelsberg",
-      "title": "Opportunity Finder — Vogelsberg  ·  Chancen",
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
+      "title": "Treasurer — Zahlen-Check  ·  Finanzen",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler \"Kleinkram-Service\" auf Honorarbasis für Reparatur- und Wartungsarbeiten im Haushalt von Senioren (z. B. Rollos reparieren, Lampen tauschen, Dichtungen wechseln), für die reguläre Handwerksbetriebe keine Kapazitäten haben.\n\n**WARUM HIER:** \nIm Vogelsbergkreis trifft eine stark alternde Bevölkerung in weit verteilten Dörfern auf völlig ausgebuchte Handwerker, wodurch eine massive Versorgungslücke bei kleinsten Alltagshilfen entsteht.\n\n**ERSTER SCHRITT DIESE WOCHE:** \nErstelle einen einfachen DIN-A5-Flyer mit konkreten Paketpreisen (z. B. \"1 Stunde Allround-Hilfe für 35 €\") und lege ihn nach kurzer Rücksprache in drei Apotheken und Bäckerfilialen im Raum Alsfeld, Lauterbach oder Schotten aus.",
-      "ts": "2026-10-24 17:26",
-      "age_min": 0
-    },
-    {
-      "dept": "Kommando",
-      "agent": "kommando-digest",
-      "title": "Chief of Staff — Tages-Digest  ·  Kommando",
-      "via": "gemini",
-      "text": "**Tages-Fokus**\n\n1. **Offerta:** Die 3 ausstehenden Partner-Angebote für die regionale Sonderaktion final freigeben.\n2. **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe aus der Pipeline für das Onboarding-Webinar heute nachfassen.\n3. **Vogelsberg-Chancen:** Pitch-Mail für das neue Arbeitgeber-Paket an die Wirtschaftsförderung des Vogelsbergkreises versenden.",
-      "ts": "2026-10-24 17:25",
+      "text": "Hier sind die drei wichtigsten Punkte, die Sie als vorsichtiger Kaufmann vor dem ersten Verkauf klären müssen:\n\n1. **Gewerbe und Steuern:** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung beim Finanzamt geklärt sein – insbesondere ob die Kleinunternehmerregelung (§ 19 UStG) angewendet wird –, um von Anfang an rechtskonforme Rechnungen auszustellen.\n2. **Ehrliche Preiskalkulation:** Es muss eine lückenlose Vollkostenrechnung vorliegen, die sämtliche EK-Preise, Werkzeugverschleiß, Puffer für Gewährleistung, Steuern und Ihre Ziel-Marge berücksichtigt, damit Sie nicht mit jedem verkauften Paket Verlust machen.\n3. **Rechtssicherheit im Auftritt:** Für den Verkaufs- und Marketingkanal müssen ein vollständiges Impressum, eine DSGVO-konforme Datenschutzerklärung sowie rechtssichere AGB inklusive Widerrufsbelehrung vorliegen, um teure Abmahnungen zu vermeiden.",
+      "ts": "2026-10-24 19:39",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-hilders",
-      "title": "Senioren-Alltagsdienste — Hilders  ·  Kunden",
+      "agent": "kunden-faq",
+      "title": "Support Agent — FAQ-Bausteine  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Begleit- und Besorgungsdienst („Rhöner Dorf-Kompagnon“), der Ältere aus den verstreuten Ortsteilen würdevoll zu Arztterminen oder Einkäufen im Kernort begleitet und schwere Waren direkt in die Wohnung trägt.\n\n**WARUM HIER:** \nIn den steilen, weit auseinanderliegenden Rhöndörfern rund um Hilders sind Busverbindungen spärlich und besonders der raue Winter macht Wege ohne eigenen Pkw nahezu unmöglich.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den Ortsvorstehern wird eine einfache Telefon-Anlaufstelle im Rathaus eingerichtet, um konkrete Hilfegesuche unbürokratisch mit verlässlichen Nachbarschaftshelfern zu verknüpfen.",
-      "ts": "2026-10-24 17:25",
+      "text": "Hier sind 3 kurze, ehrliche FAQs für Offerta:\n\n**1. Ist Offerta wirklich kostenlos?**\nJa. In der kostenlosen Basisversion kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote brauchst oder Zusatzfunktionen wie automatische Zahlungserinnerungen nutzen willst, kannst du jederzeit auf den Pro-Tarif wechseln.\n\n**2. Kann ich mein eigenes Logo und Design verwenden?**\nJa. Du kannst dein Firmenlogo hochladen, deine Schriftarten und Farben anpassen sowie deine eigenen Fußzeilen und AGB hinterlegen. Das funktioniert auch schon im kostenlosen Tarif.\n\n**3. Wie erhält mein Kunde das Angebot?**\nDu kannst das fertige Angebot entweder als PDF herunterladen und selbst verschicken oder direkt aus Offerta heraus einen Link per E-Mail senden. Über diesen Link kann dein Kunde das Angebot direkt digital annehmen.",
+      "ts": "2026-10-24 19:38",
       "age_min": 0
     },
     {
-      "dept": "Chancen",
-      "agent": "tourismus-hilders",
-      "title": "Vulkanregion-Tourismus — Hilders  ·  Chancen",
+      "dept": "Bau",
+      "agent": "bau-landing-copy",
+      "title": "Web Designer — Landing-Texte  ·  Bau",
       "via": "gemini",
-      "text": "**WAS:** „Rhöner SternenZauber“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit nächtlichem Biosphären-Picknick und professioneller Sternenbeobachtung im UNESCO-Sternenpark Rhön.\n\n**fuer WEN:** Dieses Erlebnis ist perfekt für Paare und Genusswanderer, die eine entschleunigende Auszeit unter einem der dunkelsten Nachthimmel Deutschlands suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Website Ihren Wunschtermin aus und sichern Sie sich Ihr Digital-Ticket mit wenigen Klicks online.",
-      "ts": "2026-10-24 17:25",
+      "text": "Hier ist ein frischer, knackiger Text für deine Hero-Sektion:\n\n***\n\n**HEADLINE:**\n**Endlich digital sichtbar im Vogelsberg.**\n\n**SUBLINE:**\nWir bringen Ihren Handwerksbetrieb einfach ins Internet und bei Google ganz nach vorne. So gewinnen Sie ohne Werbestress genau die Kunden und Fachkräfte aus Ihrer Region.\n\n**CTA-BUTTON:**\n**Jetzt kostenloses Erstgespräch sichern**\n\n*** \n\n*Tipp für das Design:* Platziere daneben oder im Hintergrund ein echtes, sympathisches Foto von einem Handwerker aus der Region bei der Arbeit (kein austauschbares Stock-Foto).",
+      "ts": "2026-10-24 19:38",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Kommando",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kommando",
-          "agent": "kommando-digest",
-          "title": "Chief of Staff — Tages-Digest  ·  Kommando",
-          "via": "gemini",
-          "text": "**Tages-Fokus**\n\n1. **Offerta:** Die 3 ausstehenden Partner-Angebote für die regionale Sonderaktion final freigeben.\n2. **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe aus der Pipeline für das Onboarding-Webinar heute nachfassen.\n3. **Vogelsberg-Chancen:** Pitch-Mail für das neue Arbeitgeber-Paket an die Wirtschaftsförderung des Vogelsbergkreises versenden.",
-          "ts": "2026-10-24 17:25",
-          "age_min": 0
-        }
-      ]
-    },
-    {
       "id": "Chancen",
-      "count": 3,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "chancen-fulda",
-          "title": "Opportunity Finder — Fulda  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler Vor-Ort-Wartungsservice für E-Bikes und Diensträder, der im Firmenauftrag direkt auf die Betriebsgelände der Fuldaer Gewerbegebiete fährt.\n\n**WARUM HIER:** Der starke E-Bike-Boom unter Pendlern im hügeligen Osthessen trifft auf monatelange Wartezeiten bei etablierten Fuldaer Fahrradhändlern, woraus lokale Unternehmen eine ideale Möglichkeit für ein gefragtes Mitarbeiter-Goodie machen können.\n\n**ERSTER SCHRITT diese Woche:** Erstelle ein einseitiges Angebots-PDF für einen \"Bike-Check-Tag\" im Betrieb und sende es gezielt an die HR-Leitung von zehn Mittelständlern im Industriepark West.",
-          "ts": "2026-10-24 17:26",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-vogelsberg",
-          "title": "Opportunity Finder — Vogelsberg  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nEin mobiler \"Kleinkram-Service\" auf Honorarbasis für Reparatur- und Wartungsarbeiten im Haushalt von Senioren (z. B. Rollos reparieren, Lampen tauschen, Dichtungen wechseln), für die reguläre Handwerksbetriebe keine Kapazitäten haben.\n\n**WARUM HIER:** \nIm Vogelsbergkreis trifft eine stark alternde Bevölkerung in weit verteilten Dörfern auf völlig ausgebuchte Handwerker, wodurch eine massive Versorgungslücke bei kleinsten Alltagshilfen entsteht.\n\n**ERSTER SCHRITT DIESE WOCHE:** \nErstelle einen einfachen DIN-A5-Flyer mit konkreten Paketpreisen (z. B. \"1 Stunde Allround-Hilfe für 35 €\") und lege ihn nach kurzer Rücksprache in drei Apotheken und Bäckerfilialen im Raum Alsfeld, Lauterbach oder Schotten aus.",
-          "ts": "2026-10-24 17:26",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-hilders",
-          "title": "Vulkanregion-Tourismus — Hilders  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** „Rhöner SternenZauber“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit nächtlichem Biosphären-Picknick und professioneller Sternenbeobachtung im UNESCO-Sternenpark Rhön.\n\n**fuer WEN:** Dieses Erlebnis ist perfekt für Paare und Genusswanderer, die eine entschleunigende Auszeit unter einem der dunkelsten Nachthimmel Deutschlands suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Website Ihren Wunschtermin aus und sichern Sie sich Ihr Digital-Ticket mit wenigen Klicks online.",
-          "ts": "2026-10-24 17:25",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Recherche",
       "count": 1,
       "items": [
         {
-          "dept": "Recherche",
-          "agent": "recherche-wettbewerb",
-          "title": "Researcher — Wettbewerb & Preise  ·  Recherche",
+          "dept": "Chancen",
+          "agent": "wachstum-offerta",
+          "title": "Growth — Offerta  ·  Chancen",
           "via": "gemini",
-          "text": "Hier ist ein Preispositionierungsmodell für den DACH-Markt. Das Preismodell unterscheidet zwischen einmaligen Einrichtungskosten (Setup) und laufenden Kosten für Wartung/SEO, da die Pflege des Google-Unternehmensprofils ein kontinuierlicher Prozess ist.\n\n---\n\n### Paket 1: Basis („Digitale Visitenkarte“)\n* **Leistungsumfang:** Simple Website (One-Pager/bis zu 3 Seiten), Basis-Google-Unternehmensprofil, einfaches Kontakt-/Anfrageformular.\n* **Preisspanne:** **1.200 € – 1.800 € einmalig** (optional: 30 € – 50 € / Monat für Hosting & Wartung)\n* **Begründung (1 Satz):** Dieses Paket deckt die minimale digitale Existenz ab, um bei lokaler Namenssuche auffindbar zu sein, und richtet sich an preissensible Einzelunternehmer mit voller Auftragslage.\n\n### Paket 2: Standard („Regionale Sichtbarkeit & Anfragen-Filter“)\n* **Leistungsumfang:** Mehrseitige Website (5–8 Seiten inkl. Leistungen), optimiertes Google-Profil mit Bewertungs-System, interaktives Anfragen-Tool (z. B. vorgefilterte Angebotsanfrage/Fotos-Upload).\n* **Preisspanne:** **2.500 € – 4.500 € einmalig** + **100 € – 200 € / Monat** (für Pflege, lokales SEO & System-Updates)\n* **Begründung (1 Satz):** Es bietet das beste Kosten-Nutzen-Verhältnis für wachsende Betriebe, da es die regionale Auffindbarkeit erhöht und durch digitale Vorqualifizierung von Kundenanfragen Büroarbeitszeit einspart.\n\n### Paket 3: Premium („Marktführer & Neukundengewinnung“)\n* **Leistungsumfang:** Umfangreiche Website inkl. Karriereseite/Recruiting, aktives Google-Profil-Management (Beiträge, Fotos, Google Ads), automatisierter Angebots-Rechner mit ERP/CRM-Schnittstelle.\n* **Preisspanne:** **5.000 € – 8.500 € einmalig** + **300 € – 600 € / Monat** (für aktives Marketing & Betreuung)\n* **Begründung (1 Satz):** Diese Stufe richtet sich an etablierte Betriebe mit freien Kapazitäten, die systematisch hochmargige Aufträge und Fachkräfte gewinnen wollen.\n\n---\n\n### Miteinbezogene Annahmen (als solche markiert)\n\n1. **Annahme zum Markt:** Es wird vorausgesetzt, dass der Zielmarkt in der DACH-Region liegt; die Preisspannen orientieren sich an marktüblichen Agentur- und Freelancer-Preisen im KMU-Segment (Stand 2023/2024).\n2. **Annahme zum Material/Content:** Es wird angenommen, dass der Handwerker verwertbares Bildmaterial (Logo, Fotos von Projekten/Team) beistellt. *Falls dieses komplett neu erstellt werden muss (Fotograf), steigen die Setup-Preise um geschätzt 800 € bis 2.000 €.*\n3. **Annahme zur Kaufbereitschaft:** Es wird angenommen, dass Handwerker primär den Nutzen in der Zeitersparnis bei der Angebotserstellung sehen und weniger im reinen „Design“ der Website.\n4. **Annahme zum Zahlungsmodell:** Die Trennung in Setup + Monatsgebühr wird als notwendig angenommen, da ein Google-Unternehmensprofil ohne laufende Interaktion (Rezensionen, Updates",
-          "ts": "2026-10-24 17:26",
+          "text": "**IDEE**\nDer „Template-Snatcher“ im Footer der digitalen Web-Angebote. Statt eines generischen Links („Erstellt mit Offerta“) nutzt du",
+          "ts": "2026-10-24 19:39",
           "age_min": 0
         }
       ]
@@ -128,11 +62,41 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-hilders",
-          "title": "Senioren-Alltagsdienste — Hilders  ·  Kunden",
+          "agent": "kunden-faq",
+          "title": "Support Agent — FAQ-Bausteine  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Begleit- und Besorgungsdienst („Rhöner Dorf-Kompagnon“), der Ältere aus den verstreuten Ortsteilen würdevoll zu Arztterminen oder Einkäufen im Kernort begleitet und schwere Waren direkt in die Wohnung trägt.\n\n**WARUM HIER:** \nIn den steilen, weit auseinanderliegenden Rhöndörfern rund um Hilders sind Busverbindungen spärlich und besonders der raue Winter macht Wege ohne eigenen Pkw nahezu unmöglich.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den Ortsvorstehern wird eine einfache Telefon-Anlaufstelle im Rathaus eingerichtet, um konkrete Hilfegesuche unbürokratisch mit verlässlichen Nachbarschaftshelfern zu verknüpfen.",
-          "ts": "2026-10-24 17:25",
+          "text": "Hier sind 3 kurze, ehrliche FAQs für Offerta:\n\n**1. Ist Offerta wirklich kostenlos?**\nJa. In der kostenlosen Basisversion kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote brauchst oder Zusatzfunktionen wie automatische Zahlungserinnerungen nutzen willst, kannst du jederzeit auf den Pro-Tarif wechseln.\n\n**2. Kann ich mein eigenes Logo und Design verwenden?**\nJa. Du kannst dein Firmenlogo hochladen, deine Schriftarten und Farben anpassen sowie deine eigenen Fußzeilen und AGB hinterlegen. Das funktioniert auch schon im kostenlosen Tarif.\n\n**3. Wie erhält mein Kunde das Angebot?**\nDu kannst das fertige Angebot entweder als PDF herunterladen und selbst verschicken oder direkt aus Offerta heraus einen Link per E-Mail senden. Über diesen Link kann dein Kunde das Angebot direkt digital annehmen.",
+          "ts": "2026-10-24 19:38",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Bau",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Bau",
+          "agent": "bau-landing-copy",
+          "title": "Web Designer — Landing-Texte  ·  Bau",
+          "via": "gemini",
+          "text": "Hier ist ein frischer, knackiger Text für deine Hero-Sektion:\n\n***\n\n**HEADLINE:**\n**Endlich digital sichtbar im Vogelsberg.**\n\n**SUBLINE:**\nWir bringen Ihren Handwerksbetrieb einfach ins Internet und bei Google ganz nach vorne. So gewinnen Sie ohne Werbestress genau die Kunden und Fachkräfte aus Ihrer Region.\n\n**CTA-BUTTON:**\n**Jetzt kostenloses Erstgespräch sichern**\n\n*** \n\n*Tipp für das Design:* Platziere daneben oder im Hintergrund ein echtes, sympathisches Foto von einem Handwerker aus der Region bei der Arbeit (kein austauschbares Stock-Foto).",
+          "ts": "2026-10-24 19:38",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Finanzen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Finanzen",
+          "agent": "finanzen-check",
+          "title": "Treasurer — Zahlen-Check  ·  Finanzen",
+          "via": "gemini",
+          "text": "Hier sind die drei wichtigsten Punkte, die Sie als vorsichtiger Kaufmann vor dem ersten Verkauf klären müssen:\n\n1. **Gewerbe und Steuern:** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung beim Finanzamt geklärt sein – insbesondere ob die Kleinunternehmerregelung (§ 19 UStG) angewendet wird –, um von Anfang an rechtskonforme Rechnungen auszustellen.\n2. **Ehrliche Preiskalkulation:** Es muss eine lückenlose Vollkostenrechnung vorliegen, die sämtliche EK-Preise, Werkzeugverschleiß, Puffer für Gewährleistung, Steuern und Ihre Ziel-Marge berücksichtigt, damit Sie nicht mit jedem verkauften Paket Verlust machen.\n3. **Rechtssicherheit im Auftritt:** Für den Verkaufs- und Marketingkanal müssen ein vollständiges Impressum, eine DSGVO-konforme Datenschutzerklärung sowie rechtssichere AGB inklusive Widerrufsbelehrung vorliegen, um teure Abmahnungen zu vermeiden.",
+          "ts": "2026-10-24 19:39",
           "age_min": 0
         }
       ]

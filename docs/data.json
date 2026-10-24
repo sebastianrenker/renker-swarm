@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-24T17:26Z",
+  "updated": "2026-10-24T19:39Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": {
-        "via": "gemini",
-        "text": "**Tages-Fokus** 1. **Offerta:** Die 3 ausstehenden Partner-Angebote für die regionale Sonderaktion final freigeben. 2. **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe aus der Pipeline für das Onboarding-Webinar heute nachfassen. 3. **Vogelsberg-Chancen:** Pitch-Mail für das neue Arbeitgeber-Paket an die Wirtschaftsförderung des Vogelsbergkreises ver",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Vor-Ort-Wartungsservice für E-Bikes und Diensträder, der im Firmenauftrag direkt auf die Betriebsgelände der Fuldaer Gewerbegebiete fährt. **WARUM HIER:** Der starke E-Bike-Boom unter Pendlern im hügeligen Osthessen trifft auf monatelange Wartezeiten bei etablierten Fuldaer Fahrradhändlern, woraus lokale Unternehmen eine ideale Möglichke",
+        "text": "**IDEE** Der „Template-Snatcher“ im Footer der digitalen Web-Angebote. Statt eines generischen Links („Erstellt mit Offerta“) nutzt du",
         "age_min": 0
       }
     },
     {
       "id": "Recherche",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier ist ein Preispositionierungsmodell für den DACH-Markt. Das Preismodell unterscheidet zwischen einmaligen Einrichtungskosten (Setup) und laufenden Kosten für Wartung/SEO, da die Pflege des Google-Unternehmensprofils ein kontinuierlicher Prozess ist. --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Leistungsumfang:** Simple Website (One-Pager/bis zu 3",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Bau",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist ein frischer, knackiger Text für deine Hero-Sektion: *** **HEADLINE:** **Endlich digital sichtbar im Vogelsberg.** **SUBLINE:** Wir bringen Ihren Handwerksbetrieb einfach ins Internet und bei Google ganz nach vorne. So gewinnen Sie ohne Werbestress genau die Kunden und Fachkräfte aus Ihrer Region. **CTA-BUTTON:** **Jetzt kostenloses Erstgespräch sic",
+        "age_min": 0
+      }
     },
     {
       "id": "Kunden",
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Begleit- und Besorgungsdienst („Rhöner Dorf-Kompagnon“), der Ältere aus den verstreuten Ortsteilen würdevoll zu Arztterminen oder Einkäufen im Kernort begleitet und schwere Waren direkt in die Wohnung trägt. **WARUM HIER:** In den steilen, weit auseinanderliegenden Rhöndörfern rund um Hilders sind Busverbindungen spärlich und besonders d",
+        "text": "Hier sind 3 kurze, ehrliche FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. In der kostenlosen Basisversion kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote brauchst oder Zusatzfunktionen wie automatische Zahlungserinnerungen nutzen willst, kannst du jederzeit auf den Pro-Tarif wechseln. **2. Kann ",
         "age_min": 0
       }
     },
     {
       "id": "Finanzen",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier sind die drei wichtigsten Punkte, die Sie als vorsichtiger Kaufmann vor dem ersten Verkauf klären müssen: 1. **Gewerbe und Steuern:** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung beim Finanzamt geklärt sein – insbesondere ob die Kleinunternehmerregelung (§ 19 UStG) angewendet wird –, um von Anfang an rechtskonforme Rechnungen aus",
+        "age_min": 0
+      }
     }
   ],
   "agents": [
@@ -56,72 +56,72 @@
       "name": "Chief of Staff — Tages-Digest",
       "dept": "Kommando",
       "iv": 720,
-      "out": "**Tages-Fokus** 1. **Offerta:** Die 3 ausstehenden Partner-Angebote für die regionale Sonderaktion final freigeben. 2. **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe aus der Pipeline für das Onboarding-Webinar ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-vogelsberg",
       "name": "Opportunity Finder — Vogelsberg",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**WAS:** Ein mobiler \"Kleinkram-Service\" auf Honorarbasis für Reparatur- und Wartungsarbeiten im Haushalt von Senioren (z. B. Rollos reparieren, Lampen tauschen, Dichtungen wechseln), für die reguläre Handwerksbetriebe k",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-fulda",
       "name": "Opportunity Finder — Fulda",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**WAS:** Ein mobiler Vor-Ort-Wartungsservice für E-Bikes und Diensträder, der im Firmenauftrag direkt auf die Betriebsgelände der Fuldaer Gewerbegebiete fährt. **WARUM HIER:** Der starke E-Bike-Boom unter Pendlern im hüg",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "recherche-wettbewerb",
       "name": "Researcher — Wettbewerb & Preise",
       "dept": "Recherche",
       "iv": 480,
-      "out": "Hier ist ein Preispositionierungsmodell für den DACH-Markt. Das Preismodell unterscheidet zwischen einmaligen Einrichtungskosten (Setup) und laufenden Kosten für Wartung/SEO, da die Pflege des Google-Unternehmensprofils ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "bau-landing-copy",
       "name": "Web Designer — Landing-Texte",
       "dept": "Bau",
       "iv": 600,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist ein frischer, knackiger Text für deine Hero-Sektion: *** **HEADLINE:** **Endlich digital sichtbar im Vogelsberg.** **SUBLINE:** Wir bringen Ihren Handwerksbetrieb einfach ins Internet und bei Google ganz nach vo",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "kunden-faq",
       "name": "Support Agent — FAQ-Bausteine",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier sind 3 kurze, ehrliche FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. In der kostenlosen Basisversion kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote br",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "finanzen-check",
       "name": "Treasurer — Zahlen-Check",
       "dept": "Finanzen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier sind die drei wichtigsten Punkte, die Sie als vorsichtiger Kaufmann vor dem ersten Verkauf klären müssen: 1. **Gewerbe und Steuern:** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung beim Finanza",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "wachstum-offerta",
       "name": "Growth — Offerta",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**IDEE** Der „Template-Snatcher“ im Footer der digitalen Web-Angebote. Statt eines generischen Links („Erstellt mit Offerta“) nutzt du",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-offerta",
@@ -1496,71 +1496,55 @@
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Rhöner SternenZauber“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit nächtlichem Biosphären-Picknick und professioneller Sternenbeobachtung im UNESCO-Sternenpark Rhön. **fuer WEN:** Diese",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-hilders",
       "name": "Senioren-Alltagsdienste — Hilders",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Begleit- und Besorgungsdienst („Rhöner Dorf-Kompagnon“), der Ältere aus den verstreuten Ortsteilen würdevoll zu Arztterminen oder Einkäufen im Kernort begleitet und schwere Waren direkt in die Wohnun",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     }
   ],
   "budget": {
-    "used": 18,
+    "used": 22,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Recherche",
-      "agent": "recherche-wettbewerb",
-      "via": "gemini",
-      "text": "Hier ist ein Preispositionierungsmodell für den DACH-Markt. Das Preismodell unterscheidet zwischen einmaligen Einrichtungskosten (Setup) und laufenden Kosten für Wartung/SEO, da die Pflege des Google-Unternehmensprofils ein kontinuierlicher Prozess ist. --- ### Paket 1: Basis („Digitale Visitenkarte“) * **Leistungsumfang:** Simple Website (One-Pager/bis zu 3",
-      "ts": "2026-10-24 17:26",
-      "age_min": 0
-    },
-    {
       "dept": "Chancen",
-      "agent": "chancen-fulda",
+      "agent": "wachstum-offerta",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Vor-Ort-Wartungsservice für E-Bikes und Diensträder, der im Firmenauftrag direkt auf die Betriebsgelände der Fuldaer Gewerbegebiete fährt. **WARUM HIER:** Der starke E-Bike-Boom unter Pendlern im hügeligen Osthessen trifft auf monatelange Wartezeiten bei etablierten Fuldaer Fahrradhändlern, woraus lokale Unternehmen eine ideale Möglichke",
-      "ts": "2026-10-24 17:26",
+      "text": "**IDEE** Der „Template-Snatcher“ im Footer der digitalen Web-Angebote. Statt eines generischen Links („Erstellt mit Offerta“) nutzt du",
+      "ts": "2026-10-24 19:39",
       "age_min": 0
     },
     {
-      "dept": "Chancen",
-      "agent": "chancen-vogelsberg",
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler \"Kleinkram-Service\" auf Honorarbasis für Reparatur- und Wartungsarbeiten im Haushalt von Senioren (z. B. Rollos reparieren, Lampen tauschen, Dichtungen wechseln), für die reguläre Handwerksbetriebe keine Kapazitäten haben. **WARUM HIER:** Im Vogelsbergkreis trifft eine stark alternde Bevölkerung in weit verteilten Dörfern auf völlig ausg",
-      "ts": "2026-10-24 17:26",
-      "age_min": 0
-    },
-    {
-      "dept": "Kommando",
-      "agent": "kommando-digest",
-      "via": "gemini",
-      "text": "**Tages-Fokus** 1. **Offerta:** Die 3 ausstehenden Partner-Angebote für die regionale Sonderaktion final freigeben. 2. **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe aus der Pipeline für das Onboarding-Webinar heute nachfassen. 3. **Vogelsberg-Chancen:** Pitch-Mail für das neue Arbeitgeber-Paket an die Wirtschaftsförderung des Vogelsbergkreises ver",
-      "ts": "2026-10-24 17:25",
+      "text": "Hier sind die drei wichtigsten Punkte, die Sie als vorsichtiger Kaufmann vor dem ersten Verkauf klären müssen: 1. **Gewerbe und Steuern:** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung beim Finanzamt geklärt sein – insbesondere ob die Kleinunternehmerregelung (§ 19 UStG) angewendet wird –, um von Anfang an rechtskonforme Rechnungen aus",
+      "ts": "2026-10-24 19:39",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-hilders",
+      "agent": "kunden-faq",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Begleit- und Besorgungsdienst („Rhöner Dorf-Kompagnon“), der Ältere aus den verstreuten Ortsteilen würdevoll zu Arztterminen oder Einkäufen im Kernort begleitet und schwere Waren direkt in die Wohnung trägt. **WARUM HIER:** In den steilen, weit auseinanderliegenden Rhöndörfern rund um Hilders sind Busverbindungen spärlich und besonders d",
-      "ts": "2026-10-24 17:25",
+      "text": "Hier sind 3 kurze, ehrliche FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. In der kostenlosen Basisversion kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote brauchst oder Zusatzfunktionen wie automatische Zahlungserinnerungen nutzen willst, kannst du jederzeit auf den Pro-Tarif wechseln. **2. Kann ",
+      "ts": "2026-10-24 19:38",
       "age_min": 0
     },
     {
-      "dept": "Chancen",
-      "agent": "tourismus-hilders",
+      "dept": "Bau",
+      "agent": "bau-landing-copy",
       "via": "gemini",
-      "text": "**WAS:** „Rhöner SternenZauber“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit nächtlichem Biosphären-Picknick und professioneller Sternenbeobachtung im UNESCO-Sternenpark Rhön. **fuer WEN:** Dieses Erlebnis ist perfekt für Paare und Genusswanderer, die eine entschleunigende Auszeit unter einem der dunkelsten Nachthimmel Deutschlands s",
-      "ts": "2026-10-24 17:25",
+      "text": "Hier ist ein frischer, knackiger Text für deine Hero-Sektion: *** **HEADLINE:** **Endlich digital sichtbar im Vogelsberg.** **SUBLINE:** Wir bringen Ihren Handwerksbetrieb einfach ins Internet und bei Google ganz nach vorne. So gewinnen Sie ohne Werbestress genau die Kunden und Fachkräfte aus Ihrer Region. **CTA-BUTTON:** **Jetzt kostenloses Erstgespräch sic",
+      "ts": "2026-10-24 19:38",
       "age_min": 0
     }
   ]
