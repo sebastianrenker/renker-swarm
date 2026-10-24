@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T19:39Z",
+  "updated": "2026-10-24T21:52Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**IDEE** Der „Template-Snatcher“ im Footer der digitalen Web-Angebote. Statt eines generischen Links („Erstellt mit Offerta“) nutzt du",
+        "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Reparaturen direkt auf den Radwegen oder vor der Haustür der Kunden erledigt. **WARUM HIER:** Lauterbach ist der zentrale Knotenpunkt am stark frequentierten Vulkanradweg, wo gestrandete Radtouristen mangels mobiler Hilfe oft feststecken und die regionalen Fahrradläden monatelange Wartezeiten haben",
         "age_min": 0
       }
     },
@@ -25,29 +25,17 @@
     {
       "id": "Bau",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier ist ein frischer, knackiger Text für deine Hero-Sektion: *** **HEADLINE:** **Endlich digital sichtbar im Vogelsberg.** **SUBLINE:** Wir bringen Ihren Handwerksbetrieb einfach ins Internet und bei Google ganz nach vorne. So gewinnen Sie ohne Werbestress genau die Kunden und Fachkräfte aus Ihrer Region. **CTA-BUTTON:** **Jetzt kostenloses Erstgespräch sic",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier sind 3 kurze, ehrliche FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. In der kostenlosen Basisversion kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote brauchst oder Zusatzfunktionen wie automatische Zahlungserinnerungen nutzen willst, kannst du jederzeit auf den Pro-Tarif wechseln. **2. Kann ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier sind die drei wichtigsten Punkte, die Sie als vorsichtiger Kaufmann vor dem ersten Verkauf klären müssen: 1. **Gewerbe und Steuern:** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung beim Finanzamt geklärt sein – insbesondere ob die Kleinunternehmerregelung (§ 19 UStG) angewendet wird –, um von Anfang an rechtskonforme Rechnungen aus",
-        "age_min": 0
-      }
+      "latest": null
     }
   ],
   "agents": [
@@ -92,36 +80,36 @@
       "name": "Web Designer — Landing-Texte",
       "dept": "Bau",
       "iv": 600,
-      "out": "Hier ist ein frischer, knackiger Text für deine Hero-Sektion: *** **HEADLINE:** **Endlich digital sichtbar im Vogelsberg.** **SUBLINE:** Wir bringen Ihren Handwerksbetrieb einfach ins Internet und bei Google ganz nach vo",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "kunden-faq",
       "name": "Support Agent — FAQ-Bausteine",
       "dept": "Kunden",
       "iv": 720,
-      "out": "Hier sind 3 kurze, ehrliche FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. In der kostenlosen Basisversion kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote br",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "finanzen-check",
       "name": "Treasurer — Zahlen-Check",
       "dept": "Finanzen",
       "iv": 1440,
-      "out": "Hier sind die drei wichtigsten Punkte, die Sie als vorsichtiger Kaufmann vor dem ersten Verkauf klären müssen: 1. **Gewerbe und Steuern:** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung beim Finanza",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "wachstum-offerta",
       "name": "Growth — Offerta",
       "dept": "Chancen",
       "iv": 720,
-      "out": "**IDEE** Der „Template-Snatcher“ im Footer der digitalen Web-Angebote. Statt eines generischen Links („Erstellt mit Offerta“) nutzt du",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-offerta",
@@ -173,9 +161,9 @@
       "name": "Chancen-Scout — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Reparaturen direkt auf den Radwegen oder vor der Haustür der Kunden erledigt. **WARUM HIER:** Lauterbach ist der zentrale Knotenpunkt am stark frequentierten V",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-lauterbach",
@@ -1511,40 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 22,
+    "used": 23,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "wachstum-offerta",
+      "agent": "chancen-lauterbach",
       "via": "gemini",
-      "text": "**IDEE** Der „Template-Snatcher“ im Footer der digitalen Web-Angebote. Statt eines generischen Links („Erstellt mit Offerta“) nutzt du",
-      "ts": "2026-10-24 19:39",
-      "age_min": 0
-    },
-    {
-      "dept": "Finanzen",
-      "agent": "finanzen-check",
-      "via": "gemini",
-      "text": "Hier sind die drei wichtigsten Punkte, die Sie als vorsichtiger Kaufmann vor dem ersten Verkauf klären müssen: 1. **Gewerbe und Steuern:** Das Gewerbe muss offiziell angemeldet und die steuerliche Einordnung beim Finanzamt geklärt sein – insbesondere ob die Kleinunternehmerregelung (§ 19 UStG) angewendet wird –, um von Anfang an rechtskonforme Rechnungen aus",
-      "ts": "2026-10-24 19:39",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "kunden-faq",
-      "via": "gemini",
-      "text": "Hier sind 3 kurze, ehrliche FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja. In der kostenlosen Basisversion kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote brauchst oder Zusatzfunktionen wie automatische Zahlungserinnerungen nutzen willst, kannst du jederzeit auf den Pro-Tarif wechseln. **2. Kann ",
-      "ts": "2026-10-24 19:38",
-      "age_min": 0
-    },
-    {
-      "dept": "Bau",
-      "agent": "bau-landing-copy",
-      "via": "gemini",
-      "text": "Hier ist ein frischer, knackiger Text für deine Hero-Sektion: *** **HEADLINE:** **Endlich digital sichtbar im Vogelsberg.** **SUBLINE:** Wir bringen Ihren Handwerksbetrieb einfach ins Internet und bei Google ganz nach vorne. So gewinnen Sie ohne Werbestress genau die Kunden und Fachkräfte aus Ihrer Region. **CTA-BUTTON:** **Jetzt kostenloses Erstgespräch sic",
-      "ts": "2026-10-24 19:38",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Reparaturen direkt auf den Radwegen oder vor der Haustür der Kunden erledigt. **WARUM HIER:** Lauterbach ist der zentrale Knotenpunkt am stark frequentierten Vulkanradweg, wo gestrandete Radtouristen mangels mobiler Hilfe oft feststecken und die regionalen Fahrradläden monatelange Wartezeiten haben",
+      "ts": "2026-10-24 21:52",
       "age_min": 0
     }
   ]
