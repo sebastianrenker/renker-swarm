@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T01:05Z",
+  "updated": "2026-10-24T05:49Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Erlebe eine geführte Abend-Wanderung mit flauschigen Rhön-Lamas durch die Natur rund um Tann, gekrönt von einem regionalen Picknick unter dem spektakulären Sternenhimmel des Biosphärenreservats Rhön. **fuer WEN:** Dieses Erlebnis eignet sich perfekt für Paare, Familien und Naturbegeisterte, die eine entschleunigende Auszeit mit Tieren und einen unve",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -1376,27 +1372,27 @@
       "name": "Handwerk-Sichtbarkeit — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Tann. **Ansprache-Idee:** „Hallo [Name], wenn Tanner Bürger auf dem Smartphone nach ‚Heizung kaputt‘ oder ‚Bad renovieren‘ suchen, landen sie aktuell bei Betrieben aus der",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-tann",
       "name": "Direktvermarktung — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine saisonale „Rhön-Vesper-Kiste“ im flexiblen Abo, vollgepackt mit frischem Tanner Landbrot, Hausmacher Wurst, regionalem Käse und Streuobst-Apfelsaft direkt von den Höfen der Umgebung. **für WEN:** Für Wander",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-tann",
       "name": "Vulkanregion-Tourismus — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe eine geführte Abend-Wanderung mit flauschigen Rhön-Lamas durch die Natur rund um Tann, gekrönt von einem regionalen Picknick unter dem spektakulären Sternenhimmel des Biosphärenreservats Rhön. **fuer WEN:",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-tann",
@@ -1502,30 +1498,5 @@
     "used": 3,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-tann",
-      "via": "gemini",
-      "text": "**WAS:** Erlebe eine geführte Abend-Wanderung mit flauschigen Rhön-Lamas durch die Natur rund um Tann, gekrönt von einem regionalen Picknick unter dem spektakulären Sternenhimmel des Biosphärenreservats Rhön. **fuer WEN:** Dieses Erlebnis eignet sich perfekt für Paare, Familien und Naturbegeisterte, die eine entschleunigende Auszeit mit Tieren und einen unve",
-      "ts": "2026-10-24 01:05",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-tann",
-      "via": "gemini",
-      "text": "**WAS:** Eine saisonale „Rhön-Vesper-Kiste“ im flexiblen Abo, vollgepackt mit frischem Tanner Landbrot, Hausmacher Wurst, regionalem Käse und Streuobst-Apfelsaft direkt von den Höfen der Umgebung. **für WEN:** Für Wanderer und Ausflügler in der Rhön sowie beschäftigte Einheimische, die ehrliche, bodenständige Verpflegung für das Wochenende suchen. **ERSTER S",
-      "ts": "2026-10-24 01:05",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-tann",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Tann. **Ansprache-Idee:** „Hallo [Name], wenn Tanner Bürger auf dem Smartphone nach ‚Heizung kaputt‘ oder ‚Bad renovieren‘ suchen, landen sie aktuell bei Betrieben aus der Nachbarstadt – lassen Sie uns dafür sorgen, dass Ihr Betrieb direkt an erster Stelle steht.“",
-      "ts": "2026-10-24 01:05",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
