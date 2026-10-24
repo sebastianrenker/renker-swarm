@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T05:49Z",
+  "updated": "2026-10-24T10:09Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld (mit Fokus auf Wärmepumpen, Pellets und Heizungsmodernisierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer aus Gersfeld und der Rhön online nach einer neuen Wärmepumpe suchen, landen sie aktuell meist bei Großbetrieben aus Fulda – wollen wir sorgenfreie Anfragen aus de",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Einkaufs- und Begleitdienst holt ältere Menschen direkt an ihrer Haustür in den Ortsteilen ab, unterstützt sie auf Augenhöhe beim Erledigen ihrer Besorgungen im Kernort Tann und schafft Raum für das geschätzte Miteinander. **WARUM HIER:** Durch die weit verstreute Lage der Rhöndörfer rund um Tann und das Fehlen von Lebensmittelgeschäften",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1399,27 +1407,27 @@
       "name": "Senioren-Alltagsdienste — Tann",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Einkaufs- und Begleitdienst holt ältere Menschen direkt an ihrer Haustür in den Ortsteilen ab, unterstützt sie auf Augenhöhe beim Erledigen ihrer Besorgungen im Kernort Tann und schafft Raum für das ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-gersfeld",
       "name": "Chancen-Scout — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Gepäck- und E-Bike-Shuttleservice, der Equipment und Räder flexibel zwischen den Etappenunterkünften der Touristen transportiert und Notfall-Pannenhilfe auf den Routen anbietet. **WARUM HIER:** Gersf",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-gersfeld",
       "name": "Handwerk-Sichtbarkeit — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld (mit Fokus auf Wärmepumpen, Pellets und Heizungsmodernisierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer aus Gersfeld und der R",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-gersfeld",
@@ -1495,8 +1503,33 @@
     }
   ],
   "budget": {
-    "used": 3,
+    "used": 6,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-gersfeld",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Heizungs- und Sanitärbetrieb** in Gersfeld (mit Fokus auf Wärmepumpen, Pellets und Heizungsmodernisierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer aus Gersfeld und der Rhön online nach einer neuen Wärmepumpe suchen, landen sie aktuell meist bei Großbetrieben aus Fulda – wollen wir sorgenfreie Anfragen aus de",
+      "ts": "2026-10-24 10:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-gersfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Gepäck- und E-Bike-Shuttleservice, der Equipment und Räder flexibel zwischen den Etappenunterkünften der Touristen transportiert und Notfall-Pannenhilfe auf den Routen anbietet. **WARUM HIER:** Gersfeld ist das zentrale Drehkreuz für den HOCHRHÖNER-Wanderweg und den Ganzjahrestourismus an der Wasserkuppe, besitzt bisher aber keinen spezi",
+      "ts": "2026-10-24 10:08",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-tann",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Einkaufs- und Begleitdienst holt ältere Menschen direkt an ihrer Haustür in den Ortsteilen ab, unterstützt sie auf Augenhöhe beim Erledigen ihrer Besorgungen im Kernort Tann und schafft Raum für das geschätzte Miteinander. **WARUM HIER:** Durch die weit verstreute Lage der Rhöndörfer rund um Tann und das Fehlen von Lebensmittelgeschäften",
+      "ts": "2026-10-24 10:08",
+      "age_min": 0
+    }
+  ]
 }
