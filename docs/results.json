@@ -1,90 +1,30 @@
 {
-  "updated": "2026-10-24 23:57 UTC",
-  "total_results": 4,
-  "total_depts": 2,
+  "updated": "2026-10-25 03:20 UTC",
+  "total_results": 1,
+  "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-lauterbach",
-      "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** \nDer „Lauterbacher Dorf-Begleiter“ ist ein persönlicher Alltagsdienst, der Seniorinnen und Senioren aus den Ortsteilen würdevoll zu Besorgungen oder Arztterminen begleitet und ihnen bei kleineren Aufgaben im Haushalt unterstützend zur Hand geht.\n\n**WARUM HIER:** \nIn den weit verstreuten Dörfern rund um das Zentrum von Lauterbach schränkt der ausgedünnte öffentliche Nahverkehr die Mobilität stark ein, weshalb ältere Menschen eine verlässliche Brücke für den Erhalt ihrer Eigenständigkeit benötigen.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit den Lauterbacher Ortsvorstehern wird eine einfache Bedarfsabfrage in den Ortsteilen durchgeführt, um feste Anfahrtstage und vertraute Begleitpersonen aus der Region zu organisieren.",
-      "ts": "2026-10-24 23:57",
-      "age_min": 0
-    },
-    {
       "dept": "Chancen",
-      "agent": "tourismus-lauterbach",
-      "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
+      "agent": "chancen-alsfeld",
+      "title": "Chancen-Scout — Alsfeld  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** „Lauterbacher Strolche-Tour“ – Eine selbstgeführte Genuss-Wanderung über die historischen Schrittsteine mit digitaler Rätsel-App und einem prall gefüllten Picknickrucksack voller regionaler Vulkan-Spezialitäten.\n\n**für WEN:** Dieses Angebot richtet sich an Paare, Familien und kleine Gruppen, die Naturerlebnis, Geschichte und regionale Kulinarik entspannt in eigenem Tempo kombinieren möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin auf unserer Website aus und sichere dir mit wenigen Klicks den digitalen Voucher für dein Rucksack-Abenteuer.",
-      "ts": "2026-10-24 23:56",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-lauterbach",
-      "title": "Direktvermarktung — Lauterbach  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nDie „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo mit knackigem Saison-Gemüse, Eiern, frischem Bauernbrot und wechselnden Regio-Schmankerln, rund um die Uhr abholbar aus einer gekühlten Abholbox am Lauterbacher Bahnhof.\n\n**fuer WEN:** \nFür berufstätige Pendler und Familien aus Lauterbach, die ehrliche Lebensmittel direkt vom Erzeuger wollen, es aber zeitlich nicht zu den regulären Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** \nDrei lokale Erzeuger aus dem Umland für eine Kooperation zusammenholen und über einen Aushang im Landmarkt sowie einen Aufruf in den lokalen Facebook-Gruppen die ersten 30 Test-Abonnenten sammeln.",
-      "ts": "2026-10-24 23:56",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-lauterbach",
-      "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Dachdeckerbetrieb\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr/Frau [Name], wenn in Lauterbach nach dem nächsten Unwetter oder für eine energetische Sanierung ein Dachdecker direkt auf dem Smartphone gesucht wird, landen die Kunden aktuell bei Ihrer Konkurrenz – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge aus der Region künftig bei Ihnen eingehen.“",
-      "ts": "2026-10-24 23:56",
+      "text": "**WAS:** Ein mobiler Vor-Ort-Service, der privaten Eigentümern von Altstadt-Immobilien die komplette Abwicklung (Inserat-Erstellung, digitale Schlüsselübergabe, Reinigung) für die Vermietung als Ferienwohnung abnimmt.\n\n**WARUM HIER:** Alsfeld profitiert stark vom Kurzurlaubstrend im Vogelsberg, doch viele ältere Eigentümer historischer Fachwerkhäuser scheuen den digitalen Aufwand auf Plattformen wie Airbnb oder Booking.com.\n\n**ERSTER SCHRITT:** Drei private Eigentümer in der Alsfelder Altstadt direkt ansprechen und eine zweimonatige Test-Betreuung auf reiner Provisionsbasis vereinbaren.",
+      "ts": "2026-10-25 03:20",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 3,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-lauterbach",
-          "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** „Lauterbacher Strolche-Tour“ – Eine selbstgeführte Genuss-Wanderung über die historischen Schrittsteine mit digitaler Rätsel-App und einem prall gefüllten Picknickrucksack voller regionaler Vulkan-Spezialitäten.\n\n**für WEN:** Dieses Angebot richtet sich an Paare, Familien und kleine Gruppen, die Naturerlebnis, Geschichte und regionale Kulinarik entspannt in eigenem Tempo kombinieren möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin auf unserer Website aus und sichere dir mit wenigen Klicks den digitalen Voucher für dein Rucksack-Abenteuer.",
-          "ts": "2026-10-24 23:56",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-lauterbach",
-          "title": "Direktvermarktung — Lauterbach  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nDie „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo mit knackigem Saison-Gemüse, Eiern, frischem Bauernbrot und wechselnden Regio-Schmankerln, rund um die Uhr abholbar aus einer gekühlten Abholbox am Lauterbacher Bahnhof.\n\n**fuer WEN:** \nFür berufstätige Pendler und Familien aus Lauterbach, die ehrliche Lebensmittel direkt vom Erzeuger wollen, es aber zeitlich nicht zu den regulären Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** \nDrei lokale Erzeuger aus dem Umland für eine Kooperation zusammenholen und über einen Aushang im Landmarkt sowie einen Aufruf in den lokalen Facebook-Gruppen die ersten 30 Test-Abonnenten sammeln.",
-          "ts": "2026-10-24 23:56",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-lauterbach",
-          "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Dachdeckerbetrieb\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr/Frau [Name], wenn in Lauterbach nach dem nächsten Unwetter oder für eine energetische Sanierung ein Dachdecker direkt auf dem Smartphone gesucht wird, landen die Kunden aktuell bei Ihrer Konkurrenz – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge aus der Region künftig bei Ihnen eingehen.“",
-          "ts": "2026-10-24 23:56",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
       "count": 1,
       "items": [
         {
-          "dept": "Kunden",
-          "agent": "senioren-lauterbach",
-          "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "chancen-alsfeld",
+          "title": "Chancen-Scout — Alsfeld  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nDer „Lauterbacher Dorf-Begleiter“ ist ein persönlicher Alltagsdienst, der Seniorinnen und Senioren aus den Ortsteilen würdevoll zu Besorgungen oder Arztterminen begleitet und ihnen bei kleineren Aufgaben im Haushalt unterstützend zur Hand geht.\n\n**WARUM HIER:** \nIn den weit verstreuten Dörfern rund um das Zentrum von Lauterbach schränkt der ausgedünnte öffentliche Nahverkehr die Mobilität stark ein, weshalb ältere Menschen eine verlässliche Brücke für den Erhalt ihrer Eigenständigkeit benötigen.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit den Lauterbacher Ortsvorstehern wird eine einfache Bedarfsabfrage in den Ortsteilen durchgeführt, um feste Anfahrtstage und vertraute Begleitpersonen aus der Region zu organisieren.",
-          "ts": "2026-10-24 23:57",
+          "text": "**WAS:** Ein mobiler Vor-Ort-Service, der privaten Eigentümern von Altstadt-Immobilien die komplette Abwicklung (Inserat-Erstellung, digitale Schlüsselübergabe, Reinigung) für die Vermietung als Ferienwohnung abnimmt.\n\n**WARUM HIER:** Alsfeld profitiert stark vom Kurzurlaubstrend im Vogelsberg, doch viele ältere Eigentümer historischer Fachwerkhäuser scheuen den digitalen Aufwand auf Plattformen wie Airbnb oder Booking.com.\n\n**ERSTER SCHRITT:** Drei private Eigentümer in der Alsfelder Altstadt direkt ansprechen und eine zweimonatige Test-Betreuung auf reiner Provisionsbasis vereinbaren.",
+          "ts": "2026-10-25 03:20",
           "age_min": 0
         }
       ]

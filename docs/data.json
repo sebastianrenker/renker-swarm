@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T23:57Z",
+  "updated": "2026-10-25T03:20Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** „Lauterbacher Strolche-Tour“ – Eine selbstgeführte Genuss-Wanderung über die historischen Schrittsteine mit digitaler Rätsel-App und einem prall gefüllten Picknickrucksack voller regionaler Vulkan-Spezialitäten. **für WEN:** Dieses Angebot richtet sich an Paare, Familien und kleine Gruppen, die Naturerlebnis, Geschichte und regionale Kulinarik entsp",
+        "text": "**WAS:** Ein mobiler Vor-Ort-Service, der privaten Eigentümern von Altstadt-Immobilien die komplette Abwicklung (Inserat-Erstellung, digitale Schlüsselübergabe, Reinigung) für die Vermietung als Ferienwohnung abnimmt. **WARUM HIER:** Alsfeld profitiert stark vom Kurzurlaubstrend im Vogelsberg, doch viele ältere Eigentümer historischer Fachwerkhäuser scheuen ",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Der „Lauterbacher Dorf-Begleiter“ ist ein persönlicher Alltagsdienst, der Seniorinnen und Senioren aus den Ortsteilen würdevoll zu Besorgungen oder Arztterminen begleitet und ihnen bei kleineren Aufgaben im Haushalt unterstützend zur Hand geht. **WARUM HIER:** In den weit verstreuten Dörfern rund um das Zentrum von Lauterbach schränkt der ausgedünnt",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -174,45 +170,45 @@
       "name": "Handwerk-Sichtbarkeit — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Dachdeckerbetrieb **Ansprache-Idee (1 Satz):** „Hallo Herr/Frau [Name], wenn in Lauterbach nach dem nächsten Unwetter oder für eine energetische Sanierung ein Dachdecker direkt auf dem Smartphone gesucht",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-lauterbach",
       "name": "Direktvermarktung — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo mit knackigem Saison-Gemüse, Eiern, frischem Bauernbrot und wechselnden Regio-Schmankerln, rund um die Uhr abholbar aus einer gekühlten Abholbox am Laute",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-lauterbach",
       "name": "Vulkanregion-Tourismus — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Lauterbacher Strolche-Tour“ – Eine selbstgeführte Genuss-Wanderung über die historischen Schrittsteine mit digitaler Rätsel-App und einem prall gefüllten Picknickrucksack voller regionaler Vulkan-Spezialitäten.",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-lauterbach",
       "name": "Senioren-Alltagsdienste — Lauterbach",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Lauterbacher Dorf-Begleiter“ ist ein persönlicher Alltagsdienst, der Seniorinnen und Senioren aus den Ortsteilen würdevoll zu Besorgungen oder Arztterminen begleitet und ihnen bei kleineren Aufgaben im Haus",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-alsfeld",
       "name": "Chancen-Scout — Alsfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Vor-Ort-Service, der privaten Eigentümern von Altstadt-Immobilien die komplette Abwicklung (Inserat-Erstellung, digitale Schlüsselübergabe, Reinigung) für die Vermietung als Ferienwohnung abnimmt. **",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-alsfeld",
@@ -1503,40 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 27,
+    "used": 1,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-lauterbach",
-      "via": "gemini",
-      "text": "**WAS:** Der „Lauterbacher Dorf-Begleiter“ ist ein persönlicher Alltagsdienst, der Seniorinnen und Senioren aus den Ortsteilen würdevoll zu Besorgungen oder Arztterminen begleitet und ihnen bei kleineren Aufgaben im Haushalt unterstützend zur Hand geht. **WARUM HIER:** In den weit verstreuten Dörfern rund um das Zentrum von Lauterbach schränkt der ausgedünnt",
-      "ts": "2026-10-24 23:57",
-      "age_min": 0
-    },
-    {
       "dept": "Chancen",
-      "agent": "tourismus-lauterbach",
+      "agent": "chancen-alsfeld",
       "via": "gemini",
-      "text": "**WAS:** „Lauterbacher Strolche-Tour“ – Eine selbstgeführte Genuss-Wanderung über die historischen Schrittsteine mit digitaler Rätsel-App und einem prall gefüllten Picknickrucksack voller regionaler Vulkan-Spezialitäten. **für WEN:** Dieses Angebot richtet sich an Paare, Familien und kleine Gruppen, die Naturerlebnis, Geschichte und regionale Kulinarik entsp",
-      "ts": "2026-10-24 23:56",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-lauterbach",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo mit knackigem Saison-Gemüse, Eiern, frischem Bauernbrot und wechselnden Regio-Schmankerln, rund um die Uhr abholbar aus einer gekühlten Abholbox am Lauterbacher Bahnhof. **fuer WEN:** Für berufstätige Pendler und Familien aus Lauterbach, die ehrliche Lebensmittel direkt vom Erzeuger wollen, e",
-      "ts": "2026-10-24 23:56",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-lauterbach",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Dachdeckerbetrieb **Ansprache-Idee (1 Satz):** „Hallo Herr/Frau [Name], wenn in Lauterbach nach dem nächsten Unwetter oder für eine energetische Sanierung ein Dachdecker direkt auf dem Smartphone gesucht wird, landen die Kunden aktuell bei Ihrer Konkurrenz – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge aus der Region künftig b",
-      "ts": "2026-10-24 23:56",
+      "text": "**WAS:** Ein mobiler Vor-Ort-Service, der privaten Eigentümern von Altstadt-Immobilien die komplette Abwicklung (Inserat-Erstellung, digitale Schlüsselübergabe, Reinigung) für die Vermietung als Ferienwohnung abnimmt. **WARUM HIER:** Alsfeld profitiert stark vom Kurzurlaubstrend im Vogelsberg, doch viele ältere Eigentümer historischer Fachwerkhäuser scheuen ",
+      "ts": "2026-10-25 03:20",
       "age_min": 0
     }
   ]
