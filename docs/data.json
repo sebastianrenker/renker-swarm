@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T08:37Z",
+  "updated": "2026-10-25T13:21Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** in Schotten. **Ansprache-Idee:** „Wenn bei jemandem in Schotten die Heizung ausfällt oder eine neue Wärmepumpe gesucht wird, landen die lukrativen Aufträge aktuell oft bei Firmen aus Lauterbach oder Gießen – wollen wir sorgen, dass Ihre Telefonnummer auf dem Smartphone an erster Stelle steht?“",
+        "text": "**WAS:** Eine bodenständige „Vogelsberger Vulkan-Kiste“ im flexiblen Abo, vollgepackt mit regionalen Klassikern wie Schotter Holzofenbrot, Hausmacher Wurst, Hofkäse und saisonalem Feldgemüse. **FÜR WEN:** Für beschäftigte Familien und Pendler aus der Region Schotten sowie Stamm-Feriengäste, die ehrliche Handwerksqualität ohne Supermarkt-Umweg auf dem Tisch h",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen aus den umliegenden Dörfern verlässlich zu Einkäufen, Arztterminen oder Gemeinschaftstreffen im Kernort Alsfeld begleitet und vor Ort unterstützt. **WARUM HIER:** In den 16 weit verstreuten Alsfelder Ortsteilen fehlen oft Einkaufsmöglichkeiten und Busverbindungen, weshalb eine würdevolle Br",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -219,63 +215,63 @@
       "name": "Handwerk-Sichtbarkeit — Alsfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Zimmerei- und Holzbaubetrieb mit Spezialisierung auf Altbau- und Fachwerksanierung** in Alsfeld. *(Gerade in einer Region mit vielen historischen Gebäuden suchen Immobilienbesitzer gezielt nach Exp",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-alsfeld",
       "name": "Direktvermarktung — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Abo mit allen Zutaten für ein ehrliches Abendbrot – von regionalem Bauernbrot über Ahle Wurst und Hofkäse bis hin zu saisonalem Gemüse direkt aus dem Als",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-alsfeld",
       "name": "Vulkanregion-Tourismus — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Ein 3-stündiger, digital geführter Kulinarik-Spaziergang durch die historische Altstadt von Alsfeld, inklusive drei regionaler Genuss-Stopps rund um Rotkäppchen-Tradition und Salzekuchen. **für WEN:** Perfekt fü",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-alsfeld",
       "name": "Senioren-Alltagsdienste — Alsfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen aus den umliegenden Dörfern verlässlich zu Einkäufen, Arztterminen oder Gemeinschaftstreffen im Kernort Alsfeld begleitet und vor Ort unterstützt. **WA",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-schotten",
       "name": "Chancen-Scout — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Pannen-, Lade- und Gepäcktransport-Service für Ausflügler rund um den Hoherodskopf und den Vulkanradweg. **WARUM HIER:** Schotten zieht wöchentlich hunderte Outdoor-Touristen aus dem Rhein-Mai",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-schotten",
       "name": "Handwerk-Sichtbarkeit — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** in Schotten. **Ansprache-Idee:** „Wenn bei jemandem in Schotten die Heizung ausfällt oder eine neue Wärmepumpe gesucht wird, landen die lukrativen Aufträge aktuell oft ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-schotten",
       "name": "Direktvermarktung — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine bodenständige „Vogelsberger Vulkan-Kiste“ im flexiblen Abo, vollgepackt mit regionalen Klassikern wie Schotter Holzofenbrot, Hausmacher Wurst, Hofkäse und saisonalem Feldgemüse. **FÜR WEN:** Für beschäftigt",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-schotten",
@@ -1503,56 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 7,
+    "used": 8,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-schotten",
+      "agent": "direkt-schotten",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbauer** in Schotten. **Ansprache-Idee:** „Wenn bei jemandem in Schotten die Heizung ausfällt oder eine neue Wärmepumpe gesucht wird, landen die lukrativen Aufträge aktuell oft bei Firmen aus Lauterbach oder Gießen – wollen wir sorgen, dass Ihre Telefonnummer auf dem Smartphone an erster Stelle steht?“",
-      "ts": "2026-10-25 08:37",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-schotten",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannen-, Lade- und Gepäcktransport-Service für Ausflügler rund um den Hoherodskopf und den Vulkanradweg. **WARUM HIER:** Schotten zieht wöchentlich hunderte Outdoor-Touristen aus dem Rhein-Main-Gebiet an, denen bei Pannen oder leeren Akkus auf den steilen Vogelsberg-Routen bisher ein flexibler Vor-Ort-Support fehlt. **ERSTER SCHRI",
-      "ts": "2026-10-25 08:37",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-alsfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen aus den umliegenden Dörfern verlässlich zu Einkäufen, Arztterminen oder Gemeinschaftstreffen im Kernort Alsfeld begleitet und vor Ort unterstützt. **WARUM HIER:** In den 16 weit verstreuten Alsfelder Ortsteilen fehlen oft Einkaufsmöglichkeiten und Busverbindungen, weshalb eine würdevolle Br",
-      "ts": "2026-10-25 08:37",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-alsfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein 3-stündiger, digital geführter Kulinarik-Spaziergang durch die historische Altstadt von Alsfeld, inklusive drei regionaler Genuss-Stopps rund um Rotkäppchen-Tradition und Salzekuchen. **für WEN:** Perfekt für Paare, kleine Freundesgruppen und Kultur-Genießer, die Geschichte, Fachwerk und lokale Spezialitäten flexibel im eigenen Tempo entdecken m",
-      "ts": "2026-10-25 08:37",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-alsfeld",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Abo mit allen Zutaten für ein ehrliches Abendbrot – von regionalem Bauernbrot über Ahle Wurst und Hofkäse bis hin zu saisonalem Gemüse direkt aus dem Alsfelder Umland. **FÜR WEN:** Sie richtet sich an Pendler, vielbeschäftigte Familien und Senioren aus Alsfeld und den Ortsteilen, die Heimisch",
-      "ts": "2026-10-25 08:37",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-alsfeld",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Zimmerei- und Holzbaubetrieb mit Spezialisierung auf Altbau- und Fachwerksanierung** in Alsfeld. *(Gerade in einer Region mit vielen historischen Gebäuden suchen Immobilienbesitzer gezielt nach Experten vor Ort, finden online aber oft nur überregionale Vermittlungsportale.)* **Ansprache-Idee (1 Satz):** „Wer in und um Alsfeld sein Fach",
-      "ts": "2026-10-25 08:37",
+      "text": "**WAS:** Eine bodenständige „Vogelsberger Vulkan-Kiste“ im flexiblen Abo, vollgepackt mit regionalen Klassikern wie Schotter Holzofenbrot, Hausmacher Wurst, Hofkäse und saisonalem Feldgemüse. **FÜR WEN:** Für beschäftigte Familien und Pendler aus der Region Schotten sowie Stamm-Feriengäste, die ehrliche Handwerksqualität ohne Supermarkt-Umweg auf dem Tisch h",
+      "ts": "2026-10-25 13:21",
       "age_min": 0
     }
   ]
