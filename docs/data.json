@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T17:08Z",
+  "updated": "2026-10-25T19:35Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler E-Bike-Notfall- und Reparaturservice (\"Vulkan-Bike-Retter\"), der Pannenhelfer-Einsätze und Akku-Tausche direkt auf die Radwege rund um Herbstein bringt. **WARUM HIER:** Herbstein ist ein stark frequentierter Knotenpunkt am Vulkanradweg mit vielen älteren Kneipp- und Aktivtouristen, hat aber vor Ort keinen spontanen Fahrrad-Reparaturservi",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den Ortsteilen direkt an der Haustür abholt, beim Einkauf oder Arztbesuch im Stadtkern unterstützt und Zeit für einen persönlichen Austausch bietet. **WARUM HIER:** Schotten besteht aus 15 weit verstreuten Dörfern im Vogelsberg, in denen die Nahversorgung vor Ort schwindet und ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -282,27 +274,27 @@
       "name": "Vulkanregion-Tourismus — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Vulkan-Glow & Picknick“ umfasst eine geführte Dämmerungs-Wanderung auf den Hoherodskopf bei Schotten inklusive eines Korbs voller regionaler Vogelsberger Spezialitäten am Lagerfeuer. **für WE",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-schotten",
       "name": "Senioren-Alltagsdienste — Schotten",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den Ortsteilen direkt an der Haustür abholt, beim Einkauf oder Arztbesuch im Stadtkern unterstützt und Zeit für einen persönlichen Austaus",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-herbstein",
       "name": "Chancen-Scout — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Notfall- und Reparaturservice (\"Vulkan-Bike-Retter\"), der Pannenhelfer-Einsätze und Akku-Tausche direkt auf die Radwege rund um Herbstein bringt. **WARUM HIER:** Herbstein ist ein stark freque",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-herbstein",
@@ -1506,30 +1498,5 @@
     "used": 11,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "chancen-herbstein",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Notfall- und Reparaturservice (\"Vulkan-Bike-Retter\"), der Pannenhelfer-Einsätze und Akku-Tausche direkt auf die Radwege rund um Herbstein bringt. **WARUM HIER:** Herbstein ist ein stark frequentierter Knotenpunkt am Vulkanradweg mit vielen älteren Kneipp- und Aktivtouristen, hat aber vor Ort keinen spontanen Fahrrad-Reparaturservi",
-      "ts": "2026-10-25 17:08",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-schotten",
-      "via": "gemini",
-      "text": "**WAS:** Ein nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den Ortsteilen direkt an der Haustür abholt, beim Einkauf oder Arztbesuch im Stadtkern unterstützt und Zeit für einen persönlichen Austausch bietet. **WARUM HIER:** Schotten besteht aus 15 weit verstreuten Dörfern im Vogelsberg, in denen die Nahversorgung vor Ort schwindet und ",
-      "ts": "2026-10-25 17:08",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-schotten",
-      "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Glow & Picknick“ umfasst eine geführte Dämmerungs-Wanderung auf den Hoherodskopf bei Schotten inklusive eines Korbs voller regionaler Vogelsberger Spezialitäten am Lagerfeuer. **für WEN:** Das Angebot richtet sich an romantiksuchende Paare und kleine Freundesgruppen, die die magische Natur der Vulkanregion entspannt und ku",
-      "ts": "2026-10-25 17:08",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
