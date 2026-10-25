@@ -1,30 +1,126 @@
 {
-  "updated": "2026-10-25 03:20 UTC",
-  "total_results": 1,
-  "total_depts": 1,
+  "updated": "2026-10-25 08:37 UTC",
+  "total_results": 6,
+  "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-alsfeld",
-      "title": "Chancen-Scout — Alsfeld  ·  Chancen",
+      "agent": "handwerk-schotten",
+      "title": "Handwerk-Sichtbarkeit — Schotten  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Vor-Ort-Service, der privaten Eigentümern von Altstadt-Immobilien die komplette Abwicklung (Inserat-Erstellung, digitale Schlüsselübergabe, Reinigung) für die Vermietung als Ferienwohnung abnimmt.\n\n**WARUM HIER:** Alsfeld profitiert stark vom Kurzurlaubstrend im Vogelsberg, doch viele ältere Eigentümer historischer Fachwerkhäuser scheuen den digitalen Aufwand auf Plattformen wie Airbnb oder Booking.com.\n\n**ERSTER SCHRITT:** Drei private Eigentümer in der Alsfelder Altstadt direkt ansprechen und eine zweimonatige Test-Betreuung auf reiner Provisionsbasis vereinbaren.",
-      "ts": "2026-10-25 03:20",
+      "text": "**Betriebstyp:**  \nEin **Sanitär- und Heizungsbauer** in Schotten.\n\n**Ansprache-Idee:**  \n„Wenn bei jemandem in Schotten die Heizung ausfällt oder eine neue Wärmepumpe gesucht wird, landen die lukrativen Aufträge aktuell oft bei Firmen aus Lauterbach oder Gießen – wollen wir sorgen, dass Ihre Telefonnummer auf dem Smartphone an erster Stelle steht?“",
+      "ts": "2026-10-25 08:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-schotten",
+      "title": "Chancen-Scout — Schotten  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannen-, Lade- und Gepäcktransport-Service für Ausflügler rund um den Hoherodskopf und den Vulkanradweg.\n\n**WARUM HIER:** Schotten zieht wöchentlich hunderte Outdoor-Touristen aus dem Rhein-Main-Gebiet an, denen bei Pannen oder leeren Akkus auf den steilen Vogelsberg-Routen bisher ein flexibler Vor-Ort-Support fehlt.\n\n**ERSTER SCHRITT:** Einen eigenen Transporter oder Anhänger mit Basis-Werkzeug und mobiler Powerstation ausrüsten sowie Flyer bei den Schottener Unterkünften und der Tourist-Info auslegen.",
+      "ts": "2026-10-25 08:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-alsfeld",
+      "title": "Senioren-Alltagsdienste — Alsfeld  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen aus den umliegenden Dörfern verlässlich zu Einkäufen, Arztterminen oder Gemeinschaftstreffen im Kernort Alsfeld begleitet und vor Ort unterstützt.\n\n**WARUM HIER:** In den 16 weit verstreuten Alsfelder Ortsteilen fehlen oft Einkaufsmöglichkeiten und Busverbindungen, weshalb eine würdevolle Brücke ins Zentrum nötig ist, damit die Senioren weiterhin selbstbestimmt in ihrer Heimat wohnen bleiben können.\n\n**ERSTER SCHRITT:** Ein Abstimmungsgespräch mit den Alsfelder Ortsbeiräten und Seniorenvertretungen führen, um feste wöchentliche Routen nach dem tatsächlichen Bedarf der Dorfbewohner zu planen.",
+      "ts": "2026-10-25 08:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-alsfeld",
+      "title": "Vulkanregion-Tourismus — Alsfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEin 3-stündiger, digital geführter Kulinarik-Spaziergang durch die historische Altstadt von Alsfeld, inklusive drei regionaler Genuss-Stopps rund um Rotkäppchen-Tradition und Salzekuchen.\n\n**für WEN:** \nPerfekt für Paare, kleine Freundesgruppen und Kultur-Genießer, die Geschichte, Fachwerk und lokale Spezialitäten flexibel im eigenen Tempo entdecken möchten.\n\n**ERSTER SCHRITT:** \nWählen Sie auf unserer Buchungsplattform Ihr Wunschdatum aus und schalten Sie direkt nach der Online-Zahlung Ihr digitales Erlebnispaket auf dem Smartphone frei.",
+      "ts": "2026-10-25 08:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-alsfeld",
+      "title": "Direktvermarktung — Alsfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Abo mit allen Zutaten für ein ehrliches Abendbrot – von regionalem Bauernbrot über Ahle Wurst und Hofkäse bis hin zu saisonalem Gemüse direkt aus dem Alsfelder Umland.\n\n**FÜR WEN:** Sie richtet sich an Pendler, vielbeschäftigte Familien und Senioren aus Alsfeld und den Ortsteilen, die Heimisches schätzen, aber unter der Woche keine Zeit für Klapper-Touren zu einzelnen Hofläden haben.\n\n**ERSTER SCHRITT:** Drei bis vier verlässliche Betriebe aus der Region (z. B. Bäcker, Hofschlächter, Gemüsebauer) an einen Tisch holen, um den Inhalt einer Test-Box zu vereinbaren und einen zentralen Abholort in Alsfeld festzulegen.",
+      "ts": "2026-10-25 08:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-alsfeld",
+      "title": "Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin **Zimmerei- und Holzbaubetrieb mit Spezialisierung auf Altbau- und Fachwerksanierung** in Alsfeld. *(Gerade in einer Region mit vielen historischen Gebäuden suchen Immobilienbesitzer gezielt nach Experten vor Ort, finden online aber oft nur überregionale Vermittlungsportale.)*\n\n**Ansprache-Idee (1 Satz):**\n„Wer in und um Alsfeld sein Fachwerkhaus sanieren möchte, sucht online nach echten Spezialisten – aktuell landen diese lukrativen Aufträge aber bei MyHammer und Co. statt direkt auf Ihrer Website.“",
+      "ts": "2026-10-25 08:37",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-alsfeld",
-          "title": "Chancen-Scout — Alsfeld  ·  Chancen",
+          "agent": "handwerk-schotten",
+          "title": "Handwerk-Sichtbarkeit — Schotten  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Vor-Ort-Service, der privaten Eigentümern von Altstadt-Immobilien die komplette Abwicklung (Inserat-Erstellung, digitale Schlüsselübergabe, Reinigung) für die Vermietung als Ferienwohnung abnimmt.\n\n**WARUM HIER:** Alsfeld profitiert stark vom Kurzurlaubstrend im Vogelsberg, doch viele ältere Eigentümer historischer Fachwerkhäuser scheuen den digitalen Aufwand auf Plattformen wie Airbnb oder Booking.com.\n\n**ERSTER SCHRITT:** Drei private Eigentümer in der Alsfelder Altstadt direkt ansprechen und eine zweimonatige Test-Betreuung auf reiner Provisionsbasis vereinbaren.",
-          "ts": "2026-10-25 03:20",
+          "text": "**Betriebstyp:**  \nEin **Sanitär- und Heizungsbauer** in Schotten.\n\n**Ansprache-Idee:**  \n„Wenn bei jemandem in Schotten die Heizung ausfällt oder eine neue Wärmepumpe gesucht wird, landen die lukrativen Aufträge aktuell oft bei Firmen aus Lauterbach oder Gießen – wollen wir sorgen, dass Ihre Telefonnummer auf dem Smartphone an erster Stelle steht?“",
+          "ts": "2026-10-25 08:37",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-schotten",
+          "title": "Chancen-Scout — Schotten  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler E-Bike-Pannen-, Lade- und Gepäcktransport-Service für Ausflügler rund um den Hoherodskopf und den Vulkanradweg.\n\n**WARUM HIER:** Schotten zieht wöchentlich hunderte Outdoor-Touristen aus dem Rhein-Main-Gebiet an, denen bei Pannen oder leeren Akkus auf den steilen Vogelsberg-Routen bisher ein flexibler Vor-Ort-Support fehlt.\n\n**ERSTER SCHRITT:** Einen eigenen Transporter oder Anhänger mit Basis-Werkzeug und mobiler Powerstation ausrüsten sowie Flyer bei den Schottener Unterkünften und der Tourist-Info auslegen.",
+          "ts": "2026-10-25 08:37",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-alsfeld",
+          "title": "Vulkanregion-Tourismus — Alsfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEin 3-stündiger, digital geführter Kulinarik-Spaziergang durch die historische Altstadt von Alsfeld, inklusive drei regionaler Genuss-Stopps rund um Rotkäppchen-Tradition und Salzekuchen.\n\n**für WEN:** \nPerfekt für Paare, kleine Freundesgruppen und Kultur-Genießer, die Geschichte, Fachwerk und lokale Spezialitäten flexibel im eigenen Tempo entdecken möchten.\n\n**ERSTER SCHRITT:** \nWählen Sie auf unserer Buchungsplattform Ihr Wunschdatum aus und schalten Sie direkt nach der Online-Zahlung Ihr digitales Erlebnispaket auf dem Smartphone frei.",
+          "ts": "2026-10-25 08:37",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-alsfeld",
+          "title": "Direktvermarktung — Alsfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein wöchentliches Abo mit allen Zutaten für ein ehrliches Abendbrot – von regionalem Bauernbrot über Ahle Wurst und Hofkäse bis hin zu saisonalem Gemüse direkt aus dem Alsfelder Umland.\n\n**FÜR WEN:** Sie richtet sich an Pendler, vielbeschäftigte Familien und Senioren aus Alsfeld und den Ortsteilen, die Heimisches schätzen, aber unter der Woche keine Zeit für Klapper-Touren zu einzelnen Hofläden haben.\n\n**ERSTER SCHRITT:** Drei bis vier verlässliche Betriebe aus der Region (z. B. Bäcker, Hofschlächter, Gemüsebauer) an einen Tisch holen, um den Inhalt einer Test-Box zu vereinbaren und einen zentralen Abholort in Alsfeld festzulegen.",
+          "ts": "2026-10-25 08:37",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-alsfeld",
+          "title": "Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin **Zimmerei- und Holzbaubetrieb mit Spezialisierung auf Altbau- und Fachwerksanierung** in Alsfeld. *(Gerade in einer Region mit vielen historischen Gebäuden suchen Immobilienbesitzer gezielt nach Experten vor Ort, finden online aber oft nur überregionale Vermittlungsportale.)*\n\n**Ansprache-Idee (1 Satz):**\n„Wer in und um Alsfeld sein Fachwerkhaus sanieren möchte, sucht online nach echten Spezialisten – aktuell landen diese lukrativen Aufträge aber bei MyHammer und Co. statt direkt auf Ihrer Website.“",
+          "ts": "2026-10-25 08:37",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-alsfeld",
+          "title": "Senioren-Alltagsdienste — Alsfeld  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen aus den umliegenden Dörfern verlässlich zu Einkäufen, Arztterminen oder Gemeinschaftstreffen im Kernort Alsfeld begleitet und vor Ort unterstützt.\n\n**WARUM HIER:** In den 16 weit verstreuten Alsfelder Ortsteilen fehlen oft Einkaufsmöglichkeiten und Busverbindungen, weshalb eine würdevolle Brücke ins Zentrum nötig ist, damit die Senioren weiterhin selbstbestimmt in ihrer Heimat wohnen bleiben können.\n\n**ERSTER SCHRITT:** Ein Abstimmungsgespräch mit den Alsfelder Ortsbeiräten und Seniorenvertretungen führen, um feste wöchentliche Routen nach dem tatsächlichen Bedarf der Dorfbewohner zu planen.",
+          "ts": "2026-10-25 08:37",
           "age_min": 0
         }
       ]
