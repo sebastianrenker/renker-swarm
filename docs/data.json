@@ -1,17 +1,25 @@
 {
-  "updated": "2026-10-25T22:03Z",
+  "updated": "2026-10-26T00:21Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist der Lagebericht, Commander: * **Offerta:** Stabil im Grundgeschäft – *Nächster Hebel:* Partnergewinnung automatisieren, um die Lead-Marge ohne Mehraufwand zu steigern. * **Handwerk-Sichtbar:** Pipeline voll, aber operativer Engpass – *Nächster Hebel:* Onboarding-Prozess standardisieren, um Kapazität für Neukunden zu schaffen. * **Vogelsberg-Box:** B",
+        "age_min": 0
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**SCHRITT:** Launch einer kostenlosen „Fake Door“-Landingpage mit einer konkreten fiktiven „Vogelsberg-Kennenlern-Box“ und einem Button „Jetzt vorbestellen (Zahlung erst bei Lieferung)“ / E-Mail-Warteliste. **WARUM:** Das testet direkt das echte Kaufinteresse der Endkunden im Vogelsberg und der Region, bevor ich auch nur einen Euro für Wareneinkauf, Logistik",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +34,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist der konkrete Demo-Schritt, den wir dem Inhaber (z. B. Handwerksbetrieb oder Praxis) direkt auf seinem Smartphone oder über Lautsprecher vorspielen, **bevor** wir überhaupt über ein Angebot sprechen: --- ### 1. SZENARIO: Der „Montagmorgen-Stress-Call“ (Beispiel Handwerk / Heizung-Sanitär) **Ausgangslage:** Der Betrieb ist im Kundeneinsatz oder das Bü",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -112,45 +124,45 @@
       "name": "Business — Offerta",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SCHRITT** Aktivierung eines dezenten „Erstellt mit Offerta (kostenlos)“-Footers inkl. QR-Code auf allen generierten PDFs der Free-Version. **WARUM JETZT** Angebote werden im B2B-Bereich verschickt – oft an Subunternehm",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-handwerk",
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hallo Herr [Nachname], ich bin [Mein Name] von *Handwerk-Sichtbar* hier aus dem Vogelsberg. Was mir bei Ihrer Dachdeckerei in Lauterbach aufgefallen ist: Wer hier in der Region nach einem Dachdecker sucht, findet online ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-vogelsbergbox",
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SCHRITT:** Launch einer kostenlosen „Fake Door“-Landingpage mit einer konkreten fiktiven „Vogelsberg-Kennenlern-Box“ und einem Button „Jetzt vorbestellen (Zahlung erst bei Lieferung)“ / E-Mail-Warteliste. **WARUM:** Da",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-terminki",
       "name": "Business — Termin-/Anruf-KI",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist der konkrete Demo-Schritt, den wir dem Inhaber (z. B. Handwerksbetrieb oder Praxis) direkt auf seinem Smartphone oder über Lautsprecher vorspielen, **bevor** wir überhaupt über ein Angebot sprechen: --- ### 1. S",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-board",
       "name": "Business — Lagebericht",
       "dept": "Kommando",
       "iv": 480,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist der Lagebericht, Commander: * **Offerta:** Stabil im Grundgeschäft – *Nächster Hebel:* Partnergewinnung automatisieren, um die Lead-Marge ohne Mehraufwand zu steigern. * **Handwerk-Sichtbar:** Pipeline voll, abe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-lauterbach",
@@ -301,9 +313,9 @@
       "name": "Handwerk-Sichtbarkeit — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Damit Hausbesitzer aus Herbstein und dem Vogelsberg beim anstehenden Heizungstausch oder im Notfall direkt Ihre Telefonnummer ganz oben auf dem Smartphone ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-herbstein",
@@ -1495,8 +1507,57 @@
     }
   ],
   "budget": {
-    "used": 11,
+    "used": 6,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kommando",
+      "agent": "biz-board",
+      "via": "gemini",
+      "text": "Hier ist der Lagebericht, Commander: * **Offerta:** Stabil im Grundgeschäft – *Nächster Hebel:* Partnergewinnung automatisieren, um die Lead-Marge ohne Mehraufwand zu steigern. * **Handwerk-Sichtbar:** Pipeline voll, aber operativer Engpass – *Nächster Hebel:* Onboarding-Prozess standardisieren, um Kapazität für Neukunden zu schaffen. * **Vogelsberg-Box:** B",
+      "ts": "2026-10-26 00:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "biz-terminki",
+      "via": "gemini",
+      "text": "Hier ist der konkrete Demo-Schritt, den wir dem Inhaber (z. B. Handwerksbetrieb oder Praxis) direkt auf seinem Smartphone oder über Lautsprecher vorspielen, **bevor** wir überhaupt über ein Angebot sprechen: --- ### 1. SZENARIO: Der „Montagmorgen-Stress-Call“ (Beispiel Handwerk / Heizung-Sanitär) **Ausgangslage:** Der Betrieb ist im Kundeneinsatz oder das Bü",
+      "ts": "2026-10-26 00:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "biz-vogelsbergbox",
+      "via": "gemini",
+      "text": "**SCHRITT:** Launch einer kostenlosen „Fake Door“-Landingpage mit einer konkreten fiktiven „Vogelsberg-Kennenlern-Box“ und einem Button „Jetzt vorbestellen (Zahlung erst bei Lieferung)“ / E-Mail-Warteliste. **WARUM:** Das testet direkt das echte Kaufinteresse der Endkunden im Vogelsberg und der Region, bevor ich auch nur einen Euro für Wareneinkauf, Logistik",
+      "ts": "2026-10-26 00:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "biz-handwerk",
+      "via": "gemini",
+      "text": "Hallo Herr [Nachname], ich bin [Mein Name] von *Handwerk-Sichtbar* hier aus dem Vogelsberg. Was mir bei Ihrer Dachdeckerei in Lauterbach aufgefallen ist: Wer hier in der Region nach einem Dachdecker sucht, findet online schnell die Konkurrenz aus Fulda oder Gießen – aber kaum Ihren Betrieb. Das ändere ich für Sie: Ich bringe Sie bei Google ganz nach vorne, b",
+      "ts": "2026-10-26 00:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "biz-offerta",
+      "via": "gemini",
+      "text": "**SCHRITT** Aktivierung eines dezenten „Erstellt mit Offerta (kostenlos)“-Footers inkl. QR-Code auf allen generierten PDFs der Free-Version. **WARUM JETZT** Angebote werden im B2B-Bereich verschickt – oft an Subunternehmer, Partner oder Kunden, die selbst Selbstständige/Handwerker sind. Wir lassen aktuell jeden Tag kostenlose, hochrelevante B2B-Reichweite li",
+      "ts": "2026-10-26 00:21",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-herbstein",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Damit Hausbesitzer aus Herbstein und dem Vogelsberg beim anstehenden Heizungstausch oder im Notfall direkt Ihre Telefonnummer ganz oben auf dem Smartphone haben – und nicht die der Konkurrenz aus Lauterbach.“",
+      "ts": "2026-10-26 00:20",
+      "age_min": 0
+    }
+  ]
 }
