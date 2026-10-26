@@ -1,23 +1,19 @@
 {
-  "updated": "2026-10-26T00:21Z",
+  "updated": "2026-10-26T05:06Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier ist der Lagebericht, Commander: * **Offerta:** Stabil im Grundgeschäft – *Nächster Hebel:* Partnergewinnung automatisieren, um die Lead-Marge ohne Mehraufwand zu steigern. * **Handwerk-Sichtbar:** Pipeline voll, aber operativer Engpass – *Nächster Hebel:* Onboarding-Prozess standardisieren, um Kapazität für Neukunden zu schaffen. * **Vogelsberg-Box:** B",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**SCHRITT:** Launch einer kostenlosen „Fake Door“-Landingpage mit einer konkreten fiktiven „Vogelsberg-Kennenlern-Box“ und einem Button „Jetzt vorbestellen (Zahlung erst bei Lieferung)“ / E-Mail-Warteliste. **WARUM:** Das testet direkt das echte Kaufinteresse der Endkunden im Vogelsberg und der Region, bevor ich auch nur einen Euro für Wareneinkauf, Logistik",
+        "text": "**WAS:** Das Erlebnis-Paket „Herbsteiner Vulkan-Auszeit“ vereint ein Tages-Entspannungsticket für die VulkanTherme mit einer abendlichen Fackelwanderung entlang des historischen Stadtwalls inklusive einem gefüllten regionalen Picknick-Rucksack. **fuer WEN:** Es richtet sich an Paare und erholungssuchende Naturgenießer, die eine entschleunigende Kombination a",
         "age_min": 0
       }
     },
@@ -36,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "Hier ist der konkrete Demo-Schritt, den wir dem Inhaber (z. B. Handwerksbetrieb oder Praxis) direkt auf seinem Smartphone oder über Lautsprecher vorspielen, **bevor** wir überhaupt über ein Angebot sprechen: --- ### 1. SZENARIO: Der „Montagmorgen-Stress-Call“ (Beispiel Handwerk / Heizung-Sanitär) **Ausgangslage:** Der Betrieb ist im Kundeneinsatz oder das Bü",
+        "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Arztterminen oder Besorgungen bringt und ihnen vor Ort geduldig zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Herbstein ist der öffentliche Nahverkehr spärlich, weshalb ältere Menschen ohne eigenes Auto eine würdevolle M",
         "age_min": 0
       }
     },
@@ -124,45 +120,45 @@
       "name": "Business — Offerta",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**SCHRITT** Aktivierung eines dezenten „Erstellt mit Offerta (kostenlos)“-Footers inkl. QR-Code auf allen generierten PDFs der Free-Version. **WARUM JETZT** Angebote werden im B2B-Bereich verschickt – oft an Subunternehm",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-handwerk",
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": "Hallo Herr [Nachname], ich bin [Mein Name] von *Handwerk-Sichtbar* hier aus dem Vogelsberg. Was mir bei Ihrer Dachdeckerei in Lauterbach aufgefallen ist: Wer hier in der Region nach einem Dachdecker sucht, findet online ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-vogelsbergbox",
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": "**SCHRITT:** Launch einer kostenlosen „Fake Door“-Landingpage mit einer konkreten fiktiven „Vogelsberg-Kennenlern-Box“ und einem Button „Jetzt vorbestellen (Zahlung erst bei Lieferung)“ / E-Mail-Warteliste. **WARUM:** Da",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-terminki",
       "name": "Business — Termin-/Anruf-KI",
       "dept": "Kunden",
       "iv": 720,
-      "out": "Hier ist der konkrete Demo-Schritt, den wir dem Inhaber (z. B. Handwerksbetrieb oder Praxis) direkt auf seinem Smartphone oder über Lautsprecher vorspielen, **bevor** wir überhaupt über ein Angebot sprechen: --- ### 1. S",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-board",
       "name": "Business — Lagebericht",
       "dept": "Kommando",
       "iv": 480,
-      "out": "Hier ist der Lagebericht, Commander: * **Offerta:** Stabil im Grundgeschäft – *Nächster Hebel:* Partnergewinnung automatisieren, um die Lead-Marge ohne Mehraufwand zu steigern. * **Handwerk-Sichtbar:** Pipeline voll, abe",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-lauterbach",
@@ -313,36 +309,36 @@
       "name": "Handwerk-Sichtbarkeit — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Damit Hausbesitzer aus Herbstein und dem Vogelsberg beim anstehenden Heizungstausch oder im Notfall direkt Ihre Telefonnummer ganz oben auf dem Smartphone ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-herbstein",
       "name": "Direktvermarktung — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Herbsteiner Vulkan-Vesperkiste“ – ein wöchentliches Abo mit frischem Bauernbrot, Vogelsberger Hausmacher-Wurst, Hofkäse und saisonalem Einmach-Gemüse aus der direkten Nachbarschaft. **für WEN:** Für beschäf",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-herbstein",
       "name": "Vulkanregion-Tourismus — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Herbsteiner Vulkan-Auszeit“ vereint ein Tages-Entspannungsticket für die VulkanTherme mit einer abendlichen Fackelwanderung entlang des historischen Stadtwalls inklusive einem gefüllten regio",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-herbstein",
       "name": "Senioren-Alltagsdienste — Herbstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Arztterminen oder Besorgungen bringt und ihnen vor Ort geduldig zur Seite steht. **WARUM HIER:** In den we",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grebenhain",
@@ -1507,56 +1503,32 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 9,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kommando",
-      "agent": "biz-board",
-      "via": "gemini",
-      "text": "Hier ist der Lagebericht, Commander: * **Offerta:** Stabil im Grundgeschäft – *Nächster Hebel:* Partnergewinnung automatisieren, um die Lead-Marge ohne Mehraufwand zu steigern. * **Handwerk-Sichtbar:** Pipeline voll, aber operativer Engpass – *Nächster Hebel:* Onboarding-Prozess standardisieren, um Kapazität für Neukunden zu schaffen. * **Vogelsberg-Box:** B",
-      "ts": "2026-10-26 00:21",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "biz-terminki",
+      "agent": "senioren-herbstein",
       "via": "gemini",
-      "text": "Hier ist der konkrete Demo-Schritt, den wir dem Inhaber (z. B. Handwerksbetrieb oder Praxis) direkt auf seinem Smartphone oder über Lautsprecher vorspielen, **bevor** wir überhaupt über ein Angebot sprechen: --- ### 1. SZENARIO: Der „Montagmorgen-Stress-Call“ (Beispiel Handwerk / Heizung-Sanitär) **Ausgangslage:** Der Betrieb ist im Kundeneinsatz oder das Bü",
-      "ts": "2026-10-26 00:21",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Arztterminen oder Besorgungen bringt und ihnen vor Ort geduldig zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Herbstein ist der öffentliche Nahverkehr spärlich, weshalb ältere Menschen ohne eigenes Auto eine würdevolle M",
+      "ts": "2026-10-26 05:06",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "biz-vogelsbergbox",
+      "agent": "tourismus-herbstein",
       "via": "gemini",
-      "text": "**SCHRITT:** Launch einer kostenlosen „Fake Door“-Landingpage mit einer konkreten fiktiven „Vogelsberg-Kennenlern-Box“ und einem Button „Jetzt vorbestellen (Zahlung erst bei Lieferung)“ / E-Mail-Warteliste. **WARUM:** Das testet direkt das echte Kaufinteresse der Endkunden im Vogelsberg und der Region, bevor ich auch nur einen Euro für Wareneinkauf, Logistik",
-      "ts": "2026-10-26 00:21",
+      "text": "**WAS:** Das Erlebnis-Paket „Herbsteiner Vulkan-Auszeit“ vereint ein Tages-Entspannungsticket für die VulkanTherme mit einer abendlichen Fackelwanderung entlang des historischen Stadtwalls inklusive einem gefüllten regionalen Picknick-Rucksack. **fuer WEN:** Es richtet sich an Paare und erholungssuchende Naturgenießer, die eine entschleunigende Kombination a",
+      "ts": "2026-10-26 05:06",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "biz-handwerk",
+      "agent": "direkt-herbstein",
       "via": "gemini",
-      "text": "Hallo Herr [Nachname], ich bin [Mein Name] von *Handwerk-Sichtbar* hier aus dem Vogelsberg. Was mir bei Ihrer Dachdeckerei in Lauterbach aufgefallen ist: Wer hier in der Region nach einem Dachdecker sucht, findet online schnell die Konkurrenz aus Fulda oder Gießen – aber kaum Ihren Betrieb. Das ändere ich für Sie: Ich bringe Sie bei Google ganz nach vorne, b",
-      "ts": "2026-10-26 00:21",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "biz-offerta",
-      "via": "gemini",
-      "text": "**SCHRITT** Aktivierung eines dezenten „Erstellt mit Offerta (kostenlos)“-Footers inkl. QR-Code auf allen generierten PDFs der Free-Version. **WARUM JETZT** Angebote werden im B2B-Bereich verschickt – oft an Subunternehmer, Partner oder Kunden, die selbst Selbstständige/Handwerker sind. Wir lassen aktuell jeden Tag kostenlose, hochrelevante B2B-Reichweite li",
-      "ts": "2026-10-26 00:21",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-herbstein",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Damit Hausbesitzer aus Herbstein und dem Vogelsberg beim anstehenden Heizungstausch oder im Notfall direkt Ihre Telefonnummer ganz oben auf dem Smartphone haben – und nicht die der Konkurrenz aus Lauterbach.“",
-      "ts": "2026-10-26 00:20",
+      "text": "**WAS:** Die „Herbsteiner Vulkan-Vesperkiste“ – ein wöchentliches Abo mit frischem Bauernbrot, Vogelsberger Hausmacher-Wurst, Hofkäse und saisonalem Einmach-Gemüse aus der direkten Nachbarschaft. **für WEN:** Für beschäftigte Familien aus der Region sowie Urlaubsgäste in den Vogelsberger Ferienwohnungen, die echten, ehrlichen Landgeschmack ohne Einkaufsstres",
+      "ts": "2026-10-26 05:06",
       "age_min": 0
     }
   ]
