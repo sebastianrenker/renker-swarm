@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-26T05:06Z",
+  "updated": "2026-10-26T11:04Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Das Erlebnis-Paket „Herbsteiner Vulkan-Auszeit“ vereint ein Tages-Entspannungsticket für die VulkanTherme mit einer abendlichen Fackelwanderung entlang des historischen Stadtwalls inklusive einem gefüllten regionalen Picknick-Rucksack. **fuer WEN:** Es richtet sich an Paare und erholungssuchende Naturgenießer, die eine entschleunigende Kombination a",
+        "text": "**WAS:** Ein mobiler Express-Reparatur- und Hol-/Bringservice speziell für E-Bikes und Fahrräder. **WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg und vereint 15 weit verstreute Ortsteile mit hoher E-Bike-Dichte, besitzt aber keine eigene stationäre Fahrradwerkstatt mehr vor Ort. **ERSTER SCHRITT:** Einen vorhandenen Transporter o",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Arztterminen oder Besorgungen bringt und ihnen vor Ort geduldig zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Herbstein ist der öffentliche Nahverkehr spärlich, weshalb ältere Menschen ohne eigenes Auto eine würdevolle M",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -318,36 +314,36 @@
       "name": "Direktvermarktung — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Herbsteiner Vulkan-Vesperkiste“ – ein wöchentliches Abo mit frischem Bauernbrot, Vogelsberger Hausmacher-Wurst, Hofkäse und saisonalem Einmach-Gemüse aus der direkten Nachbarschaft. **für WEN:** Für beschäf",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-herbstein",
       "name": "Vulkanregion-Tourismus — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Herbsteiner Vulkan-Auszeit“ vereint ein Tages-Entspannungsticket für die VulkanTherme mit einer abendlichen Fackelwanderung entlang des historischen Stadtwalls inklusive einem gefüllten regio",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-herbstein",
       "name": "Senioren-Alltagsdienste — Herbstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Arztterminen oder Besorgungen bringt und ihnen vor Ort geduldig zur Seite steht. **WARUM HIER:** In den we",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-grebenhain",
       "name": "Chancen-Scout — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Express-Reparatur- und Hol-/Bringservice speziell für E-Bikes und Fahrräder. **WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg und vereint 15 weit verstreute Ortsteile mit ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grebenhain",
@@ -1503,32 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 9,
+    "used": 10,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-herbstein",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Arztterminen oder Besorgungen bringt und ihnen vor Ort geduldig zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Herbstein ist der öffentliche Nahverkehr spärlich, weshalb ältere Menschen ohne eigenes Auto eine würdevolle M",
-      "ts": "2026-10-26 05:06",
-      "age_min": 0
-    },
-    {
       "dept": "Chancen",
-      "agent": "tourismus-herbstein",
+      "agent": "chancen-grebenhain",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Herbsteiner Vulkan-Auszeit“ vereint ein Tages-Entspannungsticket für die VulkanTherme mit einer abendlichen Fackelwanderung entlang des historischen Stadtwalls inklusive einem gefüllten regionalen Picknick-Rucksack. **fuer WEN:** Es richtet sich an Paare und erholungssuchende Naturgenießer, die eine entschleunigende Kombination a",
-      "ts": "2026-10-26 05:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-herbstein",
-      "via": "gemini",
-      "text": "**WAS:** Die „Herbsteiner Vulkan-Vesperkiste“ – ein wöchentliches Abo mit frischem Bauernbrot, Vogelsberger Hausmacher-Wurst, Hofkäse und saisonalem Einmach-Gemüse aus der direkten Nachbarschaft. **für WEN:** Für beschäftigte Familien aus der Region sowie Urlaubsgäste in den Vogelsberger Ferienwohnungen, die echten, ehrlichen Landgeschmack ohne Einkaufsstres",
-      "ts": "2026-10-26 05:06",
+      "text": "**WAS:** Ein mobiler Express-Reparatur- und Hol-/Bringservice speziell für E-Bikes und Fahrräder. **WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg und vereint 15 weit verstreute Ortsteile mit hoher E-Bike-Dichte, besitzt aber keine eigene stationäre Fahrradwerkstatt mehr vor Ort. **ERSTER SCHRITT:** Einen vorhandenen Transporter o",
+      "ts": "2026-10-26 11:04",
       "age_min": 0
     }
   ]
