@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T00:53Z",
+  "updated": "2026-10-27T05:55Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Eine wöchentliche „Homberger Feierabend-Box“ mit frischem Saison-Gemüse, Eiern, Käse und Ahler Wurscht von Höfen aus dem Ohm-Tal, die fertig gepackt an einer zentralen SB-Abholstation bereitsteht. **für WEN:** Für berufstätige Familien und Pendler aus Homberg und den Ortsteilen, die unter der Woche wenig Zeit haben, aber Wert auf ehrliche Lebensmitt",
+        "text": "**WAS:** Das Paket „Vulkan-Picknick & Kräuter-Walk“ kombiniert eine geführte Wildkräuter-Wanderung durch die Kirtorfer Natur mit einer im Voraus gepackten Picknickkiste voller regionaler Spezialitäten am historischen Basalt-Rastplatz. **fuer WEN:** Das Angebot richtet sich an genussorientierte Paare, Familien und kleine Gruppen, die Naturerlebnis und kulinar",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Der „Dorf-Begleitdienst Grebenhain“ bietet älteren Menschen eine verlässliche Abholung an der eigenen Haustür für Einkäufe, Arztbesuche und Botengänge inklusive geschulter Unterstützung beim Tragen. **WARUM HIER:** In den 15 weit verstreuten Ortsteilen im rauen Vogelsberg schränken lange Wege, eine schwindende Nahversorgung und winterliche Witterung",
+        "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den verstreuten Ortsteilen für Besorgungen, Arztbesuche oder den Wochenmarkt direkt an der Haustür abholt und vor Ort persönlich unterstützt. **WARUM HIER:** Durch die hügelige Lage im Vogelsberg und die Verteilung auf 14 Ortsteile fehlen in den kleineren Dörfern",
         "age_min": 0
       }
     },
@@ -363,108 +363,108 @@
       "name": "Direktvermarktung — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Idee: Die Vogelsberger „Feierabend-Vesper-Kiste“** **WAS:** Eine 14-tägige Abo-Box vollgepackt mit frischem Steinofenbrot, Hausmacher Wurst, regionalem Käse und deftigen Einkoch-Gerichten direkt von Höfen aus dem Grebe",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-grebenhain",
       "name": "Vulkanregion-Tourismus — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & E-Bike-Genuss“ umfasst die Tagesmiete eines modernen E-Bikes ab Grebenhain inklusive ausgearbeiteter Routenkarte und einem prall gefüllten Picknickkorb mit regionalen Vogels",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-grebenhain",
       "name": "Senioren-Alltagsdienste — Grebenhain",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Dorf-Begleitdienst Grebenhain“ bietet älteren Menschen eine verlässliche Abholung an der eigenen Haustür für Einkäufe, Arztbesuche und Botengänge inklusive geschulter Unterstützung beim Tragen. **WARUM HIER",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-homberg-ohm",
       "name": "Chancen-Scout — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Reparatur- und Verleihservice mit Hol- und Bringdienst für Ausflügler sowie Einheimische. **WARUM HIER:** Homberg (Ohm) zieht durch das Schloss und den Premiumwanderweg „Sagenhaftes Ohmtal“ vi",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-homberg-ohm",
       "name": "Handwerk-Sichtbarkeit — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Dachdeckerfachbetrieb** in Homberg (Ohm) (besonders mit Fokus auf Altbausanierung und Sturmschadenservice). **Ansprache-Idee (1 Satz):** „Wenn in Homberg oder den Ortsteilen nach einem Sturmschaden",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-homberg-ohm",
       "name": "Direktvermarktung — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Homberger Feierabend-Box“ mit frischem Saison-Gemüse, Eiern, Käse und Ahler Wurscht von Höfen aus dem Ohm-Tal, die fertig gepackt an einer zentralen SB-Abholstation bereitsteht. **für WEN:** F",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-homberg-ohm",
       "name": "Vulkanregion-Tourismus — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Sagenhaftes Schloss-Picknick & E-Bike-Schatztour“ kombiniert eine GPS-geführte E-Bike-Runde durch das idyllische Ohmtal mit einer interaktiven Rätsel-Schatzsuche und einem regional gefüllten Picknickkorb im his",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-homberg-ohm",
       "name": "Senioren-Alltagsdienste — Homberg (Ohm)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den verstreuten Ortsteilen für Besorgungen, Arztbesuche oder den Wochenmarkt direkt an der Haustür abholt und vor Ort persö",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-kirtorf",
       "name": "Chancen-Scout — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Allround-Service für Handwerks-Kleinstreparaturen, Gartenpflege und Seniorenhilfe, der direkt auf Abruf ohne teures Werkstattlokal betrieben wird. **WARUM HIER:** In Kirtorf und seinen sieben verstre",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-kirtorf",
       "name": "Handwerk-Sichtbarkeit — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbaubetrieb** in Kirtorf. **Ansprache-Idee:** „Hallo [Name], wenn in Kirtorf die Heizung ausfällt oder jemand ein neues Bad plant, sucht heute jeder zuerst auf dem Sma",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-kirtorf",
       "name": "Direktvermarktung — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Feierabend-Box“ ist ein wöchentliches Kisten-Abo mit frischem Brot, Käse, Hausmacher Wurst und Saison-Gemüse von Kirtorfer Landwirten, das kontaktlos an einer gekühlten 24/7-Abholstation im Ort",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-kirtorf",
       "name": "Vulkanregion-Tourismus — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Paket „Vulkan-Picknick & Kräuter-Walk“ kombiniert eine geführte Wildkräuter-Wanderung durch die Kirtorfer Natur mit einer im Voraus gepackten Picknickkiste voller regionaler Spezialitäten am historischen Bas",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-kirtorf",
@@ -1503,56 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 12,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "direkt-homberg-ohm",
+      "agent": "tourismus-kirtorf",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Homberger Feierabend-Box“ mit frischem Saison-Gemüse, Eiern, Käse und Ahler Wurscht von Höfen aus dem Ohm-Tal, die fertig gepackt an einer zentralen SB-Abholstation bereitsteht. **für WEN:** Für berufstätige Familien und Pendler aus Homberg und den Ortsteilen, die unter der Woche wenig Zeit haben, aber Wert auf ehrliche Lebensmitt",
-      "ts": "2026-10-27 00:53",
+      "text": "**WAS:** Das Paket „Vulkan-Picknick & Kräuter-Walk“ kombiniert eine geführte Wildkräuter-Wanderung durch die Kirtorfer Natur mit einer im Voraus gepackten Picknickkiste voller regionaler Spezialitäten am historischen Basalt-Rastplatz. **fuer WEN:** Das Angebot richtet sich an genussorientierte Paare, Familien und kleine Gruppen, die Naturerlebnis und kulinar",
+      "ts": "2026-10-27 05:55",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-homberg-ohm",
+      "agent": "direkt-kirtorf",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Dachdeckerfachbetrieb** in Homberg (Ohm) (besonders mit Fokus auf Altbausanierung und Sturmschadenservice). **Ansprache-Idee (1 Satz):** „Wenn in Homberg oder den Ortsteilen nach einem Sturmschaden oder einer Dachsanierung gegoogelt wird, sichern wir Ihnen die obersten Plätze bei Google, bevor die lukrativen Aufträge an die Konkurrenz ",
-      "ts": "2026-10-27 00:53",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Box“ ist ein wöchentliches Kisten-Abo mit frischem Brot, Käse, Hausmacher Wurst und Saison-Gemüse von Kirtorfer Landwirten, das kontaktlos an einer gekühlten 24/7-Abholstation im Ort bereitsteht. **für WEN:** Für beschäftigte Familien und Pendler aus Kirtorf und den Ortsteilen, die ehrlich erzeugte Lebensmittel aus der H",
+      "ts": "2026-10-27 05:54",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-homberg-ohm",
+      "agent": "handwerk-kirtorf",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Reparatur- und Verleihservice mit Hol- und Bringdienst für Ausflügler sowie Einheimische. **WARUM HIER:** Homberg (Ohm) zieht durch das Schloss und den Premiumwanderweg „Sagenhaftes Ohmtal“ viele Radtouristen an, besitzt derzeit aber kein eigenes Fahrradfachgeschäft vor Ort. **ERSTER SCHRITT:** Eine einfache Buchungs-Website aufse",
-      "ts": "2026-10-27 00:53",
+      "text": "**Betriebstyp:** Ein örtlicher **Sanitär- und Heizungsbaubetrieb** in Kirtorf. **Ansprache-Idee:** „Hallo [Name], wenn in Kirtorf die Heizung ausfällt oder jemand ein neues Bad plant, sucht heute jeder zuerst auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer direkt ganz oben steht und die Aufträge bei Ihnen landen statt beim Betrieb a",
+      "ts": "2026-10-27 05:54",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-kirtorf",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Allround-Service für Handwerks-Kleinstreparaturen, Gartenpflege und Seniorenhilfe, der direkt auf Abruf ohne teures Werkstattlokal betrieben wird. **WARUM HIER:** In Kirtorf und seinen sieben verstreuten Ortsteilen lebt eine alternde Bevölkerung, während etablierte Handwerksbetriebe der Region für Kleinstaufträge kaum noch Kapazitäten ha",
+      "ts": "2026-10-27 05:54",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-grebenhain",
+      "agent": "senioren-homberg-ohm",
       "via": "gemini",
-      "text": "**WAS:** Der „Dorf-Begleitdienst Grebenhain“ bietet älteren Menschen eine verlässliche Abholung an der eigenen Haustür für Einkäufe, Arztbesuche und Botengänge inklusive geschulter Unterstützung beim Tragen. **WARUM HIER:** In den 15 weit verstreuten Ortsteilen im rauen Vogelsberg schränken lange Wege, eine schwindende Nahversorgung und winterliche Witterung",
-      "ts": "2026-10-27 00:53",
+      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen aus den verstreuten Ortsteilen für Besorgungen, Arztbesuche oder den Wochenmarkt direkt an der Haustür abholt und vor Ort persönlich unterstützt. **WARUM HIER:** Durch die hügelige Lage im Vogelsberg und die Verteilung auf 14 Ortsteile fehlen in den kleineren Dörfern",
+      "ts": "2026-10-27 05:54",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-grebenhain",
+      "agent": "tourismus-homberg-ohm",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & E-Bike-Genuss“ umfasst die Tagesmiete eines modernen E-Bikes ab Grebenhain inklusive ausgearbeiteter Routenkarte und einem prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten. **fuer WEN:** Dieses Angebot richtet sich an Paare, Genussradler und Naturliebhaber, die die sanfte Vulkanlandschaft e",
-      "ts": "2026-10-27 00:52",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-grebenhain",
-      "via": "gemini",
-      "text": "**Idee: Die Vogelsberger „Feierabend-Vesper-Kiste“** **WAS:** Eine 14-tägige Abo-Box vollgepackt mit frischem Steinofenbrot, Hausmacher Wurst, regionalem Käse und deftigen Einkoch-Gerichten direkt von Höfen aus dem Grebenhainer Umland. **FUER WEN:** Für berufstätige Familien und Pendler aus der Region, die unter der Woche ehrliches, heimisches Essen ohne gro",
-      "ts": "2026-10-27 00:52",
+      "text": "**WAS:** „Sagenhaftes Schloss-Picknick & E-Bike-Schatztour“ kombiniert eine GPS-geführte E-Bike-Runde durch das idyllische Ohmtal mit einer interaktiven Rätsel-Schatzsuche und einem regional gefüllten Picknickkorb im historischen Schlossgarten von Homberg (Ohm). **FÜR WEN:** Dieses Erlebnis ist ideal für genussorientierte Paare, Aktiv-Urlauber und kleine Fre",
+      "ts": "2026-10-27 05:54",
       "age_min": 0
     }
   ]
