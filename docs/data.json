@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-27T16:48Z",
+  "updated": "2026-10-27T21:06Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein abendliches „Basalt-Romantik & Picknick“-Erlebnis an den beeindruckenden Uhuklippen in Mücke inklusive gefülltem Korb voller regionaler Vogelsberger Spezialitäten und einer Laternen-Kurzwanderung. **fuer WEN:** Perfekt für Paare und kleine Freundesgruppen, die eine naturnahe Auszeit suchen und den Vulkanberg abseits der bekannten Pfade genießen ",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein verlässlicher, mobiler Begleit- und Fahrdienst („Mücker Dorf-Tandem“), der ältere Menschen aus den abgelegenen Ortsteilen zu Ärztinnen, Einkäufen sowie nachbarschaftlichen Treffpunkten bringt und sie vor Ort persönlich unterstützt. **WARUM HIER:** Weil die Großgemeinde Mücke aus zwölf weit verstreuten Dörfern besteht und der öffentliche Nahverke",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -463,54 +471,54 @@
       "name": "Senioren-Alltagsdienste — Kirtorf",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das „Kirtorfer Dorf-Mobil“ bietet eine Begleitung auf Augenhöhe, die Seniorinnen und Senioren sicher aus den Ortsteilen zu Einkäufen, Arztterminen oder Dorffesten bringt und auf Wunsch vor Ort unterstützt. **WAR",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-muecke",
       "name": "Chancen-Scout — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein kontaktloser 24/7-Vermiet-Service für Bauanhänger, Gartenhäcksler und Bautrockner mit digitaler Code-Schlüsselübergabe. **WARUM HIER:** Mücke hat über seine 12 Ortsteile hinweg eine sehr hohe Eigenheim-Quote",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-muecke",
       "name": "Handwerk-Sichtbarkeit — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb **Ansprache-Idee:** „Damit Hausbesitzer aus Mücke und Umgebung bei einem Heizungsausfall oder der geplanten Badrenovierung sofort Ihre Telefonnummer auf dem Smartphone haben ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-muecke",
       "name": "Direktvermarktung — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Mücker Feierabend-Box“ – ein wöchentliches Abo-Kistchen mit frischem Frischegemüse, Hof-Eiern und bodenständigen Vogelsberger Spezialitäten wie Hausmacher Wurst oder Landkäse für ein einfaches, ehrliches Ab",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-muecke",
       "name": "Vulkanregion-Tourismus — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein abendliches „Basalt-Romantik & Picknick“-Erlebnis an den beeindruckenden Uhuklippen in Mücke inklusive gefülltem Korb voller regionaler Vogelsberger Spezialitäten und einer Laternen-Kurzwanderung. **fuer WEN",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-muecke",
       "name": "Senioren-Alltagsdienste — Muecke",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, mobiler Begleit- und Fahrdienst („Mücker Dorf-Tandem“), der ältere Menschen aus den abgelegenen Ortsteilen zu Ärztinnen, Einkäufen sowie nachbarschaftlichen Treffpunkten bringt und sie vor Ort",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-romrod",
@@ -1495,8 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 18,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-muecke",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, mobiler Begleit- und Fahrdienst („Mücker Dorf-Tandem“), der ältere Menschen aus den abgelegenen Ortsteilen zu Ärztinnen, Einkäufen sowie nachbarschaftlichen Treffpunkten bringt und sie vor Ort persönlich unterstützt. **WARUM HIER:** Weil die Großgemeinde Mücke aus zwölf weit verstreuten Dörfern besteht und der öffentliche Nahverke",
+      "ts": "2026-10-27 21:06",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-muecke",
+      "via": "gemini",
+      "text": "**WAS:** Ein abendliches „Basalt-Romantik & Picknick“-Erlebnis an den beeindruckenden Uhuklippen in Mücke inklusive gefülltem Korb voller regionaler Vogelsberger Spezialitäten und einer Laternen-Kurzwanderung. **fuer WEN:** Perfekt für Paare und kleine Freundesgruppen, die eine naturnahe Auszeit suchen und den Vulkanberg abseits der bekannten Pfade genießen ",
+      "ts": "2026-10-27 21:05",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-muecke",
+      "via": "gemini",
+      "text": "**WAS:** Die „Mücker Feierabend-Box“ – ein wöchentliches Abo-Kistchen mit frischem Frischegemüse, Hof-Eiern und bodenständigen Vogelsberger Spezialitäten wie Hausmacher Wurst oder Landkäse für ein einfaches, ehrliches Abendessen. **fuer WEN:** Für berufstätige Pendler und Familien aus Mücke und Umgebung, die regional essen wollen, aber unter der Woche keine ",
+      "ts": "2026-10-27 21:05",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-muecke",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb **Ansprache-Idee:** „Damit Hausbesitzer aus Mücke und Umgebung bei einem Heizungsausfall oder der geplanten Badrenovierung sofort Ihre Telefonnummer auf dem Smartphone haben – und nicht die Konkurrenz aus Gießen rufen.“",
+      "ts": "2026-10-27 21:05",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-muecke",
+      "via": "gemini",
+      "text": "**WAS:** Ein kontaktloser 24/7-Vermiet-Service für Bauanhänger, Gartenhäcksler und Bautrockner mit digitaler Code-Schlüsselübergabe. **WARUM HIER:** Mücke hat über seine 12 Ortsteile hinweg eine sehr hohe Eigenheim-Quote mit dauerhaftem Sanierungs- und Pflegebedarf, aber keinen unkomplizierten Mietpark direkt an der verkehrsgünstigen A5/B49-Kreuzung. **ERSTE",
+      "ts": "2026-10-27 21:05",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-kirtorf",
+      "via": "gemini",
+      "text": "**WAS:** Das „Kirtorfer Dorf-Mobil“ bietet eine Begleitung auf Augenhöhe, die Seniorinnen und Senioren sicher aus den Ortsteilen zu Einkäufen, Arztterminen oder Dorffesten bringt und auf Wunsch vor Ort unterstützt. **WARUM HIER:** Da die Wege zwischen den sieben weit verstreuten Ortsteilen Kirtorfs lang sind und der öffentliche Nahverkehr spärlich ist, bewah",
+      "ts": "2026-10-27 21:05",
+      "age_min": 0
+    }
+  ]
 }
