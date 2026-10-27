@@ -1,30 +1,126 @@
 {
-  "updated": "2026-10-26 21:44 UTC",
-  "total_results": 1,
-  "total_depts": 1,
+  "updated": "2026-10-27 00:53 UTC",
+  "total_results": 6,
+  "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-grebenhain",
-      "title": "Handwerk-Sichtbarkeit — Grebenhain  ·  Chancen",
+      "agent": "direkt-homberg-ohm",
+      "title": "Direktvermarktung — Homberg (Ohm)  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbaubetrieb** in Grebenhain (mit Fokus auf Wärmepumpen, modernen Heizungsbau und Badsanierung).\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Hausbesitzer im Vogelsberg online nach einer neuen Heizung oder Badsanierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb in Grebenhain landen – und nicht bei der Konkurrenz aus Lauterbach oder Fulda.“",
-      "ts": "2026-10-26 21:44",
+      "text": "**WAS:** \nEine wöchentliche „Homberger Feierabend-Box“ mit frischem Saison-Gemüse, Eiern, Käse und Ahler Wurscht von Höfen aus dem Ohm-Tal, die fertig gepackt an einer zentralen SB-Abholstation bereitsteht.\n\n**für WEN:** \nFür berufstätige Familien und Pendler aus Homberg und den Ortsteilen, die unter der Woche wenig Zeit haben, aber Wert auf ehrliche Lebensmittel direkt vom Erzeuger legen.\n\n**ERSTER SCHRITT:** \nDrei lokale Höfe an einen Tisch holen, ein einfaches Start-Sortiment für 50 Test-Kisten abstimmen und den Aushang beim Bäcker sowie in den Dorf-WhatsApp-Gruppen starten.",
+      "ts": "2026-10-27 00:53",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-homberg-ohm",
+      "title": "Handwerk-Sichtbarkeit — Homberg (Ohm)  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin **Dachdeckerfachbetrieb** in Homberg (Ohm) (besonders mit Fokus auf Altbausanierung und Sturmschadenservice).\n\n**Ansprache-Idee (1 Satz):**\n„Wenn in Homberg oder den Ortsteilen nach einem Sturmschaden oder einer Dachsanierung gegoogelt wird, sichern wir Ihnen die obersten Plätze bei Google, bevor die lukrativen Aufträge an die Konkurrenz aus Marburg oder Alsfeld gehen.“",
+      "ts": "2026-10-27 00:53",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-homberg-ohm",
+      "title": "Chancen-Scout — Homberg (Ohm)  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Reparatur- und Verleihservice mit Hol- und Bringdienst für Ausflügler sowie Einheimische.\n\n**WARUM HIER:** Homberg (Ohm) zieht durch das Schloss und den Premiumwanderweg „Sagenhaftes Ohmtal“ viele Radtouristen an, besitzt derzeit aber kein eigenes Fahrradfachgeschäft vor Ort.\n\n**ERSTER SCHRITT:** Eine einfache Buchungs-Website aufsetzen und Flyer an den E-Bike-Ladestationen sowie bei den lokalen Gastronomen auslegen.",
+      "ts": "2026-10-27 00:53",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grebenhain",
+      "title": "Senioren-Alltagsdienste — Grebenhain  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Der „Dorf-Begleitdienst Grebenhain“ bietet älteren Menschen eine verlässliche Abholung an der eigenen Haustür für Einkäufe, Arztbesuche und Botengänge inklusive geschulter Unterstützung beim Tragen.\n\n**WARUM HIER:** In den 15 weit verstreuten Ortsteilen im rauen Vogelsberg schränken lange Wege, eine schwindende Nahversorgung und winterliche Witterung die Selbstständigkeit der Senioren besonders stark ein.\n\n**ERSTER SCHRITT:** In Kooperation mit der Gemeinde und lokalen Vereinen werden feste Fahrtage pro Ortsteil abgestimmt und erste Ehrenamtliche aus den Nachbarschaften gezielt geschult.",
+      "ts": "2026-10-27 00:53",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-grebenhain",
+      "title": "Vulkanregion-Tourismus — Grebenhain  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & E-Bike-Genuss“ umfasst die Tagesmiete eines modernen E-Bikes ab Grebenhain inklusive ausgearbeiteter Routenkarte und einem prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten.\n\n**fuer WEN:** Dieses Angebot richtet sich an Paare, Genussradler und Naturliebhaber, die die sanfte Vulkanlandschaft entlang des Vulkanradwegs entspannt und mit kulinarischen Pausen erkunden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin sowie Ihre bevorzugte Picknick-Variante (herzhaft oder vegetarisch) aus und sichern Sie sich Ihr E-Bike direkt online.",
+      "ts": "2026-10-27 00:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-grebenhain",
+      "title": "Direktvermarktung — Grebenhain  ·  Chancen",
+      "via": "gemini",
+      "text": "**Idee: Die Vogelsberger „Feierabend-Vesper-Kiste“**\n\n**WAS:** Eine 14-tägige Abo-Box vollgepackt mit frischem Steinofenbrot, Hausmacher Wurst, regionalem Käse und deftigen Einkoch-Gerichten direkt von Höfen aus dem Grebenhainer Umland.\n\n**FUER WEN:** Für berufstätige Familien und Pendler aus der Region, die unter der Woche ehrliches, heimisches Essen ohne großen Kochaufwand auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Zwei bis drei Nachbarhöfe im Oberwald für die Produkt-Kooperation anfragen und beim lokalen Wochenmarkt oder Dorffest erst einmal 20 Test-Kisten auf Vorbestellung anbieten.",
+      "ts": "2026-10-27 00:52",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-grebenhain",
-          "title": "Handwerk-Sichtbarkeit — Grebenhain  ·  Chancen",
+          "agent": "direkt-homberg-ohm",
+          "title": "Direktvermarktung — Homberg (Ohm)  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbaubetrieb** in Grebenhain (mit Fokus auf Wärmepumpen, modernen Heizungsbau und Badsanierung).\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Hausbesitzer im Vogelsberg online nach einer neuen Heizung oder Badsanierung suchen, sollten sie direkt bei Ihrem Meisterbetrieb in Grebenhain landen – und nicht bei der Konkurrenz aus Lauterbach oder Fulda.“",
-          "ts": "2026-10-26 21:44",
+          "text": "**WAS:** \nEine wöchentliche „Homberger Feierabend-Box“ mit frischem Saison-Gemüse, Eiern, Käse und Ahler Wurscht von Höfen aus dem Ohm-Tal, die fertig gepackt an einer zentralen SB-Abholstation bereitsteht.\n\n**für WEN:** \nFür berufstätige Familien und Pendler aus Homberg und den Ortsteilen, die unter der Woche wenig Zeit haben, aber Wert auf ehrliche Lebensmittel direkt vom Erzeuger legen.\n\n**ERSTER SCHRITT:** \nDrei lokale Höfe an einen Tisch holen, ein einfaches Start-Sortiment für 50 Test-Kisten abstimmen und den Aushang beim Bäcker sowie in den Dorf-WhatsApp-Gruppen starten.",
+          "ts": "2026-10-27 00:53",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-homberg-ohm",
+          "title": "Handwerk-Sichtbarkeit — Homberg (Ohm)  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin **Dachdeckerfachbetrieb** in Homberg (Ohm) (besonders mit Fokus auf Altbausanierung und Sturmschadenservice).\n\n**Ansprache-Idee (1 Satz):**\n„Wenn in Homberg oder den Ortsteilen nach einem Sturmschaden oder einer Dachsanierung gegoogelt wird, sichern wir Ihnen die obersten Plätze bei Google, bevor die lukrativen Aufträge an die Konkurrenz aus Marburg oder Alsfeld gehen.“",
+          "ts": "2026-10-27 00:53",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-homberg-ohm",
+          "title": "Chancen-Scout — Homberg (Ohm)  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler E-Bike-Reparatur- und Verleihservice mit Hol- und Bringdienst für Ausflügler sowie Einheimische.\n\n**WARUM HIER:** Homberg (Ohm) zieht durch das Schloss und den Premiumwanderweg „Sagenhaftes Ohmtal“ viele Radtouristen an, besitzt derzeit aber kein eigenes Fahrradfachgeschäft vor Ort.\n\n**ERSTER SCHRITT:** Eine einfache Buchungs-Website aufsetzen und Flyer an den E-Bike-Ladestationen sowie bei den lokalen Gastronomen auslegen.",
+          "ts": "2026-10-27 00:53",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-grebenhain",
+          "title": "Vulkanregion-Tourismus — Grebenhain  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & E-Bike-Genuss“ umfasst die Tagesmiete eines modernen E-Bikes ab Grebenhain inklusive ausgearbeiteter Routenkarte und einem prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten.\n\n**fuer WEN:** Dieses Angebot richtet sich an Paare, Genussradler und Naturliebhaber, die die sanfte Vulkanlandschaft entlang des Vulkanradwegs entspannt und mit kulinarischen Pausen erkunden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin sowie Ihre bevorzugte Picknick-Variante (herzhaft oder vegetarisch) aus und sichern Sie sich Ihr E-Bike direkt online.",
+          "ts": "2026-10-27 00:52",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-grebenhain",
+          "title": "Direktvermarktung — Grebenhain  ·  Chancen",
+          "via": "gemini",
+          "text": "**Idee: Die Vogelsberger „Feierabend-Vesper-Kiste“**\n\n**WAS:** Eine 14-tägige Abo-Box vollgepackt mit frischem Steinofenbrot, Hausmacher Wurst, regionalem Käse und deftigen Einkoch-Gerichten direkt von Höfen aus dem Grebenhainer Umland.\n\n**FUER WEN:** Für berufstätige Familien und Pendler aus der Region, die unter der Woche ehrliches, heimisches Essen ohne großen Kochaufwand auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Zwei bis drei Nachbarhöfe im Oberwald für die Produkt-Kooperation anfragen und beim lokalen Wochenmarkt oder Dorffest erst einmal 20 Test-Kisten auf Vorbestellung anbieten.",
+          "ts": "2026-10-27 00:52",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-grebenhain",
+          "title": "Senioren-Alltagsdienste — Grebenhain  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Der „Dorf-Begleitdienst Grebenhain“ bietet älteren Menschen eine verlässliche Abholung an der eigenen Haustür für Einkäufe, Arztbesuche und Botengänge inklusive geschulter Unterstützung beim Tragen.\n\n**WARUM HIER:** In den 15 weit verstreuten Ortsteilen im rauen Vogelsberg schränken lange Wege, eine schwindende Nahversorgung und winterliche Witterung die Selbstständigkeit der Senioren besonders stark ein.\n\n**ERSTER SCHRITT:** In Kooperation mit der Gemeinde und lokalen Vereinen werden feste Fahrtage pro Ortsteil abgestimmt und erste Ehrenamtliche aus den Nachbarschaften gezielt geschult.",
+          "ts": "2026-10-27 00:53",
           "age_min": 0
         }
       ]
