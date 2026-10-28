@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-28 00:31 UTC",
+  "updated": "2026-10-28 06:18 UTC",
   "total_results": 6,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-feldatal",
-      "title": "Handwerk-Sichtbarkeit — Feldatal  ·  Chancen",
+      "agent": "direkt-feldatal",
+      "title": "Direktvermarktung — Feldatal  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:**  \nEin regionaler **Heizungs- und Sanitärbetrieb** in Feldatal.\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo Herr/Frau [Name], wenn im Vogelsberg die Heizung ausfällt oder ein Bad saniert wird, suchen die Leute heute als Erstes auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihr Betrieb bei Google direkt oben steht, ohne dass Sie dafür Zeit für kompliziertes Marketing opfern müssen.“",
-      "ts": "2026-10-28 00:31",
+      "text": "**WAS:** \nDie „Feldataler Feierabend-Box“ ist ein wöchentliches Abo für ein ehrliches Vesper aus der Region, gepackt mit Vogelsberger Kartoffeln, Hausmacher Wurst, frischem Landbrot und saisonalem Gemüse.\n\n**fuer WEN:** \nFür Pendler und beschäftigte Familien aus dem Feldatal und Umgebung, die abends wenig Zeit zum Einkaufen haben, aber bodenständige Lebensmittel direkt vom Erzeuger schätzen.\n\n**ERSTER SCHRITT:** \nSetz dich mit einem lokalen Bäcker und Metzgermeister an einen Tisch, schnüre ein einfaches Test-Paket und gewinne über Mundpropaganda die ersten 20 Haushalte als Test-Abonnenten.",
+      "ts": "2026-10-28 06:18",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-feldatal",
-      "title": "Chancen-Scout — Feldatal  ·  Chancen",
+      "agent": "handwerk-gemuenden-felda",
+      "title": "Handwerk-Sichtbarkeit — Gemuenden (Felda)  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler E-Bike- und Fahrrad-Werkstattservice, der Wartungen, Kleinreparaturen und Hol-Bring-Dienste direkt bei den Bürgern zu Hause sowie entlang der regionalen Radwege anbietet.\n\n**WARUM HIER:** \nFeldatal liegt attraktiv an Vogelsberger Radrouten und hat eine steigende E-Bike-Nutzung bei älteren Anwohnern, verfügt aber über kein einziges eigenes Fahrradfachgeschäft im gesamten Gemeindegebiet.\n\n**ERSTER SCHRITT:** \nRüste einen vorhandenen Kombi oder Anhänger mit Basis-Werkzeug aus, verteile Flyer für einen \"Haustür-Inspektions-Check\" in allen Feldataler Ortsteilen und hinterlege deine Visitenkarten bei den örtlichen Landgasthöfen.",
-      "ts": "2026-10-28 00:31",
+      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb** (Notdienst & Modernisierung)\n\n**Ansprache-Idee:** \n„Wenn in Gemünden die Heizung ausfällt oder jemand sein Bad saniert, wird heute auf dem Handy gesucht – sorgen wir dafür, dass Ihre Nummer ganz oben steht und die Kunden aus der Region direkt bei Ihnen anrufen, statt beim Betrieb aus der nächsten Kreisstadt.“",
+      "ts": "2026-10-28 06:18",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-gemuenden-felda",
+      "title": "Chancen-Scout — Gemuenden (Felda)  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEin mobiler „Dorf-Kümmerer“-Dienst auf Selbstständigenbasis, der Senioren und beschäftigten Haushalten in den Ortsteilen kleine Handwerks-, Garten- und Besorgungsarbeiten abnimmt.\n\n**WARUM HIER:** \nIn den sieben verteilt liegenden Ortsteilen von Gemünden (Felda) altert die Bevölkerung zügig, während regionale Handwerksbetriebe Kleinstaufträge kaum noch annehmen und die Nahversorgung vor Ort lückenhaft ist.\n\n**ERSTER SCHRITT:** \nFlyer mit konkreten Leistungspaketen (z. B. „Rasen mähen & Lampe aufhängen“) in Nieder-Gemünden und Ehringshausen verteilen sowie beim Gemeindevorstand/Seniorenbeirat vorstellen.",
+      "ts": "2026-10-28 06:18",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-romrod",
-      "title": "Senioren-Alltagsdienste — Romrod  ·  Kunden",
+      "agent": "senioren-feldatal",
+      "title": "Senioren-Alltagsdienste — Feldatal  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst bringt frische Lebensmittel direkt nach Hause und fährt Senioren aus den Ortsteilen würdevoll und ohne Zeitdruck zu Arztterminen im nahen Alsfeld.\n\n**WARUM HIER:** In den weit auseinanderliegenden Ortsteilen von Romrod fehlen oft eigene Einkaufsmöglichkeiten und engmaschige Busverbindungen, wodurch die eigenständige Lebensführung im Alter ohne eigenes Auto gefährdet ist.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit der Stadt Romrod und den Ortsvorstehern wird eine Abfrage bei den Seniorinnen und Senioren gemacht, um den genauen Wochentagsbedarf für erste Fahr- und Besorgungspatenschaften zu ermitteln.",
-      "ts": "2026-10-28 00:30",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Dorf-Fahrdienst, der ältere Menschen direkt an der Haustür abholt und sie aufmerksam zu Arztterminen, Einkäufen oder Ortsveranstaltungen begleitet.\n\n**WARUM HIER:** Da Feldatal aus sieben weit verstreuten Ortsteilen ohne durchgehenden Nahverkehr besteht, sichert dieser persönliche Dienst die Bewegungsfreiheit und den Verbleib im liebgewonnenen Zuhause.\n\n**ERSTER SCHRITT:** Über das Gemeindeblatt wird ein kurzer Fragebogen verteilt, um hilfsbereite Fahrerinnen und Fahrer aus den Dörfern zu gewinnen und den konkreten Hilfebedarf vertraulich zu erfassen.",
+      "ts": "2026-10-28 06:17",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-romrod",
-      "title": "Direktvermarktung — Romrod  ·  Chancen",
+      "agent": "tourismus-feldatal",
+      "title": "Vulkanregion-Tourismus — Feldatal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Eine unkomplizierte „Vogelsberger Feierabend-Kiste“ zur Abholung an einem 24/7-Regiomaten, vollgepackt mit ehrlichen Zutaten für ein regionales Abendbrot wie frischem Landbrot, Hausmacher Wurst, Hofkäse und saisonalem Knackgemüse.\n\n**fuer WEN:** Für Pendler auf dem Heimweg über die B49, beschäftigte Familien aus Romrod und Schloss-Gäste, die ohne Supermarkt-Stress echte Qualität aus der Nachbarschaft suchen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger aus dem Umkreis und einen Dorfbäcker an einen Tisch holen, um eine kleine, feine Produktpalette abzusprechen und einen gut erreichbaren Stellplatz zu pachten.",
-      "ts": "2026-10-28 00:30",
+      "text": "**Erlebnis-Paket: „Feldataler Mühlen-Magie & Steinofen-Brot“**\n\n* **WAS:** Bei diesem dreistündigen Erlebnis erkundet ihr den malerischen Feldataler Mühlenweg und backt anschließend unter Anleitung euer eigenes, traditionelles Vogelsberger Steinofen-Brot in einer historischen Dorfmühle.\n* **fuer WEN:** Perfekt für Paare, kleine Familien und Naturgenießer, die eine entschleunigende Auszeit mit einer leichten Wanderung und echtem regionalem Handwerk verbinden möchten.\n* **ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunsch-Samstag aus und sichere dir dein Online-Ticket inklusive Backzutaten und Mühlen-Guide mit nur wenigen Klicks.",
+      "ts": "2026-10-28 06:17",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-romrod",
-      "title": "Handwerk-Sichtbarkeit — Romrod  ·  Chancen",
+      "agent": "tourismus-romrod",
+      "title": "Vulkanregion-Tourismus — Romrod  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärfachbetrieb (Sanitärinstallateur)\n\n**Ansprache-Idee:** \n„Wer hier im Vogelsbergkreis nach einer neuen Wärmepumpe, Badrenovierung oder einem Notdienst sucht, landet auf dem Smartphone aktuell bei Betrieben aus Alsfeld – lassen Sie uns dafür sorgen, dass Ihr Handwerksbetrieb in Romrod bei Google ganz oben steht.“",
-      "ts": "2026-10-28 00:30",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-romrod",
-      "title": "Chancen-Scout — Romrod  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Event-Abbau- und Geschenk-Bringdienst für die zahlreichen Hochzeits- und Tagungsgäste im Ort.\n\n**WARUM HIER:** Schloss Romrod zieht wöchentlich hunderte auswärtige Event-Gäste an, die am Abreisetag oft mit dem Rücktransport von Deko, Präsenten und Equipment überfordert sind.\n\n**ERSTER SCHRITT:** Das Gespräch mit der Eventleitung des Schlosses suchen, um den konkreten Bedarf der Paare abzufragen und eine Empfehlungs-Kooperation zu vereinbaren.",
-      "ts": "2026-10-28 00:30",
+      "text": "**WAS:** Erlebe ein exklusives „Märchen-Picknick“ im historischen Schlosspark Romrod inklusive prall gefülltem Korb voller Vogelsberger Spezialitäten und einer digitalen Rätsel-Tour auf den Spuren der Brüder Grimm.\n\n**fuer WEN:** Perfekt für Paare, Genussmenschen und kleine Ausflügler-Gruppen, die Geschichte, Natur und regionale Leckereien entspannt miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle online auf unserer Buchungsseite dein Wunschdatum sowie die Korb-Variante (klassisch oder vegetarisch) aus und schließe die Reservierung mit einem Klick ab.",
+      "ts": "2026-10-28 06:17",
       "age_min": 0
     }
   ],
@@ -65,47 +65,47 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-feldatal",
-          "title": "Handwerk-Sichtbarkeit — Feldatal  ·  Chancen",
+          "agent": "direkt-feldatal",
+          "title": "Direktvermarktung — Feldatal  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:**  \nEin regionaler **Heizungs- und Sanitärbetrieb** in Feldatal.\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo Herr/Frau [Name], wenn im Vogelsberg die Heizung ausfällt oder ein Bad saniert wird, suchen die Leute heute als Erstes auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihr Betrieb bei Google direkt oben steht, ohne dass Sie dafür Zeit für kompliziertes Marketing opfern müssen.“",
-          "ts": "2026-10-28 00:31",
+          "text": "**WAS:** \nDie „Feldataler Feierabend-Box“ ist ein wöchentliches Abo für ein ehrliches Vesper aus der Region, gepackt mit Vogelsberger Kartoffeln, Hausmacher Wurst, frischem Landbrot und saisonalem Gemüse.\n\n**fuer WEN:** \nFür Pendler und beschäftigte Familien aus dem Feldatal und Umgebung, die abends wenig Zeit zum Einkaufen haben, aber bodenständige Lebensmittel direkt vom Erzeuger schätzen.\n\n**ERSTER SCHRITT:** \nSetz dich mit einem lokalen Bäcker und Metzgermeister an einen Tisch, schnüre ein einfaches Test-Paket und gewinne über Mundpropaganda die ersten 20 Haushalte als Test-Abonnenten.",
+          "ts": "2026-10-28 06:18",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-feldatal",
-          "title": "Chancen-Scout — Feldatal  ·  Chancen",
+          "agent": "handwerk-gemuenden-felda",
+          "title": "Handwerk-Sichtbarkeit — Gemuenden (Felda)  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler E-Bike- und Fahrrad-Werkstattservice, der Wartungen, Kleinreparaturen und Hol-Bring-Dienste direkt bei den Bürgern zu Hause sowie entlang der regionalen Radwege anbietet.\n\n**WARUM HIER:** \nFeldatal liegt attraktiv an Vogelsberger Radrouten und hat eine steigende E-Bike-Nutzung bei älteren Anwohnern, verfügt aber über kein einziges eigenes Fahrradfachgeschäft im gesamten Gemeindegebiet.\n\n**ERSTER SCHRITT:** \nRüste einen vorhandenen Kombi oder Anhänger mit Basis-Werkzeug aus, verteile Flyer für einen \"Haustür-Inspektions-Check\" in allen Feldataler Ortsteilen und hinterlege deine Visitenkarten bei den örtlichen Landgasthöfen.",
-          "ts": "2026-10-28 00:31",
+          "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb** (Notdienst & Modernisierung)\n\n**Ansprache-Idee:** \n„Wenn in Gemünden die Heizung ausfällt oder jemand sein Bad saniert, wird heute auf dem Handy gesucht – sorgen wir dafür, dass Ihre Nummer ganz oben steht und die Kunden aus der Region direkt bei Ihnen anrufen, statt beim Betrieb aus der nächsten Kreisstadt.“",
+          "ts": "2026-10-28 06:18",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-romrod",
-          "title": "Direktvermarktung — Romrod  ·  Chancen",
+          "agent": "chancen-gemuenden-felda",
+          "title": "Chancen-Scout — Gemuenden (Felda)  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Eine unkomplizierte „Vogelsberger Feierabend-Kiste“ zur Abholung an einem 24/7-Regiomaten, vollgepackt mit ehrlichen Zutaten für ein regionales Abendbrot wie frischem Landbrot, Hausmacher Wurst, Hofkäse und saisonalem Knackgemüse.\n\n**fuer WEN:** Für Pendler auf dem Heimweg über die B49, beschäftigte Familien aus Romrod und Schloss-Gäste, die ohne Supermarkt-Stress echte Qualität aus der Nachbarschaft suchen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger aus dem Umkreis und einen Dorfbäcker an einen Tisch holen, um eine kleine, feine Produktpalette abzusprechen und einen gut erreichbaren Stellplatz zu pachten.",
-          "ts": "2026-10-28 00:30",
+          "text": "**WAS:** \nEin mobiler „Dorf-Kümmerer“-Dienst auf Selbstständigenbasis, der Senioren und beschäftigten Haushalten in den Ortsteilen kleine Handwerks-, Garten- und Besorgungsarbeiten abnimmt.\n\n**WARUM HIER:** \nIn den sieben verteilt liegenden Ortsteilen von Gemünden (Felda) altert die Bevölkerung zügig, während regionale Handwerksbetriebe Kleinstaufträge kaum noch annehmen und die Nahversorgung vor Ort lückenhaft ist.\n\n**ERSTER SCHRITT:** \nFlyer mit konkreten Leistungspaketen (z. B. „Rasen mähen & Lampe aufhängen“) in Nieder-Gemünden und Ehringshausen verteilen sowie beim Gemeindevorstand/Seniorenbeirat vorstellen.",
+          "ts": "2026-10-28 06:18",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-romrod",
-          "title": "Handwerk-Sichtbarkeit — Romrod  ·  Chancen",
+          "agent": "tourismus-feldatal",
+          "title": "Vulkanregion-Tourismus — Feldatal  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Heizungs- und Sanitärfachbetrieb (Sanitärinstallateur)\n\n**Ansprache-Idee:** \n„Wer hier im Vogelsbergkreis nach einer neuen Wärmepumpe, Badrenovierung oder einem Notdienst sucht, landet auf dem Smartphone aktuell bei Betrieben aus Alsfeld – lassen Sie uns dafür sorgen, dass Ihr Handwerksbetrieb in Romrod bei Google ganz oben steht.“",
-          "ts": "2026-10-28 00:30",
+          "text": "**Erlebnis-Paket: „Feldataler Mühlen-Magie & Steinofen-Brot“**\n\n* **WAS:** Bei diesem dreistündigen Erlebnis erkundet ihr den malerischen Feldataler Mühlenweg und backt anschließend unter Anleitung euer eigenes, traditionelles Vogelsberger Steinofen-Brot in einer historischen Dorfmühle.\n* **fuer WEN:** Perfekt für Paare, kleine Familien und Naturgenießer, die eine entschleunigende Auszeit mit einer leichten Wanderung und echtem regionalem Handwerk verbinden möchten.\n* **ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunsch-Samstag aus und sichere dir dein Online-Ticket inklusive Backzutaten und Mühlen-Guide mit nur wenigen Klicks.",
+          "ts": "2026-10-28 06:17",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-romrod",
-          "title": "Chancen-Scout — Romrod  ·  Chancen",
+          "agent": "tourismus-romrod",
+          "title": "Vulkanregion-Tourismus — Romrod  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Event-Abbau- und Geschenk-Bringdienst für die zahlreichen Hochzeits- und Tagungsgäste im Ort.\n\n**WARUM HIER:** Schloss Romrod zieht wöchentlich hunderte auswärtige Event-Gäste an, die am Abreisetag oft mit dem Rücktransport von Deko, Präsenten und Equipment überfordert sind.\n\n**ERSTER SCHRITT:** Das Gespräch mit der Eventleitung des Schlosses suchen, um den konkreten Bedarf der Paare abzufragen und eine Empfehlungs-Kooperation zu vereinbaren.",
-          "ts": "2026-10-28 00:30",
+          "text": "**WAS:** Erlebe ein exklusives „Märchen-Picknick“ im historischen Schlosspark Romrod inklusive prall gefülltem Korb voller Vogelsberger Spezialitäten und einer digitalen Rätsel-Tour auf den Spuren der Brüder Grimm.\n\n**fuer WEN:** Perfekt für Paare, Genussmenschen und kleine Ausflügler-Gruppen, die Geschichte, Natur und regionale Leckereien entspannt miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle online auf unserer Buchungsseite dein Wunschdatum sowie die Korb-Variante (klassisch oder vegetarisch) aus und schließe die Reservierung mit einem Klick ab.",
+          "ts": "2026-10-28 06:17",
           "age_min": 0
         }
       ]
@@ -116,11 +116,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-romrod",
-          "title": "Senioren-Alltagsdienste — Romrod  ·  Kunden",
+          "agent": "senioren-feldatal",
+          "title": "Senioren-Alltagsdienste — Feldatal  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst bringt frische Lebensmittel direkt nach Hause und fährt Senioren aus den Ortsteilen würdevoll und ohne Zeitdruck zu Arztterminen im nahen Alsfeld.\n\n**WARUM HIER:** In den weit auseinanderliegenden Ortsteilen von Romrod fehlen oft eigene Einkaufsmöglichkeiten und engmaschige Busverbindungen, wodurch die eigenständige Lebensführung im Alter ohne eigenes Auto gefährdet ist.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit der Stadt Romrod und den Ortsvorstehern wird eine Abfrage bei den Seniorinnen und Senioren gemacht, um den genauen Wochentagsbedarf für erste Fahr- und Besorgungspatenschaften zu ermitteln.",
-          "ts": "2026-10-28 00:30",
+          "text": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Dorf-Fahrdienst, der ältere Menschen direkt an der Haustür abholt und sie aufmerksam zu Arztterminen, Einkäufen oder Ortsveranstaltungen begleitet.\n\n**WARUM HIER:** Da Feldatal aus sieben weit verstreuten Ortsteilen ohne durchgehenden Nahverkehr besteht, sichert dieser persönliche Dienst die Bewegungsfreiheit und den Verbleib im liebgewonnenen Zuhause.\n\n**ERSTER SCHRITT:** Über das Gemeindeblatt wird ein kurzer Fragebogen verteilt, um hilfsbereite Fahrerinnen und Fahrer aus den Dörfern zu gewinnen und den konkreten Hilfebedarf vertraulich zu erfassen.",
+          "ts": "2026-10-28 06:17",
           "age_min": 0
         }
       ]
