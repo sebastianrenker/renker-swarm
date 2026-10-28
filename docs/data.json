@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-28T06:18Z",
+  "updated": "2026-10-28T13:19Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Die „Feldataler Feierabend-Box“ ist ein wöchentliches Abo für ein ehrliches Vesper aus der Region, gepackt mit Vogelsberger Kartoffeln, Hausmacher Wurst, frischem Landbrot und saisonalem Gemüse. **fuer WEN:** Für Pendler und beschäftigte Familien aus dem Feldatal und Umgebung, die abends wenig Zeit zum Einkaufen haben, aber bodenständige Lebensmitte",
+        "text": "**WAS:** Die „Ohmtal-Feierabendkiste“ – eine wöchentlich fest gepackte Gemüsekiste mit saisonalem Feldgemüse, Vogelsberger Kartoffeln, frischen Eiern und optionaler Hausmacher-Wurst, die rund um die Uhr an einer einfachen Abholstation bereitsteht. **für WEN:** Für beschäftigte Familien und Pendler aus Gemünden und den umliegenden Dörfern, die ehrlich erzeugt",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Dorf-Fahrdienst, der ältere Menschen direkt an der Haustür abholt und sie aufmerksam zu Arztterminen, Einkäufen oder Ortsveranstaltungen begleitet. **WARUM HIER:** Da Feldatal aus sieben weit verstreuten Ortsteilen ohne durchgehenden Nahverkehr besteht, sichert dieser persönliche Dienst die Bewegungsfreihei",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -552,9 +548,9 @@
       "name": "Vulkanregion-Tourismus — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe ein exklusives „Märchen-Picknick“ im historischen Schlosspark Romrod inklusive prall gefülltem Korb voller Vogelsberger Spezialitäten und einer digitalen Rätsel-Tour auf den Spuren der Brüder Grimm. **fue",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-romrod",
@@ -588,54 +584,54 @@
       "name": "Direktvermarktung — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Feldataler Feierabend-Box“ ist ein wöchentliches Abo für ein ehrliches Vesper aus der Region, gepackt mit Vogelsberger Kartoffeln, Hausmacher Wurst, frischem Landbrot und saisonalem Gemüse. **fuer WEN:** Fü",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-feldatal",
       "name": "Vulkanregion-Tourismus — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: „Feldataler Mühlen-Magie & Steinofen-Brot“** * **WAS:** Bei diesem dreistündigen Erlebnis erkundet ihr den malerischen Feldataler Mühlenweg und backt anschließend unter Anleitung euer eigenes, tradition",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-feldatal",
       "name": "Senioren-Alltagsdienste — Feldatal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Dorf-Fahrdienst, der ältere Menschen direkt an der Haustür abholt und sie aufmerksam zu Arztterminen, Einkäufen oder Ortsveranstaltungen begleitet. **WARUM HIER:** Da F",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-gemuenden-felda",
       "name": "Chancen-Scout — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler „Dorf-Kümmerer“-Dienst auf Selbstständigenbasis, der Senioren und beschäftigten Haushalten in den Ortsteilen kleine Handwerks-, Garten- und Besorgungsarbeiten abnimmt. **WARUM HIER:** In den sieben v",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-gemuenden-felda",
       "name": "Handwerk-Sichtbarkeit — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb** (Notdienst & Modernisierung) **Ansprache-Idee:** „Wenn in Gemünden die Heizung ausfällt oder jemand sein Bad saniert, wird heute auf dem Handy gesucht – sorgen wir dafür,",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-gemuenden-felda",
       "name": "Direktvermarktung — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Ohmtal-Feierabendkiste“ – eine wöchentlich fest gepackte Gemüsekiste mit saisonalem Feldgemüse, Vogelsberger Kartoffeln, frischen Eiern und optionaler Hausmacher-Wurst, die rund um die Uhr an einer einfache",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-gemuenden-felda",
@@ -1503,56 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 13,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "direkt-feldatal",
+      "agent": "direkt-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** Die „Feldataler Feierabend-Box“ ist ein wöchentliches Abo für ein ehrliches Vesper aus der Region, gepackt mit Vogelsberger Kartoffeln, Hausmacher Wurst, frischem Landbrot und saisonalem Gemüse. **fuer WEN:** Für Pendler und beschäftigte Familien aus dem Feldatal und Umgebung, die abends wenig Zeit zum Einkaufen haben, aber bodenständige Lebensmitte",
-      "ts": "2026-10-28 06:18",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-gemuenden-felda",
-      "via": "gemini",
-      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb** (Notdienst & Modernisierung) **Ansprache-Idee:** „Wenn in Gemünden die Heizung ausfällt oder jemand sein Bad saniert, wird heute auf dem Handy gesucht – sorgen wir dafür, dass Ihre Nummer ganz oben steht und die Kunden aus der Region direkt bei Ihnen anrufen, statt beim Betrieb aus der nächsten Kreisstadt.“",
-      "ts": "2026-10-28 06:18",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-gemuenden-felda",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler „Dorf-Kümmerer“-Dienst auf Selbstständigenbasis, der Senioren und beschäftigten Haushalten in den Ortsteilen kleine Handwerks-, Garten- und Besorgungsarbeiten abnimmt. **WARUM HIER:** In den sieben verteilt liegenden Ortsteilen von Gemünden (Felda) altert die Bevölkerung zügig, während regionale Handwerksbetriebe Kleinstaufträge kaum noc",
-      "ts": "2026-10-28 06:18",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-feldatal",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Dorf-Fahrdienst, der ältere Menschen direkt an der Haustür abholt und sie aufmerksam zu Arztterminen, Einkäufen oder Ortsveranstaltungen begleitet. **WARUM HIER:** Da Feldatal aus sieben weit verstreuten Ortsteilen ohne durchgehenden Nahverkehr besteht, sichert dieser persönliche Dienst die Bewegungsfreihei",
-      "ts": "2026-10-28 06:17",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-feldatal",
-      "via": "gemini",
-      "text": "**Erlebnis-Paket: „Feldataler Mühlen-Magie & Steinofen-Brot“** * **WAS:** Bei diesem dreistündigen Erlebnis erkundet ihr den malerischen Feldataler Mühlenweg und backt anschließend unter Anleitung euer eigenes, traditionelles Vogelsberger Steinofen-Brot in einer historischen Dorfmühle. * **fuer WEN:** Perfekt für Paare, kleine Familien und Naturgenießer, die",
-      "ts": "2026-10-28 06:17",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-romrod",
-      "via": "gemini",
-      "text": "**WAS:** Erlebe ein exklusives „Märchen-Picknick“ im historischen Schlosspark Romrod inklusive prall gefülltem Korb voller Vogelsberger Spezialitäten und einer digitalen Rätsel-Tour auf den Spuren der Brüder Grimm. **fuer WEN:** Perfekt für Paare, Genussmenschen und kleine Ausflügler-Gruppen, die Geschichte, Natur und regionale Leckereien entspannt miteinand",
-      "ts": "2026-10-28 06:17",
+      "text": "**WAS:** Die „Ohmtal-Feierabendkiste“ – eine wöchentlich fest gepackte Gemüsekiste mit saisonalem Feldgemüse, Vogelsberger Kartoffeln, frischen Eiern und optionaler Hausmacher-Wurst, die rund um die Uhr an einer einfachen Abholstation bereitsteht. **für WEN:** Für beschäftigte Familien und Pendler aus Gemünden und den umliegenden Dörfern, die ehrlich erzeugt",
+      "ts": "2026-10-28 13:19",
       "age_min": 0
     }
   ]
