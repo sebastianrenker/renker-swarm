@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:59Z",
+  "updated": "2026-10-28T23:00Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** „Vulkan-Sonnenuntergang am Nieder-Mooser See“: Ein geführtes Abend-Paddeln auf dem See mit anschließendem Picknick aus regionalen Vogelsberg-Spezialitäten direkt am Ufer. **für WEN:** Dieses Paket richtet sich an Paare und Naturgenießer, die eine romantische kleine Alltagsflucht suchen und lokale Kulinarik im Grünen schätzen. **ERSTER SCHRITT:** Bes",
+        "text": "**WAS:** „Sterne & Basalt“ ist eine geführte Abendwanderung zur historischen Burgruine Schlossberg mit einem regionalen Vogelsberger Picknickkorb und anschließender professioneller Sternenbeobachtung an einem der dunkelsten Orte Hessens. **fuer WEN:** Das Paket richtet sich an Paare, Romantiker und Naturbegeisterte, die eine entschleunigende und besondere Au",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS** Der „Dorf-Gefährte Gemünden“ ist ein stabiler, mobiler Alltags- und Fahrdienst, der ältere Menschen auf Augenhöhe bei Besorgungen, Arztfahrten in die Region und kleineren Handreichungen im Eigenheim unterstützt. **WARUM HIER** In den sieben weitläufig verstreuten Ortsteilen von Gemünden (Felda) fehlt es zunehmend an Nahversorgung und öffentlichen Ver",
+        "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, um gemeinsame Einkäufe, Arztbesuche oder Behördengänge in der Region verlässlich und ohne Zeitdruck zu gestalten. **WARUM HIER:** Als höchste Stadt Hessens mit sehr weit verstreuten Ortsteilen, steiler Topografie und oft strengen Wintern sind die Wege für Seni",
         "age_min": 0
       }
     },
@@ -642,108 +642,108 @@
       "name": "Vulkanregion-Tourismus — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Mühlen-Romantik & Fluss-Picknick“ kombiniert eine selbstgeführte E-Bike-Tour entlang der Felda mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten für eine idyllis",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-gemuenden-felda",
       "name": "Senioren-Alltagsdienste — Gemuenden (Felda)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Der „Dorf-Gefährte Gemünden“ ist ein stabiler, mobiler Alltags- und Fahrdienst, der ältere Menschen auf Augenhöhe bei Besorgungen, Arztfahrten in die Region und kleineren Handreichungen im Eigenheim unterstützt. ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-freiensteinau",
       "name": "Chancen-Scout — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler 24/7-Regio-Automatenservice auf Anhängerbasis mit lokalen Grill- und Lebensmittelspezialitäten sowie Campingbedarf. **WARUM HIER:** Freiensteinau verzeichnet durch den nahegelegenen Nieder-Mooser See",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-freiensteinau",
       "name": "Handwerk-Sichtbarkeit — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizung- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer im Vogelsberg online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, finden sie aktuell oft nur die gr",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-freiensteinau",
       "name": "Direktvermarktung — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Der „Vogelsberger Feierabend-Korb“ ist ein flexibles Wochen-Abo mit Hausmacher Wurst von regionalen Weiderindern, Hofkäse, Frischeiern und Holzofenbrot, das kontaktlos aus einer gekühlten Abholstation am Hof ent",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-freiensteinau",
       "name": "Vulkanregion-Tourismus — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Vulkan-Sonnenuntergang am Nieder-Mooser See“: Ein geführtes Abend-Paddeln auf dem See mit anschließendem Picknick aus regionalen Vogelsberg-Spezialitäten direkt am Ufer. **für WEN:** Dieses Paket richtet sich a",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-freiensteinau",
       "name": "Senioren-Alltagsdienste — Freiensteinau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, ehrenamtlich gestützter Mitfahr- und Begleitdienst („Dorf-Mobil“), der ältere Menschen direkt an der Haustür abholt, zu Ärzten oder Besorgungen begleitet und wieder sicher nach Hause bringt. *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-ulrichstein",
       "name": "Chancen-Scout — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Verleihservice für Sternenbeobachtungs-Sets (Teleskope, Rotlicht-Ausrüstung, Wärmedecken) gekoppelt mit regionalen Thermo-Picknickkisten für Nacht-Touristen. **WARUM HIER:** Als höchste Stadt Hessens",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-ulrichstein",
       "name": "Handwerk-Sichtbarkeit — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Dachdeckerbetrieb** in Ulrichstein (besonders gefragt wegen der exponierten Höhenlage im Vogelsberg und entsprechenden Wetterbelastungen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn i",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-ulrichstein",
       "name": "Direktvermarktung — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Ulrichsteiner Vulkan-Vesper-Box“ – eine monatliche Abo-Box vollgepackt mit ehrlichen, haltbaren Spezialitäten wie Vogelsberger Stracke, lokalem Käse, Imkerhonig und deftigem Landbrot direkt von den Höfen ru",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-ulrichstein",
       "name": "Vulkanregion-Tourismus — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Sterne & Basalt“ ist eine geführte Abendwanderung zur historischen Burgruine Schlossberg mit einem regionalen Vogelsberger Picknickkorb und anschließender professioneller Sternenbeobachtung an einem der dunkels",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-ulrichstein",
       "name": "Senioren-Alltagsdienste — Ulrichstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, um gemeinsame Einkäufe, Arztbesuche oder Behördengänge in der Region verlässlich und ohne Zeitdruck zu gestalten. **WARU",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-schwalmtal",
@@ -1503,56 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 19,
+    "used": 25,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-freiensteinau",
+      "dept": "Kunden",
+      "agent": "senioren-ulrichstein",
       "via": "gemini",
-      "text": "**WAS:** „Vulkan-Sonnenuntergang am Nieder-Mooser See“: Ein geführtes Abend-Paddeln auf dem See mit anschließendem Picknick aus regionalen Vogelsberg-Spezialitäten direkt am Ufer. **für WEN:** Dieses Paket richtet sich an Paare und Naturgenießer, die eine romantische kleine Alltagsflucht suchen und lokale Kulinarik im Grünen schätzen. **ERSTER SCHRITT:** Bes",
-      "ts": "2026-10-28 18:59",
+      "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der ältere Menschen direkt zu Hause abholt, um gemeinsame Einkäufe, Arztbesuche oder Behördengänge in der Region verlässlich und ohne Zeitdruck zu gestalten. **WARUM HIER:** Als höchste Stadt Hessens mit sehr weit verstreuten Ortsteilen, steiler Topografie und oft strengen Wintern sind die Wege für Seni",
+      "ts": "2026-10-28 23:00",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-freiensteinau",
+      "agent": "tourismus-ulrichstein",
       "via": "gemini",
-      "text": "**WAS:** Der „Vogelsberger Feierabend-Korb“ ist ein flexibles Wochen-Abo mit Hausmacher Wurst von regionalen Weiderindern, Hofkäse, Frischeiern und Holzofenbrot, das kontaktlos aus einer gekühlten Abholstation am Hof entnommen werden kann. **fuer WEN:** Für Pendler, vielbeschäftigte Familien und Senioren aus Freiensteinau und den Ortsteilen, die ehrliche Leb",
-      "ts": "2026-10-28 18:58",
+      "text": "**WAS:** „Sterne & Basalt“ ist eine geführte Abendwanderung zur historischen Burgruine Schlossberg mit einem regionalen Vogelsberger Picknickkorb und anschließender professioneller Sternenbeobachtung an einem der dunkelsten Orte Hessens. **fuer WEN:** Das Paket richtet sich an Paare, Romantiker und Naturbegeisterte, die eine entschleunigende und besondere Au",
+      "ts": "2026-10-28 23:00",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-freiensteinau",
+      "agent": "direkt-ulrichstein",
       "via": "gemini",
-      "text": "**Betriebstyp:** Heizung- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer im Vogelsberg online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, finden sie aktuell oft nur die große Konkurrenz aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen in Freiensteinau landen?“",
-      "ts": "2026-10-28 18:58",
+      "text": "**WAS:** Die „Ulrichsteiner Vulkan-Vesper-Box“ – eine monatliche Abo-Box vollgepackt mit ehrlichen, haltbaren Spezialitäten wie Vogelsberger Stracke, lokalem Käse, Imkerhonig und deftigem Landbrot direkt von den Höfen rund um den Schlossberg. **fuer WEN:** Für beschäftigte Familien aus dem Vogelsbergkreis, Pendler und Heim Heimgekehrte, die echte regionale P",
+      "ts": "2026-10-28 23:00",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-freiensteinau",
+      "agent": "handwerk-ulrichstein",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler 24/7-Regio-Automatenservice auf Anhängerbasis mit lokalen Grill- und Lebensmittelspezialitäten sowie Campingbedarf. **WARUM HIER:** Freiensteinau verzeichnet durch den nahegelegenen Nieder-Mooser See hohe Touristen- und Camperzahlen, leidet aber in seinen 12 Ortsteilen unter einem Mangel an flexibler Nahversorgung. **ERSTER SCHRITT:** Pa",
-      "ts": "2026-10-28 18:58",
+      "text": "**Betriebstyp:** Ein lokaler **Dachdeckerbetrieb** in Ulrichstein (besonders gefragt wegen der exponierten Höhenlage im Vogelsberg und entsprechenden Wetterbelastungen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn im rauen Vogelsberg-Wetter das Dach leckt oder saniert werden muss, suchen Hausbesitzer direkt auf dem Smartphone nach Hilfe – sorgen wir daf",
+      "ts": "2026-10-28 22:59",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-ulrichstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Verleihservice für Sternenbeobachtungs-Sets (Teleskope, Rotlicht-Ausrüstung, Wärmedecken) gekoppelt mit regionalen Thermo-Picknickkisten für Nacht-Touristen. **WARUM HIER:** Als höchste Stadt Hessens im Lichtschutzgebiet Vogelsberg bietet Ulrichstein fantastische Bedingungen für Astrotourismus, lässt diese kaufkräftige Zielgruppe nachts ",
+      "ts": "2026-10-28 22:59",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-gemuenden-felda",
+      "agent": "senioren-freiensteinau",
       "via": "gemini",
-      "text": "**WAS** Der „Dorf-Gefährte Gemünden“ ist ein stabiler, mobiler Alltags- und Fahrdienst, der ältere Menschen auf Augenhöhe bei Besorgungen, Arztfahrten in die Region und kleineren Handreichungen im Eigenheim unterstützt. **WARUM HIER** In den sieben weitläufig verstreuten Ortsteilen von Gemünden (Felda) fehlt es zunehmend an Nahversorgung und öffentlichen Ver",
-      "ts": "2026-10-28 18:58",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-gemuenden-felda",
-      "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Mühlen-Romantik & Fluss-Picknick“ kombiniert eine selbstgeführte E-Bike-Tour entlang der Felda mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten für eine idyllische Auszeit am Wasser. **für WEN:** Dieses Angebot richtet sich an Paare, Genuss-Radler und Erholungssuchende, die die Natur rund um Gemünde",
-      "ts": "2026-10-28 18:58",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlich gestützter Mitfahr- und Begleitdienst („Dorf-Mobil“), der ältere Menschen direkt an der Haustür abholt, zu Ärzten oder Besorgungen begleitet und wieder sicher nach Hause bringt. **WARUM HIER:** In den zwölf weit verstreuten Ortsteilen von Freiensteinau fehlen oft Einkaufsmöglichkeiten direkt vor Ort, und der seltene B",
+      "ts": "2026-10-28 22:59",
       "age_min": 0
     }
   ]
