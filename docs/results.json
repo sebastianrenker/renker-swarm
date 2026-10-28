@@ -1,30 +1,126 @@
 {
-  "updated": "2026-10-28 13:19 UTC",
-  "total_results": 1,
-  "total_depts": 1,
+  "updated": "2026-10-28 18:59 UTC",
+  "total_results": 6,
+  "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "direkt-gemuenden-felda",
-      "title": "Direktvermarktung — Gemuenden (Felda)  ·  Chancen",
+      "agent": "tourismus-freiensteinau",
+      "title": "Vulkanregion-Tourismus — Freiensteinau  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Die „Ohmtal-Feierabendkiste“ – eine wöchentlich fest gepackte Gemüsekiste mit saisonalem Feldgemüse, Vogelsberger Kartoffeln, frischen Eiern und optionaler Hausmacher-Wurst, die rund um die Uhr an einer einfachen Abholstation bereitsteht.\n\n**für WEN:** Für beschäftigte Familien und Pendler aus Gemünden und den umliegenden Dörfern, die ehrlich erzeugte Lebensmittel aus der Nachbarschaft wollen, aber es selten zu den normalen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Zwei bis drei befreundete Landwirte aus dem Feldatal an einen Tisch holen, um ein bodenständiges Basissortiment abzustimmen und einen gut angebundenen Standort für eine wetterfeste Abholbox zu finden.",
-      "ts": "2026-10-28 13:19",
+      "text": "**WAS:** „Vulkan-Sonnenuntergang am Nieder-Mooser See“: Ein geführtes Abend-Paddeln auf dem See mit anschließendem Picknick aus regionalen Vogelsberg-Spezialitäten direkt am Ufer.\n\n**für WEN:** Dieses Paket richtet sich an Paare und Naturgenießer, die eine romantische kleine Alltagsflucht suchen und lokale Kulinarik im Grünen schätzen.\n\n**ERSTER SCHRITT:** Besuche unsere Buchungsseite, wähle deinen Wunschtermin aus und sichere dir dein digitales Ticket mit nur wenigen Klicks online.",
+      "ts": "2026-10-28 18:59",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-freiensteinau",
+      "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Der „Vogelsberger Feierabend-Korb“ ist ein flexibles Wochen-Abo mit Hausmacher Wurst von regionalen Weiderindern, Hofkäse, Frischeiern und Holzofenbrot, das kontaktlos aus einer gekühlten Abholstation am Hof entnommen werden kann.\n\n**fuer WEN:** Für Pendler, vielbeschäftigte Familien und Senioren aus Freiensteinau und den Ortsteilen, die ehrliche Lebensmittel aus der Nachbarschaft wollen, aber an feste Hofladen-Öffnungszeiten gebunden sind.\n\n**ERSTER SCHRITT:** Zwei bis drei benachbarte Erzeuger (z. B. Imker, Bäcker, Viehhändler) an einen Tisch holen, ein fixes Brotzeit-Paket schnüren und mit 15 Test-Kunden aus dem Dorf einen vierwöchigen Probelauf starten.",
+      "ts": "2026-10-28 18:58",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-freiensteinau",
+      "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nHeizung- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Hausbesitzer im Vogelsberg online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, finden sie aktuell oft nur die große Konkurrenz aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen in Freiensteinau landen?“",
+      "ts": "2026-10-28 18:58",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-freiensteinau",
+      "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler 24/7-Regio-Automatenservice auf Anhängerbasis mit lokalen Grill- und Lebensmittelspezialitäten sowie Campingbedarf.\n\n**WARUM HIER:** Freiensteinau verzeichnet durch den nahegelegenen Nieder-Mooser See hohe Touristen- und Camperzahlen, leidet aber in seinen 12 Ortsteilen unter einem Mangel an flexibler Nahversorgung.\n\n**ERSTER SCHRITT:** Pachte einen frequentierten Stellplatz nahe der Hauptzufahrt zum Campingplatz und teste das Konzept an Wochenenden mit einem gemieteten Verkaufsanhänger und Waren lokaler Höfe.",
+      "ts": "2026-10-28 18:58",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-gemuenden-felda",
+      "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS**\nDer „Dorf-Gefährte Gemünden“ ist ein stabiler, mobiler Alltags- und Fahrdienst, der ältere Menschen auf Augenhöhe bei Besorgungen, Arztfahrten in die Region und kleineren Handreichungen im Eigenheim unterstützt.\n\n**WARUM HIER**\nIn den sieben weitläufig verstreuten Ortsteilen von Gemünden (Felda) fehlt es zunehmend an Nahversorgung und öffentlichen Verkehrsmitteln, weshalb eine verlässliche Mobilhilfe essenziell ist, um Einsamkeit zu verhindern und das Verbleiben im eigenen Zuhause zu ermöglichen.\n\n**ERSTER SCHRITT**\nIn Kooperation mit der Gemeindeverwaltung und den örtlichen Landfrauen wird ein überschaubarer Testlauf in zwei Ortsteilen gestartet, um über einen Fragebogen den konkreten Wochenbedarf der Senioren zu erfassen und ehrenamtliche Fahrer einzubinden.",
+      "ts": "2026-10-28 18:58",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-gemuenden-felda",
+      "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Mühlen-Romantik & Fluss-Picknick“ kombiniert eine selbstgeführte E-Bike-Tour entlang der Felda mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten für eine idyllische Auszeit am Wasser.\n\n**für WEN:** Dieses Angebot richtet sich an Paare, Genuss-Radler und Erholungssuchende, die die Natur rund um Gemünden (Felda) entspannt und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunschtermin aus, gib deine Verpflegungswünsche an und erhalte dein digitales Ticket direkt per E-Mail.",
+      "ts": "2026-10-28 18:58",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "direkt-gemuenden-felda",
-          "title": "Direktvermarktung — Gemuenden (Felda)  ·  Chancen",
+          "agent": "tourismus-freiensteinau",
+          "title": "Vulkanregion-Tourismus — Freiensteinau  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Die „Ohmtal-Feierabendkiste“ – eine wöchentlich fest gepackte Gemüsekiste mit saisonalem Feldgemüse, Vogelsberger Kartoffeln, frischen Eiern und optionaler Hausmacher-Wurst, die rund um die Uhr an einer einfachen Abholstation bereitsteht.\n\n**für WEN:** Für beschäftigte Familien und Pendler aus Gemünden und den umliegenden Dörfern, die ehrlich erzeugte Lebensmittel aus der Nachbarschaft wollen, aber es selten zu den normalen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Zwei bis drei befreundete Landwirte aus dem Feldatal an einen Tisch holen, um ein bodenständiges Basissortiment abzustimmen und einen gut angebundenen Standort für eine wetterfeste Abholbox zu finden.",
-          "ts": "2026-10-28 13:19",
+          "text": "**WAS:** „Vulkan-Sonnenuntergang am Nieder-Mooser See“: Ein geführtes Abend-Paddeln auf dem See mit anschließendem Picknick aus regionalen Vogelsberg-Spezialitäten direkt am Ufer.\n\n**für WEN:** Dieses Paket richtet sich an Paare und Naturgenießer, die eine romantische kleine Alltagsflucht suchen und lokale Kulinarik im Grünen schätzen.\n\n**ERSTER SCHRITT:** Besuche unsere Buchungsseite, wähle deinen Wunschtermin aus und sichere dir dein digitales Ticket mit nur wenigen Klicks online.",
+          "ts": "2026-10-28 18:59",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-freiensteinau",
+          "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Der „Vogelsberger Feierabend-Korb“ ist ein flexibles Wochen-Abo mit Hausmacher Wurst von regionalen Weiderindern, Hofkäse, Frischeiern und Holzofenbrot, das kontaktlos aus einer gekühlten Abholstation am Hof entnommen werden kann.\n\n**fuer WEN:** Für Pendler, vielbeschäftigte Familien und Senioren aus Freiensteinau und den Ortsteilen, die ehrliche Lebensmittel aus der Nachbarschaft wollen, aber an feste Hofladen-Öffnungszeiten gebunden sind.\n\n**ERSTER SCHRITT:** Zwei bis drei benachbarte Erzeuger (z. B. Imker, Bäcker, Viehhändler) an einen Tisch holen, ein fixes Brotzeit-Paket schnüren und mit 15 Test-Kunden aus dem Dorf einen vierwöchigen Probelauf starten.",
+          "ts": "2026-10-28 18:58",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-freiensteinau",
+          "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nHeizung- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Hausbesitzer im Vogelsberg online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, finden sie aktuell oft nur die große Konkurrenz aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen in Freiensteinau landen?“",
+          "ts": "2026-10-28 18:58",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-freiensteinau",
+          "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler 24/7-Regio-Automatenservice auf Anhängerbasis mit lokalen Grill- und Lebensmittelspezialitäten sowie Campingbedarf.\n\n**WARUM HIER:** Freiensteinau verzeichnet durch den nahegelegenen Nieder-Mooser See hohe Touristen- und Camperzahlen, leidet aber in seinen 12 Ortsteilen unter einem Mangel an flexibler Nahversorgung.\n\n**ERSTER SCHRITT:** Pachte einen frequentierten Stellplatz nahe der Hauptzufahrt zum Campingplatz und teste das Konzept an Wochenenden mit einem gemieteten Verkaufsanhänger und Waren lokaler Höfe.",
+          "ts": "2026-10-28 18:58",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-gemuenden-felda",
+          "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Das Erlebnis-Paket „Mühlen-Romantik & Fluss-Picknick“ kombiniert eine selbstgeführte E-Bike-Tour entlang der Felda mit einem prall gefüllten Rucksack voller regionaler Vogelsberger Spezialitäten für eine idyllische Auszeit am Wasser.\n\n**für WEN:** Dieses Angebot richtet sich an Paare, Genuss-Radler und Erholungssuchende, die die Natur rund um Gemünden (Felda) entspannt und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform deinen Wunschtermin aus, gib deine Verpflegungswünsche an und erhalte dein digitales Ticket direkt per E-Mail.",
+          "ts": "2026-10-28 18:58",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-gemuenden-felda",
+          "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS**\nDer „Dorf-Gefährte Gemünden“ ist ein stabiler, mobiler Alltags- und Fahrdienst, der ältere Menschen auf Augenhöhe bei Besorgungen, Arztfahrten in die Region und kleineren Handreichungen im Eigenheim unterstützt.\n\n**WARUM HIER**\nIn den sieben weitläufig verstreuten Ortsteilen von Gemünden (Felda) fehlt es zunehmend an Nahversorgung und öffentlichen Verkehrsmitteln, weshalb eine verlässliche Mobilhilfe essenziell ist, um Einsamkeit zu verhindern und das Verbleiben im eigenen Zuhause zu ermöglichen.\n\n**ERSTER SCHRITT**\nIn Kooperation mit der Gemeindeverwaltung und den örtlichen Landfrauen wird ein überschaubarer Testlauf in zwei Ortsteilen gestartet, um über einen Fragebogen den konkreten Wochenbedarf der Senioren zu erfassen und ehrenamtliche Fahrer einzubinden.",
+          "ts": "2026-10-28 18:58",
           "age_min": 0
         }
       ]
