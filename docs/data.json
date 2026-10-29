@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-29T08:44Z",
+  "updated": "2026-10-29T15:35Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Hallo [Name], wenn im Antrifttal oder den Nachbardörfern jemand online nach einer neuen Wärmepumpe oder Badrenovierung sucht, landet er aktuell meist bei den größeren Betrieben aus Alsfeld – wollen wir dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen in der Gemeinde bleiben?“",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Der „Wartenberger Dorf-Begleitbus“ bietet älteren Menschen aus den umliegenden Ortsteilen eine verlässliche Abholung von der eigenen Haustür, um Fahrten zum Arzt, zur Apotheke oder zum Markt mit einer aufmerksamen Begleitung beim Tragen und Verweilen zu verbinden. **WARUM HIER:** In den weitläufig verteilten Weilern und Ortsteilen rund um den Markt ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -804,54 +796,54 @@
       "name": "Handwerk-Sichtbarkeit — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Wartenberg. **Ansprache-Idee:** „Servus [Name], wenn Wartenberger online nach einem Heizungstausch oder Hilfe beim Rohrbruch suchen, landen sie aktuell noch bei der Konkur",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-wartenberg",
       "name": "Direktvermarktung — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine ehrliche „Wartenberger Feierabend-Kiste“ zur Abholung im Selbstbedienungs-Häusl, vollgepackt mit frischen Hofprodukten und einem passenden, einfachen Rezept für ein schnelles Abendessen. **fuer WEN:** Für P",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-wartenberg",
       "name": "Vulkanregion-Tourismus — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe einen geführten abendlichen Laternen- und Sagen-Spaziergang zur Burgruine Wartenberg mit anschließender regionaler Basalt-Brotzeit am Lagerfeuer. **FÜR WEN:** Das Paket richtet sich an Paare, kleine Grupp",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-wartenberg",
       "name": "Senioren-Alltagsdienste — Wartenberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Wartenberger Dorf-Begleitbus“ bietet älteren Menschen aus den umliegenden Ortsteilen eine verlässliche Abholung von der eigenen Haustür, um Fahrten zum Arzt, zur Apotheke oder zum Markt mit einer aufmerksam",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-antrifttal",
       "name": "Chancen-Scout — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein digital buchbarer Picknickkorb- und Bollerwagen-Verleih mit regionalen Vogelsberger Spezialitäten für Tagesgäste und Camper an der Antrifttalsperre. **WARUM HIER:** Der Stausee zieht kontinuierlich Naherholu",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-antrifttal",
       "name": "Handwerk-Sichtbarkeit — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Hallo [Name], wenn im Antrifttal oder den Nachbardörfern jemand online nach einer neuen Wärmepumpe oder Badrenovierung sucht, landet er aktuell meist bei d",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-antrifttal",
@@ -1506,54 +1498,5 @@
     "used": 12,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-antrifttal",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Hallo [Name], wenn im Antrifttal oder den Nachbardörfern jemand online nach einer neuen Wärmepumpe oder Badrenovierung sucht, landet er aktuell meist bei den größeren Betrieben aus Alsfeld – wollen wir dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen in der Gemeinde bleiben?“",
-      "ts": "2026-10-29 08:44",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-antrifttal",
-      "via": "gemini",
-      "text": "**WAS:** Ein digital buchbarer Picknickkorb- und Bollerwagen-Verleih mit regionalen Vogelsberger Spezialitäten für Tagesgäste und Camper an der Antrifttalsperre. **WARUM HIER:** Der Stausee zieht kontinuierlich Naherholungssuchende und Radfahrer an, das flexible Verpflegungsangebot direkt am Wasser ist jedoch stark begrenzt. **ERSTER SCHRITT:** Partner-Verei",
-      "ts": "2026-10-29 08:44",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-wartenberg",
-      "via": "gemini",
-      "text": "**WAS:** Der „Wartenberger Dorf-Begleitbus“ bietet älteren Menschen aus den umliegenden Ortsteilen eine verlässliche Abholung von der eigenen Haustür, um Fahrten zum Arzt, zur Apotheke oder zum Markt mit einer aufmerksamen Begleitung beim Tragen und Verweilen zu verbinden. **WARUM HIER:** In den weitläufig verteilten Weilern und Ortsteilen rund um den Markt ",
-      "ts": "2026-10-29 08:44",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-wartenberg",
-      "via": "gemini",
-      "text": "**WAS:** Erlebe einen geführten abendlichen Laternen- und Sagen-Spaziergang zur Burgruine Wartenberg mit anschließender regionaler Basalt-Brotzeit am Lagerfeuer. **FÜR WEN:** Das Paket richtet sich an Paare, kleine Gruppen und Naturgenießer, die Geschichte und lokale Kulinarik in stimmungsvoller Atmosphäre verbinden möchten. **ERSTER SCHRITT:** Wähle im Onli",
-      "ts": "2026-10-29 08:44",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-wartenberg",
-      "via": "gemini",
-      "text": "**WAS:** Eine ehrliche „Wartenberger Feierabend-Kiste“ zur Abholung im Selbstbedienungs-Häusl, vollgepackt mit frischen Hofprodukten und einem passenden, einfachen Rezept für ein schnelles Abendessen. **fuer WEN:** Für Pendler und beschäftigte Familien aus Wartenberg und Umgebung, die unter der Woche wenig Zeit haben, aber trotzdem bodenständig und regional ",
-      "ts": "2026-10-29 08:44",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-wartenberg",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Wartenberg. **Ansprache-Idee:** „Servus [Name], wenn Wartenberger online nach einem Heizungstausch oder Hilfe beim Rohrbruch suchen, landen sie aktuell noch bei der Konkurrenz aus der Stadt – wollen wir dafür sorgen, dass Ihr Betrieb im Ort direkt als erstes gefunden wird?“",
-      "ts": "2026-10-29 08:44",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
