@@ -1,7 +1,111 @@
 {
-  "updated": "2026-10-29 15:35 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-10-29 20:36 UTC",
+  "total_results": 5,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grebenau",
+      "title": "Handwerk-Sichtbarkeit — Grebenau  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb)\n\n**Ansprache-Idee:** \n„Damit Hausbesitzer aus Grebenau und den Ortsteilen bei der Suche nach einer neuen Wärmepumpe oder Badmodernisierung direkt auf Ihrer Website landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Alsfeld oder Lauterbach gehen.“",
+      "ts": "2026-10-29 20:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-grebenau",
+      "title": "Chancen-Scout — Grebenau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Allround-Grundstücks- und Haushaltsservice („Dorf-Kümmerer“), der älteren Eigenheimbesitzern in den sechs Ortsteilen von Grebenau Gartenpflege, Kleinreparaturen und Schwergut-Entsorgung anbietet.\n\n**WARUM HIER:** Das „Gründchen“ hat eine hohe Quote alternder Hausbesitzer mit großen Grundstücken, deren Kinder oft weggependelt sind, während regionale Handwerksbetriebe für Kleinstaufträge gar nicht mehr anfahren.\n\n**ERSTER SCHRITT:** Schalten Sie eine Anzeige im örtlichen Mitteilungsblatt („Gründchen-Bote“) und hängen Sie Flyer in den Dorfgemeinschaftshäusern aus, um direkt die ersten drei Testkunden für Rasenpflege oder Winterfestmachung zu gewinnen.",
+      "ts": "2026-10-29 20:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-antrifttal",
+      "title": "Senioren-Alltagsdienste — Antrifttal  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** \nEin würdevoller, nachbarschaftlicher Fahr- und Begleitdienst, der ältere Mitmenschen direkt an ihrer Haustür abholt und sie geduldig bei Einkäufen, Arztbesuchen oder alltäglichen Besorgungen unterstützt.\n\n**WARUM HIER:** \nDa die fünf Ortsteile von Antrifttal weit verstreut liegen und kaum noch eigene Geschäfte bieten, sichert dieser Dienst die eigenständige Lebensführung vor Ort, ohne dass Senioren das Gefühl haben müssen, ihren Angehörigen zur Last zu fallen.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit der Gemeindeverwaltung wird ein Aufruf im Mitteilungsblatt gestartet, um verlässliche Fahrpaten aus den jeweiligen Dörfern zu gewinnen und den genauen Bedarf der älteren Bewohner feinfühlig zu erheben.",
+      "ts": "2026-10-29 20:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-antrifttal",
+      "title": "Vulkanregion-Tourismus — Antrifttal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** „Vulkan-Picknick & E-Bike-Runde“ – ein digitales Erlebnispaket inklusive E-Bike-Miete für einen Tag, einer GPS-Genussroute durch das malerische Antrifttal und einem prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten.\n\n**für WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und Erholungssuchende, die die sanft-hügelige Vulkanlandschaft rund um die Antrifttalsperre entspannt und kulinarisch erkunden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Plattform Ihren Wunschtermin aus und erhalten Sie direkt nach der Online-Buchung Ihren digitalen Tourenguide sowie den Abhol-Code für E-Bikes und Picknickkorb.",
+      "ts": "2026-10-29 20:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-antrifttal",
+      "title": "Direktvermarktung — Antrifttal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Antrifttaler Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Grundnahrungsmitteln – wie Hausmacher Wurst, Eiern, Kartoffeln und Holzofenbrot – gebündelt von verschiedenen Höfen aus den Ortsteilen.\n\n**für WEN:** Das Angebot richtet sich an Pendler und beschäftigte Familien aus Antrifttal und dem nahen Alsfeld, die regional einkaufen wollen, aber es unter der Woche nicht zu den einzelnen Hofläden schaffen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger an einen Tisch holen, um das Sortiment abzustimmen und bei der Gemeinde einen zentralen Standort für eine wetterfeste, gekühlte Abholstation anzufragen.",
+      "ts": "2026-10-29 20:36",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 4,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-grebenau",
+          "title": "Handwerk-Sichtbarkeit — Grebenau  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb)\n\n**Ansprache-Idee:** \n„Damit Hausbesitzer aus Grebenau und den Ortsteilen bei der Suche nach einer neuen Wärmepumpe oder Badmodernisierung direkt auf Ihrer Website landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Alsfeld oder Lauterbach gehen.“",
+          "ts": "2026-10-29 20:36",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-grebenau",
+          "title": "Chancen-Scout — Grebenau  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Allround-Grundstücks- und Haushaltsservice („Dorf-Kümmerer“), der älteren Eigenheimbesitzern in den sechs Ortsteilen von Grebenau Gartenpflege, Kleinreparaturen und Schwergut-Entsorgung anbietet.\n\n**WARUM HIER:** Das „Gründchen“ hat eine hohe Quote alternder Hausbesitzer mit großen Grundstücken, deren Kinder oft weggependelt sind, während regionale Handwerksbetriebe für Kleinstaufträge gar nicht mehr anfahren.\n\n**ERSTER SCHRITT:** Schalten Sie eine Anzeige im örtlichen Mitteilungsblatt („Gründchen-Bote“) und hängen Sie Flyer in den Dorfgemeinschaftshäusern aus, um direkt die ersten drei Testkunden für Rasenpflege oder Winterfestmachung zu gewinnen.",
+          "ts": "2026-10-29 20:36",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-antrifttal",
+          "title": "Vulkanregion-Tourismus — Antrifttal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** „Vulkan-Picknick & E-Bike-Runde“ – ein digitales Erlebnispaket inklusive E-Bike-Miete für einen Tag, einer GPS-Genussroute durch das malerische Antrifttal und einem prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten.\n\n**für WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und Erholungssuchende, die die sanft-hügelige Vulkanlandschaft rund um die Antrifttalsperre entspannt und kulinarisch erkunden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Plattform Ihren Wunschtermin aus und erhalten Sie direkt nach der Online-Buchung Ihren digitalen Tourenguide sowie den Abhol-Code für E-Bikes und Picknickkorb.",
+          "ts": "2026-10-29 20:36",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-antrifttal",
+          "title": "Direktvermarktung — Antrifttal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Antrifttaler Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Grundnahrungsmitteln – wie Hausmacher Wurst, Eiern, Kartoffeln und Holzofenbrot – gebündelt von verschiedenen Höfen aus den Ortsteilen.\n\n**für WEN:** Das Angebot richtet sich an Pendler und beschäftigte Familien aus Antrifttal und dem nahen Alsfeld, die regional einkaufen wollen, aber es unter der Woche nicht zu den einzelnen Hofläden schaffen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger an einen Tisch holen, um das Sortiment abzustimmen und bei der Gemeinde einen zentralen Standort für eine wetterfeste, gekühlte Abholstation anzufragen.",
+          "ts": "2026-10-29 20:36",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-antrifttal",
+          "title": "Senioren-Alltagsdienste — Antrifttal  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin würdevoller, nachbarschaftlicher Fahr- und Begleitdienst, der ältere Mitmenschen direkt an ihrer Haustür abholt und sie geduldig bei Einkäufen, Arztbesuchen oder alltäglichen Besorgungen unterstützt.\n\n**WARUM HIER:** \nDa die fünf Ortsteile von Antrifttal weit verstreut liegen und kaum noch eigene Geschäfte bieten, sichert dieser Dienst die eigenständige Lebensführung vor Ort, ohne dass Senioren das Gefühl haben müssen, ihren Angehörigen zur Last zu fallen.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit der Gemeindeverwaltung wird ein Aufruf im Mitteilungsblatt gestartet, um verlässliche Fahrpaten aus den jeweiligen Dörfern zu gewinnen und den genauen Bedarf der älteren Bewohner feinfühlig zu erheben.",
+          "ts": "2026-10-29 20:36",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

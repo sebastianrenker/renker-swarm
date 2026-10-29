@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-29T15:35Z",
+  "updated": "2026-10-29T20:36Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 5,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) **Ansprache-Idee:** „Damit Hausbesitzer aus Grebenau und den Ortsteilen bei der Suche nach einer neuen Wärmepumpe oder Badmodernisierung direkt auf Ihrer Website landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Alsfeld oder Lauterbach gehen.“",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein würdevoller, nachbarschaftlicher Fahr- und Begleitdienst, der ältere Mitmenschen direkt an ihrer Haustür abholt und sie geduldig bei Einkäufen, Arztbesuchen oder alltäglichen Besorgungen unterstützt. **WARUM HIER:** Da die fünf Ortsteile von Antrifttal weit verstreut liegen und kaum noch eigene Geschäfte bieten, sichert dieser Dienst die eigenst",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -850,45 +858,45 @@
       "name": "Direktvermarktung — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Antrifttaler Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Grundnahrungsmitteln – wie Hausmacher Wurst, Eiern, Kartoffeln und Holzofenbrot – gebündelt von verschiedenen Höfen aus den Ort",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-antrifttal",
       "name": "Vulkanregion-Tourismus — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Vulkan-Picknick & E-Bike-Runde“ – ein digitales Erlebnispaket inklusive E-Bike-Miete für einen Tag, einer GPS-Genussroute durch das malerische Antrifttal und einem prall gefüllten Picknickkorb mit regionalen Vo",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-antrifttal",
       "name": "Senioren-Alltagsdienste — Antrifttal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein würdevoller, nachbarschaftlicher Fahr- und Begleitdienst, der ältere Mitmenschen direkt an ihrer Haustür abholt und sie geduldig bei Einkäufen, Arztbesuchen oder alltäglichen Besorgungen unterstützt. **WARUM",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grebenau",
       "name": "Chancen-Scout — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Allround-Grundstücks- und Haushaltsservice („Dorf-Kümmerer“), der älteren Eigenheimbesitzern in den sechs Ortsteilen von Grebenau Gartenpflege, Kleinreparaturen und Schwergut-Entsorgung anbietet. **W",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grebenau",
       "name": "Handwerk-Sichtbarkeit — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) **Ansprache-Idee:** „Damit Hausbesitzer aus Grebenau und den Ortsteilen bei der Suche nach einer neuen Wärmepumpe oder Badmodernisierung direkt auf Ihrer Website ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-grebenau",
@@ -1495,8 +1503,49 @@
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 17,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grebenau",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) **Ansprache-Idee:** „Damit Hausbesitzer aus Grebenau und den Ortsteilen bei der Suche nach einer neuen Wärmepumpe oder Badmodernisierung direkt auf Ihrer Website landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Alsfeld oder Lauterbach gehen.“",
+      "ts": "2026-10-29 20:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-grebenau",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Allround-Grundstücks- und Haushaltsservice („Dorf-Kümmerer“), der älteren Eigenheimbesitzern in den sechs Ortsteilen von Grebenau Gartenpflege, Kleinreparaturen und Schwergut-Entsorgung anbietet. **WARUM HIER:** Das „Gründchen“ hat eine hohe Quote alternder Hausbesitzer mit großen Grundstücken, deren Kinder oft weggependelt sind, während",
+      "ts": "2026-10-29 20:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-antrifttal",
+      "via": "gemini",
+      "text": "**WAS:** Ein würdevoller, nachbarschaftlicher Fahr- und Begleitdienst, der ältere Mitmenschen direkt an ihrer Haustür abholt und sie geduldig bei Einkäufen, Arztbesuchen oder alltäglichen Besorgungen unterstützt. **WARUM HIER:** Da die fünf Ortsteile von Antrifttal weit verstreut liegen und kaum noch eigene Geschäfte bieten, sichert dieser Dienst die eigenst",
+      "ts": "2026-10-29 20:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-antrifttal",
+      "via": "gemini",
+      "text": "**WAS:** „Vulkan-Picknick & E-Bike-Runde“ – ein digitales Erlebnispaket inklusive E-Bike-Miete für einen Tag, einer GPS-Genussroute durch das malerische Antrifttal und einem prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten. **für WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und Erholungssuchende, die die sanft-hügelige Vul",
+      "ts": "2026-10-29 20:36",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-antrifttal",
+      "via": "gemini",
+      "text": "**WAS:** Die „Antrifttaler Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Grundnahrungsmitteln – wie Hausmacher Wurst, Eiern, Kartoffeln und Holzofenbrot – gebündelt von verschiedenen Höfen aus den Ortsteilen. **für WEN:** Das Angebot richtet sich an Pendler und beschäftigte Familien aus Antrifttal und dem nahen Alsfeld, die regional einka",
+      "ts": "2026-10-29 20:36",
+      "age_min": 0
+    }
+  ]
 }
