@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-29 02:16 UTC",
+  "updated": "2026-10-29 08:44 UTC",
   "total_results": 6,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-wartenberg",
-      "title": "Chancen-Scout — Wartenberg  ·  Chancen",
+      "agent": "handwerk-antrifttal",
+      "title": "Handwerk-Sichtbarkeit — Antrifttal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Mobiler Lieferservice für professionelle Miet-Gartengeräte (z. B. Profi-Holzspalter, Häcksler, Pflasterreiniger) direkt auf den Hof von Eigenheimbesitzern.\n\n**WARUM HIER:** Wartenberg hat eine hohe Dichte an Grundstücken mit großem Pflegebedarf, aber keinen Baumarkt im Ort und viele Fulda-Pendler ohne Zeit für lange Besorgungsfahrten.\n\n**ERSTER SCHRITT:** Drei gefragte Saison-Geräte beschaffen und das Angebot per Flyer in Angersbach und Landenhausen sowie im lokalen Mitteilungsblatt bewerben.",
-      "ts": "2026-10-29 02:16",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn im Antrifttal oder den Nachbardörfern jemand online nach einer neuen Wärmepumpe oder Badrenovierung sucht, landet er aktuell meist bei den größeren Betrieben aus Alsfeld – wollen wir dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen in der Gemeinde bleiben?“",
+      "ts": "2026-10-29 08:44",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-antrifttal",
+      "title": "Chancen-Scout — Antrifttal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein digital buchbarer Picknickkorb- und Bollerwagen-Verleih mit regionalen Vogelsberger Spezialitäten für Tagesgäste und Camper an der Antrifttalsperre.\n\n**WARUM HIER:** Der Stausee zieht kontinuierlich Naherholungssuchende und Radfahrer an, das flexible Verpflegungsangebot direkt am Wasser ist jedoch stark begrenzt.\n\n**ERSTER SCHRITT:** Partner-Vereinbarungen mit zwei lokalen Hofläden treffen und das Angebot testweise über einen WhatsApp-Business-Kanal mit fester Abholstation am See launchen.",
+      "ts": "2026-10-29 08:44",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-schwalmtal",
-      "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
+      "agent": "senioren-wartenberg",
+      "title": "Senioren-Alltagsdienste — Wartenberg  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Alltags- und Fahrbeistand, der ältere Mitbürger behutsam aus den kleineren Ortsteilen zu Besorgungen, Arztterminen sowie sozialen Treffpunkten begleitet und so ihre Eigenständigkeit im gewohnten Zuhause achtet.\n\n**WARUM HIER:** In den weit verstreuten Dörfern und Honschaften Schwalmtals fehlen oft fußläufige Angebote und dichte Busverbindungen, weshalb gezielte Unterstützung zwischen den Ortsteilen die Teilnahme am Gemeinschaftsleben sichert.\n\n**ERSTER SCHRITT:** Das persönliche Gespräch mit dem Seniorennetzwerk oder der Gemeindeverwaltung Schwalmtal suchen, um den konkreten Bedarf der Ortsteile abzugleichen und erste verlässliche Fahrbegleiter aus der Nachbarschaft zu gewinnen.",
-      "ts": "2026-10-29 02:16",
+      "text": "**WAS:** \nDer „Wartenberger Dorf-Begleitbus“ bietet älteren Menschen aus den umliegenden Ortsteilen eine verlässliche Abholung von der eigenen Haustür, um Fahrten zum Arzt, zur Apotheke oder zum Markt mit einer aufmerksamen Begleitung beim Tragen und Verweilen zu verbinden.\n\n**WARUM HIER:** \nIn den weitläufig verteilten Weilern und Ortsteilen rund um den Markt Wartenberg ausserhalb des Ortskerns fehlt eine engmaschige Busverbindung, wodurch Senioren ohne eigenes Auto rasch von der Grundversorgung und dem sozialen Dorfleben abgeschnitten sind.\n\n**ERSTER SCHRITT:** \nIn Kooperation mit der Marktgemeinde wird ein Runder Tisch mit Seniorenvertretern und freiwilligen Fahrern einberufen, um Bedarfe abzufragen und eine erste feste Wochenroute festzulegen.",
+      "ts": "2026-10-29 08:44",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-schwalmtal",
-      "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
+      "agent": "tourismus-wartenberg",
+      "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nDie „Schwalmtaler Vesper-Runde“ ist eine geführte E-Bike-Genusstour durch das idyllische Schwalmtal mit einem exklusiven Vulkan-Picknick aus regionalen Hofladen-Produkten direkt am Flussufer.\n\n**FÜR WEN:** \nDas Paket richtet sich an Paare, Aktiv-Urlauber und kleine Gruppen, die die Natur des Vogelsbergs entspannt erkunden und dabei lokal schlemmen möchten.\n\n**ERSTER SCHRITT:** \nWähle online auf unserer Buchungsplattform deinen Wunschtermin aus und sichere dir dein Ticket inklusive E-Bike-Miete und gefülltem Picknickkorb mit wenigen Klicks.",
-      "ts": "2026-10-29 02:16",
+      "text": "**WAS:** Erlebe einen geführten abendlichen Laternen- und Sagen-Spaziergang zur Burgruine Wartenberg mit anschließender regionaler Basalt-Brotzeit am Lagerfeuer.\n\n**FÜR WEN:** Das Paket richtet sich an Paare, kleine Gruppen und Naturgenießer, die Geschichte und lokale Kulinarik in stimmungsvoller Atmosphäre verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle im Online-Kalender deinen Wunschtermin aus und schließe die Buchung direkt mit wenigen Klicks ab.",
+      "ts": "2026-10-29 08:44",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-schwalmtal",
-      "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
+      "agent": "direkt-wartenberg",
+      "title": "Direktvermarktung — Wartenberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Die „Schwalmtaler Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit allem für ein ehrliches Abendessen – knackiges Saison-Gemüse, frisches Landbrot und Hofkäse –, das donnerstags ohne Wartezeit an einem einfachen Hof-Drive-In abgeholt wird.\n\n**fuer WEN:** Für berufstätige Familien und Pendler aus Schwalmtal und Umgebung, die gute Lebensmittel aus der Heimat schätzen, nach der Arbeit aber keine Zeit für eine Tour durch verschiedene Hofläden haben.\n\n**ERSTER SCHRITT:** Schließe dich mit zwei Höfen aus der Nachbarschaft zusammen, packt gemeinsam 10 Probe-Kisten und findet die ersten Test-Abonnenten ganz hemdsärmelig über Mundpropaganda und die lokale Dorf-WhatsApp-Gruppe.",
-      "ts": "2026-10-29 02:16",
+      "text": "**WAS:**\nEine ehrliche „Wartenberger Feierabend-Kiste“ zur Abholung im Selbstbedienungs-Häusl, vollgepackt mit frischen Hofprodukten und einem passenden, einfachen Rezept für ein schnelles Abendessen.\n\n**fuer WEN:**\nFür Pendler und beschäftigte Familien aus Wartenberg und Umgebung, die unter der Woche wenig Zeit haben, aber trotzdem bodenständig und regional kochen wollen.\n\n**ERSTER SCHRITT:**\nZwei bis drei benachbarte Landwirte für Gemüse, Eier und Fleisch an einen Tisch holen und testweise 20 Kisten über die lokale Dorf-Funk-App anbieten.",
+      "ts": "2026-10-29 08:44",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-schwalmtal",
-      "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
+      "agent": "handwerk-wartenberg",
+      "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb\n\n**Ansprache-Idee:** \n„Wenn in Waldniel oder Amern die Heizung ausfällt oder eine neue Wärmepumpe her muss, suchen die Schwalmtaler zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer direkt ganz oben steht und die lukrativen Aufträge bei Ihnen im Ort bleiben.“",
-      "ts": "2026-10-29 02:16",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-schwalmtal",
-      "title": "Chancen-Scout — Schwalmtal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Werkstatt-Service für E-Bikes und Motor-Gartengeräte, der Wartung und Reparaturen direkt vor Ort in den Schwalmtaler Ortsteilen erledigt.\n\n**WARUM HIER:** Durch die Aufteilung in mehrere kleine Ortsteile ohne eigene Fachwerkstatt sparen sich die vielen Eigenheimbesitzer und Pendler den aufwendigen Transport der Geräte nach Alsfeld oder Lauterbach.\n\n**ERSTER SCHRITT:** Basis-Werkzeug in den eigenen Kombi oder Anhänger laden, Flyer drucken und das Angebot gezielt über die Schwalmtaler Dorfgruppen (z. B. via WhatsApp) sowie Aushänge an den lokalen Treffpunkten ankündigen.",
-      "ts": "2026-10-29 02:16",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Wartenberg.\n\n**Ansprache-Idee:**  \n„Servus [Name], wenn Wartenberger online nach einem Heizungstausch oder Hilfe beim Rohrbruch suchen, landen sie aktuell noch bei der Konkurrenz aus der Stadt – wollen wir dafür sorgen, dass Ihr Betrieb im Ort direkt als erstes gefunden wird?“",
+      "ts": "2026-10-29 08:44",
       "age_min": 0
     }
   ],
@@ -65,47 +65,47 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-wartenberg",
-          "title": "Chancen-Scout — Wartenberg  ·  Chancen",
+          "agent": "handwerk-antrifttal",
+          "title": "Handwerk-Sichtbarkeit — Antrifttal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Mobiler Lieferservice für professionelle Miet-Gartengeräte (z. B. Profi-Holzspalter, Häcksler, Pflasterreiniger) direkt auf den Hof von Eigenheimbesitzern.\n\n**WARUM HIER:** Wartenberg hat eine hohe Dichte an Grundstücken mit großem Pflegebedarf, aber keinen Baumarkt im Ort und viele Fulda-Pendler ohne Zeit für lange Besorgungsfahrten.\n\n**ERSTER SCHRITT:** Drei gefragte Saison-Geräte beschaffen und das Angebot per Flyer in Angersbach und Landenhausen sowie im lokalen Mitteilungsblatt bewerben.",
-          "ts": "2026-10-29 02:16",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn im Antrifttal oder den Nachbardörfern jemand online nach einer neuen Wärmepumpe oder Badrenovierung sucht, landet er aktuell meist bei den größeren Betrieben aus Alsfeld – wollen wir dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen in der Gemeinde bleiben?“",
+          "ts": "2026-10-29 08:44",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-schwalmtal",
-          "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
+          "agent": "chancen-antrifttal",
+          "title": "Chancen-Scout — Antrifttal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nDie „Schwalmtaler Vesper-Runde“ ist eine geführte E-Bike-Genusstour durch das idyllische Schwalmtal mit einem exklusiven Vulkan-Picknick aus regionalen Hofladen-Produkten direkt am Flussufer.\n\n**FÜR WEN:** \nDas Paket richtet sich an Paare, Aktiv-Urlauber und kleine Gruppen, die die Natur des Vogelsbergs entspannt erkunden und dabei lokal schlemmen möchten.\n\n**ERSTER SCHRITT:** \nWähle online auf unserer Buchungsplattform deinen Wunschtermin aus und sichere dir dein Ticket inklusive E-Bike-Miete und gefülltem Picknickkorb mit wenigen Klicks.",
-          "ts": "2026-10-29 02:16",
+          "text": "**WAS:** Ein digital buchbarer Picknickkorb- und Bollerwagen-Verleih mit regionalen Vogelsberger Spezialitäten für Tagesgäste und Camper an der Antrifttalsperre.\n\n**WARUM HIER:** Der Stausee zieht kontinuierlich Naherholungssuchende und Radfahrer an, das flexible Verpflegungsangebot direkt am Wasser ist jedoch stark begrenzt.\n\n**ERSTER SCHRITT:** Partner-Vereinbarungen mit zwei lokalen Hofläden treffen und das Angebot testweise über einen WhatsApp-Business-Kanal mit fester Abholstation am See launchen.",
+          "ts": "2026-10-29 08:44",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-schwalmtal",
-          "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
+          "agent": "tourismus-wartenberg",
+          "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Die „Schwalmtaler Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit allem für ein ehrliches Abendessen – knackiges Saison-Gemüse, frisches Landbrot und Hofkäse –, das donnerstags ohne Wartezeit an einem einfachen Hof-Drive-In abgeholt wird.\n\n**fuer WEN:** Für berufstätige Familien und Pendler aus Schwalmtal und Umgebung, die gute Lebensmittel aus der Heimat schätzen, nach der Arbeit aber keine Zeit für eine Tour durch verschiedene Hofläden haben.\n\n**ERSTER SCHRITT:** Schließe dich mit zwei Höfen aus der Nachbarschaft zusammen, packt gemeinsam 10 Probe-Kisten und findet die ersten Test-Abonnenten ganz hemdsärmelig über Mundpropaganda und die lokale Dorf-WhatsApp-Gruppe.",
-          "ts": "2026-10-29 02:16",
+          "text": "**WAS:** Erlebe einen geführten abendlichen Laternen- und Sagen-Spaziergang zur Burgruine Wartenberg mit anschließender regionaler Basalt-Brotzeit am Lagerfeuer.\n\n**FÜR WEN:** Das Paket richtet sich an Paare, kleine Gruppen und Naturgenießer, die Geschichte und lokale Kulinarik in stimmungsvoller Atmosphäre verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle im Online-Kalender deinen Wunschtermin aus und schließe die Buchung direkt mit wenigen Klicks ab.",
+          "ts": "2026-10-29 08:44",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-schwalmtal",
-          "title": "Handwerk-Sichtbarkeit — Schwalmtal  ·  Chancen",
+          "agent": "direkt-wartenberg",
+          "title": "Direktvermarktung — Wartenberg  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb\n\n**Ansprache-Idee:** \n„Wenn in Waldniel oder Amern die Heizung ausfällt oder eine neue Wärmepumpe her muss, suchen die Schwalmtaler zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Nummer direkt ganz oben steht und die lukrativen Aufträge bei Ihnen im Ort bleiben.“",
-          "ts": "2026-10-29 02:16",
+          "text": "**WAS:**\nEine ehrliche „Wartenberger Feierabend-Kiste“ zur Abholung im Selbstbedienungs-Häusl, vollgepackt mit frischen Hofprodukten und einem passenden, einfachen Rezept für ein schnelles Abendessen.\n\n**fuer WEN:**\nFür Pendler und beschäftigte Familien aus Wartenberg und Umgebung, die unter der Woche wenig Zeit haben, aber trotzdem bodenständig und regional kochen wollen.\n\n**ERSTER SCHRITT:**\nZwei bis drei benachbarte Landwirte für Gemüse, Eier und Fleisch an einen Tisch holen und testweise 20 Kisten über die lokale Dorf-Funk-App anbieten.",
+          "ts": "2026-10-29 08:44",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-schwalmtal",
-          "title": "Chancen-Scout — Schwalmtal  ·  Chancen",
+          "agent": "handwerk-wartenberg",
+          "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Werkstatt-Service für E-Bikes und Motor-Gartengeräte, der Wartung und Reparaturen direkt vor Ort in den Schwalmtaler Ortsteilen erledigt.\n\n**WARUM HIER:** Durch die Aufteilung in mehrere kleine Ortsteile ohne eigene Fachwerkstatt sparen sich die vielen Eigenheimbesitzer und Pendler den aufwendigen Transport der Geräte nach Alsfeld oder Lauterbach.\n\n**ERSTER SCHRITT:** Basis-Werkzeug in den eigenen Kombi oder Anhänger laden, Flyer drucken und das Angebot gezielt über die Schwalmtaler Dorfgruppen (z. B. via WhatsApp) sowie Aushänge an den lokalen Treffpunkten ankündigen.",
-          "ts": "2026-10-29 02:16",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb in Wartenberg.\n\n**Ansprache-Idee:**  \n„Servus [Name], wenn Wartenberger online nach einem Heizungstausch oder Hilfe beim Rohrbruch suchen, landen sie aktuell noch bei der Konkurrenz aus der Stadt – wollen wir dafür sorgen, dass Ihr Betrieb im Ort direkt als erstes gefunden wird?“",
+          "ts": "2026-10-29 08:44",
           "age_min": 0
         }
       ]
@@ -116,11 +116,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-schwalmtal",
-          "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
+          "agent": "senioren-wartenberg",
+          "title": "Senioren-Alltagsdienste — Wartenberg  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Alltags- und Fahrbeistand, der ältere Mitbürger behutsam aus den kleineren Ortsteilen zu Besorgungen, Arztterminen sowie sozialen Treffpunkten begleitet und so ihre Eigenständigkeit im gewohnten Zuhause achtet.\n\n**WARUM HIER:** In den weit verstreuten Dörfern und Honschaften Schwalmtals fehlen oft fußläufige Angebote und dichte Busverbindungen, weshalb gezielte Unterstützung zwischen den Ortsteilen die Teilnahme am Gemeinschaftsleben sichert.\n\n**ERSTER SCHRITT:** Das persönliche Gespräch mit dem Seniorennetzwerk oder der Gemeindeverwaltung Schwalmtal suchen, um den konkreten Bedarf der Ortsteile abzugleichen und erste verlässliche Fahrbegleiter aus der Nachbarschaft zu gewinnen.",
-          "ts": "2026-10-29 02:16",
+          "text": "**WAS:** \nDer „Wartenberger Dorf-Begleitbus“ bietet älteren Menschen aus den umliegenden Ortsteilen eine verlässliche Abholung von der eigenen Haustür, um Fahrten zum Arzt, zur Apotheke oder zum Markt mit einer aufmerksamen Begleitung beim Tragen und Verweilen zu verbinden.\n\n**WARUM HIER:** \nIn den weitläufig verteilten Weilern und Ortsteilen rund um den Markt Wartenberg ausserhalb des Ortskerns fehlt eine engmaschige Busverbindung, wodurch Senioren ohne eigenes Auto rasch von der Grundversorgung und dem sozialen Dorfleben abgeschnitten sind.\n\n**ERSTER SCHRITT:** \nIn Kooperation mit der Marktgemeinde wird ein Runder Tisch mit Seniorenvertretern und freiwilligen Fahrern einberufen, um Bedarfe abzufragen und eine erste feste Wochenroute festzulegen.",
+          "ts": "2026-10-29 08:44",
           "age_min": 0
         }
       ]
