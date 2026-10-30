@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-30T00:23Z",
+  "updated": "2026-10-30T06:09Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Die „Lautertaler Vesper-Kist’l“ ist ein wöchentliches Abo-Paket mit knackigem Saison-Gemüse, frischem Holzofenbrot, Odenwälder Käse und Hausmacher Wurst direkt von Höfen aus dem Tal. **für WEN:** Für beschäftigte Pendler und Familien im Lautertal, die Wert auf ehrliche Lebensmittel legen, aber unter der Woche keine Zeit für klapprige Hofladen-Runden",
+        "text": "**WAS:** Er",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein dorfübergreifender Begleit- und Fahrdienst, der Senioren nicht nur sicher zu Arztterminen oder Einkäufen bringt, sondern auch verlässlich beim Tragen hilft und Zeit für ein persönliches Gespräch mitbringt. **WARUM HIER:** Da die sieben Ortsteile von Grebenau weit verstreut liegen und der öffentliche Nahverkehr die Wege zu Fachärzten oder Supermä",
+        "text": "**WAS:** Der „Lautertaler Dorf-Begleiter“ ist ein verlässlicher, persönlicher Mobil- und Alltagsdienst, der Seniorinnen und Senioren individuell bei Einkäufen, Arztbesuchen und beschwerlichen Besorgungen unterstützt. **WARUM HIER:** In den zwölf weit verstreuten und oft steilen Ortsteilen des Lautertals fehlen in den kleineren Dörfern direkte Nahversorger, w",
         "age_min": 0
       }
     },
@@ -903,72 +903,72 @@
       "name": "Direktvermarktung — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Gründchen-Feierabendbox“ im Abo mit frischen Eiern, Hausmacher Wurst, regionalem Käse, Holzofenbrot und Saison-Gemüse von Höfen rund um Grebenau. **FÜR WEN:** Für berufstätige Familien und Pen",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-grebenau",
       "name": "Vulkanregion-Tourismus — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der geführten Dämmerungs-Fackelwanderung durch die Wälder des Grebenauer Gründchens lauschen Sie alten Vogelsberger Sagen und genießen anschließend eine herzhafte regionale Vesper am Lagerfeuer. **für WEN:**",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-grebenau",
       "name": "Senioren-Alltagsdienste — Grebenau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein dorfübergreifender Begleit- und Fahrdienst, der Senioren nicht nur sicher zu Arztterminen oder Einkäufen bringt, sondern auch verlässlich beim Tragen hilft und Zeit für ein persönliches Gespräch mitbringt. *",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-lautertal",
       "name": "Chancen-Scout — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Werkstattservice, der Vor-Ort-Wartungen und Notfall-Reparaturen auf Anruf direkt bei Einwohnern zu Hause oder an touristischen Stopps durchführt. **WARUM HIER:** Lautertal profiti",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-lautertal",
       "name": "Handwerk-Sichtbarkeit — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) **Ansprache-Idee:** „Wenn in Lautertal die Heizung ausfällt oder das Bad saniert werden soll, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-lautertal",
       "name": "Direktvermarktung — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Lautertaler Vesper-Kist’l“ ist ein wöchentliches Abo-Paket mit knackigem Saison-Gemüse, frischem Holzofenbrot, Odenwälder Käse und Hausmacher Wurst direkt von Höfen aus dem Tal. **für WEN:** Für beschäftigt",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-lautertal",
       "name": "Vulkanregion-Tourismus — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Er",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-lautertal",
       "name": "Senioren-Alltagsdienste — Lautertal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Lautertaler Dorf-Begleiter“ ist ein verlässlicher, persönlicher Mobil- und Alltagsdienst, der Seniorinnen und Senioren individuell bei Einkäufen, Arztbesuchen und beschwerlichen Besorgungen unterstützt. **W",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-fulda",
@@ -1503,56 +1503,24 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 8,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-lautertal",
-      "via": "gemini",
-      "text": "**WAS:** Die „Lautertaler Vesper-Kist’l“ ist ein wöchentliches Abo-Paket mit knackigem Saison-Gemüse, frischem Holzofenbrot, Odenwälder Käse und Hausmacher Wurst direkt von Höfen aus dem Tal. **für WEN:** Für beschäftigte Pendler und Familien im Lautertal, die Wert auf ehrliche Lebensmittel legen, aber unter der Woche keine Zeit für klapprige Hofladen-Runden",
-      "ts": "2026-10-30 00:23",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-lautertal",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) **Ansprache-Idee:** „Wenn in Lautertal die Heizung ausfällt oder das Bad saniert werden soll, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Telefonnummer ganz oben steht und nicht die der Konkurrenz aus der Nachbarstadt.“",
-      "ts": "2026-10-30 00:23",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-lautertal",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Werkstattservice, der Vor-Ort-Wartungen und Notfall-Reparaturen auf Anruf direkt bei Einwohnern zu Hause oder an touristischen Stopps durchführt. **WARUM HIER:** Lautertal profitiert voll vom Radtourismus im Vogelsberg und einer steigenden E-Bike-Nutzung der älteren Bevölkerung, hat aber selbst keinen einzigen station",
-      "ts": "2026-10-30 00:23",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-grebenau",
+      "agent": "senioren-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Ein dorfübergreifender Begleit- und Fahrdienst, der Senioren nicht nur sicher zu Arztterminen oder Einkäufen bringt, sondern auch verlässlich beim Tragen hilft und Zeit für ein persönliches Gespräch mitbringt. **WARUM HIER:** Da die sieben Ortsteile von Grebenau weit verstreut liegen und der öffentliche Nahverkehr die Wege zu Fachärzten oder Supermä",
-      "ts": "2026-10-30 00:22",
+      "text": "**WAS:** Der „Lautertaler Dorf-Begleiter“ ist ein verlässlicher, persönlicher Mobil- und Alltagsdienst, der Seniorinnen und Senioren individuell bei Einkäufen, Arztbesuchen und beschwerlichen Besorgungen unterstützt. **WARUM HIER:** In den zwölf weit verstreuten und oft steilen Ortsteilen des Lautertals fehlen in den kleineren Dörfern direkte Nahversorger, w",
+      "ts": "2026-10-30 06:09",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-grebenau",
+      "agent": "tourismus-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Bei der geführten Dämmerungs-Fackelwanderung durch die Wälder des Grebenauer Gründchens lauschen Sie alten Vogelsberger Sagen und genießen anschließend eine herzhafte regionale Vesper am Lagerfeuer. **für WEN:** Das Erlebnis richtet sich an Familien, Paare und kleine Gruppen, die einen stimmungsvollen und entschleunigenden Abend in der Natur suchen.",
-      "ts": "2026-10-30 00:22",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-grebenau",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Gründchen-Feierabendbox“ im Abo mit frischen Eiern, Hausmacher Wurst, regionalem Käse, Holzofenbrot und Saison-Gemüse von Höfen rund um Grebenau. **FÜR WEN:** Für berufstätige Familien und Pendler aus der Region, die ehrliche Lebensmittel vom Nachbarn essen wollen, aber unter der Woche keine Zeit für Klappertouren von Hofladen zu ",
-      "ts": "2026-10-30 00:22",
+      "text": "**WAS:** Er",
+      "ts": "2026-10-30 06:09",
       "age_min": 0
     }
   ]
