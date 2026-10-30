@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-29T20:36Z",
+  "updated": "2026-10-30T00:23Z",
   "agents_total": 162,
-  "worked": 5,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) **Ansprache-Idee:** „Damit Hausbesitzer aus Grebenau und den Ortsteilen bei der Suche nach einer neuen Wärmepumpe oder Badmodernisierung direkt auf Ihrer Website landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Alsfeld oder Lauterbach gehen.“",
+        "text": "**WAS:** Die „Lautertaler Vesper-Kist’l“ ist ein wöchentliches Abo-Paket mit knackigem Saison-Gemüse, frischem Holzofenbrot, Odenwälder Käse und Hausmacher Wurst direkt von Höfen aus dem Tal. **für WEN:** Für beschäftigte Pendler und Familien im Lautertal, die Wert auf ehrliche Lebensmittel legen, aber unter der Woche keine Zeit für klapprige Hofladen-Runden",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein würdevoller, nachbarschaftlicher Fahr- und Begleitdienst, der ältere Mitmenschen direkt an ihrer Haustür abholt und sie geduldig bei Einkäufen, Arztbesuchen oder alltäglichen Besorgungen unterstützt. **WARUM HIER:** Da die fünf Ortsteile von Antrifttal weit verstreut liegen und kaum noch eigene Geschäfte bieten, sichert dieser Dienst die eigenst",
+        "text": "**WAS:** Ein dorfübergreifender Begleit- und Fahrdienst, der Senioren nicht nur sicher zu Arztterminen oder Einkäufen bringt, sondern auch verlässlich beim Tragen hilft und Zeit für ein persönliches Gespräch mitbringt. **WARUM HIER:** Da die sieben Ortsteile von Grebenau weit verstreut liegen und der öffentliche Nahverkehr die Wege zu Fachärzten oder Supermä",
         "age_min": 0
       }
     },
@@ -858,99 +858,99 @@
       "name": "Direktvermarktung — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Antrifttaler Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Grundnahrungsmitteln – wie Hausmacher Wurst, Eiern, Kartoffeln und Holzofenbrot – gebündelt von verschiedenen Höfen aus den Ort",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-antrifttal",
       "name": "Vulkanregion-Tourismus — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Vulkan-Picknick & E-Bike-Runde“ – ein digitales Erlebnispaket inklusive E-Bike-Miete für einen Tag, einer GPS-Genussroute durch das malerische Antrifttal und einem prall gefüllten Picknickkorb mit regionalen Vo",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-antrifttal",
       "name": "Senioren-Alltagsdienste — Antrifttal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein würdevoller, nachbarschaftlicher Fahr- und Begleitdienst, der ältere Mitmenschen direkt an ihrer Haustür abholt und sie geduldig bei Einkäufen, Arztbesuchen oder alltäglichen Besorgungen unterstützt. **WARUM",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-grebenau",
       "name": "Chancen-Scout — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Allround-Grundstücks- und Haushaltsservice („Dorf-Kümmerer“), der älteren Eigenheimbesitzern in den sechs Ortsteilen von Grebenau Gartenpflege, Kleinreparaturen und Schwergut-Entsorgung anbietet. **W",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-grebenau",
       "name": "Handwerk-Sichtbarkeit — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) **Ansprache-Idee:** „Damit Hausbesitzer aus Grebenau und den Ortsteilen bei der Suche nach einer neuen Wärmepumpe oder Badmodernisierung direkt auf Ihrer Website ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grebenau",
       "name": "Direktvermarktung — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Gründchen-Feierabendbox“ im Abo mit frischen Eiern, Hausmacher Wurst, regionalem Käse, Holzofenbrot und Saison-Gemüse von Höfen rund um Grebenau. **FÜR WEN:** Für berufstätige Familien und Pen",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-grebenau",
       "name": "Vulkanregion-Tourismus — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei der geführten Dämmerungs-Fackelwanderung durch die Wälder des Grebenauer Gründchens lauschen Sie alten Vogelsberger Sagen und genießen anschließend eine herzhafte regionale Vesper am Lagerfeuer. **für WEN:**",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-grebenau",
       "name": "Senioren-Alltagsdienste — Grebenau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein dorfübergreifender Begleit- und Fahrdienst, der Senioren nicht nur sicher zu Arztterminen oder Einkäufen bringt, sondern auch verlässlich beim Tragen hilft und Zeit für ein persönliches Gespräch mitbringt. *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-lautertal",
       "name": "Chancen-Scout — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Werkstattservice, der Vor-Ort-Wartungen und Notfall-Reparaturen auf Anruf direkt bei Einwohnern zu Hause oder an touristischen Stopps durchführt. **WARUM HIER:** Lautertal profiti",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-lautertal",
       "name": "Handwerk-Sichtbarkeit — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) **Ansprache-Idee:** „Wenn in Lautertal die Heizung ausfällt oder das Bad saniert werden soll, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-lautertal",
       "name": "Direktvermarktung — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Lautertaler Vesper-Kist’l“ ist ein wöchentliches Abo-Paket mit knackigem Saison-Gemüse, frischem Holzofenbrot, Odenwälder Käse und Hausmacher Wurst direkt von Höfen aus dem Tal. **für WEN:** Für beschäftigt",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-lautertal",
@@ -1503,48 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 17,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-grebenau",
+      "agent": "direkt-lautertal",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) **Ansprache-Idee:** „Damit Hausbesitzer aus Grebenau und den Ortsteilen bei der Suche nach einer neuen Wärmepumpe oder Badmodernisierung direkt auf Ihrer Website landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Alsfeld oder Lauterbach gehen.“",
-      "ts": "2026-10-29 20:36",
+      "text": "**WAS:** Die „Lautertaler Vesper-Kist’l“ ist ein wöchentliches Abo-Paket mit knackigem Saison-Gemüse, frischem Holzofenbrot, Odenwälder Käse und Hausmacher Wurst direkt von Höfen aus dem Tal. **für WEN:** Für beschäftigte Pendler und Familien im Lautertal, die Wert auf ehrliche Lebensmittel legen, aber unter der Woche keine Zeit für klapprige Hofladen-Runden",
+      "ts": "2026-10-30 00:23",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-grebenau",
+      "agent": "handwerk-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Allround-Grundstücks- und Haushaltsservice („Dorf-Kümmerer“), der älteren Eigenheimbesitzern in den sechs Ortsteilen von Grebenau Gartenpflege, Kleinreparaturen und Schwergut-Entsorgung anbietet. **WARUM HIER:** Das „Gründchen“ hat eine hohe Quote alternder Hausbesitzer mit großen Grundstücken, deren Kinder oft weggependelt sind, während",
-      "ts": "2026-10-29 20:36",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) **Ansprache-Idee:** „Wenn in Lautertal die Heizung ausfällt oder das Bad saniert werden soll, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Telefonnummer ganz oben steht und nicht die der Konkurrenz aus der Nachbarstadt.“",
+      "ts": "2026-10-30 00:23",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-lautertal",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Werkstattservice, der Vor-Ort-Wartungen und Notfall-Reparaturen auf Anruf direkt bei Einwohnern zu Hause oder an touristischen Stopps durchführt. **WARUM HIER:** Lautertal profitiert voll vom Radtourismus im Vogelsberg und einer steigenden E-Bike-Nutzung der älteren Bevölkerung, hat aber selbst keinen einzigen station",
+      "ts": "2026-10-30 00:23",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-antrifttal",
+      "agent": "senioren-grebenau",
       "via": "gemini",
-      "text": "**WAS:** Ein würdevoller, nachbarschaftlicher Fahr- und Begleitdienst, der ältere Mitmenschen direkt an ihrer Haustür abholt und sie geduldig bei Einkäufen, Arztbesuchen oder alltäglichen Besorgungen unterstützt. **WARUM HIER:** Da die fünf Ortsteile von Antrifttal weit verstreut liegen und kaum noch eigene Geschäfte bieten, sichert dieser Dienst die eigenst",
-      "ts": "2026-10-29 20:36",
+      "text": "**WAS:** Ein dorfübergreifender Begleit- und Fahrdienst, der Senioren nicht nur sicher zu Arztterminen oder Einkäufen bringt, sondern auch verlässlich beim Tragen hilft und Zeit für ein persönliches Gespräch mitbringt. **WARUM HIER:** Da die sieben Ortsteile von Grebenau weit verstreut liegen und der öffentliche Nahverkehr die Wege zu Fachärzten oder Supermä",
+      "ts": "2026-10-30 00:22",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-antrifttal",
+      "agent": "tourismus-grebenau",
       "via": "gemini",
-      "text": "**WAS:** „Vulkan-Picknick & E-Bike-Runde“ – ein digitales Erlebnispaket inklusive E-Bike-Miete für einen Tag, einer GPS-Genussroute durch das malerische Antrifttal und einem prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten. **für WEN:** Dieses Angebot richtet sich an Naturgenießer, Paare und Erholungssuchende, die die sanft-hügelige Vul",
-      "ts": "2026-10-29 20:36",
+      "text": "**WAS:** Bei der geführten Dämmerungs-Fackelwanderung durch die Wälder des Grebenauer Gründchens lauschen Sie alten Vogelsberger Sagen und genießen anschließend eine herzhafte regionale Vesper am Lagerfeuer. **für WEN:** Das Erlebnis richtet sich an Familien, Paare und kleine Gruppen, die einen stimmungsvollen und entschleunigenden Abend in der Natur suchen.",
+      "ts": "2026-10-30 00:22",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-antrifttal",
+      "agent": "direkt-grebenau",
       "via": "gemini",
-      "text": "**WAS:** Die „Antrifttaler Feierabend-Kiste“ ist ein wöchentliches Frische-Abo mit ehrlichen Grundnahrungsmitteln – wie Hausmacher Wurst, Eiern, Kartoffeln und Holzofenbrot – gebündelt von verschiedenen Höfen aus den Ortsteilen. **für WEN:** Das Angebot richtet sich an Pendler und beschäftigte Familien aus Antrifttal und dem nahen Alsfeld, die regional einka",
-      "ts": "2026-10-29 20:36",
+      "text": "**WAS:** Eine wöchentliche „Gründchen-Feierabendbox“ im Abo mit frischen Eiern, Hausmacher Wurst, regionalem Käse, Holzofenbrot und Saison-Gemüse von Höfen rund um Grebenau. **FÜR WEN:** Für berufstätige Familien und Pendler aus der Region, die ehrliche Lebensmittel vom Nachbarn essen wollen, aber unter der Woche keine Zeit für Klappertouren von Hofladen zu ",
+      "ts": "2026-10-30 00:22",
       "age_min": 0
     }
   ]
