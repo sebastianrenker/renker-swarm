@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-30T18:22Z",
+  "updated": "2026-10-30T22:33Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Erlebe beim „Rhöner Sternen-Picknick“ eine geführte Nachtwanderung im nahegelegenen UNESCO-Sternenpark inklusive Teleskop-Blick in den Nachthimmel und einem Korb voller regionaler Bio-Delikatessen. **fuer WEN:** Ideal für Paare, kleine Freundesgruppen und Naturbegeisterte, die eine romantische und faszinierende Auszeit fernab des Stadtlichts suchen.",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Der „Rhön-Dorfbegleiter“ ist ein verlässlicher, kombinierter Fahr- und Einkaufsdienst, der Senioren aus den umliegenden Dörfern individuell zu Arztterminen nach Fulda bringt, Besorgungen erledigt oder sie bei Wocheneinkäufen persönlich begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen rund um Fulda ist der öffentliche Nahverkehr oft spär",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -985,18 +993,18 @@
       "name": "Vulkanregion-Tourismus — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe beim „Rhöner Sternen-Picknick“ eine geführte Nachtwanderung im nahegelegenen UNESCO-Sternenpark inklusive Teleskop-Blick in den Nachthimmel und einem Korb voller regionaler Bio-Delikatessen. **fuer WEN:**",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-fulda",
       "name": "Senioren-Alltagsdienste — Fulda",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Rhön-Dorfbegleiter“ ist ein verlässlicher, kombinierter Fahr- und Einkaufsdienst, der Senioren aus den umliegenden Dörfern individuell zu Arztterminen nach Fulda bringt, Besorgungen erledigt oder sie bei Wo",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-petersberg",
@@ -1495,8 +1503,25 @@
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 12,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-fulda",
+      "via": "gemini",
+      "text": "**WAS:** Der „Rhön-Dorfbegleiter“ ist ein verlässlicher, kombinierter Fahr- und Einkaufsdienst, der Senioren aus den umliegenden Dörfern individuell zu Arztterminen nach Fulda bringt, Besorgungen erledigt oder sie bei Wocheneinkäufen persönlich begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen rund um Fulda ist der öffentliche Nahverkehr oft spär",
+      "ts": "2026-10-30 22:33",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-fulda",
+      "via": "gemini",
+      "text": "**WAS:** Erlebe beim „Rhöner Sternen-Picknick“ eine geführte Nachtwanderung im nahegelegenen UNESCO-Sternenpark inklusive Teleskop-Blick in den Nachthimmel und einem Korb voller regionaler Bio-Delikatessen. **fuer WEN:** Ideal für Paare, kleine Freundesgruppen und Naturbegeisterte, die eine romantische und faszinierende Auszeit fernab des Stadtlichts suchen.",
+      "ts": "2026-10-30 22:32",
+      "age_min": 0
+    }
+  ]
 }
