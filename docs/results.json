@@ -1,54 +1,48 @@
 {
-  "updated": "2026-10-30 06:09 UTC",
+  "updated": "2026-10-30 12:50 UTC",
   "total_results": 2,
-  "total_depts": 2,
+  "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-lautertal",
-      "title": "Senioren-Alltagsdienste — Lautertal  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "direkt-fulda",
+      "title": "Direktvermarktung — Fulda  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nDer „Lautertaler Dorf-Begleiter“ ist ein verlässlicher, persönlicher Mobil- und Alltagsdienst, der Seniorinnen und Senioren individuell bei Einkäufen, Arztbesuchen und beschwerlichen Besorgungen unterstützt.\n\n**WARUM HIER:** \nIn den zwölf weit verstreuten und oft steilen Ortsteilen des Lautertals fehlen in den kleineren Dörfern direkte Nahversorger, was die Selbstständigkeit ohne eigenes Fahrzeug stark einschränkt.\n\n**ERSTER SCHRITT:** \nIn Abstimmung mit dem Seniorenbeirat Lautertal und den örtlichen Ortsvorstehern werden vertrauenswürdige Ehrenamtliche aus den jeweiligen Dörfern gewonnen und für ihren Einsatz geschult.",
-      "ts": "2026-10-30 06:09",
+      "text": "**WAS:** Die „Rhöner Sonntags-Kiste“, ein wöchentliches Liefer-Abo mit ehrlichen Hofprodukten wie frischem Bauernbrot, Landeiern, Rhöner Käse, Ahler Wurscht und regionalem Apfelsaft direkt an die Haustür.\n\n**für WEN:** Für beschäftigte Familien und Qualitätsbewusste im Raum Fulda, die samstags ohne Marktstress echten, regionalen Geschmack auf dem Frühstückstisch haben wollen.\n\n**ERSTER SCHRITT:** Drei Höfe aus dem Landkreis als Partner für die fehlenden Produkte gewinnen und über Aushänge sowie lokale Facebook-Gruppen die ersten 20 Test-Abonnenten für einen vierwöchigen Probelauf suchen.",
+      "ts": "2026-10-30 12:50",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-lautertal",
-      "title": "Vulkanregion-Tourismus — Lautertal  ·  Chancen",
+      "agent": "handwerk-fulda",
+      "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Er",
-      "ts": "2026-10-30 06:09",
+      "text": "**Betriebstyp:** \nEin etablierter **SHK-Betrieb (Sanitär, Heizung, Klima)** in Fulda, der sich auf Badsanierungen und moderne Heizsysteme (wie Wärmepumpen) spezialisiert hat.\n\n**Ansprache-Idee:** \n„Hallo Herr [Name], wenn Hausbesitzer aus Fulda und der Rhön aktuell nach 'Badsanierung' oder 'Neue Heizung' googeln, finden sie sofort Ihre Mitbewerber – wollen wir dafür sorgen, dass die lukrativen Privatkunden-Anfragen wieder direkt auf Ihrem Tisch landen?“",
+      "ts": "2026-10-30 12:50",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-lautertal",
-          "title": "Vulkanregion-Tourismus — Lautertal  ·  Chancen",
+          "agent": "direkt-fulda",
+          "title": "Direktvermarktung — Fulda  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Er",
-          "ts": "2026-10-30 06:09",
+          "text": "**WAS:** Die „Rhöner Sonntags-Kiste“, ein wöchentliches Liefer-Abo mit ehrlichen Hofprodukten wie frischem Bauernbrot, Landeiern, Rhöner Käse, Ahler Wurscht und regionalem Apfelsaft direkt an die Haustür.\n\n**für WEN:** Für beschäftigte Familien und Qualitätsbewusste im Raum Fulda, die samstags ohne Marktstress echten, regionalen Geschmack auf dem Frühstückstisch haben wollen.\n\n**ERSTER SCHRITT:** Drei Höfe aus dem Landkreis als Partner für die fehlenden Produkte gewinnen und über Aushänge sowie lokale Facebook-Gruppen die ersten 20 Test-Abonnenten für einen vierwöchigen Probelauf suchen.",
+          "ts": "2026-10-30 12:50",
           "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
+        },
         {
-          "dept": "Kunden",
-          "agent": "senioren-lautertal",
-          "title": "Senioren-Alltagsdienste — Lautertal  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "handwerk-fulda",
+          "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nDer „Lautertaler Dorf-Begleiter“ ist ein verlässlicher, persönlicher Mobil- und Alltagsdienst, der Seniorinnen und Senioren individuell bei Einkäufen, Arztbesuchen und beschwerlichen Besorgungen unterstützt.\n\n**WARUM HIER:** \nIn den zwölf weit verstreuten und oft steilen Ortsteilen des Lautertals fehlen in den kleineren Dörfern direkte Nahversorger, was die Selbstständigkeit ohne eigenes Fahrzeug stark einschränkt.\n\n**ERSTER SCHRITT:** \nIn Abstimmung mit dem Seniorenbeirat Lautertal und den örtlichen Ortsvorstehern werden vertrauenswürdige Ehrenamtliche aus den jeweiligen Dörfern gewonnen und für ihren Einsatz geschult.",
-          "ts": "2026-10-30 06:09",
+          "text": "**Betriebstyp:** \nEin etablierter **SHK-Betrieb (Sanitär, Heizung, Klima)** in Fulda, der sich auf Badsanierungen und moderne Heizsysteme (wie Wärmepumpen) spezialisiert hat.\n\n**Ansprache-Idee:** \n„Hallo Herr [Name], wenn Hausbesitzer aus Fulda und der Rhön aktuell nach 'Badsanierung' oder 'Neue Heizung' googeln, finden sie sofort Ihre Mitbewerber – wollen wir dafür sorgen, dass die lukrativen Privatkunden-Anfragen wieder direkt auf Ihrem Tisch landen?“",
+          "ts": "2026-10-30 12:50",
           "age_min": 0
         }
       ]
