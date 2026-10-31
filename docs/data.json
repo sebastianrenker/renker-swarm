@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-31T14:13Z",
+  "updated": "2026-10-31T18:35Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Eine wöchentliche „Neuhöfer Feierabend-Box“ mit allen Zutaten und einem einfachen Rezept für ein schnelles, regionales Abendessen direkt vom Hof. **fuer WEN:** Für berufstätige Pendler und Familien aus Neuhof und Umgebung, die abends frisch und lokal kochen wollen, ohne lange einzukaufen. **ERSTER SCHRITT:** Mit zwei Nachbarhöfen die Produktauswahl ",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst („Dorf-Paten“), der Seniorinnen und Senioren direkt an der Haustür abholt, sie auf Augenhöhe zum Einkaufen oder zum Arzt begleitet und ihnen bei den täglichen Wegen unterstützend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg sind die Wege ins Zentrum ohne eigenes Auto oft",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1043,18 +1043,18 @@
       "name": "Senioren-Alltagsdienste — Petersberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst („Dorf-Paten“), der Seniorinnen und Senioren direkt an der Haustür abholt, sie auf Augenhöhe zum Einkaufen oder zum Arzt begleitet und ihnen bei den täglichen Wegen unte",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-kuenzell",
       "name": "Chancen-Scout — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobiler Express-Pflegeservice für Terrassen, Photovoltaik-Anlagen und Außenbereiche, der Dienstleistungen gezielt nach Feierabend und am Wochenende für beschäftigte Eigenheimbesitzer anbietet. **WARUM HIER:** Kü",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-kuenzell",
@@ -1070,18 +1070,18 @@
       "name": "Direktvermarktung — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine 24/7-Abholstation in Künzell für vorbestellte „Rhön-Feierabend-Kisten“, gefüllt mit frischem Saison-Gemüse, Künzeller Hof-Eiern, echtem Bauernbrot und regionalen Wurst- oder Käsespezialitäten. **für WEN:** ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-kuenzell",
       "name": "Vulkanregion-Tourismus — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei dieser geführten Alpaka-Wanderung rund um den Künzeller Greizzberg genießt Ihr entspannte Naturmomente und ein Picknick mit regionalen Rhöner Spezialitäten. **Für WEN:** Das Erlebnis eignet sich ideal für Pa",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-kuenzell",
@@ -1097,27 +1097,27 @@
       "name": "Chancen-Scout — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein abonnementsbasierter Fresh-Meal-Prep-Lieferservice für gesunde, verzehrfertige Schicht- und Pendler-Mahlzeiten. **WARUM HIER:** Neuhof bietet durch den Rund-um-die-Uhr-Schichtbetrieb beim Kaliverk K+S und di",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-neuhof",
       "name": "Handwerk-Sichtbarkeit — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer hier in Neuhof und Umgebung nach einer neuen Heizung oder Badrenovierung googeln, finden sie aktuell Ihre Konkurrenz aus Fu",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-neuhof",
       "name": "Direktvermarktung — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Neuhöfer Feierabend-Box“ mit allen Zutaten und einem einfachen Rezept für ein schnelles, regionales Abendessen direkt vom Hof. **fuer WEN:** Für berufstätige Pendler und Familien aus Neuhof un",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-neuhof",
@@ -1499,16 +1499,56 @@
     }
   ],
   "budget": {
-    "used": 7,
+    "used": 13,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-petersberg",
+      "dept": "Chancen",
+      "agent": "direkt-neuhof",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst („Dorf-Paten“), der Seniorinnen und Senioren direkt an der Haustür abholt, sie auf Augenhöhe zum Einkaufen oder zum Arzt begleitet und ihnen bei den täglichen Wegen unterstützend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg sind die Wege ins Zentrum ohne eigenes Auto oft",
-      "ts": "2026-10-31 14:13",
+      "text": "**WAS:** Eine wöchentliche „Neuhöfer Feierabend-Box“ mit allen Zutaten und einem einfachen Rezept für ein schnelles, regionales Abendessen direkt vom Hof. **fuer WEN:** Für berufstätige Pendler und Familien aus Neuhof und Umgebung, die abends frisch und lokal kochen wollen, ohne lange einzukaufen. **ERSTER SCHRITT:** Mit zwei Nachbarhöfen die Produktauswahl ",
+      "ts": "2026-10-31 18:35",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-neuhof",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer hier in Neuhof und Umgebung nach einer neuen Heizung oder Badrenovierung googeln, finden sie aktuell Ihre Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der direkten Nachbarschaft wieder bei Ihnen landen.“",
+      "ts": "2026-10-31 18:35",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Ein abonnementsbasierter Fresh-Meal-Prep-Lieferservice für gesunde, verzehrfertige Schicht- und Pendler-Mahlzeiten. **WARUM HIER:** Neuhof bietet durch den Rund-um-die-Uhr-Schichtbetrieb beim Kaliverk K+S und die extrem hohe Dichte an A66-/Bahn-Pendlern nach Frankfurt eine perfekte Zielgruppe mit Zeitmangel und Bedarf an nahrhafter Verpflegung. **ER",
+      "ts": "2026-10-31 18:35",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-kuenzell",
+      "via": "gemini",
+      "text": "**WAS:** Bei dieser geführten Alpaka-Wanderung rund um den Künzeller Greizzberg genießt Ihr entspannte Naturmomente und ein Picknick mit regionalen Rhöner Spezialitäten. **Für WEN:** Das Erlebnis eignet sich ideal für Paare, Familien und kleine Gruppen, die eine entschleunigende Auszeit in der Natur suchen. **ERSTER SCHRITT:** Wähle deinen Wunschtermin im On",
+      "ts": "2026-10-31 18:35",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-kuenzell",
+      "via": "gemini",
+      "text": "**WAS:** Eine 24/7-Abholstation in Künzell für vorbestellte „Rhön-Feierabend-Kisten“, gefüllt mit frischem Saison-Gemüse, Künzeller Hof-Eiern, echtem Bauernbrot und regionalen Wurst- oder Käsespezialitäten. **für WEN:** Für berufstätige Pendler und Familien aus Künzell und dem Fuldauer Umland, die nach Feierabend ohne Supermarkt-Stress ehrliche Lebensmittel ",
+      "ts": "2026-10-31 18:35",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-kuenzell",
+      "via": "gemini",
+      "text": "**WAS:** Mobiler Express-Pflegeservice für Terrassen, Photovoltaik-Anlagen und Außenbereiche, der Dienstleistungen gezielt nach Feierabend und am Wochenende für beschäftigte Eigenheimbesitzer anbietet. **WARUM HIER:** Künzell weist durch die direkte Nähe zu Fulda eine enorm hohe Dichte an kaufkräftigen Pendler- und Doppelverdiener-Haushalten in Wohngebieten ",
+      "ts": "2026-10-31 18:35",
       "age_min": 0
     }
   ]
