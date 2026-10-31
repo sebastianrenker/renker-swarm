@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T18:35Z",
+  "updated": "2026-10-31T21:52Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Eine wöchentliche „Neuhöfer Feierabend-Box“ mit allen Zutaten und einem einfachen Rezept für ein schnelles, regionales Abendessen direkt vom Hof. **fuer WEN:** Für berufstätige Pendler und Familien aus Neuhof und Umgebung, die abends frisch und lokal kochen wollen, ohne lange einzukaufen. **ERSTER SCHRITT:** Mit zwei Nachbarhöfen die Produktauswahl ",
+        "text": "**WAS:** Bei diesem dreistündigen Abend-Erlebnis wandert ihr geführt durch den nächtlichen Haselgrund bei Hünfeld und genießt mitten im Sternenpark Rhön ein regionales Bio-Picknick unter dem Sternenhimmel. **fuer WEN:** Das Angebot richtet sich an Paare und Erholungssuchende, die eine romantische Auszeit in der Natur suchen und die faszinierende Dunkelheit d",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS** Ein verlässlicher Begleit- und Fahrdienst („Dorftaxi“), der ältere Menschen würdevoll und ohne Zeitdruck zu Arztterminen, Besorgungen oder Dorfveranstaltungen bringt und sie auf Wunsch an der Haustür unterstützt. **WARUM HIER** In den weit verstreuten Ortsteilen von Neuhof fehlen oft Busverbindungen und Nahversorger, sodass eigene Mobilität die Grund",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1052,9 +1056,9 @@
       "name": "Chancen-Scout — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobiler Express-Pflegeservice für Terrassen, Photovoltaik-Anlagen und Außenbereiche, der Dienstleistungen gezielt nach Feierabend und am Wochenende für beschäftigte Eigenheimbesitzer anbietet. **WARUM HIER:** Kü",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-kuenzell",
@@ -1070,18 +1074,18 @@
       "name": "Direktvermarktung — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine 24/7-Abholstation in Künzell für vorbestellte „Rhön-Feierabend-Kisten“, gefüllt mit frischem Saison-Gemüse, Künzeller Hof-Eiern, echtem Bauernbrot und regionalen Wurst- oder Käsespezialitäten. **für WEN:** ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-kuenzell",
       "name": "Vulkanregion-Tourismus — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei dieser geführten Alpaka-Wanderung rund um den Künzeller Greizzberg genießt Ihr entspannte Naturmomente und ein Picknick mit regionalen Rhöner Spezialitäten. **Für WEN:** Das Erlebnis eignet sich ideal für Pa",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-kuenzell",
@@ -1097,81 +1101,81 @@
       "name": "Chancen-Scout — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein abonnementsbasierter Fresh-Meal-Prep-Lieferservice für gesunde, verzehrfertige Schicht- und Pendler-Mahlzeiten. **WARUM HIER:** Neuhof bietet durch den Rund-um-die-Uhr-Schichtbetrieb beim Kaliverk K+S und di",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-neuhof",
       "name": "Handwerk-Sichtbarkeit — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer hier in Neuhof und Umgebung nach einer neuen Heizung oder Badrenovierung googeln, finden sie aktuell Ihre Konkurrenz aus Fu",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-neuhof",
       "name": "Direktvermarktung — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Neuhöfer Feierabend-Box“ mit allen Zutaten und einem einfachen Rezept für ein schnelles, regionales Abendessen direkt vom Hof. **fuer WEN:** Für berufstätige Pendler und Familien aus Neuhof un",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-neuhof",
       "name": "Vulkanregion-Tourismus — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Der Kalimandscharo-Picknick-Trail“ – Eine geführte E-Bike-Tour rund um Neuhofs imposanten weißen Kaliberg inklusive Stopp an den besten Aussichtspunkten und einer regionalen Rhöner Brotzeitkiste. **fuer WEN:** ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-neuhof",
       "name": "Senioren-Alltagsdienste — Neuhof",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein verlässlicher Begleit- und Fahrdienst („Dorftaxi“), der ältere Menschen würdevoll und ohne Zeitdruck zu Arztterminen, Besorgungen oder Dorfveranstaltungen bringt und sie auf Wunsch an der Haustür unterstützt.",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-huenfeld",
       "name": "Chancen-Scout — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein Full-Service-Betreuungsservice für private Vermieter von Monteur- und Handwerkerunterkünften (Inserate, digitale Schlüsselübergabe, Reinigungsmanagement). **WARUM HIER:** Die massive Präsenz von Industrie un",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-huenfeld",
       "name": "Handwerk-Sichtbarkeit — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** in Hünfeld. **Ansprache-Idee:** „Wenn Eigentümer in Hünfeld ihr Bad sanieren oder eine neue Heizung brauchen, suchen sie auf dem Smartphone – sorgen wir dafür",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-huenfeld",
       "name": "Direktvermarktung — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Hünfelder Feierabend-Kiste“ – eine wöchentlich wechselnde Abo-Box mit saisonalem Gemüse, Eiern, frischem Bauernbrot und Rhöner Spezialitäten, die donnerstags zentral in Hünfeld kontaktlos abgeholt werden ka",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-huenfeld",
       "name": "Vulkanregion-Tourismus — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei diesem dreistündigen Abend-Erlebnis wandert ihr geführt durch den nächtlichen Haselgrund bei Hünfeld und genießt mitten im Sternenpark Rhön ein regionales Bio-Picknick unter dem Sternenhimmel. **fuer WEN:** ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-huenfeld",
@@ -1499,56 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 13,
+    "used": 19,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "direkt-neuhof",
+      "agent": "tourismus-huenfeld",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Neuhöfer Feierabend-Box“ mit allen Zutaten und einem einfachen Rezept für ein schnelles, regionales Abendessen direkt vom Hof. **fuer WEN:** Für berufstätige Pendler und Familien aus Neuhof und Umgebung, die abends frisch und lokal kochen wollen, ohne lange einzukaufen. **ERSTER SCHRITT:** Mit zwei Nachbarhöfen die Produktauswahl ",
-      "ts": "2026-10-31 18:35",
+      "text": "**WAS:** Bei diesem dreistündigen Abend-Erlebnis wandert ihr geführt durch den nächtlichen Haselgrund bei Hünfeld und genießt mitten im Sternenpark Rhön ein regionales Bio-Picknick unter dem Sternenhimmel. **fuer WEN:** Das Angebot richtet sich an Paare und Erholungssuchende, die eine romantische Auszeit in der Natur suchen und die faszinierende Dunkelheit d",
+      "ts": "2026-10-31 21:52",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-neuhof",
+      "agent": "direkt-huenfeld",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer hier in Neuhof und Umgebung nach einer neuen Heizung oder Badrenovierung googeln, finden sie aktuell Ihre Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der direkten Nachbarschaft wieder bei Ihnen landen.“",
-      "ts": "2026-10-31 18:35",
+      "text": "**WAS:** Die „Hünfelder Feierabend-Kiste“ – eine wöchentlich wechselnde Abo-Box mit saisonalem Gemüse, Eiern, frischem Bauernbrot und Rhöner Spezialitäten, die donnerstags zentral in Hünfeld kontaktlos abgeholt werden kann. **FÜR WEN:** Für berufstätige Pendler und Familien aus dem Hünfelder Land, die sich ohne Aufwand ehrlich und regional ernähren wollen, s",
+      "ts": "2026-10-31 21:52",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-neuhof",
+      "agent": "handwerk-huenfeld",
       "via": "gemini",
-      "text": "**WAS:** Ein abonnementsbasierter Fresh-Meal-Prep-Lieferservice für gesunde, verzehrfertige Schicht- und Pendler-Mahlzeiten. **WARUM HIER:** Neuhof bietet durch den Rund-um-die-Uhr-Schichtbetrieb beim Kaliverk K+S und die extrem hohe Dichte an A66-/Bahn-Pendlern nach Frankfurt eine perfekte Zielgruppe mit Zeitmangel und Bedarf an nahrhafter Verpflegung. **ER",
-      "ts": "2026-10-31 18:35",
+      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** in Hünfeld. **Ansprache-Idee:** „Wenn Eigentümer in Hünfeld ihr Bad sanieren oder eine neue Heizung brauchen, suchen sie auf dem Smartphone – sorgen wir dafür, dass sie direkt bei Ihnen anrufen und nicht beim Großbetrieb aus Fulda.“",
+      "ts": "2026-10-31 21:52",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-kuenzell",
+      "agent": "chancen-huenfeld",
       "via": "gemini",
-      "text": "**WAS:** Bei dieser geführten Alpaka-Wanderung rund um den Künzeller Greizzberg genießt Ihr entspannte Naturmomente und ein Picknick mit regionalen Rhöner Spezialitäten. **Für WEN:** Das Erlebnis eignet sich ideal für Paare, Familien und kleine Gruppen, die eine entschleunigende Auszeit in der Natur suchen. **ERSTER SCHRITT:** Wähle deinen Wunschtermin im On",
-      "ts": "2026-10-31 18:35",
+      "text": "**WAS:** Ein Full-Service-Betreuungsservice für private Vermieter von Monteur- und Handwerkerunterkünften (Inserate, digitale Schlüsselübergabe, Reinigungsmanagement). **WARUM HIER:** Die massive Präsenz von Industrie und Logistik (z. B. Hünfeld-Nord und Michelsrombach) sorgt für dauerhafte Nachfrage nach Flex-Unterkünften, während viele lokale Immobilieneig",
+      "ts": "2026-10-31 21:52",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-neuhof",
+      "via": "gemini",
+      "text": "**WAS** Ein verlässlicher Begleit- und Fahrdienst („Dorftaxi“), der ältere Menschen würdevoll und ohne Zeitdruck zu Arztterminen, Besorgungen oder Dorfveranstaltungen bringt und sie auf Wunsch an der Haustür unterstützt. **WARUM HIER** In den weit verstreuten Ortsteilen von Neuhof fehlen oft Busverbindungen und Nahversorger, sodass eigene Mobilität die Grund",
+      "ts": "2026-10-31 21:51",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-kuenzell",
+      "agent": "tourismus-neuhof",
       "via": "gemini",
-      "text": "**WAS:** Eine 24/7-Abholstation in Künzell für vorbestellte „Rhön-Feierabend-Kisten“, gefüllt mit frischem Saison-Gemüse, Künzeller Hof-Eiern, echtem Bauernbrot und regionalen Wurst- oder Käsespezialitäten. **für WEN:** Für berufstätige Pendler und Familien aus Künzell und dem Fuldauer Umland, die nach Feierabend ohne Supermarkt-Stress ehrliche Lebensmittel ",
-      "ts": "2026-10-31 18:35",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** Mobiler Express-Pflegeservice für Terrassen, Photovoltaik-Anlagen und Außenbereiche, der Dienstleistungen gezielt nach Feierabend und am Wochenende für beschäftigte Eigenheimbesitzer anbietet. **WARUM HIER:** Künzell weist durch die direkte Nähe zu Fulda eine enorm hohe Dichte an kaufkräftigen Pendler- und Doppelverdiener-Haushalten in Wohngebieten ",
-      "ts": "2026-10-31 18:35",
+      "text": "**WAS:** „Der Kalimandscharo-Picknick-Trail“ – Eine geführte E-Bike-Tour rund um Neuhofs imposanten weißen Kaliberg inklusive Stopp an den besten Aussichtspunkten und einer regionalen Rhöner Brotzeitkiste. **fuer WEN:** Dieses Paket ist perfekt für Genuss-Radler, Paare und kleine Gruppen, die faszinierende Industriekultur mit Natur und lokalen Spezialitäten ",
+      "ts": "2026-10-31 21:51",
       "age_min": 0
     }
   ]
