@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-31T07:55Z",
+  "updated": "2026-10-31T14:13Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Künzell (mit Fokus auf Badsanierungen und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer in Künzell nach ‚Badsanierung‘ oder ‚Wärmepumpe‘ googeln, landen sie aktuell noch bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Ihre hervorragende Arbeit direkt bei d",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -32,7 +28,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein persönlicher Begleit- und Fahrservice („Dorf-Mobil Künzell“), der ältere Menschen direkt an der Haustür abholt, sie würdevoll bei Einkäufen, Arztbesuchen oder Friedhofsgängen unterstützt und Raum für echte Begegnung schafft. **WARUM HIER:** Da die Gemeinde Künzell aus acht teils ländlich verstreuten Ortsteilen wie Dietershausen oder Dirlos beste",
+        "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst („Dorf-Paten“), der Seniorinnen und Senioren direkt an der Haustür abholt, sie auf Augenhöhe zum Einkaufen oder zum Arzt begleitet und ihnen bei den täglichen Wegen unterstützend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg sind die Wege ins Zentrum ohne eigenes Auto oft",
         "age_min": 0
       }
     },
@@ -1029,27 +1025,27 @@
       "name": "Direktvermarktung — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Idee: Die „Petersberger Rhön-Vesper-Box“** * **WAS:** Ein 14-tägiges Abo mit bodenständigen Brotzeit-Spezialitäten – von frischem Bauernbrot über Rhöner Käse und Wurst bis zu saisonalem Knabber-Gemüse – direkt zusammen",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-petersberg",
       "name": "Vulkanregion-Tourismus — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Petersberger Panorama-Picknick & Rhöner Sternenblick“ umfasst eine entspannte Abendwanderung zur historischen Propstei Petersberg mit einem prall gefüllten Rucksack voller regionaler Rhön-Spezialitäten und ansc",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-petersberg",
       "name": "Senioren-Alltagsdienste — Petersberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst („Dorf-Paten“), der Seniorinnen und Senioren direkt an der Haustür abholt, sie auf Augenhöhe zum Einkaufen oder zum Arzt begleitet und ihnen bei den täglichen Wegen unte",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-kuenzell",
@@ -1065,9 +1061,9 @@
       "name": "Handwerk-Sichtbarkeit — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Künzell (mit Fokus auf Badsanierungen und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer in Künzell nach ‚Badsanierung‘ oder ‚Wär",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-kuenzell",
@@ -1092,9 +1088,9 @@
       "name": "Senioren-Alltagsdienste — Kuenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein persönlicher Begleit- und Fahrservice („Dorf-Mobil Künzell“), der ältere Menschen direkt an der Haustür abholt, sie würdevoll bei Einkäufen, Arztbesuchen oder Friedhofsgängen unterstützt und Raum für echte B",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-neuhof",
@@ -1503,41 +1499,17 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 7,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Kunden",
-      "agent": "senioren-kuenzell",
+      "agent": "senioren-petersberg",
       "via": "gemini",
-      "text": "**WAS:** Ein persönlicher Begleit- und Fahrservice („Dorf-Mobil Künzell“), der ältere Menschen direkt an der Haustür abholt, sie würdevoll bei Einkäufen, Arztbesuchen oder Friedhofsgängen unterstützt und Raum für echte Begegnung schafft. **WARUM HIER:** Da die Gemeinde Künzell aus acht teils ländlich verstreuten Ortsteilen wie Dietershausen oder Dirlos beste",
-      "ts": "2026-10-31 07:55",
+      "text": "**WAS:** Ein mobiler Besorgungs- und Begleitdienst („Dorf-Paten“), der Seniorinnen und Senioren direkt an der Haustür abholt, sie auf Augenhöhe zum Einkaufen oder zum Arzt begleitet und ihnen bei den täglichen Wegen unterstützend zur Seite steht. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg sind die Wege ins Zentrum ohne eigenes Auto oft",
+      "ts": "2026-10-31 14:13",
       "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-kuenzell",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Künzell (mit Fokus auf Badsanierungen und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer in Künzell nach ‚Badsanierung‘ oder ‚Wärmepumpe‘ googeln, landen sie aktuell noch bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Ihre hervorragende Arbeit direkt bei d",
-      "ts": "2026-10-31 07:55",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-petersberg",
-      "via": "gemini",
-      "text": "**WAS:** „Petersberger Panorama-Picknick & Rhöner Sternenblick“ umfasst eine entspannte Abendwanderung zur historischen Propstei Petersberg mit einem prall gefüllten Rucksack voller regionaler Rhön-Spezialitäten und anschließender Himmelsbeobachtung. **fuer WEN:** Das Paket ist ideal für Paare, Genusswanderer und Auszeit-Suchende, die Natur, Kultur und kulin",
-      "ts": "2026-10-31 07:54",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-petersberg",
-      "via": "gemini",
-      "text": "**Idee: Die „Petersberger Rhön-Vesper-Box“** * **WAS:** Ein 14-tägiges Abo mit bodenständigen Brotzeit-Spezialitäten – von frischem Bauernbrot über Rhöner Käse und Wurst bis zu saisonalem Knabber-Gemüse – direkt zusammengestellt von Höfen aus Petersberg und der angrenzenden Rhön. * **FÜR WEN:** Für berufstätige Pendler und Familien im Raum Petersberg/Fulda, ",
-      "ts": "2026-10-31 07:54",
-      "age_min": 1
     }
   ]
 }
