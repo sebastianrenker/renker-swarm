@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-31T01:49Z",
+  "updated": "2026-10-31T07:55Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Wenn in Petersberg die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute direkt auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer ganz oben steht und die Aufträge nicht an die Konkurrenz aus Fulda gehen.“",
+        "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Künzell (mit Fokus auf Badsanierungen und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer in Künzell nach ‚Badsanierung‘ oder ‚Wärmepumpe‘ googeln, landen sie aktuell noch bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Ihre hervorragende Arbeit direkt bei d",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein persönlicher Begleit- und Fahrservice („Dorf-Mobil Künzell“), der ältere Menschen direkt an der Haustür abholt, sie würdevoll bei Einkäufen, Arztbesuchen oder Friedhofsgängen unterstützt und Raum für echte Begegnung schafft. **WARUM HIER:** Da die Gemeinde Künzell aus acht teils ländlich verstreuten Ortsteilen wie Dietershausen oder Dirlos beste",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1007,36 +1011,36 @@
       "name": "Chancen-Scout — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobiler Spezialdienst für die sanfte Reinigung und Ertrags-Inspektion von privaten Photovoltaik-Anlagen und Glas-Terrassendächern. **WARUM HIER:** Petersberg weist eine extrem hohe Dichte an wohlhabenden Eigenhe",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-petersberg",
       "name": "Handwerk-Sichtbarkeit — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Wenn in Petersberg die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute direkt auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ih",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-petersberg",
       "name": "Direktvermarktung — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Idee: Die „Petersberger Rhön-Vesper-Box“** * **WAS:** Ein 14-tägiges Abo mit bodenständigen Brotzeit-Spezialitäten – von frischem Bauernbrot über Rhöner Käse und Wurst bis zu saisonalem Knabber-Gemüse – direkt zusammen",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "tourismus-petersberg",
       "name": "Vulkanregion-Tourismus — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Petersberger Panorama-Picknick & Rhöner Sternenblick“ umfasst eine entspannte Abendwanderung zur historischen Propstei Petersberg mit einem prall gefüllten Rucksack voller regionaler Rhön-Spezialitäten und ansc",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-petersberg",
@@ -1061,9 +1065,9 @@
       "name": "Handwerk-Sichtbarkeit — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Künzell (mit Fokus auf Badsanierungen und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer in Künzell nach ‚Badsanierung‘ oder ‚Wär",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-kuenzell",
@@ -1088,9 +1092,9 @@
       "name": "Senioren-Alltagsdienste — Kuenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein persönlicher Begleit- und Fahrservice („Dorf-Mobil Künzell“), der ältere Menschen direkt an der Haustür abholt, sie würdevoll bei Einkäufen, Arztbesuchen oder Friedhofsgängen unterstützt und Raum für echte B",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-neuhof",
@@ -1499,25 +1503,41 @@
     }
   ],
   "budget": {
-    "used": 2,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-petersberg",
+      "dept": "Kunden",
+      "agent": "senioren-kuenzell",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Wenn in Petersberg die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute direkt auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer ganz oben steht und die Aufträge nicht an die Konkurrenz aus Fulda gehen.“",
-      "ts": "2026-10-31 01:48",
+      "text": "**WAS:** Ein persönlicher Begleit- und Fahrservice („Dorf-Mobil Künzell“), der ältere Menschen direkt an der Haustür abholt, sie würdevoll bei Einkäufen, Arztbesuchen oder Friedhofsgängen unterstützt und Raum für echte Begegnung schafft. **WARUM HIER:** Da die Gemeinde Künzell aus acht teils ländlich verstreuten Ortsteilen wie Dietershausen oder Dirlos beste",
+      "ts": "2026-10-31 07:55",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-petersberg",
+      "agent": "handwerk-kuenzell",
       "via": "gemini",
-      "text": "**WAS:** Mobiler Spezialdienst für die sanfte Reinigung und Ertrags-Inspektion von privaten Photovoltaik-Anlagen und Glas-Terrassendächern. **WARUM HIER:** Petersberg weist eine extrem hohe Dichte an wohlhabenden Eigenheimen mit in die Jahre gekommenen PV-Anlagen auf, während Fuldaer Großbetriebe diesen Kleinauftrags-Markt kaum flexibel bedienen. **ERSTER SC",
-      "ts": "2026-10-31 01:48",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Künzell (mit Fokus auf Badsanierungen und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer in Künzell nach ‚Badsanierung‘ oder ‚Wärmepumpe‘ googeln, landen sie aktuell noch bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Ihre hervorragende Arbeit direkt bei d",
+      "ts": "2026-10-31 07:55",
       "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-petersberg",
+      "via": "gemini",
+      "text": "**WAS:** „Petersberger Panorama-Picknick & Rhöner Sternenblick“ umfasst eine entspannte Abendwanderung zur historischen Propstei Petersberg mit einem prall gefüllten Rucksack voller regionaler Rhön-Spezialitäten und anschließender Himmelsbeobachtung. **fuer WEN:** Das Paket ist ideal für Paare, Genusswanderer und Auszeit-Suchende, die Natur, Kultur und kulin",
+      "ts": "2026-10-31 07:54",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-petersberg",
+      "via": "gemini",
+      "text": "**Idee: Die „Petersberger Rhön-Vesper-Box“** * **WAS:** Ein 14-tägiges Abo mit bodenständigen Brotzeit-Spezialitäten – von frischem Bauernbrot über Rhöner Käse und Wurst bis zu saisonalem Knabber-Gemüse – direkt zusammengestellt von Höfen aus Petersberg und der angrenzenden Rhön. * **FÜR WEN:** Für berufstätige Pendler und Familien im Raum Petersberg/Fulda, ",
+      "ts": "2026-10-31 07:54",
+      "age_min": 1
     }
   ]
 }

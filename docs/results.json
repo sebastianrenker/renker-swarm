@@ -1,48 +1,90 @@
 {
-  "updated": "2026-10-31 01:49 UTC",
-  "total_results": 2,
-  "total_depts": 1,
+  "updated": "2026-10-31 07:55 UTC",
+  "total_results": 4,
+  "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-petersberg",
-      "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-kuenzell",
+      "title": "Senioren-Alltagsdienste — Kuenzell  ·  Kunden",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee:** \n„Wenn in Petersberg die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute direkt auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer ganz oben steht und die Aufträge nicht an die Konkurrenz aus Fulda gehen.“",
-      "ts": "2026-10-31 01:48",
+      "text": "**WAS:** Ein persönlicher Begleit- und Fahrservice („Dorf-Mobil Künzell“), der ältere Menschen direkt an der Haustür abholt, sie würdevoll bei Einkäufen, Arztbesuchen oder Friedhofsgängen unterstützt und Raum für echte Begegnung schafft.\n\n**WARUM HIER:** Da die Gemeinde Künzell aus acht teils ländlich verstreuten Ortsteilen wie Dietershausen oder Dirlos besteht, ermöglicht dieser Dienst Seniorinnen und Senioren ein selbstbestimmtes Leben, ohne auf ein eigenes Auto oder beschwerliche Buswege ins Gemeindezentrum angewiesen zu sein.\n\n**ERSTER SCHRITT:** In Kooperation mit dem Seniorenbeirat Künzell und den jeweiligen Ortsvorstehern werden die konkreten Bedarfe in den Dörfern erfasst, um den Dienst gemeinsam mit engagierten Ehrenamtlichen vor Ort aufzubauen.",
+      "ts": "2026-10-31 07:55",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-petersberg",
-      "title": "Chancen-Scout — Petersberg  ·  Chancen",
+      "agent": "handwerk-kuenzell",
+      "title": "Handwerk-Sichtbarkeit — Kuenzell  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Mobiler Spezialdienst für die sanfte Reinigung und Ertrags-Inspektion von privaten Photovoltaik-Anlagen und Glas-Terrassendächern.\n\n**WARUM HIER:** Petersberg weist eine extrem hohe Dichte an wohlhabenden Eigenheimen mit in die Jahre gekommenen PV-Anlagen auf, während Fuldaer Großbetriebe diesen Kleinauftrags-Markt kaum flexibel bedienen.\n\n**ERSTER SCHRITT:** Kauf eines mobilen Reinstwasser-Reinigungssystems (unter 2.000 €) und gezielter Flyer-Einwurf in den Eigenheim-Siedlungen rund um den Rauschenberg.",
-      "ts": "2026-10-31 01:48",
+      "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbetrieb** in Künzell (mit Fokus auf Badsanierungen und Wärmepumpen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Eigenheimbesitzer in Künzell nach ‚Badsanierung‘ oder ‚Wärmepumpe‘ googeln, landen sie aktuell noch bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Ihre hervorragende Arbeit direkt bei den Nachbarn vor der Haustür ganz oben steht.“",
+      "ts": "2026-10-31 07:55",
       "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-petersberg",
+      "title": "Vulkanregion-Tourismus — Petersberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** „Petersberger Panorama-Picknick & Rhöner Sternenblick“ umfasst eine entspannte Abendwanderung zur historischen Propstei Petersberg mit einem prall gefüllten Rucksack voller regionaler Rhön-Spezialitäten und anschließender Himmelsbeobachtung.\n\n**fuer WEN:** Das Paket ist ideal für Paare, Genusswanderer und Auszeit-Suchende, die Natur, Kultur und kulinarischen Genuss mit Weitblick verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Kalender aus und sichere dir dein Genuss-Erlebnis mit wenigen Klicks.",
+      "ts": "2026-10-31 07:54",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-petersberg",
+      "title": "Direktvermarktung — Petersberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**Idee: Die „Petersberger Rhön-Vesper-Box“**\n\n* **WAS:** Ein 14-tägiges Abo mit bodenständigen Brotzeit-Spezialitäten – von frischem Bauernbrot über Rhöner Käse und Wurst bis zu saisonalem Knabber-Gemüse – direkt zusammengestellt von Höfen aus Petersberg und der angrenzenden Rhön.\n* **FÜR WEN:** Für berufstätige Pendler und Familien im Raum Petersberg/Fulda, die abends schnell was ehrliches Regionales auf dem Tisch haben wollen, aber keine Zeit für die Fahrt zu einzelnen Hofläden haben.\n* **ERSTER SCHRITT:** Drei passende Betriebe aus der Umgebung (Bäcker, Hofmetzger, Gemüsebauer) an einen Tisch holen, um den Inhalt und den Preis für ein erstes Test-Paket im kleinen Kreis zu vereinbaren.",
+      "ts": "2026-10-31 07:54",
+      "age_min": 1
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-petersberg",
-          "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
+          "agent": "handwerk-kuenzell",
+          "title": "Handwerk-Sichtbarkeit — Kuenzell  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee:** \n„Wenn in Petersberg die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute direkt auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer ganz oben steht und die Aufträge nicht an die Konkurrenz aus Fulda gehen.“",
-          "ts": "2026-10-31 01:48",
+          "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbetrieb** in Künzell (mit Fokus auf Badsanierungen und Wärmepumpen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Eigenheimbesitzer in Künzell nach ‚Badsanierung‘ oder ‚Wärmepumpe‘ googeln, landen sie aktuell noch bei Betrieben aus Fulda – lassen Sie uns dafür sorgen, dass Ihre hervorragende Arbeit direkt bei den Nachbarn vor der Haustür ganz oben steht.“",
+          "ts": "2026-10-31 07:55",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-petersberg",
-          "title": "Chancen-Scout — Petersberg  ·  Chancen",
+          "agent": "tourismus-petersberg",
+          "title": "Vulkanregion-Tourismus — Petersberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Mobiler Spezialdienst für die sanfte Reinigung und Ertrags-Inspektion von privaten Photovoltaik-Anlagen und Glas-Terrassendächern.\n\n**WARUM HIER:** Petersberg weist eine extrem hohe Dichte an wohlhabenden Eigenheimen mit in die Jahre gekommenen PV-Anlagen auf, während Fuldaer Großbetriebe diesen Kleinauftrags-Markt kaum flexibel bedienen.\n\n**ERSTER SCHRITT:** Kauf eines mobilen Reinstwasser-Reinigungssystems (unter 2.000 €) und gezielter Flyer-Einwurf in den Eigenheim-Siedlungen rund um den Rauschenberg.",
-          "ts": "2026-10-31 01:48",
+          "text": "**WAS:** „Petersberger Panorama-Picknick & Rhöner Sternenblick“ umfasst eine entspannte Abendwanderung zur historischen Propstei Petersberg mit einem prall gefüllten Rucksack voller regionaler Rhön-Spezialitäten und anschließender Himmelsbeobachtung.\n\n**fuer WEN:** Das Paket ist ideal für Paare, Genusswanderer und Auszeit-Suchende, die Natur, Kultur und kulinarischen Genuss mit Weitblick verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Kalender aus und sichere dir dein Genuss-Erlebnis mit wenigen Klicks.",
+          "ts": "2026-10-31 07:54",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-petersberg",
+          "title": "Direktvermarktung — Petersberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**Idee: Die „Petersberger Rhön-Vesper-Box“**\n\n* **WAS:** Ein 14-tägiges Abo mit bodenständigen Brotzeit-Spezialitäten – von frischem Bauernbrot über Rhöner Käse und Wurst bis zu saisonalem Knabber-Gemüse – direkt zusammengestellt von Höfen aus Petersberg und der angrenzenden Rhön.\n* **FÜR WEN:** Für berufstätige Pendler und Familien im Raum Petersberg/Fulda, die abends schnell was ehrliches Regionales auf dem Tisch haben wollen, aber keine Zeit für die Fahrt zu einzelnen Hofläden haben.\n* **ERSTER SCHRITT:** Drei passende Betriebe aus der Umgebung (Bäcker, Hofmetzger, Gemüsebauer) an einen Tisch holen, um den Inhalt und den Preis für ein erstes Test-Paket im kleinen Kreis zu vereinbaren.",
+          "ts": "2026-10-31 07:54",
+          "age_min": 1
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-kuenzell",
+          "title": "Senioren-Alltagsdienste — Kuenzell  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein persönlicher Begleit- und Fahrservice („Dorf-Mobil Künzell“), der ältere Menschen direkt an der Haustür abholt, sie würdevoll bei Einkäufen, Arztbesuchen oder Friedhofsgängen unterstützt und Raum für echte Begegnung schafft.\n\n**WARUM HIER:** Da die Gemeinde Künzell aus acht teils ländlich verstreuten Ortsteilen wie Dietershausen oder Dirlos besteht, ermöglicht dieser Dienst Seniorinnen und Senioren ein selbstbestimmtes Leben, ohne auf ein eigenes Auto oder beschwerliche Buswege ins Gemeindezentrum angewiesen zu sein.\n\n**ERSTER SCHRITT:** In Kooperation mit dem Seniorenbeirat Künzell und den jeweiligen Ortsvorstehern werden die konkreten Bedarfe in den Dörfern erfasst, um den Dienst gemeinsam mit engagierten Ehrenamtlichen vor Ort aufzubauen.",
+          "ts": "2026-10-31 07:55",
           "age_min": 0
         }
       ]
