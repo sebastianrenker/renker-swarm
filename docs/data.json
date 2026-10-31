@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:33Z",
+  "updated": "2026-10-31T01:49Z",
   "agents_total": 162,
   "worked": 2,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Erlebe beim „Rhöner Sternen-Picknick“ eine geführte Nachtwanderung im nahegelegenen UNESCO-Sternenpark inklusive Teleskop-Blick in den Nachthimmel und einem Korb voller regionaler Bio-Delikatessen. **fuer WEN:** Ideal für Paare, kleine Freundesgruppen und Naturbegeisterte, die eine romantische und faszinierende Auszeit fernab des Stadtlichts suchen.",
+        "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Wenn in Petersberg die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute direkt auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer ganz oben steht und die Aufträge nicht an die Konkurrenz aus Fulda gehen.“",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Der „Rhön-Dorfbegleiter“ ist ein verlässlicher, kombinierter Fahr- und Einkaufsdienst, der Senioren aus den umliegenden Dörfern individuell zu Arztterminen nach Fulda bringt, Besorgungen erledigt oder sie bei Wocheneinkäufen persönlich begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen rund um Fulda ist der öffentliche Nahverkehr oft spär",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -993,36 +989,36 @@
       "name": "Vulkanregion-Tourismus — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe beim „Rhöner Sternen-Picknick“ eine geführte Nachtwanderung im nahegelegenen UNESCO-Sternenpark inklusive Teleskop-Blick in den Nachthimmel und einem Korb voller regionaler Bio-Delikatessen. **fuer WEN:**",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-fulda",
       "name": "Senioren-Alltagsdienste — Fulda",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Rhön-Dorfbegleiter“ ist ein verlässlicher, kombinierter Fahr- und Einkaufsdienst, der Senioren aus den umliegenden Dörfern individuell zu Arztterminen nach Fulda bringt, Besorgungen erledigt oder sie bei Wo",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-petersberg",
       "name": "Chancen-Scout — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobiler Spezialdienst für die sanfte Reinigung und Ertrags-Inspektion von privaten Photovoltaik-Anlagen und Glas-Terrassendächern. **WARUM HIER:** Petersberg weist eine extrem hohe Dichte an wohlhabenden Eigenhe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-petersberg",
       "name": "Handwerk-Sichtbarkeit — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Wenn in Petersberg die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute direkt auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ih",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-petersberg",
@@ -1503,24 +1499,24 @@
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 2,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-fulda",
+      "dept": "Chancen",
+      "agent": "handwerk-petersberg",
       "via": "gemini",
-      "text": "**WAS:** Der „Rhön-Dorfbegleiter“ ist ein verlässlicher, kombinierter Fahr- und Einkaufsdienst, der Senioren aus den umliegenden Dörfern individuell zu Arztterminen nach Fulda bringt, Besorgungen erledigt oder sie bei Wocheneinkäufen persönlich begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen rund um Fulda ist der öffentliche Nahverkehr oft spär",
-      "ts": "2026-10-30 22:33",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer **Ansprache-Idee:** „Wenn in Petersberg die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute direkt auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer ganz oben steht und die Aufträge nicht an die Konkurrenz aus Fulda gehen.“",
+      "ts": "2026-10-31 01:48",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-fulda",
+      "agent": "chancen-petersberg",
       "via": "gemini",
-      "text": "**WAS:** Erlebe beim „Rhöner Sternen-Picknick“ eine geführte Nachtwanderung im nahegelegenen UNESCO-Sternenpark inklusive Teleskop-Blick in den Nachthimmel und einem Korb voller regionaler Bio-Delikatessen. **fuer WEN:** Ideal für Paare, kleine Freundesgruppen und Naturbegeisterte, die eine romantische und faszinierende Auszeit fernab des Stadtlichts suchen.",
-      "ts": "2026-10-30 22:32",
+      "text": "**WAS:** Mobiler Spezialdienst für die sanfte Reinigung und Ertrags-Inspektion von privaten Photovoltaik-Anlagen und Glas-Terrassendächern. **WARUM HIER:** Petersberg weist eine extrem hohe Dichte an wohlhabenden Eigenheimen mit in die Jahre gekommenen PV-Anlagen auf, während Fuldaer Großbetriebe diesen Kleinauftrags-Markt kaum flexibel bedienen. **ERSTER SC",
+      "ts": "2026-10-31 01:48",
       "age_min": 0
     }
   ]

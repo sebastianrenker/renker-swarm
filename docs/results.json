@@ -1,54 +1,48 @@
 {
-  "updated": "2026-10-30 22:33 UTC",
+  "updated": "2026-10-31 01:49 UTC",
   "total_results": 2,
-  "total_depts": 2,
+  "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-fulda",
-      "title": "Senioren-Alltagsdienste — Fulda  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "handwerk-petersberg",
+      "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nDer „Rhön-Dorfbegleiter“ ist ein verlässlicher, kombinierter Fahr- und Einkaufsdienst, der Senioren aus den umliegenden Dörfern individuell zu Arztterminen nach Fulda bringt, Besorgungen erledigt oder sie bei Wocheneinkäufen persönlich begleitet.\n\n**WARUM HIER:** \nIn den weit verstreuten Ortsteilen rund um Fulda ist der öffentliche Nahverkehr oft spärlich, weshalb ältere Menschen eine persönliche und würdevolle Unterstützung benötigen, um ohne eigenes Auto selbstbestimmt in ihrer Heimat wohnen zu bleiben.\n\n**ERSTER SCHRITT:** \nEin Gespräch mit den Ortsbeiräten zweier ausgewählter Pilotdörfer führen, um den genauen Bedarf der älteren Bewohner zu erfassen und hilfsbereite Menschen aus der Region als Fahrer zu gewinnen.",
-      "ts": "2026-10-30 22:33",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee:** \n„Wenn in Petersberg die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute direkt auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer ganz oben steht und die Aufträge nicht an die Konkurrenz aus Fulda gehen.“",
+      "ts": "2026-10-31 01:48",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-fulda",
-      "title": "Vulkanregion-Tourismus — Fulda  ·  Chancen",
+      "agent": "chancen-petersberg",
+      "title": "Chancen-Scout — Petersberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Erlebe beim „Rhöner Sternen-Picknick“ eine geführte Nachtwanderung im nahegelegenen UNESCO-Sternenpark inklusive Teleskop-Blick in den Nachthimmel und einem Korb voller regionaler Bio-Delikatessen.\n\n**fuer WEN:** Ideal für Paare, kleine Freundesgruppen und Naturbegeisterte, die eine romantische und faszinierende Auszeit fernab des Stadtlichts suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsseite deinen Wunschtermin aus und reserviere dein exklusives Erlebnis-Paket mit wenigen Klicks.",
-      "ts": "2026-10-30 22:32",
+      "text": "**WAS:** Mobiler Spezialdienst für die sanfte Reinigung und Ertrags-Inspektion von privaten Photovoltaik-Anlagen und Glas-Terrassendächern.\n\n**WARUM HIER:** Petersberg weist eine extrem hohe Dichte an wohlhabenden Eigenheimen mit in die Jahre gekommenen PV-Anlagen auf, während Fuldaer Großbetriebe diesen Kleinauftrags-Markt kaum flexibel bedienen.\n\n**ERSTER SCHRITT:** Kauf eines mobilen Reinstwasser-Reinigungssystems (unter 2.000 €) und gezielter Flyer-Einwurf in den Eigenheim-Siedlungen rund um den Rauschenberg.",
+      "ts": "2026-10-31 01:48",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-fulda",
-          "title": "Vulkanregion-Tourismus — Fulda  ·  Chancen",
+          "agent": "handwerk-petersberg",
+          "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Erlebe beim „Rhöner Sternen-Picknick“ eine geführte Nachtwanderung im nahegelegenen UNESCO-Sternenpark inklusive Teleskop-Blick in den Nachthimmel und einem Korb voller regionaler Bio-Delikatessen.\n\n**fuer WEN:** Ideal für Paare, kleine Freundesgruppen und Naturbegeisterte, die eine romantische und faszinierende Auszeit fernab des Stadtlichts suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsseite deinen Wunschtermin aus und reserviere dein exklusives Erlebnis-Paket mit wenigen Klicks.",
-          "ts": "2026-10-30 22:32",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer\n\n**Ansprache-Idee:** \n„Wenn in Petersberg die Heizung ausfällt oder ein Bad saniert werden soll, suchen die Leute direkt auf dem Smartphone – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer ganz oben steht und die Aufträge nicht an die Konkurrenz aus Fulda gehen.“",
+          "ts": "2026-10-31 01:48",
           "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
+        },
         {
-          "dept": "Kunden",
-          "agent": "senioren-fulda",
-          "title": "Senioren-Alltagsdienste — Fulda  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "chancen-petersberg",
+          "title": "Chancen-Scout — Petersberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nDer „Rhön-Dorfbegleiter“ ist ein verlässlicher, kombinierter Fahr- und Einkaufsdienst, der Senioren aus den umliegenden Dörfern individuell zu Arztterminen nach Fulda bringt, Besorgungen erledigt oder sie bei Wocheneinkäufen persönlich begleitet.\n\n**WARUM HIER:** \nIn den weit verstreuten Ortsteilen rund um Fulda ist der öffentliche Nahverkehr oft spärlich, weshalb ältere Menschen eine persönliche und würdevolle Unterstützung benötigen, um ohne eigenes Auto selbstbestimmt in ihrer Heimat wohnen zu bleiben.\n\n**ERSTER SCHRITT:** \nEin Gespräch mit den Ortsbeiräten zweier ausgewählter Pilotdörfer führen, um den genauen Bedarf der älteren Bewohner zu erfassen und hilfsbereite Menschen aus der Region als Fahrer zu gewinnen.",
-          "ts": "2026-10-30 22:33",
+          "text": "**WAS:** Mobiler Spezialdienst für die sanfte Reinigung und Ertrags-Inspektion von privaten Photovoltaik-Anlagen und Glas-Terrassendächern.\n\n**WARUM HIER:** Petersberg weist eine extrem hohe Dichte an wohlhabenden Eigenheimen mit in die Jahre gekommenen PV-Anlagen auf, während Fuldaer Großbetriebe diesen Kleinauftrags-Markt kaum flexibel bedienen.\n\n**ERSTER SCHRITT:** Kauf eines mobilen Reinstwasser-Reinigungssystems (unter 2.000 €) und gezielter Flyer-Einwurf in den Eigenheim-Siedlungen rund um den Rauschenberg.",
+          "ts": "2026-10-31 01:48",
           "age_min": 0
         }
       ]
