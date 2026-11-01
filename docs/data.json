@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-31T21:52Z",
+  "updated": "2026-11-01T00:38Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Bei diesem dreistündigen Abend-Erlebnis wandert ihr geführt durch den nächtlichen Haselgrund bei Hünfeld und genießt mitten im Sternenpark Rhön ein regionales Bio-Picknick unter dem Sternenhimmel. **fuer WEN:** Das Angebot richtet sich an Paare und Erholungssuchende, die eine romantische Auszeit in der Natur suchen und die faszinierende Dunkelheit d",
+        "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Großenlüder (z. B. spezialisiert auf Badrenovierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer hier in Großenlüder auf Google nach einer neuen Heizung oder Badrenovierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorge",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS** Ein verlässlicher Begleit- und Fahrdienst („Dorftaxi“), der ältere Menschen würdevoll und ohne Zeitdruck zu Arztterminen, Besorgungen oder Dorfveranstaltungen bringt und sie auf Wunsch an der Haustür unterstützt. **WARUM HIER** In den weit verstreuten Ortsteilen von Neuhof fehlen oft Busverbindungen und Nahversorger, sodass eigene Mobilität die Grund",
+        "text": "**WAS:** Ein verlässlicher Begleit- und Fahrservice („Dorf-Fahrplan mit Herz“), der Senioren aus den Hünfelder Ortsteilen direkt an der Haustür abholt, sie würdevoll beim Einkaufen oder Arztbesuch in der Kernstadt unterstützt und wieder sicher nach Hause bringt. **WARUM HIER:** In den 16 weit verstreuten Ortsteilen von Hünfeld gibt es kaum noch Nahversorgung",
         "age_min": 0
       }
     },
@@ -1128,81 +1128,81 @@
       "name": "Vulkanregion-Tourismus — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Der Kalimandscharo-Picknick-Trail“ – Eine geführte E-Bike-Tour rund um Neuhofs imposanten weißen Kaliberg inklusive Stopp an den besten Aussichtspunkten und einer regionalen Rhöner Brotzeitkiste. **fuer WEN:** ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-neuhof",
       "name": "Senioren-Alltagsdienste — Neuhof",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Ein verlässlicher Begleit- und Fahrdienst („Dorftaxi“), der ältere Menschen würdevoll und ohne Zeitdruck zu Arztterminen, Besorgungen oder Dorfveranstaltungen bringt und sie auf Wunsch an der Haustür unterstützt.",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-huenfeld",
       "name": "Chancen-Scout — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein Full-Service-Betreuungsservice für private Vermieter von Monteur- und Handwerkerunterkünften (Inserate, digitale Schlüsselübergabe, Reinigungsmanagement). **WARUM HIER:** Die massive Präsenz von Industrie un",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-huenfeld",
       "name": "Handwerk-Sichtbarkeit — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** in Hünfeld. **Ansprache-Idee:** „Wenn Eigentümer in Hünfeld ihr Bad sanieren oder eine neue Heizung brauchen, suchen sie auf dem Smartphone – sorgen wir dafür",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-huenfeld",
       "name": "Direktvermarktung — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Hünfelder Feierabend-Kiste“ – eine wöchentlich wechselnde Abo-Box mit saisonalem Gemüse, Eiern, frischem Bauernbrot und Rhöner Spezialitäten, die donnerstags zentral in Hünfeld kontaktlos abgeholt werden ka",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-huenfeld",
       "name": "Vulkanregion-Tourismus — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei diesem dreistündigen Abend-Erlebnis wandert ihr geführt durch den nächtlichen Haselgrund bei Hünfeld und genießt mitten im Sternenpark Rhön ein regionales Bio-Picknick unter dem Sternenhimmel. **fuer WEN:** ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-huenfeld",
       "name": "Senioren-Alltagsdienste — Huenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher Begleit- und Fahrservice („Dorf-Fahrplan mit Herz“), der Senioren aus den Hünfelder Ortsteilen direkt an der Haustür abholt, sie würdevoll beim Einkaufen oder Arztbesuch in der Kernstadt unters",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grossenlueder",
       "name": "Chancen-Scout — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Feierabend-Catering-Service, der vorbestellte, frische Meal-Prep-Gerichte aus regionalen Zutaten direkt zur Abholung am Bahnhof Großenlüder und zentralen Übergabepunkten bereitstellt. **WARUM HIER:**",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grossenlueder",
       "name": "Handwerk-Sichtbarkeit — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Großenlüder (z. B. spezialisiert auf Badrenovierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer hier in Großenlüder auf Go",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-grossenlueder",
@@ -1503,56 +1503,32 @@
     }
   ],
   "budget": {
-    "used": 19,
+    "used": 3,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-huenfeld",
+      "agent": "handwerk-grossenlueder",
       "via": "gemini",
-      "text": "**WAS:** Bei diesem dreistündigen Abend-Erlebnis wandert ihr geführt durch den nächtlichen Haselgrund bei Hünfeld und genießt mitten im Sternenpark Rhön ein regionales Bio-Picknick unter dem Sternenhimmel. **fuer WEN:** Das Angebot richtet sich an Paare und Erholungssuchende, die eine romantische Auszeit in der Natur suchen und die faszinierende Dunkelheit d",
-      "ts": "2026-10-31 21:52",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Großenlüder (z. B. spezialisiert auf Badrenovierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer hier in Großenlüder auf Google nach einer neuen Heizung oder Badrenovierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorge",
+      "ts": "2026-11-01 00:38",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-huenfeld",
+      "agent": "chancen-grossenlueder",
       "via": "gemini",
-      "text": "**WAS:** Die „Hünfelder Feierabend-Kiste“ – eine wöchentlich wechselnde Abo-Box mit saisonalem Gemüse, Eiern, frischem Bauernbrot und Rhöner Spezialitäten, die donnerstags zentral in Hünfeld kontaktlos abgeholt werden kann. **FÜR WEN:** Für berufstätige Pendler und Familien aus dem Hünfelder Land, die sich ohne Aufwand ehrlich und regional ernähren wollen, s",
-      "ts": "2026-10-31 21:52",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-huenfeld",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** in Hünfeld. **Ansprache-Idee:** „Wenn Eigentümer in Hünfeld ihr Bad sanieren oder eine neue Heizung brauchen, suchen sie auf dem Smartphone – sorgen wir dafür, dass sie direkt bei Ihnen anrufen und nicht beim Großbetrieb aus Fulda.“",
-      "ts": "2026-10-31 21:52",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-huenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein Full-Service-Betreuungsservice für private Vermieter von Monteur- und Handwerkerunterkünften (Inserate, digitale Schlüsselübergabe, Reinigungsmanagement). **WARUM HIER:** Die massive Präsenz von Industrie und Logistik (z. B. Hünfeld-Nord und Michelsrombach) sorgt für dauerhafte Nachfrage nach Flex-Unterkünften, während viele lokale Immobilieneig",
-      "ts": "2026-10-31 21:52",
+      "text": "**WAS:** Ein mobiler Feierabend-Catering-Service, der vorbestellte, frische Meal-Prep-Gerichte aus regionalen Zutaten direkt zur Abholung am Bahnhof Großenlüder und zentralen Übergabepunkten bereitstellt. **WARUM HIER:** Durch die extrem hohe Zahl an Berufspendlern Richtung Fulda und Rhein-Main besteht in Großenlüder eine große Nachfrage nach schneller, hoch",
+      "ts": "2026-11-01 00:38",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-neuhof",
+      "agent": "senioren-huenfeld",
       "via": "gemini",
-      "text": "**WAS** Ein verlässlicher Begleit- und Fahrdienst („Dorftaxi“), der ältere Menschen würdevoll und ohne Zeitdruck zu Arztterminen, Besorgungen oder Dorfveranstaltungen bringt und sie auf Wunsch an der Haustür unterstützt. **WARUM HIER** In den weit verstreuten Ortsteilen von Neuhof fehlen oft Busverbindungen und Nahversorger, sodass eigene Mobilität die Grund",
-      "ts": "2026-10-31 21:51",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** „Der Kalimandscharo-Picknick-Trail“ – Eine geführte E-Bike-Tour rund um Neuhofs imposanten weißen Kaliberg inklusive Stopp an den besten Aussichtspunkten und einer regionalen Rhöner Brotzeitkiste. **fuer WEN:** Dieses Paket ist perfekt für Genuss-Radler, Paare und kleine Gruppen, die faszinierende Industriekultur mit Natur und lokalen Spezialitäten ",
-      "ts": "2026-10-31 21:51",
+      "text": "**WAS:** Ein verlässlicher Begleit- und Fahrservice („Dorf-Fahrplan mit Herz“), der Senioren aus den Hünfelder Ortsteilen direkt an der Haustür abholt, sie würdevoll beim Einkaufen oder Arztbesuch in der Kernstadt unterstützt und wieder sicher nach Hause bringt. **WARUM HIER:** In den 16 weit verstreuten Ortsteilen von Hünfeld gibt es kaum noch Nahversorgung",
+      "ts": "2026-11-01 00:37",
       "age_min": 0
     }
   ]
