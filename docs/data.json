@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-01T00:38Z",
+  "updated": "2026-11-01T06:51Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Großenlüder (z. B. spezialisiert auf Badrenovierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer hier in Großenlüder auf Google nach einer neuen Heizung oder Badrenovierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorge",
+        "text": "**WAS:** Das Paket „Vulkan-Picknick am Lüderufer“ beinhaltet eine geführte Natur-Wanderung zu den schönsten Aussichtspunkten rund um Großenlüder inklusive eines prall gefüllten Rucksacks mit regionalen Spezialitäten aus Vogelsberg und Rhön. **für WEN:** Dieses Erlebnis richtet sich an Genusswanderer, Paare und kleine Gruppen, die eine entspannte Auszeit im G",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher Begleit- und Fahrservice („Dorf-Fahrplan mit Herz“), der Senioren aus den Hünfelder Ortsteilen direkt an der Haustür abholt, sie würdevoll beim Einkaufen oder Arztbesuch in der Kernstadt unterstützt und wieder sicher nach Hause bringt. **WARUM HIER:** In den 16 weit verstreuten Ortsteilen von Hünfeld gibt es kaum noch Nahversorgung",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1182,45 +1178,45 @@
       "name": "Senioren-Alltagsdienste — Huenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher Begleit- und Fahrservice („Dorf-Fahrplan mit Herz“), der Senioren aus den Hünfelder Ortsteilen direkt an der Haustür abholt, sie würdevoll beim Einkaufen oder Arztbesuch in der Kernstadt unters",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-grossenlueder",
       "name": "Chancen-Scout — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Feierabend-Catering-Service, der vorbestellte, frische Meal-Prep-Gerichte aus regionalen Zutaten direkt zur Abholung am Bahnhof Großenlüder und zentralen Übergabepunkten bereitstellt. **WARUM HIER:**",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-grossenlueder",
       "name": "Handwerk-Sichtbarkeit — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Großenlüder (z. B. spezialisiert auf Badrenovierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer hier in Großenlüder auf Go",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grossenlueder",
       "name": "Direktvermarktung — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Lüder-Vesper-Box“ ist eine wöchentliche Abokiste mit frischem Holzofenbrot, feiner Ahler Wurst, regionalem Käse und knackigem Saison-Gemüse direkt von Erzeugern aus dem Lüder- und Fuldatal. **FÜR WEN:** Für",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-grossenlueder",
       "name": "Vulkanregion-Tourismus — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Paket „Vulkan-Picknick am Lüderufer“ beinhaltet eine geführte Natur-Wanderung zu den schönsten Aussichtspunkten rund um Großenlüder inklusive eines prall gefüllten Rucksacks mit regionalen Spezialitäten aus ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-grossenlueder",
@@ -1503,32 +1499,24 @@
     }
   ],
   "budget": {
-    "used": 3,
+    "used": 5,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-grossenlueder",
+      "agent": "tourismus-grossenlueder",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** in Großenlüder (z. B. spezialisiert auf Badrenovierung und Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer hier in Großenlüder auf Google nach einer neuen Heizung oder Badrenovierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorge",
-      "ts": "2026-11-01 00:38",
+      "text": "**WAS:** Das Paket „Vulkan-Picknick am Lüderufer“ beinhaltet eine geführte Natur-Wanderung zu den schönsten Aussichtspunkten rund um Großenlüder inklusive eines prall gefüllten Rucksacks mit regionalen Spezialitäten aus Vogelsberg und Rhön. **für WEN:** Dieses Erlebnis richtet sich an Genusswanderer, Paare und kleine Gruppen, die eine entspannte Auszeit im G",
+      "ts": "2026-11-01 06:51",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-grossenlueder",
+      "agent": "direkt-grossenlueder",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Feierabend-Catering-Service, der vorbestellte, frische Meal-Prep-Gerichte aus regionalen Zutaten direkt zur Abholung am Bahnhof Großenlüder und zentralen Übergabepunkten bereitstellt. **WARUM HIER:** Durch die extrem hohe Zahl an Berufspendlern Richtung Fulda und Rhein-Main besteht in Großenlüder eine große Nachfrage nach schneller, hoch",
-      "ts": "2026-11-01 00:38",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-huenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher Begleit- und Fahrservice („Dorf-Fahrplan mit Herz“), der Senioren aus den Hünfelder Ortsteilen direkt an der Haustür abholt, sie würdevoll beim Einkaufen oder Arztbesuch in der Kernstadt unterstützt und wieder sicher nach Hause bringt. **WARUM HIER:** In den 16 weit verstreuten Ortsteilen von Hünfeld gibt es kaum noch Nahversorgung",
-      "ts": "2026-11-01 00:37",
+      "text": "**WAS:** Die „Lüder-Vesper-Box“ ist eine wöchentliche Abokiste mit frischem Holzofenbrot, feiner Ahler Wurst, regionalem Käse und knackigem Saison-Gemüse direkt von Erzeugern aus dem Lüder- und Fuldatal. **FÜR WEN:** Für beschäftigte Familien und Pendler aus Großenlüder und den umliegenden Ortsteilen, die nach dem Feierabend ohne Aufwand ehrliche, heimische ",
+      "ts": "2026-11-01 06:51",
       "age_min": 0
     }
   ]

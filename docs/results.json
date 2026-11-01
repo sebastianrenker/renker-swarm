@@ -1,33 +1,24 @@
 {
-  "updated": "2026-11-01 00:38 UTC",
-  "total_results": 3,
-  "total_depts": 2,
+  "updated": "2026-11-01 06:51 UTC",
+  "total_results": 2,
+  "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-grossenlueder",
-      "title": "Handwerk-Sichtbarkeit — Grossenlueder  ·  Chancen",
+      "agent": "tourismus-grossenlueder",
+      "title": "Vulkanregion-Tourismus — Grossenlueder  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbetrieb** in Großenlüder (z. B. spezialisiert auf Badrenovierung und Wärmepumpen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Hausbesitzer hier in Großenlüder auf Google nach einer neuen Heizung oder Badrenovierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Ort bleiben.“",
-      "ts": "2026-11-01 00:38",
+      "text": "**WAS:** Das Paket „Vulkan-Picknick am Lüderufer“ beinhaltet eine geführte Natur-Wanderung zu den schönsten Aussichtspunkten rund um Großenlüder inklusive eines prall gefüllten Rucksacks mit regionalen Spezialitäten aus Vogelsberg und Rhön.\n\n**für WEN:** Dieses Erlebnis richtet sich an Genusswanderer, Paare und kleine Gruppen, die eine entspannte Auszeit im Grünen mit lokalem Kulinarik-Genuss verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und reservieren Sie Ihren Picknick-Rucksack direkt online mit zwei Klicks.",
+      "ts": "2026-11-01 06:51",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-grossenlueder",
-      "title": "Chancen-Scout — Grossenlueder  ·  Chancen",
+      "agent": "direkt-grossenlueder",
+      "title": "Direktvermarktung — Grossenlueder  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Feierabend-Catering-Service, der vorbestellte, frische Meal-Prep-Gerichte aus regionalen Zutaten direkt zur Abholung am Bahnhof Großenlüder und zentralen Übergabepunkten bereitstellt.\n\n**WARUM HIER:** Durch die extrem hohe Zahl an Berufspendlern Richtung Fulda und Rhein-Main besteht in Großenlüder eine große Nachfrage nach schneller, hochwertiger Abendverpflegung, die ideal durch die starken landwirtschaftlichen Erzeuger aus den Ortsteilen (wie Müs oder Bimbach) beliefert werden kann.\n\n**ERSTER SCHRITT:** Zwei lokale Direktvermarkter für Zutaten kontaktieren, drei einfache Gerichte kalkulieren und eine Vorbestell-WhatsApp-Gruppe für einen zweiwöchigen Testlauf mit Pendlern starten.",
-      "ts": "2026-11-01 00:38",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-huenfeld",
-      "title": "Senioren-Alltagsdienste — Huenfeld  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** \nEin verlässlicher Begleit- und Fahrservice („Dorf-Fahrplan mit Herz“), der Senioren aus den Hünfelder Ortsteilen direkt an der Haustür abholt, sie würdevoll beim Einkaufen oder Arztbesuch in der Kernstadt unterstützt und wieder sicher nach Hause bringt.\n\n**WARUM HIER:** \nIn den 16 weit verstreuten Ortsteilen von Hünfeld gibt es kaum noch Nahversorgung vor Ort, weshalb ältere Menschen ohne eigenes Auto rasch ihre Selbstständigkeit und den Anschluss an das Gemeinschaftsleben verlieren.\n\n**ERSTER SCHRITT:** \nGemeinsam mit dem Hünfelder Seniorenbeirat und den örtlichen Kirchengemeinden werden feste, überschaubare Einkaufstage pro Ortsteil etabliert und vertrauenswürdige Begleitpersonen aus der Nachbarschaft eingebunden.",
-      "ts": "2026-11-01 00:37",
+      "text": "**WAS:** \nDie „Lüder-Vesper-Box“ ist eine wöchentliche Abokiste mit frischem Holzofenbrot, feiner Ahler Wurst, regionalem Käse und knackigem Saison-Gemüse direkt von Erzeugern aus dem Lüder- und Fuldatal.\n\n**FÜR WEN:** \nFür beschäftigte Familien und Pendler aus Großenlüder und den umliegenden Ortsteilen, die nach dem Feierabend ohne Aufwand ehrliche, heimische Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nZwei lokale Höfe und den örtlichen Bäcker an einen Tisch holen, um ein einfaches Test-Paket für die ersten 20 Test-Haushalte schnüren.",
+      "ts": "2026-11-01 06:51",
       "age_min": 0
     }
   ],
@@ -38,35 +29,20 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-grossenlueder",
-          "title": "Handwerk-Sichtbarkeit — Grossenlueder  ·  Chancen",
+          "agent": "tourismus-grossenlueder",
+          "title": "Vulkanregion-Tourismus — Grossenlueder  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbetrieb** in Großenlüder (z. B. spezialisiert auf Badrenovierung und Wärmepumpen).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Hausbesitzer hier in Großenlüder auf Google nach einer neuen Heizung oder Badrenovierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Ort bleiben.“",
-          "ts": "2026-11-01 00:38",
+          "text": "**WAS:** Das Paket „Vulkan-Picknick am Lüderufer“ beinhaltet eine geführte Natur-Wanderung zu den schönsten Aussichtspunkten rund um Großenlüder inklusive eines prall gefüllten Rucksacks mit regionalen Spezialitäten aus Vogelsberg und Rhön.\n\n**für WEN:** Dieses Erlebnis richtet sich an Genusswanderer, Paare und kleine Gruppen, die eine entspannte Auszeit im Grünen mit lokalem Kulinarik-Genuss verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und reservieren Sie Ihren Picknick-Rucksack direkt online mit zwei Klicks.",
+          "ts": "2026-11-01 06:51",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-grossenlueder",
-          "title": "Chancen-Scout — Grossenlueder  ·  Chancen",
+          "agent": "direkt-grossenlueder",
+          "title": "Direktvermarktung — Grossenlueder  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Feierabend-Catering-Service, der vorbestellte, frische Meal-Prep-Gerichte aus regionalen Zutaten direkt zur Abholung am Bahnhof Großenlüder und zentralen Übergabepunkten bereitstellt.\n\n**WARUM HIER:** Durch die extrem hohe Zahl an Berufspendlern Richtung Fulda und Rhein-Main besteht in Großenlüder eine große Nachfrage nach schneller, hochwertiger Abendverpflegung, die ideal durch die starken landwirtschaftlichen Erzeuger aus den Ortsteilen (wie Müs oder Bimbach) beliefert werden kann.\n\n**ERSTER SCHRITT:** Zwei lokale Direktvermarkter für Zutaten kontaktieren, drei einfache Gerichte kalkulieren und eine Vorbestell-WhatsApp-Gruppe für einen zweiwöchigen Testlauf mit Pendlern starten.",
-          "ts": "2026-11-01 00:38",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-huenfeld",
-          "title": "Senioren-Alltagsdienste — Huenfeld  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:** \nEin verlässlicher Begleit- und Fahrservice („Dorf-Fahrplan mit Herz“), der Senioren aus den Hünfelder Ortsteilen direkt an der Haustür abholt, sie würdevoll beim Einkaufen oder Arztbesuch in der Kernstadt unterstützt und wieder sicher nach Hause bringt.\n\n**WARUM HIER:** \nIn den 16 weit verstreuten Ortsteilen von Hünfeld gibt es kaum noch Nahversorgung vor Ort, weshalb ältere Menschen ohne eigenes Auto rasch ihre Selbstständigkeit und den Anschluss an das Gemeinschaftsleben verlieren.\n\n**ERSTER SCHRITT:** \nGemeinsam mit dem Hünfelder Seniorenbeirat und den örtlichen Kirchengemeinden werden feste, überschaubare Einkaufstage pro Ortsteil etabliert und vertrauenswürdige Begleitpersonen aus der Nachbarschaft eingebunden.",
-          "ts": "2026-11-01 00:37",
+          "text": "**WAS:** \nDie „Lüder-Vesper-Box“ ist eine wöchentliche Abokiste mit frischem Holzofenbrot, feiner Ahler Wurst, regionalem Käse und knackigem Saison-Gemüse direkt von Erzeugern aus dem Lüder- und Fuldatal.\n\n**FÜR WEN:** \nFür beschäftigte Familien und Pendler aus Großenlüder und den umliegenden Ortsteilen, die nach dem Feierabend ohne Aufwand ehrliche, heimische Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nZwei lokale Höfe und den örtlichen Bäcker an einen Tisch holen, um ein einfaches Test-Paket für die ersten 20 Test-Haushalte schnüren.",
+          "ts": "2026-11-01 06:51",
           "age_min": 0
         }
       ]
