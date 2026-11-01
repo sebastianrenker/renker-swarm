@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T13:59Z",
+  "updated": "2026-11-01T18:48Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Genießen Sie ein regionales Gourmet-Picknick im malerischen Schlosspark Fasanerie inklusive Eintrittskarten für eine exklusive Führung durch Hessens schönstes Barockschloss. **FÜR WEN:** Dieses Paket ist ideal für Paare und Genießer, die Kultur, Natur und Rhöner Spezialitäten bei einem romantischen Tagesausflug verbinden möchten. **ERSTER SCHRITT:**",
+        "text": "**WAS:** Ein mobiler Haus- und Gartenservice speziell für Pendlerhaushalte, der Instandhaltungs- und Pflegearbeiten am Eigenheim zuverlässig erledigt, während die Besitzer auf Arbeit sind. **WARUM HIER:** Flieden ist ein starker Pendler-Hotspot an der Bahnstrecke Fulda–Frankfurt mit sehr hoher Eigenheimquote, wo Hausbesitzern unter der Woche schlichtweg die ",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS** Der „Eichenzeller Dorfbegleiter“ ist ein verlässlicher Hol- und Begleitdienst, der ältere Menschen aus den verschiedenen Ortsteilen zu Besorgungen, Arztterminen oder Gemeinschaftstreffen fährt und sie vor Ort geduldig unterstützt. **WARUM HIER** In den weit verstreuten Ortsteilen von Eichenzell fehlen oft Geschäfte direkt vor der Haustür, weshalb ein",
+        "text": "**WAS:** Ein verlässlicher Dorf-Begleit- und Fahrdienst, der ältere Menschen individuell zu Arztterminen oder Einkäufen bringt und sie auf Wunsch aufmerksam beim Tragen der Taschen oder bei kleinen Botengängen unterstützt. **WARUM HIER:** In den acht weit verstreuten Ortsteilen von Hosenfeld fehlen in vielen Dörfern die Geschäfte des täglichen Bedarfs, sodas",
         "age_min": 0
       }
     },
@@ -1227,108 +1227,108 @@
       "name": "Senioren-Alltagsdienste — Grossenlueder",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, sie bei Einkäufen oder Arztbesuchen würdevoll unterstützt und kleine Besorgungen zwischen den Ortsteilen übernimmt. **W",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-eichenzell",
       "name": "Chancen-Scout — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler B2B-Reinigungsservice, der Dienst- und Vertriebsfahrzeuge mit wasserloser Öko-Technik direkt auf den Firmengeländen aufbereitet, während die Mitarbeiter arbeiten. **WARUM HIER:** Der Industriepark Rh",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-eichenzell",
       "name": "Handwerk-Sichtbarkeit — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbau-Betrieb** (mit Fokus auf Wärmepumpen-Umrüstung und Bad-Sanierungen) in Eichenzell. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eichenzeller Eigenheimbesit",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-eichenzell",
       "name": "Direktvermarktung — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentlich wechselnde „Rhön-Feierabend-Kiste“ mit regionalen Grundnahrungsmitteln wie frischem Brot, Käse, Eiern und Saison-Gemüse, die kontaktlos an einer 24/7-Abholstation in Eichenzell bereitsteht. **FÜ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-eichenzell",
       "name": "Vulkanregion-Tourismus — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Genießen Sie ein regionales Gourmet-Picknick im malerischen Schlosspark Fasanerie inklusive Eintrittskarten für eine exklusive Führung durch Hessens schönstes Barockschloss. **FÜR WEN:** Dieses Paket ist ideal f",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-eichenzell",
       "name": "Senioren-Alltagsdienste — Eichenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Der „Eichenzeller Dorfbegleiter“ ist ein verlässlicher Hol- und Begleitdienst, der ältere Menschen aus den verschiedenen Ortsteilen zu Besorgungen, Arztterminen oder Gemeinschaftstreffen fährt und sie vor Ort ged",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-hosenfeld",
       "name": "Chancen-Scout — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein autarker 24/7-Regio-Automatenkiosk mit lokalem Grillgut/Fleisch, frischen Backwaren und Basis-Lebensmitteln für den täglichen Bedarf. **WARUM HIER:** Die acht weitverzweigten Ortsteile von Hosenfeld haben na",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-hosenfeld",
       "name": "Handwerk-Sichtbarkeit — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Damit Hosenfelder Hausbesitzer bei der Suche nach einer neuen Heizung oder Bad-Sanierung sofort Ihren Meisterbetrieb auf Google finden – und nicht ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-hosenfeld",
       "name": "Direktvermarktung — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Hosenfelder Feierabend-Kiste“ im Abo mit frischem Brot, Eiern, Hausmacher Wurst und Saison-Gemüse von Höfen aus der Umgebung, flexibel abholbar an einer einfachen 24/7-Abholstation im Ort. **f",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-hosenfeld",
       "name": "Vulkanregion-Tourismus — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Hosenfelder Sandstein & Wald-Picknick“ kombiniert eine E-Bike-Geführte Entdeckertour zu den historischen Buntsandsteinbrüchen im Jossagrund mit einem prall gefüllten Rucksack voller regionale",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-hosenfeld",
       "name": "Senioren-Alltagsdienste — Hosenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher Dorf-Begleit- und Fahrdienst, der ältere Menschen individuell zu Arztterminen oder Einkäufen bringt und sie auf Wunsch aufmerksam beim Tragen der Taschen oder bei kleinen Botengängen unterstütz",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-flieden",
       "name": "Chancen-Scout — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Haus- und Gartenservice speziell für Pendlerhaushalte, der Instandhaltungs- und Pflegearbeiten am Eigenheim zuverlässig erledigt, während die Besitzer auf Arbeit sind. **WARUM HIER:** Flieden ist ein",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-flieden",
@@ -1503,56 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 11,
+    "used": 17,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-eichenzell",
-      "via": "gemini",
-      "text": "**WAS** Der „Eichenzeller Dorfbegleiter“ ist ein verlässlicher Hol- und Begleitdienst, der ältere Menschen aus den verschiedenen Ortsteilen zu Besorgungen, Arztterminen oder Gemeinschaftstreffen fährt und sie vor Ort geduldig unterstützt. **WARUM HIER** In den weit verstreuten Ortsteilen von Eichenzell fehlen oft Geschäfte direkt vor der Haustür, weshalb ein",
-      "ts": "2026-11-01 13:59",
-      "age_min": 0
-    },
-    {
       "dept": "Chancen",
-      "agent": "tourismus-eichenzell",
+      "agent": "chancen-flieden",
       "via": "gemini",
-      "text": "**WAS:** Genießen Sie ein regionales Gourmet-Picknick im malerischen Schlosspark Fasanerie inklusive Eintrittskarten für eine exklusive Führung durch Hessens schönstes Barockschloss. **FÜR WEN:** Dieses Paket ist ideal für Paare und Genießer, die Kultur, Natur und Rhöner Spezialitäten bei einem romantischen Tagesausflug verbinden möchten. **ERSTER SCHRITT:**",
-      "ts": "2026-11-01 13:59",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-eichenzell",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentlich wechselnde „Rhön-Feierabend-Kiste“ mit regionalen Grundnahrungsmitteln wie frischem Brot, Käse, Eiern und Saison-Gemüse, die kontaktlos an einer 24/7-Abholstation in Eichenzell bereitsteht. **FÜR WEN:** Für berufstätige Pendler und Familien aus Eichenzell und Umgebung, die Wert auf ehrliche Hofprodukte legen, es aber zeitlich nicht ",
-      "ts": "2026-11-01 13:59",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-eichenzell",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbau-Betrieb** (mit Fokus auf Wärmepumpen-Umrüstung und Bad-Sanierungen) in Eichenzell. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eichenzeller Eigenheimbesitzer auf Google nach einer neuen Heizung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass diese ",
-      "ts": "2026-11-01 13:58",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-eichenzell",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler B2B-Reinigungsservice, der Dienst- und Vertriebsfahrzeuge mit wasserloser Öko-Technik direkt auf den Firmengeländen aufbereitet, während die Mitarbeiter arbeiten. **WARUM HIER:** Der Industriepark Rhön in Eichenzell beherbergt eine enorm hohe Dichte an Logistik-, Handwerks- und Vertriebsunternehmen mit großen Fuhrparks, deren Pflege im B",
-      "ts": "2026-11-01 13:58",
+      "text": "**WAS:** Ein mobiler Haus- und Gartenservice speziell für Pendlerhaushalte, der Instandhaltungs- und Pflegearbeiten am Eigenheim zuverlässig erledigt, während die Besitzer auf Arbeit sind. **WARUM HIER:** Flieden ist ein starker Pendler-Hotspot an der Bahnstrecke Fulda–Frankfurt mit sehr hoher Eigenheimquote, wo Hausbesitzern unter der Woche schlichtweg die ",
+      "ts": "2026-11-01 18:48",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-grossenlueder",
+      "agent": "senioren-hosenfeld",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, sie bei Einkäufen oder Arztbesuchen würdevoll unterstützt und kleine Besorgungen zwischen den Ortsteilen übernimmt. **WARUM HIER:** Da Großenlüder aus sieben verstreuten Ortsteilen besteht und die Wege zum Kernort ohne eigenes Auto beschwerlich sind, bewahrt ",
-      "ts": "2026-11-01 13:58",
+      "text": "**WAS:** Ein verlässlicher Dorf-Begleit- und Fahrdienst, der ältere Menschen individuell zu Arztterminen oder Einkäufen bringt und sie auf Wunsch aufmerksam beim Tragen der Taschen oder bei kleinen Botengängen unterstützt. **WARUM HIER:** In den acht weit verstreuten Ortsteilen von Hosenfeld fehlen in vielen Dörfern die Geschäfte des täglichen Bedarfs, sodas",
+      "ts": "2026-11-01 18:48",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-hosenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentliche „Hosenfelder Feierabend-Kiste“ im Abo mit frischem Brot, Eiern, Hausmacher Wurst und Saison-Gemüse von Höfen aus der Umgebung, flexibel abholbar an einer einfachen 24/7-Abholstation im Ort. **fuer WEN:** Für Pendler nach Fulda und beschäftigte Familien aus den Ortsteilen, die nach Feierabend ohne Umwege ehrliche, regionale Lebensmi",
+      "ts": "2026-11-01 18:48",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-hosenfeld",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK) **Ansprache-Idee:** „Damit Hosenfelder Hausbesitzer bei der Suche nach einer neuen Heizung oder Bad-Sanierung sofort Ihren Meisterbetrieb auf Google finden – und nicht bei der Konkurrenz aus Fulda anrufen.“",
+      "ts": "2026-11-01 18:48",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-hosenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein autarker 24/7-Regio-Automatenkiosk mit lokalem Grillgut/Fleisch, frischen Backwaren und Basis-Lebensmitteln für den täglichen Bedarf. **WARUM HIER:** Die acht weitverzweigten Ortsteile von Hosenfeld haben nach Feierabend eine ausgedünnte Nahversorgung, profitieren aber von starkem Pendlerverkehr Richtung Fulda sowie Wochenendtourismus in Richtun",
+      "ts": "2026-11-01 18:48",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-hosenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Hosenfelder Sandstein & Wald-Picknick“ kombiniert eine E-Bike-Geführte Entdeckertour zu den historischen Buntsandsteinbrüchen im Jossagrund mit einem prall gefüllten Rucksack voller regionaler Vogelsberg-Spezialitäten. **für WEN:** Dieses Angebot richtet sich an genussorientierte Paare und Aktivurlauber, die die idyllische Naturk",
+      "ts": "2026-11-01 18:47",
       "age_min": 0
     }
   ]
