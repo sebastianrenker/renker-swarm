@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-01 18:48 UTC",
+  "updated": "2026-11-01 22:34 UTC",
   "total_results": 6,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-flieden",
-      "title": "Chancen-Scout — Flieden  ·  Chancen",
+      "agent": "handwerk-tann",
+      "title": "Handwerk-Sichtbarkeit — Tann  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Haus- und Gartenservice speziell für Pendlerhaushalte, der Instandhaltungs- und Pflegearbeiten am Eigenheim zuverlässig erledigt, während die Besitzer auf Arbeit sind.\n\n**WARUM HIER:** Flieden ist ein starker Pendler-Hotspot an der Bahnstrecke Fulda–Frankfurt mit sehr hoher Eigenheimquote, wo Hausbesitzern unter der Woche schlichtweg die Zeit für Garten und kleine Reperaturen fehlt.\n\n**ERSTER SCHRITT:** 300 Flyer gezielt am P+R-Parkplatz am Bahnhof Flieden sowie in den Neubaugebieten verteilen und über eine einfache WhatsApp-Nummer die ersten drei Test-Kunden für ein wöchentliches Pflege-Paket gewinnen.",
-      "ts": "2026-11-01 18:48",
+      "text": "**Betriebstyp:** Eine traditionelle **Schreinerei / Fensterbau-Betrieb** in Tann (Rhön).\n\n**Ansprache-Idee (1 Satz):**\n„Wenn Häuslebauer in der Rhön online nach neuen Fenstern oder Maßmöbeln suchen, landen sie aktuell bei der Konkurrenz aus der Stadt – lassen Sie uns dafür sorgen, dass der erste Klick bei Ihrem Meisterbetrieb direkt hier in Tann landet.“",
+      "ts": "2026-11-01 22:34",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-tann",
+      "title": "Chancen-Scout — Tann  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler „Rhön-Brotzeit- & Picknick-Lieferservice“, der Wanderer und Ferienhausgäste auf Vorbestellung direkt an Wanderparkplätzen oder Unterkünften mit regionalen Vesper-Paketen versorgt.\n\n**WARUM HIER:** Tann ist ein Knotenpunkt am Premiumwanderweg „Der Hochrhöner“ mit vielen Ferienwohnungen, leidet aber gleichzeitig unter Schließungen klassischer Einkehrmöglichkeiten in den Ortsteilen.\n\n**ERSTER SCHRITT:** Kooperationen mit einer Tanner Bäckerei und Metzgerei sichern sowie QR-Code-Flyer zur Vorbestellung in den 10 größten lokalen Ferienunterkünften auslegen.",
+      "ts": "2026-11-01 22:34",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-hosenfeld",
-      "title": "Senioren-Alltagsdienste — Hosenfeld  ·  Kunden",
+      "agent": "senioren-flieden",
+      "title": "Senioren-Alltagsdienste — Flieden  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nEin verlässlicher Dorf-Begleit- und Fahrdienst, der ältere Menschen individuell zu Arztterminen oder Einkäufen bringt und sie auf Wunsch aufmerksam beim Tragen der Taschen oder bei kleinen Botengängen unterstützt.\n\n**WARUM HIER:** \nIn den acht weit verstreuten Ortsteilen von Hosenfeld fehlen in vielen Dörfern die Geschäfte des täglichen Bedarfs, sodass dieser mobile Dienst Einsamkeit verhindert und das selbstbestimmte Leben im eigenen Zuhause sichert.\n\n**ERSTER SCHRITT:** \nIn Kooperation mit der Gemeinde Hosenfeld wird eine feste Telefon-Sprechstunde eingerichtet, um den konkreten Bedarf der Seniorinnen und Senioren abzufragen und erste ehrenamtliche Fahrerinnen und Fahrer aus der Region zu gewinnen.",
-      "ts": "2026-11-01 18:48",
+      "text": "**WAS:** \nEin würdevoller, mobiler Begleit- und Besorgungsdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Einkaufskarten, Arztbesuche oder gesellschaftliche Treffen im Kernort Flieden zu ermöglichen.\n\n**WARUM HIER:** \nDurch die Aufteilung Fliedens in mehrere weit verstreute Ortsteile (wie Buchenrod oder Magdlos) schützt dieser Dienst die Selbstständigkeit der Senioren genau dort, wo es an eigener Mobilität und lokalen Dorfläden fehlt.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung Flieden und den Ortsbeiräten wird ein runder Tisch einberufen, um den konkreten Bedarf in den Dörfern zu ermitteln und verlässliche, lokale Fahrer-Paten zu gewinnen.",
+      "ts": "2026-11-01 22:34",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-hosenfeld",
-      "title": "Direktvermarktung — Hosenfeld  ·  Chancen",
+      "agent": "tourismus-flieden",
+      "title": "Vulkanregion-Tourismus — Flieden  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEine wöchentliche „Hosenfelder Feierabend-Kiste“ im Abo mit frischem Brot, Eiern, Hausmacher Wurst und Saison-Gemüse von Höfen aus der Umgebung, flexibel abholbar an einer einfachen 24/7-Abholstation im Ort.\n\n**fuer WEN:** \nFür Pendler nach Fulda und beschäftigte Familien aus den Ortsteilen, die nach Feierabend ohne Umwege ehrliche, regionale Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nMit zwei Nachbarbetrieben und dem lokalen Bäcker an einen Tisch setzen, um ein solides Fünf-Produkt-Startsortiment und die wöchentliche Bestückung abzusprechen.",
-      "ts": "2026-11-01 18:48",
+      "text": "**WAS:** „Königreich-Alpaka-Trekking mit Rhöner Picknick“ – eine geführte Wandertour durch die malerische Fliedener Hügellandschaft inklusive eines reich befüllten Korbs voller lokaler Spezialitäten.\n\n**fuer WEN:** Für Paare, Familien und Naturgenießer, die eine tierische Entschleunigung im Südlichen Fuldaer Land suchen.\n\n**ERSTER SCHRITT:** Wunschtermin im Online-Buchungskalender auswählen und das Erlebnisticket direkt sichern.",
+      "ts": "2026-11-01 22:33",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-hosenfeld",
-      "title": "Handwerk-Sichtbarkeit — Hosenfeld  ·  Chancen",
+      "agent": "direkt-flieden",
+      "title": "Direktvermarktung — Flieden  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Damit Hosenfelder Hausbesitzer bei der Suche nach einer neuen Heizung oder Bad-Sanierung sofort Ihren Meisterbetrieb auf Google finden – und nicht bei der Konkurrenz aus Fulda anrufen.“",
-      "ts": "2026-11-01 18:48",
+      "text": "**WAS:** \nDie „Pendler-Kiste Königreich“ ist ein wöchentliches Abo-Paket mit saisonalem Gemüse, Eiern und Wurstwaren von Höfen rund um Flieden, das donnerstags in einer gekühlten Abholstation direkt am Fliedener Bahnhof bereitsteht.\n\n**für WEN:** \nFür Berufspendler und vielbeschäftigte Familien aus der Gemeinde, die nach dem Feierabend ohne Supermarkt-Umweg frische Lebensmittel direkt aus der Heimat mitnehmen möchten.\n\n**ERSTER SCHRITT:** \nSchließe dich mit zwei lokalen Erzeugern zusammen und verteile an einem Donnerstagmorgen Infoflyer am Bahnsteig in Flieden, um die ersten 20 Test-Abonnenten zu gewinnen.",
+      "ts": "2026-11-01 22:33",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-hosenfeld",
-      "title": "Chancen-Scout — Hosenfeld  ·  Chancen",
+      "agent": "handwerk-flieden",
+      "title": "Handwerk-Sichtbarkeit — Flieden  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin autarker 24/7-Regio-Automatenkiosk mit lokalem Grillgut/Fleisch, frischen Backwaren und Basis-Lebensmitteln für den täglichen Bedarf.\n\n**WARUM HIER:** \nDie acht weitverzweigten Ortsteile von Hosenfeld haben nach Feierabend eine ausgedünnte Nahversorgung, profitieren aber von starkem Pendlerverkehr Richtung Fulda sowie Wochenendtourismus in Richtung Vogelsberg.\n\n**ERSTER SCHRITT:** \nEinen gut einsehbaren Stellplatz an der Durchfahrtsstraße (L3141) pachten und feste Liefervereinbarungen mit zwei Erzeugern aus der unmittelbaren Region treffen.",
-      "ts": "2026-11-01 18:48",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-hosenfeld",
-      "title": "Vulkanregion-Tourismus — Hosenfeld  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nDas Erlebnis-Paket „Hosenfelder Sandstein & Wald-Picknick“ kombiniert eine E-Bike-Geführte Entdeckertour zu den historischen Buntsandsteinbrüchen im Jossagrund mit einem prall gefüllten Rucksack voller regionaler Vogelsberg-Spezialitäten.\n\n**für WEN:** \nDieses Angebot richtet sich an genussorientierte Paare und Aktivurlauber, die die idyllische Naturkulisse an den Ausläufern des Vogelsbergs entschleunigt und kulinarisch erkunden möchten.\n\n**ERSTER SCHRITT:** \nWähle deinen Wunschtermin auf unserer Buchungsplattform aus und sichere dir dein Rundum-Sorglos-Paket mit wenigen Klicks online.",
-      "ts": "2026-11-01 18:47",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Notdienste und Wärmepumpen-Modernisierung in Flieden und Umgebung).\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn Fliedener bei einem Heizungsausfall oder für den Wärmepumpen-Umstieg direkt auf dem Smartphone nach Hilfe suchen, sollten sie sofort bei Ihrem Betrieb landen – wollen wir Ihren Google-Auftritt dafür einmal ehrlich und ohne Schnickschnack aufstellen?“",
+      "ts": "2026-11-01 22:33",
       "age_min": 0
     }
   ],
@@ -65,47 +65,47 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-flieden",
-          "title": "Chancen-Scout — Flieden  ·  Chancen",
+          "agent": "handwerk-tann",
+          "title": "Handwerk-Sichtbarkeit — Tann  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Haus- und Gartenservice speziell für Pendlerhaushalte, der Instandhaltungs- und Pflegearbeiten am Eigenheim zuverlässig erledigt, während die Besitzer auf Arbeit sind.\n\n**WARUM HIER:** Flieden ist ein starker Pendler-Hotspot an der Bahnstrecke Fulda–Frankfurt mit sehr hoher Eigenheimquote, wo Hausbesitzern unter der Woche schlichtweg die Zeit für Garten und kleine Reperaturen fehlt.\n\n**ERSTER SCHRITT:** 300 Flyer gezielt am P+R-Parkplatz am Bahnhof Flieden sowie in den Neubaugebieten verteilen und über eine einfache WhatsApp-Nummer die ersten drei Test-Kunden für ein wöchentliches Pflege-Paket gewinnen.",
-          "ts": "2026-11-01 18:48",
+          "text": "**Betriebstyp:** Eine traditionelle **Schreinerei / Fensterbau-Betrieb** in Tann (Rhön).\n\n**Ansprache-Idee (1 Satz):**\n„Wenn Häuslebauer in der Rhön online nach neuen Fenstern oder Maßmöbeln suchen, landen sie aktuell bei der Konkurrenz aus der Stadt – lassen Sie uns dafür sorgen, dass der erste Klick bei Ihrem Meisterbetrieb direkt hier in Tann landet.“",
+          "ts": "2026-11-01 22:34",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-hosenfeld",
-          "title": "Direktvermarktung — Hosenfeld  ·  Chancen",
+          "agent": "chancen-tann",
+          "title": "Chancen-Scout — Tann  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEine wöchentliche „Hosenfelder Feierabend-Kiste“ im Abo mit frischem Brot, Eiern, Hausmacher Wurst und Saison-Gemüse von Höfen aus der Umgebung, flexibel abholbar an einer einfachen 24/7-Abholstation im Ort.\n\n**fuer WEN:** \nFür Pendler nach Fulda und beschäftigte Familien aus den Ortsteilen, die nach Feierabend ohne Umwege ehrliche, regionale Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nMit zwei Nachbarbetrieben und dem lokalen Bäcker an einen Tisch setzen, um ein solides Fünf-Produkt-Startsortiment und die wöchentliche Bestückung abzusprechen.",
-          "ts": "2026-11-01 18:48",
+          "text": "**WAS:** Ein mobiler „Rhön-Brotzeit- & Picknick-Lieferservice“, der Wanderer und Ferienhausgäste auf Vorbestellung direkt an Wanderparkplätzen oder Unterkünften mit regionalen Vesper-Paketen versorgt.\n\n**WARUM HIER:** Tann ist ein Knotenpunkt am Premiumwanderweg „Der Hochrhöner“ mit vielen Ferienwohnungen, leidet aber gleichzeitig unter Schließungen klassischer Einkehrmöglichkeiten in den Ortsteilen.\n\n**ERSTER SCHRITT:** Kooperationen mit einer Tanner Bäckerei und Metzgerei sichern sowie QR-Code-Flyer zur Vorbestellung in den 10 größten lokalen Ferienunterkünften auslegen.",
+          "ts": "2026-11-01 22:34",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-hosenfeld",
-          "title": "Handwerk-Sichtbarkeit — Hosenfeld  ·  Chancen",
+          "agent": "tourismus-flieden",
+          "title": "Vulkanregion-Tourismus — Flieden  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Damit Hosenfelder Hausbesitzer bei der Suche nach einer neuen Heizung oder Bad-Sanierung sofort Ihren Meisterbetrieb auf Google finden – und nicht bei der Konkurrenz aus Fulda anrufen.“",
-          "ts": "2026-11-01 18:48",
+          "text": "**WAS:** „Königreich-Alpaka-Trekking mit Rhöner Picknick“ – eine geführte Wandertour durch die malerische Fliedener Hügellandschaft inklusive eines reich befüllten Korbs voller lokaler Spezialitäten.\n\n**fuer WEN:** Für Paare, Familien und Naturgenießer, die eine tierische Entschleunigung im Südlichen Fuldaer Land suchen.\n\n**ERSTER SCHRITT:** Wunschtermin im Online-Buchungskalender auswählen und das Erlebnisticket direkt sichern.",
+          "ts": "2026-11-01 22:33",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-hosenfeld",
-          "title": "Chancen-Scout — Hosenfeld  ·  Chancen",
+          "agent": "direkt-flieden",
+          "title": "Direktvermarktung — Flieden  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin autarker 24/7-Regio-Automatenkiosk mit lokalem Grillgut/Fleisch, frischen Backwaren und Basis-Lebensmitteln für den täglichen Bedarf.\n\n**WARUM HIER:** \nDie acht weitverzweigten Ortsteile von Hosenfeld haben nach Feierabend eine ausgedünnte Nahversorgung, profitieren aber von starkem Pendlerverkehr Richtung Fulda sowie Wochenendtourismus in Richtung Vogelsberg.\n\n**ERSTER SCHRITT:** \nEinen gut einsehbaren Stellplatz an der Durchfahrtsstraße (L3141) pachten und feste Liefervereinbarungen mit zwei Erzeugern aus der unmittelbaren Region treffen.",
-          "ts": "2026-11-01 18:48",
+          "text": "**WAS:** \nDie „Pendler-Kiste Königreich“ ist ein wöchentliches Abo-Paket mit saisonalem Gemüse, Eiern und Wurstwaren von Höfen rund um Flieden, das donnerstags in einer gekühlten Abholstation direkt am Fliedener Bahnhof bereitsteht.\n\n**für WEN:** \nFür Berufspendler und vielbeschäftigte Familien aus der Gemeinde, die nach dem Feierabend ohne Supermarkt-Umweg frische Lebensmittel direkt aus der Heimat mitnehmen möchten.\n\n**ERSTER SCHRITT:** \nSchließe dich mit zwei lokalen Erzeugern zusammen und verteile an einem Donnerstagmorgen Infoflyer am Bahnsteig in Flieden, um die ersten 20 Test-Abonnenten zu gewinnen.",
+          "ts": "2026-11-01 22:33",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-hosenfeld",
-          "title": "Vulkanregion-Tourismus — Hosenfeld  ·  Chancen",
+          "agent": "handwerk-flieden",
+          "title": "Handwerk-Sichtbarkeit — Flieden  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nDas Erlebnis-Paket „Hosenfelder Sandstein & Wald-Picknick“ kombiniert eine E-Bike-Geführte Entdeckertour zu den historischen Buntsandsteinbrüchen im Jossagrund mit einem prall gefüllten Rucksack voller regionaler Vogelsberg-Spezialitäten.\n\n**für WEN:** \nDieses Angebot richtet sich an genussorientierte Paare und Aktivurlauber, die die idyllische Naturkulisse an den Ausläufern des Vogelsbergs entschleunigt und kulinarisch erkunden möchten.\n\n**ERSTER SCHRITT:** \nWähle deinen Wunschtermin auf unserer Buchungsplattform aus und sichere dir dein Rundum-Sorglos-Paket mit wenigen Klicks online.",
-          "ts": "2026-11-01 18:47",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Notdienste und Wärmepumpen-Modernisierung in Flieden und Umgebung).\n\n**Ansprache-Idee:** \n„Hallo [Name], wenn Fliedener bei einem Heizungsausfall oder für den Wärmepumpen-Umstieg direkt auf dem Smartphone nach Hilfe suchen, sollten sie sofort bei Ihrem Betrieb landen – wollen wir Ihren Google-Auftritt dafür einmal ehrlich und ohne Schnickschnack aufstellen?“",
+          "ts": "2026-11-01 22:33",
           "age_min": 0
         }
       ]
@@ -116,11 +116,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-hosenfeld",
-          "title": "Senioren-Alltagsdienste — Hosenfeld  ·  Kunden",
+          "agent": "senioren-flieden",
+          "title": "Senioren-Alltagsdienste — Flieden  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nEin verlässlicher Dorf-Begleit- und Fahrdienst, der ältere Menschen individuell zu Arztterminen oder Einkäufen bringt und sie auf Wunsch aufmerksam beim Tragen der Taschen oder bei kleinen Botengängen unterstützt.\n\n**WARUM HIER:** \nIn den acht weit verstreuten Ortsteilen von Hosenfeld fehlen in vielen Dörfern die Geschäfte des täglichen Bedarfs, sodass dieser mobile Dienst Einsamkeit verhindert und das selbstbestimmte Leben im eigenen Zuhause sichert.\n\n**ERSTER SCHRITT:** \nIn Kooperation mit der Gemeinde Hosenfeld wird eine feste Telefon-Sprechstunde eingerichtet, um den konkreten Bedarf der Seniorinnen und Senioren abzufragen und erste ehrenamtliche Fahrerinnen und Fahrer aus der Region zu gewinnen.",
-          "ts": "2026-11-01 18:48",
+          "text": "**WAS:** \nEin würdevoller, mobiler Begleit- und Besorgungsdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Einkaufskarten, Arztbesuche oder gesellschaftliche Treffen im Kernort Flieden zu ermöglichen.\n\n**WARUM HIER:** \nDurch die Aufteilung Fliedens in mehrere weit verstreute Ortsteile (wie Buchenrod oder Magdlos) schützt dieser Dienst die Selbstständigkeit der Senioren genau dort, wo es an eigener Mobilität und lokalen Dorfläden fehlt.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung Flieden und den Ortsbeiräten wird ein runder Tisch einberufen, um den konkreten Bedarf in den Dörfern zu ermitteln und verlässliche, lokale Fahrer-Paten zu gewinnen.",
+          "ts": "2026-11-01 22:34",
           "age_min": 0
         }
       ]
