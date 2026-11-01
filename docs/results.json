@@ -1,48 +1,126 @@
 {
-  "updated": "2026-11-01 06:51 UTC",
-  "total_results": 2,
-  "total_depts": 1,
+  "updated": "2026-11-01 13:59 UTC",
+  "total_results": 6,
+  "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-grossenlueder",
-      "title": "Vulkanregion-Tourismus — Grossenlueder  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-eichenzell",
+      "title": "Senioren-Alltagsdienste — Eichenzell  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Das Paket „Vulkan-Picknick am Lüderufer“ beinhaltet eine geführte Natur-Wanderung zu den schönsten Aussichtspunkten rund um Großenlüder inklusive eines prall gefüllten Rucksacks mit regionalen Spezialitäten aus Vogelsberg und Rhön.\n\n**für WEN:** Dieses Erlebnis richtet sich an Genusswanderer, Paare und kleine Gruppen, die eine entspannte Auszeit im Grünen mit lokalem Kulinarik-Genuss verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und reservieren Sie Ihren Picknick-Rucksack direkt online mit zwei Klicks.",
-      "ts": "2026-11-01 06:51",
+      "text": "**WAS**  \nDer „Eichenzeller Dorfbegleiter“ ist ein verlässlicher Hol- und Begleitdienst, der ältere Menschen aus den verschiedenen Ortsteilen zu Besorgungen, Arztterminen oder Gemeinschaftstreffen fährt und sie vor Ort geduldig unterstützt.\n\n**WARUM HIER**  \nIn den weit verstreuten Ortsteilen von Eichenzell fehlen oft Geschäfte direkt vor der Haustür, weshalb eine würdevolle, individuelle Mobilität die Schlüsselvoraussetzung ist, um weiterhin selbstbestimmt im eigenen Zuhause leben zu können.\n\n**ERSTER SCHRITT**  \nGemeinsam mit der Gemeinde Eichenzell und den Ortsbeiräten wird ein Runder Tisch ins Leben gerufen, um den genauen Bedarf der Senioren abzufragen und engagierte Nachbarn als Fahrer zu gewinnen.",
+      "ts": "2026-11-01 13:59",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-grossenlueder",
-      "title": "Direktvermarktung — Grossenlueder  ·  Chancen",
+      "agent": "tourismus-eichenzell",
+      "title": "Vulkanregion-Tourismus — Eichenzell  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nDie „Lüder-Vesper-Box“ ist eine wöchentliche Abokiste mit frischem Holzofenbrot, feiner Ahler Wurst, regionalem Käse und knackigem Saison-Gemüse direkt von Erzeugern aus dem Lüder- und Fuldatal.\n\n**FÜR WEN:** \nFür beschäftigte Familien und Pendler aus Großenlüder und den umliegenden Ortsteilen, die nach dem Feierabend ohne Aufwand ehrliche, heimische Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nZwei lokale Höfe und den örtlichen Bäcker an einen Tisch holen, um ein einfaches Test-Paket für die ersten 20 Test-Haushalte schnüren.",
-      "ts": "2026-11-01 06:51",
+      "text": "**WAS:** Genießen Sie ein regionales Gourmet-Picknick im malerischen Schlosspark Fasanerie inklusive Eintrittskarten für eine exklusive Führung durch Hessens schönstes Barockschloss.\n\n**FÜR WEN:** Dieses Paket ist ideal für Paare und Genießer, die Kultur, Natur und Rhöner Spezialitäten bei einem romantischen Tagesausflug verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihren Wunschtermin aus und reservieren Sie Ihr Erlebnispaket mit wenigen Klicks über unsere Buchungsplattform.",
+      "ts": "2026-11-01 13:59",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-eichenzell",
+      "title": "Direktvermarktung — Eichenzell  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEine wöchentlich wechselnde „Rhön-Feierabend-Kiste“ mit regionalen Grundnahrungsmitteln wie frischem Brot, Käse, Eiern und Saison-Gemüse, die kontaktlos an einer 24/7-Abholstation in Eichenzell bereitsteht.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Eichenzell und Umgebung, die Wert auf ehrliche Hofprodukte legen, es aber zeitlich nicht in die klassischen Hofläden schaffen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger aus dem unmittelbaren Eichenzeller Umland an einen Tisch holen und eine Test-Aktion mit 20 festen Abo-Kunden starten.",
+      "ts": "2026-11-01 13:59",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-eichenzell",
+      "title": "Handwerk-Sichtbarkeit — Eichenzell  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbau-Betrieb** (mit Fokus auf Wärmepumpen-Umrüstung und Bad-Sanierungen) in Eichenzell.\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Eichenzeller Eigenheimbesitzer auf Google nach einer neuen Heizung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Ort bleiben?“",
+      "ts": "2026-11-01 13:58",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-eichenzell",
+      "title": "Chancen-Scout — Eichenzell  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler B2B-Reinigungsservice, der Dienst- und Vertriebsfahrzeuge mit wasserloser Öko-Technik direkt auf den Firmengeländen aufbereitet, während die Mitarbeiter arbeiten.\n\n**WARUM HIER:** Der Industriepark Rhön in Eichenzell beherbergt eine enorm hohe Dichte an Logistik-, Handwerks- und Vertriebsunternehmen mit großen Fuhrparks, deren Pflege im Betriebsalltag oft auf der Strecke bleibt.\n\n**ERSTER SCHRITT:** Drei ausgewählten Betriebsleitern im Industriepark Rhön eine kostenlose Probe-Aufbereitung ihres Chefsessels oder Dienstwagens anbieten, um direkt vor Ort den ersten Dauerwartungsvertrag abzuschließen.",
+      "ts": "2026-11-01 13:58",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grossenlueder",
+      "title": "Senioren-Alltagsdienste — Grossenlueder  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** \nEin mobiler Alltags- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, sie bei Einkäufen oder Arztbesuchen würdevoll unterstützt und kleine Besorgungen zwischen den Ortsteilen übernimmt.\n\n**WARUM HIER:** \nDa Großenlüder aus sieben verstreuten Ortsteilen besteht und die Wege zum Kernort ohne eigenes Auto beschwerlich sind, bewahrt dieser Dienst die Selbstständigkeit und soziale Teilhabe der Senioren in ihrer gewohnten Heimat.\n\n**ERSTER SCHRITT:** \nIn Kooperation mit der Gemeindeverwaltung und den lokalen Kirchengemeinden wird ein runder Tisch eingerichtet, um ehrenamtliche Begleitpersonen aus den einzelnen Dörfern zu gewinnen und erste feste Routen abzustimmen.",
+      "ts": "2026-11-01 13:58",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 4,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-grossenlueder",
-          "title": "Vulkanregion-Tourismus — Grossenlueder  ·  Chancen",
+          "agent": "tourismus-eichenzell",
+          "title": "Vulkanregion-Tourismus — Eichenzell  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Das Paket „Vulkan-Picknick am Lüderufer“ beinhaltet eine geführte Natur-Wanderung zu den schönsten Aussichtspunkten rund um Großenlüder inklusive eines prall gefüllten Rucksacks mit regionalen Spezialitäten aus Vogelsberg und Rhön.\n\n**für WEN:** Dieses Erlebnis richtet sich an Genusswanderer, Paare und kleine Gruppen, die eine entspannte Auszeit im Grünen mit lokalem Kulinarik-Genuss verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und reservieren Sie Ihren Picknick-Rucksack direkt online mit zwei Klicks.",
-          "ts": "2026-11-01 06:51",
+          "text": "**WAS:** Genießen Sie ein regionales Gourmet-Picknick im malerischen Schlosspark Fasanerie inklusive Eintrittskarten für eine exklusive Führung durch Hessens schönstes Barockschloss.\n\n**FÜR WEN:** Dieses Paket ist ideal für Paare und Genießer, die Kultur, Natur und Rhöner Spezialitäten bei einem romantischen Tagesausflug verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihren Wunschtermin aus und reservieren Sie Ihr Erlebnispaket mit wenigen Klicks über unsere Buchungsplattform.",
+          "ts": "2026-11-01 13:59",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-grossenlueder",
-          "title": "Direktvermarktung — Grossenlueder  ·  Chancen",
+          "agent": "direkt-eichenzell",
+          "title": "Direktvermarktung — Eichenzell  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nDie „Lüder-Vesper-Box“ ist eine wöchentliche Abokiste mit frischem Holzofenbrot, feiner Ahler Wurst, regionalem Käse und knackigem Saison-Gemüse direkt von Erzeugern aus dem Lüder- und Fuldatal.\n\n**FÜR WEN:** \nFür beschäftigte Familien und Pendler aus Großenlüder und den umliegenden Ortsteilen, die nach dem Feierabend ohne Aufwand ehrliche, heimische Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nZwei lokale Höfe und den örtlichen Bäcker an einen Tisch holen, um ein einfaches Test-Paket für die ersten 20 Test-Haushalte schnüren.",
-          "ts": "2026-11-01 06:51",
+          "text": "**WAS:** \nEine wöchentlich wechselnde „Rhön-Feierabend-Kiste“ mit regionalen Grundnahrungsmitteln wie frischem Brot, Käse, Eiern und Saison-Gemüse, die kontaktlos an einer 24/7-Abholstation in Eichenzell bereitsteht.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Eichenzell und Umgebung, die Wert auf ehrliche Hofprodukte legen, es aber zeitlich nicht in die klassischen Hofläden schaffen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger aus dem unmittelbaren Eichenzeller Umland an einen Tisch holen und eine Test-Aktion mit 20 festen Abo-Kunden starten.",
+          "ts": "2026-11-01 13:59",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-eichenzell",
+          "title": "Handwerk-Sichtbarkeit — Eichenzell  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbau-Betrieb** (mit Fokus auf Wärmepumpen-Umrüstung und Bad-Sanierungen) in Eichenzell.\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Eichenzeller Eigenheimbesitzer auf Google nach einer neuen Heizung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Ort bleiben?“",
+          "ts": "2026-11-01 13:58",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-eichenzell",
+          "title": "Chancen-Scout — Eichenzell  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler B2B-Reinigungsservice, der Dienst- und Vertriebsfahrzeuge mit wasserloser Öko-Technik direkt auf den Firmengeländen aufbereitet, während die Mitarbeiter arbeiten.\n\n**WARUM HIER:** Der Industriepark Rhön in Eichenzell beherbergt eine enorm hohe Dichte an Logistik-, Handwerks- und Vertriebsunternehmen mit großen Fuhrparks, deren Pflege im Betriebsalltag oft auf der Strecke bleibt.\n\n**ERSTER SCHRITT:** Drei ausgewählten Betriebsleitern im Industriepark Rhön eine kostenlose Probe-Aufbereitung ihres Chefsessels oder Dienstwagens anbieten, um direkt vor Ort den ersten Dauerwartungsvertrag abzuschließen.",
+          "ts": "2026-11-01 13:58",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-eichenzell",
+          "title": "Senioren-Alltagsdienste — Eichenzell  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS**  \nDer „Eichenzeller Dorfbegleiter“ ist ein verlässlicher Hol- und Begleitdienst, der ältere Menschen aus den verschiedenen Ortsteilen zu Besorgungen, Arztterminen oder Gemeinschaftstreffen fährt und sie vor Ort geduldig unterstützt.\n\n**WARUM HIER**  \nIn den weit verstreuten Ortsteilen von Eichenzell fehlen oft Geschäfte direkt vor der Haustür, weshalb eine würdevolle, individuelle Mobilität die Schlüsselvoraussetzung ist, um weiterhin selbstbestimmt im eigenen Zuhause leben zu können.\n\n**ERSTER SCHRITT**  \nGemeinsam mit der Gemeinde Eichenzell und den Ortsbeiräten wird ein Runder Tisch ins Leben gerufen, um den genauen Bedarf der Senioren abzufragen und engagierte Nachbarn als Fahrer zu gewinnen.",
+          "ts": "2026-11-01 13:59",
+          "age_min": 0
+        },
+        {
+          "dept": "Kunden",
+          "agent": "senioren-grossenlueder",
+          "title": "Senioren-Alltagsdienste — Grossenlueder  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin mobiler Alltags- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, sie bei Einkäufen oder Arztbesuchen würdevoll unterstützt und kleine Besorgungen zwischen den Ortsteilen übernimmt.\n\n**WARUM HIER:** \nDa Großenlüder aus sieben verstreuten Ortsteilen besteht und die Wege zum Kernort ohne eigenes Auto beschwerlich sind, bewahrt dieser Dienst die Selbstständigkeit und soziale Teilhabe der Senioren in ihrer gewohnten Heimat.\n\n**ERSTER SCHRITT:** \nIn Kooperation mit der Gemeindeverwaltung und den lokalen Kirchengemeinden wird ein runder Tisch eingerichtet, um ehrenamtliche Begleitpersonen aus den einzelnen Dörfern zu gewinnen und erste feste Routen abzustimmen.",
+          "ts": "2026-11-01 13:58",
           "age_min": 0
         }
       ]
