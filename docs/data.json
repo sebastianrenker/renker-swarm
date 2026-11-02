@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-02T01:51Z",
+  "updated": "2026-11-02T08:45Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,8 +13,8 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Bei der „Tanner Schnitz- & Schaf-Auszeit“ gestalten Sie Ihr eigenes Holz-Souvenir mit einem Tanner Bildhauer und genießen anschließend ein regionales Picknick direkt auf einer idyllischen Rhönschaf-Weide. **FÜR WEN:** Das Angebot richtet sich an kreative Paare und Erholungssuchende, die traditionelles Rhöner Handwerk mit entschleunigender Natur verb",
-        "age_min": 1
+        "text": "**WAS:** Ein mobiler Gepäck- und E-Bike-Shuttleservice für Wandertouristen und Radfahrer auf den Etappenwegen rund um die Wasserkuppe. **WARUM HIER:** Als touristischer Hauptknotenpunkt der Hessischen Rhön mit Endbahnhof ist Gersfeld der ideale Start- und Zielort für Etappengäste, denen kleine lokale Pensionen mangels Kapazität selten eigenen Transfer bieten",
+        "age_min": 0
       }
     },
     {
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein ehrenamtlicher Abhol- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger aus den Ortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt. **WARUM HIER:** In den weit verstreuten Dörfern der Rhön-Gemeinde Tann fehlen oft Nahversorgung und engmaschige Busverbindungen, sodass ein p",
-        "age_min": 1
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1389,36 +1385,36 @@
       "name": "Direktvermarktung — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "Hier ist eine bodenständige Idee für die Region Tann (Rhön): **WAS:** Die **„Tanner Rhön-Vesperkiste“** ist ein flexibles Abo- oder Ausflugspaket, vollgepackt mit haltbar gemachten Hofprodukten aus dem Tanner Land wie Ha",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-tann",
       "name": "Vulkanregion-Tourismus — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der „Tanner Schnitz- & Schaf-Auszeit“ gestalten Sie Ihr eigenes Holz-Souvenir mit einem Tanner Bildhauer und genießen anschließend ein regionales Picknick direkt auf einer idyllischen Rhönschaf-Weide. **FÜR ",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-tann",
       "name": "Senioren-Alltagsdienste — Tann",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein ehrenamtlicher Abhol- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger aus den Ortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt. *",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-gersfeld",
       "name": "Chancen-Scout — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Gepäck- und E-Bike-Shuttleservice für Wandertouristen und Radfahrer auf den Etappenwegen rund um die Wasserkuppe. **WARUM HIER:** Als touristischer Hauptknotenpunkt der Hessischen Rhön mit Endbahnhof",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-gersfeld",
@@ -1503,33 +1499,17 @@
     }
   ],
   "budget": {
-    "used": 3,
+    "used": 4,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-tann",
-      "via": "gemini",
-      "text": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein ehrenamtlicher Abhol- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger aus den Ortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt. **WARUM HIER:** In den weit verstreuten Dörfern der Rhön-Gemeinde Tann fehlen oft Nahversorgung und engmaschige Busverbindungen, sodass ein p",
-      "ts": "2026-11-02 01:50",
-      "age_min": 1
-    },
-    {
       "dept": "Chancen",
-      "agent": "tourismus-tann",
+      "agent": "chancen-gersfeld",
       "via": "gemini",
-      "text": "**WAS:** Bei der „Tanner Schnitz- & Schaf-Auszeit“ gestalten Sie Ihr eigenes Holz-Souvenir mit einem Tanner Bildhauer und genießen anschließend ein regionales Picknick direkt auf einer idyllischen Rhönschaf-Weide. **FÜR WEN:** Das Angebot richtet sich an kreative Paare und Erholungssuchende, die traditionelles Rhöner Handwerk mit entschleunigender Natur verb",
-      "ts": "2026-11-02 01:50",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-tann",
-      "via": "gemini",
-      "text": "Hier ist eine bodenständige Idee für die Region Tann (Rhön): **WAS:** Die **„Tanner Rhön-Vesperkiste“** ist ein flexibles Abo- oder Ausflugspaket, vollgepackt mit haltbar gemachten Hofprodukten aus dem Tanner Land wie Hausmacher Wurst, Rhönkäse, Holzofenbrot und regionalem Apfelsaft. **fuer WEN:** Für heimische Familien und Pendler, die ohne Einkaufsstress e",
-      "ts": "2026-11-02 01:49",
-      "age_min": 1
+      "text": "**WAS:** Ein mobiler Gepäck- und E-Bike-Shuttleservice für Wandertouristen und Radfahrer auf den Etappenwegen rund um die Wasserkuppe. **WARUM HIER:** Als touristischer Hauptknotenpunkt der Hessischen Rhön mit Endbahnhof ist Gersfeld der ideale Start- und Zielort für Etappengäste, denen kleine lokale Pensionen mangels Kapazität selten eigenen Transfer bieten",
+      "ts": "2026-11-02 08:45",
+      "age_min": 0
     }
   ]
 }
