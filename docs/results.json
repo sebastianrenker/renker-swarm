@@ -1,30 +1,126 @@
 {
-  "updated": "2026-11-02 08:45 UTC",
-  "total_results": 1,
-  "total_depts": 1,
+  "updated": "2026-11-02 19:04 UTC",
+  "total_results": 6,
+  "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-gersfeld",
-      "title": "Chancen-Scout — Gersfeld  ·  Chancen",
+      "agent": "handwerk-hilders",
+      "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Gepäck- und E-Bike-Shuttleservice für Wandertouristen und Radfahrer auf den Etappenwegen rund um die Wasserkuppe.\n\n**WARUM HIER:** Als touristischer Hauptknotenpunkt der Hessischen Rhön mit Endbahnhof ist Gersfeld der ideale Start- und Zielort für Etappengäste, denen kleine lokale Pensionen mangels Kapazität selten eigenen Transfer bieten können.\n\n**ERSTER SCHRITT:** Fünf lokale Beherbergungsbetriebe als Partner gewinnen, Flyer auslegen und den Dienst schlank über eine direkte WhatsApp-Hotline starten.",
-      "ts": "2026-11-02 08:45",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbaubetrieb in Hilders.\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn in Hilders oder der Umgebung die Heizung streikt oder ein Bad saniert wird, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt deine Nummer finden, bevor der Auftrag an die Konkurrenz aus Fulda geht.“",
+      "ts": "2026-11-02 19:04",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-hilders",
+      "title": "Chancen-Scout — Hilders  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEin mobiler Picknick- und Brotzeit-Lieferservice, der frisch zusammengestellte Verpflegungskisten mit regionalen Rhöner Produkten direkt an Wanderparkplätze, Etappenpunkte oder Ferienunterkünfte im Ulstertal liefert.\n\n**WARUM HIER:** \nHilders ist als zentraler Luftkurort ein stark frequentierter Knotenpunkt für den HOCHRHÖNER sowie den Ulster-Radweg, leidet aber unter Ruhetagen und Lücken in der Streckengastronomie abseits des Ortskerns.\n\n**ERSTER SCHRITT:** \nKooperationen mit je einer Bäckerei und Metzgerei vor Ort schließen sowie Flyer mit QR-Code zur einfachen WhatsApp-Bestellung in den Hilderser Ferienwohnungen auslegen.",
+      "ts": "2026-11-02 19:04",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-gersfeld",
+      "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein ehrenamtlich getragener Begleit- und Fahrdienst holt Seniorinnen und Senioren direkt an ihrer Haustür in den Ortsteilen ab und begleitet sie verlässlich zu Besorgungen, Arztterminen oder Gemeinschaftsangeboten im Gersfelder Ortskern.\n\n**WARUM HIER:** In den steilen und weit verstreuten Rhöndörfern rund um Gersfeld ist der öffentliche Nahverkehr spärlich, weshalb mobile Nachbarschaftshilfe der Schlüssel für ein selbstbestimmtes Leben im eigenen Zuhause ist.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Stadtverwaltung und den Ortsbeiräten wird eine zentrale Telefonnummer im Rathaus eingerichtet, über die Fahrbedarfe unkompliziert angemeldet und an freiwillige Fahrpaten vermittelt werden.",
+      "ts": "2026-11-02 19:04",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-gersfeld",
+      "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** „Rhön-Sternenstunden“ ist eine geführte Abendwanderung ab Gersfeld mit einem prall gefüllten Picknick-Rucksack voller regionaler Biosphären-Spezialitäten und anschließender Sternenbeobachtung im lichtarmen Sternenpark Rhön.\n\n**fuer WEN:** Ideal für Paare, Genießer und Naturbegeisterte, die Entschleunigung suchen und die magische Nachtlandschaft der Rhön kulinarisch kombiniert erleben möchten.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihr Wunschdatum sowie die Picknick-Variante (klassisch oder vegetarisch) aus und buchen Sie Ihr Erlebnis verbindlich mit wenigen Klicks.",
+      "ts": "2026-11-02 19:04",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-gersfeld",
+      "title": "Direktvermarktung — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine saisonale „Rhöner Vesper-Kiste“ im wöchentlichen Abo mit frischem Bauernbrot, Rhönschaf-Spezialitäten, Hausmacher Wurst und Streuobst-Säften direkt von Höfen rund um Gersfeld.\n\n**fuer WEN:** Für einheimische Familien, Pendler und Rhön-Urlauber, die ehrliche, regionale Lebensmittel schätzen und den lokalen Bauernhof unterstützen wollen.\n\n**ERSTER SCHRITT:** Drei passende Landwirte aus dem Gersfelder Umland an einen Tisch holen, um ein einfaches Test-Sortiment und einen zentralen Abholort festzulegen.",
+      "ts": "2026-11-02 19:04",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-gersfeld",
+      "title": "Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEine traditionelle **Tischlerei / Schreinerei** in Gersfeld, die auf individuellen Innenausbau und die Ausstattung von Ferienwohnungen/Hotels spezialisiert ist.\n\n**Ansprache-Idee (1 Satz):**\n„Guten Tag Herr [Name], wenn Immobilienbesitzer in der Rhön ihre Ferienwohnung hochwertig renovieren wollen, suchen sie zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Echtholz-Arbeiten dort sofort gefunden werden, bevor die Aufträge an Großbetriebe aus Fulda gehen?“",
+      "ts": "2026-11-02 19:04",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 1,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-gersfeld",
-          "title": "Chancen-Scout — Gersfeld  ·  Chancen",
+          "agent": "handwerk-hilders",
+          "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler Gepäck- und E-Bike-Shuttleservice für Wandertouristen und Radfahrer auf den Etappenwegen rund um die Wasserkuppe.\n\n**WARUM HIER:** Als touristischer Hauptknotenpunkt der Hessischen Rhön mit Endbahnhof ist Gersfeld der ideale Start- und Zielort für Etappengäste, denen kleine lokale Pensionen mangels Kapazität selten eigenen Transfer bieten können.\n\n**ERSTER SCHRITT:** Fünf lokale Beherbergungsbetriebe als Partner gewinnen, Flyer auslegen und den Dienst schlank über eine direkte WhatsApp-Hotline starten.",
-          "ts": "2026-11-02 08:45",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbaubetrieb in Hilders.\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn in Hilders oder der Umgebung die Heizung streikt oder ein Bad saniert wird, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt deine Nummer finden, bevor der Auftrag an die Konkurrenz aus Fulda geht.“",
+          "ts": "2026-11-02 19:04",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-hilders",
+          "title": "Chancen-Scout — Hilders  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEin mobiler Picknick- und Brotzeit-Lieferservice, der frisch zusammengestellte Verpflegungskisten mit regionalen Rhöner Produkten direkt an Wanderparkplätze, Etappenpunkte oder Ferienunterkünfte im Ulstertal liefert.\n\n**WARUM HIER:** \nHilders ist als zentraler Luftkurort ein stark frequentierter Knotenpunkt für den HOCHRHÖNER sowie den Ulster-Radweg, leidet aber unter Ruhetagen und Lücken in der Streckengastronomie abseits des Ortskerns.\n\n**ERSTER SCHRITT:** \nKooperationen mit je einer Bäckerei und Metzgerei vor Ort schließen sowie Flyer mit QR-Code zur einfachen WhatsApp-Bestellung in den Hilderser Ferienwohnungen auslegen.",
+          "ts": "2026-11-02 19:04",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-gersfeld",
+          "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** „Rhön-Sternenstunden“ ist eine geführte Abendwanderung ab Gersfeld mit einem prall gefüllten Picknick-Rucksack voller regionaler Biosphären-Spezialitäten und anschließender Sternenbeobachtung im lichtarmen Sternenpark Rhön.\n\n**fuer WEN:** Ideal für Paare, Genießer und Naturbegeisterte, die Entschleunigung suchen und die magische Nachtlandschaft der Rhön kulinarisch kombiniert erleben möchten.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihr Wunschdatum sowie die Picknick-Variante (klassisch oder vegetarisch) aus und buchen Sie Ihr Erlebnis verbindlich mit wenigen Klicks.",
+          "ts": "2026-11-02 19:04",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-gersfeld",
+          "title": "Direktvermarktung — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Eine saisonale „Rhöner Vesper-Kiste“ im wöchentlichen Abo mit frischem Bauernbrot, Rhönschaf-Spezialitäten, Hausmacher Wurst und Streuobst-Säften direkt von Höfen rund um Gersfeld.\n\n**fuer WEN:** Für einheimische Familien, Pendler und Rhön-Urlauber, die ehrliche, regionale Lebensmittel schätzen und den lokalen Bauernhof unterstützen wollen.\n\n**ERSTER SCHRITT:** Drei passende Landwirte aus dem Gersfelder Umland an einen Tisch holen, um ein einfaches Test-Sortiment und einen zentralen Abholort festzulegen.",
+          "ts": "2026-11-02 19:04",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-gersfeld",
+          "title": "Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEine traditionelle **Tischlerei / Schreinerei** in Gersfeld, die auf individuellen Innenausbau und die Ausstattung von Ferienwohnungen/Hotels spezialisiert ist.\n\n**Ansprache-Idee (1 Satz):**\n„Guten Tag Herr [Name], wenn Immobilienbesitzer in der Rhön ihre Ferienwohnung hochwertig renovieren wollen, suchen sie zuerst auf dem Smartphone – sorgen wir dafür, dass Ihre Echtholz-Arbeiten dort sofort gefunden werden, bevor die Aufträge an Großbetriebe aus Fulda gehen?“",
+          "ts": "2026-11-02 19:04",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-gersfeld",
+          "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein ehrenamtlich getragener Begleit- und Fahrdienst holt Seniorinnen und Senioren direkt an ihrer Haustür in den Ortsteilen ab und begleitet sie verlässlich zu Besorgungen, Arztterminen oder Gemeinschaftsangeboten im Gersfelder Ortskern.\n\n**WARUM HIER:** In den steilen und weit verstreuten Rhöndörfern rund um Gersfeld ist der öffentliche Nahverkehr spärlich, weshalb mobile Nachbarschaftshilfe der Schlüssel für ein selbstbestimmtes Leben im eigenen Zuhause ist.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Stadtverwaltung und den Ortsbeiräten wird eine zentrale Telefonnummer im Rathaus eingerichtet, über die Fahrbedarfe unkompliziert angemeldet und an freiwillige Fahrpaten vermittelt werden.",
+          "ts": "2026-11-02 19:04",
           "age_min": 0
         }
       ]
