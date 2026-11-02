@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-01T22:34Z",
+  "updated": "2026-11-02T01:51Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -13,8 +13,8 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Eine traditionelle **Schreinerei / Fensterbau-Betrieb** in Tann (Rhön). **Ansprache-Idee (1 Satz):** „Wenn Häuslebauer in der Rhön online nach neuen Fenstern oder Maßmöbeln suchen, landen sie aktuell bei der Konkurrenz aus der Stadt – lassen Sie uns dafür sorgen, dass der erste Klick bei Ihrem Meisterbetrieb direkt hier in Tann landet.“",
-        "age_min": 0
+        "text": "**WAS:** Bei der „Tanner Schnitz- & Schaf-Auszeit“ gestalten Sie Ihr eigenes Holz-Souvenir mit einem Tanner Bildhauer und genießen anschließend ein regionales Picknick direkt auf einer idyllischen Rhönschaf-Weide. **FÜR WEN:** Das Angebot richtet sich an kreative Paare und Erholungssuchende, die traditionelles Rhöner Handwerk mit entschleunigender Natur verb",
+        "age_min": 1
       }
     },
     {
@@ -32,8 +32,8 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein würdevoller, mobiler Begleit- und Besorgungsdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Einkaufskarten, Arztbesuche oder gesellschaftliche Treffen im Kernort Flieden zu ermöglichen. **WARUM HIER:** Durch die Aufteilung Fliedens in mehrere weit verstreute Ortsteile (wie Buchenrod oder Magdlos) schützt dieser Dienst die Selbstst",
-        "age_min": 0
+        "text": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein ehrenamtlicher Abhol- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger aus den Ortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt. **WARUM HIER:** In den weit verstreuten Dörfern der Rhön-Gemeinde Tann fehlen oft Nahversorgung und engmaschige Busverbindungen, sodass ein p",
+        "age_min": 1
       }
     },
     {
@@ -1335,81 +1335,81 @@
       "name": "Handwerk-Sichtbarkeit — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Notdienste und Wärmepumpen-Modernisierung in Flieden und Umgebung). **Ansprache-Idee:** „Hallo [Name], wenn Fliedener bei einem Heizungsausfall oder für den Wärmep",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-flieden",
       "name": "Direktvermarktung — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Pendler-Kiste Königreich“ ist ein wöchentliches Abo-Paket mit saisonalem Gemüse, Eiern und Wurstwaren von Höfen rund um Flieden, das donnerstags in einer gekühlten Abholstation direkt am Fliedener Bahnhof b",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-flieden",
       "name": "Vulkanregion-Tourismus — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Königreich-Alpaka-Trekking mit Rhöner Picknick“ – eine geführte Wandertour durch die malerische Fliedener Hügellandschaft inklusive eines reich befüllten Korbs voller lokaler Spezialitäten. **fuer WEN:** Für Pa",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-flieden",
       "name": "Senioren-Alltagsdienste — Flieden",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein würdevoller, mobiler Begleit- und Besorgungsdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Einkaufskarten, Arztbesuche oder gesellschaftliche Treffen im Kernort Flieden zu ermöglichen. **WARU",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-tann",
       "name": "Chancen-Scout — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler „Rhön-Brotzeit- & Picknick-Lieferservice“, der Wanderer und Ferienhausgäste auf Vorbestellung direkt an Wanderparkplätzen oder Unterkünften mit regionalen Vesper-Paketen versorgt. **WARUM HIER:** Tan",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-tann",
       "name": "Handwerk-Sichtbarkeit — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Eine traditionelle **Schreinerei / Fensterbau-Betrieb** in Tann (Rhön). **Ansprache-Idee (1 Satz):** „Wenn Häuslebauer in der Rhön online nach neuen Fenstern oder Maßmöbeln suchen, landen sie aktuell bei",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-tann",
       "name": "Direktvermarktung — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist eine bodenständige Idee für die Region Tann (Rhön): **WAS:** Die **„Tanner Rhön-Vesperkiste“** ist ein flexibles Abo- oder Ausflugspaket, vollgepackt mit haltbar gemachten Hofprodukten aus dem Tanner Land wie Ha",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "tourismus-tann",
       "name": "Vulkanregion-Tourismus — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei der „Tanner Schnitz- & Schaf-Auszeit“ gestalten Sie Ihr eigenes Holz-Souvenir mit einem Tanner Bildhauer und genießen anschließend ein regionales Picknick direkt auf einer idyllischen Rhönschaf-Weide. **FÜR ",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "senioren-tann",
       "name": "Senioren-Alltagsdienste — Tann",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein ehrenamtlicher Abhol- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger aus den Ortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt. *",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "chancen-gersfeld",
@@ -1503,57 +1503,33 @@
     }
   ],
   "budget": {
-    "used": 23,
+    "used": 3,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "handwerk-tann",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Eine traditionelle **Schreinerei / Fensterbau-Betrieb** in Tann (Rhön). **Ansprache-Idee (1 Satz):** „Wenn Häuslebauer in der Rhön online nach neuen Fenstern oder Maßmöbeln suchen, landen sie aktuell bei der Konkurrenz aus der Stadt – lassen Sie uns dafür sorgen, dass der erste Klick bei Ihrem Meisterbetrieb direkt hier in Tann landet.“",
-      "ts": "2026-11-01 22:34",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-tann",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler „Rhön-Brotzeit- & Picknick-Lieferservice“, der Wanderer und Ferienhausgäste auf Vorbestellung direkt an Wanderparkplätzen oder Unterkünften mit regionalen Vesper-Paketen versorgt. **WARUM HIER:** Tann ist ein Knotenpunkt am Premiumwanderweg „Der Hochrhöner“ mit vielen Ferienwohnungen, leidet aber gleichzeitig unter Schließungen klassisch",
-      "ts": "2026-11-01 22:34",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-flieden",
+      "agent": "senioren-tann",
       "via": "gemini",
-      "text": "**WAS:** Ein würdevoller, mobiler Begleit- und Besorgungsdienst, der ältere Menschen direkt an ihrer Haustür abholt, um Einkaufskarten, Arztbesuche oder gesellschaftliche Treffen im Kernort Flieden zu ermöglichen. **WARUM HIER:** Durch die Aufteilung Fliedens in mehrere weit verstreute Ortsteile (wie Buchenrod oder Magdlos) schützt dieser Dienst die Selbstst",
-      "ts": "2026-11-01 22:34",
-      "age_min": 0
+      "text": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein ehrenamtlicher Abhol- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger aus den Ortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt. **WARUM HIER:** In den weit verstreuten Dörfern der Rhön-Gemeinde Tann fehlen oft Nahversorgung und engmaschige Busverbindungen, sodass ein p",
+      "ts": "2026-11-02 01:50",
+      "age_min": 1
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-flieden",
+      "agent": "tourismus-tann",
       "via": "gemini",
-      "text": "**WAS:** „Königreich-Alpaka-Trekking mit Rhöner Picknick“ – eine geführte Wandertour durch die malerische Fliedener Hügellandschaft inklusive eines reich befüllten Korbs voller lokaler Spezialitäten. **fuer WEN:** Für Paare, Familien und Naturgenießer, die eine tierische Entschleunigung im Südlichen Fuldaer Land suchen. **ERSTER SCHRITT:** Wunschtermin im On",
-      "ts": "2026-11-01 22:33",
-      "age_min": 0
+      "text": "**WAS:** Bei der „Tanner Schnitz- & Schaf-Auszeit“ gestalten Sie Ihr eigenes Holz-Souvenir mit einem Tanner Bildhauer und genießen anschließend ein regionales Picknick direkt auf einer idyllischen Rhönschaf-Weide. **FÜR WEN:** Das Angebot richtet sich an kreative Paare und Erholungssuchende, die traditionelles Rhöner Handwerk mit entschleunigender Natur verb",
+      "ts": "2026-11-02 01:50",
+      "age_min": 1
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-flieden",
+      "agent": "direkt-tann",
       "via": "gemini",
-      "text": "**WAS:** Die „Pendler-Kiste Königreich“ ist ein wöchentliches Abo-Paket mit saisonalem Gemüse, Eiern und Wurstwaren von Höfen rund um Flieden, das donnerstags in einer gekühlten Abholstation direkt am Fliedener Bahnhof bereitsteht. **für WEN:** Für Berufspendler und vielbeschäftigte Familien aus der Gemeinde, die nach dem Feierabend ohne Supermarkt-Umweg fri",
-      "ts": "2026-11-01 22:33",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-flieden",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Notdienste und Wärmepumpen-Modernisierung in Flieden und Umgebung). **Ansprache-Idee:** „Hallo [Name], wenn Fliedener bei einem Heizungsausfall oder für den Wärmepumpen-Umstieg direkt auf dem Smartphone nach Hilfe suchen, sollten sie sofort bei Ihrem Betrieb landen – wollen wir Ihren Google-Auftritt da",
-      "ts": "2026-11-01 22:33",
-      "age_min": 0
+      "text": "Hier ist eine bodenständige Idee für die Region Tann (Rhön): **WAS:** Die **„Tanner Rhön-Vesperkiste“** ist ein flexibles Abo- oder Ausflugspaket, vollgepackt mit haltbar gemachten Hofprodukten aus dem Tanner Land wie Hausmacher Wurst, Rhönkäse, Holzofenbrot und regionalem Apfelsaft. **fuer WEN:** Für heimische Familien und Pendler, die ohne Einkaufsstress e",
+      "ts": "2026-11-02 01:49",
+      "age_min": 1
     }
   ]
 }
