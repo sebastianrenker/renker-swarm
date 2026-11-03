@@ -1,19 +1,23 @@
 {
-  "updated": "2026-11-02T19:04Z",
+  "updated": "2026-11-03T01:34Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Commander, der Tages-Fokus: 1. **Offerta:** 5 A-Händler im Raum Fulda direkt kontaktieren und die Top-Angebote für den Monat einloggen. 2. **Handwerk-Sichtbar:** 3 fertige Performance-Recruiting-Kampagnen freigeben und sofort live schalten. 3. **Vogelsberg-Chancen:** 2 regionale Anker-Arbeitgeber nachfassen und die Jahres-Pakete closen.",
+        "age_min": 0
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbaubetrieb in Hilders. **Ansprache-Idee:** „Hallo [Name], wenn in Hilders oder der Umgebung die Heizung streikt oder ein Bad saniert wird, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt deine Nummer finden, bevor der Auftrag an die Konkurrenz aus Fulda geht.“",
+        "text": "**WAS:** Ein schlanker B2B-Automatisierungsservice, der lokalen Handwerks- und Logistikbetrieben durch den gezielten Einsatz einfacher KI-Tools lästige Büroprozesse und die Angebotserstellung abnimmt. **WARUM HIER:** In Fulda trifft ein extrem solider, von Fachkräftemangel betroffener Mittelstand direkt auf über 9.000 Studierende der Hochschule (inkl. Fachbe",
         "age_min": 0
       }
     },
@@ -32,7 +36,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein ehrenamtlich getragener Begleit- und Fahrdienst holt Seniorinnen und Senioren direkt an ihrer Haustür in den Ortsteilen ab und begleitet sie verlässlich zu Besorgungen, Arztterminen oder Gemeinschaftsangeboten im Gersfelder Ortskern. **WARUM HIER:** In den steilen und weit verstreuten Rhöndörfern rund um Gersfeld ist der öffentliche Nahverkehr s",
+        "text": "**WAS:** Das „Dorf-Mobil Hilders“ ist ein persönlicher Hol- und Begleitdienst, der ältere Menschen flexibel an der eigenen Haustür abholt, zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bringt und sie dabei respektvoll unterstützt. **WARUM HIER:** In den bergigen und weit verstreuten Ortsteilen von Hilders erschweren steile Wege, lange Streck",
         "age_min": 0
       }
     },
@@ -48,27 +52,27 @@
       "name": "Chief of Staff — Tages-Digest",
       "dept": "Kommando",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Commander, der Tages-Fokus: 1. **Offerta:** 5 A-Händler im Raum Fulda direkt kontaktieren und die Top-Angebote für den Monat einloggen. 2. **Handwerk-Sichtbar:** 3 fertige Performance-Recruiting-Kampagnen freigeben und s",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-vogelsberg",
       "name": "Opportunity Finder — Vogelsberg",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein lokaler Lieferservice, der die Kühlschränke von Ferienwohnungen vor der Ankunft von Touristen auf Bestellung mit Frische-Paketen regionaler Vogelsberger Direktvermarkter (Käse, Wurst, Brot, Apfelwein) bestüc",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-fulda",
       "name": "Opportunity Finder — Fulda",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein schlanker B2B-Automatisierungsservice, der lokalen Handwerks- und Logistikbetrieben durch den gezielten Einsatz einfacher KI-Tools lästige Büroprozesse und die Angebotserstellung abnimmt. **WARUM HIER:** In ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "recherche-wettbewerb",
@@ -1425,134 +1429,134 @@
       "name": "Handwerk-Sichtbarkeit — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Eine traditionelle **Tischlerei / Schreinerei** in Gersfeld, die auf individuellen Innenausbau und die Ausstattung von Ferienwohnungen/Hotels spezialisiert ist. **Ansprache-Idee (1 Satz):** „Guten Tag He",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-gersfeld",
       "name": "Direktvermarktung — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine saisonale „Rhöner Vesper-Kiste“ im wöchentlichen Abo mit frischem Bauernbrot, Rhönschaf-Spezialitäten, Hausmacher Wurst und Streuobst-Säften direkt von Höfen rund um Gersfeld. **fuer WEN:** Für einheimische",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-gersfeld",
       "name": "Vulkanregion-Tourismus — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Rhön-Sternenstunden“ ist eine geführte Abendwanderung ab Gersfeld mit einem prall gefüllten Picknick-Rucksack voller regionaler Biosphären-Spezialitäten und anschließender Sternenbeobachtung im lichtarmen Stern",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-gersfeld",
       "name": "Senioren-Alltagsdienste — Gersfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein ehrenamtlich getragener Begleit- und Fahrdienst holt Seniorinnen und Senioren direkt an ihrer Haustür in den Ortsteilen ab und begleitet sie verlässlich zu Besorgungen, Arztterminen oder Gemeinschaftsangebot",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-hilders",
       "name": "Chancen-Scout — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Picknick- und Brotzeit-Lieferservice, der frisch zusammengestellte Verpflegungskisten mit regionalen Rhöner Produkten direkt an Wanderparkplätze, Etappenpunkte oder Ferienunterkünfte im Ulstertal lie",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-hilders",
       "name": "Handwerk-Sichtbarkeit — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbaubetrieb in Hilders. **Ansprache-Idee:** „Hallo [Name], wenn in Hilders oder der Umgebung die Heizung streikt oder ein Bad saniert wird, suchen die Leute zuerst auf dem Smartphone ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-hilders",
       "name": "Direktvermarktung — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine monatliche „Rhöner Vesper-Kiste“ im Abo mit bodenständigen Spezialitäten wie Rhönschaf-Landjägern, Rhöner Hofkäse, frischem Krustenbrot und Apfelsaft von heimischen Streuobstwiesen. **fuer WEN:** Für einhei",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-hilders",
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Rhöner Sternenschnuppen-Picknick“: Eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit Teleskop-Blick in den nächtlichen Sternenpark und einem Korb voller regionaler Biosphären-Spezialitäten. **",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-hilders",
       "name": "Senioren-Alltagsdienste — Hilders",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das „Dorf-Mobil Hilders“ ist ein persönlicher Hol- und Begleitdienst, der ältere Menschen flexibel an der eigenen Haustür abholt, zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bringt und sie dab",
+      "via": "gemini",
+      "age_min": 0
     }
   ],
   "budget": {
-    "used": 10,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-hilders",
+      "agent": "chancen-fulda",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbaubetrieb in Hilders. **Ansprache-Idee:** „Hallo [Name], wenn in Hilders oder der Umgebung die Heizung streikt oder ein Bad saniert wird, suchen die Leute zuerst auf dem Smartphone – sorgen wir dafür, dass sie direkt deine Nummer finden, bevor der Auftrag an die Konkurrenz aus Fulda geht.“",
-      "ts": "2026-11-02 19:04",
+      "text": "**WAS:** Ein schlanker B2B-Automatisierungsservice, der lokalen Handwerks- und Logistikbetrieben durch den gezielten Einsatz einfacher KI-Tools lästige Büroprozesse und die Angebotserstellung abnimmt. **WARUM HIER:** In Fulda trifft ein extrem solider, von Fachkräftemangel betroffener Mittelstand direkt auf über 9.000 Studierende der Hochschule (inkl. Fachbe",
+      "ts": "2026-11-03 01:34",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-hilders",
+      "agent": "chancen-vogelsberg",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Picknick- und Brotzeit-Lieferservice, der frisch zusammengestellte Verpflegungskisten mit regionalen Rhöner Produkten direkt an Wanderparkplätze, Etappenpunkte oder Ferienunterkünfte im Ulstertal liefert. **WARUM HIER:** Hilders ist als zentraler Luftkurort ein stark frequentierter Knotenpunkt für den HOCHRHÖNER sowie den Ulster-Radweg, ",
-      "ts": "2026-11-02 19:04",
+      "text": "**WAS:** Ein lokaler Lieferservice, der die Kühlschränke von Ferienwohnungen vor der Ankunft von Touristen auf Bestellung mit Frische-Paketen regionaler Vogelsberger Direktvermarkter (Käse, Wurst, Brot, Apfelwein) bestückt. **WARUM HIER:** Die Vulkanregion hat boomenden FeWo-Tourismus, aber durch den dünnen ländlichen Einzelhandel und frühe Ladenöffnungszeit",
+      "ts": "2026-11-03 01:34",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "kommando-digest",
+      "via": "gemini",
+      "text": "Commander, der Tages-Fokus: 1. **Offerta:** 5 A-Händler im Raum Fulda direkt kontaktieren und die Top-Angebote für den Monat einloggen. 2. **Handwerk-Sichtbar:** 3 fertige Performance-Recruiting-Kampagnen freigeben und sofort live schalten. 3. **Vogelsberg-Chancen:** 2 regionale Anker-Arbeitgeber nachfassen und die Jahres-Pakete closen.",
+      "ts": "2026-11-03 01:34",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-gersfeld",
+      "agent": "senioren-hilders",
       "via": "gemini",
-      "text": "**WAS:** Ein ehrenamtlich getragener Begleit- und Fahrdienst holt Seniorinnen und Senioren direkt an ihrer Haustür in den Ortsteilen ab und begleitet sie verlässlich zu Besorgungen, Arztterminen oder Gemeinschaftsangeboten im Gersfelder Ortskern. **WARUM HIER:** In den steilen und weit verstreuten Rhöndörfern rund um Gersfeld ist der öffentliche Nahverkehr s",
-      "ts": "2026-11-02 19:04",
+      "text": "**WAS:** Das „Dorf-Mobil Hilders“ ist ein persönlicher Hol- und Begleitdienst, der ältere Menschen flexibel an der eigenen Haustür abholt, zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bringt und sie dabei respektvoll unterstützt. **WARUM HIER:** In den bergigen und weit verstreuten Ortsteilen von Hilders erschweren steile Wege, lange Streck",
+      "ts": "2026-11-03 01:33",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-gersfeld",
+      "agent": "tourismus-hilders",
       "via": "gemini",
-      "text": "**WAS:** „Rhön-Sternenstunden“ ist eine geführte Abendwanderung ab Gersfeld mit einem prall gefüllten Picknick-Rucksack voller regionaler Biosphären-Spezialitäten und anschließender Sternenbeobachtung im lichtarmen Sternenpark Rhön. **fuer WEN:** Ideal für Paare, Genießer und Naturbegeisterte, die Entschleunigung suchen und die magische Nachtlandschaft der R",
-      "ts": "2026-11-02 19:04",
+      "text": "**WAS:** „Rhöner Sternenschnuppen-Picknick“: Eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit Teleskop-Blick in den nächtlichen Sternenpark und einem Korb voller regionaler Biosphären-Spezialitäten. **für WEN:** Perfekt für Paare, Romantiker und Astronomie-Begeisterte, die den faszinierenden Nachthemel der Rhön ungestört und kulinarisch be",
+      "ts": "2026-11-03 01:33",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-gersfeld",
+      "agent": "direkt-hilders",
       "via": "gemini",
-      "text": "**WAS:** Eine saisonale „Rhöner Vesper-Kiste“ im wöchentlichen Abo mit frischem Bauernbrot, Rhönschaf-Spezialitäten, Hausmacher Wurst und Streuobst-Säften direkt von Höfen rund um Gersfeld. **fuer WEN:** Für einheimische Familien, Pendler und Rhön-Urlauber, die ehrliche, regionale Lebensmittel schätzen und den lokalen Bauernhof unterstützen wollen. **ERSTER ",
-      "ts": "2026-11-02 19:04",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-gersfeld",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Eine traditionelle **Tischlerei / Schreinerei** in Gersfeld, die auf individuellen Innenausbau und die Ausstattung von Ferienwohnungen/Hotels spezialisiert ist. **Ansprache-Idee (1 Satz):** „Guten Tag Herr [Name], wenn Immobilienbesitzer in der Rhön ihre Ferienwohnung hochwertig renovieren wollen, suchen sie zuerst auf dem Smartphone – sorge",
-      "ts": "2026-11-02 19:04",
+      "text": "**WAS:** Eine monatliche „Rhöner Vesper-Kiste“ im Abo mit bodenständigen Spezialitäten wie Rhönschaf-Landjägern, Rhöner Hofkäse, frischem Krustenbrot und Apfelsaft von heimischen Streuobstwiesen. **fuer WEN:** Für einheimische Haushalte im Ulstertal sowie für Vermieter von Ferienwohnungen rund um Hilders, die ihren Urlaubsgästen ein regionales Begrüßungspake",
+      "ts": "2026-11-03 01:33",
       "age_min": 0
     }
   ]

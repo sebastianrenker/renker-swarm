@@ -1,10 +1,10 @@
 {
-  "day": "2026-11-02",
-  "calls_today": 10,
+  "day": "2026-11-03",
+  "calls_today": 6,
   "last_run": {
-    "kommando-digest": 1792862750.7136796,
-    "chancen-vogelsberg": 1792862761.0560787,
-    "chancen-fulda": 1792862769.484034,
+    "kommando-digest": 1793669643.1425157,
+    "chancen-vogelsberg": 1793669653.7041802,
+    "chancen-fulda": 1793669661.6226518,
     "recherche-wettbewerb": 1792862784.2605932,
     "bau-landing-copy": 1792870718.5859108,
     "kunden-faq": 1792870738.8091073,
@@ -161,8 +161,8 @@
     "senioren-gersfeld": 1793646267.3883955,
     "chancen-hilders": 1793646279.4579282,
     "handwerk-hilders": 1793646287.3898914,
-    "direkt-hilders": 1792850466.6105568,
-    "tourismus-hilders": 1792862736.736835,
-    "senioren-hilders": 1792862744.919992
+    "direkt-hilders": 1793669621.288002,
+    "tourismus-hilders": 1793669628.4865294,
+    "senioren-hilders": 1793669637.6003602
   }
 }
