@@ -1,7 +1,129 @@
 {
-  "updated": "2026-11-03 16:34 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-11-03 22:00 UTC",
+  "total_results": 6,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-alsfeld",
+      "title": "Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb (SHK)** in Alsfeld (besonders mit Fokus auf Heizungswechsel/Wärmepumpen oder Badrenovierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Hausbesitzer in und um Alsfeld nach einer neuen Heizung googeln, finden sie aktuell meist Betriebe aus Gießen oder Fulda – wollen wir Ihr Google-Profil so aufstellen, dass die lukrativen Aufträge direkt bei Ihnen im Ort landen?“",
+      "ts": "2026-11-03 22:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-alsfeld",
+      "title": "Chancen-Scout — Alsfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEin unabhängiger Sanierungs- und Handwerker-Koordinationsservice für Pendler-Familien, die im Alsfelder Raum Altbauten oder Bestandsimmobilien kaufen.\n\n**WARUM HIER:** \nAlsfeld zieht durch die A5-Anbindung vermehrt Rhein-Main-Pendler an, die bezahlbaren Wohnraum suchen, denen vor Ort aber die Zeit für die Baustellenbetreuung und das lokale Handwerker-Netzwerk fehlen.\n\n**ERSTER SCHRITT:** \nScoute fünf verlässliche, lokale Handwerksbetriebe im Vogelsbergkreis für Kooperationen und schalte eine einfache Landingpage mit Festpreis-Paketen für die regionale Baubetreuung.",
+      "ts": "2026-11-03 22:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-lauterbach",
+      "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** \nEin verlässlicher, ehrenamtlich unterstützter Fahr- und Begleitdienst, der ältere Menschen aus den verstreuten Lauterbacher Ortsteilen für Besorgungen, Arztbesuche und soziale Kontakte sicher in die Kernstadt und wieder nach Hause bringt.\n\n**WARUM HIER:** \nIn den weitflächig verteilten Ortsteilen von Lauterbach fehlen zunehmend fußläufige Einkaufsmöglichkeiten sowie dichte Busverbindungen, was die eigenständige Lebensführung und Mobilität im Alter stark einschränkt.\n\n**ERSTER SCHRITT:** \nEin persönliches Gespräch mit den lokalen Ortsvorstehern und dem Seniorenbeirat führen, um den genauen Bedarf in den Dörfern zu ermitteln und erste freiwillige Fahrer aus der Nachbarschaft zu gewinnen.",
+      "ts": "2026-11-03 22:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-lauterbach",
+      "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein geführter Dämmerungsspaziergang zu den berühmten Lauterbacher Schrittsteinen inklusive Anekdoten zur Strolch-Sage und einem vorgepackten Picknickkorb voll Vogelsberger Regional-Spezialitäten.\n\n**fuer WEN:** Perfekt für Paare und kleine Freundesgruppen, die Kulturgeschichte unkompliziert mit Naturgenuss und regionaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform einfach deinen Wunschtermin aus und reserviere das Paket mit wenigen Klicks online.",
+      "ts": "2026-11-03 22:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-lauterbach",
+      "title": "Direktvermarktung — Lauterbach  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEine „Vogelsberger Feierabend-Box“ im wöchentlichen Abo mit ehrlicher Hausmacher Wurst, regionalem Käse, frischem Landbrot und Saison-Gemüse von Höfen rund um Lauterbach.\n\n**fuer WEN:** \nFür berufstätige Pendler und Familien aus Lauterbach und Umgebung, die Wert auf lokale Lebensmittel legen, aber unter der Woche keine Zeit für Fahrten zu verschiedenen Hofläden haben.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (z. B. ein Metzger, ein Bäcker und ein Gemüsehof) an einen Tisch holen, um den Inhalt der ersten Test-Box und einen zentralen Abholort in Lauterbach festzulegen.",
+      "ts": "2026-11-03 22:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-lauterbach",
+      "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:**  \nEin **Heizungs- und Sanitärbetrieb** in Lauterbach (besonders mit Fokus auf Wärmepumpen oder Badsanierung).\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo Herr [Name],",
+      "ts": "2026-11-03 22:00",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 5,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-alsfeld",
+          "title": "Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb (SHK)** in Alsfeld (besonders mit Fokus auf Heizungswechsel/Wärmepumpen oder Badrenovierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Hausbesitzer in und um Alsfeld nach einer neuen Heizung googeln, finden sie aktuell meist Betriebe aus Gießen oder Fulda – wollen wir Ihr Google-Profil so aufstellen, dass die lukrativen Aufträge direkt bei Ihnen im Ort landen?“",
+          "ts": "2026-11-03 22:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-alsfeld",
+          "title": "Chancen-Scout — Alsfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEin unabhängiger Sanierungs- und Handwerker-Koordinationsservice für Pendler-Familien, die im Alsfelder Raum Altbauten oder Bestandsimmobilien kaufen.\n\n**WARUM HIER:** \nAlsfeld zieht durch die A5-Anbindung vermehrt Rhein-Main-Pendler an, die bezahlbaren Wohnraum suchen, denen vor Ort aber die Zeit für die Baustellenbetreuung und das lokale Handwerker-Netzwerk fehlen.\n\n**ERSTER SCHRITT:** \nScoute fünf verlässliche, lokale Handwerksbetriebe im Vogelsbergkreis für Kooperationen und schalte eine einfache Landingpage mit Festpreis-Paketen für die regionale Baubetreuung.",
+          "ts": "2026-11-03 22:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-lauterbach",
+          "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein geführter Dämmerungsspaziergang zu den berühmten Lauterbacher Schrittsteinen inklusive Anekdoten zur Strolch-Sage und einem vorgepackten Picknickkorb voll Vogelsberger Regional-Spezialitäten.\n\n**fuer WEN:** Perfekt für Paare und kleine Freundesgruppen, die Kulturgeschichte unkompliziert mit Naturgenuss und regionaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform einfach deinen Wunschtermin aus und reserviere das Paket mit wenigen Klicks online.",
+          "ts": "2026-11-03 22:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-lauterbach",
+          "title": "Direktvermarktung — Lauterbach  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEine „Vogelsberger Feierabend-Box“ im wöchentlichen Abo mit ehrlicher Hausmacher Wurst, regionalem Käse, frischem Landbrot und Saison-Gemüse von Höfen rund um Lauterbach.\n\n**fuer WEN:** \nFür berufstätige Pendler und Familien aus Lauterbach und Umgebung, die Wert auf lokale Lebensmittel legen, aber unter der Woche keine Zeit für Fahrten zu verschiedenen Hofläden haben.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (z. B. ein Metzger, ein Bäcker und ein Gemüsehof) an einen Tisch holen, um den Inhalt der ersten Test-Box und einen zentralen Abholort in Lauterbach festzulegen.",
+          "ts": "2026-11-03 22:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-lauterbach",
+          "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:**  \nEin **Heizungs- und Sanitärbetrieb** in Lauterbach (besonders mit Fokus auf Wärmepumpen oder Badsanierung).\n\n**Ansprache-Idee (1 Satz):**  \n„Hallo Herr [Name],",
+          "ts": "2026-11-03 22:00",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-lauterbach",
+          "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin verlässlicher, ehrenamtlich unterstützter Fahr- und Begleitdienst, der ältere Menschen aus den verstreuten Lauterbacher Ortsteilen für Besorgungen, Arztbesuche und soziale Kontakte sicher in die Kernstadt und wieder nach Hause bringt.\n\n**WARUM HIER:** \nIn den weitflächig verteilten Ortsteilen von Lauterbach fehlen zunehmend fußläufige Einkaufsmöglichkeiten sowie dichte Busverbindungen, was die eigenständige Lebensführung und Mobilität im Alter stark einschränkt.\n\n**ERSTER SCHRITT:** \nEin persönliches Gespräch mit den lokalen Ortsvorstehern und dem Seniorenbeirat führen, um den genauen Bedarf in den Dörfern zu ermitteln und erste freiwillige Fahrer aus der Nachbarschaft zu gewinnen.",
+          "ts": "2026-11-03 22:00",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
