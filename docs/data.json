@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-03T08:34Z",
+  "updated": "2026-11-03T16:34Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,47 +11,27 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler E-Bike-Schnellreparatur- und Akku-Tauschservice für Tourenfahrer und Einheimische. **WARUM HIER:** Lauterbach ist der zentrale Knotenpunkt des stark frequentierten Vulkanradwegs, weist bei Pannenhilfe direkt auf der Strecke bisher jedoch eine echte Versorgungslücke auf. **ERSTER SCHRITT:** Statte ein vorhandenes Fahrzeug mit Grundwerkzeu",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier ist eine strukturierte Preispositionierung für ein Digital-Sichtbarkeits-Paket im deutschsprachigen Handwerkssektor (DACH-Raum). Die Preise sind aufgeteilt in eine einmalige Einrichtungspauschale (Setup) und eine laufende monatliche Betreuungsgebühr (Wartung, Hosting, Updates). --- ### 1. Paket: Basis („Digitale Visitenkarte“) * **Preisspanne:** 1.200 €",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Bau",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier ist ein frisches, auf den Punkt gebrachtes Hero-Element für Ihre Landingpage: *** ### **Gute Arbeit. Volle Auftragsbücher. Endlich online sichtbar im Vogelsberg.** Wir bringen Ihren Betrieb bei Google und Social Media direkt vor die Nase Ihrer Kunden aus der Region. Sie konzentrieren sich auf Ihr Handwerk – wir holen die neuen Aufträge. [ **Jetzt Gratis",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier sind 3 ehrliche und direkte FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja, die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote, ein eigenes Briefpapier ohne unser Logo oder Team-Funktionen brauchst, kannst du jederzeit auf einen kostenpflichtigen T",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier sind die 3 wichtigsten finanziellen und rechtlichen Punkte, die Sie als vorsichtiger Kaufmann zwingend vor dem ersten Verkauf klären müssen: 1. **Gewerbeanmeldung & Steuerstatus:** Das Gewerbe muss offiziell angemeldet sein und die steuerliche Behandlung – insbesondere ob Sie die Kleinunternehmerregelung nach § 19 UStG nutzen oder Umsatzsteuer ausweisen",
-        "age_min": 0
-      }
+      "latest": null
     }
   ],
   "agents": [
@@ -87,45 +67,45 @@
       "name": "Researcher — Wettbewerb & Preise",
       "dept": "Recherche",
       "iv": 480,
-      "out": "Hier ist eine strukturierte Preispositionierung für ein Digital-Sichtbarkeits-Paket im deutschsprachigen Handwerkssektor (DACH-Raum). Die Preise sind aufgeteilt in eine einmalige Einrichtungspauschale (Setup) und eine la",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "bau-landing-copy",
       "name": "Web Designer — Landing-Texte",
       "dept": "Bau",
       "iv": 600,
-      "out": "Hier ist ein frisches, auf den Punkt gebrachtes Hero-Element für Ihre Landingpage: *** ### **Gute Arbeit. Volle Auftragsbücher. Endlich online sichtbar im Vogelsberg.** Wir bringen Ihren Betrieb bei Google und Social Med",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "kunden-faq",
       "name": "Support Agent — FAQ-Bausteine",
       "dept": "Kunden",
       "iv": 720,
-      "out": "Hier sind 3 ehrliche und direkte FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja, die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wen",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "finanzen-check",
       "name": "Treasurer — Zahlen-Check",
       "dept": "Finanzen",
       "iv": 1440,
-      "out": "Hier sind die 3 wichtigsten finanziellen und rechtlichen Punkte, die Sie als vorsichtiger Kaufmann zwingend vor dem ersten Verkauf klären müssen: 1. **Gewerbeanmeldung & Steuerstatus:** Das Gewerbe muss offiziell angemel",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "wachstum-offerta",
       "name": "Growth — Offerta",
       "dept": "Chancen",
       "iv": 720,
-      "out": "**IDEE: Der „Dieses Layout nutzen“-Loop** Statt eines passiven Branding-Badges („Erstellt mit Offerta“) nutzt du eine aktionsorientierte Fußzeile auf den versendeten Angeboten (PDF & Web-Ansicht): *„Gefällt dir dieses An",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-offerta",
@@ -177,9 +157,9 @@
       "name": "Chancen-Scout — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Schnellreparatur- und Akku-Tauschservice für Tourenfahrer und Einheimische. **WARUM HIER:** Lauterbach ist der zentrale Knotenpunkt des stark frequentierten Vulkanradwegs, weist bei Pannenhilf",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-lauterbach",
@@ -1518,54 +1498,5 @@
     "used": 12,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "chancen-lauterbach",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Schnellreparatur- und Akku-Tauschservice für Tourenfahrer und Einheimische. **WARUM HIER:** Lauterbach ist der zentrale Knotenpunkt des stark frequentierten Vulkanradwegs, weist bei Pannenhilfe direkt auf der Strecke bisher jedoch eine echte Versorgungslücke auf. **ERSTER SCHRITT:** Statte ein vorhandenes Fahrzeug mit Grundwerkzeu",
-      "ts": "2026-11-03 08:34",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "wachstum-offerta",
-      "via": "gemini",
-      "text": "**IDEE: Der „Dieses Layout nutzen“-Loop** Statt eines passiven Branding-Badges („Erstellt mit Offerta“) nutzt du eine aktionsorientierte Fußzeile auf den versendeten Angeboten (PDF & Web-Ansicht): *„Gefällt dir dieses Angebots-Format? Klicke hier, um dieselbe Vorlage kostenlos für deine eigenen Kunden zu nutzen.“* **WARUM:** 1. **Perfekte Zielgruppe:** Wer A",
-      "ts": "2026-11-03 08:34",
-      "age_min": 0
-    },
-    {
-      "dept": "Finanzen",
-      "agent": "finanzen-check",
-      "via": "gemini",
-      "text": "Hier sind die 3 wichtigsten finanziellen und rechtlichen Punkte, die Sie als vorsichtiger Kaufmann zwingend vor dem ersten Verkauf klären müssen: 1. **Gewerbeanmeldung & Steuerstatus:** Das Gewerbe muss offiziell angemeldet sein und die steuerliche Behandlung – insbesondere ob Sie die Kleinunternehmerregelung nach § 19 UStG nutzen oder Umsatzsteuer ausweisen",
-      "ts": "2026-11-03 08:34",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "kunden-faq",
-      "via": "gemini",
-      "text": "Hier sind 3 ehrliche und direkte FAQs für Offerta: **1. Ist Offerta wirklich kostenlos?** Ja, die Basisversion ist dauerhaft kostenlos. Du kannst damit bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Wenn du mehr Angebote, ein eigenes Briefpapier ohne unser Logo oder Team-Funktionen brauchst, kannst du jederzeit auf einen kostenpflichtigen T",
-      "ts": "2026-11-03 08:33",
-      "age_min": 0
-    },
-    {
-      "dept": "Bau",
-      "agent": "bau-landing-copy",
-      "via": "gemini",
-      "text": "Hier ist ein frisches, auf den Punkt gebrachtes Hero-Element für Ihre Landingpage: *** ### **Gute Arbeit. Volle Auftragsbücher. Endlich online sichtbar im Vogelsberg.** Wir bringen Ihren Betrieb bei Google und Social Media direkt vor die Nase Ihrer Kunden aus der Region. Sie konzentrieren sich auf Ihr Handwerk – wir holen die neuen Aufträge. [ **Jetzt Gratis",
-      "ts": "2026-11-03 08:33",
-      "age_min": 0
-    },
-    {
-      "dept": "Recherche",
-      "agent": "recherche-wettbewerb",
-      "via": "gemini",
-      "text": "Hier ist eine strukturierte Preispositionierung für ein Digital-Sichtbarkeits-Paket im deutschsprachigen Handwerkssektor (DACH-Raum). Die Preise sind aufgeteilt in eine einmalige Einrichtungspauschale (Setup) und eine laufende monatliche Betreuungsgebühr (Wartung, Hosting, Updates). --- ### 1. Paket: Basis („Digitale Visitenkarte“) * **Preisspanne:** 1.200 €",
-      "ts": "2026-11-03 08:33",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
