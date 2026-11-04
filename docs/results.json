@@ -1,57 +1,7 @@
 {
-  "updated": "2026-11-04 17:12 UTC",
-  "total_results": 2,
-  "total_depts": 2,
-  "active": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-schotten",
-      "title": "Senioren-Alltagsdienste — Schotten  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler „Dorf-Gefährte“, der ältere Menschen aus den Ortsteilen individuell zu Arztterminen oder Besorgungen begleitet und kleine alltägliche Verrichtungen im Haus übernimmt.\n\n**WARUM HIER:** Schotten umfasst 15 weit verstreute Ortsteile im hügeligen Vogelsberg, wo steile Wege und ein ausgedünnter Nahverkehr die eigenständige Versorgung im Alter stark erschweren.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit den lokalen Ortsbeiräten wird eine feste Anlaufstelle eingerichtet, um vertrauensvolle Begleitpersonen aus der Nachbarschaft mit Hilfesuchenden zusammenzubringen.",
-      "ts": "2026-11-04 17:12",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-schotten",
-      "title": "Vulkanregion-Tourismus — Schotten  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Erlebe eine geführte E-Bike-Feierabendtour von Schotten hinauf zum Hoherodskopf, gekrönt von einem Picknick mit regionalen Vogelsberger Spezialitäten zum Sonnenuntergang.\n\n**für WEN:** Genussradler, Paare und kleine Freundesgruppen, die ohne große Anstrengung die Vulkanlandschaft aktiv erleben und den Tag entspannt ausklingen lassen möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin sowie die passende E-Bike-Größe aus und erhalte deine Buchungsbestätigung direkt per Mail.",
-      "ts": "2026-11-04 17:12",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-schotten",
-          "title": "Vulkanregion-Tourismus — Schotten  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Erlebe eine geführte E-Bike-Feierabendtour von Schotten hinauf zum Hoherodskopf, gekrönt von einem Picknick mit regionalen Vogelsberger Spezialitäten zum Sonnenuntergang.\n\n**für WEN:** Genussradler, Paare und kleine Freundesgruppen, die ohne große Anstrengung die Vulkanlandschaft aktiv erleben und den Tag entspannt ausklingen lassen möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin sowie die passende E-Bike-Größe aus und erhalte deine Buchungsbestätigung direkt per Mail.",
-          "ts": "2026-11-04 17:12",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-schotten",
-          "title": "Senioren-Alltagsdienste — Schotten  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler „Dorf-Gefährte“, der ältere Menschen aus den Ortsteilen individuell zu Arztterminen oder Besorgungen begleitet und kleine alltägliche Verrichtungen im Haus übernimmt.\n\n**WARUM HIER:** Schotten umfasst 15 weit verstreute Ortsteile im hügeligen Vogelsberg, wo steile Wege und ein ausgedünnter Nahverkehr die eigenständige Versorgung im Alter stark erschweren.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit den lokalen Ortsbeiräten wird eine feste Anlaufstelle eingerichtet, um vertrauensvolle Begleitpersonen aus der Nachbarschaft mit Hilfesuchenden zusammenzubringen.",
-          "ts": "2026-11-04 17:12",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-11-04 22:37 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }
