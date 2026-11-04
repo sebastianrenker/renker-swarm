@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-04T09:08Z",
+  "updated": "2026-11-04T17:12Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Eine wöchentliche „Schottener Feierabend-Kiste“ im Abosystem, vollgepackt mit frischem Saisongemüse, Eiern, Bauernbrot und Hausmacher Wurst direkt von Erzeugern aus dem Vogelsberg, abholbereit an einer zentralen Station in Schotten. **fuer WEN:** Für berufstätige Familien und Pendler aus Schotten und den Ortsteilen, die Wert auf ehrliche, heimische ",
+        "text": "**WAS:** Erlebe eine geführte E-Bike-Feierabendtour von Schotten hinauf zum Hoherodskopf, gekrönt von einem Picknick mit regionalen Vogelsberger Spezialitäten zum Sonnenuntergang. **für WEN:** Genussradler, Paare und kleine Freundesgruppen, die ohne große Anstrengung die Vulkanlandschaft aktiv erleben und den Tag entspannt ausklingen lassen möchten. **ERSTER",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher „Dorf-Begleitdienst“, der ältere Menschen aus den umliegenden Ortsteilen direkt an der Haustür abholt, würdevoll bei Einkäufen oder Arztbesuchen in Alsfeld unterstützt und wieder sicher nach Hause bringt. **WARUM HIER:** In den 16 weit verstreuten Ortsteilen von Alsfeld fehlt zunehmend die Nahversorgung, weshalb Seniorinnen und Sen",
+        "text": "**WAS:** Ein mobiler „Dorf-Gefährte“, der ältere Menschen aus den Ortsteilen individuell zu Arztterminen oder Besorgungen begleitet und kleine alltägliche Verrichtungen im Haus übernimmt. **WARUM HIER:** Schotten umfasst 15 weit verstreute Ortsteile im hügeligen Vogelsberg, wo steile Wege und ein ausgedünnter Nahverkehr die eigenständige Versorgung im Alter ",
         "age_min": 0
       }
     },
@@ -228,72 +228,72 @@
       "name": "Direktvermarktung — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit frischen Zutaten von heimischen Höfen und einfachen Rezeptkarten für ein ehrliches Abendessen ohne langen Supermarkteinkauf. **fuer WEN:** Das",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-alsfeld",
       "name": "Vulkanregion-Tourismus — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Märchenhaftes Fachwerk & Vulkan-Picknick“: Eine selbstgeführte Rätsel-Tour durch Alsfelds historische Altstadt inklusive eines Rucksacks voller regionaler Spezialitäten für eine Pause im Grünen. **fuer WEN:** F",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-alsfeld",
       "name": "Senioren-Alltagsdienste — Alsfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher „Dorf-Begleitdienst“, der ältere Menschen aus den umliegenden Ortsteilen direkt an der Haustür abholt, würdevoll bei Einkäufen oder Arztbesuchen in Alsfeld unterstützt und wieder sicher nach Ha",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-schotten",
       "name": "Chancen-Scout — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Express-Service für E-Bikes und Gravelbikes (Pannenhilfe, Akku-Schnellladung und regionale Energie-Proviantpakete) auf Anhängerbasis an den Outdoor-Hotspots in Schotten. **WARUM HIER:** Schotten ist ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-schotten",
       "name": "Handwerk-Sichtbarkeit — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Badsanierung und Wärmepumpen) in Schotten. **Ansprache-Idee:** „Hallo Herr [Name], wenn Schottener auf dem Smartphone nach 'Bad sanieren' oder 'Wärmepumpe' suchen,",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-schotten",
       "name": "Direktvermarktung — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Schottener Feierabend-Kiste“ im Abosystem, vollgepackt mit frischem Saisongemüse, Eiern, Bauernbrot und Hausmacher Wurst direkt von Erzeugern aus dem Vogelsberg, abholbereit an einer zentralen",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-schotten",
       "name": "Vulkanregion-Tourismus — Schotten",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe eine geführte E-Bike-Feierabendtour von Schotten hinauf zum Hoherodskopf, gekrönt von einem Picknick mit regionalen Vogelsberger Spezialitäten zum Sonnenuntergang. **für WEN:** Genussradler, Paare und kle",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-schotten",
       "name": "Senioren-Alltagsdienste — Schotten",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler „Dorf-Gefährte“, der ältere Menschen aus den Ortsteilen individuell zu Arztterminen oder Besorgungen begleitet und kleine alltägliche Verrichtungen im Haus übernimmt. **WARUM HIER:** Schotten umfasst",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-herbstein",
@@ -1503,56 +1503,24 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 8,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-schotten",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Schottener Feierabend-Kiste“ im Abosystem, vollgepackt mit frischem Saisongemüse, Eiern, Bauernbrot und Hausmacher Wurst direkt von Erzeugern aus dem Vogelsberg, abholbereit an einer zentralen Station in Schotten. **fuer WEN:** Für berufstätige Familien und Pendler aus Schotten und den Ortsteilen, die Wert auf ehrliche, heimische ",
-      "ts": "2026-11-04 09:08",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-schotten",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (z. B. für Badsanierung und Wärmepumpen) in Schotten. **Ansprache-Idee:** „Hallo Herr [Name], wenn Schottener auf dem Smartphone nach 'Bad sanieren' oder 'Wärmepumpe' suchen, finden sie aktuell die große Konkurrenz aus Gießen oder Fulda – wollen wir sorgenfrei dafür sorgen, dass die lohnenden Aufträge hier bei Ih",
-      "ts": "2026-11-04 09:08",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-schotten",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Express-Service für E-Bikes und Gravelbikes (Pannenhilfe, Akku-Schnellladung und regionale Energie-Proviantpakete) auf Anhängerbasis an den Outdoor-Hotspots in Schotten. **WARUM HIER:** Schotten ist das Nadelöhr für Tausende Rad-Tagestouristen aus dem Rhein-Main-Gebiet, die am Hoherodskopf und Vulkanradweg bisher vergebens nach unkompliz",
-      "ts": "2026-11-04 09:08",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-alsfeld",
+      "agent": "senioren-schotten",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher „Dorf-Begleitdienst“, der ältere Menschen aus den umliegenden Ortsteilen direkt an der Haustür abholt, würdevoll bei Einkäufen oder Arztbesuchen in Alsfeld unterstützt und wieder sicher nach Hause bringt. **WARUM HIER:** In den 16 weit verstreuten Ortsteilen von Alsfeld fehlt zunehmend die Nahversorgung, weshalb Seniorinnen und Sen",
-      "ts": "2026-11-04 09:08",
+      "text": "**WAS:** Ein mobiler „Dorf-Gefährte“, der ältere Menschen aus den Ortsteilen individuell zu Arztterminen oder Besorgungen begleitet und kleine alltägliche Verrichtungen im Haus übernimmt. **WARUM HIER:** Schotten umfasst 15 weit verstreute Ortsteile im hügeligen Vogelsberg, wo steile Wege und ein ausgedünnter Nahverkehr die eigenständige Versorgung im Alter ",
+      "ts": "2026-11-04 17:12",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-alsfeld",
+      "agent": "tourismus-schotten",
       "via": "gemini",
-      "text": "**WAS:** „Märchenhaftes Fachwerk & Vulkan-Picknick“: Eine selbstgeführte Rätsel-Tour durch Alsfelds historische Altstadt inklusive eines Rucksacks voller regionaler Spezialitäten für eine Pause im Grünen. **fuer WEN:** Für Paare und kleine Gruppen, die Kultur, Rätselspaß und regionalen Genuss entspannt miteinander verbinden möchten. **ERSTER SCHRITT:** Wähle",
-      "ts": "2026-11-04 09:08",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-alsfeld",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ ist ein flexibles Wochen-Abo mit frischen Zutaten von heimischen Höfen und einfachen Rezeptkarten für ein ehrliches Abendessen ohne langen Supermarkteinkauf. **fuer WEN:** Das Angebot richtet sich an Berufstätige, Pendler und junge Familien aus Alsfeld und den Nachbardörfern, die wenig Zeit haben, aber bodenständi",
-      "ts": "2026-11-04 09:08",
+      "text": "**WAS:** Erlebe eine geführte E-Bike-Feierabendtour von Schotten hinauf zum Hoherodskopf, gekrönt von einem Picknick mit regionalen Vogelsberger Spezialitäten zum Sonnenuntergang. **für WEN:** Genussradler, Paare und kleine Freundesgruppen, die ohne große Anstrengung die Vulkanlandschaft aktiv erleben und den Tag entspannt ausklingen lassen möchten. **ERSTER",
+      "ts": "2026-11-04 17:12",
       "age_min": 0
     }
   ]
