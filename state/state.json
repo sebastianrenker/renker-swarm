@@ -1,6 +1,6 @@
 {
   "day": "2026-11-05",
-  "calls_today": 0,
+  "calls_today": 4,
   "last_run": {
     "kommando-digest": 1793669643.1425157,
     "chancen-vogelsberg": 1793669653.7041802,
@@ -25,10 +25,10 @@
     "direkt-schotten": 1793783331.2005446,
     "tourismus-schotten": 1793812363.2145047,
     "senioren-schotten": 1793812370.8502474,
-    "chancen-herbstein": 1792948133.8358433,
-    "handwerk-herbstein": 1792974052.0440984,
-    "biz-offerta": 1792974062.146578,
-    "biz-handwerk": 1792974071.9140358,
+    "chancen-herbstein": 1793873682.3431413,
+    "handwerk-herbstein": 1793873688.646079,
+    "biz-offerta": 1793873700.701261,
+    "biz-handwerk": 1793873714.3560004,
     "biz-vogelsbergbox": 1792974081.752637,
     "biz-terminki": 1792974095.7577362,
     "biz-board": 1792974103.452838,

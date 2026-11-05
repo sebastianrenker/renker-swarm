@@ -1,7 +1,87 @@
 {
-  "updated": "2026-11-05 02:47 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-11-05 10:15 UTC",
+  "total_results": 4,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "biz-handwerk",
+      "title": "Business — Handwerk-Sichtbar  ·  Chancen",
+      "via": "gemini",
+      "text": "Hallo Herr [Name], ich bin [Mein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region dabei, online endlich richtig einzuschenken. \n\nMir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach bei Google kaum sichtbar ist – obwohl gute Fachbetriebe hier gerade extrem gesucht werden. Ich schnüre Ihnen ein einfaches Komplettpaket aus moderner Website, sauberem Google-Profil und klaren Angebots-Vorlagen, damit die richtigen Kunden aus der Umgebung direkt bei Ihnen landen. Sie haben damit null Aufwand am PC und bekommen genau die Aufträge, die sich für Sie auch lohnen. \n\nPasst es Ihnen, wenn ich nächste Woche kurz auf einen Kaffee bei Ihnen im Betrieb vorbeikomme und Ihnen zeige, wie das für Sie aussehen kann?",
+      "ts": "2026-11-05 10:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "biz-offerta",
+      "title": "Business — Offerta  ·  Chancen",
+      "via": "gemini",
+      "text": "**SCHRITT**\nEinbau eines dezente \"Powered by Offerta\"-Footers auf allen kostenlos exportierten PDF-Angeboten (mit Link zu einer eigens optimierten Landingpage: `offerta.de/empfohlen`).\n\n---\n\n**WARUM JETZT**\nJedes Angebot, das unsere Nutzer verschicken, landet direkt bei einem anderen Gewerbetreibenden oder Freiberufler (exakte Zielgruppe). Wenn aktuell 30 Nutzer pro Woche je 2 Angebote versenden, ist das kostenloser, hochrelevanter B2B-Traffik. Gleichzeitig schaffen wir damit den stärksten Anreiz für unser späteres Freemium-Upgrade (\"Logo entfernen ab Pro-Plan\").\n\n---\n\n**WIE IN 1 TAG MACHBAR**\n* **Vormittag (Code):** Im PDF-Export-Template ganz unten eine dezente Zeile einfügen: *\"Erstellt mit Offerta – Kostenlos Angebote schreiben\"*.\n* **Nachmittag (Landingpage):** Eine einfache, extrem schnelle Landingpage aufsetzen, auf die der Link führt (Headline: *\"Du hast ein Angebot mit Offerta erhalten? Erstelle deine eigenen Angebote in unter 3 Minuten.\"* + Registrier-Button).\n* **Feierabend (Deploy):** Live schalten, an 3 Test-PDFs prüfen ob das Layout sauber bleibt, fertig.",
+      "ts": "2026-11-05 10:15",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-herbstein",
+      "title": "Handwerk-Sichtbarkeit — Herbstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbaubetrieb (SHK)** in Herbstein.\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Hausbesitzer im Vogelsbergkreis online nach einer neuen Heizung oder Badmodernisierung suchen, landen sie aktuell meist bei überregionalen Vermittlungsportalen – wollen wir dafür sorgen, dass Ihr Meisterbetrieb aus Herbstein direkt die lokalen Anfragen abgreift?“",
+      "ts": "2026-11-05 10:14",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-herbstein",
+      "title": "Chancen-Scout — Herbstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS**\nEin mobiler E-Bike-Pannen- und Gepäcktransfer-Service für Etappen-Radler entlang des Vulkanradwegs.\n\n**WARUM HIER**\nHerbstein liegt als Heilbad direkt an der hochfrequentierten Vulkanradweg-Route, wo jährlich tausende Radtouristen und Camper durchrollen, denen es vor Ort an flexibler Notfall- und Logistikinfrastruktur fehlt.\n\n**ERSTER SCHRITT**\nKooperationen mit drei Herbsteiner Pensionen sowie der Tourist-Info an der VulkanTherme schließen und den Service testweise über Flyer und deren Websites vermarkten.",
+      "ts": "2026-11-05 10:14",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 4,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "biz-handwerk",
+          "title": "Business — Handwerk-Sichtbar  ·  Chancen",
+          "via": "gemini",
+          "text": "Hallo Herr [Name], ich bin [Mein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region dabei, online endlich richtig einzuschenken. \n\nMir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach bei Google kaum sichtbar ist – obwohl gute Fachbetriebe hier gerade extrem gesucht werden. Ich schnüre Ihnen ein einfaches Komplettpaket aus moderner Website, sauberem Google-Profil und klaren Angebots-Vorlagen, damit die richtigen Kunden aus der Umgebung direkt bei Ihnen landen. Sie haben damit null Aufwand am PC und bekommen genau die Aufträge, die sich für Sie auch lohnen. \n\nPasst es Ihnen, wenn ich nächste Woche kurz auf einen Kaffee bei Ihnen im Betrieb vorbeikomme und Ihnen zeige, wie das für Sie aussehen kann?",
+          "ts": "2026-11-05 10:15",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "biz-offerta",
+          "title": "Business — Offerta  ·  Chancen",
+          "via": "gemini",
+          "text": "**SCHRITT**\nEinbau eines dezente \"Powered by Offerta\"-Footers auf allen kostenlos exportierten PDF-Angeboten (mit Link zu einer eigens optimierten Landingpage: `offerta.de/empfohlen`).\n\n---\n\n**WARUM JETZT**\nJedes Angebot, das unsere Nutzer verschicken, landet direkt bei einem anderen Gewerbetreibenden oder Freiberufler (exakte Zielgruppe). Wenn aktuell 30 Nutzer pro Woche je 2 Angebote versenden, ist das kostenloser, hochrelevanter B2B-Traffik. Gleichzeitig schaffen wir damit den stärksten Anreiz für unser späteres Freemium-Upgrade (\"Logo entfernen ab Pro-Plan\").\n\n---\n\n**WIE IN 1 TAG MACHBAR**\n* **Vormittag (Code):** Im PDF-Export-Template ganz unten eine dezente Zeile einfügen: *\"Erstellt mit Offerta – Kostenlos Angebote schreiben\"*.\n* **Nachmittag (Landingpage):** Eine einfache, extrem schnelle Landingpage aufsetzen, auf die der Link führt (Headline: *\"Du hast ein Angebot mit Offerta erhalten? Erstelle deine eigenen Angebote in unter 3 Minuten.\"* + Registrier-Button).\n* **Feierabend (Deploy):** Live schalten, an 3 Test-PDFs prüfen ob das Layout sauber bleibt, fertig.",
+          "ts": "2026-11-05 10:15",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-herbstein",
+          "title": "Handwerk-Sichtbarkeit — Herbstein  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbaubetrieb (SHK)** in Herbstein.\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Hausbesitzer im Vogelsbergkreis online nach einer neuen Heizung oder Badmodernisierung suchen, landen sie aktuell meist bei überregionalen Vermittlungsportalen – wollen wir dafür sorgen, dass Ihr Meisterbetrieb aus Herbstein direkt die lokalen Anfragen abgreift?“",
+          "ts": "2026-11-05 10:14",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-herbstein",
+          "title": "Chancen-Scout — Herbstein  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS**\nEin mobiler E-Bike-Pannen- und Gepäcktransfer-Service für Etappen-Radler entlang des Vulkanradwegs.\n\n**WARUM HIER**\nHerbstein liegt als Heilbad direkt an der hochfrequentierten Vulkanradweg-Route, wo jährlich tausende Radtouristen und Camper durchrollen, denen es vor Ort an flexibler Notfall- und Logistikinfrastruktur fehlt.\n\n**ERSTER SCHRITT**\nKooperationen mit drei Herbsteiner Pensionen sowie der Tourist-Info an der VulkanTherme schließen und den Service testweise über Flyer und deren Websites vermarkten.",
+          "ts": "2026-11-05 10:14",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
