@@ -1,30 +1,132 @@
 {
-  "updated": "2026-11-05 18:02 UTC",
-  "total_results": 1,
-  "total_depts": 1,
+  "updated": "2026-11-05 23:37 UTC",
+  "total_results": 6,
+  "total_depts": 3,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "biz-vogelsbergbox",
-      "title": "Business — Vogelsberg-Box  ·  Chancen",
+      "agent": "chancen-grebenhain",
+      "title": "Chancen-Scout — Grebenhain  ·  Chancen",
       "via": "gemini",
-      "text": "**SCHRITT**\nLaunch einer kostenlosen \"Fake-Door\" Landingpage (Smoke Test) mit einer Warteliste für eine limitierte erste \"Vogelsberg-Test-Box\".\n\n**WARUM**\nDamit valide ich das echte Kundeninteresse im Vogelsbergkreis (Zahlungsbereitschaft & Nachfrage nach konkreten Box-Typen), **bevor** ich Zeit in die Akquise von Höfen stecke, Ware einkaufe oder Logistik aufbaue. 0 € finanzielles Risiko. Wenn sich in 7 Tagen keine 50+ Menschen eintragen, stimmt das Angebot oder die Zielgruppenansprache noch nicht.\n\n**erster Tag**\n*   **Morgens (Erstellung):** Ich erstelle in 2 Stunden eine kostenlose One-Page-Website über *Carrd.co* oder *Typeform*. Headline: *\"Das Beste aus dem Vogelsberg direkt vor deine Haustür – Unterstütze lokale Höfe.\"*\n*   **Mittags (Angebot definieren):** Ich bilde 3 fiktive Box-Varianten ab (z.B. *„Frühstücks-Box“* für 29 €, *„Vesper-Box“* für 35 €) mit Beispiel-Produkten aus der Region. Statt \"Kaufen\" gibt es einen Button: *„Für die limitierte 1. Test-Box im [Monat] unverbindlich reservieren“*.\n*   **Nachmittags (Distribution):** Ich poste den Link mit einer persönlichen Nachricht (*„Hi Leute, wir wollen die Hofläden im Vogelsberg bündeln. Wer hätte Bock auf so eine Box?“*) in 5 regionale Facebook-Gruppen (z.B. „Vogelsbergkreis“, „Du weißt, dass du aus...“), auf Nebenan.de und in lokale WhatsApp-Gruppen.",
-      "ts": "2026-11-05 18:02",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Schnellreparaturen und Hol-Bring-Dienste direkt an den Frequentierungspunkten der Region anbietet.\n\n**WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, wo jährlich tausende E-Biker unterwegs sind, es im Ort selbst aber an einer flexiblen Soforthilfe bei technischen Defekten fehlt.\n\n**ERSTER SCHRITT:** Rüste einen vorhandenen Kombi oder Anhänger mit Grundeuipment sowie gängigen Ersatzteilen aus und hinterlege Visitenkarten bei den lokalen Bett+Bike-Pensionen sowie Raststationen entlang der Trasse.",
+      "ts": "2026-11-05 23:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-herbstein",
+      "title": "Senioren-Alltagsdienste — Herbstein  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein vertrauter Nachbarschafts-Fahrdienst, der ältere Menschen aus den umliegenden Ortsteilen direkt von zuhause abholt und sie achtsam zu Besorgungen, Arztterminen sowie Begegnungsmöglichkeiten im Kernort Herbstein begleitet.\n\n**WARUM HIER:** Die weit verstreute Struktur der Herbsteiner Ortsteile macht Mobilität zur Schlüsselfrage, damit Seniorinnen und Senioren auch ohne eigenes Auto selbstbestimmt und eingebunden in ihrer Heimat alt werden können.\n\n**ERSTER SCHRITT:** Ein Gespräch mit dem Seniorenbeirat der Stadt Herbstein führen, um bestehende Lücken in den Ortsteilen zu kartieren und erste ehrenamtliche Fahrerinnen und Fahrer aus der Nachbarschaft zu gewinnen.",
+      "ts": "2026-11-05 23:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-herbstein",
+      "title": "Vulkanregion-Tourismus — Herbstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Eine stimmungsvolle Abend-Führung mit Fackeln durch die mystischen unterirdischen Gewölbe und entlang der mittelalterlichen Stadtmauer von Herbstein, abgerundet mit einer Verkostung des regionalen „Vulkan-Tropfens“.\n\n**für WEN:** Perfekt für Paare, Freundesgruppen und Kulturbegeisterte, die Geschichte hautnah erleben und die Geheimnisse der Vulkanregion auf romantisch-schauerliche Weise entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform einfach deinen Wunschtermin aus und sichere dir dein Online-Ticket für die nächste Führung.",
+      "ts": "2026-11-05 23:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-herbstein",
+      "title": "Direktvermarktung — Herbstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDie „Vogelsberger Vesper-Box“ als flexibel bestellbares Kistchen voll mit regionaler Hausmacher Wurst, Hofkäse, frischem Bauernbrot und heimischen Kräuterspezialitäten direkt aus dem Herbsteiner Umland.\n\n**für WEN:** \nFür Urlauber in den Herbsteiner Ferienhäusern, Radler auf dem Vulkanradweg und heimische Genießer, die ehrliches Handwerk ohne Schnickschnack auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei bis vier benachbarte Höfe und Handwerksbetriebe (Metzger, Bäcker, Imker) an einen Tisch holen, um den Inhalt abzustimmen und die ersten 20 Test-Kisten für ein Wochenend-Event zu packen.",
+      "ts": "2026-11-05 23:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "biz-board",
+      "title": "Business — Lagebericht  ·  Kommando",
+      "via": "gemini",
+      "text": "Hier ist der Lagebericht, Commander.\n\n**Status & Hebel pro Business:**\n\n*   **Offerta:** Stand: Produkt-Beta stabil | **Hebel:** Abschluss der ersten 3 zahlenden Pilotkunden zur Validierung.\n*   **Handwerk-Sichtbar:** Stand: Cashflow-Motor läuft bei 85% Kapazität | **Hebel:** Onboarding automatisieren, um Zeit für Skalierung freizusetzen.\n*   **Vogelsberg-Box:** Stand: Solider Nebenbeilauf (Sommertief) | **Hebel:** Fulfillment-Prozess komplett outsourcen (Minimalprinzip).\n*   **Termin-KI:** Stand: Prototyp einsatzbereit | **Hebel:** Pitch-Skript finalisieren und Vertriebskanal öffnen.\n\n---\n\n### DIE EINE SACHE FÜR DIESE WOCHE\n\n**Termin-KI an die Top-10-Kunden von Handwerk-Sichtbar pitchen (Cross-Selling).**\n\n*Warum:* Es ist der schnellste Weg zu echtem KI-Umsatz ohne Kundenakquisitionskosten (CAC). Wir nutzen das bestehende Vertrauen der Handwerkskunden, um die Termin-KI im scharfen Betrieb zu testen und sofort Cashflow zu generieren. Alles andere ist diese Woche sekundär.",
+      "ts": "2026-11-05 23:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "biz-terminki",
+      "title": "Business — Termin-/Anruf-KI  ·  Kunden",
+      "via": "gemini",
+      "text": "Hier ist das Demo-Szenario, das wir dem Inhaber/Geschäftsführer **unaufgefordert vorspielen** (oder live auf seinem Handy anrufen lassen), um in 90 Sekunden den „Aha-Effekt“ zu erzeugen, bevor wir überhaupt über Preise sprechen.\n\n---\n\n### **SZENARIO: Der Notfall-/Neukunden-Anruf am Freitagnachmittag (Beispiel Handwerk / Sanitär & Heizung)**\n\n*(Kontext: 16:45 Uhr, der Betrieb hat eigentlich schon Feierabend. Ein Neukunde ruft aufgelöst an. Nebengeräusche simuliert.)*\n\n* **KI (Rencora-Voice):** „Guten Tag bei Haustechnik Weber. Mein Name ist Anna, die digitale Assistentin. Wie kann ich Ihnen helfen?“\n* **Anrufer (hektisch, unterbricht kurz):** „Ja, hallo! Bei mir im Keller läuft Wasser aus der Heizung! Ich erreiche niemanden, können Sie jemanden vorbeischicken?“\n* **KI (ohne spürbare Latenz, empathisch & ruhig):** „Das klingt dringend, Herr… Wie ist Ihr Name?“\n* **Anrufer:** „Müller. Thomas Müller.“\n* **KI:** „Herr Müller, ganz ruhig. Ist das Wasser bereits abgestellt oder tritt es weiter aus?“\n* **Anrufer:** „Ich habe das Hauptventil zugedreht, aber es tropft noch stark.“\n* **KI:** „Perfekt, dass Sie das Ventil zugelegt haben. Ich erfasse das sofort als Notfall. Geben Sie mir bitte Ihre Adresse und Ihre Handynummer für den Monteur.“\n* **Anrufer:** „Schillerstraße 12 in Musterstadt. Nummer ist die 0171 1234567.“\n* **KI:** „Danke. Ich habe notiert: Wasseraustritt Heizung, Schillerstraße 12, Musterstadt. Ich schicke unserem Notdienst-Monteur jetzt eine Sofort-Benachrichtigung per SMS. Er meldet sich innerhalb von 15 Minuten bei Ihnen. Kann ich sonst noch etwas für Sie tun?“\n* **Anrufer:** „Nein, super, danke!“\n* **KI:** „Gerne. Wir kümmern uns darum. Einen schönen Tag trotz des Schreckens!“\n\n---\n\n### **WAS ES ZEIGT (Der Value für den Chef)**\n\n1. **Keine Roboter-Latenz (Rencora-Advantage):** Die KI reagiert in unter 800ms. Keine peinlichen Gesprächspausen, kein „Roboter-Feeling“. Der Anrufer merkt kaum, dass er mit einer KI spricht.\n2. **Unterbrechbarkeit (Interruption Handling):** Der Anrufer kann der KI ins Wort fallen – sie stoppt sofort zu sprechen und hört zu (wie ein Mensch).\n3. **Qualifizierung & Triagierung:** Die KI erkennt den Unterschied zwischen einer einfachen Anfrage (Termin nächste Woche) und einem Notfall (Umsatz-Erttag + Notdienst-Aufschlag).\n4. **Strukturierte Datenerfassung:** Kein Zettelchaos. Adresse, Telefonnummer und Problem sind fehlerfrei im System hinterlegt.\n5. **Umsatz-Sicherung nach Feierabend:** Der Kunde legt nicht auf und ruft die Konkurrenz an, sondern fühlt sich sofort betreut.\n\n---\n\n### **ERSTER TAG (Der 0-Risiko-Start für den Betrieb)**\n\n* **Aufwand für den Betrieb:** 15 Minuten.\n* **Setup:** \n  1. Der Betrieb schaltet eine einfache **Rufumleitung bei Besetzt oder nach 4 Klicks** auf unsere Rencora-Nummer.\n  2. Wir hinterlegen die 3 wichtigsten Usecases (Terminbuchung, Notfall/Eskalation, Allgemeine Info).\n* **Der Ablauf ab Tag 1:** \n  * Jedes Mal, wenn die Praxis/Kanzlei/der Betrieb nicht rangeht, übernimmt die KI.\n  * Nach dem Gespräch erhält der Chef/die Rezeption **sofort eine Zusammenfassung** per E-Mail / WhatsApp / SMS (inkl. fertigem Kalendereintrag oder Notfall-Trigger).\n  * Der Betrieb testet das System 7 Tage lang **im echten Alltag**, bevor der Vertrag unterschrieben wird.",
+      "ts": "2026-11-05 23:37",
       "age_min": 0
     }
   ],
   "departments": [
     {
-      "id": "Chancen",
+      "id": "Kommando",
       "count": 1,
       "items": [
         {
-          "dept": "Chancen",
-          "agent": "biz-vogelsbergbox",
-          "title": "Business — Vogelsberg-Box  ·  Chancen",
+          "dept": "Kommando",
+          "agent": "biz-board",
+          "title": "Business — Lagebericht  ·  Kommando",
           "via": "gemini",
-          "text": "**SCHRITT**\nLaunch einer kostenlosen \"Fake-Door\" Landingpage (Smoke Test) mit einer Warteliste für eine limitierte erste \"Vogelsberg-Test-Box\".\n\n**WARUM**\nDamit valide ich das echte Kundeninteresse im Vogelsbergkreis (Zahlungsbereitschaft & Nachfrage nach konkreten Box-Typen), **bevor** ich Zeit in die Akquise von Höfen stecke, Ware einkaufe oder Logistik aufbaue. 0 € finanzielles Risiko. Wenn sich in 7 Tagen keine 50+ Menschen eintragen, stimmt das Angebot oder die Zielgruppenansprache noch nicht.\n\n**erster Tag**\n*   **Morgens (Erstellung):** Ich erstelle in 2 Stunden eine kostenlose One-Page-Website über *Carrd.co* oder *Typeform*. Headline: *\"Das Beste aus dem Vogelsberg direkt vor deine Haustür – Unterstütze lokale Höfe.\"*\n*   **Mittags (Angebot definieren):** Ich bilde 3 fiktive Box-Varianten ab (z.B. *„Frühstücks-Box“* für 29 €, *„Vesper-Box“* für 35 €) mit Beispiel-Produkten aus der Region. Statt \"Kaufen\" gibt es einen Button: *„Für die limitierte 1. Test-Box im [Monat] unverbindlich reservieren“*.\n*   **Nachmittags (Distribution):** Ich poste den Link mit einer persönlichen Nachricht (*„Hi Leute, wir wollen die Hofläden im Vogelsberg bündeln. Wer hätte Bock auf so eine Box?“*) in 5 regionale Facebook-Gruppen (z.B. „Vogelsbergkreis“, „Du weißt, dass du aus...“), auf Nebenan.de und in lokale WhatsApp-Gruppen.",
-          "ts": "2026-11-05 18:02",
+          "text": "Hier ist der Lagebericht, Commander.\n\n**Status & Hebel pro Business:**\n\n*   **Offerta:** Stand: Produkt-Beta stabil | **Hebel:** Abschluss der ersten 3 zahlenden Pilotkunden zur Validierung.\n*   **Handwerk-Sichtbar:** Stand: Cashflow-Motor läuft bei 85% Kapazität | **Hebel:** Onboarding automatisieren, um Zeit für Skalierung freizusetzen.\n*   **Vogelsberg-Box:** Stand: Solider Nebenbeilauf (Sommertief) | **Hebel:** Fulfillment-Prozess komplett outsourcen (Minimalprinzip).\n*   **Termin-KI:** Stand: Prototyp einsatzbereit | **Hebel:** Pitch-Skript finalisieren und Vertriebskanal öffnen.\n\n---\n\n### DIE EINE SACHE FÜR DIESE WOCHE\n\n**Termin-KI an die Top-10-Kunden von Handwerk-Sichtbar pitchen (Cross-Selling).**\n\n*Warum:* Es ist der schnellste Weg zu echtem KI-Umsatz ohne Kundenakquisitionskosten (CAC). Wir nutzen das bestehende Vertrauen der Handwerkskunden, um die Termin-KI im scharfen Betrieb zu testen und sofort Cashflow zu generieren. Alles andere ist diese Woche sekundär.",
+          "ts": "2026-11-05 23:37",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Chancen",
+      "count": 3,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "chancen-grebenhain",
+          "title": "Chancen-Scout — Grebenhain  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Schnellreparaturen und Hol-Bring-Dienste direkt an den Frequentierungspunkten der Region anbietet.\n\n**WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, wo jährlich tausende E-Biker unterwegs sind, es im Ort selbst aber an einer flexiblen Soforthilfe bei technischen Defekten fehlt.\n\n**ERSTER SCHRITT:** Rüste einen vorhandenen Kombi oder Anhänger mit Grundeuipment sowie gängigen Ersatzteilen aus und hinterlege Visitenkarten bei den lokalen Bett+Bike-Pensionen sowie Raststationen entlang der Trasse.",
+          "ts": "2026-11-05 23:37",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-herbstein",
+          "title": "Vulkanregion-Tourismus — Herbstein  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Eine stimmungsvolle Abend-Führung mit Fackeln durch die mystischen unterirdischen Gewölbe und entlang der mittelalterlichen Stadtmauer von Herbstein, abgerundet mit einer Verkostung des regionalen „Vulkan-Tropfens“.\n\n**für WEN:** Perfekt für Paare, Freundesgruppen und Kulturbegeisterte, die Geschichte hautnah erleben und die Geheimnisse der Vulkanregion auf romantisch-schauerliche Weise entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform einfach deinen Wunschtermin aus und sichere dir dein Online-Ticket für die nächste Führung.",
+          "ts": "2026-11-05 23:37",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-herbstein",
+          "title": "Direktvermarktung — Herbstein  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDie „Vogelsberger Vesper-Box“ als flexibel bestellbares Kistchen voll mit regionaler Hausmacher Wurst, Hofkäse, frischem Bauernbrot und heimischen Kräuterspezialitäten direkt aus dem Herbsteiner Umland.\n\n**für WEN:** \nFür Urlauber in den Herbsteiner Ferienhäusern, Radler auf dem Vulkanradweg und heimische Genießer, die ehrliches Handwerk ohne Schnickschnack auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei bis vier benachbarte Höfe und Handwerksbetriebe (Metzger, Bäcker, Imker) an einen Tisch holen, um den Inhalt abzustimmen und die ersten 20 Test-Kisten für ein Wochenend-Event zu packen.",
+          "ts": "2026-11-05 23:37",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-herbstein",
+          "title": "Senioren-Alltagsdienste — Herbstein  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein vertrauter Nachbarschafts-Fahrdienst, der ältere Menschen aus den umliegenden Ortsteilen direkt von zuhause abholt und sie achtsam zu Besorgungen, Arztterminen sowie Begegnungsmöglichkeiten im Kernort Herbstein begleitet.\n\n**WARUM HIER:** Die weit verstreute Struktur der Herbsteiner Ortsteile macht Mobilität zur Schlüsselfrage, damit Seniorinnen und Senioren auch ohne eigenes Auto selbstbestimmt und eingebunden in ihrer Heimat alt werden können.\n\n**ERSTER SCHRITT:** Ein Gespräch mit dem Seniorenbeirat der Stadt Herbstein führen, um bestehende Lücken in den Ortsteilen zu kartieren und erste ehrenamtliche Fahrerinnen und Fahrer aus der Nachbarschaft zu gewinnen.",
+          "ts": "2026-11-05 23:37",
+          "age_min": 0
+        },
+        {
+          "dept": "Kunden",
+          "agent": "biz-terminki",
+          "title": "Business — Termin-/Anruf-KI  ·  Kunden",
+          "via": "gemini",
+          "text": "Hier ist das Demo-Szenario, das wir dem Inhaber/Geschäftsführer **unaufgefordert vorspielen** (oder live auf seinem Handy anrufen lassen), um in 90 Sekunden den „Aha-Effekt“ zu erzeugen, bevor wir überhaupt über Preise sprechen.\n\n---\n\n### **SZENARIO: Der Notfall-/Neukunden-Anruf am Freitagnachmittag (Beispiel Handwerk / Sanitär & Heizung)**\n\n*(Kontext: 16:45 Uhr, der Betrieb hat eigentlich schon Feierabend. Ein Neukunde ruft aufgelöst an. Nebengeräusche simuliert.)*\n\n* **KI (Rencora-Voice):** „Guten Tag bei Haustechnik Weber. Mein Name ist Anna, die digitale Assistentin. Wie kann ich Ihnen helfen?“\n* **Anrufer (hektisch, unterbricht kurz):** „Ja, hallo! Bei mir im Keller läuft Wasser aus der Heizung! Ich erreiche niemanden, können Sie jemanden vorbeischicken?“\n* **KI (ohne spürbare Latenz, empathisch & ruhig):** „Das klingt dringend, Herr… Wie ist Ihr Name?“\n* **Anrufer:** „Müller. Thomas Müller.“\n* **KI:** „Herr Müller, ganz ruhig. Ist das Wasser bereits abgestellt oder tritt es weiter aus?“\n* **Anrufer:** „Ich habe das Hauptventil zugedreht, aber es tropft noch stark.“\n* **KI:** „Perfekt, dass Sie das Ventil zugelegt haben. Ich erfasse das sofort als Notfall. Geben Sie mir bitte Ihre Adresse und Ihre Handynummer für den Monteur.“\n* **Anrufer:** „Schillerstraße 12 in Musterstadt. Nummer ist die 0171 1234567.“\n* **KI:** „Danke. Ich habe notiert: Wasseraustritt Heizung, Schillerstraße 12, Musterstadt. Ich schicke unserem Notdienst-Monteur jetzt eine Sofort-Benachrichtigung per SMS. Er meldet sich innerhalb von 15 Minuten bei Ihnen. Kann ich sonst noch etwas für Sie tun?“\n* **Anrufer:** „Nein, super, danke!“\n* **KI:** „Gerne. Wir kümmern uns darum. Einen schönen Tag trotz des Schreckens!“\n\n---\n\n### **WAS ES ZEIGT (Der Value für den Chef)**\n\n1. **Keine Roboter-Latenz (Rencora-Advantage):** Die KI reagiert in unter 800ms. Keine peinlichen Gesprächspausen, kein „Roboter-Feeling“. Der Anrufer merkt kaum, dass er mit einer KI spricht.\n2. **Unterbrechbarkeit (Interruption Handling):** Der Anrufer kann der KI ins Wort fallen – sie stoppt sofort zu sprechen und hört zu (wie ein Mensch).\n3. **Qualifizierung & Triagierung:** Die KI erkennt den Unterschied zwischen einer einfachen Anfrage (Termin nächste Woche) und einem Notfall (Umsatz-Erttag + Notdienst-Aufschlag).\n4. **Strukturierte Datenerfassung:** Kein Zettelchaos. Adresse, Telefonnummer und Problem sind fehlerfrei im System hinterlegt.\n5. **Umsatz-Sicherung nach Feierabend:** Der Kunde legt nicht auf und ruft die Konkurrenz an, sondern fühlt sich sofort betreut.\n\n---\n\n### **ERSTER TAG (Der 0-Risiko-Start für den Betrieb)**\n\n* **Aufwand für den Betrieb:** 15 Minuten.\n* **Setup:** \n  1. Der Betrieb schaltet eine einfache **Rufumleitung bei Besetzt oder nach 4 Klicks** auf unsere Rencora-Nummer.\n  2. Wir hinterlegen die 3 wichtigsten Usecases (Terminbuchung, Notfall/Eskalation, Allgemeine Info).\n* **Der Ablauf ab Tag 1:** \n  * Jedes Mal, wenn die Praxis/Kanzlei/der Betrieb nicht rangeht, übernimmt die KI.\n  * Nach dem Gespräch erhält der Chef/die Rezeption **sofort eine Zusammenfassung** per E-Mail / WhatsApp / SMS (inkl. fertigem Kalendereintrag oder Notfall-Trigger).\n  * Der Betrieb testet das System 7 Tage lang **im echten Alltag**, bevor der Vertrag unterschrieben wird.",
+          "ts": "2026-11-05 23:37",
           "age_min": 0
         }
       ]

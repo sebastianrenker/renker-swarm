@@ -1,19 +1,23 @@
 {
-  "updated": "2026-11-05T18:02Z",
+  "updated": "2026-11-05T23:37Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist der Lagebericht, Commander. **Status & Hebel pro Business:** * **Offerta:** Stand: Produkt-Beta stabil | **Hebel:** Abschluss der ersten 3 zahlenden Pilotkunden zur Validierung. * **Handwerk-Sichtbar:** Stand: Cashflow-Motor läuft bei 85% Kapazität | **Hebel:** Onboarding automatisieren, um Zeit für Skalierung freizusetzen. * **Vogelsberg-Box:** Sta",
+        "age_min": 0
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**SCHRITT** Launch einer kostenlosen \"Fake-Door\" Landingpage (Smoke Test) mit einer Warteliste für eine limitierte erste \"Vogelsberg-Test-Box\". **WARUM** Damit valide ich das echte Kundeninteresse im Vogelsbergkreis (Zahlungsbereitschaft & Nachfrage nach konkreten Box-Typen), **bevor** ich Zeit in die Akquise von Höfen stecke, Ware einkaufe oder Logistik auf",
+        "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Schnellreparaturen und Hol-Bring-Dienste direkt an den Frequentierungspunkten der Region anbietet. **WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, wo jährlich tausende E-Biker unterwegs sind, es im Ort selbst aber an einer flexiblen Soforthilfe bei technischen Defekten",
         "age_min": 0
       }
     },
@@ -30,7 +34,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein vertrauter Nachbarschafts-Fahrdienst, der ältere Menschen aus den umliegenden Ortsteilen direkt von zuhause abholt und sie achtsam zu Besorgungen, Arztterminen sowie Begegnungsmöglichkeiten im Kernort Herbstein begleitet. **WARUM HIER:** Die weit verstreute Struktur der Herbsteiner Ortsteile macht Mobilität zur Schlüsselfrage, damit Seniorinnen ",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -134,27 +142,27 @@
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": "**SCHRITT** Launch einer kostenlosen \"Fake-Door\" Landingpage (Smoke Test) mit einer Warteliste für eine limitierte erste \"Vogelsberg-Test-Box\". **WARUM** Damit valide ich das echte Kundeninteresse im Vogelsbergkreis (Zah",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-terminki",
       "name": "Business — Termin-/Anruf-KI",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist das Demo-Szenario, das wir dem Inhaber/Geschäftsführer **unaufgefordert vorspielen** (oder live auf seinem Handy anrufen lassen), um in 90 Sekunden den „Aha-Effekt“ zu erzeugen, bevor wir überhaupt über Preise s",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-board",
       "name": "Business — Lagebericht",
       "dept": "Kommando",
       "iv": 480,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist der Lagebericht, Commander. **Status & Hebel pro Business:** * **Offerta:** Stand: Produkt-Beta stabil | **Hebel:** Abschluss der ersten 3 zahlenden Pilotkunden zur Validierung. * **Handwerk-Sichtbar:** Stand: C",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-lauterbach",
@@ -314,36 +322,36 @@
       "name": "Direktvermarktung — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Vesper-Box“ als flexibel bestellbares Kistchen voll mit regionaler Hausmacher Wurst, Hofkäse, frischem Bauernbrot und heimischen Kräuterspezialitäten direkt aus dem Herbsteiner Umland. **für WE",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-herbstein",
       "name": "Vulkanregion-Tourismus — Herbstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine stimmungsvolle Abend-Führung mit Fackeln durch die mystischen unterirdischen Gewölbe und entlang der mittelalterlichen Stadtmauer von Herbstein, abgerundet mit einer Verkostung des regionalen „Vulkan-Tropfe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-herbstein",
       "name": "Senioren-Alltagsdienste — Herbstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein vertrauter Nachbarschafts-Fahrdienst, der ältere Menschen aus den umliegenden Ortsteilen direkt von zuhause abholt und sie achtsam zu Besorgungen, Arztterminen sowie Begegnungsmöglichkeiten im Kernort Herbst",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grebenhain",
       "name": "Chancen-Scout — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Schnellreparaturen und Hol-Bring-Dienste direkt an den Frequentierungspunkten der Region anbietet. **WARUM HIER:** Grebenhain liegt direkt am stark frequentier",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-grebenhain",
@@ -1499,16 +1507,56 @@
     }
   ],
   "budget": {
-    "used": 5,
+    "used": 11,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "biz-vogelsbergbox",
+      "agent": "chancen-grebenhain",
       "via": "gemini",
-      "text": "**SCHRITT** Launch einer kostenlosen \"Fake-Door\" Landingpage (Smoke Test) mit einer Warteliste für eine limitierte erste \"Vogelsberg-Test-Box\". **WARUM** Damit valide ich das echte Kundeninteresse im Vogelsbergkreis (Zahlungsbereitschaft & Nachfrage nach konkreten Box-Typen), **bevor** ich Zeit in die Akquise von Höfen stecke, Ware einkaufe oder Logistik auf",
-      "ts": "2026-11-05 18:02",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice, der Schnellreparaturen und Hol-Bring-Dienste direkt an den Frequentierungspunkten der Region anbietet. **WARUM HIER:** Grebenhain liegt direkt am stark frequentierten Vulkanradweg, wo jährlich tausende E-Biker unterwegs sind, es im Ort selbst aber an einer flexiblen Soforthilfe bei technischen Defekten",
+      "ts": "2026-11-05 23:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Ein vertrauter Nachbarschafts-Fahrdienst, der ältere Menschen aus den umliegenden Ortsteilen direkt von zuhause abholt und sie achtsam zu Besorgungen, Arztterminen sowie Begegnungsmöglichkeiten im Kernort Herbstein begleitet. **WARUM HIER:** Die weit verstreute Struktur der Herbsteiner Ortsteile macht Mobilität zur Schlüsselfrage, damit Seniorinnen ",
+      "ts": "2026-11-05 23:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Eine stimmungsvolle Abend-Führung mit Fackeln durch die mystischen unterirdischen Gewölbe und entlang der mittelalterlichen Stadtmauer von Herbstein, abgerundet mit einer Verkostung des regionalen „Vulkan-Tropfens“. **für WEN:** Perfekt für Paare, Freundesgruppen und Kulturbegeisterte, die Geschichte hautnah erleben und die Geheimnisse der Vulkanreg",
+      "ts": "2026-11-05 23:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-herbstein",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Vesper-Box“ als flexibel bestellbares Kistchen voll mit regionaler Hausmacher Wurst, Hofkäse, frischem Bauernbrot und heimischen Kräuterspezialitäten direkt aus dem Herbsteiner Umland. **für WEN:** Für Urlauber in den Herbsteiner Ferienhäusern, Radler auf dem Vulkanradweg und heimische Genießer, die ehrliches Handwerk ohne Schnicks",
+      "ts": "2026-11-05 23:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "biz-board",
+      "via": "gemini",
+      "text": "Hier ist der Lagebericht, Commander. **Status & Hebel pro Business:** * **Offerta:** Stand: Produkt-Beta stabil | **Hebel:** Abschluss der ersten 3 zahlenden Pilotkunden zur Validierung. * **Handwerk-Sichtbar:** Stand: Cashflow-Motor läuft bei 85% Kapazität | **Hebel:** Onboarding automatisieren, um Zeit für Skalierung freizusetzen. * **Vogelsberg-Box:** Sta",
+      "ts": "2026-11-05 23:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "biz-terminki",
+      "via": "gemini",
+      "text": "Hier ist das Demo-Szenario, das wir dem Inhaber/Geschäftsführer **unaufgefordert vorspielen** (oder live auf seinem Handy anrufen lassen), um in 90 Sekunden den „Aha-Effekt“ zu erzeugen, bevor wir überhaupt über Preise sprechen. --- ### **SZENARIO: Der Notfall-/Neukunden-Anruf am Freitagnachmittag (Beispiel Handwerk / Sanitär & Heizung)** *(Kontext: 16:45 Uh",
+      "ts": "2026-11-05 23:37",
       "age_min": 0
     }
   ]
