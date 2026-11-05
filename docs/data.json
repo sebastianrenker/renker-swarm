@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-05T10:15Z",
+  "updated": "2026-11-05T18:02Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "Hallo Herr [Name], ich bin [Mein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region dabei, online endlich richtig einzuschenken. Mir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach bei Google kaum sichtbar ist – obwohl gute Fachbetriebe hier gerade extrem gesucht werden. Ich schnüre Ihnen ein einfaches Komplettpaket aus moderner Websi",
+        "text": "**SCHRITT** Launch einer kostenlosen \"Fake-Door\" Landingpage (Smoke Test) mit einer Warteliste für eine limitierte erste \"Vogelsberg-Test-Box\". **WARUM** Damit valide ich das echte Kundeninteresse im Vogelsbergkreis (Zahlungsbereitschaft & Nachfrage nach konkreten Box-Typen), **bevor** ich Zeit in die Akquise von Höfen stecke, Ware einkaufe oder Logistik auf",
         "age_min": 0
       }
     },
@@ -116,27 +116,27 @@
       "name": "Business — Offerta",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**SCHRITT** Einbau eines dezente \"Powered by Offerta\"-Footers auf allen kostenlos exportierten PDF-Angeboten (mit Link zu einer eigens optimierten Landingpage: `offerta.de/empfohlen`). --- **WARUM JETZT** Jedes Angebot, ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-handwerk",
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": "Hallo Herr [Name], ich bin [Mein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region dabei, online endlich richtig einzuschenken. Mir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach bei Google kaum",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-vogelsbergbox",
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SCHRITT** Launch einer kostenlosen \"Fake-Door\" Landingpage (Smoke Test) mit einer Warteliste für eine limitierte erste \"Vogelsberg-Test-Box\". **WARUM** Damit valide ich das echte Kundeninteresse im Vogelsbergkreis (Zah",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-terminki",
@@ -296,18 +296,18 @@
       "name": "Chancen-Scout — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein mobiler E-Bike-Pannen- und Gepäcktransfer-Service für Etappen-Radler entlang des Vulkanradwegs. **WARUM HIER** Herbstein liegt als Heilbad direkt an der hochfrequentierten Vulkanradweg-Route, wo jährlich taus",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-herbstein",
       "name": "Handwerk-Sichtbarkeit — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbaubetrieb (SHK)** in Herbstein. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer im Vogelsbergkreis online nach einer neuen Heizung oder Badmodernisi",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-herbstein",
@@ -1499,40 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 4,
+    "used": 5,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "biz-handwerk",
+      "agent": "biz-vogelsbergbox",
       "via": "gemini",
-      "text": "Hallo Herr [Name], ich bin [Mein Name] aus dem Vogelsberg und helfe Handwerkern bei uns in der Region dabei, online endlich richtig einzuschenken. Mir ist aufgefallen, dass Ihre Dachdeckerei in Lauterbach bei Google kaum sichtbar ist – obwohl gute Fachbetriebe hier gerade extrem gesucht werden. Ich schnüre Ihnen ein einfaches Komplettpaket aus moderner Websi",
-      "ts": "2026-11-05 10:15",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "biz-offerta",
-      "via": "gemini",
-      "text": "**SCHRITT** Einbau eines dezente \"Powered by Offerta\"-Footers auf allen kostenlos exportierten PDF-Angeboten (mit Link zu einer eigens optimierten Landingpage: `offerta.de/empfohlen`). --- **WARUM JETZT** Jedes Angebot, das unsere Nutzer verschicken, landet direkt bei einem anderen Gewerbetreibenden oder Freiberufler (exakte Zielgruppe). Wenn aktuell 30 Nutz",
-      "ts": "2026-11-05 10:15",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-herbstein",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbaubetrieb (SHK)** in Herbstein. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hausbesitzer im Vogelsbergkreis online nach einer neuen Heizung oder Badmodernisierung suchen, landen sie aktuell meist bei überregionalen Vermittlungsportalen – wollen wir dafür sorgen, dass Ihr Meisterbetrieb aus Herbst",
-      "ts": "2026-11-05 10:14",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-herbstein",
-      "via": "gemini",
-      "text": "**WAS** Ein mobiler E-Bike-Pannen- und Gepäcktransfer-Service für Etappen-Radler entlang des Vulkanradwegs. **WARUM HIER** Herbstein liegt als Heilbad direkt an der hochfrequentierten Vulkanradweg-Route, wo jährlich tausende Radtouristen und Camper durchrollen, denen es vor Ort an flexibler Notfall- und Logistikinfrastruktur fehlt. **ERSTER SCHRITT** Koopera",
-      "ts": "2026-11-05 10:14",
+      "text": "**SCHRITT** Launch einer kostenlosen \"Fake-Door\" Landingpage (Smoke Test) mit einer Warteliste für eine limitierte erste \"Vogelsberg-Test-Box\". **WARUM** Damit valide ich das echte Kundeninteresse im Vogelsbergkreis (Zahlungsbereitschaft & Nachfrage nach konkreten Box-Typen), **bevor** ich Zeit in die Akquise von Höfen stecke, Ware einkaufe oder Logistik auf",
+      "ts": "2026-11-05 18:02",
       "age_min": 0
     }
   ]
