@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-06 03:39 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-11-06 11:30 UTC",
+  "total_results": 1,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grebenhain",
+      "title": "Handwerk-Sichtbarkeit — Grebenhain  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb\n\n**Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder eine neue Wärmepumpe her muss, greifen die Leute sofort zum Smartphone – sorgen wir dafür, dass Ihr Betrieb bei der Suche in Grebenhain und Umgebung direkt an erster Stelle steht.“",
+      "ts": "2026-11-06 11:30",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-grebenhain",
+          "title": "Handwerk-Sichtbarkeit — Grebenhain  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb\n\n**Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder eine neue Wärmepumpe her muss, greifen die Leute sofort zum Smartphone – sorgen wir dafür, dass Ihr Betrieb bei der Suche in Grebenhain und Umgebung direkt an erster Stelle steht.“",
+          "ts": "2026-11-06 11:30",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
