@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-06T11:30Z",
+  "updated": "2026-11-06T18:20Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder eine neue Wärmepumpe her muss, greifen die Leute sofort zum Smartphone – sorgen wir dafür, dass Ihr Betrieb bei der Suche in Grebenhain und Umgebung direkt an erster Stelle steht.“",
+        "text": "**WAS:** Die „Vogelsberger Feierabend-Box“ ist ein wöchentliches Abo mit frischem Gemüse, Ahler Wurscht, Käse und Holzofenbrot von Höfen rund um Homberg (Ohm), ergänzt durch ein einfaches Rezept für die bodenständige Feierabendküche. **fuer WEN:** Für berufstätige Familien und Pendler aus der Region, die ehrliche Landprodukte schätzen, aber unter der Woche k",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Der „Dorf-Nachbar“-Fahr- und Begleitdienst holt Seniorinnen und Senioren direkt an ihrer Haustür ab, begleitet sie auf Augenhöhe zu Einkäufen, Arztterminen oder Gemeinschaftstreffen im Kernort und bringt sie sicher wieder nach Hause. **WARUM HIER:** In den 15 weit verstreuten Ortsteilen von Grebenhain mit ihren steilen Wegen und den oft rauen Vogels",
+        "age_min": 1
+      }
     },
     {
       "id": "Finanzen",
@@ -350,63 +354,63 @@
       "name": "Handwerk-Sichtbarkeit — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder eine neue Wärmepumpe her muss, greifen die Leute sofort zum Smartphone – sorgen wir dafür, dass Ihr Betrieb ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grebenhain",
       "name": "Direktvermarktung — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit frischem Bauernbrot, regionaler Mettwurst, Hofkäse und saisonalem Gemüsekisten-Inhalt aus dem Oberwald. **für WEN:** Für berufstätige Pendler und Fami",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "tourismus-grebenhain",
       "name": "Vulkanregion-Tourismus — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Erlebnis-Paket: „Vulkan-Picknick & E-Bike-Genuss in Grebenhain“** * **WAS:** Eine geführte E-Bike-Tour entlang des geschmeidigen Vulkanradwegs mit einem Stopp für ein exklusives Picknick voller regionaler Vogelsberger ",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "senioren-grebenhain",
       "name": "Senioren-Alltagsdienste — Grebenhain",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Dorf-Nachbar“-Fahr- und Begleitdienst holt Seniorinnen und Senioren direkt an ihrer Haustür ab, begleitet sie auf Augenhöhe zu Einkäufen, Arztterminen oder Gemeinschaftstreffen im Kernort und bringt sie sic",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "chancen-homberg-ohm",
       "name": "Chancen-Scout — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike-Wartungs- und Pannendienst auf Abruf für Anwohner, Pendler und Freizeitsportler. **WARUM HIER:** Homberg (Ohm) profitiert vom boomenden E-Bike-Tourismus am Ohmtal-Radweg und hat viele ältere E",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "handwerk-homberg-ohm",
       "name": "Handwerk-Sichtbarkeit — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein etablierter **Sanitär- und Heizungsbau-Betrieb** (SHK) in Homberg (Ohm). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer in Homberg und den Stadtteilen nach einer neuen Wärmepumpe oder einem Heizungs",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-homberg-ohm",
       "name": "Direktvermarktung — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Feierabend-Box“ ist ein wöchentliches Abo mit frischem Gemüse, Ahler Wurscht, Käse und Holzofenbrot von Höfen rund um Homberg (Ohm), ergänzt durch ein einfaches Rezept für die bodenständige Fei",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-homberg-ohm",
@@ -1499,17 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 1,
+    "used": 7,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-grebenhain",
+      "agent": "direkt-homberg-ohm",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb **Ansprache-Idee:** „Wenn im Vogelsberg die Heizung ausfällt oder eine neue Wärmepumpe her muss, greifen die Leute sofort zum Smartphone – sorgen wir dafür, dass Ihr Betrieb bei der Suche in Grebenhain und Umgebung direkt an erster Stelle steht.“",
-      "ts": "2026-11-06 11:30",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Box“ ist ein wöchentliches Abo mit frischem Gemüse, Ahler Wurscht, Käse und Holzofenbrot von Höfen rund um Homberg (Ohm), ergänzt durch ein einfaches Rezept für die bodenständige Feierabendküche. **fuer WEN:** Für berufstätige Familien und Pendler aus der Region, die ehrliche Landprodukte schätzen, aber unter der Woche k",
+      "ts": "2026-11-06 18:20",
       "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-homberg-ohm",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein etablierter **Sanitär- und Heizungsbau-Betrieb** (SHK) in Homberg (Ohm). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer in Homberg und den Stadtteilen nach einer neuen Wärmepumpe oder einem Heizungs-Notdienst googeln, finden sie aktuell oft nur die Konkurrenz aus Alsfeld oder Kirchhain – wollen wir dafür sorgen, dass deine Aufträge in d",
+      "ts": "2026-11-06 18:20",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-homberg-ohm",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Wartungs- und Pannendienst auf Abruf für Anwohner, Pendler und Freizeitsportler. **WARUM HIER:** Homberg (Ohm) profitiert vom boomenden E-Bike-Tourismus am Ohmtal-Radweg und hat viele ältere Eigenheimbesitzer, besitzt aktuell aber keinen eigenen Fahrradfachbetrieb im Ort. **ERSTER SCHRITT:** Starten Sie nebengewerblich mit einem g",
+      "ts": "2026-11-06 18:19",
+      "age_min": 1
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grebenhain",
+      "via": "gemini",
+      "text": "**WAS:** Der „Dorf-Nachbar“-Fahr- und Begleitdienst holt Seniorinnen und Senioren direkt an ihrer Haustür ab, begleitet sie auf Augenhöhe zu Einkäufen, Arztterminen oder Gemeinschaftstreffen im Kernort und bringt sie sicher wieder nach Hause. **WARUM HIER:** In den 15 weit verstreuten Ortsteilen von Grebenhain mit ihren steilen Wegen und den oft rauen Vogels",
+      "ts": "2026-11-06 18:19",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-grebenhain",
+      "via": "gemini",
+      "text": "**Erlebnis-Paket: „Vulkan-Picknick & E-Bike-Genuss in Grebenhain“** * **WAS:** Eine geführte E-Bike-Tour entlang des geschmeidigen Vulkanradwegs mit einem Stopp für ein exklusives Picknick voller regionaler Vogelsberger Spezialitäten mitten im Grünen. * **für WEN:** Perfekt für genussorientierte Paare, Best Ager und Naturverliebte, die die Vulkanlandschaft e",
+      "ts": "2026-11-06 18:19",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-grebenhain",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit frischem Bauernbrot, regionaler Mettwurst, Hofkäse und saisonalem Gemüsekisten-Inhalt aus dem Oberwald. **für WEN:** Für berufstätige Pendler und Familien aus Grebenhain und den umliegenden Ortsteilen, die unter der Woche wenig Zeit zum Einkaufen haben, aber ehrliche Lebensmittel aus der H",
+      "ts": "2026-11-06 18:19",
+      "age_min": 1
     }
   ]
 }
