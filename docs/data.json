@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T16:03Z",
+  "updated": "2026-11-07T20:13Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Das Erlebnis-Paket „Schlossflüstern & Gaumenfreuden“ vereint eine stimmungsvolle Abend-Wanderung mit Fackeln rund um das historische Schloss Romrod mit einem anschließenden regionalen 3-Gänge-Menü bei Kerzenschein. **fuer WEN:** Ideal für Paare und Romantikliebhaber, die eine kleine Auszeit suchen und die Vulkanregion Vogelsberg von ihrer märchenhaf",
+        "text": "**WAS:** Die „Felda-Feierabend-Kiste“ – eine wöchentliche Abokiste im Festpreis-Modell, vollgepackt mit saisonalem Gemüse, Vogelsberger Kartoffeln, Hofeiern und einer regionalen Wurst- oder Käsespezialität von Erzeugern direkt aus der Gemeinde. **Für WEN:** Für berufstätige Pendler und Familien aus Gemünden und den Ortsteilen, die ehrlich erzeugte Lebensmitt",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Alltags- und Fahrbegleitdienst, der älteren Menschen in den Ortsteilen von Romrod würdevolle Unterstützung bei Einkäufen, Arztbesuchen und kleinen Handgriffen im Haushalt bietet. **WARUM HIER:** Die verstreute Struktur der Romröder Ortsteile und die Wege in die Kernstadt oder nach Alsfeld erfordern persönliche Mobilitätslösungen, damit S",
+        "text": "**WAS:** Ein personengebundener „Dorfbegleit-Dienst“, der ältere Menschen nicht nur sicher von Haustür zu Haustür fährt, sondern sie bei Arztbesuchen, Besorgungen oder Friedhofsbesuchen aufmerksam und ohne Zeitdruck begleitet. **WARUM HIER:** In den verstreuten Ortsteilen von Feldatal wie Stumpertenrod oder Groß-Felda fehlen oft Nahversorger vor Ort, und der",
         "age_min": 0
       }
     },
@@ -534,108 +534,108 @@
       "name": "Handwerk-Sichtbarkeit — Romrod",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsfachbetrieb** in Romrod (mit Fokus auf Badsanierung und Wärmepumpen/Heizungstausch). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Romrod und den Nachbardör",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-romrod",
       "name": "Direktvermarktung — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit saisonalem Gemüse, Eiern, Ahler Wurscht und frischem Brot von Höfen aus dem Umkreis, gekühlt abzuholen an einer zentralen Abholstation in Romrod. **FÜ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-romrod",
       "name": "Vulkanregion-Tourismus — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Schlossflüstern & Gaumenfreuden“ vereint eine stimmungsvolle Abend-Wanderung mit Fackeln rund um das historische Schloss Romrod mit einem anschließenden regionalen 3-Gänge-Menü bei Kerzensche",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-romrod",
       "name": "Senioren-Alltagsdienste — Romrod",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Alltags- und Fahrbegleitdienst, der älteren Menschen in den Ortsteilen von Romrod würdevolle Unterstützung bei Einkäufen, Arztbesuchen und kleinen Handgriffen im Haushalt bietet. **WARUM HIER:** Die ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-feldatal",
       "name": "Chancen-Scout — Feldatal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Brennholz-Aufbereitungs- und Stapelservice inklusive einfacher Garteninstandhaltung, speziell ausgerichtet auf ältere Eigenheimbesitzer in den Ortsteilen von Feldatal. **WARUM HIER:** Im waldreichen ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-feldatal",
       "name": "Handwerk-Sichtbarkeit — Feldatal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** **Sanitär- und Heizungsbauer** (Fokus auf Wärmepumpen-Umrüstung, Badsanierung und regionalen Notdienst) **Ansprache-Idee:** „Hallo Herr/Frau [Name], wenn Hausbesitzer im Feldatal nach einer neuen Heizung",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-feldatal",
       "name": "Direktvermarktung — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo, vollgepackt mit Zutaten für ein ehrliches Abendbrot direkt vom Erzeuger – wie frisches Holzofenbrot, Hofkäse, Hausmacher Wurst und Saison-Gemüse. **für W",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-feldatal",
       "name": "Vulkanregion-Tourismus — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Feldataler Genuss-Trekking“ beinhaltet eine geführte Lamawanderung durch das malerische Feldatal inklusive eines Rucksacks voller regionaler Vogelsberger Picknick-Spezialitäten. **fuer WEN:**",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-feldatal",
       "name": "Senioren-Alltagsdienste — Feldatal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein personengebundener „Dorfbegleit-Dienst“, der ältere Menschen nicht nur sicher von Haustür zu Haustür fährt, sondern sie bei Arztbesuchen, Besorgungen oder Friedhofsbesuchen aufmerksam und ohne Zeitdruck begl",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-gemuenden-felda",
       "name": "Chancen-Scout — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Alltags- und Kleinreparatur-Service für Senioren im Feldatal, der einfache Handwerksarbeiten, Gartenpflege und schwere Besorgungen flexibel auf Stundenbasis erledigt. **WARUM HIER:** Gemünden (Felda)",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-gemuenden-felda",
       "name": "Handwerk-Sichtbarkeit — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärfachbetrieb (SHK) **Ansprache-Idee:** „Damit Hausbesitzer aus Gemünden und dem Vogelsberg bei Heizungsausfall oder der Planung einer Wärmepumpe direkt Ihre Nummer auf dem Smartphone ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-gemuenden-felda",
       "name": "Direktvermarktung — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Felda-Feierabend-Kiste“ – eine wöchentliche Abokiste im Festpreis-Modell, vollgepackt mit saisonalem Gemüse, Vogelsberger Kartoffeln, Hofeiern und einer regionalen Wurst- oder Käsespezialität von Erzeugern ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-gemuenden-felda",
@@ -1503,56 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 13,
+    "used": 19,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-romrod",
+      "agent": "direkt-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Schlossflüstern & Gaumenfreuden“ vereint eine stimmungsvolle Abend-Wanderung mit Fackeln rund um das historische Schloss Romrod mit einem anschließenden regionalen 3-Gänge-Menü bei Kerzenschein. **fuer WEN:** Ideal für Paare und Romantikliebhaber, die eine kleine Auszeit suchen und die Vulkanregion Vogelsberg von ihrer märchenhaf",
-      "ts": "2026-11-07 16:03",
+      "text": "**WAS:** Die „Felda-Feierabend-Kiste“ – eine wöchentliche Abokiste im Festpreis-Modell, vollgepackt mit saisonalem Gemüse, Vogelsberger Kartoffeln, Hofeiern und einer regionalen Wurst- oder Käsespezialität von Erzeugern direkt aus der Gemeinde. **Für WEN:** Für berufstätige Pendler und Familien aus Gemünden und den Ortsteilen, die ehrlich erzeugte Lebensmitt",
+      "ts": "2026-11-07 20:13",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-feldatal",
+      "agent": "direkt-feldatal",
       "via": "gemini",
-      "text": "**Betriebstyp:** **Sanitär- und Heizungsbauer** (Fokus auf Wärmepumpen-Umrüstung, Badsanierung und regionalen Notdienst) **Ansprache-Idee:** „Hallo Herr/Frau [Name], wenn Hausbesitzer im Feldatal nach einer neuen Heizung oder Badsanierung googeln, landen sie aktuell fast nur bei der Konkurrenz aus Lauterbach oder Alsfeld – wollen wir gemeinsam dafür sorgen, ",
-      "ts": "2026-11-07 16:02",
+      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo, vollgepackt mit Zutaten für ein ehrliches Abendbrot direkt vom Erzeuger – wie frisches Holzofenbrot, Hofkäse, Hausmacher Wurst und Saison-Gemüse. **für WEN:** Für berufstätige Pendler und Familien aus Feldatal und Umgebung, die gute Lebensmittel aus der Heimat schätzen, aber unter der Woche k",
+      "ts": "2026-11-07 20:13",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-feldatal",
+      "agent": "handwerk-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Brennholz-Aufbereitungs- und Stapelservice inklusive einfacher Garteninstandhaltung, speziell ausgerichtet auf ältere Eigenheimbesitzer in den Ortsteilen von Feldatal. **WARUM HIER:** Im waldreichen Vogelsberg heizen sehr viele ältere Hausbesitzer traditionell mit Holz, schaffen die schwere körperliche Arbeit des Spaltens, Schichtens und",
-      "ts": "2026-11-07 16:02",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärfachbetrieb (SHK) **Ansprache-Idee:** „Damit Hausbesitzer aus Gemünden und dem Vogelsberg bei Heizungsausfall oder der Planung einer Wärmepumpe direkt Ihre Nummer auf dem Smartphone finden – und nicht die vom Mitbewerber zwei Orte weiter.“",
+      "ts": "2026-11-07 20:13",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-gemuenden-felda",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Alltags- und Kleinreparatur-Service für Senioren im Feldatal, der einfache Handwerksarbeiten, Gartenpflege und schwere Besorgungen flexibel auf Stundenbasis erledigt. **WARUM HIER:** Gemünden (Felda) hat eine stark alternde Bevölkerung in teils isolierten Ortsteilen, während etablierte Handwerksbetriebe aus der Region für Kleinstaufträge",
+      "ts": "2026-11-07 20:13",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-romrod",
+      "agent": "senioren-feldatal",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Alltags- und Fahrbegleitdienst, der älteren Menschen in den Ortsteilen von Romrod würdevolle Unterstützung bei Einkäufen, Arztbesuchen und kleinen Handgriffen im Haushalt bietet. **WARUM HIER:** Die verstreute Struktur der Romröder Ortsteile und die Wege in die Kernstadt oder nach Alsfeld erfordern persönliche Mobilitätslösungen, damit S",
-      "ts": "2026-11-07 16:02",
+      "text": "**WAS:** Ein personengebundener „Dorfbegleit-Dienst“, der ältere Menschen nicht nur sicher von Haustür zu Haustür fährt, sondern sie bei Arztbesuchen, Besorgungen oder Friedhofsbesuchen aufmerksam und ohne Zeitdruck begleitet. **WARUM HIER:** In den verstreuten Ortsteilen von Feldatal wie Stumpertenrod oder Groß-Felda fehlen oft Nahversorger vor Ort, und der",
+      "ts": "2026-11-07 20:13",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-romrod",
+      "agent": "tourismus-feldatal",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit saisonalem Gemüse, Eiern, Ahler Wurscht und frischem Brot von Höfen aus dem Umkreis, gekühlt abzuholen an einer zentralen Abholstation in Romrod. **FÜR WEN:** Für berufstätige Pendler und Familien aus Romrod und den Ortsteilen, die Wert auf ehrliche Landprodukte legen, aber es zeitlich sel",
-      "ts": "2026-11-07 16:02",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-romrod",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsfachbetrieb** in Romrod (mit Fokus auf Badsanierung und Wärmepumpen/Heizungstausch). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Romrod und den Nachbardörfern online nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell noch bei der Konkurrenz in Alsfeld – wollen wir dafür sorg",
-      "ts": "2026-11-07 16:02",
+      "text": "**WAS:** Das Erlebnis-Paket „Feldataler Genuss-Trekking“ beinhaltet eine geführte Lamawanderung durch das malerische Feldatal inklusive eines Rucksacks voller regionaler Vogelsberger Picknick-Spezialitäten. **fuer WEN:** Dieses Angebot richtet sich an Paare, Familien und Naturgenießer, die eine entschleunigende Auszeit mitten im Grünen des Vogelsbergs suchen",
+      "ts": "2026-11-07 20:13",
       "age_min": 0
     }
   ]
