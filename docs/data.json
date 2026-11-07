@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-07T03:01Z",
+  "updated": "2026-11-07T09:50Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Mobiler „Day-After“-Frühstücks- und Barista-Service für Hochzeitsgesellschaften und Tagungsgäste. **WARUM HIER:** Schloss Romrod ist ein stark frequentierter, überregionaler Hochzeits-Hotspot, dessen Gäste oft in umliegenden Pensionen ohne eigenes Frühstücksangebot untergebracht sind. **ERSTER SCHRITT:** Ein Kooperationsgespräch mit der Eventleitung",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -28,8 +32,8 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Alltagsbegleitdienst („Kirtorfer Dorf-Gefährte“), der Senioren aus den Ortsteilen zu Arztterminen oder Besorgungen fährt, beim Tragen hilft und Zeit für ein persönliches Gespräch auf Augenhöhe mitbringt. **WARUM HIER:** Da Kirtorf aus sieben weit verstreuten Ortsteilen mit ausgedünntem Nahverkehr besteht, bewahrt dieser Service die Selbs",
-        "age_min": 1
+        "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der Senioren aus allen verstreuten Ortsteilen von Mücke haustürnah abholt, zu Einkäufen, Arztterminen oder Treffpunkten begleitet und ihnen vor Ort behutsam zur Seite steht. **WARUM HIER:** Da die Infrastruktur in den einzelnen Dörfern Mückes abnimmt und Wege ohne eigenes Auto beschwerlich sind, schützt eine f",
+        "age_min": 0
       }
     },
     {
@@ -467,63 +471,63 @@
       "name": "Senioren-Alltagsdienste — Kirtorf",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Alltagsbegleitdienst („Kirtorfer Dorf-Gefährte“), der Senioren aus den Ortsteilen zu Arztterminen oder Besorgungen fährt, beim Tragen hilft und Zeit für ein persönliches Gespräch auf Augenhöhe mitbri",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-muecke",
       "name": "Chancen-Scout — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobiler E-Bike- und Fahrrad-Wartungsservice mit Hol- und Bringdienst direkt vor die Haustür der Bürger in Mücke. **WARUM HIER:** Durch die hügelige Vogelsberg-Lage gibt es in den Ortsteilen eine sehr hohe E-Bike",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-muecke",
       "name": "Handwerk-Sichtbarkeit — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb in Mücke. **Ansprache-Idee:** „Hallo [Name], viele Hausbesitzer in Mücke und Umgebung suchen online nach modernen Heizungen oder Notdiensten – sorgen wir dafür, dass Ihr Betr",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-muecke",
       "name": "Direktvermarktung — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Sonntags-Frühstückskiste“ als flexibles Abo vollgepackt mit Mücker Eiern, frischem Holzofenbrot, regionaler Butter, Hof-Käse und Honig aus der Nachbarschaft. **für WEN:** Für beschäftigte Famil",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-muecke",
       "name": "Vulkanregion-Tourismus — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Erlebnis-Paket: „Picknick am Mittelpunkt Hessens & GPS-Schatzsuche“** * **WAS:** Sie erleben eine moderne GPS-Geocaching-Tour durch die Mücker Natur, die Sie direkt zum geografischen Mittelpunkt Hessens führt, wo ein p",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-muecke",
       "name": "Senioren-Alltagsdienste — Muecke",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der Senioren aus allen verstreuten Ortsteilen von Mücke haustürnah abholt, zu Einkäufen, Arztterminen oder Treffpunkten begleitet und ihnen vor Ort behutsam zur Seite steh",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-romrod",
       "name": "Chancen-Scout — Romrod",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobiler „Day-After“-Frühstücks- und Barista-Service für Hochzeitsgesellschaften und Tagungsgäste. **WARUM HIER:** Schloss Romrod ist ein stark frequentierter, überregionaler Hochzeits-Hotspot, dessen Gäste oft i",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-romrod",
@@ -1499,17 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 1,
+    "used": 7,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-kirtorf",
+      "dept": "Chancen",
+      "agent": "chancen-romrod",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Alltagsbegleitdienst („Kirtorfer Dorf-Gefährte“), der Senioren aus den Ortsteilen zu Arztterminen oder Besorgungen fährt, beim Tragen hilft und Zeit für ein persönliches Gespräch auf Augenhöhe mitbringt. **WARUM HIER:** Da Kirtorf aus sieben weit verstreuten Ortsteilen mit ausgedünntem Nahverkehr besteht, bewahrt dieser Service die Selbs",
-      "ts": "2026-11-07 03:00",
-      "age_min": 1
+      "text": "**WAS:** Mobiler „Day-After“-Frühstücks- und Barista-Service für Hochzeitsgesellschaften und Tagungsgäste. **WARUM HIER:** Schloss Romrod ist ein stark frequentierter, überregionaler Hochzeits-Hotspot, dessen Gäste oft in umliegenden Pensionen ohne eigenes Frühstücksangebot untergebracht sind. **ERSTER SCHRITT:** Ein Kooperationsgespräch mit der Eventleitung",
+      "ts": "2026-11-07 09:50",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-muecke",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der Senioren aus allen verstreuten Ortsteilen von Mücke haustürnah abholt, zu Einkäufen, Arztterminen oder Treffpunkten begleitet und ihnen vor Ort behutsam zur Seite steht. **WARUM HIER:** Da die Infrastruktur in den einzelnen Dörfern Mückes abnimmt und Wege ohne eigenes Auto beschwerlich sind, schützt eine f",
+      "ts": "2026-11-07 09:50",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-muecke",
+      "via": "gemini",
+      "text": "**Erlebnis-Paket: „Picknick am Mittelpunkt Hessens & GPS-Schatzsuche“** * **WAS:** Sie erleben eine moderne GPS-Geocaching-Tour durch die Mücker Natur, die Sie direkt zum geografischen Mittelpunkt Hessens führt, wo ein prall gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten für Sie bereitsteht. * **FÜR WEN:** Perfekt für Paare, Familien und kl",
+      "ts": "2026-11-07 09:50",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-muecke",
+      "via": "gemini",
+      "text": "**WAS:** Die „Vogelsberger Sonntags-Frühstückskiste“ als flexibles Abo vollgepackt mit Mücker Eiern, frischem Holzofenbrot, regionaler Butter, Hof-Käse und Honig aus der Nachbarschaft. **für WEN:** Für beschäftigte Familien und Pendler aus Mücke und den umliegenden Dörfern, die am Wochenende ohne Einkaufsstress ein ehrliches Landfrühstück genießen wollen. **",
+      "ts": "2026-11-07 09:50",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-muecke",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb in Mücke. **Ansprache-Idee:** „Hallo [Name], viele Hausbesitzer in Mücke und Umgebung suchen online nach modernen Heizungen oder Notdiensten – sorgen wir dafür, dass Ihr Betrieb ganz oben steht, bevor die Kunden beim Konkurrenten im Nachbarort anrufen.“",
+      "ts": "2026-11-07 09:49",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-muecke",
+      "via": "gemini",
+      "text": "**WAS:** Mobiler E-Bike- und Fahrrad-Wartungsservice mit Hol- und Bringdienst direkt vor die Haustür der Bürger in Mücke. **WARUM HIER:** Durch die hügelige Vogelsberg-Lage gibt es in den Ortsteilen eine sehr hohe E-Bike-Dichte, aber aktuell keinen einzigen stationären Fahrradmechaniker im gesamten Gemeindegebiet. **ERSTER SCHRITT:** Basis-Werkzeug beschaffe",
+      "ts": "2026-11-07 09:49",
+      "age_min": 0
     }
   ]
 }
