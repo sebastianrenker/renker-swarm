@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-07 09:50 UTC",
+  "updated": "2026-11-07 16:03 UTC",
   "total_results": 6,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-romrod",
-      "title": "Chancen-Scout — Romrod  ·  Chancen",
+      "agent": "tourismus-romrod",
+      "title": "Vulkanregion-Tourismus — Romrod  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Mobiler „Day-After“-Frühstücks- und Barista-Service für Hochzeitsgesellschaften und Tagungsgäste.\n\n**WARUM HIER:** Schloss Romrod ist ein stark frequentierter, überregionaler Hochzeits-Hotspot, dessen Gäste oft in umliegenden Pensionen ohne eigenes Frühstücksangebot untergebracht sind.\n\n**ERSTER SCHRITT:** Ein Kooperationsgespräch mit der Eventleitung von Schloss Romrod führen und drei lokale Bäcker für eine Test-Belieferung am Wochenende anfragen.",
-      "ts": "2026-11-07 09:50",
+      "text": "**WAS:** Das Erlebnis-Paket „Schlossflüstern & Gaumenfreuden“ vereint eine stimmungsvolle Abend-Wanderung mit Fackeln rund um das historische Schloss Romrod mit einem anschließenden regionalen 3-Gänge-Menü bei Kerzenschein.\n\n**fuer WEN:** Ideal für Paare und Romantikliebhaber, die eine kleine Auszeit suchen und die Vulkanregion Vogelsberg von ihrer märchenhaften Seite erleben möchten.\n\n**ERSTER SCHRITT:** Wähle einfach dein Wunschdatum im Online-Kalender aus und sichere dir dein Ticket direkt mit wenigen Klicks.",
+      "ts": "2026-11-07 16:03",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-feldatal",
+      "title": "Handwerk-Sichtbarkeit — Feldatal  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** **Sanitär- und Heizungsbauer** (Fokus auf Wärmepumpen-Umrüstung, Badsanierung und regionalen Notdienst)\n\n**Ansprache-Idee:**\n„Hallo Herr/Frau [Name], wenn Hausbesitzer im Feldatal nach einer neuen Heizung oder Badsanierung googeln, landen sie aktuell fast nur bei der Konkurrenz aus Lauterbach oder Alsfeld – wollen wir gemeinsam dafür sorgen, dass diese lukrativen Aufträge wieder direkt bei Ihnen vor der Haustür landen?“",
+      "ts": "2026-11-07 16:02",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-feldatal",
+      "title": "Chancen-Scout — Feldatal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEin mobiler Brennholz-Aufbereitungs- und Stapelservice inklusive einfacher Garteninstandhaltung, speziell ausgerichtet auf ältere Eigenheimbesitzer in den Ortsteilen von Feldatal.\n\n**WARUM HIER:** \nIm waldreichen Vogelsberg heizen sehr viele ältere Hausbesitzer traditionell mit Holz, schaffen die schwere körperliche Arbeit des Spaltens, Schichtens und Anlieferns aber zunehmend nicht mehr alleine.\n\n**ERSTER SCHRITT:** \nDrucke 500 einfache Flyer mit Festnetznummer und klarem Festpreis-Angebot fürs Holzstapeln und verteile sie gezielt in den Wohngebieten von Groß-Felda und Kestrich.",
+      "ts": "2026-11-07 16:02",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-muecke",
-      "title": "Senioren-Alltagsdienste — Muecke  ·  Kunden",
+      "agent": "senioren-romrod",
+      "title": "Senioren-Alltagsdienste — Romrod  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Alltags- und Begleitdienst, der Senioren aus allen verstreuten Ortsteilen von Mücke haustürnah abholt, zu Einkäufen, Arztterminen oder Treffpunkten begleitet und ihnen vor Ort behutsam zur Seite steht.\n\n**WARUM HIER:** \nDa die Infrastruktur in den einzelnen Dörfern Mückes abnimmt und Wege ohne eigenes Auto beschwerlich sind, schützt eine flexible Beförderung die Selbstständigkeit und Teilnahme am Gemeinschaftsleben.\n\n**ERSTER SCHRITT:** \nEin würdevolles Erstgespräch am eigenen Küchenstisch führen, um individuelle Bedürfnisse ohne Zeitdruck zu erfassen und passende Begleitpersonen aus der unmittelbaren Nachbarschaft zu vermitteln.",
-      "ts": "2026-11-07 09:50",
+      "text": "**WAS:** \nEin mobiler Alltags- und Fahrbegleitdienst, der älteren Menschen in den Ortsteilen von Romrod würdevolle Unterstützung bei Einkäufen, Arztbesuchen und kleinen Handgriffen im Haushalt bietet.\n\n**WARUM HIER:** \nDie verstreute Struktur der Romröder Ortsteile und die Wege in die Kernstadt oder nach Alsfeld erfordern persönliche Mobilitätslösungen, damit Senioren auch ohne eigenes Auto selbstbestimmt in ihrer vertrauten Umgebung wohnen bleiben können.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung Romrod und den örtlichen Kirchengemeinden wird eine Informationsveranstaltung organisiert, um bestehende Nachbarschaftshilfen zu bündeln und erste feste Tandems aus Helfern und Senioren zu bilden.",
+      "ts": "2026-11-07 16:02",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-muecke",
-      "title": "Vulkanregion-Tourismus — Muecke  ·  Chancen",
+      "agent": "direkt-romrod",
+      "title": "Direktvermarktung — Romrod  ·  Chancen",
       "via": "gemini",
-      "text": "**Erlebnis-Paket: „Picknick am Mittelpunkt Hessens & GPS-Schatzsuche“**\n\n* **WAS:** Sie erleben eine moderne GPS-Geocaching-Tour durch die Mücker Natur, die Sie direkt zum geografischen Mittelpunkt Hessens führt, wo ein prall gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten für Sie bereitsteht.\n* **FÜR WEN:** Perfekt für Paare, Familien und kleine Gruppen, die Naturgenuss im Vogelsberg mit einem unterhaltsamen Mikro-Abenteuer verbinden möchten.\n* **ERSTER SCHRITT:** Wählen Sie online Ihren Wunschtermin aus, stellen Sie Ihren Picknickkorb individuell zusammen und erhalten Sie Ihren Start-Code direkt aufs Smartphone.",
-      "ts": "2026-11-07 09:50",
+      "text": "**WAS:**\nEine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit saisonalem Gemüse, Eiern, Ahler Wurscht und frischem Brot von Höfen aus dem Umkreis, gekühlt abzuholen an einer zentralen Abholstation in Romrod.\n\n**FÜR WEN:**\nFür berufstätige Pendler und Familien aus Romrod und den Ortsteilen, die Wert auf ehrliche Landprodukte legen, aber es zeitlich selten zu den einzelnen Hofläden schaffen.\n\n**ERSTER SCHRITT:**\nDrei lokale Direktvermarkter (Gemüse, Eier, Fleisch/Bäcker) an einen Tisch holen und mit der Stadt Romrod einen gut zugänglichen Standort für die Abholstation vereinbaren.",
+      "ts": "2026-11-07 16:02",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-muecke",
-      "title": "Direktvermarktung — Muecke  ·  Chancen",
+      "agent": "handwerk-romrod",
+      "title": "Handwerk-Sichtbarkeit — Romrod  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Sonntags-Frühstückskiste“ als flexibles Abo vollgepackt mit Mücker Eiern, frischem Holzofenbrot, regionaler Butter, Hof-Käse und Honig aus der Nachbarschaft.\n\n**für WEN:** Für beschäftigte Familien und Pendler aus Mücke und den umliegenden Dörfern, die am Wochenende ohne Einkaufsstress ein ehrliches Landfrühstück genießen wollen.\n\n**ERSTER SCHRITT:** Schließe dich mit zwei lokalen Höfen und einem Bäcker zusammen und biete das Frühstückspaket probeweise für vier Wochen über eine einfache WhatsApp-Gruppe im Dorf an.",
-      "ts": "2026-11-07 09:50",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-muecke",
-      "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb in Mücke.\n\n**Ansprache-Idee:** \n„Hallo [Name], viele Hausbesitzer in Mücke und Umgebung suchen online nach modernen Heizungen oder Notdiensten – sorgen wir dafür, dass Ihr Betrieb ganz oben steht, bevor die Kunden beim Konkurrenten im Nachbarort anrufen.“",
-      "ts": "2026-11-07 09:49",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-muecke",
-      "title": "Chancen-Scout — Muecke  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Mobiler E-Bike- und Fahrrad-Wartungsservice mit Hol- und Bringdienst direkt vor die Haustür der Bürger in Mücke.\n\n**WARUM HIER:** Durch die hügelige Vogelsberg-Lage gibt es in den Ortsteilen eine sehr hohe E-Bike-Dichte, aber aktuell keinen einzigen stationären Fahrradmechaniker im gesamten Gemeindegebiet.\n\n**ERSTER SCHRITT:** Basis-Werkzeug beschaffen, eine WhatsApp-Business-Nummer zur Terminbuchung einrichten und Flyer am Bahnhof Nieder-Ohmen sowie bei den lokalen Einkaufsmärkten auslegen.",
-      "ts": "2026-11-07 09:49",
+      "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsfachbetrieb** in Romrod (mit Fokus auf Badsanierung und Wärmepumpen/Heizungstausch).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Hausbesitzer aus Romrod und den Nachbardörfern online nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell noch bei der Konkurrenz in Alsfeld – wollen wir dafür sorgen, dass Ihr Betrieb auf Google ganz oben steht, damit die lukrativen Aufträge direkt bei Ihnen in der Region bleiben?“",
+      "ts": "2026-11-07 16:02",
       "age_min": 0
     }
   ],
@@ -65,47 +65,47 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-romrod",
-          "title": "Chancen-Scout — Romrod  ·  Chancen",
+          "agent": "tourismus-romrod",
+          "title": "Vulkanregion-Tourismus — Romrod  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Mobiler „Day-After“-Frühstücks- und Barista-Service für Hochzeitsgesellschaften und Tagungsgäste.\n\n**WARUM HIER:** Schloss Romrod ist ein stark frequentierter, überregionaler Hochzeits-Hotspot, dessen Gäste oft in umliegenden Pensionen ohne eigenes Frühstücksangebot untergebracht sind.\n\n**ERSTER SCHRITT:** Ein Kooperationsgespräch mit der Eventleitung von Schloss Romrod führen und drei lokale Bäcker für eine Test-Belieferung am Wochenende anfragen.",
-          "ts": "2026-11-07 09:50",
+          "text": "**WAS:** Das Erlebnis-Paket „Schlossflüstern & Gaumenfreuden“ vereint eine stimmungsvolle Abend-Wanderung mit Fackeln rund um das historische Schloss Romrod mit einem anschließenden regionalen 3-Gänge-Menü bei Kerzenschein.\n\n**fuer WEN:** Ideal für Paare und Romantikliebhaber, die eine kleine Auszeit suchen und die Vulkanregion Vogelsberg von ihrer märchenhaften Seite erleben möchten.\n\n**ERSTER SCHRITT:** Wähle einfach dein Wunschdatum im Online-Kalender aus und sichere dir dein Ticket direkt mit wenigen Klicks.",
+          "ts": "2026-11-07 16:03",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-muecke",
-          "title": "Vulkanregion-Tourismus — Muecke  ·  Chancen",
+          "agent": "handwerk-feldatal",
+          "title": "Handwerk-Sichtbarkeit — Feldatal  ·  Chancen",
           "via": "gemini",
-          "text": "**Erlebnis-Paket: „Picknick am Mittelpunkt Hessens & GPS-Schatzsuche“**\n\n* **WAS:** Sie erleben eine moderne GPS-Geocaching-Tour durch die Mücker Natur, die Sie direkt zum geografischen Mittelpunkt Hessens führt, wo ein prall gefüllter Picknickkorb mit regionalen Vogelsberger Spezialitäten für Sie bereitsteht.\n* **FÜR WEN:** Perfekt für Paare, Familien und kleine Gruppen, die Naturgenuss im Vogelsberg mit einem unterhaltsamen Mikro-Abenteuer verbinden möchten.\n* **ERSTER SCHRITT:** Wählen Sie online Ihren Wunschtermin aus, stellen Sie Ihren Picknickkorb individuell zusammen und erhalten Sie Ihren Start-Code direkt aufs Smartphone.",
-          "ts": "2026-11-07 09:50",
+          "text": "**Betriebstyp:** **Sanitär- und Heizungsbauer** (Fokus auf Wärmepumpen-Umrüstung, Badsanierung und regionalen Notdienst)\n\n**Ansprache-Idee:**\n„Hallo Herr/Frau [Name], wenn Hausbesitzer im Feldatal nach einer neuen Heizung oder Badsanierung googeln, landen sie aktuell fast nur bei der Konkurrenz aus Lauterbach oder Alsfeld – wollen wir gemeinsam dafür sorgen, dass diese lukrativen Aufträge wieder direkt bei Ihnen vor der Haustür landen?“",
+          "ts": "2026-11-07 16:02",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-muecke",
-          "title": "Direktvermarktung — Muecke  ·  Chancen",
+          "agent": "chancen-feldatal",
+          "title": "Chancen-Scout — Feldatal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Die „Vogelsberger Sonntags-Frühstückskiste“ als flexibles Abo vollgepackt mit Mücker Eiern, frischem Holzofenbrot, regionaler Butter, Hof-Käse und Honig aus der Nachbarschaft.\n\n**für WEN:** Für beschäftigte Familien und Pendler aus Mücke und den umliegenden Dörfern, die am Wochenende ohne Einkaufsstress ein ehrliches Landfrühstück genießen wollen.\n\n**ERSTER SCHRITT:** Schließe dich mit zwei lokalen Höfen und einem Bäcker zusammen und biete das Frühstückspaket probeweise für vier Wochen über eine einfache WhatsApp-Gruppe im Dorf an.",
-          "ts": "2026-11-07 09:50",
+          "text": "**WAS:** \nEin mobiler Brennholz-Aufbereitungs- und Stapelservice inklusive einfacher Garteninstandhaltung, speziell ausgerichtet auf ältere Eigenheimbesitzer in den Ortsteilen von Feldatal.\n\n**WARUM HIER:** \nIm waldreichen Vogelsberg heizen sehr viele ältere Hausbesitzer traditionell mit Holz, schaffen die schwere körperliche Arbeit des Spaltens, Schichtens und Anlieferns aber zunehmend nicht mehr alleine.\n\n**ERSTER SCHRITT:** \nDrucke 500 einfache Flyer mit Festnetznummer und klarem Festpreis-Angebot fürs Holzstapeln und verteile sie gezielt in den Wohngebieten von Groß-Felda und Kestrich.",
+          "ts": "2026-11-07 16:02",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-muecke",
-          "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
+          "agent": "direkt-romrod",
+          "title": "Direktvermarktung — Romrod  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb in Mücke.\n\n**Ansprache-Idee:** \n„Hallo [Name], viele Hausbesitzer in Mücke und Umgebung suchen online nach modernen Heizungen oder Notdiensten – sorgen wir dafür, dass Ihr Betrieb ganz oben steht, bevor die Kunden beim Konkurrenten im Nachbarort anrufen.“",
-          "ts": "2026-11-07 09:49",
+          "text": "**WAS:**\nEine wöchentliche „Vogelsberger Feierabend-Kiste“ im Abo mit saisonalem Gemüse, Eiern, Ahler Wurscht und frischem Brot von Höfen aus dem Umkreis, gekühlt abzuholen an einer zentralen Abholstation in Romrod.\n\n**FÜR WEN:**\nFür berufstätige Pendler und Familien aus Romrod und den Ortsteilen, die Wert auf ehrliche Landprodukte legen, aber es zeitlich selten zu den einzelnen Hofläden schaffen.\n\n**ERSTER SCHRITT:**\nDrei lokale Direktvermarkter (Gemüse, Eier, Fleisch/Bäcker) an einen Tisch holen und mit der Stadt Romrod einen gut zugänglichen Standort für die Abholstation vereinbaren.",
+          "ts": "2026-11-07 16:02",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-muecke",
-          "title": "Chancen-Scout — Muecke  ·  Chancen",
+          "agent": "handwerk-romrod",
+          "title": "Handwerk-Sichtbarkeit — Romrod  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Mobiler E-Bike- und Fahrrad-Wartungsservice mit Hol- und Bringdienst direkt vor die Haustür der Bürger in Mücke.\n\n**WARUM HIER:** Durch die hügelige Vogelsberg-Lage gibt es in den Ortsteilen eine sehr hohe E-Bike-Dichte, aber aktuell keinen einzigen stationären Fahrradmechaniker im gesamten Gemeindegebiet.\n\n**ERSTER SCHRITT:** Basis-Werkzeug beschaffen, eine WhatsApp-Business-Nummer zur Terminbuchung einrichten und Flyer am Bahnhof Nieder-Ohmen sowie bei den lokalen Einkaufsmärkten auslegen.",
-          "ts": "2026-11-07 09:49",
+          "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsfachbetrieb** in Romrod (mit Fokus auf Badsanierung und Wärmepumpen/Heizungstausch).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Hausbesitzer aus Romrod und den Nachbardörfern online nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell noch bei der Konkurrenz in Alsfeld – wollen wir dafür sorgen, dass Ihr Betrieb auf Google ganz oben steht, damit die lukrativen Aufträge direkt bei Ihnen in der Region bleiben?“",
+          "ts": "2026-11-07 16:02",
           "age_min": 0
         }
       ]
@@ -116,11 +116,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-muecke",
-          "title": "Senioren-Alltagsdienste — Muecke  ·  Kunden",
+          "agent": "senioren-romrod",
+          "title": "Senioren-Alltagsdienste — Romrod  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Alltags- und Begleitdienst, der Senioren aus allen verstreuten Ortsteilen von Mücke haustürnah abholt, zu Einkäufen, Arztterminen oder Treffpunkten begleitet und ihnen vor Ort behutsam zur Seite steht.\n\n**WARUM HIER:** \nDa die Infrastruktur in den einzelnen Dörfern Mückes abnimmt und Wege ohne eigenes Auto beschwerlich sind, schützt eine flexible Beförderung die Selbstständigkeit und Teilnahme am Gemeinschaftsleben.\n\n**ERSTER SCHRITT:** \nEin würdevolles Erstgespräch am eigenen Küchenstisch führen, um individuelle Bedürfnisse ohne Zeitdruck zu erfassen und passende Begleitpersonen aus der unmittelbaren Nachbarschaft zu vermitteln.",
-          "ts": "2026-11-07 09:50",
+          "text": "**WAS:** \nEin mobiler Alltags- und Fahrbegleitdienst, der älteren Menschen in den Ortsteilen von Romrod würdevolle Unterstützung bei Einkäufen, Arztbesuchen und kleinen Handgriffen im Haushalt bietet.\n\n**WARUM HIER:** \nDie verstreute Struktur der Romröder Ortsteile und die Wege in die Kernstadt oder nach Alsfeld erfordern persönliche Mobilitätslösungen, damit Senioren auch ohne eigenes Auto selbstbestimmt in ihrer vertrauten Umgebung wohnen bleiben können.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung Romrod und den örtlichen Kirchengemeinden wird eine Informationsveranstaltung organisiert, um bestehende Nachbarschaftshilfen zu bündeln und erste feste Tandems aus Helfern und Senioren zu bilden.",
+          "ts": "2026-11-07 16:02",
           "age_min": 0
         }
       ]
