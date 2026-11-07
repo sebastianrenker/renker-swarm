@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-06T23:23Z",
+  "updated": "2026-11-07T03:01Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Bei der 3-stündigen „Kirtorfer Alpaka-Zeit“ wandert ihr mit flauschigen Begleitern durch das idyllische Gleental und genießt anschließend ein regionales Vulkan-Picknick auf einer Aussichtshöhe. **fuer WEN:** Dieses Angebot ist ideal für Paare, Familien und Naturverliebte, die eine entschleunigende Auszeit mit Tieren in der Vogelsberger Vulkanlandsch",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -32,7 +28,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Begleit- und Fahrdienst auf Augenhöhe, der Senioren aus den Ortsteilen sicher zu Arztterminen, Einkäufen oder Gemeinschaftsangeboten im Kernort Homberg begleitet. **WARUM HIER:** Da die Nahversorgung in den verstreuten Ortsteilen von Homberg (Ohm) wie Dannenrod oder Appenrod eingeschränkt ist, sichert dieser Service die selbstbestimmte T",
+        "text": "**WAS:** Ein mobiler Alltagsbegleitdienst („Kirtorfer Dorf-Gefährte“), der Senioren aus den Ortsteilen zu Arztterminen oder Besorgungen fährt, beim Tragen hilft und Zeit für ein persönliches Gespräch auf Augenhöhe mitbringt. **WARUM HIER:** Da Kirtorf aus sieben weit verstreuten Ortsteilen mit ausgedünntem Nahverkehr besteht, bewahrt dieser Service die Selbs",
         "age_min": 1
       }
     },
@@ -417,63 +413,63 @@
       "name": "Vulkanregion-Tourismus — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Schloss-Picknick & Turmzauber“ – Genießen Sie ein exklusives Picknick im Schlossgarten von Burg Homberg mit regionalen Vogelsberger Spezialitäten, gekrönt von einer privaten Turmbesteigung mit Panoramablick übe",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-homberg-ohm",
       "name": "Senioren-Alltagsdienste — Homberg (Ohm)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Begleit- und Fahrdienst auf Augenhöhe, der Senioren aus den Ortsteilen sicher zu Arztterminen, Einkäufen oder Gemeinschaftsangeboten im Kernort Homberg begleitet. **WARUM HIER:** Da die Nahversorgung",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-kirtorf",
       "name": "Chancen-Scout — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler, drohnengestützter Dienstleistungsservice für Wärmebild-Rehkitzrettung vor der Mahd sowie zur schnellen Inspektion von Dach- und Forstschäden. **WARUM HIER:** Kirtorf ist mit seinen sieben Ortsteilen",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-kirtorf",
       "name": "Handwerk-Sichtbarkeit — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** (insbesondere mit Fokus auf Heizungstausch/Wärmepumpen und Notdienst). **Ansprache-Idee (1 Satz):** „Wenn in Kirtorf oder den Ortsteilen die Heizung ausfällt oder jem",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-kirtorf",
       "name": "Direktvermarktung — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Kirtorfer Feierabend-Kiste“ ist ein wöchentliches Abo mit saisonalem Gemüse, Eiern, frischem Landbrot und regionaler Ahler Wurst von Höfen aus der Umgebung, flexibel abholbereit an einem zentralen Depot im ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-kirtorf",
       "name": "Vulkanregion-Tourismus — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der 3-stündigen „Kirtorfer Alpaka-Zeit“ wandert ihr mit flauschigen Begleitern durch das idyllische Gleental und genießt anschließend ein regionales Vulkan-Picknick auf einer Aussichtshöhe. **fuer WEN:** Die",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-kirtorf",
       "name": "Senioren-Alltagsdienste — Kirtorf",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Alltagsbegleitdienst („Kirtorfer Dorf-Gefährte“), der Senioren aus den Ortsteilen zu Arztterminen oder Besorgungen fährt, beim Tragen hilft und Zeit für ein persönliches Gespräch auf Augenhöhe mitbri",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "chancen-muecke",
@@ -1503,56 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 13,
+    "used": 1,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Bei der 3-stündigen „Kirtorfer Alpaka-Zeit“ wandert ihr mit flauschigen Begleitern durch das idyllische Gleental und genießt anschließend ein regionales Vulkan-Picknick auf einer Aussichtshöhe. **fuer WEN:** Dieses Angebot ist ideal für Paare, Familien und Naturverliebte, die eine entschleunigende Auszeit mit Tieren in der Vogelsberger Vulkanlandsch",
-      "ts": "2026-11-06 23:23",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Die „Kirtorfer Feierabend-Kiste“ ist ein wöchentliches Abo mit saisonalem Gemüse, Eiern, frischem Landbrot und regionaler Ahler Wurst von Höfen aus der Umgebung, flexibel abholbereit an einem zentralen Depot im Ort. **fuer WEN:** Für Pendler und Familien aus Kirtorf und den Ortsteilen, die ehrlich erzeugte Vogelsberger Lebensmittel schätzen, aber un",
-      "ts": "2026-11-06 23:23",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-kirtorf",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** (insbesondere mit Fokus auf Heizungstausch/Wärmepumpen und Notdienst). **Ansprache-Idee (1 Satz):** „Wenn in Kirtorf oder den Ortsteilen die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht: Finden die Leute dann direkt Sie auf dem Smartphone – oder fährt der Auftrag an die Konkurrenz aus Alsfeld o",
-      "ts": "2026-11-06 23:23",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler, drohnengestützter Dienstleistungsservice für Wärmebild-Rehkitzrettung vor der Mahd sowie zur schnellen Inspektion von Dach- und Forstschäden. **WARUM HIER:** Kirtorf ist mit seinen sieben Ortsteilen stark land- und forstwirtschaftlich geprägt und verfügt über viele ältere Gebäudebestände, bietet aber vor Ort bisher keinen spezialisierte",
-      "ts": "2026-11-06 23:23",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-homberg-ohm",
+      "agent": "senioren-kirtorf",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Begleit- und Fahrdienst auf Augenhöhe, der Senioren aus den Ortsteilen sicher zu Arztterminen, Einkäufen oder Gemeinschaftsangeboten im Kernort Homberg begleitet. **WARUM HIER:** Da die Nahversorgung in den verstreuten Ortsteilen von Homberg (Ohm) wie Dannenrod oder Appenrod eingeschränkt ist, sichert dieser Service die selbstbestimmte T",
-      "ts": "2026-11-06 23:22",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-homberg-ohm",
-      "via": "gemini",
-      "text": "**WAS:** „Schloss-Picknick & Turmzauber“ – Genießen Sie ein exklusives Picknick im Schlossgarten von Burg Homberg mit regionalen Vogelsberger Spezialitäten, gekrönt von einer privaten Turmbesteigung mit Panoramablick über das Ohmtal. **für WEN:** Dieses Angebot ist ideal für Paare und Genusswanderer, die eine romantische Auszeit mit historischem Flair und re",
-      "ts": "2026-11-06 23:22",
+      "text": "**WAS:** Ein mobiler Alltagsbegleitdienst („Kirtorfer Dorf-Gefährte“), der Senioren aus den Ortsteilen zu Arztterminen oder Besorgungen fährt, beim Tragen hilft und Zeit für ein persönliches Gespräch auf Augenhöhe mitbringt. **WARUM HIER:** Da Kirtorf aus sieben weit verstreuten Ortsteilen mit ausgedünntem Nahverkehr besteht, bewahrt dieser Service die Selbs",
+      "ts": "2026-11-07 03:00",
       "age_min": 1
     }
   ]
