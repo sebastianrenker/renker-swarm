@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-08T16:14Z",
+  "updated": "2026-11-08T20:29Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler E-Bike-Wartungs- und Reparatur-Service mit Hol- und Bringdienst speziell für Berufspendler in Angersbach und Landenhausen. **WARUM HIER:** Wartenberg profitiert stark von der Pendler-Achse nach Fulda und der Nähe zum Vulkanradweg, besitzt jedoch kein eigenes Zweirad-Fachgeschäft für schnelle Inspektionen vor Ort. **ERSTER SCHRITT:** Eine",
+        "text": "**WAS:** Das Paket „Ruinen-Romantik & Vulkan-Genuss“ kombiniert eine entspannte E-Bike-Tour durch die Wartenberger Natur mit einem exklusiven Picknick voller regionaler Spezialitäten direkt an der historischen Burgruine Wartenberg. **fuer WEN:** Perfekt für Paare und Genussurlauber, die Naturerlebnis, Entschleunigung und regionale Kulinarik miteinander verbi",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Fahr- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger auf Augenhöhe aus ihren Ortsteilen zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bringt. **WARUM HIER:** In Schwalmtal mit seinen weit verstreuten Dörfern sichert dieser Dienst die selbstbestimmte Teilhabe und den Erhalt sozia",
+        "text": "**WAS:** Ein würdevoller, ehrenamtlich unterstützter Begleit- und Fahrdienst, der ältere Menschen flexibel von Haustür zu Haustür bringt und ihnen beim Einkaufen, bei Arztbesuchen oder Behördengängen persönlich zur Seite steht. **WARUM HIER:** In den weitläufigen Strukturen von Wartenberg und seinen umliegenden Ortsteilen ermöglicht dieser Dienst das Verblei",
         "age_min": 0
       }
     },
@@ -750,90 +750,90 @@
       "name": "Chancen-Scout — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Hol-, Bring- und Wartungsservice für Rasenmäher, Holzspalter und Gartengeräte direkt auf den Höfen und Grundstücken der Ortsteile. **WARUM HIER:** In Schwalmtal besitzen fast alle Haushalte große Gar",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-schwalmtal",
       "name": "Handwerk-Sichtbarkeit — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbaubetrieb** (speziell mit Fokus auf Wärmepumpen-Umstieg und Badsanierung) in Schwalmtal. **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer in Waldniel oder Amern nach einer neue",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-schwalmtal",
       "name": "Direktvermarktung — Schwalmtal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Schwalmtaler Feierabend-Kiste“: Ein wöchentliches Frische-Abo mit saisonalem Gemüse, Eiern und regionalen Handwerksprodukten von Höfen aus der direkten Nachbarschaft, geliefert an zentrale Abholstationen im",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-schwalmtal",
       "name": "Vulkanregion-Tourismus — Schwalmtal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Entdecke die idyllischen Schwalmwiesen bei einer geführten Alpakawanderung inklusive regionalem Vogelsberger Picknickkorb direkt am Flussufer. **für WEN:** Perfekt für Paare, kleine Familien und Naturgenießer, d",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-schwalmtal",
       "name": "Senioren-Alltagsdienste — Schwalmtal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Fahr- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger auf Augenhöhe aus ihren Ortsteilen zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bring",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-wartenberg",
       "name": "Chancen-Scout — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Wartungs- und Reparatur-Service mit Hol- und Bringdienst speziell für Berufspendler in Angersbach und Landenhausen. **WARUM HIER:** Wartenberg profitiert stark von der Pendler-Achse nach Fulda",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-wartenberg",
       "name": "Handwerk-Sichtbarkeit — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) in Wartenberg. **Ansprache-Idee (1 Satz):** „Wenn in Wartenberg abends die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, greift er zum Handy – sorgen w",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-wartenberg",
       "name": "Direktvermarktung — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – ein wöchentliches Abo mit frischem Brot, Eiern, Käse, Wurst und Saison-Gemüse von Höfen aus dem Umkreis, kontaktlos hinterlegt an einer zentralen 24/7-Abholstation im Ort. *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-wartenberg",
       "name": "Vulkanregion-Tourismus — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Paket „Ruinen-Romantik & Vulkan-Genuss“ kombiniert eine entspannte E-Bike-Tour durch die Wartenberger Natur mit einem exklusiven Picknick voller regionaler Spezialitäten direkt an der historischen Burgruine ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-wartenberg",
       "name": "Senioren-Alltagsdienste — Wartenberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein würdevoller, ehrenamtlich unterstützter Begleit- und Fahrdienst, der ältere Menschen flexibel von Haustür zu Haustür bringt und ihnen beim Einkaufen, bei Arztbesuchen oder Behördengängen persönlich zur Seite",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-antrifttal",
@@ -1503,56 +1503,40 @@
     }
   ],
   "budget": {
-    "used": 14,
+    "used": 18,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "chancen-wartenberg",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Wartungs- und Reparatur-Service mit Hol- und Bringdienst speziell für Berufspendler in Angersbach und Landenhausen. **WARUM HIER:** Wartenberg profitiert stark von der Pendler-Achse nach Fulda und der Nähe zum Vulkanradweg, besitzt jedoch kein eigenes Zweirad-Fachgeschäft für schnelle Inspektionen vor Ort. **ERSTER SCHRITT:** Eine",
-      "ts": "2026-11-08 16:14",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-schwalmtal",
+      "agent": "senioren-wartenberg",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, ehrenamtlich getragener Fahr- und Begleitdienst, der ältere Mitbürgerinnen und Mitbürger auf Augenhöhe aus ihren Ortsteilen zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen bringt. **WARUM HIER:** In Schwalmtal mit seinen weit verstreuten Dörfern sichert dieser Dienst die selbstbestimmte Teilhabe und den Erhalt sozia",
-      "ts": "2026-11-08 16:14",
+      "text": "**WAS:** Ein würdevoller, ehrenamtlich unterstützter Begleit- und Fahrdienst, der ältere Menschen flexibel von Haustür zu Haustür bringt und ihnen beim Einkaufen, bei Arztbesuchen oder Behördengängen persönlich zur Seite steht. **WARUM HIER:** In den weitläufigen Strukturen von Wartenberg und seinen umliegenden Ortsteilen ermöglicht dieser Dienst das Verblei",
+      "ts": "2026-11-08 20:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-schwalmtal",
+      "agent": "tourismus-wartenberg",
       "via": "gemini",
-      "text": "**WAS:** Entdecke die idyllischen Schwalmwiesen bei einer geführten Alpakawanderung inklusive regionalem Vogelsberger Picknickkorb direkt am Flussufer. **für WEN:** Perfekt für Paare, kleine Familien und Naturgenießer, die eine entschleunigende Auszeit im Grünen suchen. **ERSTER SCHRITT:** Wähle deinen Wunschtermin online aus und sichere dir dein Ticket mit ",
-      "ts": "2026-11-08 16:14",
+      "text": "**WAS:** Das Paket „Ruinen-Romantik & Vulkan-Genuss“ kombiniert eine entspannte E-Bike-Tour durch die Wartenberger Natur mit einem exklusiven Picknick voller regionaler Spezialitäten direkt an der historischen Burgruine Wartenberg. **fuer WEN:** Perfekt für Paare und Genussurlauber, die Naturerlebnis, Entschleunigung und regionale Kulinarik miteinander verbi",
+      "ts": "2026-11-08 20:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-schwalmtal",
+      "agent": "direkt-wartenberg",
       "via": "gemini",
-      "text": "**WAS:** Die „Schwalmtaler Feierabend-Kiste“: Ein wöchentliches Frische-Abo mit saisonalem Gemüse, Eiern und regionalen Handwerksprodukten von Höfen aus der direkten Nachbarschaft, geliefert an zentrale Abholstationen im Ort. **FÜR WEN:** Für berufstätige Familien und Pendler im Raum Schwalmtal/Viersen, die Wert auf ehrliche Landwirtschaft legen, aber unter ",
-      "ts": "2026-11-08 16:13",
+      "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – ein wöchentliches Abo mit frischem Brot, Eiern, Käse, Wurst und Saison-Gemüse von Höfen aus dem Umkreis, kontaktlos hinterlegt an einer zentralen 24/7-Abholstation im Ort. **FÜR WEN:** Für Pendler und beschäftigte Familien aus Wartenberg und den Nachbardörfern, die ehrlich regional essen wollen, es aber zeitlich",
+      "ts": "2026-11-08 20:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-schwalmtal",
+      "agent": "handwerk-wartenberg",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbaubetrieb** (speziell mit Fokus auf Wärmepumpen-Umstieg und Badsanierung) in Schwalmtal. **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer in Waldniel oder Amern nach einer neuen Wärmepumpe gurgeln, finden sie aktuell meist Betriebe aus Mönchengladbach – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge di",
-      "ts": "2026-11-08 16:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-schwalmtal",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Hol-, Bring- und Wartungsservice für Rasenmäher, Holzspalter und Gartengeräte direkt auf den Höfen und Grundstücken der Ortsteile. **WARUM HIER:** In Schwalmtal besitzen fast alle Haushalte große Gartengrundstücke, aber es fehlt ein lokaler Fachbetrieb vor Ort, sodass die Wege zur Inspektion nach Alsfeld oder Lauterbach für viele Bürger ",
-      "ts": "2026-11-08 16:13",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) in Wartenberg. **Ansprache-Idee (1 Satz):** „Wenn in Wartenberg abends die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, greift er zum Handy – sorgen wir dafür, dass Ihre Nummer ganz oben steht und die Aufträge nicht beim Kollegen aus Erding landen.“",
+      "ts": "2026-11-08 20:29",
       "age_min": 0
     }
   ]
