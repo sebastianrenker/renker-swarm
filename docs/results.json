@@ -1,48 +1,126 @@
 {
-  "updated": "2026-11-08 02:42 UTC",
-  "total_results": 2,
-  "total_depts": 1,
+  "updated": "2026-11-08 09:30 UTC",
+  "total_results": 6,
+  "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-freiensteinau",
-      "title": "Vulkanregion-Tourismus — Freiensteinau  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-ulrichstein",
+      "title": "Senioren-Alltagsdienste — Ulrichstein  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nErlebe das Paket „Vulkan-Genuss auf dem Wasser“, das eine zweistündige SUP-Board-Miete am Nieder-Mooser See mit einem prall gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten kombiniert.\n\n**für WEN:** \nDas Angebot richtet sich an Paare und Genuss-Abenteurer, die die idyllische Seenlandschaft von Freiensteinau aktiv und zugleich entschleunigt vom Wasser aus entdecken möchten.\n\n**ERSTER SCHRITT:** \nWähle im Online-Kalender deinen Wunschtermin sowie deine Picknick-Variante (z. B. klassisch oder vegetarisch) aus und sichere dir dein digitales Erlebnisticket direkt per Smartphone.",
-      "ts": "2026-11-08 02:42",
+      "text": "**WAS:** \nEin verlässlicher, würdevoller Fahr- und Begleitdienst, der ältere Menschen direkt an der Haustür abholt, bei Einkäufen oder Arztfahrten unterstützt und Raum für persönliche Begegnungen schafft.\n\n**WARUM HIER:** \nIn der höchstgelegenen Stadt Hessens erschweren strenge Winter, steile Straßen und die weiten Distanzen zwischen den neun Ortsteilen die selbstständige Mobilität im Alter extrem.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den Ortsvorstehern und dem Seniorenbeirat die konkreten Bedarfe in den Ortsteilen erheben, um erste feste Wochenrouten mit ehrenamtlichen und hauptamtlichen Tandems zu starten.",
+      "ts": "2026-11-08 09:30",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-freiensteinau",
-      "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
+      "agent": "tourismus-ulrichstein",
+      "title": "Vulkanregion-Tourismus — Ulrichstein  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Eine Abo-Box namens „Vogelsberger Vesper-Kiste“, vollgepackt mit frischem Holzofenbrot, lokalen Wurst- und Käsespezialitäten sowie saisonalem Hof-Gemüse direkt aus der Freiensteinauer Nachbarschaft.\n\n**FÜR WEN:** Für beschäftigte Pendler, Familien und Senioren aus der Region, die ehrliche Lebensmittel vom Bauernhof wollen, aber unter der Woche keine Zeit für Touren zu einzelnen Hofläden haben.\n\n**ERSTER SCHRITT:** Drei lokale Partnerbetriebe (Bäcker, Hofmetzger, Gemüsebauer) an einen Tisch holen und über Handzettel im Dorf ein zweimonatiges Test-Abo mit 20 festen Haushalten starten.",
-      "ts": "2026-11-08 02:42",
+      "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & Sternenzauber“ umfasst eine geführte Dämmerungswanderung auf den Schlossberg Ulrichstein, einen prall gefüllten Picknickkorb mit regionalen Vogelsberg-Spezialitäten und ein mobiles Teleskop zur Himmelsbeobachtung auf Hessens höchstgelegener Burgruine.\n\n**FÜR WEN:** Das Angebot richtet sich an Paare und Genusswanderer, die einen romantischen Abend in der Natur mit vulkanischer Geschichte und lokaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:** Klicke auf den Buchungsbutton der Website der Vulkanregion, wähle deinen Wunschtermin sowie deine Korb-Variante aus und erhalte dein digitales Ticket direkt per E-Mail.",
+      "ts": "2026-11-08 09:30",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-ulrichstein",
+      "title": "Direktvermarktung — Ulrichstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Ulrichsteiner Höhen-Kiste“ – ein bi-wöchentliches Abo-Kistchen vollgepackt mit ehrlichen Haltbarkeits-Schmankerln der rauen Vogelsberg-Region wie Weiderind-Knacker, Lagerkartoffeln, Tannenhonig und handgemachtem Schmand.\n\n**fuer WEN:** Für beschäftigte Pendler und Familien im Raum Alsfeld, Lauterbach und Schotten, die gute Lebensmittel aus der Heimat schätzen, aber keine Zeit haben, am Wochenende fünf verschiedene Hofläden abzuklappern.\n\n**ERSTER SCHRITT:** Mit zwei befreundeten Betrieben aus der Großgemeinde Ulrichstein die ersten vier Grundprodukte festlegen und eine einfache Abholstation an einer gut befahrenen Ausfallstraße aufstellen.",
+      "ts": "2026-11-08 09:30",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-ulrichstein",
+      "title": "Handwerk-Sichtbarkeit — Ulrichstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb** (vor allem fokussiert auf Heizungsmodernisierung und Notdienst).\n\n**Ansprache-Idee (1 Satz):**\n„Im rauen Vogelsberg-Winter zählt jede Stunde: Wenn bei den Menschen in und um Ulrichstein die Heizung ausfällt oder eine Wärmepumpe gesucht wird, finden sie auf Google aktuell zuerst die Konkurrenz aus Alsfeld oder Lauterbach – lassen Sie uns dafür sorgen, dass der Notruf und die neuen Aufträge direkt bei Ihnen landen.“",
+      "ts": "2026-11-08 09:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-ulrichstein",
+      "title": "Chancen-Scout — Ulrichstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nMobile 24/7-Proviant- und Reparatur-Station (wetterfester Outdoor-Automat) für regionale Lebensmittel, Wandersnacks und E-Bike-Ersatzteile.\n\n**WARUM HIER:** \nAls höchstgelegene Stadt Hessens profitiert Ulrichstein massiv vom durchziehenden E-Bike- und Wandertourismus (z. B. Vogelsberger Höhenweg), hat aber im Ortskern eine Lücke bei der flexiblen Spontan-Verpflegung.\n\n**ERSTER SCHRITT:** \nEinen gebrauchten Outdoor-Automaten mieten, einen frequenzstarken Stellplatz nahe dem Schlossberg pachten und Lieferverträge mit zwei lokalen Landwirten beziehungsweise Bäckern schließen.",
+      "ts": "2026-11-08 09:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-freiensteinau",
+      "title": "Senioren-Alltagsdienste — Freiensteinau  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Erledigungsdienst mit Haustür-Abholung, der Seniorinnen und Senioren würdevoll und individuell zu Ärzten, Einkäufen sowie sozialen Treffpunkten begleitet.\n\n**WARUM HIER:** In den zwölf weit verstreuten Ortsteilen von Freiensteinau sind die Wege zu medizinischer Versorgung und Supermärkten lang und die Busverbindungen spärlich, weshalb eine flexible Unterstützung direkt an der Haustür die Selbstständigkeit im eigenen Zuhause sichert.\n\n**ERSTER SCHRITT:** Ein Abstimmungsgespräch mit der Gemeindeverwaltung und den Ortsbeiräten führen, um den genauen Bedarf abzufragen und erste freiwillige Fahrerinnen und Fahrer aus den Dörfern zu gewinnen.",
+      "ts": "2026-11-08 09:29",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 4,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-freiensteinau",
-          "title": "Vulkanregion-Tourismus — Freiensteinau  ·  Chancen",
+          "agent": "tourismus-ulrichstein",
+          "title": "Vulkanregion-Tourismus — Ulrichstein  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nErlebe das Paket „Vulkan-Genuss auf dem Wasser“, das eine zweistündige SUP-Board-Miete am Nieder-Mooser See mit einem prall gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten kombiniert.\n\n**für WEN:** \nDas Angebot richtet sich an Paare und Genuss-Abenteurer, die die idyllische Seenlandschaft von Freiensteinau aktiv und zugleich entschleunigt vom Wasser aus entdecken möchten.\n\n**ERSTER SCHRITT:** \nWähle im Online-Kalender deinen Wunschtermin sowie deine Picknick-Variante (z. B. klassisch oder vegetarisch) aus und sichere dir dein digitales Erlebnisticket direkt per Smartphone.",
-          "ts": "2026-11-08 02:42",
+          "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & Sternenzauber“ umfasst eine geführte Dämmerungswanderung auf den Schlossberg Ulrichstein, einen prall gefüllten Picknickkorb mit regionalen Vogelsberg-Spezialitäten und ein mobiles Teleskop zur Himmelsbeobachtung auf Hessens höchstgelegener Burgruine.\n\n**FÜR WEN:** Das Angebot richtet sich an Paare und Genusswanderer, die einen romantischen Abend in der Natur mit vulkanischer Geschichte und lokaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:** Klicke auf den Buchungsbutton der Website der Vulkanregion, wähle deinen Wunschtermin sowie deine Korb-Variante aus und erhalte dein digitales Ticket direkt per E-Mail.",
+          "ts": "2026-11-08 09:30",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-freiensteinau",
-          "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
+          "agent": "direkt-ulrichstein",
+          "title": "Direktvermarktung — Ulrichstein  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Eine Abo-Box namens „Vogelsberger Vesper-Kiste“, vollgepackt mit frischem Holzofenbrot, lokalen Wurst- und Käsespezialitäten sowie saisonalem Hof-Gemüse direkt aus der Freiensteinauer Nachbarschaft.\n\n**FÜR WEN:** Für beschäftigte Pendler, Familien und Senioren aus der Region, die ehrliche Lebensmittel vom Bauernhof wollen, aber unter der Woche keine Zeit für Touren zu einzelnen Hofläden haben.\n\n**ERSTER SCHRITT:** Drei lokale Partnerbetriebe (Bäcker, Hofmetzger, Gemüsebauer) an einen Tisch holen und über Handzettel im Dorf ein zweimonatiges Test-Abo mit 20 festen Haushalten starten.",
-          "ts": "2026-11-08 02:42",
+          "text": "**WAS:** Die „Ulrichsteiner Höhen-Kiste“ – ein bi-wöchentliches Abo-Kistchen vollgepackt mit ehrlichen Haltbarkeits-Schmankerln der rauen Vogelsberg-Region wie Weiderind-Knacker, Lagerkartoffeln, Tannenhonig und handgemachtem Schmand.\n\n**fuer WEN:** Für beschäftigte Pendler und Familien im Raum Alsfeld, Lauterbach und Schotten, die gute Lebensmittel aus der Heimat schätzen, aber keine Zeit haben, am Wochenende fünf verschiedene Hofläden abzuklappern.\n\n**ERSTER SCHRITT:** Mit zwei befreundeten Betrieben aus der Großgemeinde Ulrichstein die ersten vier Grundprodukte festlegen und eine einfache Abholstation an einer gut befahrenen Ausfallstraße aufstellen.",
+          "ts": "2026-11-08 09:30",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-ulrichstein",
+          "title": "Handwerk-Sichtbarkeit — Ulrichstein  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb** (vor allem fokussiert auf Heizungsmodernisierung und Notdienst).\n\n**Ansprache-Idee (1 Satz):**\n„Im rauen Vogelsberg-Winter zählt jede Stunde: Wenn bei den Menschen in und um Ulrichstein die Heizung ausfällt oder eine Wärmepumpe gesucht wird, finden sie auf Google aktuell zuerst die Konkurrenz aus Alsfeld oder Lauterbach – lassen Sie uns dafür sorgen, dass der Notruf und die neuen Aufträge direkt bei Ihnen landen.“",
+          "ts": "2026-11-08 09:29",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-ulrichstein",
+          "title": "Chancen-Scout — Ulrichstein  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nMobile 24/7-Proviant- und Reparatur-Station (wetterfester Outdoor-Automat) für regionale Lebensmittel, Wandersnacks und E-Bike-Ersatzteile.\n\n**WARUM HIER:** \nAls höchstgelegene Stadt Hessens profitiert Ulrichstein massiv vom durchziehenden E-Bike- und Wandertourismus (z. B. Vogelsberger Höhenweg), hat aber im Ortskern eine Lücke bei der flexiblen Spontan-Verpflegung.\n\n**ERSTER SCHRITT:** \nEinen gebrauchten Outdoor-Automaten mieten, einen frequenzstarken Stellplatz nahe dem Schlossberg pachten und Lieferverträge mit zwei lokalen Landwirten beziehungsweise Bäckern schließen.",
+          "ts": "2026-11-08 09:29",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-ulrichstein",
+          "title": "Senioren-Alltagsdienste — Ulrichstein  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin verlässlicher, würdevoller Fahr- und Begleitdienst, der ältere Menschen direkt an der Haustür abholt, bei Einkäufen oder Arztfahrten unterstützt und Raum für persönliche Begegnungen schafft.\n\n**WARUM HIER:** \nIn der höchstgelegenen Stadt Hessens erschweren strenge Winter, steile Straßen und die weiten Distanzen zwischen den neun Ortsteilen die selbstständige Mobilität im Alter extrem.\n\n**ERSTER SCHRITT:** \nGemeinsam mit den Ortsvorstehern und dem Seniorenbeirat die konkreten Bedarfe in den Ortsteilen erheben, um erste feste Wochenrouten mit ehrenamtlichen und hauptamtlichen Tandems zu starten.",
+          "ts": "2026-11-08 09:30",
+          "age_min": 0
+        },
+        {
+          "dept": "Kunden",
+          "agent": "senioren-freiensteinau",
+          "title": "Senioren-Alltagsdienste — Freiensteinau  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Erledigungsdienst mit Haustür-Abholung, der Seniorinnen und Senioren würdevoll und individuell zu Ärzten, Einkäufen sowie sozialen Treffpunkten begleitet.\n\n**WARUM HIER:** In den zwölf weit verstreuten Ortsteilen von Freiensteinau sind die Wege zu medizinischer Versorgung und Supermärkten lang und die Busverbindungen spärlich, weshalb eine flexible Unterstützung direkt an der Haustür die Selbstständigkeit im eigenen Zuhause sichert.\n\n**ERSTER SCHRITT:** Ein Abstimmungsgespräch mit der Gemeindeverwaltung und den Ortsbeiräten führen, um den genauen Bedarf abzufragen und erste freiwillige Fahrerinnen und Fahrer aus den Dörfern zu gewinnen.",
+          "ts": "2026-11-08 09:29",
           "age_min": 0
         }
       ]
