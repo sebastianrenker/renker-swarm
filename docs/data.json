@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-08T20:29Z",
+  "updated": "2026-11-08T23:56Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Das Paket „Ruinen-Romantik & Vulkan-Genuss“ kombiniert eine entspannte E-Bike-Tour durch die Wartenberger Natur mit einem exklusiven Picknick voller regionaler Spezialitäten direkt an der historischen Burgruine Wartenberg. **fuer WEN:** Perfekt für Paare und Genussurlauber, die Naturerlebnis, Entschleunigung und regionale Kulinarik miteinander verbi",
+        "text": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Heizungsmodernisierung/Wärmepumpen oder Badsanierung). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer in Antrifttal auf Google nach einer neuen Heizung suchen, landen sie aktuell meist bei Betrieben aus Alsfeld – sorgen wir dafür, dass diese wertvollen Aufträge direkt bei Ihnen",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein würdevoller, ehrenamtlich unterstützter Begleit- und Fahrdienst, der ältere Menschen flexibel von Haustür zu Haustür bringt und ihnen beim Einkaufen, bei Arztbesuchen oder Behördengängen persönlich zur Seite steht. **WARUM HIER:** In den weitläufigen Strukturen von Wartenberg und seinen umliegenden Ortsteilen ermöglicht dieser Dienst das Verblei",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -804,54 +800,54 @@
       "name": "Handwerk-Sichtbarkeit — Wartenberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) in Wartenberg. **Ansprache-Idee (1 Satz):** „Wenn in Wartenberg abends die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, greift er zum Handy – sorgen w",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-wartenberg",
       "name": "Direktvermarktung — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – ein wöchentliches Abo mit frischem Brot, Eiern, Käse, Wurst und Saison-Gemüse von Höfen aus dem Umkreis, kontaktlos hinterlegt an einer zentralen 24/7-Abholstation im Ort. *",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-wartenberg",
       "name": "Vulkanregion-Tourismus — Wartenberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Paket „Ruinen-Romantik & Vulkan-Genuss“ kombiniert eine entspannte E-Bike-Tour durch die Wartenberger Natur mit einem exklusiven Picknick voller regionaler Spezialitäten direkt an der historischen Burgruine ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-wartenberg",
       "name": "Senioren-Alltagsdienste — Wartenberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein würdevoller, ehrenamtlich unterstützter Begleit- und Fahrdienst, der ältere Menschen flexibel von Haustür zu Haustür bringt und ihnen beim Einkaufen, bei Arztbesuchen oder Behördengängen persönlich zur Seite",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-antrifttal",
       "name": "Chancen-Scout — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Objekt- und Gartenpflegedienst auf Akku-Basis speziell für Senioren in den fünf Ortsteilen und Wochenendhaus-Besitzer rund um den Antriftstausee. **WARUM HIER:** In Antrifttal trifft eine alternde Do",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-antrifttal",
       "name": "Handwerk-Sichtbarkeit — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Heizungsmodernisierung/Wärmepumpen oder Badsanierung). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer in Antrifttal auf Google nach einer ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-antrifttal",
@@ -1503,40 +1499,24 @@
     }
   ],
   "budget": {
-    "used": 18,
+    "used": 20,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-wartenberg",
+      "dept": "Chancen",
+      "agent": "handwerk-antrifttal",
       "via": "gemini",
-      "text": "**WAS:** Ein würdevoller, ehrenamtlich unterstützter Begleit- und Fahrdienst, der ältere Menschen flexibel von Haustür zu Haustür bringt und ihnen beim Einkaufen, bei Arztbesuchen oder Behördengängen persönlich zur Seite steht. **WARUM HIER:** In den weitläufigen Strukturen von Wartenberg und seinen umliegenden Ortsteilen ermöglicht dieser Dienst das Verblei",
-      "ts": "2026-11-08 20:29",
+      "text": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Heizungsmodernisierung/Wärmepumpen oder Badsanierung). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer in Antrifttal auf Google nach einer neuen Heizung suchen, landen sie aktuell meist bei Betrieben aus Alsfeld – sorgen wir dafür, dass diese wertvollen Aufträge direkt bei Ihnen",
+      "ts": "2026-11-08 23:56",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-wartenberg",
+      "agent": "chancen-antrifttal",
       "via": "gemini",
-      "text": "**WAS:** Das Paket „Ruinen-Romantik & Vulkan-Genuss“ kombiniert eine entspannte E-Bike-Tour durch die Wartenberger Natur mit einem exklusiven Picknick voller regionaler Spezialitäten direkt an der historischen Burgruine Wartenberg. **fuer WEN:** Perfekt für Paare und Genussurlauber, die Naturerlebnis, Entschleunigung und regionale Kulinarik miteinander verbi",
-      "ts": "2026-11-08 20:29",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-wartenberg",
-      "via": "gemini",
-      "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – ein wöchentliches Abo mit frischem Brot, Eiern, Käse, Wurst und Saison-Gemüse von Höfen aus dem Umkreis, kontaktlos hinterlegt an einer zentralen 24/7-Abholstation im Ort. **FÜR WEN:** Für Pendler und beschäftigte Familien aus Wartenberg und den Nachbardörfern, die ehrlich regional essen wollen, es aber zeitlich",
-      "ts": "2026-11-08 20:29",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-wartenberg",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (SHK-Betrieb) in Wartenberg. **Ansprache-Idee (1 Satz):** „Wenn in Wartenberg abends die Heizung ausfällt oder jemand eine neue Wärmepumpe sucht, greift er zum Handy – sorgen wir dafür, dass Ihre Nummer ganz oben steht und die Aufträge nicht beim Kollegen aus Erding landen.“",
-      "ts": "2026-11-08 20:29",
+      "text": "**WAS:** Ein mobiler Objekt- und Gartenpflegedienst auf Akku-Basis speziell für Senioren in den fünf Ortsteilen und Wochenendhaus-Besitzer rund um den Antriftstausee. **WARUM HIER:** In Antrifttal trifft eine alternde Dorfbevölkerung auf Naherholungsgäste am Stausee, während etablierte Handwerker aus den umliegenden Städten für Kleinstaufträge wie Heckenschn",
+      "ts": "2026-11-08 23:56",
       "age_min": 0
     }
   ]
