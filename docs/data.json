@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-07T23:39Z",
+  "updated": "2026-11-08T02:42Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) **Ansprache-Idee:** „Sorgen wir dafür, dass Hausbesitzer aus Freiensteinau und Umgebung bei einer kaputten Heizung oder geplanten Bad-Sanierung direkt Ihre Telefonnummer auf dem Handy haben – bevor sie die Konkurrenz aus dem Nachbarort anrufen.“",
+        "text": "**WAS:** Erlebe das Paket „Vulkan-Genuss auf dem Wasser“, das eine zweistündige SUP-Board-Miete am Nieder-Mooser See mit einem prall gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten kombiniert. **für WEN:** Das Angebot richtet sich an Paare und Genuss-Abenteurer, die die idyllische Seenlandschaft von Freiensteinau aktiv und zugleich entsch",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher Dorfbegleit- und Fahrdienst auf Augenhöhe, der Senioren bei Einkäufen, Arztbesuchen oder Fahrten zwischen den einzelnen Ortsteilen persönlich unterstützt. **WARUM HIER:** Da sich Gemünden (Felda) über mehrere kleine Ortsteile im Vogelsberg erstreckt und die alltägliche Nahversorgung vor Ort eingeschränkt ist, sichert dieser Dienst ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -642,54 +638,54 @@
       "name": "Vulkanregion-Tourismus — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe eine geführte Alpaka-Wanderung durch das idyllische Feldatal rund um Gemünden mit anschließendem Picknick voller regionaler Spezialitäten an der historischen Burgruine Kestenburg. **fuer WEN:** Dieses Ang",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-gemuenden-felda",
       "name": "Senioren-Alltagsdienste — Gemuenden (Felda)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher Dorfbegleit- und Fahrdienst auf Augenhöhe, der Senioren bei Einkäufen, Arztbesuchen oder Fahrten zwischen den einzelnen Ortsteilen persönlich unterstützt. **WARUM HIER:** Da sich Gemünden (Feld",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-freiensteinau",
       "name": "Chancen-Scout — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobile E-Bike-Werkstatt mit Schnellreparatur- und Hol-Bring-Service für Ausflügler und Anwohner. **WARUM HIER:** Freiensteinau liegt strategisch günstig im stark frequentierten Radtourismus-Gebiet des Vogelsberg",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-freiensteinau",
       "name": "Handwerk-Sichtbarkeit — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) **Ansprache-Idee:** „Sorgen wir dafür, dass Hausbesitzer aus Freiensteinau und Umgebung bei einer kaputten Heizung oder geplanten Bad-Sanierung direkt Ihre Telefonnumme",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-freiensteinau",
       "name": "Direktvermarktung — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine Abo-Box namens „Vogelsberger Vesper-Kiste“, vollgepackt mit frischem Holzofenbrot, lokalen Wurst- und Käsespezialitäten sowie saisonalem Hof-Gemüse direkt aus der Freiensteinauer Nachbarschaft. **FÜR WEN:**",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-freiensteinau",
       "name": "Vulkanregion-Tourismus — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe das Paket „Vulkan-Genuss auf dem Wasser“, das eine zweistündige SUP-Board-Miete am Nieder-Mooser See mit einem prall gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten kombiniert. **für W",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-freiensteinau",
@@ -1503,40 +1499,24 @@
     }
   ],
   "budget": {
-    "used": 23,
+    "used": 2,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-freiensteinau",
+      "agent": "tourismus-freiensteinau",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) **Ansprache-Idee:** „Sorgen wir dafür, dass Hausbesitzer aus Freiensteinau und Umgebung bei einer kaputten Heizung oder geplanten Bad-Sanierung direkt Ihre Telefonnummer auf dem Handy haben – bevor sie die Konkurrenz aus dem Nachbarort anrufen.“",
-      "ts": "2026-11-07 23:39",
+      "text": "**WAS:** Erlebe das Paket „Vulkan-Genuss auf dem Wasser“, das eine zweistündige SUP-Board-Miete am Nieder-Mooser See mit einem prall gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten kombiniert. **für WEN:** Das Angebot richtet sich an Paare und Genuss-Abenteurer, die die idyllische Seenlandschaft von Freiensteinau aktiv und zugleich entsch",
+      "ts": "2026-11-08 02:42",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-freiensteinau",
+      "agent": "direkt-freiensteinau",
       "via": "gemini",
-      "text": "**WAS:** Mobile E-Bike-Werkstatt mit Schnellreparatur- und Hol-Bring-Service für Ausflügler und Anwohner. **WARUM HIER:** Freiensteinau liegt strategisch günstig im stark frequentierten Radtourismus-Gebiet des Vogelsbergs (nahe Nieder-Mooser See), besitzt aber im Ort selbst keine eigene Fahrradwerkstatt für die stetig steigende Zahl an E-Bike-Fahrern. **ERST",
-      "ts": "2026-11-07 23:39",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-gemuenden-felda",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher Dorfbegleit- und Fahrdienst auf Augenhöhe, der Senioren bei Einkäufen, Arztbesuchen oder Fahrten zwischen den einzelnen Ortsteilen persönlich unterstützt. **WARUM HIER:** Da sich Gemünden (Felda) über mehrere kleine Ortsteile im Vogelsberg erstreckt und die alltägliche Nahversorgung vor Ort eingeschränkt ist, sichert dieser Dienst ",
-      "ts": "2026-11-07 23:39",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-gemuenden-felda",
-      "via": "gemini",
-      "text": "**WAS:** Erlebe eine geführte Alpaka-Wanderung durch das idyllische Feldatal rund um Gemünden mit anschließendem Picknick voller regionaler Spezialitäten an der historischen Burgruine Kestenburg. **fuer WEN:** Dieses Angebot ist ideal für Paare und Familien, die eine entschleunigende Tier-Begegnung und Genuss in der unberührten Natur des Vogelsbergs suchen. ",
-      "ts": "2026-11-07 23:39",
+      "text": "**WAS:** Eine Abo-Box namens „Vogelsberger Vesper-Kiste“, vollgepackt mit frischem Holzofenbrot, lokalen Wurst- und Käsespezialitäten sowie saisonalem Hof-Gemüse direkt aus der Freiensteinauer Nachbarschaft. **FÜR WEN:** Für beschäftigte Pendler, Familien und Senioren aus der Region, die ehrliche Lebensmittel vom Bauernhof wollen, aber unter der Woche keine ",
+      "ts": "2026-11-08 02:42",
       "age_min": 0
     }
   ]
