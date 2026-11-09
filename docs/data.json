@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-09T13:25Z",
+  "updated": "2026-11-09T23:04Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Die „Gründcher Feierabend-Kiste“ – eine wöchentliche Abo-Box mit ehrlichen Vogelsberger Grundnahrungsmitteln wie frischem Holzofenbrot, Hausmacher Wurst, Hof-Käse und Saison-Gemüse direkt aus Grebenau und den Nachbardörfern. **FÜR WEN:** Für Pendler und beschäftigte Familien im Gründchen, die Wert auf bodenständige Lebensmittel aus der Heimat legen,",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -863,9 +859,9 @@
       "name": "Vulkanregion-Tourismus — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe beim „Antriftstausee Sunset & Taste“-Paket eine entspannte Stand-Up-Paddling-Tour im Abendlicht mit anschließendem Picknick voller regionaler Vulkan-Spezialitäten direkt am Seeufer. **für WEN:** Das Erleb",
-      "via": "gemini",
-      "age_min": 3
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-antrifttal",
@@ -881,27 +877,27 @@
       "name": "Chancen-Scout — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein mobiler Lohnspalt- und Holzaufbereitungsservice, der Brennholz direkt auf den Wohnhöfen der Kunden im Gründchen sägt und spaltet. **WARUM HIER** Grebenau ist stark bewaldet und weist einen extrem hohen Anteil",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-grebenau",
       "name": "Handwerk-Sichtbarkeit — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** **Sanitär- und Heizungsbauer** (Fokus: Badrenovierung & moderne Heiztechnik/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Damit Hausbesitzer aus Grebenau und dem Vogelsberg bei einer geplanten Badrenovieru",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grebenau",
       "name": "Direktvermarktung — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Gründcher Feierabend-Kiste“ – eine wöchentliche Abo-Box mit ehrlichen Vogelsberger Grundnahrungsmitteln wie frischem Holzofenbrot, Hausmacher Wurst, Hof-Käse und Saison-Gemüse direkt aus Grebenau und den Na",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-grebenau",
@@ -1502,38 +1498,5 @@
     "used": 5,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-grebenau",
-      "via": "gemini",
-      "text": "**WAS:** Die „Gründcher Feierabend-Kiste“ – eine wöchentliche Abo-Box mit ehrlichen Vogelsberger Grundnahrungsmitteln wie frischem Holzofenbrot, Hausmacher Wurst, Hof-Käse und Saison-Gemüse direkt aus Grebenau und den Nachbardörfern. **FÜR WEN:** Für Pendler und beschäftigte Familien im Gründchen, die Wert auf bodenständige Lebensmittel aus der Heimat legen,",
-      "ts": "2026-11-09 13:25",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-grebenau",
-      "via": "gemini",
-      "text": "**Betriebstyp:** **Sanitär- und Heizungsbauer** (Fokus: Badrenovierung & moderne Heiztechnik/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Damit Hausbesitzer aus Grebenau und dem Vogelsberg bei einer geplanten Badrenovierung oder dem Heizungswechsel direkt bei Ihnen anfragen – und das Geschäft nicht an den Großbetrieb aus Alsfeld oder Fulda verlieren, nur weil",
-      "ts": "2026-11-09 13:24",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-grebenau",
-      "via": "gemini",
-      "text": "**WAS** Ein mobiler Lohnspalt- und Holzaufbereitungsservice, der Brennholz direkt auf den Wohnhöfen der Kunden im Gründchen sägt und spaltet. **WARUM HIER** Grebenau ist stark bewaldet und weist einen extrem hohen Anteil an Holzheizern auf, denen durch den demografischen Wandel zunehmend die Kraft für die körperlich schwere Aufbereitung fehlt. **ERSTER SCHRI",
-      "ts": "2026-11-09 13:24",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-antrifttal",
-      "via": "gemini",
-      "text": "**WAS:** Erlebe beim „Antriftstausee Sunset & Taste“-Paket eine entspannte Stand-Up-Paddling-Tour im Abendlicht mit anschließendem Picknick voller regionaler Vulkan-Spezialitäten direkt am Seeufer. **für WEN:** Das Erlebnis richtet sich an Paare, Naturgenießer und kleine Freundesgruppen, die eine entschleunigende Auszeit am Wasser mit lokalen Gaumenfreuden v",
-      "ts": "2026-11-09 13:22",
-      "age_min": 3
-    }
-  ]
+  "recent": []
 }
