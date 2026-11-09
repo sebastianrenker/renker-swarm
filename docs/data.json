@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-08T23:56Z",
+  "updated": "2026-11-09T04:40Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Heizungsmodernisierung/Wärmepumpen oder Badsanierung). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer in Antrifttal auf Google nach einer neuen Heizung suchen, landen sie aktuell meist bei Betrieben aus Alsfeld – sorgen wir dafür, dass diese wertvollen Aufträge direkt bei Ihnen",
+        "text": "**WAS:** Eine wöchentlich wechselnde „Antrifttaler Vesper-Kiste“ im Abo mit frischem Holzofenbrot, regionaler Hausmacher Wurst, Eiern und saisonalem Gemüse direkt vom Hof. **fuer WEN:** Für beschäftigte Familien und Pendler aus dem Antrifttal und der Alsfelder Umgebung, die ohne Supermarkt-Stress ehrliches Essen aus der Heimat auf dem Tisch haben wollen. **E",
         "age_min": 0
       }
     },
@@ -836,27 +836,27 @@
       "name": "Chancen-Scout — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Objekt- und Gartenpflegedienst auf Akku-Basis speziell für Senioren in den fünf Ortsteilen und Wochenendhaus-Besitzer rund um den Antriftstausee. **WARUM HIER:** In Antrifttal trifft eine alternde Do",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-antrifttal",
       "name": "Handwerk-Sichtbarkeit — Antrifttal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Heizungsmodernisierung/Wärmepumpen oder Badsanierung). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer in Antrifttal auf Google nach einer ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-antrifttal",
       "name": "Direktvermarktung — Antrifttal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentlich wechselnde „Antrifttaler Vesper-Kiste“ im Abo mit frischem Holzofenbrot, regionaler Hausmacher Wurst, Eiern und saisonalem Gemüse direkt vom Hof. **fuer WEN:** Für beschäftigte Familien und Pend",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-antrifttal",
@@ -1499,24 +1499,16 @@
     }
   ],
   "budget": {
-    "used": 20,
+    "used": 1,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-antrifttal",
+      "agent": "direkt-antrifttal",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Heizungsmodernisierung/Wärmepumpen oder Badsanierung). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer in Antrifttal auf Google nach einer neuen Heizung suchen, landen sie aktuell meist bei Betrieben aus Alsfeld – sorgen wir dafür, dass diese wertvollen Aufträge direkt bei Ihnen",
-      "ts": "2026-11-08 23:56",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-antrifttal",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Objekt- und Gartenpflegedienst auf Akku-Basis speziell für Senioren in den fünf Ortsteilen und Wochenendhaus-Besitzer rund um den Antriftstausee. **WARUM HIER:** In Antrifttal trifft eine alternde Dorfbevölkerung auf Naherholungsgäste am Stausee, während etablierte Handwerker aus den umliegenden Städten für Kleinstaufträge wie Heckenschn",
-      "ts": "2026-11-08 23:56",
+      "text": "**WAS:** Eine wöchentlich wechselnde „Antrifttaler Vesper-Kiste“ im Abo mit frischem Holzofenbrot, regionaler Hausmacher Wurst, Eiern und saisonalem Gemüse direkt vom Hof. **fuer WEN:** Für beschäftigte Familien und Pendler aus dem Antrifttal und der Alsfelder Umgebung, die ohne Supermarkt-Stress ehrliches Essen aus der Heimat auf dem Tisch haben wollen. **E",
+      "ts": "2026-11-09 04:40",
       "age_min": 0
     }
   ]

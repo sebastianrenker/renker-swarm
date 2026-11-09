@@ -1,48 +1,30 @@
 {
-  "updated": "2026-11-08 23:56 UTC",
-  "total_results": 2,
+  "updated": "2026-11-09 04:40 UTC",
+  "total_results": 1,
   "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-antrifttal",
-      "title": "Handwerk-Sichtbarkeit — Antrifttal  ·  Chancen",
+      "agent": "direkt-antrifttal",
+      "title": "Direktvermarktung — Antrifttal  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:**  \nEin **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Heizungsmodernisierung/Wärmepumpen oder Badsanierung).\n\n**Ansprache-Idee (1 Satz):**  \n„Wenn Hausbesitzer in Antrifttal auf Google nach einer neuen Heizung suchen, landen sie aktuell meist bei Betrieben aus Alsfeld – sorgen wir dafür, dass diese wertvollen Aufträge direkt bei Ihnen im Ort bleiben.“",
-      "ts": "2026-11-08 23:56",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-antrifttal",
-      "title": "Chancen-Scout — Antrifttal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Objekt- und Gartenpflegedienst auf Akku-Basis speziell für Senioren in den fünf Ortsteilen und Wochenendhaus-Besitzer rund um den Antriftstausee.\n\n**WARUM HIER:** In Antrifttal trifft eine alternde Dorfbevölkerung auf Naherholungsgäste am Stausee, während etablierte Handwerker aus den umliegenden Städten für Kleinstaufträge wie Heckenschnitt oder Rinnenreinigung kaum noch anfahren.\n\n**ERSTER SCHRITT:** Drucke einen Flyer mit fünf klaren Festpreis-Angeboten (z. B. „Rasenmähen Paket XS“) und hänge ihn an die Infotafeln am Stausee sowie im Dorfladen/Bäcker in Ruhlkirchen.",
-      "ts": "2026-11-08 23:56",
+      "text": "**WAS:** Eine wöchentlich wechselnde „Antrifttaler Vesper-Kiste“ im Abo mit frischem Holzofenbrot, regionaler Hausmacher Wurst, Eiern und saisonalem Gemüse direkt vom Hof.\n\n**fuer WEN:** Für beschäftigte Familien und Pendler aus dem Antrifttal und der Alsfelder Umgebung, die ohne Supermarkt-Stress ehrliches Essen aus der Heimat auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Zwei bis drei benachbarte Betriebsinhaber an einen Tisch holen und das Angebot mit einer einfachen WhatsApp-Bestellgruppe für die ersten 20 Test-Haushalte starten.",
+      "ts": "2026-11-09 04:40",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 1,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-antrifttal",
-          "title": "Handwerk-Sichtbarkeit — Antrifttal  ·  Chancen",
+          "agent": "direkt-antrifttal",
+          "title": "Direktvermarktung — Antrifttal  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:**  \nEin **Heizung- und Sanitärbetrieb** (insbesondere mit Fokus auf Heizungsmodernisierung/Wärmepumpen oder Badsanierung).\n\n**Ansprache-Idee (1 Satz):**  \n„Wenn Hausbesitzer in Antrifttal auf Google nach einer neuen Heizung suchen, landen sie aktuell meist bei Betrieben aus Alsfeld – sorgen wir dafür, dass diese wertvollen Aufträge direkt bei Ihnen im Ort bleiben.“",
-          "ts": "2026-11-08 23:56",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-antrifttal",
-          "title": "Chancen-Scout — Antrifttal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler Objekt- und Gartenpflegedienst auf Akku-Basis speziell für Senioren in den fünf Ortsteilen und Wochenendhaus-Besitzer rund um den Antriftstausee.\n\n**WARUM HIER:** In Antrifttal trifft eine alternde Dorfbevölkerung auf Naherholungsgäste am Stausee, während etablierte Handwerker aus den umliegenden Städten für Kleinstaufträge wie Heckenschnitt oder Rinnenreinigung kaum noch anfahren.\n\n**ERSTER SCHRITT:** Drucke einen Flyer mit fünf klaren Festpreis-Angeboten (z. B. „Rasenmähen Paket XS“) und hänge ihn an die Infotafeln am Stausee sowie im Dorfladen/Bäcker in Ruhlkirchen.",
-          "ts": "2026-11-08 23:56",
+          "text": "**WAS:** Eine wöchentlich wechselnde „Antrifttaler Vesper-Kiste“ im Abo mit frischem Holzofenbrot, regionaler Hausmacher Wurst, Eiern und saisonalem Gemüse direkt vom Hof.\n\n**fuer WEN:** Für beschäftigte Familien und Pendler aus dem Antrifttal und der Alsfelder Umgebung, die ohne Supermarkt-Stress ehrliches Essen aus der Heimat auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** Zwei bis drei benachbarte Betriebsinhaber an einen Tisch holen und das Angebot mit einer einfachen WhatsApp-Bestellgruppe für die ersten 20 Test-Haushalte starten.",
+          "ts": "2026-11-09 04:40",
           "age_min": 0
         }
       ]
