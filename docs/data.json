@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-09T23:04Z",
+  "updated": "2026-11-10T04:37Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler E-Bike-Service, der Wartungen, Reparaturen und Notfall-Pannenhilfe direkt vor Ort bei Touristen auf den Radwegen oder Pendlern zu Hause durchführt. **WARUM HIER:** Lautertal liegt mitten in der E-Bike-Hochburg Vogelsberg mit stark frequentierten Radrouten, besitzt aber selbst keine eigene Fahrradwerkstatt mehr vor Ort. **ERSTER SCHRITT:*",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Der „Gräbenlis-Dorfbegleiter“ ist ein verlässlicher, mobiler Begleit- und Fahrdienst von Tür zu Tür, der ältere Menschen ehrenamtlich und auf Augenhöhe zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt. **WARUM HIER:** In den sieben weit verstreuten Ortsteilen von Grebenau fehlen oft Einkaufs- und Versorgungsangebote vor Ort, weshalb feh",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -868,9 +876,9 @@
       "name": "Senioren-Alltagsdienste — Antrifttal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein ehrenamtlich getragener Dorfbegleitdienst („Antrifttal-Mobil“), der ältere Menschen direkt an der Haustür abholt, sie bei Einkäufen oder Arztfahrten ins Umland begleitet und Zeit für ein persönliches Gespräc",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-grebenau",
@@ -904,27 +912,27 @@
       "name": "Vulkanregion-Tourismus — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Erlebnis-Paket: „Gründchen-Romantik: E-Bike-Tour mit Vulkan-Picknick“** **WAS:** Ein ganztägiges E-Bike-Erlebnis durch die verwunschenen Wälder rund um Grebenau mit einer Navigations-App zu versteckten Aussichtspunkten",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-grebenau",
       "name": "Senioren-Alltagsdienste — Grebenau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Gräbenlis-Dorfbegleiter“ ist ein verlässlicher, mobiler Begleit- und Fahrdienst von Tür zu Tür, der ältere Menschen ehrenamtlich und auf Augenhöhe zu Arztterminen, Besorgungen oder Gemeinschaftstreffen brin",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-lautertal",
       "name": "Chancen-Scout — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike-Service, der Wartungen, Reparaturen und Notfall-Pannenhilfe direkt vor Ort bei Touristen auf den Radwegen oder Pendlern zu Hause durchführt. **WARUM HIER:** Lautertal liegt mitten in der E-Bik",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-lautertal",
@@ -1495,8 +1503,41 @@
     }
   ],
   "budget": {
-    "used": 5,
+    "used": 4,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-lautertal",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Service, der Wartungen, Reparaturen und Notfall-Pannenhilfe direkt vor Ort bei Touristen auf den Radwegen oder Pendlern zu Hause durchführt. **WARUM HIER:** Lautertal liegt mitten in der E-Bike-Hochburg Vogelsberg mit stark frequentierten Radrouten, besitzt aber selbst keine eigene Fahrradwerkstatt mehr vor Ort. **ERSTER SCHRITT:*",
+      "ts": "2026-11-10 04:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grebenau",
+      "via": "gemini",
+      "text": "**WAS:** Der „Gräbenlis-Dorfbegleiter“ ist ein verlässlicher, mobiler Begleit- und Fahrdienst von Tür zu Tür, der ältere Menschen ehrenamtlich und auf Augenhöhe zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt. **WARUM HIER:** In den sieben weit verstreuten Ortsteilen von Grebenau fehlen oft Einkaufs- und Versorgungsangebote vor Ort, weshalb feh",
+      "ts": "2026-11-10 04:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-grebenau",
+      "via": "gemini",
+      "text": "**Erlebnis-Paket: „Gründchen-Romantik: E-Bike-Tour mit Vulkan-Picknick“** **WAS:** Ein ganztägiges E-Bike-Erlebnis durch die verwunschenen Wälder rund um Grebenau mit einer Navigations-App zu versteckten Aussichtspunkten und einem prall gefüllten Picknickkorb voll regionaler Vogelsberger Spezialitäten. **fuer WEN:** Perfekt für Paare, Naturgenießer und aktiv",
+      "ts": "2026-11-10 04:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-antrifttal",
+      "via": "gemini",
+      "text": "**WAS:** Ein ehrenamtlich getragener Dorfbegleitdienst („Antrifttal-Mobil“), der ältere Menschen direkt an der Haustür abholt, sie bei Einkäufen oder Arztfahrten ins Umland begleitet und Zeit für ein persönliches Gespräch mitbringt. **WARUM HIER:** In den fünf verstreuten Ortsteilen von Antrifttal fehlt es an fußläufiger Nahversorgung und dichten Busverbindu",
+      "ts": "2026-11-10 04:37",
+      "age_min": 0
+    }
+  ]
 }

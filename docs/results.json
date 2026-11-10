@@ -1,7 +1,93 @@
 {
-  "updated": "2026-11-09 23:04 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-11-10 04:37 UTC",
+  "total_results": 4,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-lautertal",
+      "title": "Chancen-Scout — Lautertal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike-Service, der Wartungen, Reparaturen und Notfall-Pannenhilfe direkt vor Ort bei Touristen auf den Radwegen oder Pendlern zu Hause durchführt.\n\n**WARUM HIER:** Lautertal liegt mitten in der E-Bike-Hochburg Vogelsberg mit stark frequentierten Radrouten, besitzt aber selbst keine eigene Fahrradwerkstatt mehr vor Ort.\n\n**ERSTER SCHRITT:** Statte einen vorhandenen Kombi mit Grundwerkzeug aus und hinterlege deine Kontaktdaten bei den lokalen Unterkünften sowie Gastronomiebetrieben.",
+      "ts": "2026-11-10 04:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grebenau",
+      "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** \nDer „Gräbenlis-Dorfbegleiter“ ist ein verlässlicher, mobiler Begleit- und Fahrdienst von Tür zu Tür, der ältere Menschen ehrenamtlich und auf Augenhöhe zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt.\n\n**WARUM HIER:** \nIn den sieben weit verstreuten Ortsteilen von Grebenau fehlen oft Einkaufs- und Versorgungsangebote vor Ort, weshalb fehlende Mobilität im Alter schnell zu Isolation führt.\n\n**ERSTER SCHRITT:** \nDie Einrichtung einer festen Telefonsprechzeit im Rathaus oder Gemeindezentrum, um den genauen Bedarf der Senioren aufzunehmen und hilfsbereite Nachbarn als Fahrer zu gewinnen.",
+      "ts": "2026-11-10 04:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-grebenau",
+      "title": "Vulkanregion-Tourismus — Grebenau  ·  Chancen",
+      "via": "gemini",
+      "text": "**Erlebnis-Paket: „Gründchen-Romantik: E-Bike-Tour mit Vulkan-Picknick“**\n\n**WAS:** Ein ganztägiges E-Bike-Erlebnis durch die verwunschenen Wälder rund um Grebenau mit einer Navigations-App zu versteckten Aussichtspunkten und einem prall gefüllten Picknickkorb voll regionaler Vogelsberger Spezialitäten.\n\n**fuer WEN:** Perfekt für Paare, Naturgenießer und aktive Auszeit-Suchende, die das Grebenauer Umland entspannt und kulinarisch auf zwei Rädern entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus, um die E-Bikes und deinen frischen Picknickkorb direkt mit wenigen Klicks zu reservieren.",
+      "ts": "2026-11-10 04:37",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-antrifttal",
+      "title": "Senioren-Alltagsdienste — Antrifttal  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:**  \nEin ehrenamtlich getragener Dorfbegleitdienst („Antrifttal-Mobil“), der ältere Menschen direkt an der Haustür abholt, sie bei Einkäufen oder Arztfahrten ins Umland begleitet und Zeit für ein persönliches Gespräch mitbringt.\n\n**WARUM HIER:**  \nIn den fünf verstreuten Ortsteilen von Antrifttal fehlt es an fußläufiger Nahversorgung und dichten Busverbindungen, weshalb dieser Dienst die eigenständige Lebensführung im vertrauten Zuhause sichert.\n\n**ERSTER SCHRITT:**  \nGemeinsam mit der Gemeinde und den örtlichen Vereinen wird ein zentrales „Dorf-Telefon“ eingerichtet, um den konkreten Bedarf der Senioren zu erfassen und erste ehrenamtliche Fahrerinnen und Fahrer zu gewinnen.",
+      "ts": "2026-11-10 04:37",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "chancen-lautertal",
+          "title": "Chancen-Scout — Lautertal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler E-Bike-Service, der Wartungen, Reparaturen und Notfall-Pannenhilfe direkt vor Ort bei Touristen auf den Radwegen oder Pendlern zu Hause durchführt.\n\n**WARUM HIER:** Lautertal liegt mitten in der E-Bike-Hochburg Vogelsberg mit stark frequentierten Radrouten, besitzt aber selbst keine eigene Fahrradwerkstatt mehr vor Ort.\n\n**ERSTER SCHRITT:** Statte einen vorhandenen Kombi mit Grundwerkzeug aus und hinterlege deine Kontaktdaten bei den lokalen Unterkünften sowie Gastronomiebetrieben.",
+          "ts": "2026-11-10 04:37",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-grebenau",
+          "title": "Vulkanregion-Tourismus — Grebenau  ·  Chancen",
+          "via": "gemini",
+          "text": "**Erlebnis-Paket: „Gründchen-Romantik: E-Bike-Tour mit Vulkan-Picknick“**\n\n**WAS:** Ein ganztägiges E-Bike-Erlebnis durch die verwunschenen Wälder rund um Grebenau mit einer Navigations-App zu versteckten Aussichtspunkten und einem prall gefüllten Picknickkorb voll regionaler Vogelsberger Spezialitäten.\n\n**fuer WEN:** Perfekt für Paare, Naturgenießer und aktive Auszeit-Suchende, die das Grebenauer Umland entspannt und kulinarisch auf zwei Rädern entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus, um die E-Bikes und deinen frischen Picknickkorb direkt mit wenigen Klicks zu reservieren.",
+          "ts": "2026-11-10 04:37",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-grebenau",
+          "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nDer „Gräbenlis-Dorfbegleiter“ ist ein verlässlicher, mobiler Begleit- und Fahrdienst von Tür zu Tür, der ältere Menschen ehrenamtlich und auf Augenhöhe zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt.\n\n**WARUM HIER:** \nIn den sieben weit verstreuten Ortsteilen von Grebenau fehlen oft Einkaufs- und Versorgungsangebote vor Ort, weshalb fehlende Mobilität im Alter schnell zu Isolation führt.\n\n**ERSTER SCHRITT:** \nDie Einrichtung einer festen Telefonsprechzeit im Rathaus oder Gemeindezentrum, um den genauen Bedarf der Senioren aufzunehmen und hilfsbereite Nachbarn als Fahrer zu gewinnen.",
+          "ts": "2026-11-10 04:37",
+          "age_min": 0
+        },
+        {
+          "dept": "Kunden",
+          "agent": "senioren-antrifttal",
+          "title": "Senioren-Alltagsdienste — Antrifttal  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:**  \nEin ehrenamtlich getragener Dorfbegleitdienst („Antrifttal-Mobil“), der ältere Menschen direkt an der Haustür abholt, sie bei Einkäufen oder Arztfahrten ins Umland begleitet und Zeit für ein persönliches Gespräch mitbringt.\n\n**WARUM HIER:**  \nIn den fünf verstreuten Ortsteilen von Antrifttal fehlt es an fußläufiger Nahversorgung und dichten Busverbindungen, weshalb dieser Dienst die eigenständige Lebensführung im vertrauten Zuhause sichert.\n\n**ERSTER SCHRITT:**  \nGemeinsam mit der Gemeinde und den örtlichen Vereinen wird ein zentrales „Dorf-Telefon“ eingerichtet, um den konkreten Bedarf der Senioren zu erfassen und erste ehrenamtliche Fahrerinnen und Fahrer zu gewinnen.",
+          "ts": "2026-11-10 04:37",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
