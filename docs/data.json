@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-10T12:59Z",
+  "updated": "2026-11-10T20:22Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbau **Ansprache-Idee:** „Wenn in Lautertal abends die Heizung ausfällt oder eine Badrenovierung ansteht, wird zuerst auf dem Smartphone gesucht – sorgen wir gemeinsam dafür, dass die Leute direkt Ihre Nummer wählen und nicht die der Konkurrenz aus der nächsten Stadt.“",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -935,9 +931,9 @@
       "name": "Handwerk-Sichtbarkeit — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbau **Ansprache-Idee:** „Wenn in Lautertal abends die Heizung ausfällt oder eine Badrenovierung ansteht, wird zuerst auf dem Smartphone gesucht – sorgen wir gemeinsam dafür, dass die",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-lautertal",
@@ -1502,14 +1498,5 @@
     "used": 5,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-lautertal",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau **Ansprache-Idee:** „Wenn in Lautertal abends die Heizung ausfällt oder eine Badrenovierung ansteht, wird zuerst auf dem Smartphone gesucht – sorgen wir gemeinsam dafür, dass die Leute direkt Ihre Nummer wählen und nicht die der Konkurrenz aus der nächsten Stadt.“",
-      "ts": "2026-11-10 12:59",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }

@@ -1,33 +1,7 @@
 {
-  "updated": "2026-11-10 12:59 UTC",
-  "total_results": 1,
-  "total_depts": 1,
-  "active": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-lautertal",
-      "title": "Handwerk-Sichtbarkeit — Lautertal  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau \n\n**Ansprache-Idee:**\n„Wenn in Lautertal abends die Heizung ausfällt oder eine Badrenovierung ansteht, wird zuerst auf dem Smartphone gesucht – sorgen wir gemeinsam dafür, dass die Leute direkt Ihre Nummer wählen und nicht die der Konkurrenz aus der nächsten Stadt.“",
-      "ts": "2026-11-10 12:59",
-      "age_min": 0
-    }
-  ],
-  "departments": [
-    {
-      "id": "Chancen",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-lautertal",
-          "title": "Handwerk-Sichtbarkeit — Lautertal  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbau \n\n**Ansprache-Idee:**\n„Wenn in Lautertal abends die Heizung ausfällt oder eine Badrenovierung ansteht, wird zuerst auf dem Smartphone gesucht – sorgen wir gemeinsam dafür, dass die Leute direkt Ihre Nummer wählen und nicht die der Konkurrenz aus der nächsten Stadt.“",
-          "ts": "2026-11-10 12:59",
-          "age_min": 0
-        }
-      ]
-    }
-  ]
+  "updated": "2026-11-10 20:22 UTC",
+  "total_results": 0,
+  "total_depts": 0,
+  "active": [],
+  "departments": []
 }
