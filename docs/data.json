@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-10T20:22Z",
+  "updated": "2026-11-11T00:45Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** „Vulkan-Picknick auf zwei Rädern“ ist eine halbtägige, selbstgeführte E-Bike-Genusstour durch die sanfte Basaltlandschaft rund um Lautertal inklusive eines prall gefüllten Rucksacks mit regionalen Vogelsberger Spezialitäten. **für WEN:** Das Angebot richtet sich an Paare, Naturgenießer und Freizeitradler, die Bewegung an der frischen Luft perfekt mi",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -940,18 +944,18 @@
       "name": "Direktvermarktung — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine saisonale „Lautertaler Vesper-Box“ auf Bestellung, vollgepackt mit regionalem Streuobst-Apfelsaft, Odenwälder Hausmacher Wurst, Bauernkäse und frischem Landbrot direkt von den Höfen der Umgebung. **fuer WEN",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-lautertal",
       "name": "Vulkanregion-Tourismus — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Vulkan-Picknick auf zwei Rädern“ ist eine halbtägige, selbstgeführte E-Bike-Genusstour durch die sanfte Basaltlandschaft rund um Lautertal inklusive eines prall gefüllten Rucksacks mit regionalen Vogelsberger S",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-lautertal",
@@ -1495,8 +1499,25 @@
     }
   ],
   "budget": {
-    "used": 5,
+    "used": 2,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-lautertal",
+      "via": "gemini",
+      "text": "**WAS:** „Vulkan-Picknick auf zwei Rädern“ ist eine halbtägige, selbstgeführte E-Bike-Genusstour durch die sanfte Basaltlandschaft rund um Lautertal inklusive eines prall gefüllten Rucksacks mit regionalen Vogelsberger Spezialitäten. **für WEN:** Das Angebot richtet sich an Paare, Naturgenießer und Freizeitradler, die Bewegung an der frischen Luft perfekt mi",
+      "ts": "2026-11-11 00:45",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-lautertal",
+      "via": "gemini",
+      "text": "**WAS:** Eine saisonale „Lautertaler Vesper-Box“ auf Bestellung, vollgepackt mit regionalem Streuobst-Apfelsaft, Odenwälder Hausmacher Wurst, Bauernkäse und frischem Landbrot direkt von den Höfen der Umgebung. **fuer WEN:** Für Wochenend-Wanderer am Felsenmeer, Ausflügler und heimische Familien, die ehrliche regionale Spezialitäten ohne Aufwand beim Picknick",
+      "ts": "2026-11-11 00:45",
+      "age_min": 0
+    }
+  ]
 }
