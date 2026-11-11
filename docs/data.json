@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-11T07:31Z",
+  "updated": "2026-11-11T15:31Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,8 +13,8 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Paket: „Rhöner E-Bike-Genuss & Barock-Picknick“** * **WAS:** Bei einer geführten E-Bike-Tagesfahrt von der Barockstadt Fulda in die Ausläufer der Rhön erkunden Sie sanfte Vulkankuppen und genießen ein Exklusiv-Picknick mit regionalen Spezialitäten an einem Panoramapunkt. * **für WEN:** Perfekt für Paare und Genussradler, die Natur, Geschichte und Kulinarik",
-        "age_min": 1
+        "text": "**WAS:** Erlebe ein exklusives „Rhön-Kulinarik-Picknick“ auf dem Petersberger Liobaberg mit einem reich gefüllten Rucksack voller regionaler Spezialitäten und einem Fernglas für den Panoramablick über das Fuldaer Land. **für WEN:** Das Paket richtet sich an Paare und Genussmenschen, die eine romantische Auszeit in der Natur suchen. **ERSTER SCHRITT:** Wähle ",
+        "age_min": 0
       }
     },
     {
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Das „Rhöner Dorf-Taxi mit Herz“ ist ein verlässlicher, wöchentlicher Fahrdienst, der ältere Menschen aus den umliegenden Dörfern nach Fulda zum Einkaufen oder Arzt bringt und sie auf Wunsch liebevoll beim Tragen der Taschen begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen rund um Fulda schrumpft das Busangebot zusehends, weshalb ein wür",
+        "text": "**WAS:** Ein verlässlicher, mobiler Begleit- und Erledigungsdienst, der ältere Mitbürgerinnen und Mitbürger direkt zu Hause abholt, um gemeinsame Einkäufe, Arztbesuche oder den Austausch beim Dorfcafé zu ermöglichen. **WARUM HIER:** Da Lautertal aus vielen verteilt liegenden Ortsteilen besteht und die Wege zur Grundversorgung ohne eigenes Auto oft zu steil o",
         "age_min": 0
       }
     },
@@ -966,81 +966,81 @@
       "name": "Senioren-Alltagsdienste — Lautertal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, mobiler Begleit- und Erledigungsdienst, der ältere Mitbürgerinnen und Mitbürger direkt zu Hause abholt, um gemeinsame Einkäufe, Arztbesuche oder den Austausch beim Dorfcafé zu ermöglichen. **W",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-fulda",
       "name": "Handwerk-Sichtbarkeit — Fulda",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Maler- und Lackiererbetrieb** in Fulda (Fokus auf Wohnraumrenovierung und Fassadengestaltung). **Ansprache-Idee (1 Satz):** „Hallo Herr/Frau [Name], wer in Fulda und der Rhön sein Eigenheim renovie",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-fulda",
       "name": "Direktvermarktung — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentlich wechselnde „Rhöner Feierabend-Kiste“ im Abo mit frischem Bauernbrot, Ahle Wurst, Hofkäse und Saison-Gemüse, die an zentralen SB-Kühlstationen in Fulda flexibel abgeholt werden kann. **fuer WEN:*",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-fulda",
       "name": "Vulkanregion-Tourismus — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Paket: „Rhöner E-Bike-Genuss & Barock-Picknick“** * **WAS:** Bei einer geführten E-Bike-Tagesfahrt von der Barockstadt Fulda in die Ausläufer der Rhön erkunden Sie sanfte Vulkankuppen und genießen ein Exklusiv-Picknick",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-fulda",
       "name": "Senioren-Alltagsdienste — Fulda",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Das „Rhöner Dorf-Taxi mit Herz“ ist ein verlässlicher, wöchentlicher Fahrdienst, der ältere Menschen aus den umliegenden Dörfern nach Fulda zum Einkaufen oder Arzt bringt und sie auf Wunsch liebevoll beim Tragen",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-petersberg",
       "name": "Chancen-Scout — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobile Installation, Einmessung und jährliche Wartung von Mährobotern sowie smarten Gartenbewässerungs-Systemen für Eigenheimbesitzer. **WARUM HIER:** Petersberg weist eine sehr hohe Dichte an Einfamilienhäusern",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-petersberg",
       "name": "Handwerk-Sichtbarkeit — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb **Ansprache-Idee:** „Wenn Hausbesitzer in Petersberg nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-petersberg",
       "name": "Direktvermarktung — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Idee: Die „Petersberger Vesper-Kiste“** * **WAS:** Eine wöchentlich wechselnde Abo-Box vollgepackt mit frischem Rhöner Bauernbrot, regionaler Ahler Wurscht, Hofkäse und knackigem Saison-Gemüse aus dem Fuldaer Land. * *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-petersberg",
       "name": "Vulkanregion-Tourismus — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe ein exklusives „Rhön-Kulinarik-Picknick“ auf dem Petersberger Liobaberg mit einem reich gefüllten Rucksack voller regionaler Spezialitäten und einem Fernglas für den Panoramablick über das Fuldaer Land. *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-petersberg",
@@ -1503,33 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 5,
+    "used": 11,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-fulda",
+      "dept": "Chancen",
+      "agent": "tourismus-petersberg",
       "via": "gemini",
-      "text": "**WAS:** Das „Rhöner Dorf-Taxi mit Herz“ ist ein verlässlicher, wöchentlicher Fahrdienst, der ältere Menschen aus den umliegenden Dörfern nach Fulda zum Einkaufen oder Arzt bringt und sie auf Wunsch liebevoll beim Tragen der Taschen begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen rund um Fulda schrumpft das Busangebot zusehends, weshalb ein wür",
-      "ts": "2026-11-11 07:30",
+      "text": "**WAS:** Erlebe ein exklusives „Rhön-Kulinarik-Picknick“ auf dem Petersberger Liobaberg mit einem reich gefüllten Rucksack voller regionaler Spezialitäten und einem Fernglas für den Panoramablick über das Fuldaer Land. **für WEN:** Das Paket richtet sich an Paare und Genussmenschen, die eine romantische Auszeit in der Natur suchen. **ERSTER SCHRITT:** Wähle ",
+      "ts": "2026-11-11 15:31",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-fulda",
+      "agent": "direkt-petersberg",
       "via": "gemini",
-      "text": "**Paket: „Rhöner E-Bike-Genuss & Barock-Picknick“** * **WAS:** Bei einer geführten E-Bike-Tagesfahrt von der Barockstadt Fulda in die Ausläufer der Rhön erkunden Sie sanfte Vulkankuppen und genießen ein Exklusiv-Picknick mit regionalen Spezialitäten an einem Panoramapunkt. * **für WEN:** Perfekt für Paare und Genussradler, die Natur, Geschichte und Kulinarik",
-      "ts": "2026-11-11 07:29",
-      "age_min": 1
+      "text": "**Idee: Die „Petersberger Vesper-Kiste“** * **WAS:** Eine wöchentlich wechselnde Abo-Box vollgepackt mit frischem Rhöner Bauernbrot, regionaler Ahler Wurscht, Hofkäse und knackigem Saison-Gemüse aus dem Fuldaer Land. * **für WEN:** Für berufstätige Pendler und Familien aus Petersberg und Umgebung, die nach Feierabend ohne Supermarkt-Stress ehrliche, heimisch",
+      "ts": "2026-11-11 15:31",
+      "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-fulda",
+      "agent": "handwerk-petersberg",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentlich wechselnde „Rhöner Feierabend-Kiste“ im Abo mit frischem Bauernbrot, Ahle Wurst, Hofkäse und Saison-Gemüse, die an zentralen SB-Kühlstationen in Fulda flexibel abgeholt werden kann. **fuer WEN:** Für berufstätige Pendler und Familien aus Fulda und Umgebung, die ehrliche Landprodukte schätzen, aber unter der Woche keine Zeit für Klap",
-      "ts": "2026-11-11 07:29",
-      "age_min": 1
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb **Ansprache-Idee:** „Wenn Hausbesitzer in Petersberg nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass Ihr Betrieb bei Suchanfragen direkt vor der eigenen Haustür an erster Stelle steht.“",
+      "ts": "2026-11-11 15:30",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-petersberg",
+      "via": "gemini",
+      "text": "**WAS:** Mobile Installation, Einmessung und jährliche Wartung von Mährobotern sowie smarten Gartenbewässerungs-Systemen für Eigenheimbesitzer. **WARUM HIER:** Petersberg weist eine sehr hohe Dichte an Einfamilienhäusern mit großen Gärten (z. B. in den Wohnlagen Am Rauschenberg oder Staufelsberg) und kaufkräftigen Pendlern auf, die wenig Zeit für Gartenarbei",
+      "ts": "2026-11-11 15:30",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-fulda",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Maler- und Lackiererbetrieb** in Fulda (Fokus auf Wohnraumrenovierung und Fassadengestaltung). **Ansprache-Idee (1 Satz):** „Hallo Herr/Frau [Name], wer in Fulda und der Rhön sein Eigenheim renovieren möchte, sucht heute zuerst auf dem Smartphone – wollen wir Ihre besten Vorher-Nachher-Projekte so bei Google platzieren, dass die lukrat",
+      "ts": "2026-11-11 15:30",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-lautertal",
+      "via": "gemini",
+      "text": "**WAS:** Ein verlässlicher, mobiler Begleit- und Erledigungsdienst, der ältere Mitbürgerinnen und Mitbürger direkt zu Hause abholt, um gemeinsame Einkäufe, Arztbesuche oder den Austausch beim Dorfcafé zu ermöglichen. **WARUM HIER:** Da Lautertal aus vielen verteilt liegenden Ortsteilen besteht und die Wege zur Grundversorgung ohne eigenes Auto oft zu steil o",
+      "ts": "2026-11-11 15:30",
+      "age_min": 0
     }
   ]
 }
