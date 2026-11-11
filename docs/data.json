@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-11T00:45Z",
+  "updated": "2026-11-11T07:31Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -13,8 +13,8 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** „Vulkan-Picknick auf zwei Rädern“ ist eine halbtägige, selbstgeführte E-Bike-Genusstour durch die sanfte Basaltlandschaft rund um Lautertal inklusive eines prall gefüllten Rucksacks mit regionalen Vogelsberger Spezialitäten. **für WEN:** Das Angebot richtet sich an Paare, Naturgenießer und Freizeitradler, die Bewegung an der frischen Luft perfekt mi",
-        "age_min": 0
+        "text": "**Paket: „Rhöner E-Bike-Genuss & Barock-Picknick“** * **WAS:** Bei einer geführten E-Bike-Tagesfahrt von der Barockstadt Fulda in die Ausläufer der Rhön erkunden Sie sanfte Vulkankuppen und genießen ein Exklusiv-Picknick mit regionalen Spezialitäten an einem Panoramapunkt. * **für WEN:** Perfekt für Paare und Genussradler, die Natur, Geschichte und Kulinarik",
+        "age_min": 1
       }
     },
     {
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Das „Rhöner Dorf-Taxi mit Herz“ ist ein verlässlicher, wöchentlicher Fahrdienst, der ältere Menschen aus den umliegenden Dörfern nach Fulda zum Einkaufen oder Arzt bringt und sie auf Wunsch liebevoll beim Tragen der Taschen begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen rund um Fulda schrumpft das Busangebot zusehends, weshalb ein wür",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -944,18 +948,18 @@
       "name": "Direktvermarktung — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine saisonale „Lautertaler Vesper-Box“ auf Bestellung, vollgepackt mit regionalem Streuobst-Apfelsaft, Odenwälder Hausmacher Wurst, Bauernkäse und frischem Landbrot direkt von den Höfen der Umgebung. **fuer WEN",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-lautertal",
       "name": "Vulkanregion-Tourismus — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Vulkan-Picknick auf zwei Rädern“ ist eine halbtägige, selbstgeführte E-Bike-Genusstour durch die sanfte Basaltlandschaft rund um Lautertal inklusive eines prall gefüllten Rucksacks mit regionalen Vogelsberger S",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-lautertal",
@@ -980,27 +984,27 @@
       "name": "Direktvermarktung — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentlich wechselnde „Rhöner Feierabend-Kiste“ im Abo mit frischem Bauernbrot, Ahle Wurst, Hofkäse und Saison-Gemüse, die an zentralen SB-Kühlstationen in Fulda flexibel abgeholt werden kann. **fuer WEN:*",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "tourismus-fulda",
       "name": "Vulkanregion-Tourismus — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Paket: „Rhöner E-Bike-Genuss & Barock-Picknick“** * **WAS:** Bei einer geführten E-Bike-Tagesfahrt von der Barockstadt Fulda in die Ausläufer der Rhön erkunden Sie sanfte Vulkankuppen und genießen ein Exklusiv-Picknick",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "senioren-fulda",
       "name": "Senioren-Alltagsdienste — Fulda",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das „Rhöner Dorf-Taxi mit Herz“ ist ein verlässlicher, wöchentlicher Fahrdienst, der ältere Menschen aus den umliegenden Dörfern nach Fulda zum Einkaufen oder Arzt bringt und sie auf Wunsch liebevoll beim Tragen",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-petersberg",
@@ -1499,25 +1503,33 @@
     }
   ],
   "budget": {
-    "used": 2,
+    "used": 5,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-lautertal",
+      "dept": "Kunden",
+      "agent": "senioren-fulda",
       "via": "gemini",
-      "text": "**WAS:** „Vulkan-Picknick auf zwei Rädern“ ist eine halbtägige, selbstgeführte E-Bike-Genusstour durch die sanfte Basaltlandschaft rund um Lautertal inklusive eines prall gefüllten Rucksacks mit regionalen Vogelsberger Spezialitäten. **für WEN:** Das Angebot richtet sich an Paare, Naturgenießer und Freizeitradler, die Bewegung an der frischen Luft perfekt mi",
-      "ts": "2026-11-11 00:45",
+      "text": "**WAS:** Das „Rhöner Dorf-Taxi mit Herz“ ist ein verlässlicher, wöchentlicher Fahrdienst, der ältere Menschen aus den umliegenden Dörfern nach Fulda zum Einkaufen oder Arzt bringt und sie auf Wunsch liebevoll beim Tragen der Taschen begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen rund um Fulda schrumpft das Busangebot zusehends, weshalb ein wür",
+      "ts": "2026-11-11 07:30",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-lautertal",
+      "agent": "tourismus-fulda",
       "via": "gemini",
-      "text": "**WAS:** Eine saisonale „Lautertaler Vesper-Box“ auf Bestellung, vollgepackt mit regionalem Streuobst-Apfelsaft, Odenwälder Hausmacher Wurst, Bauernkäse und frischem Landbrot direkt von den Höfen der Umgebung. **fuer WEN:** Für Wochenend-Wanderer am Felsenmeer, Ausflügler und heimische Familien, die ehrliche regionale Spezialitäten ohne Aufwand beim Picknick",
-      "ts": "2026-11-11 00:45",
-      "age_min": 0
+      "text": "**Paket: „Rhöner E-Bike-Genuss & Barock-Picknick“** * **WAS:** Bei einer geführten E-Bike-Tagesfahrt von der Barockstadt Fulda in die Ausläufer der Rhön erkunden Sie sanfte Vulkankuppen und genießen ein Exklusiv-Picknick mit regionalen Spezialitäten an einem Panoramapunkt. * **für WEN:** Perfekt für Paare und Genussradler, die Natur, Geschichte und Kulinarik",
+      "ts": "2026-11-11 07:29",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-fulda",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentlich wechselnde „Rhöner Feierabend-Kiste“ im Abo mit frischem Bauernbrot, Ahle Wurst, Hofkäse und Saison-Gemüse, die an zentralen SB-Kühlstationen in Fulda flexibel abgeholt werden kann. **fuer WEN:** Für berufstätige Pendler und Familien aus Fulda und Umgebung, die ehrliche Landprodukte schätzen, aber unter der Woche keine Zeit für Klap",
+      "ts": "2026-11-11 07:29",
+      "age_min": 1
     }
   ]
 }
