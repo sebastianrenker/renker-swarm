@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-11T15:31Z",
+  "updated": "2026-11-11T22:17Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 5,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Erlebe ein exklusives „Rhön-Kulinarik-Picknick“ auf dem Petersberger Liobaberg mit einem reich gefüllten Rucksack voller regionaler Spezialitäten und einem Fernglas für den Panoramablick über das Fuldaer Land. **für WEN:** Das Paket richtet sich an Paare und Genussmenschen, die eine romantische Auszeit in der Natur suchen. **ERSTER SCHRITT:** Wähle ",
+        "text": "**WAS:** Eine handfeste „Künzeller Feierabend-Kiste“ im wöchentlichen Abo, vollgepackt mit frischem Rhöner Bauernbrot, Käse, Hausmacher Wurst und Saison-Gemüse, flexibel abholbar an einer gekühlten Station am Ortsrand. **FÜR WEN:** Für beschäftigte Pendler und Familien aus Künzell und dem Fuldaer Umland, die wenig Zeit für Hofläden haben, aber am Wochenende ",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, mobiler Begleit- und Erledigungsdienst, der ältere Mitbürgerinnen und Mitbürger direkt zu Hause abholt, um gemeinsame Einkäufe, Arztbesuche oder den Austausch beim Dorfcafé zu ermöglichen. **WARUM HIER:** Da Lautertal aus vielen verteilt liegenden Ortsteilen besteht und die Wege zur Grundversorgung ohne eigenes Auto oft zu steil o",
+        "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der ältere Menschen aus den Außenortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt und sie auf Wunsch würdevoll an der Hand begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg fehlen oft fußläufig erreichbare Geschäfte und Ärzte, während die We",
         "age_min": 0
       }
     },
@@ -966,18 +966,18 @@
       "name": "Senioren-Alltagsdienste — Lautertal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, mobiler Begleit- und Erledigungsdienst, der ältere Mitbürgerinnen und Mitbürger direkt zu Hause abholt, um gemeinsame Einkäufe, Arztbesuche oder den Austausch beim Dorfcafé zu ermöglichen. **W",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-fulda",
       "name": "Handwerk-Sichtbarkeit — Fulda",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Maler- und Lackiererbetrieb** in Fulda (Fokus auf Wohnraumrenovierung und Fassadengestaltung). **Ansprache-Idee (1 Satz):** „Hallo Herr/Frau [Name], wer in Fulda und der Rhön sein Eigenheim renovie",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-fulda",
@@ -1011,72 +1011,72 @@
       "name": "Chancen-Scout — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobile Installation, Einmessung und jährliche Wartung von Mährobotern sowie smarten Gartenbewässerungs-Systemen für Eigenheimbesitzer. **WARUM HIER:** Petersberg weist eine sehr hohe Dichte an Einfamilienhäusern",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-petersberg",
       "name": "Handwerk-Sichtbarkeit — Petersberg",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb **Ansprache-Idee:** „Wenn Hausbesitzer in Petersberg nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-petersberg",
       "name": "Direktvermarktung — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Idee: Die „Petersberger Vesper-Kiste“** * **WAS:** Eine wöchentlich wechselnde Abo-Box vollgepackt mit frischem Rhöner Bauernbrot, regionaler Ahler Wurscht, Hofkäse und knackigem Saison-Gemüse aus dem Fuldaer Land. * *",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-petersberg",
       "name": "Vulkanregion-Tourismus — Petersberg",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe ein exklusives „Rhön-Kulinarik-Picknick“ auf dem Petersberger Liobaberg mit einem reich gefüllten Rucksack voller regionaler Spezialitäten und einem Fernglas für den Panoramablick über das Fuldaer Land. *",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-petersberg",
       "name": "Senioren-Alltagsdienste — Petersberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der ältere Menschen aus den Außenortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt und sie auf Wunsch würdevoll an der Hand begle",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-kuenzell",
       "name": "Chancen-Scout — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobiler Spezial-Reinigungsservice für Photovoltaik-Anlagen, Terrassen und Überdächer bei Privathaushalten. **WARUM HIER:** Künzell weist eine besonders hohe Dichte an kaufkräftigen Eigenheimbesitzern mit Solardä",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-kuenzell",
       "name": "Handwerk-Sichtbarkeit — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbau-Betrieb** in Künzell (spezialisiert auf Badsanierung und modernen Heizungstausch/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer hier in Künzell",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-kuenzell",
       "name": "Direktvermarktung — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine handfeste „Künzeller Feierabend-Kiste“ im wöchentlichen Abo, vollgepackt mit frischem Rhöner Bauernbrot, Käse, Hausmacher Wurst und Saison-Gemüse, flexibel abholbar an einer gekühlten Station am Ortsrand. *",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-kuenzell",
@@ -1092,9 +1092,9 @@
       "name": "Senioren-Alltagsdienste — Kuenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der mobile Begleit- und Fahrdienst „Künzell Miteinander“ holt Senioren direkt an ihrer Haustür ab, begleitet sie geduldig bei Einkäufen oder Arztterminen und unterstützt respektvoll beim Tragen der Taschen. **WA",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-neuhof",
@@ -1503,56 +1503,48 @@
     }
   ],
   "budget": {
-    "used": 11,
+    "used": 16,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-petersberg",
+      "agent": "direkt-kuenzell",
       "via": "gemini",
-      "text": "**WAS:** Erlebe ein exklusives „Rhön-Kulinarik-Picknick“ auf dem Petersberger Liobaberg mit einem reich gefüllten Rucksack voller regionaler Spezialitäten und einem Fernglas für den Panoramablick über das Fuldaer Land. **für WEN:** Das Paket richtet sich an Paare und Genussmenschen, die eine romantische Auszeit in der Natur suchen. **ERSTER SCHRITT:** Wähle ",
-      "ts": "2026-11-11 15:31",
+      "text": "**WAS:** Eine handfeste „Künzeller Feierabend-Kiste“ im wöchentlichen Abo, vollgepackt mit frischem Rhöner Bauernbrot, Käse, Hausmacher Wurst und Saison-Gemüse, flexibel abholbar an einer gekühlten Station am Ortsrand. **FÜR WEN:** Für beschäftigte Pendler und Familien aus Künzell und dem Fuldaer Umland, die wenig Zeit für Hofläden haben, aber am Wochenende ",
+      "ts": "2026-11-11 22:17",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-petersberg",
+      "agent": "chancen-kuenzell",
       "via": "gemini",
-      "text": "**Idee: Die „Petersberger Vesper-Kiste“** * **WAS:** Eine wöchentlich wechselnde Abo-Box vollgepackt mit frischem Rhöner Bauernbrot, regionaler Ahler Wurscht, Hofkäse und knackigem Saison-Gemüse aus dem Fuldaer Land. * **für WEN:** Für berufstätige Pendler und Familien aus Petersberg und Umgebung, die nach Feierabend ohne Supermarkt-Stress ehrliche, heimisch",
-      "ts": "2026-11-11 15:31",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-petersberg",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb **Ansprache-Idee:** „Wenn Hausbesitzer in Petersberg nach einer neuen Wärmepumpe oder Badsanierung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass Ihr Betrieb bei Suchanfragen direkt vor der eigenen Haustür an erster Stelle steht.“",
-      "ts": "2026-11-11 15:30",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-petersberg",
-      "via": "gemini",
-      "text": "**WAS:** Mobile Installation, Einmessung und jährliche Wartung von Mährobotern sowie smarten Gartenbewässerungs-Systemen für Eigenheimbesitzer. **WARUM HIER:** Petersberg weist eine sehr hohe Dichte an Einfamilienhäusern mit großen Gärten (z. B. in den Wohnlagen Am Rauschenberg oder Staufelsberg) und kaufkräftigen Pendlern auf, die wenig Zeit für Gartenarbei",
-      "ts": "2026-11-11 15:30",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-fulda",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Maler- und Lackiererbetrieb** in Fulda (Fokus auf Wohnraumrenovierung und Fassadengestaltung). **Ansprache-Idee (1 Satz):** „Hallo Herr/Frau [Name], wer in Fulda und der Rhön sein Eigenheim renovieren möchte, sucht heute zuerst auf dem Smartphone – wollen wir Ihre besten Vorher-Nachher-Projekte so bei Google platzieren, dass die lukrat",
-      "ts": "2026-11-11 15:30",
+      "text": "**WAS:** Mobiler Spezial-Reinigungsservice für Photovoltaik-Anlagen, Terrassen und Überdächer bei Privathaushalten. **WARUM HIER:** Künzell weist eine besonders hohe Dichte an kaufkräftigen Eigenheimbesitzern mit Solardächern auf, für deren Pflege den klassischen Fachbetrieben aus dem Raum Fulda oft die Kapazitäten für Kleinstaufträge fehlen. **ERSTER SCHRIT",
+      "ts": "2026-11-11 22:17",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-lautertal",
+      "agent": "senioren-petersberg",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, mobiler Begleit- und Erledigungsdienst, der ältere Mitbürgerinnen und Mitbürger direkt zu Hause abholt, um gemeinsame Einkäufe, Arztbesuche oder den Austausch beim Dorfcafé zu ermöglichen. **WARUM HIER:** Da Lautertal aus vielen verteilt liegenden Ortsteilen besteht und die Wege zur Grundversorgung ohne eigenes Auto oft zu steil o",
-      "ts": "2026-11-11 15:30",
+      "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der ältere Menschen aus den Außenortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt und sie auf Wunsch würdevoll an der Hand begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg fehlen oft fußläufig erreichbare Geschäfte und Ärzte, während die We",
+      "ts": "2026-11-11 22:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-kuenzell",
+      "via": "gemini",
+      "text": "**WAS:** Der mobile Begleit- und Fahrdienst „Künzell Miteinander“ holt Senioren direkt an ihrer Haustür ab, begleitet sie geduldig bei Einkäufen oder Arztterminen und unterstützt respektvoll beim Tragen der Taschen. **WARUM HIER:** Da Künzell aus mehreren teils hügeligen Ortsteilen ohne eigene Nahversorgung besteht, bewahrt dieser Dienst die Selbstständigkei",
+      "ts": "2026-11-11 22:16",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-kuenzell",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbau-Betrieb** in Künzell (spezialisiert auf Badsanierung und modernen Heizungstausch/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer hier in Künzell nach einer neuen Wärmepumpe gurgeln, finden sie online aktuell meist teure Vermittlungsportale statt Ihren Meisterbetrieb um die Ecke – wol",
+      "ts": "2026-11-11 22:16",
       "age_min": 0
     }
   ]
