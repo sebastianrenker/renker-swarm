@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-12T03:13Z",
+  "updated": "2026-11-12T11:14Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Erlebnis-Paket: „Weißes Gold & Grüne Hügel – E-Bike- & Salz-Genusstour Neuhof“** * **WAS:** Sie erleben eine geführte E-Bike-Erkundungstour rund um Neuhof im Schatten der Kalihalde, inklusive spannenden Einblicken in die Bergbauhistorie und einem abschließenden 3-Gänge-Menü mit heimischen Rhönsalz-Spezialitäten. * **für WEN:** Dieses Angebot richtet sich a",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Der mobile „Dorf-Einkaufs- und Mitfahrservice“ holt Senioren direkt an der Haustür ab, begleitet sie in ihrem eigenen Tempo bei Einkäufen oder Arztbesuchen und hilft verlässlich beim Tragen der Taschen. **WARUM HIER:** In den weitläufig verstreuten Ortsteilen von Neuhof fehlen oft Nahverkehr und Dorfläden, sodass diese individuelle Unterstützung die",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1083,9 +1075,9 @@
       "name": "Vulkanregion-Tourismus — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Entdecken Sie die malerische Natur rund um Künzell bei einer entschleunigenden Alpaka-Wanderung inklusive eines reich gefüllten Picknickkorbs mit regionalen Rhöner Spezialitäten. **fuer WEN:** Das Paket richtet ",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-kuenzell",
@@ -1101,45 +1093,45 @@
       "name": "Chancen-Scout — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Fahrrad- und E-Bike-Wartungsservice, der die Räder von Pendlern morgens direkt am Bahnhof Neuhof entgegennimmt und bis zu deren Rückkehr am Feierabend gewartet zurückstellt. **WARUM HIER:** Neuhof wä",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-neuhof",
       "name": "Handwerk-Sichtbarkeit — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsinstallateur (z. B. für Wärmepumpen-Umrüstung und Badsanierungen in Neuhof). **Ansprache-Idee:** „Hallo Herr [Name], wenn Eigenheimbesitzer in Neuhof nach einer neuen Heizung googeln",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-neuhof",
       "name": "Direktvermarktung — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Neuhöfer Feierabend-Kiste“ ist ein wöchentliches Regio-Abo mit frischen Hofprodukten und passenden Rezeptkarten für schnelle, bodenständige Abendessen. **fuer WEN:** Für berufstätige Familien und Pendler au",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-neuhof",
       "name": "Vulkanregion-Tourismus — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: „Weißes Gold & Grüne Hügel – E-Bike- & Salz-Genusstour Neuhof“** * **WAS:** Sie erleben eine geführte E-Bike-Erkundungstour rund um Neuhof im Schatten der Kalihalde, inklusive spannenden Einblicken in d",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-neuhof",
       "name": "Senioren-Alltagsdienste — Neuhof",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der mobile „Dorf-Einkaufs- und Mitfahrservice“ holt Senioren direkt an der Haustür ab, begleitet sie in ihrem eigenen Tempo bei Einkäufen oder Arztbesuchen und hilft verlässlich beim Tragen der Taschen. **WARUM ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-huenfeld",
@@ -1506,54 +1498,5 @@
     "used": 6,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** Der mobile „Dorf-Einkaufs- und Mitfahrservice“ holt Senioren direkt an der Haustür ab, begleitet sie in ihrem eigenen Tempo bei Einkäufen oder Arztbesuchen und hilft verlässlich beim Tragen der Taschen. **WARUM HIER:** In den weitläufig verstreuten Ortsteilen von Neuhof fehlen oft Nahverkehr und Dorfläden, sodass diese individuelle Unterstützung die",
-      "ts": "2026-11-12 03:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-neuhof",
-      "via": "gemini",
-      "text": "**Erlebnis-Paket: „Weißes Gold & Grüne Hügel – E-Bike- & Salz-Genusstour Neuhof“** * **WAS:** Sie erleben eine geführte E-Bike-Erkundungstour rund um Neuhof im Schatten der Kalihalde, inklusive spannenden Einblicken in die Bergbauhistorie und einem abschließenden 3-Gänge-Menü mit heimischen Rhönsalz-Spezialitäten. * **für WEN:** Dieses Angebot richtet sich a",
-      "ts": "2026-11-12 03:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** Die „Neuhöfer Feierabend-Kiste“ ist ein wöchentliches Regio-Abo mit frischen Hofprodukten und passenden Rezeptkarten für schnelle, bodenständige Abendessen. **fuer WEN:** Für berufstätige Familien und Pendler aus Neuhof und Umgebung, die Wert auf lokale Lebensmittel legen, aber unter der Woche wenig Zeit zum Einkaufen haben. **ERSTER SCHRITT:** Drei",
-      "ts": "2026-11-12 03:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-neuhof",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsinstallateur (z. B. für Wärmepumpen-Umrüstung und Badsanierungen in Neuhof). **Ansprache-Idee:** „Hallo Herr [Name], wenn Eigenheimbesitzer in Neuhof nach einer neuen Heizung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer an erster Stelle steht, damit",
-      "ts": "2026-11-12 03:12",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Fahrrad- und E-Bike-Wartungsservice, der die Räder von Pendlern morgens direkt am Bahnhof Neuhof entgegennimmt und bis zu deren Rückkehr am Feierabend gewartet zurückstellt. **WARUM HIER:** Neuhof wächst als gefragter Pendlerort im Einzugsgebiet von Fulda und Frankfurt stark, besitzt aktuell aber kein eigenes Fahrradfachgeschäft für schn",
-      "ts": "2026-11-12 03:12",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** Entdecken Sie die malerische Natur rund um Künzell bei einer entschleunigenden Alpaka-Wanderung inklusive eines reich gefüllten Picknickkorbs mit regionalen Rhöner Spezialitäten. **fuer WEN:** Das Paket richtet sich an Paare, Familien und Erholungssuchende, die Tiere lieben und die Biosphärenregion auf genussvolle Weise erkunden möchten. **ERSTER SC",
-      "ts": "2026-11-12 03:12",
-      "age_min": 1
-    }
-  ]
+  "recent": []
 }
