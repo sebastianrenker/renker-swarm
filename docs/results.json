@@ -1,43 +1,43 @@
 {
-  "updated": "2026-11-12 18:57 UTC",
+  "updated": "2026-11-12 23:59 UTC",
   "total_results": 4,
   "total_depts": 2,
   "active": [
     {
       "dept": "Kunden",
-      "agent": "senioren-huenfeld",
-      "title": "Senioren-Alltagsdienste — Huenfeld  ·  Kunden",
+      "agent": "senioren-grossenlueder",
+      "title": "Senioren-Alltagsdienste — Grossenlueder  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Der „Hünfelder Dorf-Begleitdienst“ bietet älteren Menschen aus den umliegenden Ortsteilen eine verlässliche, persönliche Fahr- und Einkaufsbegleitung für Besorgungen, Arzttermine und soziale Kontakte im Stadtkern.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Hünfeld erschweren lange Wege und ein ausgedünnter ÖPNV die selbstbestimmte Versorgung im Alter, während die Kernstadt alle wichtigen Anlaufstellen bündelt.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit dem Hünfelder Seniorenbüro und den Ortsvorstehern wird eine einfache Bedarfsumfrage gestartet, um feste Fahrtage für die einzelnen Dörfer abzustimmen.",
-      "ts": "2026-11-12 18:56",
-      "age_min": 1
+      "text": "**WAS:** \nDas „DorfMobil Großenlüder“ ist ein verlässlicher Hol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, zu Terminen im Kernort oder nach Fulda bringt und ihnen bei Besorgungen oder Arztbesuchen würdevoll zur Seite steht.\n\n**WARUM HIER:** \nDa die Gemeinde Großenlüder aus sieben teils weit verstreuten Ortsteilen besteht, schließt dieser Dienst die Lücke im öffentlichen Nahverkehr und bewahrt Seniorinnen und Senioren in Orten wie Kleinlüder, Müs oder Uffhausen ihre Selbstständigkeit im gewohnten Umfeld.\n\n**ERSTER SCHRITT:** \nIn Kooperation mit dem Gemeindevorstand und den örtlichen Vereinen wird eine einfache Bedarfsabfrage in allen Ortsteilen gestartet, um erste vertraute Fahrerinnen und Begleitpersonen aus der direkten Nachbarschaft zu gewinnen.",
+      "ts": "2026-11-12 23:59",
+      "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-huenfeld",
-      "title": "Vulkanregion-Tourismus — Huenfeld  ·  Chancen",
+      "agent": "tourismus-grossenlueder",
+      "title": "Vulkanregion-Tourismus — Grossenlueder  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Erlebe eine selbstgeführte E-Bike-Genusstour entlang des Hünfelder Kunstpfads „Das Offene Buch“ bis zum Haselsee, abgerundet durch ein prall gefülltes Picknick im Grünen mit Rhöner Spezialitäten.\n\n**fuer WEN:** Dieses Paket ist ideal für Paare, Genussradler und Kulturliebhaber, die Natur, regionale Gastronomie und entschleunigte Bewegung miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus, um deinen frischen Picknickkorb und den digitalen Routen-Guide mit einem Klick verbindlich zu reservieren.",
-      "ts": "2026-11-12 18:56",
-      "age_min": 1
+      "text": "**WAS:** Entdecke bei einer geführten Dämmerungs-Kräuterwanderung durch die Lüdewiesen die heimische Natur und genieße anschließend ein regionales 3-Gänge-Vulkan-Menü im historischen Landgasthof.\n\n**FÜR WEN:** Dieses Paket eignet sich ideal für Genusswanderer, Paare und kleine Gruppen, die eine entschleunigende Auszeit mit lokalem Kulinarik-Erlebnis suchen.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Buchungskalender aus und sichere dir dein Ticket direkt per Klick.",
+      "ts": "2026-11-12 23:59",
+      "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-huenfeld",
-      "title": "Direktvermarktung — Huenfeld  ·  Chancen",
+      "agent": "direkt-grossenlueder",
+      "title": "Direktvermarktung — Grossenlueder  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEine wöchentliche „Hünfelder Feierabend-Kiste“ im Abosystem, vollgepackt mit knackigem Saison-Gemüse, frischem Brot, Eiern und Rhöner Wurstspezialitäten von lokalen Erzeugern, die donnerstags an einer zentralen Abholstation bereitsteht.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Hünfeld und den Ortsteilen, die Wert auf ehrliche Lebensmittel aus der Nachbarschaft legen, aber unter der Woche keine Zeit für Klapperfahrten von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** \nDrei bis vier Landwirte aus dem Hünfelder Umland an einen Tisch holen, um ein solides Basissortiment festzulegen und einen gut erreichbaren Abholort (z. B. nahe der B27 oder am Bahnhof) zu vereinbaren.",
-      "ts": "2026-11-12 18:55",
-      "age_min": 1
+      "text": "**WAS:** \nDas „Lüdertaler Vesper-Kistchen“ als 14-tägiges Abo, voll gepackt mit frischem Bauernbrot, regionalen Wurst- und Käsespezialitäten sowie knackigem Saison-Gemüse direkt von den Höfen rund um Großenlüder.\n\n**für WEN:** \nFür berufstätige Pendler Richtung Fulda und beschäftigte Familien aus der Gemeinde, die ehrliche Heimatprodukte schätzen, aber unter der Woche keine Zeit für Klapper-Touren von Hof zu Hof haben.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (z. B. Bäcker, Hofmetzgerei, Gemüsebauer) an einen Tisch holen und 20 Test-Kisten an Bekannte und über die lokale Facebook-Gruppe verteilen, um echtes Feedback zu sammeln.",
+      "ts": "2026-11-12 23:59",
+      "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-huenfeld",
-      "title": "Handwerk-Sichtbarkeit — Huenfeld  ·  Chancen",
+      "agent": "handwerk-grossenlueder",
+      "title": "Handwerk-Sichtbarkeit — Grossenlueder  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein regionaler **Dachdecker- und Zimmereibetrieb** in Hünfeld (Fokus: Dachsanierung & Photovoltaik).\n\n**Ansprache-Idee (1 Satz):**\n„Damit Hünfelder Hausbesitzer bei teuren Dachsanierungen und Solaranlagen direkt Ihren Traditionsbetrieb anfragen – und nicht bei der anonymen Konkurrenz aus Fulda landen –, machen wir Ihre ehrliche Arbeit bei Google in der Region unübersehbar.“",
-      "ts": "2026-11-12 18:55",
-      "age_min": 1
+      "text": "**Konkreter Betriebstyp:**  \nEin **Sanitär- und Heizungsbauer (SHK-Betrieb)** in Großenlüder.\n\n**Ansprache-Idee (1 Satz):**  \n„Viele Eigenheimbesitzer in Großenlüder suchen gerade direkt auf dem Handy nach neuen Heizsystemen oder Notdiensten – sorgen wir dafür, dass sie Ihre Nummer finden und der Auftrag nicht an die Konkurrenz aus Fulda geht.“",
+      "ts": "2026-11-12 23:59",
+      "age_min": 0
     }
   ],
   "departments": [
@@ -47,30 +47,30 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-huenfeld",
-          "title": "Vulkanregion-Tourismus — Huenfeld  ·  Chancen",
+          "agent": "tourismus-grossenlueder",
+          "title": "Vulkanregion-Tourismus — Grossenlueder  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Erlebe eine selbstgeführte E-Bike-Genusstour entlang des Hünfelder Kunstpfads „Das Offene Buch“ bis zum Haselsee, abgerundet durch ein prall gefülltes Picknick im Grünen mit Rhöner Spezialitäten.\n\n**fuer WEN:** Dieses Paket ist ideal für Paare, Genussradler und Kulturliebhaber, die Natur, regionale Gastronomie und entschleunigte Bewegung miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus, um deinen frischen Picknickkorb und den digitalen Routen-Guide mit einem Klick verbindlich zu reservieren.",
-          "ts": "2026-11-12 18:56",
-          "age_min": 1
+          "text": "**WAS:** Entdecke bei einer geführten Dämmerungs-Kräuterwanderung durch die Lüdewiesen die heimische Natur und genieße anschließend ein regionales 3-Gänge-Vulkan-Menü im historischen Landgasthof.\n\n**FÜR WEN:** Dieses Paket eignet sich ideal für Genusswanderer, Paare und kleine Gruppen, die eine entschleunigende Auszeit mit lokalem Kulinarik-Erlebnis suchen.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Buchungskalender aus und sichere dir dein Ticket direkt per Klick.",
+          "ts": "2026-11-12 23:59",
+          "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-huenfeld",
-          "title": "Direktvermarktung — Huenfeld  ·  Chancen",
+          "agent": "direkt-grossenlueder",
+          "title": "Direktvermarktung — Grossenlueder  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEine wöchentliche „Hünfelder Feierabend-Kiste“ im Abosystem, vollgepackt mit knackigem Saison-Gemüse, frischem Brot, Eiern und Rhöner Wurstspezialitäten von lokalen Erzeugern, die donnerstags an einer zentralen Abholstation bereitsteht.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Hünfeld und den Ortsteilen, die Wert auf ehrliche Lebensmittel aus der Nachbarschaft legen, aber unter der Woche keine Zeit für Klapperfahrten von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** \nDrei bis vier Landwirte aus dem Hünfelder Umland an einen Tisch holen, um ein solides Basissortiment festzulegen und einen gut erreichbaren Abholort (z. B. nahe der B27 oder am Bahnhof) zu vereinbaren.",
-          "ts": "2026-11-12 18:55",
-          "age_min": 1
+          "text": "**WAS:** \nDas „Lüdertaler Vesper-Kistchen“ als 14-tägiges Abo, voll gepackt mit frischem Bauernbrot, regionalen Wurst- und Käsespezialitäten sowie knackigem Saison-Gemüse direkt von den Höfen rund um Großenlüder.\n\n**für WEN:** \nFür berufstätige Pendler Richtung Fulda und beschäftigte Familien aus der Gemeinde, die ehrliche Heimatprodukte schätzen, aber unter der Woche keine Zeit für Klapper-Touren von Hof zu Hof haben.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (z. B. Bäcker, Hofmetzgerei, Gemüsebauer) an einen Tisch holen und 20 Test-Kisten an Bekannte und über die lokale Facebook-Gruppe verteilen, um echtes Feedback zu sammeln.",
+          "ts": "2026-11-12 23:59",
+          "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-huenfeld",
-          "title": "Handwerk-Sichtbarkeit — Huenfeld  ·  Chancen",
+          "agent": "handwerk-grossenlueder",
+          "title": "Handwerk-Sichtbarkeit — Grossenlueder  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Ein regionaler **Dachdecker- und Zimmereibetrieb** in Hünfeld (Fokus: Dachsanierung & Photovoltaik).\n\n**Ansprache-Idee (1 Satz):**\n„Damit Hünfelder Hausbesitzer bei teuren Dachsanierungen und Solaranlagen direkt Ihren Traditionsbetrieb anfragen – und nicht bei der anonymen Konkurrenz aus Fulda landen –, machen wir Ihre ehrliche Arbeit bei Google in der Region unübersehbar.“",
-          "ts": "2026-11-12 18:55",
-          "age_min": 1
+          "text": "**Konkreter Betriebstyp:**  \nEin **Sanitär- und Heizungsbauer (SHK-Betrieb)** in Großenlüder.\n\n**Ansprache-Idee (1 Satz):**  \n„Viele Eigenheimbesitzer in Großenlüder suchen gerade direkt auf dem Handy nach neuen Heizsystemen oder Notdiensten – sorgen wir dafür, dass sie Ihre Nummer finden und der Auftrag nicht an die Konkurrenz aus Fulda geht.“",
+          "ts": "2026-11-12 23:59",
+          "age_min": 0
         }
       ]
     },
@@ -80,12 +80,12 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-huenfeld",
-          "title": "Senioren-Alltagsdienste — Huenfeld  ·  Kunden",
+          "agent": "senioren-grossenlueder",
+          "title": "Senioren-Alltagsdienste — Grossenlueder  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Der „Hünfelder Dorf-Begleitdienst“ bietet älteren Menschen aus den umliegenden Ortsteilen eine verlässliche, persönliche Fahr- und Einkaufsbegleitung für Besorgungen, Arzttermine und soziale Kontakte im Stadtkern.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Hünfeld erschweren lange Wege und ein ausgedünnter ÖPNV die selbstbestimmte Versorgung im Alter, während die Kernstadt alle wichtigen Anlaufstellen bündelt.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit dem Hünfelder Seniorenbüro und den Ortsvorstehern wird eine einfache Bedarfsumfrage gestartet, um feste Fahrtage für die einzelnen Dörfer abzustimmen.",
-          "ts": "2026-11-12 18:56",
-          "age_min": 1
+          "text": "**WAS:** \nDas „DorfMobil Großenlüder“ ist ein verlässlicher Hol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, zu Terminen im Kernort oder nach Fulda bringt und ihnen bei Besorgungen oder Arztbesuchen würdevoll zur Seite steht.\n\n**WARUM HIER:** \nDa die Gemeinde Großenlüder aus sieben teils weit verstreuten Ortsteilen besteht, schließt dieser Dienst die Lücke im öffentlichen Nahverkehr und bewahrt Seniorinnen und Senioren in Orten wie Kleinlüder, Müs oder Uffhausen ihre Selbstständigkeit im gewohnten Umfeld.\n\n**ERSTER SCHRITT:** \nIn Kooperation mit dem Gemeindevorstand und den örtlichen Vereinen wird eine einfache Bedarfsabfrage in allen Ortsteilen gestartet, um erste vertraute Fahrerinnen und Begleitpersonen aus der direkten Nachbarschaft zu gewinnen.",
+          "ts": "2026-11-12 23:59",
+          "age_min": 0
         }
       ]
     }
