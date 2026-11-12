@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-11T22:17Z",
+  "updated": "2026-11-12T03:13Z",
   "agents_total": 162,
-  "worked": 5,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Eine handfeste „Künzeller Feierabend-Kiste“ im wöchentlichen Abo, vollgepackt mit frischem Rhöner Bauernbrot, Käse, Hausmacher Wurst und Saison-Gemüse, flexibel abholbar an einer gekühlten Station am Ortsrand. **FÜR WEN:** Für beschäftigte Pendler und Familien aus Künzell und dem Fuldaer Umland, die wenig Zeit für Hofläden haben, aber am Wochenende ",
+        "text": "**Erlebnis-Paket: „Weißes Gold & Grüne Hügel – E-Bike- & Salz-Genusstour Neuhof“** * **WAS:** Sie erleben eine geführte E-Bike-Erkundungstour rund um Neuhof im Schatten der Kalihalde, inklusive spannenden Einblicken in die Bergbauhistorie und einem abschließenden 3-Gänge-Menü mit heimischen Rhönsalz-Spezialitäten. * **für WEN:** Dieses Angebot richtet sich a",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der ältere Menschen aus den Außenortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt und sie auf Wunsch würdevoll an der Hand begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg fehlen oft fußläufig erreichbare Geschäfte und Ärzte, während die We",
+        "text": "**WAS:** Der mobile „Dorf-Einkaufs- und Mitfahrservice“ holt Senioren direkt an der Haustür ab, begleitet sie in ihrem eigenen Tempo bei Einkäufen oder Arztbesuchen und hilft verlässlich beim Tragen der Taschen. **WARUM HIER:** In den weitläufig verstreuten Ortsteilen von Neuhof fehlen oft Nahverkehr und Dorfläden, sodass diese individuelle Unterstützung die",
         "age_min": 0
       }
     },
@@ -1047,99 +1047,99 @@
       "name": "Senioren-Alltagsdienste — Petersberg",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der ältere Menschen aus den Außenortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt und sie auf Wunsch würdevoll an der Hand begle",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-kuenzell",
       "name": "Chancen-Scout — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobiler Spezial-Reinigungsservice für Photovoltaik-Anlagen, Terrassen und Überdächer bei Privathaushalten. **WARUM HIER:** Künzell weist eine besonders hohe Dichte an kaufkräftigen Eigenheimbesitzern mit Solardä",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-kuenzell",
       "name": "Handwerk-Sichtbarkeit — Kuenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbau-Betrieb** in Künzell (spezialisiert auf Badsanierung und modernen Heizungstausch/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer hier in Künzell",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-kuenzell",
       "name": "Direktvermarktung — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine handfeste „Künzeller Feierabend-Kiste“ im wöchentlichen Abo, vollgepackt mit frischem Rhöner Bauernbrot, Käse, Hausmacher Wurst und Saison-Gemüse, flexibel abholbar an einer gekühlten Station am Ortsrand. *",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-kuenzell",
       "name": "Vulkanregion-Tourismus — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Entdecken Sie die malerische Natur rund um Künzell bei einer entschleunigenden Alpaka-Wanderung inklusive eines reich gefüllten Picknickkorbs mit regionalen Rhöner Spezialitäten. **fuer WEN:** Das Paket richtet ",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "senioren-kuenzell",
       "name": "Senioren-Alltagsdienste — Kuenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der mobile Begleit- und Fahrdienst „Künzell Miteinander“ holt Senioren direkt an ihrer Haustür ab, begleitet sie geduldig bei Einkäufen oder Arztterminen und unterstützt respektvoll beim Tragen der Taschen. **WA",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-neuhof",
       "name": "Chancen-Scout — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Fahrrad- und E-Bike-Wartungsservice, der die Räder von Pendlern morgens direkt am Bahnhof Neuhof entgegennimmt und bis zu deren Rückkehr am Feierabend gewartet zurückstellt. **WARUM HIER:** Neuhof wä",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-neuhof",
       "name": "Handwerk-Sichtbarkeit — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsinstallateur (z. B. für Wärmepumpen-Umrüstung und Badsanierungen in Neuhof). **Ansprache-Idee:** „Hallo Herr [Name], wenn Eigenheimbesitzer in Neuhof nach einer neuen Heizung googeln",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-neuhof",
       "name": "Direktvermarktung — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Neuhöfer Feierabend-Kiste“ ist ein wöchentliches Regio-Abo mit frischen Hofprodukten und passenden Rezeptkarten für schnelle, bodenständige Abendessen. **fuer WEN:** Für berufstätige Familien und Pendler au",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-neuhof",
       "name": "Vulkanregion-Tourismus — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Erlebnis-Paket: „Weißes Gold & Grüne Hügel – E-Bike- & Salz-Genusstour Neuhof“** * **WAS:** Sie erleben eine geführte E-Bike-Erkundungstour rund um Neuhof im Schatten der Kalihalde, inklusive spannenden Einblicken in d",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-neuhof",
       "name": "Senioren-Alltagsdienste — Neuhof",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der mobile „Dorf-Einkaufs- und Mitfahrservice“ holt Senioren direkt an der Haustür ab, begleitet sie in ihrem eigenen Tempo bei Einkäufen oder Arztbesuchen und hilft verlässlich beim Tragen der Taschen. **WARUM ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-huenfeld",
@@ -1503,49 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 16,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** Eine handfeste „Künzeller Feierabend-Kiste“ im wöchentlichen Abo, vollgepackt mit frischem Rhöner Bauernbrot, Käse, Hausmacher Wurst und Saison-Gemüse, flexibel abholbar an einer gekühlten Station am Ortsrand. **FÜR WEN:** Für beschäftigte Pendler und Familien aus Künzell und dem Fuldaer Umland, die wenig Zeit für Hofläden haben, aber am Wochenende ",
-      "ts": "2026-11-11 22:17",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** Mobiler Spezial-Reinigungsservice für Photovoltaik-Anlagen, Terrassen und Überdächer bei Privathaushalten. **WARUM HIER:** Künzell weist eine besonders hohe Dichte an kaufkräftigen Eigenheimbesitzern mit Solardächern auf, für deren Pflege den klassischen Fachbetrieben aus dem Raum Fulda oft die Kapazitäten für Kleinstaufträge fehlen. **ERSTER SCHRIT",
-      "ts": "2026-11-11 22:17",
-      "age_min": 0
-    },
-    {
       "dept": "Kunden",
-      "agent": "senioren-petersberg",
+      "agent": "senioren-neuhof",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der ältere Menschen aus den Außenortsteilen verlässlich zu Arztterminen, Besorgungen oder Gemeinschaftstreffen bringt und sie auf Wunsch würdevoll an der Hand begleitet. **WARUM HIER:** In den weit verstreuten Ortsteilen von Petersberg fehlen oft fußläufig erreichbare Geschäfte und Ärzte, während die We",
-      "ts": "2026-11-11 22:17",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** Der mobile Begleit- und Fahrdienst „Künzell Miteinander“ holt Senioren direkt an ihrer Haustür ab, begleitet sie geduldig bei Einkäufen oder Arztterminen und unterstützt respektvoll beim Tragen der Taschen. **WARUM HIER:** Da Künzell aus mehreren teils hügeligen Ortsteilen ohne eigene Nahversorgung besteht, bewahrt dieser Dienst die Selbstständigkei",
-      "ts": "2026-11-11 22:16",
+      "text": "**WAS:** Der mobile „Dorf-Einkaufs- und Mitfahrservice“ holt Senioren direkt an der Haustür ab, begleitet sie in ihrem eigenen Tempo bei Einkäufen oder Arztbesuchen und hilft verlässlich beim Tragen der Taschen. **WARUM HIER:** In den weitläufig verstreuten Ortsteilen von Neuhof fehlen oft Nahverkehr und Dorfläden, sodass diese individuelle Unterstützung die",
+      "ts": "2026-11-12 03:13",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-kuenzell",
+      "agent": "tourismus-neuhof",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbau-Betrieb** in Künzell (spezialisiert auf Badsanierung und modernen Heizungstausch/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer hier in Künzell nach einer neuen Wärmepumpe gurgeln, finden sie online aktuell meist teure Vermittlungsportale statt Ihren Meisterbetrieb um die Ecke – wol",
-      "ts": "2026-11-11 22:16",
+      "text": "**Erlebnis-Paket: „Weißes Gold & Grüne Hügel – E-Bike- & Salz-Genusstour Neuhof“** * **WAS:** Sie erleben eine geführte E-Bike-Erkundungstour rund um Neuhof im Schatten der Kalihalde, inklusive spannenden Einblicken in die Bergbauhistorie und einem abschließenden 3-Gänge-Menü mit heimischen Rhönsalz-Spezialitäten. * **für WEN:** Dieses Angebot richtet sich a",
+      "ts": "2026-11-12 03:13",
       "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Die „Neuhöfer Feierabend-Kiste“ ist ein wöchentliches Regio-Abo mit frischen Hofprodukten und passenden Rezeptkarten für schnelle, bodenständige Abendessen. **fuer WEN:** Für berufstätige Familien und Pendler aus Neuhof und Umgebung, die Wert auf lokale Lebensmittel legen, aber unter der Woche wenig Zeit zum Einkaufen haben. **ERSTER SCHRITT:** Drei",
+      "ts": "2026-11-12 03:13",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-neuhof",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsinstallateur (z. B. für Wärmepumpen-Umrüstung und Badsanierungen in Neuhof). **Ansprache-Idee:** „Hallo Herr [Name], wenn Eigenheimbesitzer in Neuhof nach einer neuen Heizung googeln, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass Ihre Telefonnummer an erster Stelle steht, damit",
+      "ts": "2026-11-12 03:12",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-neuhof",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Fahrrad- und E-Bike-Wartungsservice, der die Räder von Pendlern morgens direkt am Bahnhof Neuhof entgegennimmt und bis zu deren Rückkehr am Feierabend gewartet zurückstellt. **WARUM HIER:** Neuhof wächst als gefragter Pendlerort im Einzugsgebiet von Fulda und Frankfurt stark, besitzt aktuell aber kein eigenes Fahrradfachgeschäft für schn",
+      "ts": "2026-11-12 03:12",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-kuenzell",
+      "via": "gemini",
+      "text": "**WAS:** Entdecken Sie die malerische Natur rund um Künzell bei einer entschleunigenden Alpaka-Wanderung inklusive eines reich gefüllten Picknickkorbs mit regionalen Rhöner Spezialitäten. **fuer WEN:** Das Paket richtet sich an Paare, Familien und Erholungssuchende, die Tiere lieben und die Biosphärenregion auf genussvolle Weise erkunden möchten. **ERSTER SC",
+      "ts": "2026-11-12 03:12",
+      "age_min": 1
     }
   ]
 }
