@@ -1,7 +1,93 @@
 {
-  "updated": "2026-11-12 11:14 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-11-12 18:57 UTC",
+  "total_results": 4,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-huenfeld",
+      "title": "Senioren-Alltagsdienste — Huenfeld  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Der „Hünfelder Dorf-Begleitdienst“ bietet älteren Menschen aus den umliegenden Ortsteilen eine verlässliche, persönliche Fahr- und Einkaufsbegleitung für Besorgungen, Arzttermine und soziale Kontakte im Stadtkern.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Hünfeld erschweren lange Wege und ein ausgedünnter ÖPNV die selbstbestimmte Versorgung im Alter, während die Kernstadt alle wichtigen Anlaufstellen bündelt.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit dem Hünfelder Seniorenbüro und den Ortsvorstehern wird eine einfache Bedarfsumfrage gestartet, um feste Fahrtage für die einzelnen Dörfer abzustimmen.",
+      "ts": "2026-11-12 18:56",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-huenfeld",
+      "title": "Vulkanregion-Tourismus — Huenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Erlebe eine selbstgeführte E-Bike-Genusstour entlang des Hünfelder Kunstpfads „Das Offene Buch“ bis zum Haselsee, abgerundet durch ein prall gefülltes Picknick im Grünen mit Rhöner Spezialitäten.\n\n**fuer WEN:** Dieses Paket ist ideal für Paare, Genussradler und Kulturliebhaber, die Natur, regionale Gastronomie und entschleunigte Bewegung miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus, um deinen frischen Picknickkorb und den digitalen Routen-Guide mit einem Klick verbindlich zu reservieren.",
+      "ts": "2026-11-12 18:56",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-huenfeld",
+      "title": "Direktvermarktung — Huenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEine wöchentliche „Hünfelder Feierabend-Kiste“ im Abosystem, vollgepackt mit knackigem Saison-Gemüse, frischem Brot, Eiern und Rhöner Wurstspezialitäten von lokalen Erzeugern, die donnerstags an einer zentralen Abholstation bereitsteht.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Hünfeld und den Ortsteilen, die Wert auf ehrliche Lebensmittel aus der Nachbarschaft legen, aber unter der Woche keine Zeit für Klapperfahrten von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** \nDrei bis vier Landwirte aus dem Hünfelder Umland an einen Tisch holen, um ein solides Basissortiment festzulegen und einen gut erreichbaren Abholort (z. B. nahe der B27 oder am Bahnhof) zu vereinbaren.",
+      "ts": "2026-11-12 18:55",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-huenfeld",
+      "title": "Handwerk-Sichtbarkeit — Huenfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein regionaler **Dachdecker- und Zimmereibetrieb** in Hünfeld (Fokus: Dachsanierung & Photovoltaik).\n\n**Ansprache-Idee (1 Satz):**\n„Damit Hünfelder Hausbesitzer bei teuren Dachsanierungen und Solaranlagen direkt Ihren Traditionsbetrieb anfragen – und nicht bei der anonymen Konkurrenz aus Fulda landen –, machen wir Ihre ehrliche Arbeit bei Google in der Region unübersehbar.“",
+      "ts": "2026-11-12 18:55",
+      "age_min": 1
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 3,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-huenfeld",
+          "title": "Vulkanregion-Tourismus — Huenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Erlebe eine selbstgeführte E-Bike-Genusstour entlang des Hünfelder Kunstpfads „Das Offene Buch“ bis zum Haselsee, abgerundet durch ein prall gefülltes Picknick im Grünen mit Rhöner Spezialitäten.\n\n**fuer WEN:** Dieses Paket ist ideal für Paare, Genussradler und Kulturliebhaber, die Natur, regionale Gastronomie und entschleunigte Bewegung miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus, um deinen frischen Picknickkorb und den digitalen Routen-Guide mit einem Klick verbindlich zu reservieren.",
+          "ts": "2026-11-12 18:56",
+          "age_min": 1
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-huenfeld",
+          "title": "Direktvermarktung — Huenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEine wöchentliche „Hünfelder Feierabend-Kiste“ im Abosystem, vollgepackt mit knackigem Saison-Gemüse, frischem Brot, Eiern und Rhöner Wurstspezialitäten von lokalen Erzeugern, die donnerstags an einer zentralen Abholstation bereitsteht.\n\n**FÜR WEN:** \nFür berufstätige Pendler und Familien aus Hünfeld und den Ortsteilen, die Wert auf ehrliche Lebensmittel aus der Nachbarschaft legen, aber unter der Woche keine Zeit für Klapperfahrten von Hofladen zu Hofladen haben.\n\n**ERSTER SCHRITT:** \nDrei bis vier Landwirte aus dem Hünfelder Umland an einen Tisch holen, um ein solides Basissortiment festzulegen und einen gut erreichbaren Abholort (z. B. nahe der B27 oder am Bahnhof) zu vereinbaren.",
+          "ts": "2026-11-12 18:55",
+          "age_min": 1
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-huenfeld",
+          "title": "Handwerk-Sichtbarkeit — Huenfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Ein regionaler **Dachdecker- und Zimmereibetrieb** in Hünfeld (Fokus: Dachsanierung & Photovoltaik).\n\n**Ansprache-Idee (1 Satz):**\n„Damit Hünfelder Hausbesitzer bei teuren Dachsanierungen und Solaranlagen direkt Ihren Traditionsbetrieb anfragen – und nicht bei der anonymen Konkurrenz aus Fulda landen –, machen wir Ihre ehrliche Arbeit bei Google in der Region unübersehbar.“",
+          "ts": "2026-11-12 18:55",
+          "age_min": 1
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-huenfeld",
+          "title": "Senioren-Alltagsdienste — Huenfeld  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Der „Hünfelder Dorf-Begleitdienst“ bietet älteren Menschen aus den umliegenden Ortsteilen eine verlässliche, persönliche Fahr- und Einkaufsbegleitung für Besorgungen, Arzttermine und soziale Kontakte im Stadtkern.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Hünfeld erschweren lange Wege und ein ausgedünnter ÖPNV die selbstbestimmte Versorgung im Alter, während die Kernstadt alle wichtigen Anlaufstellen bündelt.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit dem Hünfelder Seniorenbüro und den Ortsvorstehern wird eine einfache Bedarfsumfrage gestartet, um feste Fahrtage für die einzelnen Dörfer abzustimmen.",
+          "ts": "2026-11-12 18:56",
+          "age_min": 1
+        }
+      ]
+    }
+  ]
 }
