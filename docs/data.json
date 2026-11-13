@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-13T13:10Z",
+  "updated": "2026-11-13T20:29Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** „Barock & Brotzeit“ – Eine Audiotour durch den historischen Schlosspark von Schloss Fasanerie Eichenzell inklusive eines gefüllten Picknickkorbs voller regionaler Rhöner Spezialitäten. **fuer WEN:** Das Erlebnis richtet sich an Paare und Genießer, die Kulturgeschichte mit einer entspannten Auszeit im Grünen verbinden möchten. **ERSTER SCHRITT:** Wäh",
+        "text": "**WAS:** Eine wöchentliche „Hosenfelder Feierabend-Kiste“ im flexiblen Abo, gefüllt mit frischem Landbrot, regionaler Dosenwurst, Eiern und Saison-Gemüse aus dem Vogelsberg zur 24/7-Abholung an einer zentralen Holz-Abholstation im Dorf. **FÜR WEN:** Für berufstätige Pendler Richtung Fulda und beschäftigte Landfamilien, die nach Feierabend ohne Supermarkt-Str",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen verlässlich zu Einkäufen, Arztterminen sowie sozialen Treffpunkten fährt und ihnen vor Ort auf Augenhöhe zur Seite steht. **WARUM HIER:** Da Hosenfeld aus acht weit verteilten Ortsteilen besteht, ist die eigenständige Mobilität für Seniorinnen und Senioren ohne eigene",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1142,9 +1146,9 @@
       "name": "Chancen-Scout — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Werkstattservice, der Inspektionen und Kleinreparaturen direkt auf Firmenparkplätzen oder beim Kunden zu Hause in Hünfeld erledigt. **WARUM HIER:** Hünfeld ist das Drehkreuz des s",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-huenfeld",
@@ -1241,81 +1245,81 @@
       "name": "Handwerk-Sichtbarkeit — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein regionaler **Sanitär- und Heizungsbauer** in Eichenzell (mit Fokus auf Wärmepumpen-Umrüstung und Badsanierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigentümer hier in Eichenzell online n",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-eichenzell",
       "name": "Direktvermarktung — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Rhöner Feierabend-Kiste“ als flexibles Wochen-Abo mit frischem Saison-Gemüse, Landeiern, Bauernbrot und einer wechselnden Hof-Spezialität direkt aus dem Eichenzeller Umland. **für WEN:** Für Pendler, Famili",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-eichenzell",
       "name": "Vulkanregion-Tourismus — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Barock & Brotzeit“ – Eine Audiotour durch den historischen Schlosspark von Schloss Fasanerie Eichenzell inklusive eines gefüllten Picknickkorbs voller regionaler Rhöner Spezialitäten. **fuer WEN:** Das Erlebnis",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-eichenzell",
       "name": "Senioren-Alltagsdienste — Eichenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Dienst:** Eichenzeller Dorf-Begleitung **WAS:** Die „Eichenzeller Dorf-Begleitung“ ist ein mobiler Alltagsdienst, der ältere Menschen auf Augenhöhe direkt an der Haustür abholt, sie achtsam zum Einkaufen oder Arzt begl",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "chancen-hosenfeld",
       "name": "Chancen-Scout — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Vor-Ort-Service für die Wartung und Kleinreparatur von E-Bikes, Rasenmähern und Gartengeräten direkt beim Kunden im Hosenfelder Gemeindegebiet. **WARUM HIER:** Durch die Kombination aus vielen großfl",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-hosenfeld",
       "name": "Handwerk-Sichtbarkeit — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)** *(besonders mit Fokus auf Wärmepumpen-Umstellung oder Bad-Modernisierung)* **Ansprache-Idee:** „Hallo [Name], viele Hausbesitzer in Hosenfeld und den Ortsteilen suc",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-hosenfeld",
       "name": "Direktvermarktung — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Hosenfelder Feierabend-Kiste“ im flexiblen Abo, gefüllt mit frischem Landbrot, regionaler Dosenwurst, Eiern und Saison-Gemüse aus dem Vogelsberg zur 24/7-Abholung an einer zentralen Holz-Abhol",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-hosenfeld",
       "name": "Vulkanregion-Tourismus — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Erlebnis-Paket: „Hosenfelder Kräuter-Wanderung & Vulkan-Picknick“** * **WAS:** Bei dieser geführten Entschleunigungswanderung durch die Hosenfelder Wälder sammelt ihr heimische Wildkräuter und genießt anschließend ein ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-hosenfeld",
       "name": "Senioren-Alltagsdienste — Hosenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen verlässlich zu Einkäufen, Arztterminen sowie sozialen Treffpunkten fährt und ihnen vor Ort auf Augenhöhe zur Seite steht. **WARU",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-flieden",
@@ -1499,41 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 12,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-eichenzell",
+      "dept": "Kunden",
+      "agent": "senioren-hosenfeld",
       "via": "gemini",
-      "text": "**WAS:** „Barock & Brotzeit“ – Eine Audiotour durch den historischen Schlosspark von Schloss Fasanerie Eichenzell inklusive eines gefüllten Picknickkorbs voller regionaler Rhöner Spezialitäten. **fuer WEN:** Das Erlebnis richtet sich an Paare und Genießer, die Kulturgeschichte mit einer entspannten Auszeit im Grünen verbinden möchten. **ERSTER SCHRITT:** Wäh",
-      "ts": "2026-11-13 13:09",
+      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen verlässlich zu Einkäufen, Arztterminen sowie sozialen Treffpunkten fährt und ihnen vor Ort auf Augenhöhe zur Seite steht. **WARUM HIER:** Da Hosenfeld aus acht weit verteilten Ortsteilen besteht, ist die eigenständige Mobilität für Seniorinnen und Senioren ohne eigene",
+      "ts": "2026-11-13 20:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-eichenzell",
+      "agent": "direkt-hosenfeld",
       "via": "gemini",
-      "text": "**WAS:** Die „Rhöner Feierabend-Kiste“ als flexibles Wochen-Abo mit frischem Saison-Gemüse, Landeiern, Bauernbrot und einer wechselnden Hof-Spezialität direkt aus dem Eichenzeller Umland. **für WEN:** Für Pendler, Familien und Vielbeschäftigte aus Eichenzell und den Ortsteilen, die ehrliche regionale Lebensmittel schätzen, aber unter der Woche keine Zeit für",
-      "ts": "2026-11-13 13:09",
+      "text": "**WAS:** Eine wöchentliche „Hosenfelder Feierabend-Kiste“ im flexiblen Abo, gefüllt mit frischem Landbrot, regionaler Dosenwurst, Eiern und Saison-Gemüse aus dem Vogelsberg zur 24/7-Abholung an einer zentralen Holz-Abholstation im Dorf. **FÜR WEN:** Für berufstätige Pendler Richtung Fulda und beschäftigte Landfamilien, die nach Feierabend ohne Supermarkt-Str",
+      "ts": "2026-11-13 20:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-eichenzell",
+      "agent": "handwerk-hosenfeld",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein regionaler **Sanitär- und Heizungsbauer** in Eichenzell (mit Fokus auf Wärmepumpen-Umrüstung und Badsanierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigentümer hier in Eichenzell online nach einer neuen Heizung suchen, landen sie aktuell direkt bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträ",
-      "ts": "2026-11-13 13:09",
+      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)** *(besonders mit Fokus auf Wärmepumpen-Umstellung oder Bad-Modernisierung)* **Ansprache-Idee:** „Hallo [Name], viele Hausbesitzer in Hosenfeld und den Ortsteilen suchen aktuell online nach modernen Heizungen oder Bad-Renovierungen – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge direkt bei I",
+      "ts": "2026-11-13 20:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-huenfeld",
+      "agent": "chancen-hosenfeld",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Werkstattservice, der Inspektionen und Kleinreparaturen direkt auf Firmenparkplätzen oder beim Kunden zu Hause in Hünfeld erledigt. **WARUM HIER:** Hünfeld ist das Drehkreuz des stark frequentierten Kegelspielradwegs und Wohnort vieler Bike-Pendler nach Fulda, während die wenigen stationären Werkstätten in der Region ",
-      "ts": "2026-11-13 13:09",
+      "text": "**WAS:** Ein mobiler Vor-Ort-Service für die Wartung und Kleinreparatur von E-Bikes, Rasenmähern und Gartengeräten direkt beim Kunden im Hosenfelder Gemeindegebiet. **WARUM HIER:** Durch die Kombination aus vielen großflächigen Wohngrundstücken in den Ortsteilen, Radtourismus am Vogelsberg-Rand und dem Fehlen einer lokalen Werkstatt ersparst du den Bürgern d",
+      "ts": "2026-11-13 20:29",
       "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-hosenfeld",
+      "via": "gemini",
+      "text": "**Erlebnis-Paket: „Hosenfelder Kräuter-Wanderung & Vulkan-Picknick“** * **WAS:** Bei dieser geführten Entschleunigungswanderung durch die Hosenfelder Wälder sammelt ihr heimische Wildkräuter und genießt anschließend ein regionales Genuss-Picknick mit Panoramablick auf die Vulkanregion. * **fuer WEN:** Perfekt für Paare, kleine Freundesgruppen und Erholungssu",
+      "ts": "2026-11-13 20:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-eichenzell",
+      "via": "gemini",
+      "text": "**Dienst:** Eichenzeller Dorf-Begleitung **WAS:** Die „Eichenzeller Dorf-Begleitung“ ist ein mobiler Alltagsdienst, der ältere Menschen auf Augenhöhe direkt an der Haustür abholt, sie achtsam zum Einkaufen oder Arzt begleitet und ihnen dabei hilft, ihre Selbstständigkeit zu bewahren. **WARUM HIER:** Da Eichenzell aus etlichen weit verstreuten Ortsteilen best",
+      "ts": "2026-11-13 20:28",
+      "age_min": 1
     }
   ]
 }
