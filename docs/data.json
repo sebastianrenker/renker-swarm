@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-12T23:59Z",
+  "updated": "2026-11-13T05:16Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 2,
   "departments": [
     {
       "id": "Kommando",
@@ -13,8 +13,8 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Entdecke bei einer geführten Dämmerungs-Kräuterwanderung durch die Lüdewiesen die heimische Natur und genieße anschließend ein regionales 3-Gänge-Vulkan-Menü im historischen Landgasthof. **FÜR WEN:** Dieses Paket eignet sich ideal für Genusswanderer, Paare und kleine Gruppen, die eine entschleunigende Auszeit mit lokalem Kulinarik-Erlebnis suchen. *",
-        "age_min": 0
+        "text": "**WAS** Ein mobiler Frische-Lunch-Dienst auf Vorbestellung, der täglich ausgewogene Mittagsgerichte direkt an die Betriebsstätten im Industriepark Rhön liefert. **WARUM HIER** Eichenzell besitzt mit dem Industriepark Rhön eines der dichtesten Gewerbegebiete Osthessens mit tausenden Schicht- und Büroarbeitern, aber einem stark begrenzten, fußläufigen Gastrono",
+        "age_min": 1
       }
     },
     {
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Das „DorfMobil Großenlüder“ ist ein verlässlicher Hol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, zu Terminen im Kernort oder nach Fulda bringt und ihnen bei Besorgungen oder Arztbesuchen würdevoll zur Seite steht. **WARUM HIER:** Da die Gemeinde Großenlüder aus sieben teils weit verstreuten Ortsteilen besteht, schließt d",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1191,54 +1187,54 @@
       "name": "Chancen-Scout — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler, flexibler Grundstücks- und Gartenpflegedienst auf Abruf, der sich gezielt als entlastender Feierabend-Service für Pendler sowie als Alltagshilfe für ältere Eigenheimbesitzer etabliert. **WARUM HIER:",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "handwerk-grossenlueder",
       "name": "Handwerk-Sichtbarkeit — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Konkreter Betriebstyp:** Ein **Sanitär- und Heizungsbauer (SHK-Betrieb)** in Großenlüder. **Ansprache-Idee (1 Satz):** „Viele Eigenheimbesitzer in Großenlüder suchen gerade direkt auf dem Handy nach neuen Heizsystemen ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grossenlueder",
       "name": "Direktvermarktung — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das „Lüdertaler Vesper-Kistchen“ als 14-tägiges Abo, voll gepackt mit frischem Bauernbrot, regionalen Wurst- und Käsespezialitäten sowie knackigem Saison-Gemüse direkt von den Höfen rund um Großenlüder. **für WE",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-grossenlueder",
       "name": "Vulkanregion-Tourismus — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Entdecke bei einer geführten Dämmerungs-Kräuterwanderung durch die Lüdewiesen die heimische Natur und genieße anschließend ein regionales 3-Gänge-Vulkan-Menü im historischen Landgasthof. **FÜR WEN:** Dieses Pake",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-grossenlueder",
       "name": "Senioren-Alltagsdienste — Grossenlueder",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Das „DorfMobil Großenlüder“ ist ein verlässlicher Hol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, zu Terminen im Kernort oder nach Fulda bringt und ihnen bei Besorgungen oder Arztbesu",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-eichenzell",
       "name": "Chancen-Scout — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein mobiler Frische-Lunch-Dienst auf Vorbestellung, der täglich ausgewogene Mittagsgerichte direkt an die Betriebsstätten im Industriepark Rhön liefert. **WARUM HIER** Eichenzell besitzt mit dem Industriepark Rhö",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "handwerk-eichenzell",
@@ -1503,41 +1499,25 @@
     }
   ],
   "budget": {
-    "used": 14,
+    "used": 2,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-grossenlueder",
+      "dept": "Chancen",
+      "agent": "chancen-eichenzell",
       "via": "gemini",
-      "text": "**WAS:** Das „DorfMobil Großenlüder“ ist ein verlässlicher Hol- und Begleitdienst, der ältere Menschen direkt an ihrer Haustür abholt, zu Terminen im Kernort oder nach Fulda bringt und ihnen bei Besorgungen oder Arztbesuchen würdevoll zur Seite steht. **WARUM HIER:** Da die Gemeinde Großenlüder aus sieben teils weit verstreuten Ortsteilen besteht, schließt d",
-      "ts": "2026-11-12 23:59",
-      "age_min": 0
+      "text": "**WAS** Ein mobiler Frische-Lunch-Dienst auf Vorbestellung, der täglich ausgewogene Mittagsgerichte direkt an die Betriebsstätten im Industriepark Rhön liefert. **WARUM HIER** Eichenzell besitzt mit dem Industriepark Rhön eines der dichtesten Gewerbegebiete Osthessens mit tausenden Schicht- und Büroarbeitern, aber einem stark begrenzten, fußläufigen Gastrono",
+      "ts": "2026-11-13 05:15",
+      "age_min": 1
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-grossenlueder",
+      "agent": "chancen-grossenlueder",
       "via": "gemini",
-      "text": "**WAS:** Entdecke bei einer geführten Dämmerungs-Kräuterwanderung durch die Lüdewiesen die heimische Natur und genieße anschließend ein regionales 3-Gänge-Vulkan-Menü im historischen Landgasthof. **FÜR WEN:** Dieses Paket eignet sich ideal für Genusswanderer, Paare und kleine Gruppen, die eine entschleunigende Auszeit mit lokalem Kulinarik-Erlebnis suchen. *",
-      "ts": "2026-11-12 23:59",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-grossenlueder",
-      "via": "gemini",
-      "text": "**WAS:** Das „Lüdertaler Vesper-Kistchen“ als 14-tägiges Abo, voll gepackt mit frischem Bauernbrot, regionalen Wurst- und Käsespezialitäten sowie knackigem Saison-Gemüse direkt von den Höfen rund um Großenlüder. **für WEN:** Für berufstätige Pendler Richtung Fulda und beschäftigte Familien aus der Gemeinde, die ehrliche Heimatprodukte schätzen, aber unter de",
-      "ts": "2026-11-12 23:59",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-grossenlueder",
-      "via": "gemini",
-      "text": "**Konkreter Betriebstyp:** Ein **Sanitär- und Heizungsbauer (SHK-Betrieb)** in Großenlüder. **Ansprache-Idee (1 Satz):** „Viele Eigenheimbesitzer in Großenlüder suchen gerade direkt auf dem Handy nach neuen Heizsystemen oder Notdiensten – sorgen wir dafür, dass sie Ihre Nummer finden und der Auftrag nicht an die Konkurrenz aus Fulda geht.“",
-      "ts": "2026-11-12 23:59",
-      "age_min": 0
+      "text": "**WAS:** Ein mobiler, flexibler Grundstücks- und Gartenpflegedienst auf Abruf, der sich gezielt als entlastender Feierabend-Service für Pendler sowie als Alltagshilfe für ältere Eigenheimbesitzer etabliert. **WARUM HIER:** Großenlüder zeichnet sich durch eine sehr hohe Eigenheim- und Gartenquote in seinen sieben Ortsteilen aus, trifft aber auf ein Aufeinande",
+      "ts": "2026-11-13 05:15",
+      "age_min": 1
     }
   ]
 }
