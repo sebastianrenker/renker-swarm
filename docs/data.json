@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-13T05:16Z",
+  "updated": "2026-11-13T13:10Z",
   "agents_total": 162,
-  "worked": 2,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -13,8 +13,8 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS** Ein mobiler Frische-Lunch-Dienst auf Vorbestellung, der täglich ausgewogene Mittagsgerichte direkt an die Betriebsstätten im Industriepark Rhön liefert. **WARUM HIER** Eichenzell besitzt mit dem Industriepark Rhön eines der dichtesten Gewerbegebiete Osthessens mit tausenden Schicht- und Büroarbeitern, aber einem stark begrenzten, fußläufigen Gastrono",
-        "age_min": 1
+        "text": "**WAS:** „Barock & Brotzeit“ – Eine Audiotour durch den historischen Schlosspark von Schloss Fasanerie Eichenzell inklusive eines gefüllten Picknickkorbs voller regionaler Rhöner Spezialitäten. **fuer WEN:** Das Erlebnis richtet sich an Paare und Genießer, die Kulturgeschichte mit einer entspannten Auszeit im Grünen verbinden möchten. **ERSTER SCHRITT:** Wäh",
+        "age_min": 0
       }
     },
     {
@@ -1142,9 +1142,9 @@
       "name": "Chancen-Scout — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Werkstattservice, der Inspektionen und Kleinreparaturen direkt auf Firmenparkplätzen oder beim Kunden zu Hause in Hünfeld erledigt. **WARUM HIER:** Hünfeld ist das Drehkreuz des s",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-huenfeld",
@@ -1187,9 +1187,9 @@
       "name": "Chancen-Scout — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler, flexibler Grundstücks- und Gartenpflegedienst auf Abruf, der sich gezielt als entlastender Feierabend-Service für Pendler sowie als Alltagshilfe für ältere Eigenheimbesitzer etabliert. **WARUM HIER:",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-grossenlueder",
@@ -1232,36 +1232,36 @@
       "name": "Chancen-Scout — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein mobiler Frische-Lunch-Dienst auf Vorbestellung, der täglich ausgewogene Mittagsgerichte direkt an die Betriebsstätten im Industriepark Rhön liefert. **WARUM HIER** Eichenzell besitzt mit dem Industriepark Rhö",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-eichenzell",
       "name": "Handwerk-Sichtbarkeit — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein regionaler **Sanitär- und Heizungsbauer** in Eichenzell (mit Fokus auf Wärmepumpen-Umrüstung und Badsanierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigentümer hier in Eichenzell online n",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-eichenzell",
       "name": "Direktvermarktung — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Rhöner Feierabend-Kiste“ als flexibles Wochen-Abo mit frischem Saison-Gemüse, Landeiern, Bauernbrot und einer wechselnden Hof-Spezialität direkt aus dem Eichenzeller Umland. **für WEN:** Für Pendler, Famili",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-eichenzell",
       "name": "Vulkanregion-Tourismus — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Barock & Brotzeit“ – Eine Audiotour durch den historischen Schlosspark von Schloss Fasanerie Eichenzell inklusive eines gefüllten Picknickkorbs voller regionaler Rhöner Spezialitäten. **fuer WEN:** Das Erlebnis",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-eichenzell",
@@ -1499,25 +1499,41 @@
     }
   ],
   "budget": {
-    "used": 2,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-eichenzell",
+      "agent": "tourismus-eichenzell",
       "via": "gemini",
-      "text": "**WAS** Ein mobiler Frische-Lunch-Dienst auf Vorbestellung, der täglich ausgewogene Mittagsgerichte direkt an die Betriebsstätten im Industriepark Rhön liefert. **WARUM HIER** Eichenzell besitzt mit dem Industriepark Rhön eines der dichtesten Gewerbegebiete Osthessens mit tausenden Schicht- und Büroarbeitern, aber einem stark begrenzten, fußläufigen Gastrono",
-      "ts": "2026-11-13 05:15",
-      "age_min": 1
+      "text": "**WAS:** „Barock & Brotzeit“ – Eine Audiotour durch den historischen Schlosspark von Schloss Fasanerie Eichenzell inklusive eines gefüllten Picknickkorbs voller regionaler Rhöner Spezialitäten. **fuer WEN:** Das Erlebnis richtet sich an Paare und Genießer, die Kulturgeschichte mit einer entspannten Auszeit im Grünen verbinden möchten. **ERSTER SCHRITT:** Wäh",
+      "ts": "2026-11-13 13:09",
+      "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-grossenlueder",
+      "agent": "direkt-eichenzell",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler, flexibler Grundstücks- und Gartenpflegedienst auf Abruf, der sich gezielt als entlastender Feierabend-Service für Pendler sowie als Alltagshilfe für ältere Eigenheimbesitzer etabliert. **WARUM HIER:** Großenlüder zeichnet sich durch eine sehr hohe Eigenheim- und Gartenquote in seinen sieben Ortsteilen aus, trifft aber auf ein Aufeinande",
-      "ts": "2026-11-13 05:15",
-      "age_min": 1
+      "text": "**WAS:** Die „Rhöner Feierabend-Kiste“ als flexibles Wochen-Abo mit frischem Saison-Gemüse, Landeiern, Bauernbrot und einer wechselnden Hof-Spezialität direkt aus dem Eichenzeller Umland. **für WEN:** Für Pendler, Familien und Vielbeschäftigte aus Eichenzell und den Ortsteilen, die ehrliche regionale Lebensmittel schätzen, aber unter der Woche keine Zeit für",
+      "ts": "2026-11-13 13:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-eichenzell",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein regionaler **Sanitär- und Heizungsbauer** in Eichenzell (mit Fokus auf Wärmepumpen-Umrüstung und Badsanierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigentümer hier in Eichenzell online nach einer neuen Heizung suchen, landen sie aktuell direkt bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass die lukrativen Aufträ",
+      "ts": "2026-11-13 13:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-huenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Werkstattservice, der Inspektionen und Kleinreparaturen direkt auf Firmenparkplätzen oder beim Kunden zu Hause in Hünfeld erledigt. **WARUM HIER:** Hünfeld ist das Drehkreuz des stark frequentierten Kegelspielradwegs und Wohnort vieler Bike-Pendler nach Fulda, während die wenigen stationären Werkstätten in der Region ",
+      "ts": "2026-11-13 13:09",
+      "age_min": 0
     }
   ]
 }
