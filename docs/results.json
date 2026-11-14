@@ -1,7 +1,129 @@
 {
-  "updated": "2026-11-14 19:21 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-11-14 23:13 UTC",
+  "total_results": 6,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-hilders",
+      "title": "Direktvermarktung — Hilders  ·  Chancen",
+      "via": "gemini",
+      "text": "**Idee: Die Hilderser „Rhöner Vesper-Kiste“**\n\n* **WAS:** Eine wöchentliche Abo-Box zur Abholung in Hilders, vollgepackt mit frischem Holzofenbrot, Rhöner Hausmacher Wurst, Kümmelkäse und regionalem Saison-Gemüse.\n* **fuer WEN:** Für beschäftigte Familien aus dem Ulstertal und Stamm-Urlauber, die ehrliche Lebensmittel direkt vom Erzeuger ohne Supermarkt-Umweg suchen.\n* **ERSTER SCHRITT:** Mit zwei Erzeuger-Kollegen aus der Nachbarschaft das Angebot abstimmen und einen Testlauf für 15 Haushalte über eine einfache WhatsApp-Bestellgruppe starten.",
+      "ts": "2026-11-14 23:13",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-hilders",
+      "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nSanitär- und Heizungsbau-Betrieb (z. B. spezialisiert auf Wärmepumpen oder Badrenovierungen)\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Eigenheimbesitzer in Hilders und Umgebung online nach einer neuen Heizung suchen, landen sie aktuell direkt bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge wieder bei Ihnen im Ort bleiben.“",
+      "ts": "2026-11-14 23:13",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-hilders",
+      "title": "Chancen-Scout — Hilders  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEin mobiler Lieferservice für regional bestückte „Rhön-Vesper-Rucksäcke“ direkt an Ferienunterkünfte oder Wander-Startpunkte in und um Hilders.\n\n**WARUM HIER:** \nHilders hat als stark frequentierter Luftkurort am Hochrhöner eine hohe Dichte an Selbstversorger-Ferienwohnungen und Wanderern, leidet aber unter lückenhaften Gastronomie-Öffnungszeiten in den Randzeiten.\n\n**ERSTER SCHRITT:** \nMit je einer lokalen Bäckerei und Metzgerei in Hilders Sonderkonditionen für Rhöner Produkte vereinbaren und die Dienstleistung testweise über ein einfaches WhatsApp-Bestellformular lokalen Vermietern anbieten.",
+      "ts": "2026-11-14 23:13",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-gersfeld",
+      "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS**\nEin mobiler Dorfdienst, der Seniorinnen und Senioren aus den entlegenen Ortsteilen verlässlich für Arztbesuche und Einkäufe ins Gersfelder Zentrum fährt sowie benötigte Medikamente direkt nach Hause bringt.\n\n**WARUM HIER**\nDie städtische Infrastruktur konzentriert sich auf den Kernort, während in den steilen, witterungsanfälligen Rhön-Dörfern rund um Gersfeld die eigenständige Mobilität im Alter ohne eigenes Auto kaum möglich ist.\n\n**ERSTER SCHRITT**\nGemeinsam mit dem Seniorenbeirat Gersfeld wird eine zentrale Telefonnummer für Fahrtwünsche eingerichtet und mit ortskundigen, ehrenamtlichen Fahrerinnen und Fahrern vernetzt.",
+      "ts": "2026-11-14 23:13",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-gersfeld",
+      "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Erlebe eine entschleunigende Halbtages-Wanderung mit Rhönschafen durch die Gersfelder Bergwelt, gekrönt von einem regionalen Bio-Picknick auf einer Panoramawiese.\n\n**FÜR WEN:** Perfekt für naturliebende Paare, Familien und Genusswanderer, die die Rhön entspannt und mit allen Sinnen entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin online aus, sichere dir dein Ticket und starte deine Tour direkt am Treffpunkt in Gersfeld.",
+      "ts": "2026-11-14 23:13",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-gersfeld",
+      "title": "Direktvermarktung — Gersfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nDie „Gersfelder Rhön-Vesper-Box“ ist ein handfestes Wochen-Abo mit frischem Holzofenbrot, Hausmacher Wurst, Rhön-Käse und Saison-Gemüse direkt von den Höfen der Umgebung.\n\n**für WEN:** \nFür beschäftigte Familien aus dem Gersfelder Land und Ferienhaus-Gäste, die ohne Umwege ehrliche, regionale Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (Bäcker, Hofmetzger, Gemüsebauer) an einen Tisch holen und 20 Test-Kisten für ein erstes Probier-Wochenende packen.",
+      "ts": "2026-11-14 23:12",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 5,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "direkt-hilders",
+          "title": "Direktvermarktung — Hilders  ·  Chancen",
+          "via": "gemini",
+          "text": "**Idee: Die Hilderser „Rhöner Vesper-Kiste“**\n\n* **WAS:** Eine wöchentliche Abo-Box zur Abholung in Hilders, vollgepackt mit frischem Holzofenbrot, Rhöner Hausmacher Wurst, Kümmelkäse und regionalem Saison-Gemüse.\n* **fuer WEN:** Für beschäftigte Familien aus dem Ulstertal und Stamm-Urlauber, die ehrliche Lebensmittel direkt vom Erzeuger ohne Supermarkt-Umweg suchen.\n* **ERSTER SCHRITT:** Mit zwei Erzeuger-Kollegen aus der Nachbarschaft das Angebot abstimmen und einen Testlauf für 15 Haushalte über eine einfache WhatsApp-Bestellgruppe starten.",
+          "ts": "2026-11-14 23:13",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-hilders",
+          "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nSanitär- und Heizungsbau-Betrieb (z. B. spezialisiert auf Wärmepumpen oder Badrenovierungen)\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Eigenheimbesitzer in Hilders und Umgebung online nach einer neuen Heizung suchen, landen sie aktuell direkt bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge wieder bei Ihnen im Ort bleiben.“",
+          "ts": "2026-11-14 23:13",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-hilders",
+          "title": "Chancen-Scout — Hilders  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEin mobiler Lieferservice für regional bestückte „Rhön-Vesper-Rucksäcke“ direkt an Ferienunterkünfte oder Wander-Startpunkte in und um Hilders.\n\n**WARUM HIER:** \nHilders hat als stark frequentierter Luftkurort am Hochrhöner eine hohe Dichte an Selbstversorger-Ferienwohnungen und Wanderern, leidet aber unter lückenhaften Gastronomie-Öffnungszeiten in den Randzeiten.\n\n**ERSTER SCHRITT:** \nMit je einer lokalen Bäckerei und Metzgerei in Hilders Sonderkonditionen für Rhöner Produkte vereinbaren und die Dienstleistung testweise über ein einfaches WhatsApp-Bestellformular lokalen Vermietern anbieten.",
+          "ts": "2026-11-14 23:13",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-gersfeld",
+          "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Erlebe eine entschleunigende Halbtages-Wanderung mit Rhönschafen durch die Gersfelder Bergwelt, gekrönt von einem regionalen Bio-Picknick auf einer Panoramawiese.\n\n**FÜR WEN:** Perfekt für naturliebende Paare, Familien und Genusswanderer, die die Rhön entspannt und mit allen Sinnen entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin online aus, sichere dir dein Ticket und starte deine Tour direkt am Treffpunkt in Gersfeld.",
+          "ts": "2026-11-14 23:13",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-gersfeld",
+          "title": "Direktvermarktung — Gersfeld  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDie „Gersfelder Rhön-Vesper-Box“ ist ein handfestes Wochen-Abo mit frischem Holzofenbrot, Hausmacher Wurst, Rhön-Käse und Saison-Gemüse direkt von den Höfen der Umgebung.\n\n**für WEN:** \nFür beschäftigte Familien aus dem Gersfelder Land und Ferienhaus-Gäste, die ohne Umwege ehrliche, regionale Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (Bäcker, Hofmetzger, Gemüsebauer) an einen Tisch holen und 20 Test-Kisten für ein erstes Probier-Wochenende packen.",
+          "ts": "2026-11-14 23:12",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-gersfeld",
+          "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS**\nEin mobiler Dorfdienst, der Seniorinnen und Senioren aus den entlegenen Ortsteilen verlässlich für Arztbesuche und Einkäufe ins Gersfelder Zentrum fährt sowie benötigte Medikamente direkt nach Hause bringt.\n\n**WARUM HIER**\nDie städtische Infrastruktur konzentriert sich auf den Kernort, während in den steilen, witterungsanfälligen Rhön-Dörfern rund um Gersfeld die eigenständige Mobilität im Alter ohne eigenes Auto kaum möglich ist.\n\n**ERSTER SCHRITT**\nGemeinsam mit dem Seniorenbeirat Gersfeld wird eine zentrale Telefonnummer für Fahrtwünsche eingerichtet und mit ortskundigen, ehrenamtlichen Fahrerinnen und Fahrern vernetzt.",
+          "ts": "2026-11-14 23:13",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }
