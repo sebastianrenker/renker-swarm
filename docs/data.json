@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-14T00:58Z",
+  "updated": "2026-11-14T07:29Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Eine wöchentliche „Fliedener Feierabend-Kiste“ mit frischem Landbrot, Rhöner Käse, Hausmacher Wurst und saisonalem Gemüse direkt von Höfen aus dem Fliedetal. **FÜR WEN:** Für Pendler und lokale Familien, die nach Feierabend ehrliche, regionale Lebensmittel ohne Supermarktweg auf dem Heimweg abholen möchten. **ERSTER SCHRITT:** Zwei bis drei Erzeuger",
+        "text": "**Tanner Dreiburgen-Picknick: E-Bike-Tour & Rhöner Genusskorb** **WAS:** Sie erkunden die historische Dreiburgenstadt Tann individuell mit dem E-Bike und genießen an einem Aussichtspunkt im Biosphärenreservat ein exklusives Picknick voller regionaler Rhöner Spezialitäten. **fuer WEN:** Das Paket ist perfekt für naturbegeisterte Paare und Aktivurlauber, die K",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Der „Fliedener Dorf-Begleitdienst“ bietet älteren Menschen aus den umliegenden Ortsteilen eine würdevolle, individuelle Transport- und Alltagshilfe für Arztbesuche, Besorgungen und soziale Kontakte im Kernort. **WARUM HIER:** Durch die weiten Wege zwischen den verstreuten Ortsteilen wie Magdlos oder Rückers und dem Hauptort ist dieser Dienst essenzi",
+        "age_min": 1
+      }
     },
     {
       "id": "Finanzen",
@@ -1322,81 +1326,81 @@
       "name": "Chancen-Scout — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Aufbau einer 24/7-Micro-Abholstation mit vorgepackten „Feierabend-Kochboxen“ und regionalen Grundnahrungsmitteln heimischer Erzeuger direkt am Bahnhof Flieden. **WARUM HIER** Flieden ist ein starker Pendler-Knote",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-flieden",
       "name": "Handwerk-Sichtbarkeit — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb** in Flieden (besonders relevant wegen der aktuell hohen Online-Suchanfragen zu Wärmepumpen, Heizungstausch und Badsanierungen). **Ansprache-Idee:** „Hallo H",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-flieden",
       "name": "Direktvermarktung — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Fliedener Feierabend-Kiste“ mit frischem Landbrot, Rhöner Käse, Hausmacher Wurst und saisonalem Gemüse direkt von Höfen aus dem Fliedetal. **FÜR WEN:** Für Pendler und lokale Familien, die nac",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-flieden",
       "name": "Vulkanregion-Tourismus — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Das Erlebnis-Paket „Fliedener Alpaka-Trekking & Vogelsberg-Picknick“ kombiniert eine geführte Wanderung mit sanftmütigen Alpakas durch das malerische Fliedetal mit einer entspannten Rast voll regionaler Speziali",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "senioren-flieden",
       "name": "Senioren-Alltagsdienste — Flieden",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Fliedener Dorf-Begleitdienst“ bietet älteren Menschen aus den umliegenden Ortsteilen eine würdevolle, individuelle Transport- und Alltagshilfe für Arztbesuche, Besorgungen und soziale Kontakte im Kernort. *",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "chancen-tann",
       "name": "Chancen-Scout — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Betreuungs- und Reinigungsservice speziell für private Ferienwohnungen und Gästezimmer im Raum Tann. **WARUM HIER:** Die touristisch geprägte Burgstadt hat eine hohe Dichte an Ferienunterkünften, der",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "handwerk-tann",
       "name": "Handwerk-Sichtbarkeit — Tann",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** **Dachdecker-Fachbetrieb** (insbesondere mit Fokus auf Sturmschaden-Notdienst und energetische Dachsanierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn in Tann oder den umliegenden Rhön-Dörfern n",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-tann",
       "name": "Direktvermarktung — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Tanner Feierabend-Box“ vollgepackt mit frischem Holzofenbrot, Rhöner Wurst- und Käsespezialitäten sowie saisonalem Hofgemüse, die flexibel an einer zentralen 24/7-Abholstation bereitsteht. **f",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-tann",
       "name": "Vulkanregion-Tourismus — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Tanner Dreiburgen-Picknick: E-Bike-Tour & Rhöner Genusskorb** **WAS:** Sie erkunden die historische Dreiburgenstadt Tann individuell mit dem E-Bike und genießen an einem Aussichtspunkt im Biosphärenreservat ein exklusi",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-tann",
@@ -1499,33 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 3,
+    "used": 9,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "direkt-flieden",
+      "agent": "tourismus-tann",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Fliedener Feierabend-Kiste“ mit frischem Landbrot, Rhöner Käse, Hausmacher Wurst und saisonalem Gemüse direkt von Höfen aus dem Fliedetal. **FÜR WEN:** Für Pendler und lokale Familien, die nach Feierabend ehrliche, regionale Lebensmittel ohne Supermarktweg auf dem Heimweg abholen möchten. **ERSTER SCHRITT:** Zwei bis drei Erzeuger",
-      "ts": "2026-11-14 00:58",
+      "text": "**Tanner Dreiburgen-Picknick: E-Bike-Tour & Rhöner Genusskorb** **WAS:** Sie erkunden die historische Dreiburgenstadt Tann individuell mit dem E-Bike und genießen an einem Aussichtspunkt im Biosphärenreservat ein exklusives Picknick voller regionaler Rhöner Spezialitäten. **fuer WEN:** Das Paket ist perfekt für naturbegeisterte Paare und Aktivurlauber, die K",
+      "ts": "2026-11-14 07:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-flieden",
+      "agent": "direkt-tann",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb** in Flieden (besonders relevant wegen der aktuell hohen Online-Suchanfragen zu Wärmepumpen, Heizungstausch und Badsanierungen). **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer aus Flieden und Umgebung aktuell nach einer neuen Heizung oder Badsanierung googeln, landen sie meist bei Groß",
-      "ts": "2026-11-14 00:58",
+      "text": "**WAS:** Eine wöchentliche „Tanner Feierabend-Box“ vollgepackt mit frischem Holzofenbrot, Rhöner Wurst- und Käsespezialitäten sowie saisonalem Hofgemüse, die flexibel an einer zentralen 24/7-Abholstation bereitsteht. **für WEN:** Für berufstätige Pendler und Familien aus Tann und den umliegenden Rhön-Dörfern, die ohne Einkaufsstress echten, regionalen Geschm",
+      "ts": "2026-11-14 07:29",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-flieden",
+      "agent": "handwerk-tann",
       "via": "gemini",
-      "text": "**WAS** Aufbau einer 24/7-Micro-Abholstation mit vorgepackten „Feierabend-Kochboxen“ und regionalen Grundnahrungsmitteln heimischer Erzeuger direkt am Bahnhof Flieden. **WARUM HIER** Flieden ist ein starker Pendler-Knotenpunkt an der Bahnstrecke Frankfurt–Fulda, an dem täglich hunderte Berufstätige erst nach dem regulären Ladenschluss der örtlichen Märkte an",
-      "ts": "2026-11-14 00:58",
+      "text": "**Betriebstyp:** **Dachdecker-Fachbetrieb** (insbesondere mit Fokus auf Sturmschaden-Notdienst und energetische Dachsanierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn in Tann oder den umliegenden Rhön-Dörfern nach einem Sturmschaden das Dach leckt, suchen die Leute auf dem Handy – lassen Sie uns dafür sorgen, dass sie direkt bei Ihnen im Ort anrufe",
+      "ts": "2026-11-14 07:29",
       "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-tann",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Betreuungs- und Reinigungsservice speziell für private Ferienwohnungen und Gästezimmer im Raum Tann. **WARUM HIER:** Die touristisch geprägte Burgstadt hat eine hohe Dichte an Ferienunterkünften, deren oft ältere Vermieter händeringend nach verlässlicher lokaler Unterstützung für den schnellen Gästewechsel suchen. **ERSTER SCHRITT:** Ers",
+      "ts": "2026-11-14 07:28",
+      "age_min": 1
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-flieden",
+      "via": "gemini",
+      "text": "**WAS:** Der „Fliedener Dorf-Begleitdienst“ bietet älteren Menschen aus den umliegenden Ortsteilen eine würdevolle, individuelle Transport- und Alltagshilfe für Arztbesuche, Besorgungen und soziale Kontakte im Kernort. **WARUM HIER:** Durch die weiten Wege zwischen den verstreuten Ortsteilen wie Magdlos oder Rückers und dem Hauptort ist dieser Dienst essenzi",
+      "ts": "2026-11-14 07:28",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-flieden",
+      "via": "gemini",
+      "text": "**WAS:** Das Erlebnis-Paket „Fliedener Alpaka-Trekking & Vogelsberg-Picknick“ kombiniert eine geführte Wanderung mit sanftmütigen Alpakas durch das malerische Fliedetal mit einer entspannten Rast voll regionaler Spezialitäten. **Für WEN:** Dieses Angebot richtet sich an Paare, Familien und Erholungssuchende, die eine entschleunigende Auszeit in der Natur an ",
+      "ts": "2026-11-14 07:27",
+      "age_min": 1
     }
   ]
 }
