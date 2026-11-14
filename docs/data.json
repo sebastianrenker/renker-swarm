@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-13T20:29Z",
+  "updated": "2026-11-14T00:58Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 3,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Eine wöchentliche „Hosenfelder Feierabend-Kiste“ im flexiblen Abo, gefüllt mit frischem Landbrot, regionaler Dosenwurst, Eiern und Saison-Gemüse aus dem Vogelsberg zur 24/7-Abholung an einer zentralen Holz-Abholstation im Dorf. **FÜR WEN:** Für berufstätige Pendler Richtung Fulda und beschäftigte Landfamilien, die nach Feierabend ohne Supermarkt-Str",
+        "text": "**WAS:** Eine wöchentliche „Fliedener Feierabend-Kiste“ mit frischem Landbrot, Rhöner Käse, Hausmacher Wurst und saisonalem Gemüse direkt von Höfen aus dem Fliedetal. **FÜR WEN:** Für Pendler und lokale Familien, die nach Feierabend ehrliche, regionale Lebensmittel ohne Supermarktweg auf dem Heimweg abholen möchten. **ERSTER SCHRITT:** Zwei bis drei Erzeuger",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen verlässlich zu Einkäufen, Arztterminen sowie sozialen Treffpunkten fährt und ihnen vor Ort auf Augenhöhe zur Seite steht. **WARUM HIER:** Da Hosenfeld aus acht weit verteilten Ortsteilen besteht, ist die eigenständige Mobilität für Seniorinnen und Senioren ohne eigene",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1272,81 +1268,81 @@
       "name": "Senioren-Alltagsdienste — Eichenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**Dienst:** Eichenzeller Dorf-Begleitung **WAS:** Die „Eichenzeller Dorf-Begleitung“ ist ein mobiler Alltagsdienst, der ältere Menschen auf Augenhöhe direkt an der Haustür abholt, sie achtsam zum Einkaufen oder Arzt begl",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-hosenfeld",
       "name": "Chancen-Scout — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Vor-Ort-Service für die Wartung und Kleinreparatur von E-Bikes, Rasenmähern und Gartengeräten direkt beim Kunden im Hosenfelder Gemeindegebiet. **WARUM HIER:** Durch die Kombination aus vielen großfl",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-hosenfeld",
       "name": "Handwerk-Sichtbarkeit — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)** *(besonders mit Fokus auf Wärmepumpen-Umstellung oder Bad-Modernisierung)* **Ansprache-Idee:** „Hallo [Name], viele Hausbesitzer in Hosenfeld und den Ortsteilen suc",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-hosenfeld",
       "name": "Direktvermarktung — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Hosenfelder Feierabend-Kiste“ im flexiblen Abo, gefüllt mit frischem Landbrot, regionaler Dosenwurst, Eiern und Saison-Gemüse aus dem Vogelsberg zur 24/7-Abholung an einer zentralen Holz-Abhol",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-hosenfeld",
       "name": "Vulkanregion-Tourismus — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: „Hosenfelder Kräuter-Wanderung & Vulkan-Picknick“** * **WAS:** Bei dieser geführten Entschleunigungswanderung durch die Hosenfelder Wälder sammelt ihr heimische Wildkräuter und genießt anschließend ein ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-hosenfeld",
       "name": "Senioren-Alltagsdienste — Hosenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen verlässlich zu Einkäufen, Arztterminen sowie sozialen Treffpunkten fährt und ihnen vor Ort auf Augenhöhe zur Seite steht. **WARU",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-flieden",
       "name": "Chancen-Scout — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Aufbau einer 24/7-Micro-Abholstation mit vorgepackten „Feierabend-Kochboxen“ und regionalen Grundnahrungsmitteln heimischer Erzeuger direkt am Bahnhof Flieden. **WARUM HIER** Flieden ist ein starker Pendler-Knote",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-flieden",
       "name": "Handwerk-Sichtbarkeit — Flieden",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb** in Flieden (besonders relevant wegen der aktuell hohen Online-Suchanfragen zu Wärmepumpen, Heizungstausch und Badsanierungen). **Ansprache-Idee:** „Hallo H",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-flieden",
       "name": "Direktvermarktung — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Fliedener Feierabend-Kiste“ mit frischem Landbrot, Rhöner Käse, Hausmacher Wurst und saisonalem Gemüse direkt von Höfen aus dem Fliedetal. **FÜR WEN:** Für Pendler und lokale Familien, die nac",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-flieden",
@@ -1503,57 +1499,33 @@
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 3,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-hosenfeld",
+      "dept": "Chancen",
+      "agent": "direkt-flieden",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den verstreuten Ortsteilen verlässlich zu Einkäufen, Arztterminen sowie sozialen Treffpunkten fährt und ihnen vor Ort auf Augenhöhe zur Seite steht. **WARUM HIER:** Da Hosenfeld aus acht weit verteilten Ortsteilen besteht, ist die eigenständige Mobilität für Seniorinnen und Senioren ohne eigene",
-      "ts": "2026-11-13 20:29",
+      "text": "**WAS:** Eine wöchentliche „Fliedener Feierabend-Kiste“ mit frischem Landbrot, Rhöner Käse, Hausmacher Wurst und saisonalem Gemüse direkt von Höfen aus dem Fliedetal. **FÜR WEN:** Für Pendler und lokale Familien, die nach Feierabend ehrliche, regionale Lebensmittel ohne Supermarktweg auf dem Heimweg abholen möchten. **ERSTER SCHRITT:** Zwei bis drei Erzeuger",
+      "ts": "2026-11-14 00:58",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-hosenfeld",
+      "agent": "handwerk-flieden",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Hosenfelder Feierabend-Kiste“ im flexiblen Abo, gefüllt mit frischem Landbrot, regionaler Dosenwurst, Eiern und Saison-Gemüse aus dem Vogelsberg zur 24/7-Abholung an einer zentralen Holz-Abholstation im Dorf. **FÜR WEN:** Für berufstätige Pendler Richtung Fulda und beschäftigte Landfamilien, die nach Feierabend ohne Supermarkt-Str",
-      "ts": "2026-11-13 20:29",
+      "text": "**Betriebstyp:** Ein regionaler **Heizungs- und Sanitärbetrieb** in Flieden (besonders relevant wegen der aktuell hohen Online-Suchanfragen zu Wärmepumpen, Heizungstausch und Badsanierungen). **Ansprache-Idee:** „Hallo Herr [Name], wenn Hausbesitzer aus Flieden und Umgebung aktuell nach einer neuen Heizung oder Badsanierung googeln, landen sie meist bei Groß",
+      "ts": "2026-11-14 00:58",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-hosenfeld",
+      "agent": "chancen-flieden",
       "via": "gemini",
-      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)** *(besonders mit Fokus auf Wärmepumpen-Umstellung oder Bad-Modernisierung)* **Ansprache-Idee:** „Hallo [Name], viele Hausbesitzer in Hosenfeld und den Ortsteilen suchen aktuell online nach modernen Heizungen oder Bad-Renovierungen – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge direkt bei I",
-      "ts": "2026-11-13 20:29",
+      "text": "**WAS** Aufbau einer 24/7-Micro-Abholstation mit vorgepackten „Feierabend-Kochboxen“ und regionalen Grundnahrungsmitteln heimischer Erzeuger direkt am Bahnhof Flieden. **WARUM HIER** Flieden ist ein starker Pendler-Knotenpunkt an der Bahnstrecke Frankfurt–Fulda, an dem täglich hunderte Berufstätige erst nach dem regulären Ladenschluss der örtlichen Märkte an",
+      "ts": "2026-11-14 00:58",
       "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-hosenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Vor-Ort-Service für die Wartung und Kleinreparatur von E-Bikes, Rasenmähern und Gartengeräten direkt beim Kunden im Hosenfelder Gemeindegebiet. **WARUM HIER:** Durch die Kombination aus vielen großflächigen Wohngrundstücken in den Ortsteilen, Radtourismus am Vogelsberg-Rand und dem Fehlen einer lokalen Werkstatt ersparst du den Bürgern d",
-      "ts": "2026-11-13 20:29",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-hosenfeld",
-      "via": "gemini",
-      "text": "**Erlebnis-Paket: „Hosenfelder Kräuter-Wanderung & Vulkan-Picknick“** * **WAS:** Bei dieser geführten Entschleunigungswanderung durch die Hosenfelder Wälder sammelt ihr heimische Wildkräuter und genießt anschließend ein regionales Genuss-Picknick mit Panoramablick auf die Vulkanregion. * **fuer WEN:** Perfekt für Paare, kleine Freundesgruppen und Erholungssu",
-      "ts": "2026-11-13 20:29",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-eichenzell",
-      "via": "gemini",
-      "text": "**Dienst:** Eichenzeller Dorf-Begleitung **WAS:** Die „Eichenzeller Dorf-Begleitung“ ist ein mobiler Alltagsdienst, der ältere Menschen auf Augenhöhe direkt an der Haustür abholt, sie achtsam zum Einkaufen oder Arzt begleitet und ihnen dabei hilft, ihre Selbstständigkeit zu bewahren. **WARUM HIER:** Da Eichenzell aus etlichen weit verstreuten Ortsteilen best",
-      "ts": "2026-11-13 20:28",
-      "age_min": 1
     }
   ]
 }
