@@ -1,112 +1,58 @@
 {
-  "updated": "2026-11-14 07:29 UTC",
-  "total_results": 6,
+  "updated": "2026-11-14 14:25 UTC",
+  "total_results": 3,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-tann",
-      "title": "Vulkanregion-Tourismus — Tann  ·  Chancen",
+      "agent": "handwerk-gersfeld",
+      "title": "Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen",
       "via": "gemini",
-      "text": "**Tanner Dreiburgen-Picknick: E-Bike-Tour & Rhöner Genusskorb**\n\n**WAS:** Sie erkunden die historische Dreiburgenstadt Tann individuell mit dem E-Bike und genießen an einem Aussichtspunkt im Biosphärenreservat ein exklusives Picknick voller regionaler Rhöner Spezialitäten.\n\n**fuer WEN:** Das Paket ist perfekt für naturbegeisterte Paare und Aktivurlauber, die Kulturgeschichte und kulinarische Auszeiten entspannt miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie einfach Ihren Wunschtermin im Online-Kalender aus und reservieren Sie Ihr E-Bike samt frisch gepacktem Genusskorb direkt online.",
-      "ts": "2026-11-14 07:29",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (Sanitär-Heizung-Klima) in Gersfeld.\n\n**Ansprache-Idee (1 Satz):**\n„Herr [Name], wenn in Gersfeld die Heizung streikt oder jemand auf eine moderne Wärmepumpe umsteigen will, wird zuerst auf dem Handy gesucht – sorgen wir dafür, dass die Leute direkt bei Ihnen im Ort anrufen und der Auftrag nicht an einen Betrieb aus Fulda geht.“",
+      "ts": "2026-11-14 14:25",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-tann",
-      "title": "Direktvermarktung — Tann  ·  Chancen",
+      "agent": "chancen-gersfeld",
+      "title": "Chancen-Scout — Gersfeld  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Tanner Feierabend-Box“ vollgepackt mit frischem Holzofenbrot, Rhöner Wurst- und Käsespezialitäten sowie saisonalem Hofgemüse, die flexibel an einer zentralen 24/7-Abholstation bereitsteht.\n\n**für WEN:** Für berufstätige Pendler und Familien aus Tann und den umliegenden Rhön-Dörfern, die ohne Einkaufsstress echten, regionalen Geschmack auf dem Abendbrottisch wollen.\n\n**ERSTER SCHRITT:** Drei benachbarte Erzeuger (Bäcker, Metzgerei, Hofladen) an einen Tisch holen und 20 Test-Boxen für ein vierwöchiges Probe-Abo im Bekanntenkreis packen.",
-      "ts": "2026-11-14 07:29",
+      "text": "**WAS:** Ein digital buchbarer Vesper-Lieferservice, der befüllte Wanderrucksäcke mit regionalen Rhön-Produkten direkt an Gersfelder Ferienwohnungen und Wanderparkplätze liefert.\n\n**WARUM HIER:** Gersfeld ist der zentrale Knotenpunkt für Wander- und Radtourismus an der Wasserkuppe mit sehr vielen Selbstversorger-Ferienwohnungen, bietet bisher aber kein flexibles Angebot für die direkte Verpflegung auf den Strecken.\n\n**ERSTER SCHRITT:** Vereinbare Kooperationen mit einer Gersfelder Bäckerei sowie Metzgerei, besorge zehn Rucksäcke und verteile Infoflyer an die 20 größten FeWo-Vermieter im Ort.",
+      "ts": "2026-11-14 14:25",
       "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-tann",
-      "title": "Handwerk-Sichtbarkeit — Tann  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** **Dachdecker-Fachbetrieb** (insbesondere mit Fokus auf Sturmschaden-Notdienst und energetische Dachsanierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn in Tann oder den umliegenden Rhön-Dörfern nach einem Sturmschaden das Dach leckt, suchen die Leute auf dem Handy – lassen Sie uns dafür sorgen, dass sie direkt bei Ihnen im Ort anrufen und die Aufträge nicht an die Konkurrenz aus Fulda verlieren.“",
-      "ts": "2026-11-14 07:29",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-tann",
-      "title": "Chancen-Scout — Tann  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Betreuungs- und Reinigungsservice speziell für private Ferienwohnungen und Gästezimmer im Raum Tann.\n\n**WARUM HIER:** Die touristisch geprägte Burgstadt hat eine hohe Dichte an Ferienunterkünften, deren oft ältere Vermieter händeringend nach verlässlicher lokaler Unterstützung für den schnellen Gästewechsel suchen.\n\n**ERSTER SCHRITT:** Erstelle eine einfache Preisliste für die Endreinigung und sprich die auf der offiziellen Tann-Tourismusseite gelisteten FeWo-Betreiber direkt an.",
-      "ts": "2026-11-14 07:28",
-      "age_min": 1
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-flieden",
-      "title": "Senioren-Alltagsdienste — Flieden  ·  Kunden",
+      "agent": "senioren-tann",
+      "title": "Senioren-Alltagsdienste — Tann  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nDer „Fliedener Dorf-Begleitdienst“ bietet älteren Menschen aus den umliegenden Ortsteilen eine würdevolle, individuelle Transport- und Alltagshilfe für Arztbesuche, Besorgungen und soziale Kontakte im Kernort.\n\n**WARUM HIER:** \nDurch die weiten Wege zwischen den verstreuten Ortsteilen wie Magdlos oder Rückers und dem Hauptort ist dieser Dienst essenziell, um Mobilität, Dorfgemeinschaft und Selbstbestimmung im Alter ohne hohe Hürden zu bewahren.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit den lokalen Ortsbeiräten und Kirchengemeinden wird ein Netzwerk ehrenamtlicher Begleitpersonen aufgebaut und eine einfache, telefonische Anrufstelle im Ort eingerichtet.",
-      "ts": "2026-11-14 07:28",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-flieden",
-      "title": "Vulkanregion-Tourismus — Flieden  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Fliedener Alpaka-Trekking & Vogelsberg-Picknick“ kombiniert eine geführte Wanderung mit sanftmütigen Alpakas durch das malerische Fliedetal mit einer entspannten Rast voll regionaler Spezialitäten.\n\n**Für WEN:** Dieses Angebot richtet sich an Paare, Familien und Erholungssuchende, die eine entschleunigende Auszeit in der Natur an der Nahtstelle zwischen Vogelsberg und Rhön genießen möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnisticket direkt online.",
-      "ts": "2026-11-14 07:27",
-      "age_min": 1
+      "text": "**WAS:** \nEin verlässlicher, mobiler Besorgungs- und Begleitdienst liefert schwere Einkäufe direkt an die Haustür und bietet Unterstützung bei Wegen zum Arzt oder Amt, stets verbunden mit Zeit für ein persönliches Gespräch.\n\n**WARUM HIER:** \nIn den weit verstreuten Ortsteilen von Tann fehlen oft Geschäfte vor Ort, während die hügelige Rhön-Landschaft und die Distanzen die eigenständige Mobilität ohne Auto im Alter stark einschränken.\n\n**ERSTER SCHRITT:** \nGinsam mit dem Seniorenbeirat Tann wird eine einfache Bedarfsabfrage in den Ortsteilen durchgeführt, um feste wöchentliche Route-Tage mit lokalen Fahrerinnen und Fahrern zu organisieren.",
+      "ts": "2026-11-14 14:24",
+      "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 5,
+      "count": 2,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-tann",
-          "title": "Vulkanregion-Tourismus — Tann  ·  Chancen",
+          "agent": "handwerk-gersfeld",
+          "title": "Handwerk-Sichtbarkeit — Gersfeld  ·  Chancen",
           "via": "gemini",
-          "text": "**Tanner Dreiburgen-Picknick: E-Bike-Tour & Rhöner Genusskorb**\n\n**WAS:** Sie erkunden die historische Dreiburgenstadt Tann individuell mit dem E-Bike und genießen an einem Aussichtspunkt im Biosphärenreservat ein exklusives Picknick voller regionaler Rhöner Spezialitäten.\n\n**fuer WEN:** Das Paket ist perfekt für naturbegeisterte Paare und Aktivurlauber, die Kulturgeschichte und kulinarische Auszeiten entspannt miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** Wählen Sie einfach Ihren Wunschtermin im Online-Kalender aus und reservieren Sie Ihr E-Bike samt frisch gepacktem Genusskorb direkt online.",
-          "ts": "2026-11-14 07:29",
+          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (Sanitär-Heizung-Klima) in Gersfeld.\n\n**Ansprache-Idee (1 Satz):**\n„Herr [Name], wenn in Gersfeld die Heizung streikt oder jemand auf eine moderne Wärmepumpe umsteigen will, wird zuerst auf dem Handy gesucht – sorgen wir dafür, dass die Leute direkt bei Ihnen im Ort anrufen und der Auftrag nicht an einen Betrieb aus Fulda geht.“",
+          "ts": "2026-11-14 14:25",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-tann",
-          "title": "Direktvermarktung — Tann  ·  Chancen",
+          "agent": "chancen-gersfeld",
+          "title": "Chancen-Scout — Gersfeld  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Eine wöchentliche „Tanner Feierabend-Box“ vollgepackt mit frischem Holzofenbrot, Rhöner Wurst- und Käsespezialitäten sowie saisonalem Hofgemüse, die flexibel an einer zentralen 24/7-Abholstation bereitsteht.\n\n**für WEN:** Für berufstätige Pendler und Familien aus Tann und den umliegenden Rhön-Dörfern, die ohne Einkaufsstress echten, regionalen Geschmack auf dem Abendbrottisch wollen.\n\n**ERSTER SCHRITT:** Drei benachbarte Erzeuger (Bäcker, Metzgerei, Hofladen) an einen Tisch holen und 20 Test-Boxen für ein vierwöchiges Probe-Abo im Bekanntenkreis packen.",
-          "ts": "2026-11-14 07:29",
+          "text": "**WAS:** Ein digital buchbarer Vesper-Lieferservice, der befüllte Wanderrucksäcke mit regionalen Rhön-Produkten direkt an Gersfelder Ferienwohnungen und Wanderparkplätze liefert.\n\n**WARUM HIER:** Gersfeld ist der zentrale Knotenpunkt für Wander- und Radtourismus an der Wasserkuppe mit sehr vielen Selbstversorger-Ferienwohnungen, bietet bisher aber kein flexibles Angebot für die direkte Verpflegung auf den Strecken.\n\n**ERSTER SCHRITT:** Vereinbare Kooperationen mit einer Gersfelder Bäckerei sowie Metzgerei, besorge zehn Rucksäcke und verteile Infoflyer an die 20 größten FeWo-Vermieter im Ort.",
+          "ts": "2026-11-14 14:25",
           "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-tann",
-          "title": "Handwerk-Sichtbarkeit — Tann  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** **Dachdecker-Fachbetrieb** (insbesondere mit Fokus auf Sturmschaden-Notdienst und energetische Dachsanierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn in Tann oder den umliegenden Rhön-Dörfern nach einem Sturmschaden das Dach leckt, suchen die Leute auf dem Handy – lassen Sie uns dafür sorgen, dass sie direkt bei Ihnen im Ort anrufen und die Aufträge nicht an die Konkurrenz aus Fulda verlieren.“",
-          "ts": "2026-11-14 07:29",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-tann",
-          "title": "Chancen-Scout — Tann  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler Betreuungs- und Reinigungsservice speziell für private Ferienwohnungen und Gästezimmer im Raum Tann.\n\n**WARUM HIER:** Die touristisch geprägte Burgstadt hat eine hohe Dichte an Ferienunterkünften, deren oft ältere Vermieter händeringend nach verlässlicher lokaler Unterstützung für den schnellen Gästewechsel suchen.\n\n**ERSTER SCHRITT:** Erstelle eine einfache Preisliste für die Endreinigung und sprich die auf der offiziellen Tann-Tourismusseite gelisteten FeWo-Betreiber direkt an.",
-          "ts": "2026-11-14 07:28",
-          "age_min": 1
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-flieden",
-          "title": "Vulkanregion-Tourismus — Flieden  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Das Erlebnis-Paket „Fliedener Alpaka-Trekking & Vogelsberg-Picknick“ kombiniert eine geführte Wanderung mit sanftmütigen Alpakas durch das malerische Fliedetal mit einer entspannten Rast voll regionaler Spezialitäten.\n\n**Für WEN:** Dieses Angebot richtet sich an Paare, Familien und Erholungssuchende, die eine entschleunigende Auszeit in der Natur an der Nahtstelle zwischen Vogelsberg und Rhön genießen möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnisticket direkt online.",
-          "ts": "2026-11-14 07:27",
-          "age_min": 1
         }
       ]
     },
@@ -116,12 +62,12 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-flieden",
-          "title": "Senioren-Alltagsdienste — Flieden  ·  Kunden",
+          "agent": "senioren-tann",
+          "title": "Senioren-Alltagsdienste — Tann  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nDer „Fliedener Dorf-Begleitdienst“ bietet älteren Menschen aus den umliegenden Ortsteilen eine würdevolle, individuelle Transport- und Alltagshilfe für Arztbesuche, Besorgungen und soziale Kontakte im Kernort.\n\n**WARUM HIER:** \nDurch die weiten Wege zwischen den verstreuten Ortsteilen wie Magdlos oder Rückers und dem Hauptort ist dieser Dienst essenziell, um Mobilität, Dorfgemeinschaft und Selbstbestimmung im Alter ohne hohe Hürden zu bewahren.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit den lokalen Ortsbeiräten und Kirchengemeinden wird ein Netzwerk ehrenamtlicher Begleitpersonen aufgebaut und eine einfache, telefonische Anrufstelle im Ort eingerichtet.",
-          "ts": "2026-11-14 07:28",
-          "age_min": 1
+          "text": "**WAS:** \nEin verlässlicher, mobiler Besorgungs- und Begleitdienst liefert schwere Einkäufe direkt an die Haustür und bietet Unterstützung bei Wegen zum Arzt oder Amt, stets verbunden mit Zeit für ein persönliches Gespräch.\n\n**WARUM HIER:** \nIn den weit verstreuten Ortsteilen von Tann fehlen oft Geschäfte vor Ort, während die hügelige Rhön-Landschaft und die Distanzen die eigenständige Mobilität ohne Auto im Alter stark einschränken.\n\n**ERSTER SCHRITT:** \nGinsam mit dem Seniorenbeirat Tann wird eine einfache Bedarfsabfrage in den Ortsteilen durchgeführt, um feste wöchentliche Route-Tage mit lokalen Fahrerinnen und Fahrern zu organisieren.",
+          "ts": "2026-11-14 14:24",
+          "age_min": 0
         }
       ]
     }
