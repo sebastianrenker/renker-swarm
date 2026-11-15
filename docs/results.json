@@ -1,93 +1,111 @@
 {
-  "updated": "2026-11-15 09:56 UTC",
+  "updated": "2026-11-15 16:45 UTC",
   "total_results": 6,
-  "total_depts": 4,
+  "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "handwerk-lauterbach",
-      "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
+      "agent": "direkt-alsfeld",
+      "title": "Direktvermarktung — Alsfeld  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** Dachdecker- und Zimmererbetrieb in Lauterbach\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Lauterbacher Hausbesitzer auf Google nach Dachsanierungen oder Solaranlagen suchen, landen sie aktuell bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der eigenen Nachbarschaft wieder direkt bei Ihnen ankommen.“",
-      "ts": "2026-11-15 09:56",
+      "text": "**WAS:** \nDie „Vogelsberger Feierabend-Kiste“ ist ein regionales Wochenabo mit frischem Saison-Gemüse, Eiern, Bauernbrot und heimischer Ahler Wurscht, das freitags griffbereit an zentralen Knotenpunkten in Alsfeld zur Abholung bereitsteht.\n\n**für WEN:** \nFür berufstätige Pendler und Familien aus Alsfeld und den umliegenden Dörfern, die nach der Arbeit ohne Supermarkt-Stress ehrlich erzeugte Lebensmittel direkt vom Bauern aus der Heimat auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Betriebe aus der Nachbarschaft (z. B. für Gemüse, Brot und Wurst) an einen Tisch holen und einen gut erreichbaren Parkplatz in Alsfeld für einen vierwöchigen Testlauf als Abholstation vereinbaren.",
+      "ts": "2026-11-15 16:45",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-lauterbach",
-      "title": "Chancen-Scout — Lauterbach  ·  Chancen",
+      "agent": "handwerk-alsfeld",
+      "title": "Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Vor-Ort-Wartungs- und Reparatur-Service für E-Bikes und Fahrräder, der mit einem ausgestatteten Anhänger direkt zu Lauterbacher Firmenparkplätzen und Privathaushalten kommt.\n\n**WARUM HIER:** \nAls Knotenpunkt am Vulkanradweg mit stark steigendem E-Bike-Anteil treffen in Lauterbach völlig überlastete stationäre Werkstätten auf eine hohe Dichte an Berufspendlern und Radtouristen.\n\n**ERSTER SCHRITT:** \nDie größten Lauterbacher Arbeitgeber (z. B. STI Group oder das Krankenhaus Eichhof) kontaktieren und einen wöchentlichen, exklusiven „Fahrrad-Service-Tag“ für deren Mitarbeiter auf dem Firmengelände vereinbaren.",
-      "ts": "2026-11-15 09:56",
+      "text": "**Betriebstyp in Alsfeld:** \nEin **Sanitär- und Heizungsbauer** (mit Fokus auf Wärmepumpen-Umstellung und regionalen Notdienst).\n\n**Ansprache-Idee (1 Satz):**\n*„Wenn Hausbesitzer in Alsfeld und den Ortsteilen online nach einer neuen Heizung suchen oder am Wochenende einen Notdienst brauchen, finden sie aktuell eher die Großkonkurrenz aus Gießen oder Fulda – lassen Sie uns dafür sorgen, dass Ihr Telefon bei diesen lukrativen Aufträgen zuerst klingelt.“*",
+      "ts": "2026-11-15 16:45",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "wachstum-offerta",
-      "title": "Growth — Offerta  ·  Chancen",
+      "agent": "chancen-alsfeld",
+      "title": "Chancen-Scout — Alsfeld  ·  Chancen",
       "via": "gemini",
-      "text": "**IDEE: Der „Vorlagen-Klon“-Button in der digitalen Angebotsansicht**\n\nStatt eines passiven „Erstellt mit Offerta“-Schriftzugs fügst du einen aktiven Call-to-Action in die Fußzeile der Online-Angebotsansicht (Web-PDF) ein:  \n*„Gefällt dir dieses Angebots-Layout? Nutze diese Vorlage kostenlos für deine eigenen Kunden →“*  \nEin Klick führt den Empfänger direkt in den Offerta-Onboarding-Flow, wo das exakt gleiche Layout bereits in seinem neuen, kostenlosen Account hinterlegt ist.\n\n---\n\n**WARUM**\n\n1. **Perfekte B2B-Zielgruppe:** Wer Angebote liest (Unternehmer, Freiberufler, Einkäufer), muss oft selbst Angebote schreiben. Du erreichst deine Zielgruppe im Moment der höchsten Aufmerksamkeit.\n2. **Product-Led Growth pur:** Der Empfänger sieht Offerta nicht als Werbung, sondern erlebt das Produkt live in Aktion.\n3. **Null laufende Kosten & Solo-geeignet:** Du musst kein Marketingbudget verbrennen. Die Reichweite skaliert automatisch mit jedem Angebot, das deine bestehenden Nutzer versenden.\n\n---\n\n**ERSTER SCHRITT**\n\nÄndere den Footer-Text in der Web-Ansicht der Angebote und verlinke ihn auf eine einfache Registrierungsseite mit einem URL-Parameter für das jeweilige Template (z. B. `offerta.io/signup?template=modern-tech`).",
-      "ts": "2026-11-15 09:56",
+      "text": "**WAS:** \nEin lokaler Komplett-Service für die Einrichtung, digitale Vermarktung und Abwicklung von Kurzzeit-Ferienwohnungen in Alsfelder Altstadt-Immobilien.\n\n**WARUM HIER:** \nAlsfeld profitiert von starkem Fachwerk-Tourismus sowie der verkehrsgünstigen A5-Lage, während vielen lokalen Objekteigentümern das digitale Know-how und die Zeit für eine lukrative Airbnb-Vermietung fehlen.\n\n**ERSTER SCHRITT:** \nSpreche gezielt drei Eigentümer von leerstehenden Altstadt-Wohnungen an und biete ihnen die Erstellung des Inserats sowie das Gästemanagement für die ersten Buchungen auf reiner Provisionsbasis an.",
+      "ts": "2026-11-15 16:45",
       "age_min": 0
-    },
-    {
-      "dept": "Finanzen",
-      "agent": "finanzen-check",
-      "title": "Treasurer — Zahlen-Check  ·  Finanzen",
-      "via": "gemini",
-      "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen:\n\n1. **Gewerbeanmeldung und steuerliche Einordnung:** Das Gewerbe muss angemeldet sein und die steuerliche Erfassung beim Finanzamt muss feststehen, damit Sie wissen, ob Sie die Kleinunternehmerregelung (§ 19 UStG) nutzen oder die Umsatzsteuer direkt auf Ihren Rechnungen ausweisen müssen.\n2. **Ehrliche Vollkosten- und Margenkalkulation:** Sie benötigen eine knallharte Preiskalkulation, die neben den reinen Material- und Lohnkosten auch Rücklagen für Gewährleistung, Steuern und Verwaltungsaufwand berücksichtigt, damit Sie nicht vom ersten Verkauf an draufzahlen.\n3. **Rechtssicheres Fundament (Impressum, DSGVO, AGB):** Es müssen ein vollständig korrektes Impressum, eine DSGVO-konforme Datenschutzerklärung und wasserdichte AGB (inklusive klarer Haftungs- und Gewährleistungsregeln) vorliegen, um teure Abmahnungen und Haftungsrisiken sofort zu verhindern.",
-      "ts": "2026-11-15 09:55",
-      "age_min": 1
     },
     {
       "dept": "Kunden",
-      "agent": "kunden-faq",
-      "title": "Support Agent — FAQ-Bausteine  ·  Kunden",
+      "agent": "senioren-lauterbach",
+      "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
       "via": "gemini",
-      "text": "Hier sind 3 kurze, ehrliche FAQ-Paare für **Offerta**:\n\n**1. Ist Offerta wirklich kostenlos?**\nJa. In der Gratis-Version kannst du jeden Monat bis zu 3 Angebote kostenfrei erstellen und als PDF herunterladen. Wenn du mehr Angebote benötigst, dein eigenes Firmenlogo einbinden oder den Offerta-Hinweis entfernen möchtest, kannst du jederzeit auf einen Pro-Tarif wechseln.\n\n**2. Kann ich das Layout an mein Firmen-Design anpassen?**\nIn den kostenpflichtigen Tarifen kannst du dein Logo hochladen, deine Schriftarten und Hausschrift wählen sowie die Farben anpassen. In der Gratis-Version nutzt du eine saubere, neutrale Standard-Vorlage.\n\n**3. Wie kommt das Angebot zu meinen Kunden?**\nDu kannst das fertig erstellte Angebot entweder als PDF herunterladen und selbst per E-Mail verschicken oder direkt einen Link aus Offerta teilen. Über den Link kann dein Kunde das Angebot sofort digital annehmen.",
-      "ts": "2026-11-15 09:55",
-      "age_min": 1
+      "text": "**WAS:**  \nEin mobiler Besorgungs- und Begleitdienst, der Einkäufe des täglichen Bedarfs, Apothekenwege und Zeit für ein persönliches Gespräch direkt an die Haustüren der Lauterbacher Ortsteile bringt.\n\n**WARUM HIER:**  \nDa die Wege aus den umliegenden Dörfern in die Lauterbacher Kernstadt ohne eigenes Auto oft beschwerlich sind, bewahrt dieser nahbare Service die Würde und Selbstständigkeit im vertrauten Zuhause.\n\n**ERSTER SCHRITT:**  \nIn Kooperation mit dem örtlichen Seniorenbeirat wird eine einfache Telefon-Hotline eingerichtet, über die Wünsche wöchentlich unbürokratisch angemeldet werden können.",
+      "ts": "2026-11-15 16:45",
+      "age_min": 0
     },
     {
-      "dept": "Bau",
-      "agent": "bau-landing-copy",
-      "title": "Web Designer — Landing-Texte  ·  Bau",
+      "dept": "Chancen",
+      "agent": "tourismus-lauterbach",
+      "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
       "via": "gemini",
-      "text": "**Headline:**\nSchluss mit unsichtbar: Werden Sie die Nummer 1 im Vogelsberg.\n\n**Subline:**\nWir bringen Ihren Handwerksbetrieb schnell und ohne Aufwand ins Internet, damit Kunden aus der Region direkt bei Ihnen anfragen. Sie konzentrieren sich auf Ihr Handwerk – wir sorgen für volle Auftragsbücher.\n\n**CTA-Button:**\nJetzt regional sichtbar werden",
-      "ts": "2026-11-15 09:55",
-      "age_min": 1
+      "text": "**WAS:** „Die Lauterbacher Strolch-Tour“ kombiniert eine digitale Rätsel-Schatzsuche über die historischen Schrittsteine mit einem gefüllten Picknick-Rucksack voller regionaler Spezialitäten und Strolch-Bier für den Schlosspark Eisenbach.\n\n**FÜR WEN:** Das Paket eignet sich perfekt für Paare, kleine Gruppen und Genusswanderer, die die Sagen- und Brauwelt Lauterbachs spielerisch und im eigenen Tempo entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihr Wunschdatum aus und erhalten Sie direkt nach der Online-Zahlung die Zugangsdaten für die Tour-App sowie den Abhol-Code für Ihren Picknick-Rucksack.",
+      "ts": "2026-11-15 16:45",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-lauterbach",
+      "title": "Direktvermarktung — Lauterbach  ·  Chancen",
+      "via": "gemini",
+      "text": "**Idee: Die „Vogelsberger Feierabend-Kiste“**\n\n**WAS:** Ein wöchentliches Frische-Abo mit saisonalem Gemüse, Eiern, Käse und Wurstwaren von Höfen rund um Lauterbach, verpackt mit einfachen Rezepten für die schnelle Landküche.\n\n**FÜR WEN:** Für berufstätige Familien und Pendler aus der Region, die lokal einkaufen wollen, aber unter der Woche keine Zeit für die Runde durch verschiedene Hofläden haben.\n\n**ERSTER SCHRITT:** Drei bis vier verlässliche Landwirte aus dem Umland an einen Tisch holen und eine vierwöchige Testphase mit 20 festen Abonnenten über einen zentralen Abholort in Lauterbach starten.",
+      "ts": "2026-11-15 16:45",
+      "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 3,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-lauterbach",
-          "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
+          "agent": "direkt-alsfeld",
+          "title": "Direktvermarktung — Alsfeld  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Dachdecker- und Zimmererbetrieb in Lauterbach\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Lauterbacher Hausbesitzer auf Google nach Dachsanierungen oder Solaranlagen suchen, landen sie aktuell bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der eigenen Nachbarschaft wieder direkt bei Ihnen ankommen.“",
-          "ts": "2026-11-15 09:56",
+          "text": "**WAS:** \nDie „Vogelsberger Feierabend-Kiste“ ist ein regionales Wochenabo mit frischem Saison-Gemüse, Eiern, Bauernbrot und heimischer Ahler Wurscht, das freitags griffbereit an zentralen Knotenpunkten in Alsfeld zur Abholung bereitsteht.\n\n**für WEN:** \nFür berufstätige Pendler und Familien aus Alsfeld und den umliegenden Dörfern, die nach der Arbeit ohne Supermarkt-Stress ehrlich erzeugte Lebensmittel direkt vom Bauern aus der Heimat auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Betriebe aus der Nachbarschaft (z. B. für Gemüse, Brot und Wurst) an einen Tisch holen und einen gut erreichbaren Parkplatz in Alsfeld für einen vierwöchigen Testlauf als Abholstation vereinbaren.",
+          "ts": "2026-11-15 16:45",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-lauterbach",
-          "title": "Chancen-Scout — Lauterbach  ·  Chancen",
+          "agent": "handwerk-alsfeld",
+          "title": "Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Vor-Ort-Wartungs- und Reparatur-Service für E-Bikes und Fahrräder, der mit einem ausgestatteten Anhänger direkt zu Lauterbacher Firmenparkplätzen und Privathaushalten kommt.\n\n**WARUM HIER:** \nAls Knotenpunkt am Vulkanradweg mit stark steigendem E-Bike-Anteil treffen in Lauterbach völlig überlastete stationäre Werkstätten auf eine hohe Dichte an Berufspendlern und Radtouristen.\n\n**ERSTER SCHRITT:** \nDie größten Lauterbacher Arbeitgeber (z. B. STI Group oder das Krankenhaus Eichhof) kontaktieren und einen wöchentlichen, exklusiven „Fahrrad-Service-Tag“ für deren Mitarbeiter auf dem Firmengelände vereinbaren.",
-          "ts": "2026-11-15 09:56",
+          "text": "**Betriebstyp in Alsfeld:** \nEin **Sanitär- und Heizungsbauer** (mit Fokus auf Wärmepumpen-Umstellung und regionalen Notdienst).\n\n**Ansprache-Idee (1 Satz):**\n*„Wenn Hausbesitzer in Alsfeld und den Ortsteilen online nach einer neuen Heizung suchen oder am Wochenende einen Notdienst brauchen, finden sie aktuell eher die Großkonkurrenz aus Gießen oder Fulda – lassen Sie uns dafür sorgen, dass Ihr Telefon bei diesen lukrativen Aufträgen zuerst klingelt.“*",
+          "ts": "2026-11-15 16:45",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "wachstum-offerta",
-          "title": "Growth — Offerta  ·  Chancen",
+          "agent": "chancen-alsfeld",
+          "title": "Chancen-Scout — Alsfeld  ·  Chancen",
           "via": "gemini",
-          "text": "**IDEE: Der „Vorlagen-Klon“-Button in der digitalen Angebotsansicht**\n\nStatt eines passiven „Erstellt mit Offerta“-Schriftzugs fügst du einen aktiven Call-to-Action in die Fußzeile der Online-Angebotsansicht (Web-PDF) ein:  \n*„Gefällt dir dieses Angebots-Layout? Nutze diese Vorlage kostenlos für deine eigenen Kunden →“*  \nEin Klick führt den Empfänger direkt in den Offerta-Onboarding-Flow, wo das exakt gleiche Layout bereits in seinem neuen, kostenlosen Account hinterlegt ist.\n\n---\n\n**WARUM**\n\n1. **Perfekte B2B-Zielgruppe:** Wer Angebote liest (Unternehmer, Freiberufler, Einkäufer), muss oft selbst Angebote schreiben. Du erreichst deine Zielgruppe im Moment der höchsten Aufmerksamkeit.\n2. **Product-Led Growth pur:** Der Empfänger sieht Offerta nicht als Werbung, sondern erlebt das Produkt live in Aktion.\n3. **Null laufende Kosten & Solo-geeignet:** Du musst kein Marketingbudget verbrennen. Die Reichweite skaliert automatisch mit jedem Angebot, das deine bestehenden Nutzer versenden.\n\n---\n\n**ERSTER SCHRITT**\n\nÄndere den Footer-Text in der Web-Ansicht der Angebote und verlinke ihn auf eine einfache Registrierungsseite mit einem URL-Parameter für das jeweilige Template (z. B. `offerta.io/signup?template=modern-tech`).",
-          "ts": "2026-11-15 09:56",
+          "text": "**WAS:** \nEin lokaler Komplett-Service für die Einrichtung, digitale Vermarktung und Abwicklung von Kurzzeit-Ferienwohnungen in Alsfelder Altstadt-Immobilien.\n\n**WARUM HIER:** \nAlsfeld profitiert von starkem Fachwerk-Tourismus sowie der verkehrsgünstigen A5-Lage, während vielen lokalen Objekteigentümern das digitale Know-how und die Zeit für eine lukrative Airbnb-Vermietung fehlen.\n\n**ERSTER SCHRITT:** \nSpreche gezielt drei Eigentümer von leerstehenden Altstadt-Wohnungen an und biete ihnen die Erstellung des Inserats sowie das Gästemanagement für die ersten Buchungen auf reiner Provisionsbasis an.",
+          "ts": "2026-11-15 16:45",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-lauterbach",
+          "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** „Die Lauterbacher Strolch-Tour“ kombiniert eine digitale Rätsel-Schatzsuche über die historischen Schrittsteine mit einem gefüllten Picknick-Rucksack voller regionaler Spezialitäten und Strolch-Bier für den Schlosspark Eisenbach.\n\n**FÜR WEN:** Das Paket eignet sich perfekt für Paare, kleine Gruppen und Genusswanderer, die die Sagen- und Brauwelt Lauterbachs spielerisch und im eigenen Tempo entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihr Wunschdatum aus und erhalten Sie direkt nach der Online-Zahlung die Zugangsdaten für die Tour-App sowie den Abhol-Code für Ihren Picknick-Rucksack.",
+          "ts": "2026-11-15 16:45",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-lauterbach",
+          "title": "Direktvermarktung — Lauterbach  ·  Chancen",
+          "via": "gemini",
+          "text": "**Idee: Die „Vogelsberger Feierabend-Kiste“**\n\n**WAS:** Ein wöchentliches Frische-Abo mit saisonalem Gemüse, Eiern, Käse und Wurstwaren von Höfen rund um Lauterbach, verpackt mit einfachen Rezepten für die schnelle Landküche.\n\n**FÜR WEN:** Für berufstätige Familien und Pendler aus der Region, die lokal einkaufen wollen, aber unter der Woche keine Zeit für die Runde durch verschiedene Hofläden haben.\n\n**ERSTER SCHRITT:** Drei bis vier verlässliche Landwirte aus dem Umland an einen Tisch holen und eine vierwöchige Testphase mit 20 festen Abonnenten über einen zentralen Abholort in Lauterbach starten.",
+          "ts": "2026-11-15 16:45",
           "age_min": 0
         }
       ]
@@ -98,42 +116,12 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "kunden-faq",
-          "title": "Support Agent — FAQ-Bausteine  ·  Kunden",
+          "agent": "senioren-lauterbach",
+          "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
           "via": "gemini",
-          "text": "Hier sind 3 kurze, ehrliche FAQ-Paare für **Offerta**:\n\n**1. Ist Offerta wirklich kostenlos?**\nJa. In der Gratis-Version kannst du jeden Monat bis zu 3 Angebote kostenfrei erstellen und als PDF herunterladen. Wenn du mehr Angebote benötigst, dein eigenes Firmenlogo einbinden oder den Offerta-Hinweis entfernen möchtest, kannst du jederzeit auf einen Pro-Tarif wechseln.\n\n**2. Kann ich das Layout an mein Firmen-Design anpassen?**\nIn den kostenpflichtigen Tarifen kannst du dein Logo hochladen, deine Schriftarten und Hausschrift wählen sowie die Farben anpassen. In der Gratis-Version nutzt du eine saubere, neutrale Standard-Vorlage.\n\n**3. Wie kommt das Angebot zu meinen Kunden?**\nDu kannst das fertig erstellte Angebot entweder als PDF herunterladen und selbst per E-Mail verschicken oder direkt einen Link aus Offerta teilen. Über den Link kann dein Kunde das Angebot sofort digital annehmen.",
-          "ts": "2026-11-15 09:55",
-          "age_min": 1
-        }
-      ]
-    },
-    {
-      "id": "Bau",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Bau",
-          "agent": "bau-landing-copy",
-          "title": "Web Designer — Landing-Texte  ·  Bau",
-          "via": "gemini",
-          "text": "**Headline:**\nSchluss mit unsichtbar: Werden Sie die Nummer 1 im Vogelsberg.\n\n**Subline:**\nWir bringen Ihren Handwerksbetrieb schnell und ohne Aufwand ins Internet, damit Kunden aus der Region direkt bei Ihnen anfragen. Sie konzentrieren sich auf Ihr Handwerk – wir sorgen für volle Auftragsbücher.\n\n**CTA-Button:**\nJetzt regional sichtbar werden",
-          "ts": "2026-11-15 09:55",
-          "age_min": 1
-        }
-      ]
-    },
-    {
-      "id": "Finanzen",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Finanzen",
-          "agent": "finanzen-check",
-          "title": "Treasurer — Zahlen-Check  ·  Finanzen",
-          "via": "gemini",
-          "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen:\n\n1. **Gewerbeanmeldung und steuerliche Einordnung:** Das Gewerbe muss angemeldet sein und die steuerliche Erfassung beim Finanzamt muss feststehen, damit Sie wissen, ob Sie die Kleinunternehmerregelung (§ 19 UStG) nutzen oder die Umsatzsteuer direkt auf Ihren Rechnungen ausweisen müssen.\n2. **Ehrliche Vollkosten- und Margenkalkulation:** Sie benötigen eine knallharte Preiskalkulation, die neben den reinen Material- und Lohnkosten auch Rücklagen für Gewährleistung, Steuern und Verwaltungsaufwand berücksichtigt, damit Sie nicht vom ersten Verkauf an draufzahlen.\n3. **Rechtssicheres Fundament (Impressum, DSGVO, AGB):** Es müssen ein vollständig korrektes Impressum, eine DSGVO-konforme Datenschutzerklärung und wasserdichte AGB (inklusive klarer Haftungs- und Gewährleistungsregeln) vorliegen, um teure Abmahnungen und Haftungsrisiken sofort zu verhindern.",
-          "ts": "2026-11-15 09:55",
-          "age_min": 1
+          "text": "**WAS:**  \nEin mobiler Besorgungs- und Begleitdienst, der Einkäufe des täglichen Bedarfs, Apothekenwege und Zeit für ein persönliches Gespräch direkt an die Haustüren der Lauterbacher Ortsteile bringt.\n\n**WARUM HIER:**  \nDa die Wege aus den umliegenden Dörfern in die Lauterbacher Kernstadt ohne eigenes Auto oft beschwerlich sind, bewahrt dieser nahbare Service die Würde und Selbstständigkeit im vertrauten Zuhause.\n\n**ERSTER SCHRITT:**  \nIn Kooperation mit dem örtlichen Seniorenbeirat wird eine einfache Telefon-Hotline eingerichtet, über die Wünsche wöchentlich unbürokratisch angemeldet werden können.",
+          "ts": "2026-11-15 16:45",
+          "age_min": 0
         }
       ]
     }
