@@ -1,111 +1,123 @@
 {
-  "updated": "2026-11-14 23:13 UTC",
+  "updated": "2026-11-15 02:41 UTC",
   "total_results": 6,
-  "total_depts": 2,
+  "total_depts": 4,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-hilders",
-      "title": "Direktvermarktung — Hilders  ·  Chancen",
+      "dept": "Recherche",
+      "agent": "recherche-wettbewerb",
+      "title": "Researcher — Wettbewerb & Preise  ·  Recherche",
       "via": "gemini",
-      "text": "**Idee: Die Hilderser „Rhöner Vesper-Kiste“**\n\n* **WAS:** Eine wöchentliche Abo-Box zur Abholung in Hilders, vollgepackt mit frischem Holzofenbrot, Rhöner Hausmacher Wurst, Kümmelkäse und regionalem Saison-Gemüse.\n* **fuer WEN:** Für beschäftigte Familien aus dem Ulstertal und Stamm-Urlauber, die ehrliche Lebensmittel direkt vom Erzeuger ohne Supermarkt-Umweg suchen.\n* **ERSTER SCHRITT:** Mit zwei Erzeuger-Kollegen aus der Nachbarschaft das Angebot abstimmen und einen Testlauf für 15 Haushalte über eine einfache WhatsApp-Bestellgruppe starten.",
-      "ts": "2026-11-14 23:13",
+      "text": "Als Markt-Researcher skizziere ich das Preisgefüge auf Basis aktueller Agentur-Durchschnittswerte im DACH-Raum für das lokale Handwerk (Stand 2023/2024). \n\n*Hinweis zur Datenbasis:* Einmalzahlungen für das Setup kombiniert mit einer monatlichen Pauschale (Hosting, Pflege, SEO) entsprechen dem Marktstandard, um ständige Aktualität zu gewährleisten.\n\n---\n\n### Paket 1: „Basis-Sichtbarkeit“ (Digitale Visitenkarte)\n* **Zielgruppe:** Einzelunternehmer, Nebenerwerbs-Handwerker, Betriebe ohne Expansionsdruck.\n* **Leistung:** Onepager/Basis-Website, Grundeinrichtung Google Unternehmensprofil, einfaches Kontaktformular.\n* **Preisspanne:** **1.200 € – 1.900 € einmalig** (+ 49 € – 99 € / Monat für Hosting & Wartung).\n* **Begründung (1 Satz):** Dieses Paket bedient das Mindestbedürfnis nach lokaler Auffindbarkeit bei geringem finanziellen Risiko für Betriebe, die primär über Mundpropaganda arbeiten.\n* **[Annahme]:** Der Handwerker liefert Texte und Bildmaterial weitgehend selbst an; die lokale Konkurrenz im Umfeld ist gering.\n\n---\n\n### Paket 2: „Anfragen-Booster“ (Standard-Gewinnung)\n* **Zielgruppe:** Etablierte Handwerksbetriebe (3–15 Mitarbeiter) mit Wunsch nach planbaren Kundenanfragen.\n* **Leistung:** Mehrseitige Website, optimiertes Google-Profil inklusive Bewertungen-Systematik, interaktiver Anfragen-Konfigurator (Lead-Qualifizierung).\n* **Preisspanne:** **2.500 € – 4.500 € einmalig** (+ 150 € – 300 € / Monat für lokales SEO & Content-Pflege).\n* **Begründung (1 Satz):** Der Fokus liegt auf der Vorqualifizierung von Kundenanfragen, um dem Handwerker unpassende Angebote und Zeitfresser im Büroalltag zu ersparen.\n* **[Annahme]:** Der Handwerker ist bereit, laufende Monatskosten zu tragen, da der ROI durch 1–2 gewonnene Zusatzaufträge pro Jahr gedeckt ist.\n\n---\n\n### Paket 3: „Marktführer & Recruiting“ (Komplettlösung)\n* **Zielgruppe:** Wachsende Betriebe (> 15 Mitarbeiter) mit starkem Fachkräftemangel und regionalem Expansionsanspruch.\n* **Leistung:** Individuelle Website, fortlaufende Google-Optimierung, automatisierter Funnel für Kundenanfragen UND Mitarbeitergewinnung, aktives Bewertungsmanagement.\n* **Preisspanne:** **5.000 € – 8.500 € einmalig** (+ 450 € – 800 € / Monat für fortlaufendes Marketing & Kampagnen).\n* **Begründung (1 Satz):** In dieser Stufe wird die digitale Sichtbarkeit primär eingesetzt, um die Arbeitgebermarke zu stärken und dem Hauptengpass des Handwerks – dem Personalmangel – entgegenzuwirken.\n* **[Annahme]:** Der Betrieb hat das Budget und die Kapazitäten, um sowohl neue Großaufträge als auch neue Mitarbeiter sofort administrativ einzubinden.\n\n---\n\n### Fakt vs. Vermutung (Disclaimer)\n* **Fakt:** Reine Websites ohne optimiertes Google-Unternehmensprofil führen im lokalen Handwerk nachweislich zu signifikant weniger Erstanfragen (Local SEO ist der Haupttreiber für Handwerker-Suchanfragen).\n* **Vermutung / Unsicherheit:** Die genaue Zahlbereitschaft variiert stark nach Region (Landkreis vs. Metropolregion) und Gewerk (z. B. Dachdecker mit hohen Auftragssummen zahlen eher höhere Preise als ein Ausbesserungsservice).",
+      "ts": "2026-11-15 02:41",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-hilders",
-      "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
+      "agent": "chancen-fulda",
+      "title": "Opportunity Finder — Fulda  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nSanitär- und Heizungsbau-Betrieb (z. B. spezialisiert auf Wärmepumpen oder Badrenovierungen)\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Eigenheimbesitzer in Hilders und Umgebung online nach einer neuen Heizung suchen, landen sie aktuell direkt bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge wieder bei Ihnen im Ort bleiben.“",
-      "ts": "2026-11-14 23:13",
+      "text": "**WAS:** \nEin „KI- & Automatisierungs-Sprint-Service“, der Informatik-Studierende der Hochschule Fulda für tageweise Mikro-Projekte zur Prozessoptimierung an den lokalen Mittelstand und Logistikbetriebe vermittelt.\n\n**WARUM HIER:** \nFulda bietet durch die Kombination aus einer praxisorientierten Hochschule mit starken IT-Fachbereichen und einer dichten, oft noch analog arbeitenden Mittelstands- und Logistiklandschaft am A7-Knotenpunkt den perfekten Nährboden für dieses B2B-Matchmaking.\n\n**ERSTER SCHRITT diese Woche:** \nDrei Logistik- oder Handwerksbetriebe im Gewerbegebiet Fulda-West anrufen, nach deren zeitintensivstem manuellen Datenprozess fragen und parallel über die Fachschaft AI der HS Fulda zwei geeignete Studierende für ein erstes Test-Projekt sichern.",
+      "ts": "2026-11-15 02:40",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-hilders",
-      "title": "Chancen-Scout — Hilders  ·  Chancen",
+      "agent": "chancen-vogelsberg",
+      "title": "Opportunity Finder — Vogelsberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Lieferservice für regional bestückte „Rhön-Vesper-Rucksäcke“ direkt an Ferienunterkünfte oder Wander-Startpunkte in und um Hilders.\n\n**WARUM HIER:** \nHilders hat als stark frequentierter Luftkurort am Hochrhöner eine hohe Dichte an Selbstversorger-Ferienwohnungen und Wanderern, leidet aber unter lückenhaften Gastronomie-Öffnungszeiten in den Randzeiten.\n\n**ERSTER SCHRITT:** \nMit je einer lokalen Bäckerei und Metzgerei in Hilders Sonderkonditionen für Rhöner Produkte vereinbaren und die Dienstleistung testweise über ein einfaches WhatsApp-Bestellformular lokalen Vermietern anbieten.",
-      "ts": "2026-11-14 23:13",
+      "text": "**WAS:** \nEin „Regio-Kühlschrank-Service“, der Ferienunterkünfte im Vogelsberg vor der Ankunft von Urlaubern kostenpflichtig mit frischen Lebensmittel-Paketen aus regionalen Hofläden bestückt.\n\n**WARUM HIER:** \nDer Vogelsberg profitiert vom Vulkan-Tourismus, leidet aber unter dünner Nahversorgung vor Ort – Urlauber stehen nach der Anreise oft vor verschlossenen Ladentüren, während Direktvermarkter kaufkräftige Kundschaft suchen.\n\n**ERSTER SCHRITT diese Woche:** \nDrei lokale Ferienhaus-Vermieter kontaktieren, die Idee vorstellen und vereinbaren, den Service versuchsweise als kostenlose Zusatz-Option in ihre Buchungs-Bestätigungen aufzunehmen.",
+      "ts": "2026-11-15 02:40",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "kommando-digest",
+      "title": "Chief of Staff — Tages-Digest  ·  Kommando",
+      "via": "gemini",
+      "text": "Tages-Fokus Commander. 3 Hebel für heute:\n\n* **Offerta:** Die 3 größten offenen Angebote telefonisch nachfassen und heute eine finale Zu- oder Absage einholen.\n* **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe im Raum Fulda direkt anrufen und 2 Termine für diese Woche sichern.\n* **Vogelsberg-Chancen:** Das Partner-Pitchdeck an die zwei Kern-Stakeholder im Landkreis versenden und Eingangsbestätigung einfordern.",
+      "ts": "2026-11-15 02:40",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-gersfeld",
-      "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+      "agent": "senioren-hilders",
+      "title": "Senioren-Alltagsdienste — Hilders  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS**\nEin mobiler Dorfdienst, der Seniorinnen und Senioren aus den entlegenen Ortsteilen verlässlich für Arztbesuche und Einkäufe ins Gersfelder Zentrum fährt sowie benötigte Medikamente direkt nach Hause bringt.\n\n**WARUM HIER**\nDie städtische Infrastruktur konzentriert sich auf den Kernort, während in den steilen, witterungsanfälligen Rhön-Dörfern rund um Gersfeld die eigenständige Mobilität im Alter ohne eigenes Auto kaum möglich ist.\n\n**ERSTER SCHRITT**\nGemeinsam mit dem Seniorenbeirat Gersfeld wird eine zentrale Telefonnummer für Fahrtwünsche eingerichtet und mit ortskundigen, ehrenamtlichen Fahrerinnen und Fahrern vernetzt.",
-      "ts": "2026-11-14 23:13",
+      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Besorgungsdienst, der ältere Menschen auf Wunsch zu Einkäufen, Ärztinnen oder Apotheken im Ortskern begleitet oder ihnen Besorgungen direkt an die Haustür bringt.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Hilders machen steile Wege, das raue Rhön-Wetter und ein lückenhafter Nahverkehr den Alltag ohne eigenes Auto zu einer großen Hürde für den Erhalt der Selbstständigkeit.\n\n**ERSTER SCHRITT:** Ein Abstimmungsgespräch mit der Gemeinde Hilders und den Ortsvorstehern führen, um Bedarfe bündeln und lokale Begleit-Paten aus den jeweiligen Ortsteilen gewinnen zu können.",
+      "ts": "2026-11-15 02:40",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-gersfeld",
-      "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+      "agent": "tourismus-hilders",
+      "title": "Vulkanregion-Tourismus — Hilders  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Erlebe eine entschleunigende Halbtages-Wanderung mit Rhönschafen durch die Gersfelder Bergwelt, gekrönt von einem regionalen Bio-Picknick auf einer Panoramawiese.\n\n**FÜR WEN:** Perfekt für naturliebende Paare, Familien und Genusswanderer, die die Rhön entspannt und mit allen Sinnen entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin online aus, sichere dir dein Ticket und starte deine Tour direkt am Treffpunkt in Gersfeld.",
-      "ts": "2026-11-14 23:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-gersfeld",
-      "title": "Direktvermarktung — Gersfeld  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nDie „Gersfelder Rhön-Vesper-Box“ ist ein handfestes Wochen-Abo mit frischem Holzofenbrot, Hausmacher Wurst, Rhön-Käse und Saison-Gemüse direkt von den Höfen der Umgebung.\n\n**für WEN:** \nFür beschäftigte Familien aus dem Gersfelder Land und Ferienhaus-Gäste, die ohne Umwege ehrliche, regionale Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (Bäcker, Hofmetzger, Gemüsebauer) an einen Tisch holen und 20 Test-Kisten für ein erstes Probier-Wochenende packen.",
-      "ts": "2026-11-14 23:12",
+      "text": "**WAS:** „Picknick unterm Sternenzelt“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit Himmelsbeobachtung im Sternenpark Rhön und einem Korb voller regionaler Spezialitäten.\n\n**FÜR WEN:** Dieses Angebot richtet sich an Paare, Romantiker und Naturbegeisterte, die den faszinierenden Sternenhimmel der Rhön stressfrei und kulinarisch begleitet erleben möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus und sichere dir dein digitales Ticket mit direkt integriertem Picknick-Gutschein.",
+      "ts": "2026-11-15 02:40",
       "age_min": 0
     }
   ],
   "departments": [
     {
+      "id": "Kommando",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kommando",
+          "agent": "kommando-digest",
+          "title": "Chief of Staff — Tages-Digest  ·  Kommando",
+          "via": "gemini",
+          "text": "Tages-Fokus Commander. 3 Hebel für heute:\n\n* **Offerta:** Die 3 größten offenen Angebote telefonisch nachfassen und heute eine finale Zu- oder Absage einholen.\n* **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe im Raum Fulda direkt anrufen und 2 Termine für diese Woche sichern.\n* **Vogelsberg-Chancen:** Das Partner-Pitchdeck an die zwei Kern-Stakeholder im Landkreis versenden und Eingangsbestätigung einfordern.",
+          "ts": "2026-11-15 02:40",
+          "age_min": 0
+        }
+      ]
+    },
+    {
       "id": "Chancen",
-      "count": 5,
+      "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "direkt-hilders",
-          "title": "Direktvermarktung — Hilders  ·  Chancen",
+          "agent": "chancen-fulda",
+          "title": "Opportunity Finder — Fulda  ·  Chancen",
           "via": "gemini",
-          "text": "**Idee: Die Hilderser „Rhöner Vesper-Kiste“**\n\n* **WAS:** Eine wöchentliche Abo-Box zur Abholung in Hilders, vollgepackt mit frischem Holzofenbrot, Rhöner Hausmacher Wurst, Kümmelkäse und regionalem Saison-Gemüse.\n* **fuer WEN:** Für beschäftigte Familien aus dem Ulstertal und Stamm-Urlauber, die ehrliche Lebensmittel direkt vom Erzeuger ohne Supermarkt-Umweg suchen.\n* **ERSTER SCHRITT:** Mit zwei Erzeuger-Kollegen aus der Nachbarschaft das Angebot abstimmen und einen Testlauf für 15 Haushalte über eine einfache WhatsApp-Bestellgruppe starten.",
-          "ts": "2026-11-14 23:13",
+          "text": "**WAS:** \nEin „KI- & Automatisierungs-Sprint-Service“, der Informatik-Studierende der Hochschule Fulda für tageweise Mikro-Projekte zur Prozessoptimierung an den lokalen Mittelstand und Logistikbetriebe vermittelt.\n\n**WARUM HIER:** \nFulda bietet durch die Kombination aus einer praxisorientierten Hochschule mit starken IT-Fachbereichen und einer dichten, oft noch analog arbeitenden Mittelstands- und Logistiklandschaft am A7-Knotenpunkt den perfekten Nährboden für dieses B2B-Matchmaking.\n\n**ERSTER SCHRITT diese Woche:** \nDrei Logistik- oder Handwerksbetriebe im Gewerbegebiet Fulda-West anrufen, nach deren zeitintensivstem manuellen Datenprozess fragen und parallel über die Fachschaft AI der HS Fulda zwei geeignete Studierende für ein erstes Test-Projekt sichern.",
+          "ts": "2026-11-15 02:40",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-hilders",
-          "title": "Handwerk-Sichtbarkeit — Hilders  ·  Chancen",
+          "agent": "chancen-vogelsberg",
+          "title": "Opportunity Finder — Vogelsberg  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nSanitär- und Heizungsbau-Betrieb (z. B. spezialisiert auf Wärmepumpen oder Badrenovierungen)\n\n**Ansprache-Idee (1 Satz):**\n„Hallo Herr [Name], wenn Eigenheimbesitzer in Hilders und Umgebung online nach einer neuen Heizung suchen, landen sie aktuell direkt bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge wieder bei Ihnen im Ort bleiben.“",
-          "ts": "2026-11-14 23:13",
+          "text": "**WAS:** \nEin „Regio-Kühlschrank-Service“, der Ferienunterkünfte im Vogelsberg vor der Ankunft von Urlaubern kostenpflichtig mit frischen Lebensmittel-Paketen aus regionalen Hofläden bestückt.\n\n**WARUM HIER:** \nDer Vogelsberg profitiert vom Vulkan-Tourismus, leidet aber unter dünner Nahversorgung vor Ort – Urlauber stehen nach der Anreise oft vor verschlossenen Ladentüren, während Direktvermarkter kaufkräftige Kundschaft suchen.\n\n**ERSTER SCHRITT diese Woche:** \nDrei lokale Ferienhaus-Vermieter kontaktieren, die Idee vorstellen und vereinbaren, den Service versuchsweise als kostenlose Zusatz-Option in ihre Buchungs-Bestätigungen aufzunehmen.",
+          "ts": "2026-11-15 02:40",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-hilders",
-          "title": "Chancen-Scout — Hilders  ·  Chancen",
+          "agent": "tourismus-hilders",
+          "title": "Vulkanregion-Tourismus — Hilders  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Lieferservice für regional bestückte „Rhön-Vesper-Rucksäcke“ direkt an Ferienunterkünfte oder Wander-Startpunkte in und um Hilders.\n\n**WARUM HIER:** \nHilders hat als stark frequentierter Luftkurort am Hochrhöner eine hohe Dichte an Selbstversorger-Ferienwohnungen und Wanderern, leidet aber unter lückenhaften Gastronomie-Öffnungszeiten in den Randzeiten.\n\n**ERSTER SCHRITT:** \nMit je einer lokalen Bäckerei und Metzgerei in Hilders Sonderkonditionen für Rhöner Produkte vereinbaren und die Dienstleistung testweise über ein einfaches WhatsApp-Bestellformular lokalen Vermietern anbieten.",
-          "ts": "2026-11-14 23:13",
+          "text": "**WAS:** „Picknick unterm Sternenzelt“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit Himmelsbeobachtung im Sternenpark Rhön und einem Korb voller regionaler Spezialitäten.\n\n**FÜR WEN:** Dieses Angebot richtet sich an Paare, Romantiker und Naturbegeisterte, die den faszinierenden Sternenhimmel der Rhön stressfrei und kulinarisch begleitet erleben möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus und sichere dir dein digitales Ticket mit direkt integriertem Picknick-Gutschein.",
+          "ts": "2026-11-15 02:40",
           "age_min": 0
-        },
+        }
+      ]
+    },
+    {
+      "id": "Recherche",
+      "count": 1,
+      "items": [
         {
-          "dept": "Chancen",
-          "agent": "tourismus-gersfeld",
-          "title": "Vulkanregion-Tourismus — Gersfeld  ·  Chancen",
+          "dept": "Recherche",
+          "agent": "recherche-wettbewerb",
+          "title": "Researcher — Wettbewerb & Preise  ·  Recherche",
           "via": "gemini",
-          "text": "**WAS:** Erlebe eine entschleunigende Halbtages-Wanderung mit Rhönschafen durch die Gersfelder Bergwelt, gekrönt von einem regionalen Bio-Picknick auf einer Panoramawiese.\n\n**FÜR WEN:** Perfekt für naturliebende Paare, Familien und Genusswanderer, die die Rhön entspannt und mit allen Sinnen entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin online aus, sichere dir dein Ticket und starte deine Tour direkt am Treffpunkt in Gersfeld.",
-          "ts": "2026-11-14 23:13",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-gersfeld",
-          "title": "Direktvermarktung — Gersfeld  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nDie „Gersfelder Rhön-Vesper-Box“ ist ein handfestes Wochen-Abo mit frischem Holzofenbrot, Hausmacher Wurst, Rhön-Käse und Saison-Gemüse direkt von den Höfen der Umgebung.\n\n**für WEN:** \nFür beschäftigte Familien aus dem Gersfelder Land und Ferienhaus-Gäste, die ohne Umwege ehrliche, regionale Lebensmittel auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (Bäcker, Hofmetzger, Gemüsebauer) an einen Tisch holen und 20 Test-Kisten für ein erstes Probier-Wochenende packen.",
-          "ts": "2026-11-14 23:12",
+          "text": "Als Markt-Researcher skizziere ich das Preisgefüge auf Basis aktueller Agentur-Durchschnittswerte im DACH-Raum für das lokale Handwerk (Stand 2023/2024). \n\n*Hinweis zur Datenbasis:* Einmalzahlungen für das Setup kombiniert mit einer monatlichen Pauschale (Hosting, Pflege, SEO) entsprechen dem Marktstandard, um ständige Aktualität zu gewährleisten.\n\n---\n\n### Paket 1: „Basis-Sichtbarkeit“ (Digitale Visitenkarte)\n* **Zielgruppe:** Einzelunternehmer, Nebenerwerbs-Handwerker, Betriebe ohne Expansionsdruck.\n* **Leistung:** Onepager/Basis-Website, Grundeinrichtung Google Unternehmensprofil, einfaches Kontaktformular.\n* **Preisspanne:** **1.200 € – 1.900 € einmalig** (+ 49 € – 99 € / Monat für Hosting & Wartung).\n* **Begründung (1 Satz):** Dieses Paket bedient das Mindestbedürfnis nach lokaler Auffindbarkeit bei geringem finanziellen Risiko für Betriebe, die primär über Mundpropaganda arbeiten.\n* **[Annahme]:** Der Handwerker liefert Texte und Bildmaterial weitgehend selbst an; die lokale Konkurrenz im Umfeld ist gering.\n\n---\n\n### Paket 2: „Anfragen-Booster“ (Standard-Gewinnung)\n* **Zielgruppe:** Etablierte Handwerksbetriebe (3–15 Mitarbeiter) mit Wunsch nach planbaren Kundenanfragen.\n* **Leistung:** Mehrseitige Website, optimiertes Google-Profil inklusive Bewertungen-Systematik, interaktiver Anfragen-Konfigurator (Lead-Qualifizierung).\n* **Preisspanne:** **2.500 € – 4.500 € einmalig** (+ 150 € – 300 € / Monat für lokales SEO & Content-Pflege).\n* **Begründung (1 Satz):** Der Fokus liegt auf der Vorqualifizierung von Kundenanfragen, um dem Handwerker unpassende Angebote und Zeitfresser im Büroalltag zu ersparen.\n* **[Annahme]:** Der Handwerker ist bereit, laufende Monatskosten zu tragen, da der ROI durch 1–2 gewonnene Zusatzaufträge pro Jahr gedeckt ist.\n\n---\n\n### Paket 3: „Marktführer & Recruiting“ (Komplettlösung)\n* **Zielgruppe:** Wachsende Betriebe (> 15 Mitarbeiter) mit starkem Fachkräftemangel und regionalem Expansionsanspruch.\n* **Leistung:** Individuelle Website, fortlaufende Google-Optimierung, automatisierter Funnel für Kundenanfragen UND Mitarbeitergewinnung, aktives Bewertungsmanagement.\n* **Preisspanne:** **5.000 € – 8.500 € einmalig** (+ 450 € – 800 € / Monat für fortlaufendes Marketing & Kampagnen).\n* **Begründung (1 Satz):** In dieser Stufe wird die digitale Sichtbarkeit primär eingesetzt, um die Arbeitgebermarke zu stärken und dem Hauptengpass des Handwerks – dem Personalmangel – entgegenzuwirken.\n* **[Annahme]:** Der Betrieb hat das Budget und die Kapazitäten, um sowohl neue Großaufträge als auch neue Mitarbeiter sofort administrativ einzubinden.\n\n---\n\n### Fakt vs. Vermutung (Disclaimer)\n* **Fakt:** Reine Websites ohne optimiertes Google-Unternehmensprofil führen im lokalen Handwerk nachweislich zu signifikant weniger Erstanfragen (Local SEO ist der Haupttreiber für Handwerker-Suchanfragen).\n* **Vermutung / Unsicherheit:** Die genaue Zahlbereitschaft variiert stark nach Region (Landkreis vs. Metropolregion) und Gewerk (z. B. Dachdecker mit hohen Auftragssummen zahlen eher höhere Preise als ein Ausbesserungsservice).",
+          "ts": "2026-11-15 02:41",
           "age_min": 0
         }
       ]
@@ -116,11 +128,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-gersfeld",
-          "title": "Senioren-Alltagsdienste — Gersfeld  ·  Kunden",
+          "agent": "senioren-hilders",
+          "title": "Senioren-Alltagsdienste — Hilders  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS**\nEin mobiler Dorfdienst, der Seniorinnen und Senioren aus den entlegenen Ortsteilen verlässlich für Arztbesuche und Einkäufe ins Gersfelder Zentrum fährt sowie benötigte Medikamente direkt nach Hause bringt.\n\n**WARUM HIER**\nDie städtische Infrastruktur konzentriert sich auf den Kernort, während in den steilen, witterungsanfälligen Rhön-Dörfern rund um Gersfeld die eigenständige Mobilität im Alter ohne eigenes Auto kaum möglich ist.\n\n**ERSTER SCHRITT**\nGemeinsam mit dem Seniorenbeirat Gersfeld wird eine zentrale Telefonnummer für Fahrtwünsche eingerichtet und mit ortskundigen, ehrenamtlichen Fahrerinnen und Fahrern vernetzt.",
-          "ts": "2026-11-14 23:13",
+          "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Besorgungsdienst, der ältere Menschen auf Wunsch zu Einkäufen, Ärztinnen oder Apotheken im Ortskern begleitet oder ihnen Besorgungen direkt an die Haustür bringt.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Hilders machen steile Wege, das raue Rhön-Wetter und ein lückenhafter Nahverkehr den Alltag ohne eigenes Auto zu einer großen Hürde für den Erhalt der Selbstständigkeit.\n\n**ERSTER SCHRITT:** Ein Abstimmungsgespräch mit der Gemeinde Hilders und den Ortsvorstehern führen, um Bedarfe bündeln und lokale Begleit-Paten aus den jeweiligen Ortsteilen gewinnen zu können.",
+          "ts": "2026-11-15 02:40",
           "age_min": 0
         }
       ]

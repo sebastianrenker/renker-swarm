@@ -1,26 +1,34 @@
 {
-  "updated": "2026-11-14T23:13Z",
+  "updated": "2026-11-15T02:41Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Tages-Fokus Commander. 3 Hebel für heute: * **Offerta:** Die 3 größten offenen Angebote telefonisch nachfassen und heute eine finale Zu- oder Absage einholen. * **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe im Raum Fulda direkt anrufen und 2 Termine für diese Woche sichern. * **Vogelsberg-Chancen:** Das Partner-Pitchdeck an die zwei Kern-Stakehold",
+        "age_min": 0
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Idee: Die Hilderser „Rhöner Vesper-Kiste“** * **WAS:** Eine wöchentliche Abo-Box zur Abholung in Hilders, vollgepackt mit frischem Holzofenbrot, Rhöner Hausmacher Wurst, Kümmelkäse und regionalem Saison-Gemüse. * **fuer WEN:** Für beschäftigte Familien aus dem Ulstertal und Stamm-Urlauber, die ehrliche Lebensmittel direkt vom Erzeuger ohne Supermarkt-Umweg",
+        "text": "**WAS:** Ein „KI- & Automatisierungs-Sprint-Service“, der Informatik-Studierende der Hochschule Fulda für tageweise Mikro-Projekte zur Prozessoptimierung an den lokalen Mittelstand und Logistikbetriebe vermittelt. **WARUM HIER:** Fulda bietet durch die Kombination aus einer praxisorientierten Hochschule mit starken IT-Fachbereichen und einer dichten, oft noc",
         "age_min": 0
       }
     },
     {
       "id": "Recherche",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Als Markt-Researcher skizziere ich das Preisgefüge auf Basis aktueller Agentur-Durchschnittswerte im DACH-Raum für das lokale Handwerk (Stand 2023/2024). *Hinweis zur Datenbasis:* Einmalzahlungen für das Setup kombiniert mit einer monatlichen Pauschale (Hosting, Pflege, SEO) entsprechen dem Marktstandard, um ständige Aktualität zu gewährleisten. --- ### Pake",
+        "age_min": 0
+      }
     },
     {
       "id": "Bau",
@@ -32,7 +40,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS** Ein mobiler Dorfdienst, der Seniorinnen und Senioren aus den entlegenen Ortsteilen verlässlich für Arztbesuche und Einkäufe ins Gersfelder Zentrum fährt sowie benötigte Medikamente direkt nach Hause bringt. **WARUM HIER** Die städtische Infrastruktur konzentriert sich auf den Kernort, während in den steilen, witterungsanfälligen Rhön-Dörfern rund um ",
+        "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Besorgungsdienst, der ältere Menschen auf Wunsch zu Einkäufen, Ärztinnen oder Apotheken im Ortskern begleitet oder ihnen Besorgungen direkt an die Haustür bringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Hilders machen steile Wege, das raue Rhön-Wetter und ein lückenhafter Nahverkehr den Alltag ohne eige",
         "age_min": 0
       }
     },
@@ -48,36 +56,36 @@
       "name": "Chief of Staff — Tages-Digest",
       "dept": "Kommando",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Tages-Fokus Commander. 3 Hebel für heute: * **Offerta:** Die 3 größten offenen Angebote telefonisch nachfassen und heute eine finale Zu- oder Absage einholen. * **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe im",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-vogelsberg",
       "name": "Opportunity Finder — Vogelsberg",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein „Regio-Kühlschrank-Service“, der Ferienunterkünfte im Vogelsberg vor der Ankunft von Urlaubern kostenpflichtig mit frischen Lebensmittel-Paketen aus regionalen Hofläden bestückt. **WARUM HIER:** Der Vogelsbe",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-fulda",
       "name": "Opportunity Finder — Fulda",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein „KI- & Automatisierungs-Sprint-Service“, der Informatik-Studierende der Hochschule Fulda für tageweise Mikro-Projekte zur Prozessoptimierung an den lokalen Mittelstand und Logistikbetriebe vermittelt. **WARU",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "recherche-wettbewerb",
       "name": "Researcher — Wettbewerb & Preise",
       "dept": "Recherche",
       "iv": 480,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Als Markt-Researcher skizziere ich das Preisgefüge auf Basis aktueller Agentur-Durchschnittswerte im DACH-Raum für das lokale Handwerk (Stand 2023/2024). *Hinweis zur Datenbasis:* Einmalzahlungen für das Setup kombiniert",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "bau-landing-copy",
@@ -1434,125 +1442,125 @@
       "name": "Direktvermarktung — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Gersfelder Rhön-Vesper-Box“ ist ein handfestes Wochen-Abo mit frischem Holzofenbrot, Hausmacher Wurst, Rhön-Käse und Saison-Gemüse direkt von den Höfen der Umgebung. **für WEN:** Für beschäftigte Familien a",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-gersfeld",
       "name": "Vulkanregion-Tourismus — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe eine entschleunigende Halbtages-Wanderung mit Rhönschafen durch die Gersfelder Bergwelt, gekrönt von einem regionalen Bio-Picknick auf einer Panoramawiese. **FÜR WEN:** Perfekt für naturliebende Paare, Fa",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-gersfeld",
       "name": "Senioren-Alltagsdienste — Gersfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS** Ein mobiler Dorfdienst, der Seniorinnen und Senioren aus den entlegenen Ortsteilen verlässlich für Arztbesuche und Einkäufe ins Gersfelder Zentrum fährt sowie benötigte Medikamente direkt nach Hause bringt. **WAR",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-hilders",
       "name": "Chancen-Scout — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Lieferservice für regional bestückte „Rhön-Vesper-Rucksäcke“ direkt an Ferienunterkünfte oder Wander-Startpunkte in und um Hilders. **WARUM HIER:** Hilders hat als stark frequentierter Luftkurort am ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-hilders",
       "name": "Handwerk-Sichtbarkeit — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (z. B. spezialisiert auf Wärmepumpen oder Badrenovierungen) **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer in Hilders und Umgebung online nach ei",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-hilders",
       "name": "Direktvermarktung — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Idee: Die Hilderser „Rhöner Vesper-Kiste“** * **WAS:** Eine wöchentliche Abo-Box zur Abholung in Hilders, vollgepackt mit frischem Holzofenbrot, Rhöner Hausmacher Wurst, Kümmelkäse und regionalem Saison-Gemüse. * **fue",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-hilders",
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Picknick unterm Sternenzelt“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit Himmelsbeobachtung im Sternenpark Rhön und einem Korb voller regionaler Spezialitäten. **FÜR WEN:** Dieses Ange",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-hilders",
       "name": "Senioren-Alltagsdienste — Hilders",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher, mobiler Dorf-Besorgungsdienst, der ältere Menschen auf Wunsch zu Einkäufen, Ärztinnen oder Apotheken im Ortskern begleitet oder ihnen Besorgungen direkt an die Haustür bringt. **WARUM HIER:** ",
+      "via": "gemini",
+      "age_min": 0
     }
   ],
   "budget": {
-    "used": 18,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-hilders",
+      "dept": "Recherche",
+      "agent": "recherche-wettbewerb",
       "via": "gemini",
-      "text": "**Idee: Die Hilderser „Rhöner Vesper-Kiste“** * **WAS:** Eine wöchentliche Abo-Box zur Abholung in Hilders, vollgepackt mit frischem Holzofenbrot, Rhöner Hausmacher Wurst, Kümmelkäse und regionalem Saison-Gemüse. * **fuer WEN:** Für beschäftigte Familien aus dem Ulstertal und Stamm-Urlauber, die ehrliche Lebensmittel direkt vom Erzeuger ohne Supermarkt-Umweg",
-      "ts": "2026-11-14 23:13",
+      "text": "Als Markt-Researcher skizziere ich das Preisgefüge auf Basis aktueller Agentur-Durchschnittswerte im DACH-Raum für das lokale Handwerk (Stand 2023/2024). *Hinweis zur Datenbasis:* Einmalzahlungen für das Setup kombiniert mit einer monatlichen Pauschale (Hosting, Pflege, SEO) entsprechen dem Marktstandard, um ständige Aktualität zu gewährleisten. --- ### Pake",
+      "ts": "2026-11-15 02:41",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-hilders",
+      "agent": "chancen-fulda",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau-Betrieb (z. B. spezialisiert auf Wärmepumpen oder Badrenovierungen) **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Eigenheimbesitzer in Hilders und Umgebung online nach einer neuen Heizung suchen, landen sie aktuell direkt bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge",
-      "ts": "2026-11-14 23:13",
+      "text": "**WAS:** Ein „KI- & Automatisierungs-Sprint-Service“, der Informatik-Studierende der Hochschule Fulda für tageweise Mikro-Projekte zur Prozessoptimierung an den lokalen Mittelstand und Logistikbetriebe vermittelt. **WARUM HIER:** Fulda bietet durch die Kombination aus einer praxisorientierten Hochschule mit starken IT-Fachbereichen und einer dichten, oft noc",
+      "ts": "2026-11-15 02:40",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-hilders",
+      "agent": "chancen-vogelsberg",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Lieferservice für regional bestückte „Rhön-Vesper-Rucksäcke“ direkt an Ferienunterkünfte oder Wander-Startpunkte in und um Hilders. **WARUM HIER:** Hilders hat als stark frequentierter Luftkurort am Hochrhöner eine hohe Dichte an Selbstversorger-Ferienwohnungen und Wanderern, leidet aber unter lückenhaften Gastronomie-Öffnungszeiten in d",
-      "ts": "2026-11-14 23:13",
+      "text": "**WAS:** Ein „Regio-Kühlschrank-Service“, der Ferienunterkünfte im Vogelsberg vor der Ankunft von Urlaubern kostenpflichtig mit frischen Lebensmittel-Paketen aus regionalen Hofläden bestückt. **WARUM HIER:** Der Vogelsberg profitiert vom Vulkan-Tourismus, leidet aber unter dünner Nahversorgung vor Ort – Urlauber stehen nach der Anreise oft vor verschlossenen",
+      "ts": "2026-11-15 02:40",
+      "age_min": 0
+    },
+    {
+      "dept": "Kommando",
+      "agent": "kommando-digest",
+      "via": "gemini",
+      "text": "Tages-Fokus Commander. 3 Hebel für heute: * **Offerta:** Die 3 größten offenen Angebote telefonisch nachfassen und heute eine finale Zu- oder Absage einholen. * **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe im Raum Fulda direkt anrufen und 2 Termine für diese Woche sichern. * **Vogelsberg-Chancen:** Das Partner-Pitchdeck an die zwei Kern-Stakehold",
+      "ts": "2026-11-15 02:40",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-gersfeld",
+      "agent": "senioren-hilders",
       "via": "gemini",
-      "text": "**WAS** Ein mobiler Dorfdienst, der Seniorinnen und Senioren aus den entlegenen Ortsteilen verlässlich für Arztbesuche und Einkäufe ins Gersfelder Zentrum fährt sowie benötigte Medikamente direkt nach Hause bringt. **WARUM HIER** Die städtische Infrastruktur konzentriert sich auf den Kernort, während in den steilen, witterungsanfälligen Rhön-Dörfern rund um ",
-      "ts": "2026-11-14 23:13",
+      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Besorgungsdienst, der ältere Menschen auf Wunsch zu Einkäufen, Ärztinnen oder Apotheken im Ortskern begleitet oder ihnen Besorgungen direkt an die Haustür bringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Hilders machen steile Wege, das raue Rhön-Wetter und ein lückenhafter Nahverkehr den Alltag ohne eige",
+      "ts": "2026-11-15 02:40",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-gersfeld",
+      "agent": "tourismus-hilders",
       "via": "gemini",
-      "text": "**WAS:** Erlebe eine entschleunigende Halbtages-Wanderung mit Rhönschafen durch die Gersfelder Bergwelt, gekrönt von einem regionalen Bio-Picknick auf einer Panoramawiese. **FÜR WEN:** Perfekt für naturliebende Paare, Familien und Genusswanderer, die die Rhön entspannt und mit allen Sinnen entdecken möchten. **ERSTER SCHRITT:** Wähle deinen Wunschtermin onli",
-      "ts": "2026-11-14 23:13",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-gersfeld",
-      "via": "gemini",
-      "text": "**WAS:** Die „Gersfelder Rhön-Vesper-Box“ ist ein handfestes Wochen-Abo mit frischem Holzofenbrot, Hausmacher Wurst, Rhön-Käse und Saison-Gemüse direkt von den Höfen der Umgebung. **für WEN:** Für beschäftigte Familien aus dem Gersfelder Land und Ferienhaus-Gäste, die ohne Umwege ehrliche, regionale Lebensmittel auf dem Tisch haben wollen. **ERSTER SCHRITT:*",
-      "ts": "2026-11-14 23:12",
+      "text": "**WAS:** „Picknick unterm Sternenzelt“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit Himmelsbeobachtung im Sternenpark Rhön und einem Korb voller regionaler Spezialitäten. **FÜR WEN:** Dieses Angebot richtet sich an Paare, Romantiker und Naturbegeisterte, die den faszinierenden Sternenhimmel der Rhön stressfrei und kulinarisch begleit",
+      "ts": "2026-11-15 02:40",
       "age_min": 0
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "day": "2026-11-14",
-  "calls_today": 18,
+  "day": "2026-11-15",
+  "calls_today": 6,
   "last_run": {
-    "kommando-digest": 1793669643.1425157,
-    "chancen-vogelsberg": 1793669653.7041802,
-    "chancen-fulda": 1793669661.6226518,
-    "recherche-wettbewerb": 1793694821.226216,
+    "kommando-digest": 1794710429.1682444,
+    "chancen-vogelsberg": 1794710438.3425934,
+    "chancen-fulda": 1794710448.3865352,
+    "recherche-wettbewerb": 1794710460.7183526,
     "bau-landing-copy": 1793694830.832168,
     "kunden-faq": 1793694835.8898127,
     "finanzen-check": 1793694843.0943882,
@@ -162,7 +162,7 @@
     "chancen-hilders": 1794697993.8312848,
     "handwerk-hilders": 1794697998.8694587,
     "direkt-hilders": 1794698009.2624938,
-    "tourismus-hilders": 1793669628.4865294,
-    "senioren-hilders": 1793669637.6003602
+    "tourismus-hilders": 1794710417.7297044,
+    "senioren-hilders": 1794710423.3489099
   }
 }
