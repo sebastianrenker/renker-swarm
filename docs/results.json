@@ -1,123 +1,93 @@
 {
-  "updated": "2026-11-15 02:41 UTC",
+  "updated": "2026-11-15 09:56 UTC",
   "total_results": 6,
   "total_depts": 4,
   "active": [
     {
-      "dept": "Recherche",
-      "agent": "recherche-wettbewerb",
-      "title": "Researcher — Wettbewerb & Preise  ·  Recherche",
+      "dept": "Chancen",
+      "agent": "handwerk-lauterbach",
+      "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
       "via": "gemini",
-      "text": "Als Markt-Researcher skizziere ich das Preisgefüge auf Basis aktueller Agentur-Durchschnittswerte im DACH-Raum für das lokale Handwerk (Stand 2023/2024). \n\n*Hinweis zur Datenbasis:* Einmalzahlungen für das Setup kombiniert mit einer monatlichen Pauschale (Hosting, Pflege, SEO) entsprechen dem Marktstandard, um ständige Aktualität zu gewährleisten.\n\n---\n\n### Paket 1: „Basis-Sichtbarkeit“ (Digitale Visitenkarte)\n* **Zielgruppe:** Einzelunternehmer, Nebenerwerbs-Handwerker, Betriebe ohne Expansionsdruck.\n* **Leistung:** Onepager/Basis-Website, Grundeinrichtung Google Unternehmensprofil, einfaches Kontaktformular.\n* **Preisspanne:** **1.200 € – 1.900 € einmalig** (+ 49 € – 99 € / Monat für Hosting & Wartung).\n* **Begründung (1 Satz):** Dieses Paket bedient das Mindestbedürfnis nach lokaler Auffindbarkeit bei geringem finanziellen Risiko für Betriebe, die primär über Mundpropaganda arbeiten.\n* **[Annahme]:** Der Handwerker liefert Texte und Bildmaterial weitgehend selbst an; die lokale Konkurrenz im Umfeld ist gering.\n\n---\n\n### Paket 2: „Anfragen-Booster“ (Standard-Gewinnung)\n* **Zielgruppe:** Etablierte Handwerksbetriebe (3–15 Mitarbeiter) mit Wunsch nach planbaren Kundenanfragen.\n* **Leistung:** Mehrseitige Website, optimiertes Google-Profil inklusive Bewertungen-Systematik, interaktiver Anfragen-Konfigurator (Lead-Qualifizierung).\n* **Preisspanne:** **2.500 € – 4.500 € einmalig** (+ 150 € – 300 € / Monat für lokales SEO & Content-Pflege).\n* **Begründung (1 Satz):** Der Fokus liegt auf der Vorqualifizierung von Kundenanfragen, um dem Handwerker unpassende Angebote und Zeitfresser im Büroalltag zu ersparen.\n* **[Annahme]:** Der Handwerker ist bereit, laufende Monatskosten zu tragen, da der ROI durch 1–2 gewonnene Zusatzaufträge pro Jahr gedeckt ist.\n\n---\n\n### Paket 3: „Marktführer & Recruiting“ (Komplettlösung)\n* **Zielgruppe:** Wachsende Betriebe (> 15 Mitarbeiter) mit starkem Fachkräftemangel und regionalem Expansionsanspruch.\n* **Leistung:** Individuelle Website, fortlaufende Google-Optimierung, automatisierter Funnel für Kundenanfragen UND Mitarbeitergewinnung, aktives Bewertungsmanagement.\n* **Preisspanne:** **5.000 € – 8.500 € einmalig** (+ 450 € – 800 € / Monat für fortlaufendes Marketing & Kampagnen).\n* **Begründung (1 Satz):** In dieser Stufe wird die digitale Sichtbarkeit primär eingesetzt, um die Arbeitgebermarke zu stärken und dem Hauptengpass des Handwerks – dem Personalmangel – entgegenzuwirken.\n* **[Annahme]:** Der Betrieb hat das Budget und die Kapazitäten, um sowohl neue Großaufträge als auch neue Mitarbeiter sofort administrativ einzubinden.\n\n---\n\n### Fakt vs. Vermutung (Disclaimer)\n* **Fakt:** Reine Websites ohne optimiertes Google-Unternehmensprofil führen im lokalen Handwerk nachweislich zu signifikant weniger Erstanfragen (Local SEO ist der Haupttreiber für Handwerker-Suchanfragen).\n* **Vermutung / Unsicherheit:** Die genaue Zahlbereitschaft variiert stark nach Region (Landkreis vs. Metropolregion) und Gewerk (z. B. Dachdecker mit hohen Auftragssummen zahlen eher höhere Preise als ein Ausbesserungsservice).",
-      "ts": "2026-11-15 02:41",
+      "text": "**Betriebstyp:** Dachdecker- und Zimmererbetrieb in Lauterbach\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Lauterbacher Hausbesitzer auf Google nach Dachsanierungen oder Solaranlagen suchen, landen sie aktuell bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der eigenen Nachbarschaft wieder direkt bei Ihnen ankommen.“",
+      "ts": "2026-11-15 09:56",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-fulda",
-      "title": "Opportunity Finder — Fulda  ·  Chancen",
+      "agent": "chancen-lauterbach",
+      "title": "Chancen-Scout — Lauterbach  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin „KI- & Automatisierungs-Sprint-Service“, der Informatik-Studierende der Hochschule Fulda für tageweise Mikro-Projekte zur Prozessoptimierung an den lokalen Mittelstand und Logistikbetriebe vermittelt.\n\n**WARUM HIER:** \nFulda bietet durch die Kombination aus einer praxisorientierten Hochschule mit starken IT-Fachbereichen und einer dichten, oft noch analog arbeitenden Mittelstands- und Logistiklandschaft am A7-Knotenpunkt den perfekten Nährboden für dieses B2B-Matchmaking.\n\n**ERSTER SCHRITT diese Woche:** \nDrei Logistik- oder Handwerksbetriebe im Gewerbegebiet Fulda-West anrufen, nach deren zeitintensivstem manuellen Datenprozess fragen und parallel über die Fachschaft AI der HS Fulda zwei geeignete Studierende für ein erstes Test-Projekt sichern.",
-      "ts": "2026-11-15 02:40",
+      "text": "**WAS:** \nEin mobiler Vor-Ort-Wartungs- und Reparatur-Service für E-Bikes und Fahrräder, der mit einem ausgestatteten Anhänger direkt zu Lauterbacher Firmenparkplätzen und Privathaushalten kommt.\n\n**WARUM HIER:** \nAls Knotenpunkt am Vulkanradweg mit stark steigendem E-Bike-Anteil treffen in Lauterbach völlig überlastete stationäre Werkstätten auf eine hohe Dichte an Berufspendlern und Radtouristen.\n\n**ERSTER SCHRITT:** \nDie größten Lauterbacher Arbeitgeber (z. B. STI Group oder das Krankenhaus Eichhof) kontaktieren und einen wöchentlichen, exklusiven „Fahrrad-Service-Tag“ für deren Mitarbeiter auf dem Firmengelände vereinbaren.",
+      "ts": "2026-11-15 09:56",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-vogelsberg",
-      "title": "Opportunity Finder — Vogelsberg  ·  Chancen",
+      "agent": "wachstum-offerta",
+      "title": "Growth — Offerta  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin „Regio-Kühlschrank-Service“, der Ferienunterkünfte im Vogelsberg vor der Ankunft von Urlaubern kostenpflichtig mit frischen Lebensmittel-Paketen aus regionalen Hofläden bestückt.\n\n**WARUM HIER:** \nDer Vogelsberg profitiert vom Vulkan-Tourismus, leidet aber unter dünner Nahversorgung vor Ort – Urlauber stehen nach der Anreise oft vor verschlossenen Ladentüren, während Direktvermarkter kaufkräftige Kundschaft suchen.\n\n**ERSTER SCHRITT diese Woche:** \nDrei lokale Ferienhaus-Vermieter kontaktieren, die Idee vorstellen und vereinbaren, den Service versuchsweise als kostenlose Zusatz-Option in ihre Buchungs-Bestätigungen aufzunehmen.",
-      "ts": "2026-11-15 02:40",
+      "text": "**IDEE: Der „Vorlagen-Klon“-Button in der digitalen Angebotsansicht**\n\nStatt eines passiven „Erstellt mit Offerta“-Schriftzugs fügst du einen aktiven Call-to-Action in die Fußzeile der Online-Angebotsansicht (Web-PDF) ein:  \n*„Gefällt dir dieses Angebots-Layout? Nutze diese Vorlage kostenlos für deine eigenen Kunden →“*  \nEin Klick führt den Empfänger direkt in den Offerta-Onboarding-Flow, wo das exakt gleiche Layout bereits in seinem neuen, kostenlosen Account hinterlegt ist.\n\n---\n\n**WARUM**\n\n1. **Perfekte B2B-Zielgruppe:** Wer Angebote liest (Unternehmer, Freiberufler, Einkäufer), muss oft selbst Angebote schreiben. Du erreichst deine Zielgruppe im Moment der höchsten Aufmerksamkeit.\n2. **Product-Led Growth pur:** Der Empfänger sieht Offerta nicht als Werbung, sondern erlebt das Produkt live in Aktion.\n3. **Null laufende Kosten & Solo-geeignet:** Du musst kein Marketingbudget verbrennen. Die Reichweite skaliert automatisch mit jedem Angebot, das deine bestehenden Nutzer versenden.\n\n---\n\n**ERSTER SCHRITT**\n\nÄndere den Footer-Text in der Web-Ansicht der Angebote und verlinke ihn auf eine einfache Registrierungsseite mit einem URL-Parameter für das jeweilige Template (z. B. `offerta.io/signup?template=modern-tech`).",
+      "ts": "2026-11-15 09:56",
       "age_min": 0
     },
     {
-      "dept": "Kommando",
-      "agent": "kommando-digest",
-      "title": "Chief of Staff — Tages-Digest  ·  Kommando",
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
+      "title": "Treasurer — Zahlen-Check  ·  Finanzen",
       "via": "gemini",
-      "text": "Tages-Fokus Commander. 3 Hebel für heute:\n\n* **Offerta:** Die 3 größten offenen Angebote telefonisch nachfassen und heute eine finale Zu- oder Absage einholen.\n* **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe im Raum Fulda direkt anrufen und 2 Termine für diese Woche sichern.\n* **Vogelsberg-Chancen:** Das Partner-Pitchdeck an die zwei Kern-Stakeholder im Landkreis versenden und Eingangsbestätigung einfordern.",
-      "ts": "2026-11-15 02:40",
-      "age_min": 0
+      "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen:\n\n1. **Gewerbeanmeldung und steuerliche Einordnung:** Das Gewerbe muss angemeldet sein und die steuerliche Erfassung beim Finanzamt muss feststehen, damit Sie wissen, ob Sie die Kleinunternehmerregelung (§ 19 UStG) nutzen oder die Umsatzsteuer direkt auf Ihren Rechnungen ausweisen müssen.\n2. **Ehrliche Vollkosten- und Margenkalkulation:** Sie benötigen eine knallharte Preiskalkulation, die neben den reinen Material- und Lohnkosten auch Rücklagen für Gewährleistung, Steuern und Verwaltungsaufwand berücksichtigt, damit Sie nicht vom ersten Verkauf an draufzahlen.\n3. **Rechtssicheres Fundament (Impressum, DSGVO, AGB):** Es müssen ein vollständig korrektes Impressum, eine DSGVO-konforme Datenschutzerklärung und wasserdichte AGB (inklusive klarer Haftungs- und Gewährleistungsregeln) vorliegen, um teure Abmahnungen und Haftungsrisiken sofort zu verhindern.",
+      "ts": "2026-11-15 09:55",
+      "age_min": 1
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-hilders",
-      "title": "Senioren-Alltagsdienste — Hilders  ·  Kunden",
+      "agent": "kunden-faq",
+      "title": "Support Agent — FAQ-Bausteine  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Besorgungsdienst, der ältere Menschen auf Wunsch zu Einkäufen, Ärztinnen oder Apotheken im Ortskern begleitet oder ihnen Besorgungen direkt an die Haustür bringt.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Hilders machen steile Wege, das raue Rhön-Wetter und ein lückenhafter Nahverkehr den Alltag ohne eigenes Auto zu einer großen Hürde für den Erhalt der Selbstständigkeit.\n\n**ERSTER SCHRITT:** Ein Abstimmungsgespräch mit der Gemeinde Hilders und den Ortsvorstehern führen, um Bedarfe bündeln und lokale Begleit-Paten aus den jeweiligen Ortsteilen gewinnen zu können.",
-      "ts": "2026-11-15 02:40",
-      "age_min": 0
+      "text": "Hier sind 3 kurze, ehrliche FAQ-Paare für **Offerta**:\n\n**1. Ist Offerta wirklich kostenlos?**\nJa. In der Gratis-Version kannst du jeden Monat bis zu 3 Angebote kostenfrei erstellen und als PDF herunterladen. Wenn du mehr Angebote benötigst, dein eigenes Firmenlogo einbinden oder den Offerta-Hinweis entfernen möchtest, kannst du jederzeit auf einen Pro-Tarif wechseln.\n\n**2. Kann ich das Layout an mein Firmen-Design anpassen?**\nIn den kostenpflichtigen Tarifen kannst du dein Logo hochladen, deine Schriftarten und Hausschrift wählen sowie die Farben anpassen. In der Gratis-Version nutzt du eine saubere, neutrale Standard-Vorlage.\n\n**3. Wie kommt das Angebot zu meinen Kunden?**\nDu kannst das fertig erstellte Angebot entweder als PDF herunterladen und selbst per E-Mail verschicken oder direkt einen Link aus Offerta teilen. Über den Link kann dein Kunde das Angebot sofort digital annehmen.",
+      "ts": "2026-11-15 09:55",
+      "age_min": 1
     },
     {
-      "dept": "Chancen",
-      "agent": "tourismus-hilders",
-      "title": "Vulkanregion-Tourismus — Hilders  ·  Chancen",
+      "dept": "Bau",
+      "agent": "bau-landing-copy",
+      "title": "Web Designer — Landing-Texte  ·  Bau",
       "via": "gemini",
-      "text": "**WAS:** „Picknick unterm Sternenzelt“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit Himmelsbeobachtung im Sternenpark Rhön und einem Korb voller regionaler Spezialitäten.\n\n**FÜR WEN:** Dieses Angebot richtet sich an Paare, Romantiker und Naturbegeisterte, die den faszinierenden Sternenhimmel der Rhön stressfrei und kulinarisch begleitet erleben möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus und sichere dir dein digitales Ticket mit direkt integriertem Picknick-Gutschein.",
-      "ts": "2026-11-15 02:40",
-      "age_min": 0
+      "text": "**Headline:**\nSchluss mit unsichtbar: Werden Sie die Nummer 1 im Vogelsberg.\n\n**Subline:**\nWir bringen Ihren Handwerksbetrieb schnell und ohne Aufwand ins Internet, damit Kunden aus der Region direkt bei Ihnen anfragen. Sie konzentrieren sich auf Ihr Handwerk – wir sorgen für volle Auftragsbücher.\n\n**CTA-Button:**\nJetzt regional sichtbar werden",
+      "ts": "2026-11-15 09:55",
+      "age_min": 1
     }
   ],
   "departments": [
-    {
-      "id": "Kommando",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kommando",
-          "agent": "kommando-digest",
-          "title": "Chief of Staff — Tages-Digest  ·  Kommando",
-          "via": "gemini",
-          "text": "Tages-Fokus Commander. 3 Hebel für heute:\n\n* **Offerta:** Die 3 größten offenen Angebote telefonisch nachfassen und heute eine finale Zu- oder Absage einholen.\n* **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe im Raum Fulda direkt anrufen und 2 Termine für diese Woche sichern.\n* **Vogelsberg-Chancen:** Das Partner-Pitchdeck an die zwei Kern-Stakeholder im Landkreis versenden und Eingangsbestätigung einfordern.",
-          "ts": "2026-11-15 02:40",
-          "age_min": 0
-        }
-      ]
-    },
     {
       "id": "Chancen",
       "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-fulda",
-          "title": "Opportunity Finder — Fulda  ·  Chancen",
+          "agent": "handwerk-lauterbach",
+          "title": "Handwerk-Sichtbarkeit — Lauterbach  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin „KI- & Automatisierungs-Sprint-Service“, der Informatik-Studierende der Hochschule Fulda für tageweise Mikro-Projekte zur Prozessoptimierung an den lokalen Mittelstand und Logistikbetriebe vermittelt.\n\n**WARUM HIER:** \nFulda bietet durch die Kombination aus einer praxisorientierten Hochschule mit starken IT-Fachbereichen und einer dichten, oft noch analog arbeitenden Mittelstands- und Logistiklandschaft am A7-Knotenpunkt den perfekten Nährboden für dieses B2B-Matchmaking.\n\n**ERSTER SCHRITT diese Woche:** \nDrei Logistik- oder Handwerksbetriebe im Gewerbegebiet Fulda-West anrufen, nach deren zeitintensivstem manuellen Datenprozess fragen und parallel über die Fachschaft AI der HS Fulda zwei geeignete Studierende für ein erstes Test-Projekt sichern.",
-          "ts": "2026-11-15 02:40",
+          "text": "**Betriebstyp:** Dachdecker- und Zimmererbetrieb in Lauterbach\n\n**Ansprache-Idee:**\n„Hallo [Name], wenn Lauterbacher Hausbesitzer auf Google nach Dachsanierungen oder Solaranlagen suchen, landen sie aktuell bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der eigenen Nachbarschaft wieder direkt bei Ihnen ankommen.“",
+          "ts": "2026-11-15 09:56",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-vogelsberg",
-          "title": "Opportunity Finder — Vogelsberg  ·  Chancen",
+          "agent": "chancen-lauterbach",
+          "title": "Chancen-Scout — Lauterbach  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin „Regio-Kühlschrank-Service“, der Ferienunterkünfte im Vogelsberg vor der Ankunft von Urlaubern kostenpflichtig mit frischen Lebensmittel-Paketen aus regionalen Hofläden bestückt.\n\n**WARUM HIER:** \nDer Vogelsberg profitiert vom Vulkan-Tourismus, leidet aber unter dünner Nahversorgung vor Ort – Urlauber stehen nach der Anreise oft vor verschlossenen Ladentüren, während Direktvermarkter kaufkräftige Kundschaft suchen.\n\n**ERSTER SCHRITT diese Woche:** \nDrei lokale Ferienhaus-Vermieter kontaktieren, die Idee vorstellen und vereinbaren, den Service versuchsweise als kostenlose Zusatz-Option in ihre Buchungs-Bestätigungen aufzunehmen.",
-          "ts": "2026-11-15 02:40",
+          "text": "**WAS:** \nEin mobiler Vor-Ort-Wartungs- und Reparatur-Service für E-Bikes und Fahrräder, der mit einem ausgestatteten Anhänger direkt zu Lauterbacher Firmenparkplätzen und Privathaushalten kommt.\n\n**WARUM HIER:** \nAls Knotenpunkt am Vulkanradweg mit stark steigendem E-Bike-Anteil treffen in Lauterbach völlig überlastete stationäre Werkstätten auf eine hohe Dichte an Berufspendlern und Radtouristen.\n\n**ERSTER SCHRITT:** \nDie größten Lauterbacher Arbeitgeber (z. B. STI Group oder das Krankenhaus Eichhof) kontaktieren und einen wöchentlichen, exklusiven „Fahrrad-Service-Tag“ für deren Mitarbeiter auf dem Firmengelände vereinbaren.",
+          "ts": "2026-11-15 09:56",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-hilders",
-          "title": "Vulkanregion-Tourismus — Hilders  ·  Chancen",
+          "agent": "wachstum-offerta",
+          "title": "Growth — Offerta  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** „Picknick unterm Sternenzelt“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit Himmelsbeobachtung im Sternenpark Rhön und einem Korb voller regionaler Spezialitäten.\n\n**FÜR WEN:** Dieses Angebot richtet sich an Paare, Romantiker und Naturbegeisterte, die den faszinierenden Sternenhimmel der Rhön stressfrei und kulinarisch begleitet erleben möchten.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus und sichere dir dein digitales Ticket mit direkt integriertem Picknick-Gutschein.",
-          "ts": "2026-11-15 02:40",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Recherche",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Recherche",
-          "agent": "recherche-wettbewerb",
-          "title": "Researcher — Wettbewerb & Preise  ·  Recherche",
-          "via": "gemini",
-          "text": "Als Markt-Researcher skizziere ich das Preisgefüge auf Basis aktueller Agentur-Durchschnittswerte im DACH-Raum für das lokale Handwerk (Stand 2023/2024). \n\n*Hinweis zur Datenbasis:* Einmalzahlungen für das Setup kombiniert mit einer monatlichen Pauschale (Hosting, Pflege, SEO) entsprechen dem Marktstandard, um ständige Aktualität zu gewährleisten.\n\n---\n\n### Paket 1: „Basis-Sichtbarkeit“ (Digitale Visitenkarte)\n* **Zielgruppe:** Einzelunternehmer, Nebenerwerbs-Handwerker, Betriebe ohne Expansionsdruck.\n* **Leistung:** Onepager/Basis-Website, Grundeinrichtung Google Unternehmensprofil, einfaches Kontaktformular.\n* **Preisspanne:** **1.200 € – 1.900 € einmalig** (+ 49 € – 99 € / Monat für Hosting & Wartung).\n* **Begründung (1 Satz):** Dieses Paket bedient das Mindestbedürfnis nach lokaler Auffindbarkeit bei geringem finanziellen Risiko für Betriebe, die primär über Mundpropaganda arbeiten.\n* **[Annahme]:** Der Handwerker liefert Texte und Bildmaterial weitgehend selbst an; die lokale Konkurrenz im Umfeld ist gering.\n\n---\n\n### Paket 2: „Anfragen-Booster“ (Standard-Gewinnung)\n* **Zielgruppe:** Etablierte Handwerksbetriebe (3–15 Mitarbeiter) mit Wunsch nach planbaren Kundenanfragen.\n* **Leistung:** Mehrseitige Website, optimiertes Google-Profil inklusive Bewertungen-Systematik, interaktiver Anfragen-Konfigurator (Lead-Qualifizierung).\n* **Preisspanne:** **2.500 € – 4.500 € einmalig** (+ 150 € – 300 € / Monat für lokales SEO & Content-Pflege).\n* **Begründung (1 Satz):** Der Fokus liegt auf der Vorqualifizierung von Kundenanfragen, um dem Handwerker unpassende Angebote und Zeitfresser im Büroalltag zu ersparen.\n* **[Annahme]:** Der Handwerker ist bereit, laufende Monatskosten zu tragen, da der ROI durch 1–2 gewonnene Zusatzaufträge pro Jahr gedeckt ist.\n\n---\n\n### Paket 3: „Marktführer & Recruiting“ (Komplettlösung)\n* **Zielgruppe:** Wachsende Betriebe (> 15 Mitarbeiter) mit starkem Fachkräftemangel und regionalem Expansionsanspruch.\n* **Leistung:** Individuelle Website, fortlaufende Google-Optimierung, automatisierter Funnel für Kundenanfragen UND Mitarbeitergewinnung, aktives Bewertungsmanagement.\n* **Preisspanne:** **5.000 € – 8.500 € einmalig** (+ 450 € – 800 € / Monat für fortlaufendes Marketing & Kampagnen).\n* **Begründung (1 Satz):** In dieser Stufe wird die digitale Sichtbarkeit primär eingesetzt, um die Arbeitgebermarke zu stärken und dem Hauptengpass des Handwerks – dem Personalmangel – entgegenzuwirken.\n* **[Annahme]:** Der Betrieb hat das Budget und die Kapazitäten, um sowohl neue Großaufträge als auch neue Mitarbeiter sofort administrativ einzubinden.\n\n---\n\n### Fakt vs. Vermutung (Disclaimer)\n* **Fakt:** Reine Websites ohne optimiertes Google-Unternehmensprofil führen im lokalen Handwerk nachweislich zu signifikant weniger Erstanfragen (Local SEO ist der Haupttreiber für Handwerker-Suchanfragen).\n* **Vermutung / Unsicherheit:** Die genaue Zahlbereitschaft variiert stark nach Region (Landkreis vs. Metropolregion) und Gewerk (z. B. Dachdecker mit hohen Auftragssummen zahlen eher höhere Preise als ein Ausbesserungsservice).",
-          "ts": "2026-11-15 02:41",
+          "text": "**IDEE: Der „Vorlagen-Klon“-Button in der digitalen Angebotsansicht**\n\nStatt eines passiven „Erstellt mit Offerta“-Schriftzugs fügst du einen aktiven Call-to-Action in die Fußzeile der Online-Angebotsansicht (Web-PDF) ein:  \n*„Gefällt dir dieses Angebots-Layout? Nutze diese Vorlage kostenlos für deine eigenen Kunden →“*  \nEin Klick führt den Empfänger direkt in den Offerta-Onboarding-Flow, wo das exakt gleiche Layout bereits in seinem neuen, kostenlosen Account hinterlegt ist.\n\n---\n\n**WARUM**\n\n1. **Perfekte B2B-Zielgruppe:** Wer Angebote liest (Unternehmer, Freiberufler, Einkäufer), muss oft selbst Angebote schreiben. Du erreichst deine Zielgruppe im Moment der höchsten Aufmerksamkeit.\n2. **Product-Led Growth pur:** Der Empfänger sieht Offerta nicht als Werbung, sondern erlebt das Produkt live in Aktion.\n3. **Null laufende Kosten & Solo-geeignet:** Du musst kein Marketingbudget verbrennen. Die Reichweite skaliert automatisch mit jedem Angebot, das deine bestehenden Nutzer versenden.\n\n---\n\n**ERSTER SCHRITT**\n\nÄndere den Footer-Text in der Web-Ansicht der Angebote und verlinke ihn auf eine einfache Registrierungsseite mit einem URL-Parameter für das jeweilige Template (z. B. `offerta.io/signup?template=modern-tech`).",
+          "ts": "2026-11-15 09:56",
           "age_min": 0
         }
       ]
@@ -128,12 +98,42 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-hilders",
-          "title": "Senioren-Alltagsdienste — Hilders  ·  Kunden",
+          "agent": "kunden-faq",
+          "title": "Support Agent — FAQ-Bausteine  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Besorgungsdienst, der ältere Menschen auf Wunsch zu Einkäufen, Ärztinnen oder Apotheken im Ortskern begleitet oder ihnen Besorgungen direkt an die Haustür bringt.\n\n**WARUM HIER:** In den weit verstreuten Ortsteilen von Hilders machen steile Wege, das raue Rhön-Wetter und ein lückenhafter Nahverkehr den Alltag ohne eigenes Auto zu einer großen Hürde für den Erhalt der Selbstständigkeit.\n\n**ERSTER SCHRITT:** Ein Abstimmungsgespräch mit der Gemeinde Hilders und den Ortsvorstehern führen, um Bedarfe bündeln und lokale Begleit-Paten aus den jeweiligen Ortsteilen gewinnen zu können.",
-          "ts": "2026-11-15 02:40",
-          "age_min": 0
+          "text": "Hier sind 3 kurze, ehrliche FAQ-Paare für **Offerta**:\n\n**1. Ist Offerta wirklich kostenlos?**\nJa. In der Gratis-Version kannst du jeden Monat bis zu 3 Angebote kostenfrei erstellen und als PDF herunterladen. Wenn du mehr Angebote benötigst, dein eigenes Firmenlogo einbinden oder den Offerta-Hinweis entfernen möchtest, kannst du jederzeit auf einen Pro-Tarif wechseln.\n\n**2. Kann ich das Layout an mein Firmen-Design anpassen?**\nIn den kostenpflichtigen Tarifen kannst du dein Logo hochladen, deine Schriftarten und Hausschrift wählen sowie die Farben anpassen. In der Gratis-Version nutzt du eine saubere, neutrale Standard-Vorlage.\n\n**3. Wie kommt das Angebot zu meinen Kunden?**\nDu kannst das fertig erstellte Angebot entweder als PDF herunterladen und selbst per E-Mail verschicken oder direkt einen Link aus Offerta teilen. Über den Link kann dein Kunde das Angebot sofort digital annehmen.",
+          "ts": "2026-11-15 09:55",
+          "age_min": 1
+        }
+      ]
+    },
+    {
+      "id": "Bau",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Bau",
+          "agent": "bau-landing-copy",
+          "title": "Web Designer — Landing-Texte  ·  Bau",
+          "via": "gemini",
+          "text": "**Headline:**\nSchluss mit unsichtbar: Werden Sie die Nummer 1 im Vogelsberg.\n\n**Subline:**\nWir bringen Ihren Handwerksbetrieb schnell und ohne Aufwand ins Internet, damit Kunden aus der Region direkt bei Ihnen anfragen. Sie konzentrieren sich auf Ihr Handwerk – wir sorgen für volle Auftragsbücher.\n\n**CTA-Button:**\nJetzt regional sichtbar werden",
+          "ts": "2026-11-15 09:55",
+          "age_min": 1
+        }
+      ]
+    },
+    {
+      "id": "Finanzen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Finanzen",
+          "agent": "finanzen-check",
+          "title": "Treasurer — Zahlen-Check  ·  Finanzen",
+          "via": "gemini",
+          "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen:\n\n1. **Gewerbeanmeldung und steuerliche Einordnung:** Das Gewerbe muss angemeldet sein und die steuerliche Erfassung beim Finanzamt muss feststehen, damit Sie wissen, ob Sie die Kleinunternehmerregelung (§ 19 UStG) nutzen oder die Umsatzsteuer direkt auf Ihren Rechnungen ausweisen müssen.\n2. **Ehrliche Vollkosten- und Margenkalkulation:** Sie benötigen eine knallharte Preiskalkulation, die neben den reinen Material- und Lohnkosten auch Rücklagen für Gewährleistung, Steuern und Verwaltungsaufwand berücksichtigt, damit Sie nicht vom ersten Verkauf an draufzahlen.\n3. **Rechtssicheres Fundament (Impressum, DSGVO, AGB):** Es müssen ein vollständig korrektes Impressum, eine DSGVO-konforme Datenschutzerklärung und wasserdichte AGB (inklusive klarer Haftungs- und Gewährleistungsregeln) vorliegen, um teure Abmahnungen und Haftungsrisiken sofort zu verhindern.",
+          "ts": "2026-11-15 09:55",
+          "age_min": 1
         }
       ]
     }

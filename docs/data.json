@@ -1,53 +1,53 @@
 {
-  "updated": "2026-11-15T02:41Z",
+  "updated": "2026-11-15T09:56Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": {
-        "via": "gemini",
-        "text": "Tages-Fokus Commander. 3 Hebel für heute: * **Offerta:** Die 3 größten offenen Angebote telefonisch nachfassen und heute eine finale Zu- oder Absage einholen. * **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe im Raum Fulda direkt anrufen und 2 Termine für diese Woche sichern. * **Vogelsberg-Chancen:** Das Partner-Pitchdeck an die zwei Kern-Stakehold",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein „KI- & Automatisierungs-Sprint-Service“, der Informatik-Studierende der Hochschule Fulda für tageweise Mikro-Projekte zur Prozessoptimierung an den lokalen Mittelstand und Logistikbetriebe vermittelt. **WARUM HIER:** Fulda bietet durch die Kombination aus einer praxisorientierten Hochschule mit starken IT-Fachbereichen und einer dichten, oft noc",
+        "text": "**Betriebstyp:** Dachdecker- und Zimmererbetrieb in Lauterbach **Ansprache-Idee:** „Hallo [Name], wenn Lauterbacher Hausbesitzer auf Google nach Dachsanierungen oder Solaranlagen suchen, landen sie aktuell bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der eigenen Nachbarschaft wieder direkt bei Ihnen ankommen.“",
         "age_min": 0
       }
     },
     {
       "id": "Recherche",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Als Markt-Researcher skizziere ich das Preisgefüge auf Basis aktueller Agentur-Durchschnittswerte im DACH-Raum für das lokale Handwerk (Stand 2023/2024). *Hinweis zur Datenbasis:* Einmalzahlungen für das Setup kombiniert mit einer monatlichen Pauschale (Hosting, Pflege, SEO) entsprechen dem Marktstandard, um ständige Aktualität zu gewährleisten. --- ### Pake",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Bau",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**Headline:** Schluss mit unsichtbar: Werden Sie die Nummer 1 im Vogelsberg. **Subline:** Wir bringen Ihren Handwerksbetrieb schnell und ohne Aufwand ins Internet, damit Kunden aus der Region direkt bei Ihnen anfragen. Sie konzentrieren sich auf Ihr Handwerk – wir sorgen für volle Auftragsbücher. **CTA-Button:** Jetzt regional sichtbar werden",
+        "age_min": 1
+      }
     },
     {
       "id": "Kunden",
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Besorgungsdienst, der ältere Menschen auf Wunsch zu Einkäufen, Ärztinnen oder Apotheken im Ortskern begleitet oder ihnen Besorgungen direkt an die Haustür bringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Hilders machen steile Wege, das raue Rhön-Wetter und ein lückenhafter Nahverkehr den Alltag ohne eige",
-        "age_min": 0
+        "text": "Hier sind 3 kurze, ehrliche FAQ-Paare für **Offerta**: **1. Ist Offerta wirklich kostenlos?** Ja. In der Gratis-Version kannst du jeden Monat bis zu 3 Angebote kostenfrei erstellen und als PDF herunterladen. Wenn du mehr Angebote benötigst, dein eigenes Firmenlogo einbinden oder den Offerta-Hinweis entfernen möchtest, kannst du jederzeit auf einen Pro-Tarif ",
+        "age_min": 1
       }
     },
     {
       "id": "Finanzen",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und steuerliche Einordnung:** Das Gewerbe muss angemeldet sein und die steuerliche Erfassung beim Finanzamt muss feststehen, damit Sie wissen, ob Sie die Kleinunternehmerregelung (§ 19 UStG) nutzen oder die Umsatzsteuer direkt auf Ihren Rechnung",
+        "age_min": 1
+      }
     }
   ],
   "agents": [
@@ -56,72 +56,72 @@
       "name": "Chief of Staff — Tages-Digest",
       "dept": "Kommando",
       "iv": 720,
-      "out": "Tages-Fokus Commander. 3 Hebel für heute: * **Offerta:** Die 3 größten offenen Angebote telefonisch nachfassen und heute eine finale Zu- oder Absage einholen. * **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe im",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-vogelsberg",
       "name": "Opportunity Finder — Vogelsberg",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**WAS:** Ein „Regio-Kühlschrank-Service“, der Ferienunterkünfte im Vogelsberg vor der Ankunft von Urlaubern kostenpflichtig mit frischen Lebensmittel-Paketen aus regionalen Hofläden bestückt. **WARUM HIER:** Der Vogelsbe",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-fulda",
       "name": "Opportunity Finder — Fulda",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**WAS:** Ein „KI- & Automatisierungs-Sprint-Service“, der Informatik-Studierende der Hochschule Fulda für tageweise Mikro-Projekte zur Prozessoptimierung an den lokalen Mittelstand und Logistikbetriebe vermittelt. **WARU",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "recherche-wettbewerb",
       "name": "Researcher — Wettbewerb & Preise",
       "dept": "Recherche",
       "iv": 480,
-      "out": "Als Markt-Researcher skizziere ich das Preisgefüge auf Basis aktueller Agentur-Durchschnittswerte im DACH-Raum für das lokale Handwerk (Stand 2023/2024). *Hinweis zur Datenbasis:* Einmalzahlungen für das Setup kombiniert",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "bau-landing-copy",
       "name": "Web Designer — Landing-Texte",
       "dept": "Bau",
       "iv": 600,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Headline:** Schluss mit unsichtbar: Werden Sie die Nummer 1 im Vogelsberg. **Subline:** Wir bringen Ihren Handwerksbetrieb schnell und ohne Aufwand ins Internet, damit Kunden aus der Region direkt bei Ihnen anfragen. S",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "kunden-faq",
       "name": "Support Agent — FAQ-Bausteine",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier sind 3 kurze, ehrliche FAQ-Paare für **Offerta**: **1. Ist Offerta wirklich kostenlos?** Ja. In der Gratis-Version kannst du jeden Monat bis zu 3 Angebote kostenfrei erstellen und als PDF herunterladen. Wenn du mehr",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "finanzen-check",
       "name": "Treasurer — Zahlen-Check",
       "dept": "Finanzen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und steuerliche Einordnung:** Das Gewerbe muss angemeldet sein und die steuerliche Erfassung beim Finanza",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "wachstum-offerta",
       "name": "Growth — Offerta",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**IDEE: Der „Vorlagen-Klon“-Button in der digitalen Angebotsansicht** Statt eines passiven „Erstellt mit Offerta“-Schriftzugs fügst du einen aktiven Call-to-Action in die Fußzeile der Online-Angebotsansicht (Web-PDF) ein",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-offerta",
@@ -173,18 +173,18 @@
       "name": "Chancen-Scout — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Vor-Ort-Wartungs- und Reparatur-Service für E-Bikes und Fahrräder, der mit einem ausgestatteten Anhänger direkt zu Lauterbacher Firmenparkplätzen und Privathaushalten kommt. **WARUM HIER:** Als Knote",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-lauterbach",
       "name": "Handwerk-Sichtbarkeit — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Dachdecker- und Zimmererbetrieb in Lauterbach **Ansprache-Idee:** „Hallo [Name], wenn Lauterbacher Hausbesitzer auf Google nach Dachsanierungen oder Solaranlagen suchen, landen sie aktuell bei der Konkur",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-lauterbach",
@@ -1496,72 +1496,72 @@
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Picknick unterm Sternenzelt“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit Himmelsbeobachtung im Sternenpark Rhön und einem Korb voller regionaler Spezialitäten. **FÜR WEN:** Dieses Ange",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-hilders",
       "name": "Senioren-Alltagsdienste — Hilders",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, mobiler Dorf-Besorgungsdienst, der ältere Menschen auf Wunsch zu Einkäufen, Ärztinnen oder Apotheken im Ortskern begleitet oder ihnen Besorgungen direkt an die Haustür bringt. **WARUM HIER:** ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 12,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Recherche",
-      "agent": "recherche-wettbewerb",
+      "dept": "Chancen",
+      "agent": "handwerk-lauterbach",
       "via": "gemini",
-      "text": "Als Markt-Researcher skizziere ich das Preisgefüge auf Basis aktueller Agentur-Durchschnittswerte im DACH-Raum für das lokale Handwerk (Stand 2023/2024). *Hinweis zur Datenbasis:* Einmalzahlungen für das Setup kombiniert mit einer monatlichen Pauschale (Hosting, Pflege, SEO) entsprechen dem Marktstandard, um ständige Aktualität zu gewährleisten. --- ### Pake",
-      "ts": "2026-11-15 02:41",
+      "text": "**Betriebstyp:** Dachdecker- und Zimmererbetrieb in Lauterbach **Ansprache-Idee:** „Hallo [Name], wenn Lauterbacher Hausbesitzer auf Google nach Dachsanierungen oder Solaranlagen suchen, landen sie aktuell bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass die lukrativen Aufträge aus der eigenen Nachbarschaft wieder direkt bei Ihnen ankommen.“",
+      "ts": "2026-11-15 09:56",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-fulda",
+      "agent": "chancen-lauterbach",
       "via": "gemini",
-      "text": "**WAS:** Ein „KI- & Automatisierungs-Sprint-Service“, der Informatik-Studierende der Hochschule Fulda für tageweise Mikro-Projekte zur Prozessoptimierung an den lokalen Mittelstand und Logistikbetriebe vermittelt. **WARUM HIER:** Fulda bietet durch die Kombination aus einer praxisorientierten Hochschule mit starken IT-Fachbereichen und einer dichten, oft noc",
-      "ts": "2026-11-15 02:40",
+      "text": "**WAS:** Ein mobiler Vor-Ort-Wartungs- und Reparatur-Service für E-Bikes und Fahrräder, der mit einem ausgestatteten Anhänger direkt zu Lauterbacher Firmenparkplätzen und Privathaushalten kommt. **WARUM HIER:** Als Knotenpunkt am Vulkanradweg mit stark steigendem E-Bike-Anteil treffen in Lauterbach völlig überlastete stationäre Werkstätten auf eine hohe Dich",
+      "ts": "2026-11-15 09:56",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-vogelsberg",
+      "agent": "wachstum-offerta",
       "via": "gemini",
-      "text": "**WAS:** Ein „Regio-Kühlschrank-Service“, der Ferienunterkünfte im Vogelsberg vor der Ankunft von Urlaubern kostenpflichtig mit frischen Lebensmittel-Paketen aus regionalen Hofläden bestückt. **WARUM HIER:** Der Vogelsberg profitiert vom Vulkan-Tourismus, leidet aber unter dünner Nahversorgung vor Ort – Urlauber stehen nach der Anreise oft vor verschlossenen",
-      "ts": "2026-11-15 02:40",
+      "text": "**IDEE: Der „Vorlagen-Klon“-Button in der digitalen Angebotsansicht** Statt eines passiven „Erstellt mit Offerta“-Schriftzugs fügst du einen aktiven Call-to-Action in die Fußzeile der Online-Angebotsansicht (Web-PDF) ein: *„Gefällt dir dieses Angebots-Layout? Nutze diese Vorlage kostenlos für deine eigenen Kunden →“* Ein Klick führt den Empfänger direkt in d",
+      "ts": "2026-11-15 09:56",
       "age_min": 0
     },
     {
-      "dept": "Kommando",
-      "agent": "kommando-digest",
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
       "via": "gemini",
-      "text": "Tages-Fokus Commander. 3 Hebel für heute: * **Offerta:** Die 3 größten offenen Angebote telefonisch nachfassen und heute eine finale Zu- oder Absage einholen. * **Handwerk-Sichtbar:** 5 qualifizierte Handwerksbetriebe im Raum Fulda direkt anrufen und 2 Termine für diese Woche sichern. * **Vogelsberg-Chancen:** Das Partner-Pitchdeck an die zwei Kern-Stakehold",
-      "ts": "2026-11-15 02:40",
-      "age_min": 0
+      "text": "Hier sind die 3 wichtigsten Punkte, die vor dem ersten Verkauf zwingend geklärt sein müssen: 1. **Gewerbeanmeldung und steuerliche Einordnung:** Das Gewerbe muss angemeldet sein und die steuerliche Erfassung beim Finanzamt muss feststehen, damit Sie wissen, ob Sie die Kleinunternehmerregelung (§ 19 UStG) nutzen oder die Umsatzsteuer direkt auf Ihren Rechnung",
+      "ts": "2026-11-15 09:55",
+      "age_min": 1
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-hilders",
+      "agent": "kunden-faq",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, mobiler Dorf-Besorgungsdienst, der ältere Menschen auf Wunsch zu Einkäufen, Ärztinnen oder Apotheken im Ortskern begleitet oder ihnen Besorgungen direkt an die Haustür bringt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Hilders machen steile Wege, das raue Rhön-Wetter und ein lückenhafter Nahverkehr den Alltag ohne eige",
-      "ts": "2026-11-15 02:40",
-      "age_min": 0
+      "text": "Hier sind 3 kurze, ehrliche FAQ-Paare für **Offerta**: **1. Ist Offerta wirklich kostenlos?** Ja. In der Gratis-Version kannst du jeden Monat bis zu 3 Angebote kostenfrei erstellen und als PDF herunterladen. Wenn du mehr Angebote benötigst, dein eigenes Firmenlogo einbinden oder den Offerta-Hinweis entfernen möchtest, kannst du jederzeit auf einen Pro-Tarif ",
+      "ts": "2026-11-15 09:55",
+      "age_min": 1
     },
     {
-      "dept": "Chancen",
-      "agent": "tourismus-hilders",
+      "dept": "Bau",
+      "agent": "bau-landing-copy",
       "via": "gemini",
-      "text": "**WAS:** „Picknick unterm Sternenzelt“ – eine geführte Abendwanderung auf den Buchschirmberg bei Hilders mit Himmelsbeobachtung im Sternenpark Rhön und einem Korb voller regionaler Spezialitäten. **FÜR WEN:** Dieses Angebot richtet sich an Paare, Romantiker und Naturbegeisterte, die den faszinierenden Sternenhimmel der Rhön stressfrei und kulinarisch begleit",
-      "ts": "2026-11-15 02:40",
-      "age_min": 0
+      "text": "**Headline:** Schluss mit unsichtbar: Werden Sie die Nummer 1 im Vogelsberg. **Subline:** Wir bringen Ihren Handwerksbetrieb schnell und ohne Aufwand ins Internet, damit Kunden aus der Region direkt bei Ihnen anfragen. Sie konzentrieren sich auf Ihr Handwerk – wir sorgen für volle Auftragsbücher. **CTA-Button:** Jetzt regional sichtbar werden",
+      "ts": "2026-11-15 09:55",
+      "age_min": 1
     }
   ]
 }
