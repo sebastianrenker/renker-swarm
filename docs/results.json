@@ -1,127 +1,67 @@
 {
-  "updated": "2026-11-15 16:45 UTC",
-  "total_results": 6,
-  "total_depts": 2,
+  "updated": "2026-11-15 21:24 UTC",
+  "total_results": 3,
+  "total_depts": 1,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "direkt-alsfeld",
-      "title": "Direktvermarktung — Alsfeld  ·  Chancen",
+      "agent": "tourismus-schotten",
+      "title": "Vulkanregion-Tourismus — Schotten  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nDie „Vogelsberger Feierabend-Kiste“ ist ein regionales Wochenabo mit frischem Saison-Gemüse, Eiern, Bauernbrot und heimischer Ahler Wurscht, das freitags griffbereit an zentralen Knotenpunkten in Alsfeld zur Abholung bereitsteht.\n\n**für WEN:** \nFür berufstätige Pendler und Familien aus Alsfeld und den umliegenden Dörfern, die nach der Arbeit ohne Supermarkt-Stress ehrlich erzeugte Lebensmittel direkt vom Bauern aus der Heimat auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Betriebe aus der Nachbarschaft (z. B. für Gemüse, Brot und Wurst) an einen Tisch holen und einen gut erreichbaren Parkplatz in Alsfeld für einen vierwöchigen Testlauf als Abholstation vereinbaren.",
-      "ts": "2026-11-15 16:45",
+      "text": "**WAS:** Bei der „Vulkan-Dämmerung & Alpaka-Tour“ wandern Sie mit Alpakas durch die basaltische Natur von Schotten und genießen anschließend ein regionales Picknick bei Sonnenuntergang auf dem Hoherodskopf.\n\n**fuer WEN:** Das Erlebnis eignet sich perfekt für Paare, Familien und Naturgenießer, die eine entschleunigende Auszeit im Vogelsberg suchen.\n\n**ERSTER SCHRITT:** Wählen Sie Ihren Wunschtermin im Online-Kalender aus und sichern Sie sich Ihr Erlebnisticket direkt mit wenigen Klicks.",
+      "ts": "2026-11-15 21:24",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-alsfeld",
-      "title": "Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen",
+      "agent": "direkt-schotten",
+      "title": "Direktvermarktung — Schotten  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp in Alsfeld:** \nEin **Sanitär- und Heizungsbauer** (mit Fokus auf Wärmepumpen-Umstellung und regionalen Notdienst).\n\n**Ansprache-Idee (1 Satz):**\n*„Wenn Hausbesitzer in Alsfeld und den Ortsteilen online nach einer neuen Heizung suchen oder am Wochenende einen Notdienst brauchen, finden sie aktuell eher die Großkonkurrenz aus Gießen oder Fulda – lassen Sie uns dafür sorgen, dass Ihr Telefon bei diesen lukrativen Aufträgen zuerst klingelt.“*",
-      "ts": "2026-11-15 16:45",
+      "text": "**WAS:** \nEine handfeste „Vogelsberger Vulkan-Kiste“ im wöchentlichen Abo, vollgepackt mit frischem Landbrot, Hausmacher Wurst, regionalem Schnittkäse und saisonalem Obst oder Gemüse direkt von den Höfen rund um den Hoherodskopf.\n\n**für WEN:** \nFür beschäftigte Familien und Pendler aus Schotten und Umgebung sowie Naturgenießer, die ohne Einkaufsstress ehrliche, bodenständige Lebensmittel aus der direkten Nachbarschaft auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Partnerbetriebe (z. B. Bäcker, Metzger, Imker/Käser) an einen Tisch holen und die Kiste erst einmal für 20 Test-Abonnenten aus dem eigenen Bekanntenkreis packen, um Logistik und Zuspruch zu testen.",
+      "ts": "2026-11-15 21:24",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-alsfeld",
-      "title": "Chancen-Scout — Alsfeld  ·  Chancen",
+      "agent": "chancen-schotten",
+      "title": "Chancen-Scout — Schotten  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin lokaler Komplett-Service für die Einrichtung, digitale Vermarktung und Abwicklung von Kurzzeit-Ferienwohnungen in Alsfelder Altstadt-Immobilien.\n\n**WARUM HIER:** \nAlsfeld profitiert von starkem Fachwerk-Tourismus sowie der verkehrsgünstigen A5-Lage, während vielen lokalen Objekteigentümern das digitale Know-how und die Zeit für eine lukrative Airbnb-Vermietung fehlen.\n\n**ERSTER SCHRITT:** \nSpreche gezielt drei Eigentümer von leerstehenden Altstadt-Wohnungen an und biete ihnen die Erstellung des Inserats sowie das Gästemanagement für die ersten Buchungen auf reiner Provisionsbasis an.",
-      "ts": "2026-11-15 16:45",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-lauterbach",
-      "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:**  \nEin mobiler Besorgungs- und Begleitdienst, der Einkäufe des täglichen Bedarfs, Apothekenwege und Zeit für ein persönliches Gespräch direkt an die Haustüren der Lauterbacher Ortsteile bringt.\n\n**WARUM HIER:**  \nDa die Wege aus den umliegenden Dörfern in die Lauterbacher Kernstadt ohne eigenes Auto oft beschwerlich sind, bewahrt dieser nahbare Service die Würde und Selbstständigkeit im vertrauten Zuhause.\n\n**ERSTER SCHRITT:**  \nIn Kooperation mit dem örtlichen Seniorenbeirat wird eine einfache Telefon-Hotline eingerichtet, über die Wünsche wöchentlich unbürokratisch angemeldet werden können.",
-      "ts": "2026-11-15 16:45",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-lauterbach",
-      "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** „Die Lauterbacher Strolch-Tour“ kombiniert eine digitale Rätsel-Schatzsuche über die historischen Schrittsteine mit einem gefüllten Picknick-Rucksack voller regionaler Spezialitäten und Strolch-Bier für den Schlosspark Eisenbach.\n\n**FÜR WEN:** Das Paket eignet sich perfekt für Paare, kleine Gruppen und Genusswanderer, die die Sagen- und Brauwelt Lauterbachs spielerisch und im eigenen Tempo entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihr Wunschdatum aus und erhalten Sie direkt nach der Online-Zahlung die Zugangsdaten für die Tour-App sowie den Abhol-Code für Ihren Picknick-Rucksack.",
-      "ts": "2026-11-15 16:45",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-lauterbach",
-      "title": "Direktvermarktung — Lauterbach  ·  Chancen",
-      "via": "gemini",
-      "text": "**Idee: Die „Vogelsberger Feierabend-Kiste“**\n\n**WAS:** Ein wöchentliches Frische-Abo mit saisonalem Gemüse, Eiern, Käse und Wurstwaren von Höfen rund um Lauterbach, verpackt mit einfachen Rezepten für die schnelle Landküche.\n\n**FÜR WEN:** Für berufstätige Familien und Pendler aus der Region, die lokal einkaufen wollen, aber unter der Woche keine Zeit für die Runde durch verschiedene Hofläden haben.\n\n**ERSTER SCHRITT:** Drei bis vier verlässliche Landwirte aus dem Umland an einen Tisch holen und eine vierwöchige Testphase mit 20 festen Abonnenten über einen zentralen Abholort in Lauterbach starten.",
-      "ts": "2026-11-15 16:45",
-      "age_min": 0
+      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Pannendienst mit Express-Reparatur und Hol-Bring-Service für Touristen und Einheimische.\n\n**WARUM HIER:** Schotten zieht durch den Hoherodskopf und den Vulkanradweg wöchentlich Tausende Radsportler aus dem Rhein-Main-Gebiet an, bietet aber bisher keine schnelle, mobile Pannenhilfe direkt an den Strecken.\n\n**ERSTER SCHRITT:** Bestücke einen vorhandenen Transporter oder Anhänger mit Grundwerkzeug sowie gängigen Ersatzteilen und verteile deine Visitenkarten an den Gastronomiebetrieben am Hoherodskopf sowie bei der Tourist-Info.",
+      "ts": "2026-11-15 21:22",
+      "age_min": 1
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 5,
+      "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "direkt-alsfeld",
-          "title": "Direktvermarktung — Alsfeld  ·  Chancen",
+          "agent": "tourismus-schotten",
+          "title": "Vulkanregion-Tourismus — Schotten  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nDie „Vogelsberger Feierabend-Kiste“ ist ein regionales Wochenabo mit frischem Saison-Gemüse, Eiern, Bauernbrot und heimischer Ahler Wurscht, das freitags griffbereit an zentralen Knotenpunkten in Alsfeld zur Abholung bereitsteht.\n\n**für WEN:** \nFür berufstätige Pendler und Familien aus Alsfeld und den umliegenden Dörfern, die nach der Arbeit ohne Supermarkt-Stress ehrlich erzeugte Lebensmittel direkt vom Bauern aus der Heimat auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Betriebe aus der Nachbarschaft (z. B. für Gemüse, Brot und Wurst) an einen Tisch holen und einen gut erreichbaren Parkplatz in Alsfeld für einen vierwöchigen Testlauf als Abholstation vereinbaren.",
-          "ts": "2026-11-15 16:45",
+          "text": "**WAS:** Bei der „Vulkan-Dämmerung & Alpaka-Tour“ wandern Sie mit Alpakas durch die basaltische Natur von Schotten und genießen anschließend ein regionales Picknick bei Sonnenuntergang auf dem Hoherodskopf.\n\n**fuer WEN:** Das Erlebnis eignet sich perfekt für Paare, Familien und Naturgenießer, die eine entschleunigende Auszeit im Vogelsberg suchen.\n\n**ERSTER SCHRITT:** Wählen Sie Ihren Wunschtermin im Online-Kalender aus und sichern Sie sich Ihr Erlebnisticket direkt mit wenigen Klicks.",
+          "ts": "2026-11-15 21:24",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-alsfeld",
-          "title": "Handwerk-Sichtbarkeit — Alsfeld  ·  Chancen",
+          "agent": "direkt-schotten",
+          "title": "Direktvermarktung — Schotten  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp in Alsfeld:** \nEin **Sanitär- und Heizungsbauer** (mit Fokus auf Wärmepumpen-Umstellung und regionalen Notdienst).\n\n**Ansprache-Idee (1 Satz):**\n*„Wenn Hausbesitzer in Alsfeld und den Ortsteilen online nach einer neuen Heizung suchen oder am Wochenende einen Notdienst brauchen, finden sie aktuell eher die Großkonkurrenz aus Gießen oder Fulda – lassen Sie uns dafür sorgen, dass Ihr Telefon bei diesen lukrativen Aufträgen zuerst klingelt.“*",
-          "ts": "2026-11-15 16:45",
+          "text": "**WAS:** \nEine handfeste „Vogelsberger Vulkan-Kiste“ im wöchentlichen Abo, vollgepackt mit frischem Landbrot, Hausmacher Wurst, regionalem Schnittkäse und saisonalem Obst oder Gemüse direkt von den Höfen rund um den Hoherodskopf.\n\n**für WEN:** \nFür beschäftigte Familien und Pendler aus Schotten und Umgebung sowie Naturgenießer, die ohne Einkaufsstress ehrliche, bodenständige Lebensmittel aus der direkten Nachbarschaft auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Partnerbetriebe (z. B. Bäcker, Metzger, Imker/Käser) an einen Tisch holen und die Kiste erst einmal für 20 Test-Abonnenten aus dem eigenen Bekanntenkreis packen, um Logistik und Zuspruch zu testen.",
+          "ts": "2026-11-15 21:24",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-alsfeld",
-          "title": "Chancen-Scout — Alsfeld  ·  Chancen",
+          "agent": "chancen-schotten",
+          "title": "Chancen-Scout — Schotten  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin lokaler Komplett-Service für die Einrichtung, digitale Vermarktung und Abwicklung von Kurzzeit-Ferienwohnungen in Alsfelder Altstadt-Immobilien.\n\n**WARUM HIER:** \nAlsfeld profitiert von starkem Fachwerk-Tourismus sowie der verkehrsgünstigen A5-Lage, während vielen lokalen Objekteigentümern das digitale Know-how und die Zeit für eine lukrative Airbnb-Vermietung fehlen.\n\n**ERSTER SCHRITT:** \nSpreche gezielt drei Eigentümer von leerstehenden Altstadt-Wohnungen an und biete ihnen die Erstellung des Inserats sowie das Gästemanagement für die ersten Buchungen auf reiner Provisionsbasis an.",
-          "ts": "2026-11-15 16:45",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-lauterbach",
-          "title": "Vulkanregion-Tourismus — Lauterbach  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** „Die Lauterbacher Strolch-Tour“ kombiniert eine digitale Rätsel-Schatzsuche über die historischen Schrittsteine mit einem gefüllten Picknick-Rucksack voller regionaler Spezialitäten und Strolch-Bier für den Schlosspark Eisenbach.\n\n**FÜR WEN:** Das Paket eignet sich perfekt für Paare, kleine Gruppen und Genusswanderer, die die Sagen- und Brauwelt Lauterbachs spielerisch und im eigenen Tempo entdecken möchten.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform Ihr Wunschdatum aus und erhalten Sie direkt nach der Online-Zahlung die Zugangsdaten für die Tour-App sowie den Abhol-Code für Ihren Picknick-Rucksack.",
-          "ts": "2026-11-15 16:45",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "direkt-lauterbach",
-          "title": "Direktvermarktung — Lauterbach  ·  Chancen",
-          "via": "gemini",
-          "text": "**Idee: Die „Vogelsberger Feierabend-Kiste“**\n\n**WAS:** Ein wöchentliches Frische-Abo mit saisonalem Gemüse, Eiern, Käse und Wurstwaren von Höfen rund um Lauterbach, verpackt mit einfachen Rezepten für die schnelle Landküche.\n\n**FÜR WEN:** Für berufstätige Familien und Pendler aus der Region, die lokal einkaufen wollen, aber unter der Woche keine Zeit für die Runde durch verschiedene Hofläden haben.\n\n**ERSTER SCHRITT:** Drei bis vier verlässliche Landwirte aus dem Umland an einen Tisch holen und eine vierwöchige Testphase mit 20 festen Abonnenten über einen zentralen Abholort in Lauterbach starten.",
-          "ts": "2026-11-15 16:45",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
-      "count": 1,
-      "items": [
-        {
-          "dept": "Kunden",
-          "agent": "senioren-lauterbach",
-          "title": "Senioren-Alltagsdienste — Lauterbach  ·  Kunden",
-          "via": "gemini",
-          "text": "**WAS:**  \nEin mobiler Besorgungs- und Begleitdienst, der Einkäufe des täglichen Bedarfs, Apothekenwege und Zeit für ein persönliches Gespräch direkt an die Haustüren der Lauterbacher Ortsteile bringt.\n\n**WARUM HIER:**  \nDa die Wege aus den umliegenden Dörfern in die Lauterbacher Kernstadt ohne eigenes Auto oft beschwerlich sind, bewahrt dieser nahbare Service die Würde und Selbstständigkeit im vertrauten Zuhause.\n\n**ERSTER SCHRITT:**  \nIn Kooperation mit dem örtlichen Seniorenbeirat wird eine einfache Telefon-Hotline eingerichtet, über die Wünsche wöchentlich unbürokratisch angemeldet werden können.",
-          "ts": "2026-11-15 16:45",
-          "age_min": 0
+          "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Pannendienst mit Express-Reparatur und Hol-Bring-Service für Touristen und Einheimische.\n\n**WARUM HIER:** Schotten zieht durch den Hoherodskopf und den Vulkanradweg wöchentlich Tausende Radsportler aus dem Rhein-Main-Gebiet an, bietet aber bisher keine schnelle, mobile Pannenhilfe direkt an den Strecken.\n\n**ERSTER SCHRITT:** Bestücke einen vorhandenen Transporter oder Anhänger mit Grundwerkzeug sowie gängigen Ersatzteilen und verteile deine Visitenkarten an den Gastronomiebetrieben am Hoherodskopf sowie bei der Tourist-Info.",
+          "ts": "2026-11-15 21:22",
+          "age_min": 1
         }
       ]
     }
