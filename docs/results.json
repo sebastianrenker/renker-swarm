@@ -1,33 +1,51 @@
 {
-  "updated": "2026-11-15 21:24 UTC",
-  "total_results": 3,
-  "total_depts": 1,
+  "updated": "2026-11-16 01:17 UTC",
+  "total_results": 5,
+  "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-schotten",
-      "title": "Vulkanregion-Tourismus — Schotten  ·  Chancen",
+      "agent": "chancen-herbstein",
+      "title": "Chancen-Scout — Herbstein  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Bei der „Vulkan-Dämmerung & Alpaka-Tour“ wandern Sie mit Alpakas durch die basaltische Natur von Schotten und genießen anschließend ein regionales Picknick bei Sonnenuntergang auf dem Hoherodskopf.\n\n**fuer WEN:** Das Erlebnis eignet sich perfekt für Paare, Familien und Naturgenießer, die eine entschleunigende Auszeit im Vogelsberg suchen.\n\n**ERSTER SCHRITT:** Wählen Sie Ihren Wunschtermin im Online-Kalender aus und sichern Sie sich Ihr Erlebnisticket direkt mit wenigen Klicks.",
-      "ts": "2026-11-15 21:24",
+      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice auf Abruf, der Radtouristen und Einheimischen kleine Reparaturen, Akku-Leihservice und einen Pick-up-Dienst anbietet.\n\n**WARUM HIER:** Herbstein ist ein zentraler Etappenort am stark frequentierten Vulkanradweg mit Campingplatz und VulkanTherme, besitzt aber aktuell keine eigene Fahrradwerkstatt direkt im Ort.\n\n**ERSTER SCHRITT:** Ein Kooperationsgespräch mit dem örtlichen Campingplatz und der Tourist-Info führen, um Notfall-Visitenkarten mit Direktruf-QR-Code an der Rezeption und entlang des Radwegs zu platzieren.",
+      "ts": "2026-11-16 01:17",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-schotten",
+      "title": "Senioren-Alltagsdienste — Schotten  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:**\nEin mobiler Alltags- und Begleitdienst bringt Senioren aus den Ortsteilen sicher zum Arzt, zum Einkauf oder zu Gemeinschaftstreffen im Kernort und unterstützt sie auf Wunsch respektvoll vor Ort.\n\n**WARUM HIER:**\nDie weit verstreuten Dörfer rund um Schotten im Vogelsbergkreis verfügen kaum noch über eigene Nahversorgung, was ältere Menschen ohne eigenes Auto rasch isoliert.\n\n**ERSTER SCHRITT:**\nGemeinsam mit der Stadtverwaltung und den Ortsbeiräten wird eine kurze Bedarfsabfrage in den Dörfern gestartet, um erste verlässliche Routen und ehrenamtliche Fahrer zu koordinieren.",
+      "ts": "2026-11-16 01:17",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-schotten",
-      "title": "Direktvermarktung — Schotten  ·  Chancen",
+      "agent": "handwerk-schotten",
+      "title": "Handwerk-Sichtbarkeit — Schotten  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEine handfeste „Vogelsberger Vulkan-Kiste“ im wöchentlichen Abo, vollgepackt mit frischem Landbrot, Hausmacher Wurst, regionalem Schnittkäse und saisonalem Obst oder Gemüse direkt von den Höfen rund um den Hoherodskopf.\n\n**für WEN:** \nFür beschäftigte Familien und Pendler aus Schotten und Umgebung sowie Naturgenießer, die ohne Einkaufsstress ehrliche, bodenständige Lebensmittel aus der direkten Nachbarschaft auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Partnerbetriebe (z. B. Bäcker, Metzger, Imker/Käser) an einen Tisch holen und die Kiste erst einmal für 20 Test-Abonnenten aus dem eigenen Bekanntenkreis packen, um Logistik und Zuspruch zu testen.",
-      "ts": "2026-11-15 21:24",
+      "text": "**Betriebstyp:** \nEin lokaler **Heizungs- und Sanitärbetrieb** in Schotten (besonders mit Fokus auf Wärmepumpen, Holz/Pelletheizungen oder Komplettbäder).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Hausbesitzer aus Schotten und den Ortsteilen auf Google nach einer neuen Heizung oder Badmodernisierung suchen, landen sie aktuell meist bei Betrieben aus Alsfeld oder Gießen – lassen Sie uns dafür sorgen, dass diese regionalen Aufträge direkt bei Ihnen im Ort bleiben.“",
+      "ts": "2026-11-16 01:16",
       "age_min": 0
     },
     {
-      "dept": "Chancen",
-      "agent": "chancen-schotten",
-      "title": "Chancen-Scout — Schotten  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-alsfeld",
+      "title": "Senioren-Alltagsdienste — Alsfeld  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Pannendienst mit Express-Reparatur und Hol-Bring-Service für Touristen und Einheimische.\n\n**WARUM HIER:** Schotten zieht durch den Hoherodskopf und den Vulkanradweg wöchentlich Tausende Radsportler aus dem Rhein-Main-Gebiet an, bietet aber bisher keine schnelle, mobile Pannenhilfe direkt an den Strecken.\n\n**ERSTER SCHRITT:** Bestücke einen vorhandenen Transporter oder Anhänger mit Grundwerkzeug sowie gängigen Ersatzteilen und verteile deine Visitenkarten an den Gastronomiebetrieben am Hoherodskopf sowie bei der Tourist-Info.",
-      "ts": "2026-11-15 21:22",
+      "text": "**WAS:** \nDer „Alsfelder Dorf-Begleiter“ bietet einen persönlichen, barrierefreien Hol- und Begleitdienst mit fester Bezugsperson, der Ältere aus den umliegenden Ortsteilen sicher zu Einkäufen, Arztterminen und gesellschaftlichen Treffpunkten in die Stadt bringt.\n\n**WARUM HIER:** \nIn den weit verstreuten Dörfern rund um Alsfeld fehlen oft Läden und eine dichte Busanbindung, weshalb dieser Dienst die Selbstständigkeit und Würde der Menschen bewahrt, wenn das eigene Auto nicht mehr genutzt werden kann.\n\n**ERSTER SCHRITT:** \nEin Gespräch mit den örtlichen Ortsvorstehern führen, um den genauen Bedarf in den Ortsteilen zu kartieren und vertrauenswürdige Begleitpersonen aus der Region einzubinden.",
+      "ts": "2026-11-16 01:16",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-alsfeld",
+      "title": "Vulkanregion-Tourismus — Alsfeld  ·  Chancen",
+      "via": "gemini",
+      "text": "**Erlebnis-Paket: „Märchen & Häppchen – Alsfelds Fachwerk kulinarisch entdecken“**\n\n* **WAS:** Erlebe eine 3-stündige Genusstour durch Alsfelds historische Altstadt mit exklusivem Blick hinter die Kulissen alter Fachwerkhäuser und drei Stopps für regionale Vogelsberger Spezialitäten.\n* **fuer WEN:** Das Angebot richtet sich an Paare, Genussurlauber und Geschichtsbegeisterte, die mittelalterlichen Charme und regionale Entdeckungen miteinander verbinden möchten.\n* **ERSTER SCHRITT:** Wähle auf unserer Plattform deinen Wunschtermin aus und sichere dir mit wenigen Klicks dein digitales Erlebnisticket.",
+      "ts": "2026-11-16 01:16",
       "age_min": 1
     }
   ],
@@ -38,29 +56,53 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-schotten",
-          "title": "Vulkanregion-Tourismus — Schotten  ·  Chancen",
+          "agent": "chancen-herbstein",
+          "title": "Chancen-Scout — Herbstein  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Bei der „Vulkan-Dämmerung & Alpaka-Tour“ wandern Sie mit Alpakas durch die basaltische Natur von Schotten und genießen anschließend ein regionales Picknick bei Sonnenuntergang auf dem Hoherodskopf.\n\n**fuer WEN:** Das Erlebnis eignet sich perfekt für Paare, Familien und Naturgenießer, die eine entschleunigende Auszeit im Vogelsberg suchen.\n\n**ERSTER SCHRITT:** Wählen Sie Ihren Wunschtermin im Online-Kalender aus und sichern Sie sich Ihr Erlebnisticket direkt mit wenigen Klicks.",
-          "ts": "2026-11-15 21:24",
+          "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice auf Abruf, der Radtouristen und Einheimischen kleine Reparaturen, Akku-Leihservice und einen Pick-up-Dienst anbietet.\n\n**WARUM HIER:** Herbstein ist ein zentraler Etappenort am stark frequentierten Vulkanradweg mit Campingplatz und VulkanTherme, besitzt aber aktuell keine eigene Fahrradwerkstatt direkt im Ort.\n\n**ERSTER SCHRITT:** Ein Kooperationsgespräch mit dem örtlichen Campingplatz und der Tourist-Info führen, um Notfall-Visitenkarten mit Direktruf-QR-Code an der Rezeption und entlang des Radwegs zu platzieren.",
+          "ts": "2026-11-16 01:17",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-schotten",
-          "title": "Direktvermarktung — Schotten  ·  Chancen",
+          "agent": "handwerk-schotten",
+          "title": "Handwerk-Sichtbarkeit — Schotten  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEine handfeste „Vogelsberger Vulkan-Kiste“ im wöchentlichen Abo, vollgepackt mit frischem Landbrot, Hausmacher Wurst, regionalem Schnittkäse und saisonalem Obst oder Gemüse direkt von den Höfen rund um den Hoherodskopf.\n\n**für WEN:** \nFür beschäftigte Familien und Pendler aus Schotten und Umgebung sowie Naturgenießer, die ohne Einkaufsstress ehrliche, bodenständige Lebensmittel aus der direkten Nachbarschaft auf dem Tisch haben wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Partnerbetriebe (z. B. Bäcker, Metzger, Imker/Käser) an einen Tisch holen und die Kiste erst einmal für 20 Test-Abonnenten aus dem eigenen Bekanntenkreis packen, um Logistik und Zuspruch zu testen.",
-          "ts": "2026-11-15 21:24",
+          "text": "**Betriebstyp:** \nEin lokaler **Heizungs- und Sanitärbetrieb** in Schotten (besonders mit Fokus auf Wärmepumpen, Holz/Pelletheizungen oder Komplettbäder).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Hausbesitzer aus Schotten und den Ortsteilen auf Google nach einer neuen Heizung oder Badmodernisierung suchen, landen sie aktuell meist bei Betrieben aus Alsfeld oder Gießen – lassen Sie uns dafür sorgen, dass diese regionalen Aufträge direkt bei Ihnen im Ort bleiben.“",
+          "ts": "2026-11-16 01:16",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-schotten",
-          "title": "Chancen-Scout — Schotten  ·  Chancen",
+          "agent": "tourismus-alsfeld",
+          "title": "Vulkanregion-Tourismus — Alsfeld  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Pannendienst mit Express-Reparatur und Hol-Bring-Service für Touristen und Einheimische.\n\n**WARUM HIER:** Schotten zieht durch den Hoherodskopf und den Vulkanradweg wöchentlich Tausende Radsportler aus dem Rhein-Main-Gebiet an, bietet aber bisher keine schnelle, mobile Pannenhilfe direkt an den Strecken.\n\n**ERSTER SCHRITT:** Bestücke einen vorhandenen Transporter oder Anhänger mit Grundwerkzeug sowie gängigen Ersatzteilen und verteile deine Visitenkarten an den Gastronomiebetrieben am Hoherodskopf sowie bei der Tourist-Info.",
-          "ts": "2026-11-15 21:22",
+          "text": "**Erlebnis-Paket: „Märchen & Häppchen – Alsfelds Fachwerk kulinarisch entdecken“**\n\n* **WAS:** Erlebe eine 3-stündige Genusstour durch Alsfelds historische Altstadt mit exklusivem Blick hinter die Kulissen alter Fachwerkhäuser und drei Stopps für regionale Vogelsberger Spezialitäten.\n* **fuer WEN:** Das Angebot richtet sich an Paare, Genussurlauber und Geschichtsbegeisterte, die mittelalterlichen Charme und regionale Entdeckungen miteinander verbinden möchten.\n* **ERSTER SCHRITT:** Wähle auf unserer Plattform deinen Wunschtermin aus und sichere dir mit wenigen Klicks dein digitales Erlebnisticket.",
+          "ts": "2026-11-16 01:16",
+          "age_min": 1
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-schotten",
+          "title": "Senioren-Alltagsdienste — Schotten  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:**\nEin mobiler Alltags- und Begleitdienst bringt Senioren aus den Ortsteilen sicher zum Arzt, zum Einkauf oder zu Gemeinschaftstreffen im Kernort und unterstützt sie auf Wunsch respektvoll vor Ort.\n\n**WARUM HIER:**\nDie weit verstreuten Dörfer rund um Schotten im Vogelsbergkreis verfügen kaum noch über eigene Nahversorgung, was ältere Menschen ohne eigenes Auto rasch isoliert.\n\n**ERSTER SCHRITT:**\nGemeinsam mit der Stadtverwaltung und den Ortsbeiräten wird eine kurze Bedarfsabfrage in den Dörfern gestartet, um erste verlässliche Routen und ehrenamtliche Fahrer zu koordinieren.",
+          "ts": "2026-11-16 01:17",
+          "age_min": 0
+        },
+        {
+          "dept": "Kunden",
+          "agent": "senioren-alsfeld",
+          "title": "Senioren-Alltagsdienste — Alsfeld  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nDer „Alsfelder Dorf-Begleiter“ bietet einen persönlichen, barrierefreien Hol- und Begleitdienst mit fester Bezugsperson, der Ältere aus den umliegenden Ortsteilen sicher zu Einkäufen, Arztterminen und gesellschaftlichen Treffpunkten in die Stadt bringt.\n\n**WARUM HIER:** \nIn den weit verstreuten Dörfern rund um Alsfeld fehlen oft Läden und eine dichte Busanbindung, weshalb dieser Dienst die Selbstständigkeit und Würde der Menschen bewahrt, wenn das eigene Auto nicht mehr genutzt werden kann.\n\n**ERSTER SCHRITT:** \nEin Gespräch mit den örtlichen Ortsvorstehern führen, um den genauen Bedarf in den Ortsteilen zu kartieren und vertrauenswürdige Begleitpersonen aus der Region einzubinden.",
+          "ts": "2026-11-16 01:16",
           "age_min": 1
         }
       ]
