@@ -1,19 +1,23 @@
 {
-  "updated": "2026-11-16T01:17Z",
+  "updated": "2026-11-16T08:15Z",
   "agents_total": 162,
-  "worked": 5,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist der aktuelle Lagebericht: **Lagebericht:** * **Offerta:** Pipeline ist stabil, aber Abschlüsse dauern zu lange | **Hebel:** Gezieltes Closing-Closing der 3 größten offenen Angebote zur Cashflow-Sicherung. * **Handwerk-Sichtbar:** Fulfillment läuft solide, Neukunden-Zulauf stagniert leicht | **Hebel:** Kaltakquise-Kampagne hochfahren und Outbound-Pit",
+        "age_min": 0
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice auf Abruf, der Radtouristen und Einheimischen kleine Reparaturen, Akku-Leihservice und einen Pick-up-Dienst anbietet. **WARUM HIER:** Herbstein ist ein zentraler Etappenort am stark frequentierten Vulkanradweg mit Campingplatz und VulkanTherme, besitzt aber aktuell keine eigene Fahrradwerkstatt direkt i",
+        "text": "**SCHRITT:** Launch einer kostenlosen **„Smoke-Test“-Landingpage** für eine limitierte „Vogelsberg-Box Test-Edition“ mit unverbindlicher Vorbestellung (E-Mail-Reservierung). --- **WARUM:** Bevor ich Verträge mit Höfen schließe oder Waren einkaufe, muss ich prüfen, ob Kunden im Vogelsberg (oder Exil-Vogelsberger) *wirklich* bereit sind, Geld für eine regional",
         "age_min": 0
       }
     },
@@ -32,7 +36,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst bringt Senioren aus den Ortsteilen sicher zum Arzt, zum Einkauf oder zu Gemeinschaftstreffen im Kernort und unterstützt sie auf Wunsch respektvoll vor Ort. **WARUM HIER:** Die weit verstreuten Dörfer rund um Schotten im Vogelsbergkreis verfügen kaum noch über eigene Nahversorgung, was ältere Menschen ohne eigen",
+        "text": "Hier ist der konkrete Demo-Schritt, den wir dem Entscheider (z. B. Handwerksmeister, Praxisinhaber oder Kanzleipartner) präsentieren, **bevor** irgendein Vertrag unterschrieben wird. --- ### SZENARIO: \"Der Freitag-Nachmittag-Unterbrechungs-Call\" *(Beispiel: Sanitär-/Heizungsbetrieb – lässt sich 1:1 auf Akut-Patienten oder Mandanten-Erstgespräche übertragen)*",
         "age_min": 0
       }
     },
@@ -120,45 +124,45 @@
       "name": "Business — Offerta",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SCHRITT:** **Der „Built with Offerta“-Footer in allen kostenlosen PDFs (mit Deaktivierungs-Option im Paid-Plan).** --- **WARUM JETZT:** Das ist der stärkste organische Hebel, den wir aktuell haben. Jedes Angebot, das e",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-handwerk",
       "name": "Business — Handwerk-Sichtbar",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hallo Herr [Name], ich bin [Dein Name] von „Handwerk-Sichtbar“ aus dem Vogelsberg und habe mir letztens mal die Google-Suche nach Dachdeckern rund um Lauterbach angeschaut. Die Wahrheit ist: Ihre Arbeit auf den Dächern i",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-vogelsbergbox",
       "name": "Business — Vogelsberg-Box",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**SCHRITT:** Launch einer kostenlosen **„Smoke-Test“-Landingpage** für eine limitierte „Vogelsberg-Box Test-Edition“ mit unverbindlicher Vorbestellung (E-Mail-Reservierung). --- **WARUM:** Bevor ich Verträge mit Höfen sc",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-terminki",
       "name": "Business — Termin-/Anruf-KI",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist der konkrete Demo-Schritt, den wir dem Entscheider (z. B. Handwerksmeister, Praxisinhaber oder Kanzleipartner) präsentieren, **bevor** irgendein Vertrag unterschrieben wird. --- ### SZENARIO: \"Der Freitag-Nachmi",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "biz-board",
       "name": "Business — Lagebericht",
       "dept": "Kommando",
       "iv": 480,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist der aktuelle Lagebericht: **Lagebericht:** * **Offerta:** Pipeline ist stabil, aber Abschlüsse dauern zu lange | **Hebel:** Gezieltes Closing-Closing der 3 größten offenen Angebote zur Cashflow-Sicherung. * **Ha",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-lauterbach",
@@ -237,18 +241,18 @@
       "name": "Vulkanregion-Tourismus — Alsfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: „Märchen & Häppchen – Alsfelds Fachwerk kulinarisch entdecken“** * **WAS:** Erlebe eine 3-stündige Genusstour durch Alsfelds historische Altstadt mit exklusivem Blick hinter die Kulissen alter Fachwerkh",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-alsfeld",
       "name": "Senioren-Alltagsdienste — Alsfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Alsfelder Dorf-Begleiter“ bietet einen persönlichen, barrierefreien Hol- und Begleitdienst mit fester Bezugsperson, der Ältere aus den umliegenden Ortsteilen sicher zu Einkäufen, Arztterminen und gesellscha",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-schotten",
@@ -264,9 +268,9 @@
       "name": "Handwerk-Sichtbarkeit — Schotten",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** in Schotten (besonders mit Fokus auf Wärmepumpen, Holz/Pelletheizungen oder Komplettbäder). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-schotten",
@@ -291,27 +295,27 @@
       "name": "Senioren-Alltagsdienste — Schotten",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Alltags- und Begleitdienst bringt Senioren aus den Ortsteilen sicher zum Arzt, zum Einkauf oder zu Gemeinschaftstreffen im Kernort und unterstützt sie auf Wunsch respektvoll vor Ort. **WARUM HIER:** ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-herbstein",
       "name": "Chancen-Scout — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice auf Abruf, der Radtouristen und Einheimischen kleine Reparaturen, Akku-Leihservice und einen Pick-up-Dienst anbietet. **WARUM HIER:** Herbstein ist ein zentraler Et",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-herbstein",
       "name": "Handwerk-Sichtbarkeit — Herbstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)** **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer hier im Vogelsberg online nach einer neuen Wärmepumpe oder schneller Hilfe bei einem Heizungsausfall suchen, so",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-herbstein",
@@ -1503,49 +1507,57 @@
     }
   ],
   "budget": {
-    "used": 5,
+    "used": 11,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "chancen-herbstein",
+      "dept": "Kommando",
+      "agent": "biz-board",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice auf Abruf, der Radtouristen und Einheimischen kleine Reparaturen, Akku-Leihservice und einen Pick-up-Dienst anbietet. **WARUM HIER:** Herbstein ist ein zentraler Etappenort am stark frequentierten Vulkanradweg mit Campingplatz und VulkanTherme, besitzt aber aktuell keine eigene Fahrradwerkstatt direkt i",
-      "ts": "2026-11-16 01:17",
+      "text": "Hier ist der aktuelle Lagebericht: **Lagebericht:** * **Offerta:** Pipeline ist stabil, aber Abschlüsse dauern zu lange | **Hebel:** Gezieltes Closing-Closing der 3 größten offenen Angebote zur Cashflow-Sicherung. * **Handwerk-Sichtbar:** Fulfillment läuft solide, Neukunden-Zulauf stagniert leicht | **Hebel:** Kaltakquise-Kampagne hochfahren und Outbound-Pit",
+      "ts": "2026-11-16 08:15",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-schotten",
+      "agent": "biz-terminki",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst bringt Senioren aus den Ortsteilen sicher zum Arzt, zum Einkauf oder zu Gemeinschaftstreffen im Kernort und unterstützt sie auf Wunsch respektvoll vor Ort. **WARUM HIER:** Die weit verstreuten Dörfer rund um Schotten im Vogelsbergkreis verfügen kaum noch über eigene Nahversorgung, was ältere Menschen ohne eigen",
-      "ts": "2026-11-16 01:17",
+      "text": "Hier ist der konkrete Demo-Schritt, den wir dem Entscheider (z. B. Handwerksmeister, Praxisinhaber oder Kanzleipartner) präsentieren, **bevor** irgendein Vertrag unterschrieben wird. --- ### SZENARIO: \"Der Freitag-Nachmittag-Unterbrechungs-Call\" *(Beispiel: Sanitär-/Heizungsbetrieb – lässt sich 1:1 auf Akut-Patienten oder Mandanten-Erstgespräche übertragen)*",
+      "ts": "2026-11-16 08:15",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-schotten",
+      "agent": "biz-vogelsbergbox",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Heizungs- und Sanitärbetrieb** in Schotten (besonders mit Fokus auf Wärmepumpen, Holz/Pelletheizungen oder Komplettbäder). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Hausbesitzer aus Schotten und den Ortsteilen auf Google nach einer neuen Heizung oder Badmodernisierung suchen, landen sie aktuell meist bei Betrieben aus Al",
-      "ts": "2026-11-16 01:16",
+      "text": "**SCHRITT:** Launch einer kostenlosen **„Smoke-Test“-Landingpage** für eine limitierte „Vogelsberg-Box Test-Edition“ mit unverbindlicher Vorbestellung (E-Mail-Reservierung). --- **WARUM:** Bevor ich Verträge mit Höfen schließe oder Waren einkaufe, muss ich prüfen, ob Kunden im Vogelsberg (oder Exil-Vogelsberger) *wirklich* bereit sind, Geld für eine regional",
+      "ts": "2026-11-16 08:14",
       "age_min": 0
     },
     {
-      "dept": "Kunden",
-      "agent": "senioren-alsfeld",
+      "dept": "Chancen",
+      "agent": "biz-handwerk",
       "via": "gemini",
-      "text": "**WAS:** Der „Alsfelder Dorf-Begleiter“ bietet einen persönlichen, barrierefreien Hol- und Begleitdienst mit fester Bezugsperson, der Ältere aus den umliegenden Ortsteilen sicher zu Einkäufen, Arztterminen und gesellschaftlichen Treffpunkten in die Stadt bringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Alsfeld fehlen oft Läden und eine dichte ",
-      "ts": "2026-11-16 01:16",
-      "age_min": 1
+      "text": "Hallo Herr [Name], ich bin [Dein Name] von „Handwerk-Sichtbar“ aus dem Vogelsberg und habe mir letztens mal die Google-Suche nach Dachdeckern rund um Lauterbach angeschaut. Die Wahrheit ist: Ihre Arbeit auf den Dächern ist sicher top, aber wer online nach einem Fachbetrieb bei uns sucht, landet aktuell schnell bei der Konkurrenz. Genau dafür helfe ich Handwe",
+      "ts": "2026-11-16 08:14",
+      "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-alsfeld",
+      "agent": "biz-offerta",
       "via": "gemini",
-      "text": "**Erlebnis-Paket: „Märchen & Häppchen – Alsfelds Fachwerk kulinarisch entdecken“** * **WAS:** Erlebe eine 3-stündige Genusstour durch Alsfelds historische Altstadt mit exklusivem Blick hinter die Kulissen alter Fachwerkhäuser und drei Stopps für regionale Vogelsberger Spezialitäten. * **fuer WEN:** Das Angebot richtet sich an Paare, Genussurlauber und Geschi",
-      "ts": "2026-11-16 01:16",
-      "age_min": 1
+      "text": "**SCHRITT:** **Der „Built with Offerta“-Footer in allen kostenlosen PDFs (mit Deaktivierungs-Option im Paid-Plan).** --- **WARUM JETZT:** Das ist der stärkste organische Hebel, den wir aktuell haben. Jedes Angebot, das ein Gratis-Nutzer an seinen Kunden schickt, wird zur B2B-Werbung. Da viele Kunden von Freelagern/Handwerkern selbst Unternehmer sind, trifft ",
+      "ts": "2026-11-16 08:14",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-herbstein",
+      "via": "gemini",
+      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb (SHK)** **Ansprache-Idee:** „Hallo [Name], wenn Hausbesitzer hier im Vogelsberg online nach einer neuen Wärmepumpe oder schneller Hilfe bei einem Heizungsausfall suchen, sorgen wir dafür, dass Ihr Betrieb in Herbstein direkt ganz oben gefunden wird – ohne dass Sie dafür Zeit im Büro verschwenden müssen.“",
+      "ts": "2026-11-16 08:14",
+      "age_min": 0
     }
   ]
 }
