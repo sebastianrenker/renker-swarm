@@ -1,76 +1,112 @@
 {
-  "updated": "2026-11-16 18:38 UTC",
-  "total_results": 4,
+  "updated": "2026-11-17 02:06 UTC",
+  "total_results": 6,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "chancen-grebenhain",
-      "title": "Chancen-Scout — Grebenhain  ·  Chancen",
+      "agent": "handwerk-homberg-ohm",
+      "title": "Handwerk-Sichtbarkeit — Homberg (Ohm)  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice auf Abruf, der Radtouristen direkt an den Strecken schnelle Hilfe sowie Vor-Ort-Inspektionen bietet.\n\n**WARUM HIER:** Grebenhain liegt direkt an der zentralen Achse des hochfrequentierten Vulkanradwegs, profitiert vom E-Bike-Boom im Vogelsberg, hat aber aktuell keine eigene Fahrradwerkstatt mit Notdienst vor Ort.\n\n**ERSTER SCHRITT:** Rüste einen vorhandenen PKW-Kombi mit Basis-Werkzeug sowie gängigen Ersatzteilen aus und hinterlege deine Kontaktdaten bei den lokalen Gastronomen und Unterkünften entlang des Radwegs.",
-      "ts": "2026-11-16 18:38",
+      "text": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (besonders fokussiert auf Heizungsmodernisierung/Wärmepumpen).\n\n**Ansprache-Idee (1 Satz):**\n„Sorgen wir dafür, dass Immobilieneigentümer aus Homberg und den Ortsteilen bei der Suche nach einer neuen Heizung direkt Ihren Betrieb auf Google finden – statt bei der Konkurrenz aus Marburg oder Alsfeld zu landen.“",
+      "ts": "2026-11-17 02:06",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-homberg-ohm",
+      "title": "Chancen-Scout — Homberg (Ohm)  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:**\nEin mobiler Hausmeister- und Kleinreparaturservice, der sich auf rasche Alltagshilfe und Instandhaltung für Senioren sowie Immobilienbesitzer in Homberg (Ohm) und seinen 13 Ortsteilen spezialisiert.\n\n**WARUM HIER:**\nDie demografische Überalterung in den Dörfern rund um Homberg trifft auf völlig ausgebuchte Handwerksbetriebe, die für Kleinstaufträge wie Rinnenreinigung, Tropf-Hähne oder Grünschnitt nicht mehr ausrücken.\n\n**ERSTER SCHRITT:**\nEinen Kombi mit Grundwerkzeug bestücken, eine Dienstleistungsliste mit transparenten Stundensätzen erstellen und einen Flyer im „Homberger Anzeiger“ sowie in den Dorfgemeinschaftshäusern platzieren.",
+      "ts": "2026-11-17 02:06",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-herbstein",
-      "title": "Senioren-Alltagsdienste — Herbstein  ·  Kunden",
+      "agent": "senioren-grebenhain",
+      "title": "Senioren-Alltagsdienste — Grebenhain  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Dorf-Begleitdienst, der ältere Menschen direkt zu Hause abholt, sie zu Einkäufen, Arztterminen oder sozialen Treffpunkten bringt und vor Ort unaufdringlich unterstützt.\n\n**WARUM HIER:** \nIn den acht weit verstreuten Ortsteilen Herbsteins im rauen Vogelsberg fehlen zunehmend Einkaufsmöglichkeiten vor Ort, wodurch die eigenständige Lebensführung ohne eigenes Fahrzeug stark erschwert wird.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit dem Seniorenbeirat Herbstein und örtlichen Vereinen (z. B. Landfrauen) den konkreten Bedarf der Ortsteile erheben und ein erstes wöchentliches Shuttle-Angebot aufbauen.",
-      "ts": "2026-11-16 18:38",
+      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Einkäufen oder Arztbesuchen bringt und sie vor Ort geduldig sowie respektvoll unterstützt.\n\n**WARUM HIER:** Die 15 weit verstreuten Ortsteile von Grebenhain im Hohen Vogelsberg erschweren ohne eigenes Auto den Zugang zur medizinischen Versorgung und den Erhalt der persönlichen Selbstständigkeit erheblich.\n\n**ERSTER SCHRITT:** Die Gemeinde lädt gemeinsam mit dem Seniorenbeirat zu einem Runden Tisch ins Bürgerhaus ein, um den genauen Bedarf abzufragen und interessierte Fahrerinnen und Fahrer aus der Region zu gewinnen.",
+      "ts": "2026-11-17 02:06",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-herbstein",
-      "title": "Vulkanregion-Tourismus — Herbstein  ·  Chancen",
+      "agent": "tourismus-grebenhain",
+      "title": "Vulkanregion-Tourismus — Grebenhain  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nDas Paket „Vulkan-Entspannung & Kellergeheimnisse“ beinhaltet eine exklusive Führung durch die historischen, im Basalt gelegenen Herbsteiner Gewölbekeller, gefolgt von einem Relax-Tag in der VulkanTherme und einem regionalen 3-Gänge-Vulkanmenü.\n\n**für WEN:** \nDieses Angebot richtet sich an Paare und Genusswanderer, die geologische Kulturgeschichte und tiefe Entspannung im Vogelsberg miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** \nWählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr digitales Erlebnisticket mit direkter Bestätigung.",
-      "ts": "2026-11-16 18:37",
+      "text": "**WAS:** Erleben Sie eine entspannte E-Bike-Tour entlang des berühmten Vulkanradwegs rund um Grebenhain, abgerundet durch einen prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten für Ihre Rast im Grünen.\n\n**FÜR WEN:** Dieses Angebot richtet sich an Genussradler, Paare und Naturliebhaber, die eine entschleunigte Kombination aus leichter Bewegung an der frischen Luft und kulinarischem Genuss suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und sichern Sie sich Ihr Komplettpaket inklusive Miet-Bike und Verpflegung mit wenigen Klicks online.",
+      "ts": "2026-11-17 02:06",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-herbstein",
-      "title": "Direktvermarktung — Herbstein  ·  Chancen",
+      "agent": "direkt-grebenhain",
+      "title": "Direktvermarktung — Grebenhain  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Die „Herbsteiner Vulkan-Vesperbox“ ist ein monatliches Frische-Abo vollgepackt mit regionaler Hausmacher Wurst, Vogelsberger Käse, frischem Bauernbrot und eingemachten Hof-Spezialitäten der Saison.\n\n**für WEN:** Für beschäftigte Familien und Pendler aus dem Vogelsbergkreis sowie Urlauber, die ohne Aufwand ehrlichen Regionalgeschmack auf dem Teller haben wollen.\n\n**ERSTER SCHRITT:** Mit zwei passenden Höfen aus der Nachbarschaft und dem lokalen Bäcker an einen Tisch setzen, um Produkte, Preis und eine zentrale Abholstation für einen Testlauf mit 20 Boxen festzulegen.",
-      "ts": "2026-11-16 18:37",
-      "age_min": 1
+      "text": "**WAS:** \nDie „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo mit frischem Holzofenbrot, Ahler Wurscht, Hofkäse und Saison-Gemüse, flexibel abholbar aus einer gekühlten 24/7-Hofstation direkt in Grebenhain.\n\n**für WEN:** \nFür beschäftigte Familien und Pendler aus der Region, die unter der Woche wenig Zeit für Hofladen-Runden haben, aber trotzdem ehrliche Lebensmittel von den Höfen um die Ecke essen wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (Bäcker, Metzger, Gemüsehof) an einen Tisch holen und einen vierwöchigen Probelauf mit 20 Test-Abos über eine simple WhatsApp-Gruppe starten.",
+      "ts": "2026-11-17 02:06",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grebenhain",
+      "title": "Handwerk-Sichtbarkeit — Grebenhain  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (speziell mit Fokus auf Wärmepumpen & Badsanierung)\n\n**Ansprache-Idee (1 Satz):** \n„Wenn Hausbesitzer im Vogelsberg nach einer neuen Heizung oder Badsanierung googeln, finden sie aktuell meist nur die Großbetriebe aus den Umliegenden Städten – wollen wir gemeinsam dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen in Grebenhain landen?“",
+      "ts": "2026-11-17 02:06",
+      "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 3,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "chancen-grebenhain",
-          "title": "Chancen-Scout — Grebenhain  ·  Chancen",
+          "agent": "handwerk-homberg-ohm",
+          "title": "Handwerk-Sichtbarkeit — Homberg (Ohm)  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Wartungsservice auf Abruf, der Radtouristen direkt an den Strecken schnelle Hilfe sowie Vor-Ort-Inspektionen bietet.\n\n**WARUM HIER:** Grebenhain liegt direkt an der zentralen Achse des hochfrequentierten Vulkanradwegs, profitiert vom E-Bike-Boom im Vogelsberg, hat aber aktuell keine eigene Fahrradwerkstatt mit Notdienst vor Ort.\n\n**ERSTER SCHRITT:** Rüste einen vorhandenen PKW-Kombi mit Basis-Werkzeug sowie gängigen Ersatzteilen aus und hinterlege deine Kontaktdaten bei den lokalen Gastronomen und Unterkünften entlang des Radwegs.",
-          "ts": "2026-11-16 18:38",
+          "text": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (besonders fokussiert auf Heizungsmodernisierung/Wärmepumpen).\n\n**Ansprache-Idee (1 Satz):**\n„Sorgen wir dafür, dass Immobilieneigentümer aus Homberg und den Ortsteilen bei der Suche nach einer neuen Heizung direkt Ihren Betrieb auf Google finden – statt bei der Konkurrenz aus Marburg oder Alsfeld zu landen.“",
+          "ts": "2026-11-17 02:06",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-herbstein",
-          "title": "Vulkanregion-Tourismus — Herbstein  ·  Chancen",
+          "agent": "chancen-homberg-ohm",
+          "title": "Chancen-Scout — Homberg (Ohm)  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nDas Paket „Vulkan-Entspannung & Kellergeheimnisse“ beinhaltet eine exklusive Führung durch die historischen, im Basalt gelegenen Herbsteiner Gewölbekeller, gefolgt von einem Relax-Tag in der VulkanTherme und einem regionalen 3-Gänge-Vulkanmenü.\n\n**für WEN:** \nDieses Angebot richtet sich an Paare und Genusswanderer, die geologische Kulturgeschichte und tiefe Entspannung im Vogelsberg miteinander verbinden möchten.\n\n**ERSTER SCHRITT:** \nWählen Sie auf unserer Buchungsplattform Ihren Wunschtermin aus und sichern Sie sich Ihr digitales Erlebnisticket mit direkter Bestätigung.",
-          "ts": "2026-11-16 18:37",
+          "text": "**WAS:**\nEin mobiler Hausmeister- und Kleinreparaturservice, der sich auf rasche Alltagshilfe und Instandhaltung für Senioren sowie Immobilienbesitzer in Homberg (Ohm) und seinen 13 Ortsteilen spezialisiert.\n\n**WARUM HIER:**\nDie demografische Überalterung in den Dörfern rund um Homberg trifft auf völlig ausgebuchte Handwerksbetriebe, die für Kleinstaufträge wie Rinnenreinigung, Tropf-Hähne oder Grünschnitt nicht mehr ausrücken.\n\n**ERSTER SCHRITT:**\nEinen Kombi mit Grundwerkzeug bestücken, eine Dienstleistungsliste mit transparenten Stundensätzen erstellen und einen Flyer im „Homberger Anzeiger“ sowie in den Dorfgemeinschaftshäusern platzieren.",
+          "ts": "2026-11-17 02:06",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-herbstein",
-          "title": "Direktvermarktung — Herbstein  ·  Chancen",
+          "agent": "tourismus-grebenhain",
+          "title": "Vulkanregion-Tourismus — Grebenhain  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Die „Herbsteiner Vulkan-Vesperbox“ ist ein monatliches Frische-Abo vollgepackt mit regionaler Hausmacher Wurst, Vogelsberger Käse, frischem Bauernbrot und eingemachten Hof-Spezialitäten der Saison.\n\n**für WEN:** Für beschäftigte Familien und Pendler aus dem Vogelsbergkreis sowie Urlauber, die ohne Aufwand ehrlichen Regionalgeschmack auf dem Teller haben wollen.\n\n**ERSTER SCHRITT:** Mit zwei passenden Höfen aus der Nachbarschaft und dem lokalen Bäcker an einen Tisch setzen, um Produkte, Preis und eine zentrale Abholstation für einen Testlauf mit 20 Boxen festzulegen.",
-          "ts": "2026-11-16 18:37",
-          "age_min": 1
+          "text": "**WAS:** Erleben Sie eine entspannte E-Bike-Tour entlang des berühmten Vulkanradwegs rund um Grebenhain, abgerundet durch einen prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten für Ihre Rast im Grünen.\n\n**FÜR WEN:** Dieses Angebot richtet sich an Genussradler, Paare und Naturliebhaber, die eine entschleunigte Kombination aus leichter Bewegung an der frischen Luft und kulinarischem Genuss suchen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und sichern Sie sich Ihr Komplettpaket inklusive Miet-Bike und Verpflegung mit wenigen Klicks online.",
+          "ts": "2026-11-17 02:06",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-grebenhain",
+          "title": "Direktvermarktung — Grebenhain  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nDie „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo mit frischem Holzofenbrot, Ahler Wurscht, Hofkäse und Saison-Gemüse, flexibel abholbar aus einer gekühlten 24/7-Hofstation direkt in Grebenhain.\n\n**für WEN:** \nFür beschäftigte Familien und Pendler aus der Region, die unter der Woche wenig Zeit für Hofladen-Runden haben, aber trotzdem ehrliche Lebensmittel von den Höfen um die Ecke essen wollen.\n\n**ERSTER SCHRITT:** \nDrei regionale Erzeuger (Bäcker, Metzger, Gemüsehof) an einen Tisch holen und einen vierwöchigen Probelauf mit 20 Test-Abos über eine simple WhatsApp-Gruppe starten.",
+          "ts": "2026-11-17 02:06",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-grebenhain",
+          "title": "Handwerk-Sichtbarkeit — Grebenhain  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (speziell mit Fokus auf Wärmepumpen & Badsanierung)\n\n**Ansprache-Idee (1 Satz):** \n„Wenn Hausbesitzer im Vogelsberg nach einer neuen Heizung oder Badsanierung googeln, finden sie aktuell meist nur die Großbetriebe aus den Umliegenden Städten – wollen wir gemeinsam dafür sorgen, dass die lukrativen Aufträge direkt bei Ihnen in Grebenhain landen?“",
+          "ts": "2026-11-17 02:06",
+          "age_min": 0
         }
       ]
     },
@@ -80,11 +116,11 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-herbstein",
-          "title": "Senioren-Alltagsdienste — Herbstein  ·  Kunden",
+          "agent": "senioren-grebenhain",
+          "title": "Senioren-Alltagsdienste — Grebenhain  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Dorf-Begleitdienst, der ältere Menschen direkt zu Hause abholt, sie zu Einkäufen, Arztterminen oder sozialen Treffpunkten bringt und vor Ort unaufdringlich unterstützt.\n\n**WARUM HIER:** \nIn den acht weit verstreuten Ortsteilen Herbsteins im rauen Vogelsberg fehlen zunehmend Einkaufsmöglichkeiten vor Ort, wodurch die eigenständige Lebensführung ohne eigenes Fahrzeug stark erschwert wird.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit dem Seniorenbeirat Herbstein und örtlichen Vereinen (z. B. Landfrauen) den konkreten Bedarf der Ortsteile erheben und ein erstes wöchentliches Shuttle-Angebot aufbauen.",
-          "ts": "2026-11-16 18:38",
+          "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Einkäufen oder Arztbesuchen bringt und sie vor Ort geduldig sowie respektvoll unterstützt.\n\n**WARUM HIER:** Die 15 weit verstreuten Ortsteile von Grebenhain im Hohen Vogelsberg erschweren ohne eigenes Auto den Zugang zur medizinischen Versorgung und den Erhalt der persönlichen Selbstständigkeit erheblich.\n\n**ERSTER SCHRITT:** Die Gemeinde lädt gemeinsam mit dem Seniorenbeirat zu einem Runden Tisch ins Bürgerhaus ein, um den genauen Bedarf abzufragen und interessierte Fahrerinnen und Fahrer aus der Region zu gewinnen.",
+          "ts": "2026-11-17 02:06",
           "age_min": 0
         }
       ]
