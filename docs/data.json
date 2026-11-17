@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T02:06Z",
+  "updated": "2026-11-17T10:41Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (besonders fokussiert auf Heizungsmodernisierung/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Sorgen wir dafür, dass Immobilieneigentümer aus Homberg und den Ortsteilen bei der Suche nach einer neuen Heizung direkt Ihren Betrieb auf Google finden – statt bei der Konkurrenz aus Marburg oder Alsfeld zu landen.“",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Einkäufen oder Arztbesuchen bringt und sie vor Ort geduldig sowie respektvoll unterstützt. **WARUM HIER:** Die 15 weit verstreuten Ortsteile von Grebenhain im Hohen Vogelsberg erschweren ohne eigenes Auto den Zugang zur medizinischen Versorgung u",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -354,54 +346,54 @@
       "name": "Handwerk-Sichtbarkeit — Grebenhain",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (speziell mit Fokus auf Wärmepumpen & Badsanierung) **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer im Vogelsberg nach einer neuen Heizung oder Badsanierung googeln, finden s",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grebenhain",
       "name": "Direktvermarktung — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo mit frischem Holzofenbrot, Ahler Wurscht, Hofkäse und Saison-Gemüse, flexibel abholbar aus einer gekühlten 24/7-Hofstation direkt in Grebenhain. **für WE",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-grebenhain",
       "name": "Vulkanregion-Tourismus — Grebenhain",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erleben Sie eine entspannte E-Bike-Tour entlang des berühmten Vulkanradwegs rund um Grebenhain, abgerundet durch einen prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten für Ihre Rast im Grün",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-grebenhain",
       "name": "Senioren-Alltagsdienste — Grebenhain",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Einkäufen oder Arztbesuchen bringt und sie vor Ort geduldig sowie respektvoll unterstützt. **WARUM HIER:**",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-homberg-ohm",
       "name": "Chancen-Scout — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Hausmeister- und Kleinreparaturservice, der sich auf rasche Alltagshilfe und Instandhaltung für Senioren sowie Immobilienbesitzer in Homberg (Ohm) und seinen 13 Ortsteilen spezialisiert. **WARUM HIER",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-homberg-ohm",
       "name": "Handwerk-Sichtbarkeit — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (besonders fokussiert auf Heizungsmodernisierung/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Sorgen wir dafür, dass Immobilieneigentümer aus Homberg und den Ortsteilen be",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-homberg-ohm",
@@ -1506,54 +1498,5 @@
     "used": 6,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-homberg-ohm",
-      "via": "gemini",
-      "text": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (besonders fokussiert auf Heizungsmodernisierung/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Sorgen wir dafür, dass Immobilieneigentümer aus Homberg und den Ortsteilen bei der Suche nach einer neuen Heizung direkt Ihren Betrieb auf Google finden – statt bei der Konkurrenz aus Marburg oder Alsfeld zu landen.“",
-      "ts": "2026-11-17 02:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-homberg-ohm",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Hausmeister- und Kleinreparaturservice, der sich auf rasche Alltagshilfe und Instandhaltung für Senioren sowie Immobilienbesitzer in Homberg (Ohm) und seinen 13 Ortsteilen spezialisiert. **WARUM HIER:** Die demografische Überalterung in den Dörfern rund um Homberg trifft auf völlig ausgebuchte Handwerksbetriebe, die für Kleinstaufträge w",
-      "ts": "2026-11-17 02:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, ehrenamtlicher Fahr- und Begleitdienst, der Senioren direkt an der Haustür abholt, zu Einkäufen oder Arztbesuchen bringt und sie vor Ort geduldig sowie respektvoll unterstützt. **WARUM HIER:** Die 15 weit verstreuten Ortsteile von Grebenhain im Hohen Vogelsberg erschweren ohne eigenes Auto den Zugang zur medizinischen Versorgung u",
-      "ts": "2026-11-17 02:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Erleben Sie eine entspannte E-Bike-Tour entlang des berühmten Vulkanradwegs rund um Grebenhain, abgerundet durch einen prall gefüllten Picknickkorb mit regionalen Vogelsberger Spezialitäten für Ihre Rast im Grünen. **FÜR WEN:** Dieses Angebot richtet sich an Genussradler, Paare und Naturliebhaber, die eine entschleunigte Kombination aus leichter Bew",
-      "ts": "2026-11-17 02:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-grebenhain",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ als wöchentliches Abo mit frischem Holzofenbrot, Ahler Wurscht, Hofkäse und Saison-Gemüse, flexibel abholbar aus einer gekühlten 24/7-Hofstation direkt in Grebenhain. **für WEN:** Für beschäftigte Familien und Pendler aus der Region, die unter der Woche wenig Zeit für Hofladen-Runden haben, aber trotzdem ehrliche ",
-      "ts": "2026-11-17 02:06",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-grebenhain",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Heizungs- und Sanitärbetrieb (speziell mit Fokus auf Wärmepumpen & Badsanierung) **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer im Vogelsberg nach einer neuen Heizung oder Badsanierung googeln, finden sie aktuell meist nur die Großbetriebe aus den Umliegenden Städten – wollen wir gemeinsam dafür sorgen, dass die lukrativen Aufträge direkt b",
-      "ts": "2026-11-17 02:06",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
