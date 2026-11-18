@@ -1,7 +1,93 @@
 {
-  "updated": "2026-11-18 09:13 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-11-18 18:09 UTC",
+  "total_results": 4,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-muecke",
+      "title": "Vulkanregion-Tourismus — Muecke  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** „Vulkan-Geflüster & Picknick an den Uhuklippen“ ist eine geführte Abend-Wanderung zu den versteckten Basaltklippen in Mücke inklusive eines Rucksacks voll regionaler Vogelsberger Leckereien.\n\n**fuer WEN:** Perfekt für Paare und Naturgenießer, die eine romantische Auszeit vom Alltag und besondere Ausblicke im Herzen des Vogelsbergs suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsseite deinen Wunschtermin sowie deine Picknick-Variante (klassisch oder vegetarisch) aus und sichere dir direkt dein Online-Ticket.",
+      "ts": "2026-11-18 18:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-muecke",
+      "title": "Direktvermarktung — Muecke  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEine wöchentliche „Vogelsberger Feierabend-Kiste“ vollgepackt mit bodenständigen Grundnahrungsmitteln wie Mücker Kartoffeln, frischen Landeiern, Hausmacher Wurst im Glas und saisonalem Feldgemüse.\n\n**für WEN:** \nFür berufstätige Pendler und Familien aus Mücke und den Ortsteilen, die wenig Zeit für Wochenmärkte haben, aber Wert auf ehrliche Lebensmittel direkt vom Erzeuger legen.\n\n**ERSTER SCHRITT:** \nZwei bis drei lokale Höfe schließen sich zusammen und testen das Konzept vier Wochen lang mit 20 Test-Abonnenten über eine feste Abholstation (z. B. gut erreichbar am Bahnhof Mücke).",
+      "ts": "2026-11-18 18:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-muecke",
+      "title": "Chancen-Scout — Muecke  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS**\nEin mobiler Fahrrad- und E-Bike-Wartungsservice, der Pendler-Räder morgens direkt am Bahnhof Nieder-Ohmen übernimmt und bis zur Rückkehr am Feierabend repariert und fahrbereit zurückstellt.\n\n**WARUM HIER**\nMücke bündelt über den Bahnhof Nieder-Ohmen hunderte tägliche Bahn-Pendler Richtung Gießen und Frankfurt, bietet diesen aber im gesamten Gemeindegebiet keine schnelle Werkstatt-Infrastruktur direkt am Umstiegsknoten.\n\n**ERSTER SCHRITT**\nAn zwei Wochentagen morgens Flyer an den Fahrradständern am Bahnhof Nieder-Ohmen anbringen und die ersten fünf Wartungsaufträge ohne eigene Werkstatträume rein über einen mobilen Werkzeugsatz im Transporter abwickeln.",
+      "ts": "2026-11-18 18:08",
+      "age_min": 1
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-kirtorf",
+      "title": "Senioren-Alltagsdienste — Kirtorf  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein begleiteter Nachbarschafts-Fahrdienst, der ältere Mitbürger behutsam von Haustür zu Haustür bringt und ihnen bei Besorgungen sowie Arztbesuchen persönlich zur Seite steht.\n\n**WARUM HIER:** In den sieben weit verstreuten Ortsteilen von Kirtorf fehlen zunehmend Geschäfte des täglichen Bedarfs, während die Wege zum Kernort für immobile Senioren ohne eigenen Pkw kaum zu bewältigen sind.\n\n**ERSTER SCHRITT:** Die Einberufung eines Runden Tisches mit der Stadt Kirtorf und örtlichen Vereinen, um vorhandene Fahrzeuge zu erfassen und ehrenamtliche Fahrerinnen und Fahrer würdevoll einzubinden.",
+      "ts": "2026-11-18 18:07",
+      "age_min": 2
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 3,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-muecke",
+          "title": "Vulkanregion-Tourismus — Muecke  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** „Vulkan-Geflüster & Picknick an den Uhuklippen“ ist eine geführte Abend-Wanderung zu den versteckten Basaltklippen in Mücke inklusive eines Rucksacks voll regionaler Vogelsberger Leckereien.\n\n**fuer WEN:** Perfekt für Paare und Naturgenießer, die eine romantische Auszeit vom Alltag und besondere Ausblicke im Herzen des Vogelsbergs suchen.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsseite deinen Wunschtermin sowie deine Picknick-Variante (klassisch oder vegetarisch) aus und sichere dir direkt dein Online-Ticket.",
+          "ts": "2026-11-18 18:09",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-muecke",
+          "title": "Direktvermarktung — Muecke  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEine wöchentliche „Vogelsberger Feierabend-Kiste“ vollgepackt mit bodenständigen Grundnahrungsmitteln wie Mücker Kartoffeln, frischen Landeiern, Hausmacher Wurst im Glas und saisonalem Feldgemüse.\n\n**für WEN:** \nFür berufstätige Pendler und Familien aus Mücke und den Ortsteilen, die wenig Zeit für Wochenmärkte haben, aber Wert auf ehrliche Lebensmittel direkt vom Erzeuger legen.\n\n**ERSTER SCHRITT:** \nZwei bis drei lokale Höfe schließen sich zusammen und testen das Konzept vier Wochen lang mit 20 Test-Abonnenten über eine feste Abholstation (z. B. gut erreichbar am Bahnhof Mücke).",
+          "ts": "2026-11-18 18:09",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-muecke",
+          "title": "Chancen-Scout — Muecke  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS**\nEin mobiler Fahrrad- und E-Bike-Wartungsservice, der Pendler-Räder morgens direkt am Bahnhof Nieder-Ohmen übernimmt und bis zur Rückkehr am Feierabend repariert und fahrbereit zurückstellt.\n\n**WARUM HIER**\nMücke bündelt über den Bahnhof Nieder-Ohmen hunderte tägliche Bahn-Pendler Richtung Gießen und Frankfurt, bietet diesen aber im gesamten Gemeindegebiet keine schnelle Werkstatt-Infrastruktur direkt am Umstiegsknoten.\n\n**ERSTER SCHRITT**\nAn zwei Wochentagen morgens Flyer an den Fahrradständern am Bahnhof Nieder-Ohmen anbringen und die ersten fünf Wartungsaufträge ohne eigene Werkstatträume rein über einen mobilen Werkzeugsatz im Transporter abwickeln.",
+          "ts": "2026-11-18 18:08",
+          "age_min": 1
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-kirtorf",
+          "title": "Senioren-Alltagsdienste — Kirtorf  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein begleiteter Nachbarschafts-Fahrdienst, der ältere Mitbürger behutsam von Haustür zu Haustür bringt und ihnen bei Besorgungen sowie Arztbesuchen persönlich zur Seite steht.\n\n**WARUM HIER:** In den sieben weit verstreuten Ortsteilen von Kirtorf fehlen zunehmend Geschäfte des täglichen Bedarfs, während die Wege zum Kernort für immobile Senioren ohne eigenen Pkw kaum zu bewältigen sind.\n\n**ERSTER SCHRITT:** Die Einberufung eines Runden Tisches mit der Stadt Kirtorf und örtlichen Vereinen, um vorhandene Fahrzeuge zu erfassen und ehrenamtliche Fahrerinnen und Fahrer würdevoll einzubinden.",
+          "ts": "2026-11-18 18:07",
+          "age_min": 2
+        }
+      ]
+    }
+  ]
 }

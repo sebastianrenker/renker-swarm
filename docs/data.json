@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T09:13Z",
+  "updated": "2026-11-18T18:09Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** „Vulkan-Geflüster & Picknick an den Uhuklippen“ ist eine geführte Abend-Wanderung zu den versteckten Basaltklippen in Mücke inklusive eines Rucksacks voll regionaler Vogelsberger Leckereien. **fuer WEN:** Perfekt für Paare und Naturgenießer, die eine romantische Auszeit vom Alltag und besondere Ausblicke im Herzen des Vogelsbergs suchen. **ERSTER SC",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein begleiteter Nachbarschafts-Fahrdienst, der ältere Mitbürger behutsam von Haustür zu Haustür bringt und ihnen bei Besorgungen sowie Arztbesuchen persönlich zur Seite steht. **WARUM HIER:** In den sieben weit verstreuten Ortsteilen von Kirtorf fehlen zunehmend Geschäfte des täglichen Bedarfs, während die Wege zum Kernort für immobile Senioren ohne",
+        "age_min": 2
+      }
     },
     {
       "id": "Finanzen",
@@ -463,18 +471,18 @@
       "name": "Senioren-Alltagsdienste — Kirtorf",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein begleiteter Nachbarschafts-Fahrdienst, der ältere Mitbürger behutsam von Haustür zu Haustür bringt und ihnen bei Besorgungen sowie Arztbesuchen persönlich zur Seite steht. **WARUM HIER:** In den sieben weit ",
+      "via": "gemini",
+      "age_min": 2
     },
     {
       "id": "chancen-muecke",
       "name": "Chancen-Scout — Muecke",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS** Ein mobiler Fahrrad- und E-Bike-Wartungsservice, der Pendler-Räder morgens direkt am Bahnhof Nieder-Ohmen übernimmt und bis zur Rückkehr am Feierabend repariert und fahrbereit zurückstellt. **WARUM HIER** Mücke b",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "handwerk-muecke",
@@ -490,18 +498,18 @@
       "name": "Direktvermarktung — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ vollgepackt mit bodenständigen Grundnahrungsmitteln wie Mücker Kartoffeln, frischen Landeiern, Hausmacher Wurst im Glas und saisonalem Feldgemüse. **für WEN:** F",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-muecke",
       "name": "Vulkanregion-Tourismus — Muecke",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Vulkan-Geflüster & Picknick an den Uhuklippen“ ist eine geführte Abend-Wanderung zu den versteckten Basaltklippen in Mücke inklusive eines Rucksacks voll regionaler Vogelsberger Leckereien. **fuer WEN:** Perfek",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-muecke",
@@ -1495,8 +1503,41 @@
     }
   ],
   "budget": {
-    "used": 0,
+    "used": 4,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-muecke",
+      "via": "gemini",
+      "text": "**WAS:** „Vulkan-Geflüster & Picknick an den Uhuklippen“ ist eine geführte Abend-Wanderung zu den versteckten Basaltklippen in Mücke inklusive eines Rucksacks voll regionaler Vogelsberger Leckereien. **fuer WEN:** Perfekt für Paare und Naturgenießer, die eine romantische Auszeit vom Alltag und besondere Ausblicke im Herzen des Vogelsbergs suchen. **ERSTER SC",
+      "ts": "2026-11-18 18:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-muecke",
+      "via": "gemini",
+      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ vollgepackt mit bodenständigen Grundnahrungsmitteln wie Mücker Kartoffeln, frischen Landeiern, Hausmacher Wurst im Glas und saisonalem Feldgemüse. **für WEN:** Für berufstätige Pendler und Familien aus Mücke und den Ortsteilen, die wenig Zeit für Wochenmärkte haben, aber Wert auf ehrliche Lebensmitte",
+      "ts": "2026-11-18 18:09",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-muecke",
+      "via": "gemini",
+      "text": "**WAS** Ein mobiler Fahrrad- und E-Bike-Wartungsservice, der Pendler-Räder morgens direkt am Bahnhof Nieder-Ohmen übernimmt und bis zur Rückkehr am Feierabend repariert und fahrbereit zurückstellt. **WARUM HIER** Mücke bündelt über den Bahnhof Nieder-Ohmen hunderte tägliche Bahn-Pendler Richtung Gießen und Frankfurt, bietet diesen aber im gesamten Gemeindege",
+      "ts": "2026-11-18 18:08",
+      "age_min": 1
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-kirtorf",
+      "via": "gemini",
+      "text": "**WAS:** Ein begleiteter Nachbarschafts-Fahrdienst, der ältere Mitbürger behutsam von Haustür zu Haustür bringt und ihnen bei Besorgungen sowie Arztbesuchen persönlich zur Seite steht. **WARUM HIER:** In den sieben weit verstreuten Ortsteilen von Kirtorf fehlen zunehmend Geschäfte des täglichen Bedarfs, während die Wege zum Kernort für immobile Senioren ohne",
+      "ts": "2026-11-18 18:07",
+      "age_min": 2
+    }
+  ]
 }
