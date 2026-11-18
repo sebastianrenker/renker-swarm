@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T19:25Z",
+  "updated": "2026-11-18T01:44Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit frischen Grundnahrungsmitteln von Kirtorfer Höfen (z. B. Eier, Kartoffeln, Saison-Gemüse, Wurst) inklusive zwei einfacher Rezeptkarten für die schnelle Küche unter der Woche. **fuer WEN:** Für berufstätige Pendler und Familien aus Kirtorf und den Ortsteilen, die Wert auf ehrliche Landwirtschaft l",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den Ortsteilen verlässlich von zu Hause abholt, sie würdevoll bei Einkäufen oder Arztbesuchen im Kernort unterstützt und wieder sicher heimbringt. **WARUM HIER:** Im hügeligen Stadtgebiet von Homberg (Ohm) mit seinen 13 verstreuten Ortsteilen fehlen oft fußläufige Einkaufsmöglichkeiten und dich",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -408,54 +400,54 @@
       "name": "Direktvermarktung — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Ohm-Tal Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit knackigem saisonalem Gemüse, Vogelsberger Kartoffeln, frischen Eiern und ehrlicher Hausmacher-Wurst oder Käse von Höfen aus der Umgebung",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-homberg-ohm",
       "name": "Vulkanregion-Tourismus — Homberg (Ohm)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Erlebnis-Paket: „Schloss-Romantik & Kulinarik-Picknick über der Ohm“** * **WAS:** Eine exklusive, Abendführung durch das historische Schloss Homberg mit anschließendem gefüllten Picknickkorb voller regionaler Vogelsber",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-homberg-ohm",
       "name": "Senioren-Alltagsdienste — Homberg (Ohm)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den Ortsteilen verlässlich von zu Hause abholt, sie würdevoll bei Einkäufen oder Arztbesuchen im Kernort unterstützt und wieder sicher heimbringt. **WARUM ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-kirtorf",
       "name": "Chancen-Scout — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler „Hof- & Grundstücksservice“, der Instandhaltung, schwere Gartenarbeiten und Brennholz-Service speziell für ältere Immobilieneigentümer anbietet. **WARUM HIER:** Kirtorfs Ortsteile weisen viele große,",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-kirtorf",
       "name": "Handwerk-Sichtbarkeit — Kirtorf",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbau (SHK-Betrieb) **Ansprache-Idee:** „Damit Hausbesitzer aus Kirtorf und den Ortsteilen bei einer neuen Wärmepumpe oder Badrenovierung direkt Ihren Meisterbetrieb auf Google finden ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-kirtorf",
       "name": "Direktvermarktung — Kirtorf",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit frischen Grundnahrungsmitteln von Kirtorfer Höfen (z. B. Eier, Kartoffeln, Saison-Gemüse, Wurst) inklusive zwei einfacher Rezeptkarten für die schnelle Küche",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-kirtorf",
@@ -1503,57 +1495,8 @@
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 0,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit frischen Grundnahrungsmitteln von Kirtorfer Höfen (z. B. Eier, Kartoffeln, Saison-Gemüse, Wurst) inklusive zwei einfacher Rezeptkarten für die schnelle Küche unter der Woche. **fuer WEN:** Für berufstätige Pendler und Familien aus Kirtorf und den Ortsteilen, die Wert auf ehrliche Landwirtschaft l",
-      "ts": "2026-11-17 19:25",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-kirtorf",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbau (SHK-Betrieb) **Ansprache-Idee:** „Damit Hausbesitzer aus Kirtorf und den Ortsteilen bei einer neuen Wärmepumpe oder Badrenovierung direkt Ihren Meisterbetrieb auf Google finden – und nicht beim Mitbewerber aus Alsfeld oder Stadtallendorf landen.“",
-      "ts": "2026-11-17 19:24",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-kirtorf",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler „Hof- & Grundstücksservice“, der Instandhaltung, schwere Gartenarbeiten und Brennholz-Service speziell für ältere Immobilieneigentümer anbietet. **WARUM HIER:** Kirtorfs Ortsteile weisen viele große, arbeitsintensive Dorfgrundstücke und eine alternde Bevölkerung auf, während die jüngere Generation meist als Pendler nach Stadtallendorf od",
-      "ts": "2026-11-17 19:24",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-homberg-ohm",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der ältere Menschen aus den Ortsteilen verlässlich von zu Hause abholt, sie würdevoll bei Einkäufen oder Arztbesuchen im Kernort unterstützt und wieder sicher heimbringt. **WARUM HIER:** Im hügeligen Stadtgebiet von Homberg (Ohm) mit seinen 13 verstreuten Ortsteilen fehlen oft fußläufige Einkaufsmöglichkeiten und dich",
-      "ts": "2026-11-17 19:24",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-homberg-ohm",
-      "via": "gemini",
-      "text": "**Erlebnis-Paket: „Schloss-Romantik & Kulinarik-Picknick über der Ohm“** * **WAS:** Eine exklusive, Abendführung durch das historische Schloss Homberg mit anschließendem gefüllten Picknickkorb voller regionaler Vogelsberger Spezialitäten für einen Sonnenuntergangs-Genuss auf der Bastei. * **Fuer WEN:** Perfekt für Paare, kleine Freundesgruppen und Genuss-Wan",
-      "ts": "2026-11-17 19:24",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-homberg-ohm",
-      "via": "gemini",
-      "text": "**WAS:** Die „Ohm-Tal Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit knackigem saisonalem Gemüse, Vogelsberger Kartoffeln, frischen Eiern und ehrlicher Hausmacher-Wurst oder Käse von Höfen aus der Umgebung. **fuer WEN:** Für Berufstätige, Pendler und Familien aus Homberg und den Ortsteilen, die nach dem Feierabend ohne großen Einkaufsstress bo",
-      "ts": "2026-11-17 19:24",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
