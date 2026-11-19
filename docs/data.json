@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T07:46Z",
+  "updated": "2026-11-19T16:50Z",
   "agents_total": 162,
-  "worked": 4,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Die „Romröder Feierabend-Kiste“ ist ein wöchentliches Regio-Abo mit frischem Saison-Gemüse, Hausmacher Wurst, Eiern und Grundnahrungsmitteln direkt von den Höfen der Umgebung für ehrliche Mahlzeiten ohne Supermarkt-Stress. **fuer WEN:** Für Pendler, beschäftigte Familien und Senioren aus Romrod und den umliegenden Orten, die Wert auf heimische Quali",
-        "age_min": 1
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Der mobile „Romroder Dorf-Begleiter“ bietet Senioren aus allen Ortsteilen eine individuelle Abholung von zu Hause sowie eine zugewandte, persönliche Begleitung bei Einkäufen, Arztbesuchen und behördlichen Besorgungen. **WARUM HIER:** In der weitverzweigten Großgemeinde Romrod mit ihren fünf verteilten Ortsteilen fehlen in den kleineren Dörfern Gesch",
-        "age_min": 1
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -525,27 +517,27 @@
       "name": "Chancen-Scout — Romrod",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein mobiler Hunde- und Gästebetreuungsservice speziell für Hochzeits- und Eventgesellschaften rund um Schloss Romrod. **WARUM HIER** Das Schloss ist ein überregionaler Hochzeits-Hotspot, bei dem auswärtige Gäste ",
-      "via": "gemini",
-      "age_min": 2
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-romrod",
       "name": "Handwerk-Sichtbarkeit — Romrod",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** (Sanitär-, Heizungs- und Klimatechnik) in Romrod. **Ansprache-Idee:** „Damit Eigentümer in Romrod bei einem Heizungsausfall oder einer Bad-Sanierung sofort Ihr Handwe",
-      "via": "gemini",
-      "age_min": 2
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-romrod",
       "name": "Direktvermarktung — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Romröder Feierabend-Kiste“ ist ein wöchentliches Regio-Abo mit frischem Saison-Gemüse, Hausmacher Wurst, Eiern und Grundnahrungsmitteln direkt von den Höfen der Umgebung für ehrliche Mahlzeiten ohne Superma",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-romrod",
@@ -561,9 +553,9 @@
       "name": "Senioren-Alltagsdienste — Romrod",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der mobile „Romroder Dorf-Begleiter“ bietet Senioren aus allen Ortsteilen eine individuelle Abholung von zu Hause sowie eine zugewandte, persönliche Begleitung bei Einkäufen, Arztbesuchen und behördlichen Besorg",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-feldatal",
@@ -1506,38 +1498,5 @@
     "used": 7,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Kunden",
-      "agent": "senioren-romrod",
-      "via": "gemini",
-      "text": "**WAS:** Der mobile „Romroder Dorf-Begleiter“ bietet Senioren aus allen Ortsteilen eine individuelle Abholung von zu Hause sowie eine zugewandte, persönliche Begleitung bei Einkäufen, Arztbesuchen und behördlichen Besorgungen. **WARUM HIER:** In der weitverzweigten Großgemeinde Romrod mit ihren fünf verteilten Ortsteilen fehlen in den kleineren Dörfern Gesch",
-      "ts": "2026-11-19 07:45",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-romrod",
-      "via": "gemini",
-      "text": "**WAS:** Die „Romröder Feierabend-Kiste“ ist ein wöchentliches Regio-Abo mit frischem Saison-Gemüse, Hausmacher Wurst, Eiern und Grundnahrungsmitteln direkt von den Höfen der Umgebung für ehrliche Mahlzeiten ohne Supermarkt-Stress. **fuer WEN:** Für Pendler, beschäftigte Familien und Senioren aus Romrod und den umliegenden Orten, die Wert auf heimische Quali",
-      "ts": "2026-11-19 07:45",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-romrod",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** (Sanitär-, Heizungs- und Klimatechnik) in Romrod. **Ansprache-Idee:** „Damit Eigentümer in Romrod bei einem Heizungsausfall oder einer Bad-Sanierung sofort Ihr Handwerk auf dem Smartphone finden – und die Aufträge nicht an die Konkurrenz aus Alsfeld gehen.“",
-      "ts": "2026-11-19 07:44",
-      "age_min": 2
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-romrod",
-      "via": "gemini",
-      "text": "**WAS** Ein mobiler Hunde- und Gästebetreuungsservice speziell für Hochzeits- und Eventgesellschaften rund um Schloss Romrod. **WARUM HIER** Das Schloss ist ein überregionaler Hochzeits-Hotspot, bei dem auswärtige Gäste für ihre mitgebrachten Vierbeiner während der mehrstündigen Feierlichkeiten bisher kaum flexible, direkte Betreuungsmöglichkeiten vor Ort fi",
-      "ts": "2026-11-19 07:44",
-      "age_min": 2
-    }
-  ]
+  "recent": []
 }
