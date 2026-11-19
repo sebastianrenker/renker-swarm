@@ -1,58 +1,76 @@
 {
-  "updated": "2026-11-19 00:20 UTC",
-  "total_results": 3,
+  "updated": "2026-11-19 07:46 UTC",
+  "total_results": 4,
   "total_depts": 2,
   "active": [
     {
       "dept": "Kunden",
-      "agent": "senioren-muecke",
-      "title": "Senioren-Alltagsdienste — Muecke  ·  Kunden",
+      "agent": "senioren-romrod",
+      "title": "Senioren-Alltagsdienste — Romrod  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nDer mobile Begleitdienst „Mücke-Tandem“ bietet älteren Menschen aus allen 12 Ortsteilen individuelle Fahrten und verlässliche Unterstützung bei Einkäufen, Arztbesuchen oder gemeinsamen Botengängen auf Augenhöhe.\n\n**WARUM HIER:** \nDurch die weit verstreuten Dorfstrukturen im Vogelsberg und das Fehlen von Geschäften in vielen Ortsteilen ist Mobilität in Mücke die Grundvoraussetzung, um bis ins hohe Alter selbstbestimmt im eigenen Zuhause wohnen zu bleiben.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit der Gemeinde wird ein einfaches Dorftelefon geschaltet, um den konkreten Bedarf abzufragen und hilfsbereite Fahrerinnen und Fahrer aus den jeweiligen Ortsteilen direkt zu vermitteln.",
-      "ts": "2026-11-19 00:20",
-      "age_min": 0
+      "text": "**WAS:** \nDer mobile „Romroder Dorf-Begleiter“ bietet Senioren aus allen Ortsteilen eine individuelle Abholung von zu Hause sowie eine zugewandte, persönliche Begleitung bei Einkäufen, Arztbesuchen und behördlichen Besorgungen.\n\n**WARUM HIER:** \nIn der weitverzweigten Großgemeinde Romrod mit ihren fünf verteilten Ortsteilen fehlen in den kleineren Dörfern Geschäfte und dichte Busverbindungen, weshalb dieser Dienst eine wesentliche Brücke für ein selbstbestimmtes Leben im gewohnten Zuhause schlägt.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung und dem örtlichen Seniorenbeirat wird eine kurze Bedarfsabfrage in den Ortsteilen gestartet, um erste feste Fahr- und Begleittage mit ehrenamtlichen Helfern aus der Region abzustimmen.",
+      "ts": "2026-11-19 07:45",
+      "age_min": 1
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-muecke",
-      "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
+      "agent": "direkt-romrod",
+      "title": "Direktvermarktung — Romrod  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nEin **Heizungs- und Sanitärbetrieb** in Mücke (besonders mit Fokus auf erneuerbare Energien/Wärmepumpen oder regionalen Notdienst).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Eigenheimbesitzer aus Mücke und Umgebung auf dem Smartphone nach einem Heizungsbauer für den Kesseltausch suchen, landen sie aktuell bei der Konkurrenz aus den Nachbarorten – wollen wir kurz schauen, wie Sie diese regionalen Aufträge direkt zu sich holen?“",
-      "ts": "2026-11-19 00:20",
-      "age_min": 0
+      "text": "**WAS:** Die „Romröder Feierabend-Kiste“ ist ein wöchentliches Regio-Abo mit frischem Saison-Gemüse, Hausmacher Wurst, Eiern und Grundnahrungsmitteln direkt von den Höfen der Umgebung für ehrliche Mahlzeiten ohne Supermarkt-Stress.\n\n**fuer WEN:** Für Pendler, beschäftigte Familien und Senioren aus Romrod und den umliegenden Orten, die Wert auf heimische Qualität legen, aber unter der Woche keine Zeit für klappernde Hofladen-Fahrten haben.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger für Gemüse, Wurst und Eier an einen Tisch holen, ein festes Probier-Paket schnüren und die Nachfrage über einen einfachen Handzettel im Bäckerladen testen.",
+      "ts": "2026-11-19 07:45",
+      "age_min": 1
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-kirtorf",
-      "title": "Vulkanregion-Tourismus — Kirtorf  ·  Chancen",
+      "agent": "handwerk-romrod",
+      "title": "Handwerk-Sichtbarkeit — Romrod  ·  Chancen",
       "via": "gemini",
-      "text": "**Paket-Name: Kirtorfer Vulkan- & Kräuter-Picknick per E-Bike**\n\n**WAS:** Eine geführte E-Bike-Tour durch die Kirtorfer Hügellandschaft zu versteckten Basaltsteinbrüchen, abgerundet durch ein Picknick mit regionalen Wildkräuter-Spezialitäten.\n\n**für WEN:** Für naturbegeisterte Genussradler, Paare und kleine Gruppen, die den Vogelsberg entschleunigt und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Website deinen Wunschtermin aus und buche das Komplettpaket inklusive E-Bike und gefülltem Picknickkorb direkt online.",
-      "ts": "2026-11-19 00:20",
-      "age_min": 0
+      "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbetrieb** (Sanitär-, Heizungs- und Klimatechnik) in Romrod.\n\n**Ansprache-Idee:**\n„Damit Eigentümer in Romrod bei einem Heizungsausfall oder einer Bad-Sanierung sofort Ihr Handwerk auf dem Smartphone finden – und die Aufträge nicht an die Konkurrenz aus Alsfeld gehen.“",
+      "ts": "2026-11-19 07:44",
+      "age_min": 2
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-romrod",
+      "title": "Chancen-Scout — Romrod  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS**\nEin mobiler Hunde- und Gästebetreuungsservice speziell für Hochzeits- und Eventgesellschaften rund um Schloss Romrod.\n\n**WARUM HIER**\nDas Schloss ist ein überregionaler Hochzeits-Hotspot, bei dem auswärtige Gäste für ihre mitgebrachten Vierbeiner während der mehrstündigen Feierlichkeiten bisher kaum flexible, direkte Betreuungsmöglichkeiten vor Ort finden.\n\n**ERSTER SCHRITT**\nFühre ein Kooperationsgespräch mit dem Event-Team von Schloss Romrod und hinterlege einen einfachen Flyer mit Festpreis-Paketen für deren Hochzeits-Infomappen.",
+      "ts": "2026-11-19 07:44",
+      "age_min": 2
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 2,
+      "count": 3,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "handwerk-muecke",
-          "title": "Handwerk-Sichtbarkeit — Muecke  ·  Chancen",
+          "agent": "direkt-romrod",
+          "title": "Direktvermarktung — Romrod  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nEin **Heizungs- und Sanitärbetrieb** in Mücke (besonders mit Fokus auf erneuerbare Energien/Wärmepumpen oder regionalen Notdienst).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Eigenheimbesitzer aus Mücke und Umgebung auf dem Smartphone nach einem Heizungsbauer für den Kesseltausch suchen, landen sie aktuell bei der Konkurrenz aus den Nachbarorten – wollen wir kurz schauen, wie Sie diese regionalen Aufträge direkt zu sich holen?“",
-          "ts": "2026-11-19 00:20",
-          "age_min": 0
+          "text": "**WAS:** Die „Romröder Feierabend-Kiste“ ist ein wöchentliches Regio-Abo mit frischem Saison-Gemüse, Hausmacher Wurst, Eiern und Grundnahrungsmitteln direkt von den Höfen der Umgebung für ehrliche Mahlzeiten ohne Supermarkt-Stress.\n\n**fuer WEN:** Für Pendler, beschäftigte Familien und Senioren aus Romrod und den umliegenden Orten, die Wert auf heimische Qualität legen, aber unter der Woche keine Zeit für klappernde Hofladen-Fahrten haben.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger für Gemüse, Wurst und Eier an einen Tisch holen, ein festes Probier-Paket schnüren und die Nachfrage über einen einfachen Handzettel im Bäckerladen testen.",
+          "ts": "2026-11-19 07:45",
+          "age_min": 1
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-kirtorf",
-          "title": "Vulkanregion-Tourismus — Kirtorf  ·  Chancen",
+          "agent": "handwerk-romrod",
+          "title": "Handwerk-Sichtbarkeit — Romrod  ·  Chancen",
           "via": "gemini",
-          "text": "**Paket-Name: Kirtorfer Vulkan- & Kräuter-Picknick per E-Bike**\n\n**WAS:** Eine geführte E-Bike-Tour durch die Kirtorfer Hügellandschaft zu versteckten Basaltsteinbrüchen, abgerundet durch ein Picknick mit regionalen Wildkräuter-Spezialitäten.\n\n**für WEN:** Für naturbegeisterte Genussradler, Paare und kleine Gruppen, die den Vogelsberg entschleunigt und kulinarisch entdecken möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Website deinen Wunschtermin aus und buche das Komplettpaket inklusive E-Bike und gefülltem Picknickkorb direkt online.",
-          "ts": "2026-11-19 00:20",
-          "age_min": 0
+          "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbetrieb** (Sanitär-, Heizungs- und Klimatechnik) in Romrod.\n\n**Ansprache-Idee:**\n„Damit Eigentümer in Romrod bei einem Heizungsausfall oder einer Bad-Sanierung sofort Ihr Handwerk auf dem Smartphone finden – und die Aufträge nicht an die Konkurrenz aus Alsfeld gehen.“",
+          "ts": "2026-11-19 07:44",
+          "age_min": 2
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-romrod",
+          "title": "Chancen-Scout — Romrod  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS**\nEin mobiler Hunde- und Gästebetreuungsservice speziell für Hochzeits- und Eventgesellschaften rund um Schloss Romrod.\n\n**WARUM HIER**\nDas Schloss ist ein überregionaler Hochzeits-Hotspot, bei dem auswärtige Gäste für ihre mitgebrachten Vierbeiner während der mehrstündigen Feierlichkeiten bisher kaum flexible, direkte Betreuungsmöglichkeiten vor Ort finden.\n\n**ERSTER SCHRITT**\nFühre ein Kooperationsgespräch mit dem Event-Team von Schloss Romrod und hinterlege einen einfachen Flyer mit Festpreis-Paketen für deren Hochzeits-Infomappen.",
+          "ts": "2026-11-19 07:44",
+          "age_min": 2
         }
       ]
     },
@@ -62,12 +80,12 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-muecke",
-          "title": "Senioren-Alltagsdienste — Muecke  ·  Kunden",
+          "agent": "senioren-romrod",
+          "title": "Senioren-Alltagsdienste — Romrod  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nDer mobile Begleitdienst „Mücke-Tandem“ bietet älteren Menschen aus allen 12 Ortsteilen individuelle Fahrten und verlässliche Unterstützung bei Einkäufen, Arztbesuchen oder gemeinsamen Botengängen auf Augenhöhe.\n\n**WARUM HIER:** \nDurch die weit verstreuten Dorfstrukturen im Vogelsberg und das Fehlen von Geschäften in vielen Ortsteilen ist Mobilität in Mücke die Grundvoraussetzung, um bis ins hohe Alter selbstbestimmt im eigenen Zuhause wohnen zu bleiben.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit der Gemeinde wird ein einfaches Dorftelefon geschaltet, um den konkreten Bedarf abzufragen und hilfsbereite Fahrerinnen und Fahrer aus den jeweiligen Ortsteilen direkt zu vermitteln.",
-          "ts": "2026-11-19 00:20",
-          "age_min": 0
+          "text": "**WAS:** \nDer mobile „Romroder Dorf-Begleiter“ bietet Senioren aus allen Ortsteilen eine individuelle Abholung von zu Hause sowie eine zugewandte, persönliche Begleitung bei Einkäufen, Arztbesuchen und behördlichen Besorgungen.\n\n**WARUM HIER:** \nIn der weitverzweigten Großgemeinde Romrod mit ihren fünf verteilten Ortsteilen fehlen in den kleineren Dörfern Geschäfte und dichte Busverbindungen, weshalb dieser Dienst eine wesentliche Brücke für ein selbstbestimmtes Leben im gewohnten Zuhause schlägt.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Stadtverwaltung und dem örtlichen Seniorenbeirat wird eine kurze Bedarfsabfrage in den Ortsteilen gestartet, um erste feste Fahr- und Begleittage mit ehrenamtlichen Helfern aus der Region abzustimmen.",
+          "ts": "2026-11-19 07:45",
+          "age_min": 1
         }
       ]
     }
