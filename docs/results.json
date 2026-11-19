@@ -1,7 +1,129 @@
 {
-  "updated": "2026-11-19 16:50 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-11-19 23:25 UTC",
+  "total_results": 6,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-gemuenden-felda",
+      "title": "Chancen-Scout — Gemuenden (Felda)  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Service, der Wartungen, Reifenwechsel und kleine Reparaturen direkt vor der Haustür der Kunden im Feldatal erledigt.\n\n**WARUM HIER:** Gemünden liegt direkt am frequentierten Feldatal-Radweg und hat eine hohe E-Bike-Dichte unter den Anwohnern, besitzt aber keine eigene Fahrradwerkstatt vor Ort, wodurch Kunden bisher nach Alsfeld ausweichen müssen.\n\n**ERSTER SCHRITT:** Grundwerkzeug für ein bestehendes Fahrzeug anschaffen und ein kostengünstiges Inserat im Gemündener Mitteilungsblatt schalten, um die ersten Fünftage-Termine auf Vorbestellung einzusammeln.",
+      "ts": "2026-11-19 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-feldatal",
+      "title": "Senioren-Alltagsdienste — Feldatal  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der Seniorinnen und Senioren direkt zu Hause abholt, sie würdevoll zum Einkaufen oder Arzt begleitet und verlässlich bei kleineren Erledigungen unterstützt.\n\n**WARUM HIER:** In den verstreuten Ortsteilen von Feldatal fehlen oft Geschäfte vor Ort und der Nahverkehr ist spärlich, wodurch ältere Menschen ohne eigenes Auto schnell ihre Selbstständigkeit im Alltag verlieren.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Gemeinde wird ein erstes Kennenlerntreffen im Bürgerhaus organisiert, um den genauen Bedarf abzufragen und verlässliche Begleitpersonen aus den Dörfern zu gewinnen.",
+      "ts": "2026-11-19 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-feldatal",
+      "title": "Vulkanregion-Tourismus — Feldatal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein geführtes 3-stündiges Alpaka-Trekking entlang der romantischen Felda inklusive eines Picknickbeutels voll regionaler Vogelsberger Vulkan-Spezialitäten.\n\n**fuer WEN:** Das Paket richtet sich an Naturverliebte, Paare und Familien, die eine tierisch entschleunigende Auszeit im Vogelsberg suchen.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihren Wunschtermin aus und laden Sie Ihr digitales Ticket mit dem Gutscheincode für die Feldataler Alpaka-Farm herunter.",
+      "ts": "2026-11-19 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-romrod",
+      "title": "Vulkanregion-Tourismus — Romrod  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEin exklusives Schloss-Picknick im Park von Schloss Romrod kombiniert mit einer GPS-geführten Entdeckertour durch die umliegenden Vogelsberger Wälder.\n\n**fuer WEN:** \nDieses Angebot ist perfekt für Paare und Naturgenießer, die eine romantische Auszeit mit Geschichte und regionaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:** \nWählen Sie online Ihren Wunschtermin aus, um den digitalen Tour-Guide zu aktivieren und Ihre gefüllte Genuss-Picknickkiste direkt am Schloss zu reservieren.",
+      "ts": "2026-11-19 23:24",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-feldatal",
+      "title": "Handwerk-Sichtbarkeit — Feldatal  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbetrieb** (spezialisiert auf Wärmepumpen-Umstellung und Badsanierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Feldataler auf dem Smartphone nach 'Heizungswechsel' oder 'Badrenovierung' suchen, landen sie aktuell bei Betrieben aus Alsfeld oder Lauterbach – wollen wir dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Ort bleiben?“",
+      "ts": "2026-11-19 23:24",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-feldatal",
+      "title": "Chancen-Scout — Feldatal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Allround-Hausmeister- und Senioren-Assistenzdienst für Kleinreparaturen, Gartenpflege und Verpflegungsfahrten in den verschiedenen Ortsteilen.\n\n**WARUM HIER:** In den verstreuten Feldataler Dörfern lebt eine zunehmend ältere Bevölkerung mit eigenen Häusern und Grundstücken, während regionale Handwerksbetriebe solche Kleinstaufträge wegen der Anfahrt kaum noch annehmen.\n\n**ERSTER SCHRITT:** Schalte eine Flyer-Aktion in den örtlichen Bäckereien und im Gemeindemitteilungsblatt mit drei festen Paketangeboten (z. B. „Garten sommerfertig machen“ zum Festpreis).",
+      "ts": "2026-11-19 23:23",
+      "age_min": 1
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 5,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "chancen-gemuenden-felda",
+          "title": "Chancen-Scout — Gemuenden (Felda)  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Service, der Wartungen, Reifenwechsel und kleine Reparaturen direkt vor der Haustür der Kunden im Feldatal erledigt.\n\n**WARUM HIER:** Gemünden liegt direkt am frequentierten Feldatal-Radweg und hat eine hohe E-Bike-Dichte unter den Anwohnern, besitzt aber keine eigene Fahrradwerkstatt vor Ort, wodurch Kunden bisher nach Alsfeld ausweichen müssen.\n\n**ERSTER SCHRITT:** Grundwerkzeug für ein bestehendes Fahrzeug anschaffen und ein kostengünstiges Inserat im Gemündener Mitteilungsblatt schalten, um die ersten Fünftage-Termine auf Vorbestellung einzusammeln.",
+          "ts": "2026-11-19 23:25",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-feldatal",
+          "title": "Vulkanregion-Tourismus — Feldatal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein geführtes 3-stündiges Alpaka-Trekking entlang der romantischen Felda inklusive eines Picknickbeutels voll regionaler Vogelsberger Vulkan-Spezialitäten.\n\n**fuer WEN:** Das Paket richtet sich an Naturverliebte, Paare und Familien, die eine tierisch entschleunigende Auszeit im Vogelsberg suchen.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihren Wunschtermin aus und laden Sie Ihr digitales Ticket mit dem Gutscheincode für die Feldataler Alpaka-Farm herunter.",
+          "ts": "2026-11-19 23:25",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-romrod",
+          "title": "Vulkanregion-Tourismus — Romrod  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** \nEin exklusives Schloss-Picknick im Park von Schloss Romrod kombiniert mit einer GPS-geführten Entdeckertour durch die umliegenden Vogelsberger Wälder.\n\n**fuer WEN:** \nDieses Angebot ist perfekt für Paare und Naturgenießer, die eine romantische Auszeit mit Geschichte und regionaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:** \nWählen Sie online Ihren Wunschtermin aus, um den digitalen Tour-Guide zu aktivieren und Ihre gefüllte Genuss-Picknickkiste direkt am Schloss zu reservieren.",
+          "ts": "2026-11-19 23:24",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-feldatal",
+          "title": "Handwerk-Sichtbarkeit — Feldatal  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbetrieb** (spezialisiert auf Wärmepumpen-Umstellung und Badsanierung).\n\n**Ansprache-Idee (1 Satz):**\n„Hallo [Name], wenn Feldataler auf dem Smartphone nach 'Heizungswechsel' oder 'Badrenovierung' suchen, landen sie aktuell bei Betrieben aus Alsfeld oder Lauterbach – wollen wir dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Ort bleiben?“",
+          "ts": "2026-11-19 23:24",
+          "age_min": 1
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-feldatal",
+          "title": "Chancen-Scout — Feldatal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Allround-Hausmeister- und Senioren-Assistenzdienst für Kleinreparaturen, Gartenpflege und Verpflegungsfahrten in den verschiedenen Ortsteilen.\n\n**WARUM HIER:** In den verstreuten Feldataler Dörfern lebt eine zunehmend ältere Bevölkerung mit eigenen Häusern und Grundstücken, während regionale Handwerksbetriebe solche Kleinstaufträge wegen der Anfahrt kaum noch annehmen.\n\n**ERSTER SCHRITT:** Schalte eine Flyer-Aktion in den örtlichen Bäckereien und im Gemeindemitteilungsblatt mit drei festen Paketangeboten (z. B. „Garten sommerfertig machen“ zum Festpreis).",
+          "ts": "2026-11-19 23:23",
+          "age_min": 1
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-feldatal",
+          "title": "Senioren-Alltagsdienste — Feldatal  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der Seniorinnen und Senioren direkt zu Hause abholt, sie würdevoll zum Einkaufen oder Arzt begleitet und verlässlich bei kleineren Erledigungen unterstützt.\n\n**WARUM HIER:** In den verstreuten Ortsteilen von Feldatal fehlen oft Geschäfte vor Ort und der Nahverkehr ist spärlich, wodurch ältere Menschen ohne eigenes Auto schnell ihre Selbstständigkeit im Alltag verlieren.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Gemeinde wird ein erstes Kennenlerntreffen im Bürgerhaus organisiert, um den genauen Bedarf abzufragen und verlässliche Begleitpersonen aus den Dörfern zu gewinnen.",
+          "ts": "2026-11-19 23:25",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T16:50Z",
+  "updated": "2026-11-19T23:25Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Service, der Wartungen, Reifenwechsel und kleine Reparaturen direkt vor der Haustür der Kunden im Feldatal erledigt. **WARUM HIER:** Gemünden liegt direkt am frequentierten Feldatal-Radweg und hat eine hohe E-Bike-Dichte unter den Anwohnern, besitzt aber keine eigene Fahrradwerkstatt vor Ort, wodurch Kunden bisher nac",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der Seniorinnen und Senioren direkt zu Hause abholt, sie würdevoll zum Einkaufen oder Arzt begleitet und verlässlich bei kleineren Erledigungen unterstützt. **WARUM HIER:** In den verstreuten Ortsteilen von Feldatal fehlen oft Geschäfte vor Ort und der Nahverkehr ist spärlich, wodurch ältere Menschen ohne eige",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -544,9 +552,9 @@
       "name": "Vulkanregion-Tourismus — Romrod",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein exklusives Schloss-Picknick im Park von Schloss Romrod kombiniert mit einer GPS-geführten Entdeckertour durch die umliegenden Vogelsberger Wälder. **fuer WEN:** Dieses Angebot ist perfekt für Paare und Natur",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-romrod",
@@ -562,18 +570,18 @@
       "name": "Chancen-Scout — Feldatal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Allround-Hausmeister- und Senioren-Assistenzdienst für Kleinreparaturen, Gartenpflege und Verpflegungsfahrten in den verschiedenen Ortsteilen. **WARUM HIER:** In den verstreuten Feldataler Dörfern le",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "handwerk-feldatal",
       "name": "Handwerk-Sichtbarkeit — Feldatal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** (spezialisiert auf Wärmepumpen-Umstellung und Badsanierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Feldataler auf dem Smartphone nach 'Heizungswechsel' ode",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "direkt-feldatal",
@@ -589,27 +597,27 @@
       "name": "Vulkanregion-Tourismus — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein geführtes 3-stündiges Alpaka-Trekking entlang der romantischen Felda inklusive eines Picknickbeutels voll regionaler Vogelsberger Vulkan-Spezialitäten. **fuer WEN:** Das Paket richtet sich an Naturverliebte,",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-feldatal",
       "name": "Senioren-Alltagsdienste — Feldatal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der Seniorinnen und Senioren direkt zu Hause abholt, sie würdevoll zum Einkaufen oder Arzt begleitet und verlässlich bei kleineren Erledigungen unterstützt. **WARUM HIER:*",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-gemuenden-felda",
       "name": "Chancen-Scout — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Service, der Wartungen, Reifenwechsel und kleine Reparaturen direkt vor der Haustür der Kunden im Feldatal erledigt. **WARUM HIER:** Gemünden liegt direkt am frequentierten Feldat",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-gemuenden-felda",
@@ -1495,8 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 7,
+    "used": 13,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "chancen-gemuenden-felda",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler E-Bike- und Fahrrad-Service, der Wartungen, Reifenwechsel und kleine Reparaturen direkt vor der Haustür der Kunden im Feldatal erledigt. **WARUM HIER:** Gemünden liegt direkt am frequentierten Feldatal-Radweg und hat eine hohe E-Bike-Dichte unter den Anwohnern, besitzt aber keine eigene Fahrradwerkstatt vor Ort, wodurch Kunden bisher nac",
+      "ts": "2026-11-19 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-feldatal",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Alltags- und Begleitdienst, der Seniorinnen und Senioren direkt zu Hause abholt, sie würdevoll zum Einkaufen oder Arzt begleitet und verlässlich bei kleineren Erledigungen unterstützt. **WARUM HIER:** In den verstreuten Ortsteilen von Feldatal fehlen oft Geschäfte vor Ort und der Nahverkehr ist spärlich, wodurch ältere Menschen ohne eige",
+      "ts": "2026-11-19 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-feldatal",
+      "via": "gemini",
+      "text": "**WAS:** Ein geführtes 3-stündiges Alpaka-Trekking entlang der romantischen Felda inklusive eines Picknickbeutels voll regionaler Vogelsberger Vulkan-Spezialitäten. **fuer WEN:** Das Paket richtet sich an Naturverliebte, Paare und Familien, die eine tierisch entschleunigende Auszeit im Vogelsberg suchen. **ERSTER SCHRITT:** Wählen Sie online Ihren Wunschterm",
+      "ts": "2026-11-19 23:25",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-romrod",
+      "via": "gemini",
+      "text": "**WAS:** Ein exklusives Schloss-Picknick im Park von Schloss Romrod kombiniert mit einer GPS-geführten Entdeckertour durch die umliegenden Vogelsberger Wälder. **fuer WEN:** Dieses Angebot ist perfekt für Paare und Naturgenießer, die eine romantische Auszeit mit Geschichte und regionaler Kulinarik verbinden möchten. **ERSTER SCHRITT:** Wählen Sie online Ihre",
+      "ts": "2026-11-19 23:24",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-feldatal",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbetrieb** (spezialisiert auf Wärmepumpen-Umstellung und Badsanierung). **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Feldataler auf dem Smartphone nach 'Heizungswechsel' oder 'Badrenovierung' suchen, landen sie aktuell bei Betrieben aus Alsfeld oder Lauterbach – wollen wir dafür sorgen, dass diese lukrativen Auf",
+      "ts": "2026-11-19 23:24",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-feldatal",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Allround-Hausmeister- und Senioren-Assistenzdienst für Kleinreparaturen, Gartenpflege und Verpflegungsfahrten in den verschiedenen Ortsteilen. **WARUM HIER:** In den verstreuten Feldataler Dörfern lebt eine zunehmend ältere Bevölkerung mit eigenen Häusern und Grundstücken, während regionale Handwerksbetriebe solche Kleinstaufträge wegen ",
+      "ts": "2026-11-19 23:23",
+      "age_min": 1
+    }
+  ]
 }
