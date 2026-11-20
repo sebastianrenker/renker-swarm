@@ -1,76 +1,112 @@
 {
-  "updated": "2026-11-20 12:54 UTC",
-  "total_results": 4,
+  "updated": "2026-11-20 20:54 UTC",
+  "total_results": 6,
   "total_depts": 2,
   "active": [
     {
+      "dept": "Chancen",
+      "agent": "chancen-ulrichstein",
+      "title": "Chancen-Scout — Ulrichstein  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEin mobiler E-Bike-Pannen- und Hol-bring-Service mit integrierter Akku-Station speziell für die hügeligen Routen rund um Ulrichstein.\n\n**WARUM HIER:** \nAls höchste Stadt Hessens zieht Ulrichstein unzählige E-Biker im Vogelsberg an, bietet extrem steile Anstiege, verfügt aber im gesamten Stadtgebiet über keine einzige Fahrradwerkstatt für Notfälle.\n\n**ERSTER SCHRITT:** \nEinen gebrauchten Transporter mit Grundwerkzeug und Ersatzteilen ausrüsten und die Notfall-Nummer direkt bei den örtlichen Gastgebern, Pensionen und der Tourist-Info platzieren.",
+      "ts": "2026-11-20 20:54",
+      "age_min": 0
+    },
+    {
       "dept": "Kunden",
-      "agent": "senioren-gemuenden-felda",
-      "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
+      "agent": "senioren-freiensteinau",
+      "title": "Senioren-Alltagsdienste — Freiensteinau  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler, verlässlicher Alltags- und Begleitdienst, der ältere Menschen direkt in ihren Heimatdörfern abholt, Einkäufe sowie Arztfahrten übernimmt und Zeit für ein würdevolles, persönliches Gespräch mitbringt.\n\n**WARUM HIER:** \nDurch die Aufteilung auf sieben weit verstreute Ortsteile von Gemünden (Felda) und einen ausgedünnten Nahverkehr sind viele hochbetagte Bewohner ohne eigenes Auto isoliert und von der medizinischen wie praktischen Grundversorgung abgeschnitten.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit der Gemeinde und den jeweiligen Ortsvorstehern wird eine Informationsstunde in den Dorfgemeinschaftshäusern angeboten, um im direkten Dialog mit den Senioren und ihren Angehörigen den genauen Transport- und Unterstützungsbedarf zu ermitteln.",
-      "ts": "2026-11-20 12:52",
-      "age_min": 2
+      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen direkt an ihrer Haustür in allen 12 Ortsteilen abholt, sie zum Einkauf oder Arzt begleitet und die Einkäufe auf Wunsch bis in die Küche trägt.\n\n**WARUM HIER:** In den weit verstreuten Dörfern der Gemeinde Freiensteinau fehlen in den meisten Ortsteilen eigene Geschäfte, sodass Seniorinnen und Senioren ohne Auto schnell von Versorgung und Gemeinschaft abgeschnitten sind.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit der Gemeindeverwaltung und den Ortsvorstehern wird ein erstes Treffen organisiert, um hilfsbereite Bürgerinnen und Bürger mit Auto für dieses Ehrenamt zu gewinnen.",
+      "ts": "2026-11-20 20:54",
+      "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-gemuenden-felda",
-      "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
+      "agent": "tourismus-freiensteinau",
+      "title": "Vulkanregion-Tourismus — Freiensteinau  ·  Chancen",
       "via": "gemini",
-      "text": "**Titel:** Dämmerungswanderung mit Alpakas & Feldatal-Picknick\n\n* **WAS:** Eine geführte Abend-Wanderung mit flauschigen Alpakas durch die Natur rund um Gemünden (Felda), gekrönt von einem Picknickkorb voller regionaler Vogelsberger Spezialitäten direkt am Flussufer.\n* **fuer WEN:** Perfekt für Paare, kleine Freundesgruppen und gestresste Stadtbewohner, die eine entschleunigende Auszeit und besondere Naturbegegnungen suchen.\n* **ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Kalender aus und sichere dir dein Ticket mit wenigen Klicks direkt inklusive deiner bevorzugten Vesper-Variante (klassisch oder vegetarisch).",
-      "ts": "2026-11-20 12:52",
-      "age_min": 2
+      "text": "**WAS:** \nDas Erlebnis-Paket „Vulkan-Picknick & Sternenfeuer“ beinhaltet eine geführte Dämmerungswanderung auf die Panorama-Höhen von Freiensteinau inklusive eines Rucksacks voller regionaler Vogelsberger Spezialitäten und einer anschließenden geführten Sternenbeobachtung.\n\n**fuer WEN:** \nDieses Angebot richtet sich an Paare und Naturgenießer, die eine entschleunigende Auszeit vom Alltag suchen und die besondere Stille der Vulkanregion romantisch und kulinarisch erleben möchten.\n\n**ERSTER SCHRITT:** \nWählen Sie auf unserer Website Ihren Wunschtermin sowie die gewünschte Menü-Variante (klassisch oder vegetarisch) aus und buchen Sie Ihr Ticket direkt online mit sofortiger Bestätigung.",
+      "ts": "2026-11-20 20:54",
+      "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-feldatal",
-      "title": "Direktvermarktung — Feldatal  ·  Chancen",
+      "agent": "direkt-freiensteinau",
+      "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Die „Feldataler Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit regionalen Grundnahrungsmitteln wie frischen Eiern, Vogelsberger Käse, Hausmacher Wurst und Saison-Gemüse direkt vom Hof.\n\n**für WEN:** Für beschäftigte Pendler und Familien aus dem Feldatal und Umgebung, die ehrlich erzeugte Lebensmittel schätzen, aber unter der Woche keine Zeit haben, fünf verschiedene Hofläden abzufahren.\n\n**ERSTER SCHRITT:** Drei befreundete Erzeuger aus den Nachbardörfern an einen Tisch holen, ein festes Wochen-Paket schnüren und die ersten 20 Test-Kisten pragmatisch über eine WhatsApp-Gruppe im Dorf anbieten.",
-      "ts": "2026-11-20 12:51",
-      "age_min": 2
+      "text": "**WAS:** \nDie „Vogelsberger Land-Kiste“ ist ein flexibles Frische-Abo mit ehrlichen Hofprodukten wie Hausmacher Wurst, Vogelsberger Käse, Eiern und Saison-Gemüse von Freiensteinauer Betrieben, verpackt in einer praktischen Mehrweg-Holzkiste.\n\n**FÜR WEN:** \nFür beschäftigte Familien, Pendler und qualitätsbewusste Vogelsberger, die ohne Marktstress regionale Lebensmittel direkt vom Erzeuger genießen wollen.\n\n**ERSTER SCHRITT:** \nDrei lokale Landwirte für die Kooperation gewinnen und mit 20 Test-Kisten im Bekanntenkreis sowie über Aushänge im Ort die Nachfrage prüfen.",
+      "ts": "2026-11-20 20:53",
+      "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-gemuenden-felda",
-      "title": "Handwerk-Sichtbarkeit — Gemuenden (Felda)  ·  Chancen",
+      "agent": "handwerk-freiensteinau",
+      "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbaubetrieb** (SHK). \n*(Gerade im ländlichen Raum wie Gemünden suchen viele Hausbesitzer online nach Experten für Heizungstausch, Wärmepumpen oder Bad-Modernisierungen).*\n\n**Ansprache-Idee (1 Satz):**\n„Viele Hausbesitzer in Gemünden und Umgebung suchen aktuell auf dem Handy nach neuen Heizungen und Bad-Sanierungen – sorgen wir dafür, dass die Anfragen direkt bei Ihnen landen und nicht beim Betrieb aus Alsfeld oder Lauterbach.“",
-      "ts": "2026-11-20 12:51",
-      "age_min": 3
+      "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbetrieb** (insbesondere mit Fokus auf moderne Heiztechnik/Wärmepumpen und Notdienst).\n\n**Ansprache-Idee (1 Satz):**\n„Wenn im Vogelsberg die Heizung ausfällt oder ein Bad geplant wird, suchen die Leute heute als Erstes auf dem Smartphone – sorgen wir einfach dafür, dass Ihre Telefonnummer ganz oben steht, damit Sie die lukrativen Aufträge aus der Region bekommen, ohne selbst Zeit am PC zu verschwenden.“",
+      "ts": "2026-11-20 20:53",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-freiensteinau",
+      "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS**  \nEin mobiler E-Bike-Pannen- und Miet-Service inklusive Hol- und Bringdienst für Touristen und Anwohner.  \n\n**WARUM HIER**  \nFreiensteinau profitiert direkt vom starken Radtourismus rund um den nahen Nieder-Mooser See sowie den Vulkanradweg, besitzt bisher aber keine eigene Fahrradwerkstatt im Ort.  \n\n**ERSTER SCHRITT**  \nSprich die lokalen Campingplatz- und Ferienwohnungsbetreiber für Kooperationen an und starte den Dienst kostengünstig auf Abruf aus der eigenen Garage heraus.",
+      "ts": "2026-11-20 20:53",
+      "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 3,
+      "count": 5,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-gemuenden-felda",
-          "title": "Vulkanregion-Tourismus — Gemuenden (Felda)  ·  Chancen",
+          "agent": "chancen-ulrichstein",
+          "title": "Chancen-Scout — Ulrichstein  ·  Chancen",
           "via": "gemini",
-          "text": "**Titel:** Dämmerungswanderung mit Alpakas & Feldatal-Picknick\n\n* **WAS:** Eine geführte Abend-Wanderung mit flauschigen Alpakas durch die Natur rund um Gemünden (Felda), gekrönt von einem Picknickkorb voller regionaler Vogelsberger Spezialitäten direkt am Flussufer.\n* **fuer WEN:** Perfekt für Paare, kleine Freundesgruppen und gestresste Stadtbewohner, die eine entschleunigende Auszeit und besondere Naturbegegnungen suchen.\n* **ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Kalender aus und sichere dir dein Ticket mit wenigen Klicks direkt inklusive deiner bevorzugten Vesper-Variante (klassisch oder vegetarisch).",
-          "ts": "2026-11-20 12:52",
-          "age_min": 2
+          "text": "**WAS:** \nEin mobiler E-Bike-Pannen- und Hol-bring-Service mit integrierter Akku-Station speziell für die hügeligen Routen rund um Ulrichstein.\n\n**WARUM HIER:** \nAls höchste Stadt Hessens zieht Ulrichstein unzählige E-Biker im Vogelsberg an, bietet extrem steile Anstiege, verfügt aber im gesamten Stadtgebiet über keine einzige Fahrradwerkstatt für Notfälle.\n\n**ERSTER SCHRITT:** \nEinen gebrauchten Transporter mit Grundwerkzeug und Ersatzteilen ausrüsten und die Notfall-Nummer direkt bei den örtlichen Gastgebern, Pensionen und der Tourist-Info platzieren.",
+          "ts": "2026-11-20 20:54",
+          "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-feldatal",
-          "title": "Direktvermarktung — Feldatal  ·  Chancen",
+          "agent": "tourismus-freiensteinau",
+          "title": "Vulkanregion-Tourismus — Freiensteinau  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Die „Feldataler Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit regionalen Grundnahrungsmitteln wie frischen Eiern, Vogelsberger Käse, Hausmacher Wurst und Saison-Gemüse direkt vom Hof.\n\n**für WEN:** Für beschäftigte Pendler und Familien aus dem Feldatal und Umgebung, die ehrlich erzeugte Lebensmittel schätzen, aber unter der Woche keine Zeit haben, fünf verschiedene Hofläden abzufahren.\n\n**ERSTER SCHRITT:** Drei befreundete Erzeuger aus den Nachbardörfern an einen Tisch holen, ein festes Wochen-Paket schnüren und die ersten 20 Test-Kisten pragmatisch über eine WhatsApp-Gruppe im Dorf anbieten.",
-          "ts": "2026-11-20 12:51",
-          "age_min": 2
+          "text": "**WAS:** \nDas Erlebnis-Paket „Vulkan-Picknick & Sternenfeuer“ beinhaltet eine geführte Dämmerungswanderung auf die Panorama-Höhen von Freiensteinau inklusive eines Rucksacks voller regionaler Vogelsberger Spezialitäten und einer anschließenden geführten Sternenbeobachtung.\n\n**fuer WEN:** \nDieses Angebot richtet sich an Paare und Naturgenießer, die eine entschleunigende Auszeit vom Alltag suchen und die besondere Stille der Vulkanregion romantisch und kulinarisch erleben möchten.\n\n**ERSTER SCHRITT:** \nWählen Sie auf unserer Website Ihren Wunschtermin sowie die gewünschte Menü-Variante (klassisch oder vegetarisch) aus und buchen Sie Ihr Ticket direkt online mit sofortiger Bestätigung.",
+          "ts": "2026-11-20 20:54",
+          "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-gemuenden-felda",
-          "title": "Handwerk-Sichtbarkeit — Gemuenden (Felda)  ·  Chancen",
+          "agent": "direkt-freiensteinau",
+          "title": "Direktvermarktung — Freiensteinau  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nEin **Sanitär- und Heizungsbaubetrieb** (SHK). \n*(Gerade im ländlichen Raum wie Gemünden suchen viele Hausbesitzer online nach Experten für Heizungstausch, Wärmepumpen oder Bad-Modernisierungen).*\n\n**Ansprache-Idee (1 Satz):**\n„Viele Hausbesitzer in Gemünden und Umgebung suchen aktuell auf dem Handy nach neuen Heizungen und Bad-Sanierungen – sorgen wir dafür, dass die Anfragen direkt bei Ihnen landen und nicht beim Betrieb aus Alsfeld oder Lauterbach.“",
-          "ts": "2026-11-20 12:51",
-          "age_min": 3
+          "text": "**WAS:** \nDie „Vogelsberger Land-Kiste“ ist ein flexibles Frische-Abo mit ehrlichen Hofprodukten wie Hausmacher Wurst, Vogelsberger Käse, Eiern und Saison-Gemüse von Freiensteinauer Betrieben, verpackt in einer praktischen Mehrweg-Holzkiste.\n\n**FÜR WEN:** \nFür beschäftigte Familien, Pendler und qualitätsbewusste Vogelsberger, die ohne Marktstress regionale Lebensmittel direkt vom Erzeuger genießen wollen.\n\n**ERSTER SCHRITT:** \nDrei lokale Landwirte für die Kooperation gewinnen und mit 20 Test-Kisten im Bekanntenkreis sowie über Aushänge im Ort die Nachfrage prüfen.",
+          "ts": "2026-11-20 20:53",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-freiensteinau",
+          "title": "Handwerk-Sichtbarkeit — Freiensteinau  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin lokaler **Sanitär- und Heizungsbetrieb** (insbesondere mit Fokus auf moderne Heiztechnik/Wärmepumpen und Notdienst).\n\n**Ansprache-Idee (1 Satz):**\n„Wenn im Vogelsberg die Heizung ausfällt oder ein Bad geplant wird, suchen die Leute heute als Erstes auf dem Smartphone – sorgen wir einfach dafür, dass Ihre Telefonnummer ganz oben steht, damit Sie die lukrativen Aufträge aus der Region bekommen, ohne selbst Zeit am PC zu verschwenden.“",
+          "ts": "2026-11-20 20:53",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-freiensteinau",
+          "title": "Chancen-Scout — Freiensteinau  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS**  \nEin mobiler E-Bike-Pannen- und Miet-Service inklusive Hol- und Bringdienst für Touristen und Anwohner.  \n\n**WARUM HIER**  \nFreiensteinau profitiert direkt vom starken Radtourismus rund um den nahen Nieder-Mooser See sowie den Vulkanradweg, besitzt bisher aber keine eigene Fahrradwerkstatt im Ort.  \n\n**ERSTER SCHRITT**  \nSprich die lokalen Campingplatz- und Ferienwohnungsbetreiber für Kooperationen an und starte den Dienst kostengünstig auf Abruf aus der eigenen Garage heraus.",
+          "ts": "2026-11-20 20:53",
+          "age_min": 0
         }
       ]
     },
@@ -80,12 +116,12 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-gemuenden-felda",
-          "title": "Senioren-Alltagsdienste — Gemuenden (Felda)  ·  Kunden",
+          "agent": "senioren-freiensteinau",
+          "title": "Senioren-Alltagsdienste — Freiensteinau  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler, verlässlicher Alltags- und Begleitdienst, der ältere Menschen direkt in ihren Heimatdörfern abholt, Einkäufe sowie Arztfahrten übernimmt und Zeit für ein würdevolles, persönliches Gespräch mitbringt.\n\n**WARUM HIER:** \nDurch die Aufteilung auf sieben weit verstreute Ortsteile von Gemünden (Felda) und einen ausgedünnten Nahverkehr sind viele hochbetagte Bewohner ohne eigenes Auto isoliert und von der medizinischen wie praktischen Grundversorgung abgeschnitten.\n\n**ERSTER SCHRITT:** \nIn Zusammenarbeit mit der Gemeinde und den jeweiligen Ortsvorstehern wird eine Informationsstunde in den Dorfgemeinschaftshäusern angeboten, um im direkten Dialog mit den Senioren und ihren Angehörigen den genauen Transport- und Unterstützungsbedarf zu ermitteln.",
-          "ts": "2026-11-20 12:52",
-          "age_min": 2
+          "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen direkt an ihrer Haustür in allen 12 Ortsteilen abholt, sie zum Einkauf oder Arzt begleitet und die Einkäufe auf Wunsch bis in die Küche trägt.\n\n**WARUM HIER:** In den weit verstreuten Dörfern der Gemeinde Freiensteinau fehlen in den meisten Ortsteilen eigene Geschäfte, sodass Seniorinnen und Senioren ohne Auto schnell von Versorgung und Gemeinschaft abgeschnitten sind.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit der Gemeindeverwaltung und den Ortsvorstehern wird ein erstes Treffen organisiert, um hilfsbereite Bürgerinnen und Bürger mit Auto für dieses Ehrenamt zu gewinnen.",
+          "ts": "2026-11-20 20:54",
+          "age_min": 0
         }
       ]
     }
