@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-20T04:13Z",
+  "updated": "2026-11-20T12:54Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 4,
   "departments": [
     {
       "id": "Kommando",
@@ -13,8 +13,8 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit knackigem Saison-Gemüse, frischem Landbrot und regionalen Eiern, ganz ohne Schnickschnack abholbereit im SB-Häuschen direkt am Hof. **für WEN:** Für berufstätige Pendler und Familien aus Gemünden und den Ortsteilen, die ehrlich erzeugte Lebensmittel aus der Heimat schätzen, aber unter der Woche w",
-        "age_min": 3
+        "text": "**Titel:** Dämmerungswanderung mit Alpakas & Feldatal-Picknick * **WAS:** Eine geführte Abend-Wanderung mit flauschigen Alpakas durch die Natur rund um Gemünden (Felda), gekrönt von einem Picknickkorb voller regionaler Vogelsberger Spezialitäten direkt am Flussufer. * **fuer WEN:** Perfekt für Paare, kleine Freundesgruppen und gestresste Stadtbewohner, die e",
+        "age_min": 2
       }
     },
     {
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler, verlässlicher Alltags- und Begleitdienst, der ältere Menschen direkt in ihren Heimatdörfern abholt, Einkäufe sowie Arztfahrten übernimmt und Zeit für ein würdevolles, persönliches Gespräch mitbringt. **WARUM HIER:** Durch die Aufteilung auf sieben weit verstreute Ortsteile von Gemünden (Felda) und einen ausgedünnten Nahverkehr sind viel",
+        "age_min": 2
+      }
     },
     {
       "id": "Finanzen",
@@ -584,9 +588,9 @@
       "name": "Direktvermarktung — Feldatal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Feldataler Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit regionalen Grundnahrungsmitteln wie frischen Eiern, Vogelsberger Käse, Hausmacher Wurst und Saison-Gemüse direkt vom Hof. **für WEN:*",
+      "via": "gemini",
+      "age_min": 2
     },
     {
       "id": "tourismus-feldatal",
@@ -620,36 +624,36 @@
       "name": "Handwerk-Sichtbarkeit — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein **Sanitär- und Heizungsbaubetrieb** (SHK). *(Gerade im ländlichen Raum wie Gemünden suchen viele Hausbesitzer online nach Experten für Heizungstausch, Wärmepumpen oder Bad-Modernisierungen).* **Anspr",
+      "via": "gemini",
+      "age_min": 3
     },
     {
       "id": "direkt-gemuenden-felda",
       "name": "Direktvermarktung — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit knackigem Saison-Gemüse, frischem Landbrot und regionalen Eiern, ganz ohne Schnickschnack abholbereit im SB-Häuschen direkt am Hof. **für WEN:** Für berufstä",
-      "via": "gemini",
-      "age_min": 3
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-gemuenden-felda",
       "name": "Vulkanregion-Tourismus — Gemuenden (Felda)",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Titel:** Dämmerungswanderung mit Alpakas & Feldatal-Picknick * **WAS:** Eine geführte Abend-Wanderung mit flauschigen Alpakas durch die Natur rund um Gemünden (Felda), gekrönt von einem Picknickkorb voller regionaler V",
+      "via": "gemini",
+      "age_min": 2
     },
     {
       "id": "senioren-gemuenden-felda",
       "name": "Senioren-Alltagsdienste — Gemuenden (Felda)",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler, verlässlicher Alltags- und Begleitdienst, der ältere Menschen direkt in ihren Heimatdörfern abholt, Einkäufe sowie Arztfahrten übernimmt und Zeit für ein würdevolles, persönliches Gespräch mitbringt",
+      "via": "gemini",
+      "age_min": 2
     },
     {
       "id": "chancen-freiensteinau",
@@ -1499,16 +1503,40 @@
     }
   ],
   "budget": {
-    "used": 1,
+    "used": 5,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "direkt-gemuenden-felda",
+      "dept": "Kunden",
+      "agent": "senioren-gemuenden-felda",
       "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Vogelsberger Feierabend-Kiste“ mit knackigem Saison-Gemüse, frischem Landbrot und regionalen Eiern, ganz ohne Schnickschnack abholbereit im SB-Häuschen direkt am Hof. **für WEN:** Für berufstätige Pendler und Familien aus Gemünden und den Ortsteilen, die ehrlich erzeugte Lebensmittel aus der Heimat schätzen, aber unter der Woche w",
-      "ts": "2026-11-20 04:10",
+      "text": "**WAS:** Ein mobiler, verlässlicher Alltags- und Begleitdienst, der ältere Menschen direkt in ihren Heimatdörfern abholt, Einkäufe sowie Arztfahrten übernimmt und Zeit für ein würdevolles, persönliches Gespräch mitbringt. **WARUM HIER:** Durch die Aufteilung auf sieben weit verstreute Ortsteile von Gemünden (Felda) und einen ausgedünnten Nahverkehr sind viel",
+      "ts": "2026-11-20 12:52",
+      "age_min": 2
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-gemuenden-felda",
+      "via": "gemini",
+      "text": "**Titel:** Dämmerungswanderung mit Alpakas & Feldatal-Picknick * **WAS:** Eine geführte Abend-Wanderung mit flauschigen Alpakas durch die Natur rund um Gemünden (Felda), gekrönt von einem Picknickkorb voller regionaler Vogelsberger Spezialitäten direkt am Flussufer. * **fuer WEN:** Perfekt für Paare, kleine Freundesgruppen und gestresste Stadtbewohner, die e",
+      "ts": "2026-11-20 12:52",
+      "age_min": 2
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-feldatal",
+      "via": "gemini",
+      "text": "**WAS:** Die „Feldataler Feierabend-Kiste“ – eine wöchentliche Abo-Box vollgepackt mit regionalen Grundnahrungsmitteln wie frischen Eiern, Vogelsberger Käse, Hausmacher Wurst und Saison-Gemüse direkt vom Hof. **für WEN:** Für beschäftigte Pendler und Familien aus dem Feldatal und Umgebung, die ehrlich erzeugte Lebensmittel schätzen, aber unter der Woche kein",
+      "ts": "2026-11-20 12:51",
+      "age_min": 2
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-gemuenden-felda",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein **Sanitär- und Heizungsbaubetrieb** (SHK). *(Gerade im ländlichen Raum wie Gemünden suchen viele Hausbesitzer online nach Experten für Heizungstausch, Wärmepumpen oder Bad-Modernisierungen).* **Ansprache-Idee (1 Satz):** „Viele Hausbesitzer in Gemünden und Umgebung suchen aktuell auf dem Handy nach neuen Heizungen und Bad-Sanierungen – s",
+      "ts": "2026-11-20 12:51",
       "age_min": 3
     }
   ]
