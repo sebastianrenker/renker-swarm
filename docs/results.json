@@ -1,7 +1,129 @@
 {
-  "updated": "2026-11-21 09:11 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-11-21 16:50 UTC",
+  "total_results": 6,
+  "total_depts": 2,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-wartenberg",
+      "title": "Direktvermarktung — Wartenberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – ein wöchentliches Abo-Kistchen vollgepackt mit frischem Bauernbrot, regionalem Käse, Hausmacher Wurst und knackigem Saison-Gemüse direkt zur Abholung im Ort.\n\n**FÜR WEN:** Für beschäftigte Pendler und Familien aus der Region, die unter der Woche wenig Zeit für einzelne Hofladen-Runden haben, aber trotzdem ehrliche Lebensmittel vom Heimathof auf dem Tisch wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger für die Kiste zusammenbringen und über Aushänge sowie die lokale WhatsApp-Gruppe die ersten 15 Test-Abonnenten für einen Probemonat gewinnen.",
+      "ts": "2026-11-21 16:50",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-wartenberg",
+      "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** \nEin lokaler **Heizungs- und Sanitärbetrieb (SHK)** in Wartenberg.\n\n**Ansprache-Idee (1 Satz):**\n„Servus [Name], wenn Hausbesitzer hier in Wartenberg nach einer neuen Heizung oder Badsanierung googeln, finden sie aktuell eher die Großbetriebe aus dem Umland – lassen Sie uns dafür sorgen, dass die guten Aufträge direkt bei Ihnen im Ort landen.“",
+      "ts": "2026-11-21 16:49",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-wartenberg",
+      "title": "Chancen-Scout — Wartenberg  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler „Home-Concierge“-Service für Gartenpflege, Paketannahme und Handwerker-Empfang speziell für Berufstätige.\n\n**WARUM HIER:** Wartenberg (Angersbach/Landenhausen) ist ein prädestinierter Eigenheim-Wohnort mit extrem viel Fulda-Pendlerverkehr, wo Grundstücke tagsüber meist unbewohnt sind und Service-Bedarf besteht.\n\n**ERSTER SCHRITT:** Aushänge am Bahnhof Angersbach platzieren und in den lokalen Facebook-Gruppen den ersten 5 Haushalten ein Test-Paket anbieten.",
+      "ts": "2026-11-21 16:49",
+      "age_min": 1
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-schwalmtal",
+      "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
+      "via": "gemini",
+      "text": "**WAS:** \nEin ehrenamtlich getragener Bring- und Begleitdienst holt ältere Menschen direkt an ihrer Haustür ab, fährt sie zu Einkäufen oder Arztterminen in die Zentralorte Waldniel und Amern und steht ihnen vor Ort einfühlsam zur Seite.\n\n**WARUM HIER:** \nDa Schwalmtal aus vielen weit verstreuten Ortsteilen ohne eigene Nahversorgung besteht, sichert dieser Dienst die Mobilität, Selbstständigkeit und soziale Teilhabe der Seniorinnen und Senioren im ländlichen Raum.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeinde Schwalmtal und den örtlichen Nachbarschaftsvereinen wird eine Bedarfsabfrage gestartet, um erste feste Wochenrouten zu planen und ehrenamtliche Fahrer sowie Begleitpersonen zu gewinnen.",
+      "ts": "2026-11-21 16:48",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-schwalmtal",
+      "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Das Paket „Schwalmtal-Genuss-Radeln“ kombiniert eine geführte E-Bike-Tour entlang idyllischer Flussläufe mit einer Verkostung regionaler Vogelsberger Spezialitäten direkt auf einem lokalen Bio-Bauernhof.\n\n**fuer WEN:** Das Angebot richtet sich an Paare, Genussradler und kleine Gruppen, die Natur, sanfte Bewegung und kulinarische Entdeckungen entspannt miteinander verbinden wollen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und reservieren Sie Ihr Komplett-Paket inklusive Premium-E-Bike und Picknickkorb mit nur wenigen Klicks.",
+      "ts": "2026-11-21 16:47",
+      "age_min": 2
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-schwalmtal",
+      "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
+      "via": "gemini",
+      "text": "**Idee: Die „Schwalmtaler Feierabend-Kiste“**\n\n* **WAS:** Eine ehrliche Wochen-Abo-Box vollgepackt mit knackigem Saison-Gemüse, frischen Hof-Eiern und handwerklichem Landbrot, abholbar rund um die Uhr in einer festen Regio-Box vor Ort oder direkt an die Haustür geliefert.\n* **fuer WEN:** Für beschäftigte Familien und Pendler aus Schwalmtal und Umgebung, die ohne Aufwand regional einkaufen und die Höfe um die Ecke unterstützen wollen.\n* **ERSTER SCHRITT:** Drei lokale Erzeuger aus der Gemeinde an einen Tisch holen und ein festes Sortiment für einen vierwöchigen Testlauf mit 30 Test-Haushalten schnüren.",
+      "ts": "2026-11-21 16:47",
+      "age_min": 3
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 5,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "direkt-wartenberg",
+          "title": "Direktvermarktung — Wartenberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – ein wöchentliches Abo-Kistchen vollgepackt mit frischem Bauernbrot, regionalem Käse, Hausmacher Wurst und knackigem Saison-Gemüse direkt zur Abholung im Ort.\n\n**FÜR WEN:** Für beschäftigte Pendler und Familien aus der Region, die unter der Woche wenig Zeit für einzelne Hofladen-Runden haben, aber trotzdem ehrliche Lebensmittel vom Heimathof auf dem Tisch wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger für die Kiste zusammenbringen und über Aushänge sowie die lokale WhatsApp-Gruppe die ersten 15 Test-Abonnenten für einen Probemonat gewinnen.",
+          "ts": "2026-11-21 16:50",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "handwerk-wartenberg",
+          "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**Betriebstyp:** \nEin lokaler **Heizungs- und Sanitärbetrieb (SHK)** in Wartenberg.\n\n**Ansprache-Idee (1 Satz):**\n„Servus [Name], wenn Hausbesitzer hier in Wartenberg nach einer neuen Heizung oder Badsanierung googeln, finden sie aktuell eher die Großbetriebe aus dem Umland – lassen Sie uns dafür sorgen, dass die guten Aufträge direkt bei Ihnen im Ort landen.“",
+          "ts": "2026-11-21 16:49",
+          "age_min": 0
+        },
+        {
+          "dept": "Chancen",
+          "agent": "chancen-wartenberg",
+          "title": "Chancen-Scout — Wartenberg  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler „Home-Concierge“-Service für Gartenpflege, Paketannahme und Handwerker-Empfang speziell für Berufstätige.\n\n**WARUM HIER:** Wartenberg (Angersbach/Landenhausen) ist ein prädestinierter Eigenheim-Wohnort mit extrem viel Fulda-Pendlerverkehr, wo Grundstücke tagsüber meist unbewohnt sind und Service-Bedarf besteht.\n\n**ERSTER SCHRITT:** Aushänge am Bahnhof Angersbach platzieren und in den lokalen Facebook-Gruppen den ersten 5 Haushalten ein Test-Paket anbieten.",
+          "ts": "2026-11-21 16:49",
+          "age_min": 1
+        },
+        {
+          "dept": "Chancen",
+          "agent": "tourismus-schwalmtal",
+          "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Das Paket „Schwalmtal-Genuss-Radeln“ kombiniert eine geführte E-Bike-Tour entlang idyllischer Flussläufe mit einer Verkostung regionaler Vogelsberger Spezialitäten direkt auf einem lokalen Bio-Bauernhof.\n\n**fuer WEN:** Das Angebot richtet sich an Paare, Genussradler und kleine Gruppen, die Natur, sanfte Bewegung und kulinarische Entdeckungen entspannt miteinander verbinden wollen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und reservieren Sie Ihr Komplett-Paket inklusive Premium-E-Bike und Picknickkorb mit nur wenigen Klicks.",
+          "ts": "2026-11-21 16:47",
+          "age_min": 2
+        },
+        {
+          "dept": "Chancen",
+          "agent": "direkt-schwalmtal",
+          "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
+          "via": "gemini",
+          "text": "**Idee: Die „Schwalmtaler Feierabend-Kiste“**\n\n* **WAS:** Eine ehrliche Wochen-Abo-Box vollgepackt mit knackigem Saison-Gemüse, frischen Hof-Eiern und handwerklichem Landbrot, abholbar rund um die Uhr in einer festen Regio-Box vor Ort oder direkt an die Haustür geliefert.\n* **fuer WEN:** Für beschäftigte Familien und Pendler aus Schwalmtal und Umgebung, die ohne Aufwand regional einkaufen und die Höfe um die Ecke unterstützen wollen.\n* **ERSTER SCHRITT:** Drei lokale Erzeuger aus der Gemeinde an einen Tisch holen und ein festes Sortiment für einen vierwöchigen Testlauf mit 30 Test-Haushalten schnüren.",
+          "ts": "2026-11-21 16:47",
+          "age_min": 3
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-schwalmtal",
+          "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** \nEin ehrenamtlich getragener Bring- und Begleitdienst holt ältere Menschen direkt an ihrer Haustür ab, fährt sie zu Einkäufen oder Arztterminen in die Zentralorte Waldniel und Amern und steht ihnen vor Ort einfühlsam zur Seite.\n\n**WARUM HIER:** \nDa Schwalmtal aus vielen weit verstreuten Ortsteilen ohne eigene Nahversorgung besteht, sichert dieser Dienst die Mobilität, Selbstständigkeit und soziale Teilhabe der Seniorinnen und Senioren im ländlichen Raum.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeinde Schwalmtal und den örtlichen Nachbarschaftsvereinen wird eine Bedarfsabfrage gestartet, um erste feste Wochenrouten zu planen und ehrenamtliche Fahrer sowie Begleitpersonen zu gewinnen.",
+          "ts": "2026-11-21 16:48",
+          "age_min": 1
+        }
+      ]
+    }
+  ]
 }
