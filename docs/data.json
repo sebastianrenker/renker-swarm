@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:54Z",
+  "updated": "2026-11-21T01:57Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Hol-bring-Service mit integrierter Akku-Station speziell für die hügeligen Routen rund um Ulrichstein. **WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein unzählige E-Biker im Vogelsberg an, bietet extrem steile Anstiege, verfügt aber im gesamten Stadtgebiet über keine einzige Fahrradwerkstatt für Notfälle. **E",
+        "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) in Schwalmtal. **Ansprache-Idee:** „Wenn Schwalmtaler online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, sorgen wir dafür, dass sie auf Ihrer Website landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Viersen oder Mönchengladbach verlieren.“",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen direkt an ihrer Haustür in allen 12 Ortsteilen abholt, sie zum Einkauf oder Arzt begleitet und die Einkäufe auf Wunsch bis in die Küche trägt. **WARUM HIER:** In den weit verstreuten Dörfern der Gemeinde Freiensteinau fehlen in den meisten Ortsteilen eigene Geschäfte",
+        "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrservice, der ältere Menschen direkt an ihrer Haustür abholt, bei Einkäufen sowie Arztfahrten begleitet und ihnen so eine selbstbestimmte Teilhabe am Dorfleben ermöglicht. **WARUM HIER:** In der am höchsten gelegenen Stadt Hessens erschweren steile Straßen, strenge Winter und die weit verstreuten Ortsteile die allt",
         "age_min": 0
       }
     },
@@ -660,108 +660,108 @@
       "name": "Chancen-Scout — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS** Ein mobiler E-Bike-Pannen- und Miet-Service inklusive Hol- und Bringdienst für Touristen und Anwohner. **WARUM HIER** Freiensteinau profitiert direkt vom starken Radtourismus rund um den nahen Nieder-Mooser See s",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-freiensteinau",
       "name": "Handwerk-Sichtbarkeit — Freiensteinau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (insbesondere mit Fokus auf moderne Heiztechnik/Wärmepumpen und Notdienst). **Ansprache-Idee (1 Satz):** „Wenn im Vogelsberg die Heizung ausfällt oder ein Bad",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-freiensteinau",
       "name": "Direktvermarktung — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Land-Kiste“ ist ein flexibles Frische-Abo mit ehrlichen Hofprodukten wie Hausmacher Wurst, Vogelsberger Käse, Eiern und Saison-Gemüse von Freiensteinauer Betrieben, verpackt in einer praktische",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-freiensteinau",
       "name": "Vulkanregion-Tourismus — Freiensteinau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & Sternenfeuer“ beinhaltet eine geführte Dämmerungswanderung auf die Panorama-Höhen von Freiensteinau inklusive eines Rucksacks voller regionaler Vogelsberger Spezialitäten un",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-freiensteinau",
       "name": "Senioren-Alltagsdienste — Freiensteinau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen direkt an ihrer Haustür in allen 12 Ortsteilen abholt, sie zum Einkauf oder Arzt begleitet und die Einkäufe auf Wunsch bis in d",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-ulrichstein",
       "name": "Chancen-Scout — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler E-Bike-Pannen- und Hol-bring-Service mit integrierter Akku-Station speziell für die hügeligen Routen rund um Ulrichstein. **WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein unzählige E-Biker",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-ulrichstein",
       "name": "Handwerk-Sichtbarkeit — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein örtlicher **Heizungs- und Sanitärbetrieb (SHK)**. *(Grund: Im kalten Vogelsberg sind Notfälle im Winter und die Nachfrage nach neuen Heizsystemen wie Wärmepumpen hoch – Neuzugezogene oder jüngere Hau",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "direkt-ulrichstein",
       "name": "Direktvermarktung — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Ulrichsteiner Höhen-Vesperbox“ ist ein flexibles Wochen-Abo mit ehrlichen Vogelsberger Hofprodukten – von herzhaften Rinderbeißern und Ziegenkäse über Basalt-Kartoffeln bis hin zum frischen Bauernbrot. **fu",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-ulrichstein",
       "name": "Vulkanregion-Tourismus — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein geführtes „Vulkan-Picknick auf dem Schlossberg“, bei dem du nach einer kurzen Panorama-Wanderung zur höchstgelegenen Burgruine Hessens eine Kiste voll regionaler Vogelsberger Spezialitäten direkt am Gipfel g",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-ulrichstein",
       "name": "Senioren-Alltagsdienste — Ulrichstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Nachbarschafts- und Fahrservice, der ältere Menschen direkt an ihrer Haustür abholt, bei Einkäufen sowie Arztfahrten begleitet und ihnen so eine selbstbestimmte Teilhabe am Dorfleben ermöglicht. **WA",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-schwalmtal",
       "name": "Chancen-Scout — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler „Schwalmtaler Dorf- & Hausservice“, der Kleinreparaturen, Gartenpflege und Objektbetreuung ohne großen Maschinenpark auf Kleinunternehmerbasis anbietet. **WARUM HIER:** In den verteilten Schwalmtaler",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-schwalmtal",
       "name": "Handwerk-Sichtbarkeit — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) in Schwalmtal. **Ansprache-Idee:** „Wenn Schwalmtaler online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, sorgen wir dafür, dass sie auf Ihrer Website ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-schwalmtal",
@@ -1503,57 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 11,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "chancen-ulrichstein",
+      "agent": "handwerk-schwalmtal",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler E-Bike-Pannen- und Hol-bring-Service mit integrierter Akku-Station speziell für die hügeligen Routen rund um Ulrichstein. **WARUM HIER:** Als höchste Stadt Hessens zieht Ulrichstein unzählige E-Biker im Vogelsberg an, bietet extrem steile Anstiege, verfügt aber im gesamten Stadtgebiet über keine einzige Fahrradwerkstatt für Notfälle. **E",
-      "ts": "2026-11-20 20:54",
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) in Schwalmtal. **Ansprache-Idee:** „Wenn Schwalmtaler online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, sorgen wir dafür, dass sie auf Ihrer Website landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Viersen oder Mönchengladbach verlieren.“",
+      "ts": "2026-11-21 01:57",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-schwalmtal",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler „Schwalmtaler Dorf- & Hausservice“, der Kleinreparaturen, Gartenpflege und Objektbetreuung ohne großen Maschinenpark auf Kleinunternehmerbasis anbietet. **WARUM HIER:** In den verteilten Schwalmtaler Ortsteilen leben viele ältere Eigenheimbesitzer sowie Pendler, während regionale Handwerksbetriebe für solche Kleinaufträge schlicht keine ",
+      "ts": "2026-11-21 01:57",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-freiensteinau",
+      "agent": "senioren-ulrichstein",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen direkt an ihrer Haustür in allen 12 Ortsteilen abholt, sie zum Einkauf oder Arzt begleitet und die Einkäufe auf Wunsch bis in die Küche trägt. **WARUM HIER:** In den weit verstreuten Dörfern der Gemeinde Freiensteinau fehlen in den meisten Ortsteilen eigene Geschäfte",
-      "ts": "2026-11-20 20:54",
+      "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrservice, der ältere Menschen direkt an ihrer Haustür abholt, bei Einkäufen sowie Arztfahrten begleitet und ihnen so eine selbstbestimmte Teilhabe am Dorfleben ermöglicht. **WARUM HIER:** In der am höchsten gelegenen Stadt Hessens erschweren steile Straßen, strenge Winter und die weit verstreuten Ortsteile die allt",
+      "ts": "2026-11-21 01:56",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-freiensteinau",
+      "agent": "tourismus-ulrichstein",
       "via": "gemini",
-      "text": "**WAS:** Das Erlebnis-Paket „Vulkan-Picknick & Sternenfeuer“ beinhaltet eine geführte Dämmerungswanderung auf die Panorama-Höhen von Freiensteinau inklusive eines Rucksacks voller regionaler Vogelsberger Spezialitäten und einer anschließenden geführten Sternenbeobachtung. **fuer WEN:** Dieses Angebot richtet sich an Paare und Naturgenießer, die eine entschle",
-      "ts": "2026-11-20 20:54",
+      "text": "**WAS:** Ein geführtes „Vulkan-Picknick auf dem Schlossberg“, bei dem du nach einer kurzen Panorama-Wanderung zur höchstgelegenen Burgruine Hessens eine Kiste voll regionaler Vogelsberger Spezialitäten direkt am Gipfel genießt. **FÜR WEN:** Das Paket richtet sich an Paare, kleine Familien und Naturgenießer, die eine entschleunigende Auszeit mit Weitblick und",
+      "ts": "2026-11-21 01:56",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-freiensteinau",
+      "agent": "direkt-ulrichstein",
       "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Land-Kiste“ ist ein flexibles Frische-Abo mit ehrlichen Hofprodukten wie Hausmacher Wurst, Vogelsberger Käse, Eiern und Saison-Gemüse von Freiensteinauer Betrieben, verpackt in einer praktischen Mehrweg-Holzkiste. **FÜR WEN:** Für beschäftigte Familien, Pendler und qualitätsbewusste Vogelsberger, die ohne Marktstress regionale Lebe",
-      "ts": "2026-11-20 20:53",
+      "text": "**WAS:** Die „Ulrichsteiner Höhen-Vesperbox“ ist ein flexibles Wochen-Abo mit ehrlichen Vogelsberger Hofprodukten – von herzhaften Rinderbeißern und Ziegenkäse über Basalt-Kartoffeln bis hin zum frischen Bauernbrot. **fuer WEN:** Für beschäftigte Familien und Pendler aus dem Vogelsbergkreis sowie Wochenend-Wanderer aus dem Rhein-Main-Gebiet, die bodenständig",
+      "ts": "2026-11-21 01:56",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-freiensteinau",
+      "agent": "handwerk-ulrichstein",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbetrieb** (insbesondere mit Fokus auf moderne Heiztechnik/Wärmepumpen und Notdienst). **Ansprache-Idee (1 Satz):** „Wenn im Vogelsberg die Heizung ausfällt oder ein Bad geplant wird, suchen die Leute heute als Erstes auf dem Smartphone – sorgen wir einfach dafür, dass Ihre Telefonnummer ganz oben steht, dam",
-      "ts": "2026-11-20 20:53",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-freiensteinau",
-      "via": "gemini",
-      "text": "**WAS** Ein mobiler E-Bike-Pannen- und Miet-Service inklusive Hol- und Bringdienst für Touristen und Anwohner. **WARUM HIER** Freiensteinau profitiert direkt vom starken Radtourismus rund um den nahen Nieder-Mooser See sowie den Vulkanradweg, besitzt bisher aber keine eigene Fahrradwerkstatt im Ort. **ERSTER SCHRITT** Sprich die lokalen Campingplatz- und Fer",
-      "ts": "2026-11-20 20:53",
-      "age_min": 0
+      "text": "**Betriebstyp:** Ein örtlicher **Heizungs- und Sanitärbetrieb (SHK)**. *(Grund: Im kalten Vogelsberg sind Notfälle im Winter und die Nachfrage nach neuen Heizsystemen wie Wärmepumpen hoch – Neuzugezogene oder jüngere Hausbesitzer suchen dafür sofort bei Google, nicht im Telefonbuch.)* **Ansprache-Idee (1 Satz):** „Hallo [Name], im Vogelsberg kennt man Sie du",
+      "ts": "2026-11-21 01:56",
+      "age_min": 1
     }
   ]
 }
