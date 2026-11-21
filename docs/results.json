@@ -1,61 +1,61 @@
 {
-  "updated": "2026-11-21 16:50 UTC",
+  "updated": "2026-11-21 22:00 UTC",
   "total_results": 6,
   "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "direkt-wartenberg",
-      "title": "Direktvermarktung — Wartenberg  ·  Chancen",
+      "agent": "tourismus-antrifttal",
+      "title": "Vulkanregion-Tourismus — Antrifttal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – ein wöchentliches Abo-Kistchen vollgepackt mit frischem Bauernbrot, regionalem Käse, Hausmacher Wurst und knackigem Saison-Gemüse direkt zur Abholung im Ort.\n\n**FÜR WEN:** Für beschäftigte Pendler und Familien aus der Region, die unter der Woche wenig Zeit für einzelne Hofladen-Runden haben, aber trotzdem ehrliche Lebensmittel vom Heimathof auf dem Tisch wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger für die Kiste zusammenbringen und über Aushänge sowie die lokale WhatsApp-Gruppe die ersten 15 Test-Abonnenten für einen Probemonat gewinnen.",
-      "ts": "2026-11-21 16:50",
+      "text": "**WAS:** Erlebe eine entspannte „Stausee-Picknick & SUP-Auszeit“ an der Antrifttalsperre inklusive regional gefülltem Genusskorb und Stand-Up-Paddle-Board für zwei Stunden.\n\n**für WEN:** Dieses Angebot richtet sich an Paare und Naturgenießer, die eine romantische und aktive Entschleunigung direkt am Wasser suchen.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus und schließe die Buchung ab, um deinen Abholcode für Korb und Board zu erhalten.",
+      "ts": "2026-11-21 22:00",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-wartenberg",
-      "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
+      "agent": "direkt-antrifttal",
+      "title": "Direktvermarktung — Antrifttal  ·  Chancen",
       "via": "gemini",
-      "text": "**Betriebstyp:** \nEin lokaler **Heizungs- und Sanitärbetrieb (SHK)** in Wartenberg.\n\n**Ansprache-Idee (1 Satz):**\n„Servus [Name], wenn Hausbesitzer hier in Wartenberg nach einer neuen Heizung oder Badsanierung googeln, finden sie aktuell eher die Großbetriebe aus dem Umland – lassen Sie uns dafür sorgen, dass die guten Aufträge direkt bei Ihnen im Ort landen.“",
-      "ts": "2026-11-21 16:49",
+      "text": "**Idee: Die „Antrifttaler Feierabend-Kiste“ (Regio-Abholstation)**\n\n**WAS:** Eine wöchentlich wechselnde Abo-Kiste mit frischem Fleisch, Eiern, Brot und Saison-Gemüse von Höfen aus Antrifttal und dem Vogelsberg, die vorbestellt und rund um die Uhr aus einer zentralen, gekühlten Abholbox im Ort geholt werden kann.\n\n**fuer WEN:** Für Berufspendler (z. B. Richtung Alsfeld oder Stadtallendorf) und vielbeschäftigte Familien, die ehrliche Lebensmittel aus der Nachbarschaft wollen, aber es zeitlich nicht zu den normalen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Drei bis vier Erzeuger aus den Ortsteilen an einen Tisch holen, um ein verlässliches Basissortiment abzustimmen und einen geeigneten Stellplatz (z. B. am Dorfgemeinschaftshaus) anzupfragen.",
+      "ts": "2026-11-21 22:00",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-wartenberg",
-      "title": "Chancen-Scout — Wartenberg  ·  Chancen",
+      "agent": "handwerk-antrifttal",
+      "title": "Handwerk-Sichtbarkeit — Antrifttal  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler „Home-Concierge“-Service für Gartenpflege, Paketannahme und Handwerker-Empfang speziell für Berufstätige.\n\n**WARUM HIER:** Wartenberg (Angersbach/Landenhausen) ist ein prädestinierter Eigenheim-Wohnort mit extrem viel Fulda-Pendlerverkehr, wo Grundstücke tagsüber meist unbewohnt sind und Service-Bedarf besteht.\n\n**ERSTER SCHRITT:** Aushänge am Bahnhof Angersbach platzieren und in den lokalen Facebook-Gruppen den ersten 5 Haushalten ein Test-Paket anbieten.",
-      "ts": "2026-11-21 16:49",
-      "age_min": 1
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (z. B. im Ortsteil Ruhlkirchen)\n\n**Ansprache-Idee:** \n„Wenn in Antrifttal die Heizung streikt, wird auf dem Smartphone gesucht – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor die Kunden bei der Konkurrenz aus Alsfeld anrufen.“",
+      "ts": "2026-11-21 22:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-antrifttal",
+      "title": "Chancen-Scout — Antrifttal  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** \nEin automatisierter 24/7-Mikro-Dorfladen im Holzcontainer mit regionalen Lebensmitteln heimischer Erzeuger und Basis-Alltagswaren.\n\n**WARUM HIER:** \nAntrifttal besitzt keinen eigenen Supermarkt mehr, bietet aber durch die Lage nahe Alsfeld und den Ausflugsverkehr an der Antrifttalsperre eine verlässliche Nachfrage von Pendlern, Senioren und Touristen.\n\n**ERSTER SCHRITT:** \nPachten Sie eine kleine, gut anfahrbare Fläche an der Hauptstraße im zentralen Ortsteil Ruhlkirchen und schließen Sie Liefervereinbarungen mit zwei bis drei Landwirten aus dem Vogelsbergkreis.",
+      "ts": "2026-11-21 21:59",
+      "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-schwalmtal",
-      "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
+      "agent": "senioren-wartenberg",
+      "title": "Senioren-Alltagsdienste — Wartenberg  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** \nEin ehrenamtlich getragener Bring- und Begleitdienst holt ältere Menschen direkt an ihrer Haustür ab, fährt sie zu Einkäufen oder Arztterminen in die Zentralorte Waldniel und Amern und steht ihnen vor Ort einfühlsam zur Seite.\n\n**WARUM HIER:** \nDa Schwalmtal aus vielen weit verstreuten Ortsteilen ohne eigene Nahversorgung besteht, sichert dieser Dienst die Mobilität, Selbstständigkeit und soziale Teilhabe der Seniorinnen und Senioren im ländlichen Raum.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeinde Schwalmtal und den örtlichen Nachbarschaftsvereinen wird eine Bedarfsabfrage gestartet, um erste feste Wochenrouten zu planen und ehrenamtliche Fahrer sowie Begleitpersonen zu gewinnen.",
-      "ts": "2026-11-21 16:48",
-      "age_min": 1
+      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Erledigungsdienst, der Senioren nicht nur sicher zu Terminen bringt, sondern sie auf Wunsch auch geduldig beim Einkaufen oder Behördengang begleitet.\n\n**WARUM HIER:** In den weitläufig verteilten Ortsteilen von Wartenberg sichert diese mobile Unterstützung die eigenständige Lebensführung und beugt der Einsamkeit vor, wenn eigene Fahrmöglichkeiten nachlassen.\n\n**ERSTER SCHRITT:** Ein gemeinsamer Gesprächsabend im Gemeindehaus, um den konkreten Bedarf der älteren Generation aufzunehmen und hilfsbereite Fahrerinnen und Fahrer aus der Dorfverbindung zu gewinnen.",
+      "ts": "2026-11-21 21:59",
+      "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-schwalmtal",
-      "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
+      "agent": "tourismus-wartenberg",
+      "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Das Paket „Schwalmtal-Genuss-Radeln“ kombiniert eine geführte E-Bike-Tour entlang idyllischer Flussläufe mit einer Verkostung regionaler Vogelsberger Spezialitäten direkt auf einem lokalen Bio-Bauernhof.\n\n**fuer WEN:** Das Angebot richtet sich an Paare, Genussradler und kleine Gruppen, die Natur, sanfte Bewegung und kulinarische Entdeckungen entspannt miteinander verbinden wollen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und reservieren Sie Ihr Komplett-Paket inklusive Premium-E-Bike und Picknickkorb mit nur wenigen Klicks.",
-      "ts": "2026-11-21 16:47",
-      "age_min": 2
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-schwalmtal",
-      "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
-      "via": "gemini",
-      "text": "**Idee: Die „Schwalmtaler Feierabend-Kiste“**\n\n* **WAS:** Eine ehrliche Wochen-Abo-Box vollgepackt mit knackigem Saison-Gemüse, frischen Hof-Eiern und handwerklichem Landbrot, abholbar rund um die Uhr in einer festen Regio-Box vor Ort oder direkt an die Haustür geliefert.\n* **fuer WEN:** Für beschäftigte Familien und Pendler aus Schwalmtal und Umgebung, die ohne Aufwand regional einkaufen und die Höfe um die Ecke unterstützen wollen.\n* **ERSTER SCHRITT:** Drei lokale Erzeuger aus der Gemeinde an einen Tisch holen und ein festes Sortiment für einen vierwöchigen Testlauf mit 30 Test-Haushalten schnüren.",
-      "ts": "2026-11-21 16:47",
-      "age_min": 3
+      "text": "**WAS:** „Vulkan-Picknick an der Burgruine“ – Ein Erlebnispaket aus zwei Leih-E-Bikes und einem prall gefüllten Genuss-Rucksack mit regionalen Vogelsberg-Spezialitäten für eine entspannte Entdeckertour durch das Wartenberger Land.\n\n**fuer WEN:** Dieses Paket richtet sich an Paare und Naturgenießer, die eine leichte Aktivtour mit historischer Kulisse und regionaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin auf unserer Buchungsplattform aus und sichere dir dein Paket mit wenigen Klicks online.",
+      "ts": "2026-11-21 21:59",
+      "age_min": 0
     }
   ],
   "departments": [
@@ -65,48 +65,48 @@
       "items": [
         {
           "dept": "Chancen",
-          "agent": "direkt-wartenberg",
-          "title": "Direktvermarktung — Wartenberg  ·  Chancen",
+          "agent": "tourismus-antrifttal",
+          "title": "Vulkanregion-Tourismus — Antrifttal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Die „Wartenberger Feierabend-Kiste“ – ein wöchentliches Abo-Kistchen vollgepackt mit frischem Bauernbrot, regionalem Käse, Hausmacher Wurst und knackigem Saison-Gemüse direkt zur Abholung im Ort.\n\n**FÜR WEN:** Für beschäftigte Pendler und Familien aus der Region, die unter der Woche wenig Zeit für einzelne Hofladen-Runden haben, aber trotzdem ehrliche Lebensmittel vom Heimathof auf dem Tisch wollen.\n\n**ERSTER SCHRITT:** Drei lokale Erzeuger für die Kiste zusammenbringen und über Aushänge sowie die lokale WhatsApp-Gruppe die ersten 15 Test-Abonnenten für einen Probemonat gewinnen.",
-          "ts": "2026-11-21 16:50",
+          "text": "**WAS:** Erlebe eine entspannte „Stausee-Picknick & SUP-Auszeit“ an der Antrifttalsperre inklusive regional gefülltem Genusskorb und Stand-Up-Paddle-Board für zwei Stunden.\n\n**für WEN:** Dieses Angebot richtet sich an Paare und Naturgenießer, die eine romantische und aktive Entschleunigung direkt am Wasser suchen.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus und schließe die Buchung ab, um deinen Abholcode für Korb und Board zu erhalten.",
+          "ts": "2026-11-21 22:00",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-wartenberg",
-          "title": "Handwerk-Sichtbarkeit — Wartenberg  ·  Chancen",
+          "agent": "direkt-antrifttal",
+          "title": "Direktvermarktung — Antrifttal  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** \nEin lokaler **Heizungs- und Sanitärbetrieb (SHK)** in Wartenberg.\n\n**Ansprache-Idee (1 Satz):**\n„Servus [Name], wenn Hausbesitzer hier in Wartenberg nach einer neuen Heizung oder Badsanierung googeln, finden sie aktuell eher die Großbetriebe aus dem Umland – lassen Sie uns dafür sorgen, dass die guten Aufträge direkt bei Ihnen im Ort landen.“",
-          "ts": "2026-11-21 16:49",
+          "text": "**Idee: Die „Antrifttaler Feierabend-Kiste“ (Regio-Abholstation)**\n\n**WAS:** Eine wöchentlich wechselnde Abo-Kiste mit frischem Fleisch, Eiern, Brot und Saison-Gemüse von Höfen aus Antrifttal und dem Vogelsberg, die vorbestellt und rund um die Uhr aus einer zentralen, gekühlten Abholbox im Ort geholt werden kann.\n\n**fuer WEN:** Für Berufspendler (z. B. Richtung Alsfeld oder Stadtallendorf) und vielbeschäftigte Familien, die ehrliche Lebensmittel aus der Nachbarschaft wollen, aber es zeitlich nicht zu den normalen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Drei bis vier Erzeuger aus den Ortsteilen an einen Tisch holen, um ein verlässliches Basissortiment abzustimmen und einen geeigneten Stellplatz (z. B. am Dorfgemeinschaftshaus) anzupfragen.",
+          "ts": "2026-11-21 22:00",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-wartenberg",
-          "title": "Chancen-Scout — Wartenberg  ·  Chancen",
+          "agent": "handwerk-antrifttal",
+          "title": "Handwerk-Sichtbarkeit — Antrifttal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Ein mobiler „Home-Concierge“-Service für Gartenpflege, Paketannahme und Handwerker-Empfang speziell für Berufstätige.\n\n**WARUM HIER:** Wartenberg (Angersbach/Landenhausen) ist ein prädestinierter Eigenheim-Wohnort mit extrem viel Fulda-Pendlerverkehr, wo Grundstücke tagsüber meist unbewohnt sind und Service-Bedarf besteht.\n\n**ERSTER SCHRITT:** Aushänge am Bahnhof Angersbach platzieren und in den lokalen Facebook-Gruppen den ersten 5 Haushalten ein Test-Paket anbieten.",
-          "ts": "2026-11-21 16:49",
-          "age_min": 1
+          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (z. B. im Ortsteil Ruhlkirchen)\n\n**Ansprache-Idee:** \n„Wenn in Antrifttal die Heizung streikt, wird auf dem Smartphone gesucht – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor die Kunden bei der Konkurrenz aus Alsfeld anrufen.“",
+          "ts": "2026-11-21 22:00",
+          "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-schwalmtal",
-          "title": "Vulkanregion-Tourismus — Schwalmtal  ·  Chancen",
+          "agent": "chancen-antrifttal",
+          "title": "Chancen-Scout — Antrifttal  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Das Paket „Schwalmtal-Genuss-Radeln“ kombiniert eine geführte E-Bike-Tour entlang idyllischer Flussläufe mit einer Verkostung regionaler Vogelsberger Spezialitäten direkt auf einem lokalen Bio-Bauernhof.\n\n**fuer WEN:** Das Angebot richtet sich an Paare, Genussradler und kleine Gruppen, die Natur, sanfte Bewegung und kulinarische Entdeckungen entspannt miteinander verbinden wollen.\n\n**ERSTER SCHRITT:** Wählen Sie auf unserer Buchungsplattform einfach Ihren Wunschtermin aus und reservieren Sie Ihr Komplett-Paket inklusive Premium-E-Bike und Picknickkorb mit nur wenigen Klicks.",
-          "ts": "2026-11-21 16:47",
-          "age_min": 2
+          "text": "**WAS:** \nEin automatisierter 24/7-Mikro-Dorfladen im Holzcontainer mit regionalen Lebensmitteln heimischer Erzeuger und Basis-Alltagswaren.\n\n**WARUM HIER:** \nAntrifttal besitzt keinen eigenen Supermarkt mehr, bietet aber durch die Lage nahe Alsfeld und den Ausflugsverkehr an der Antrifttalsperre eine verlässliche Nachfrage von Pendlern, Senioren und Touristen.\n\n**ERSTER SCHRITT:** \nPachten Sie eine kleine, gut anfahrbare Fläche an der Hauptstraße im zentralen Ortsteil Ruhlkirchen und schließen Sie Liefervereinbarungen mit zwei bis drei Landwirten aus dem Vogelsbergkreis.",
+          "ts": "2026-11-21 21:59",
+          "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-schwalmtal",
-          "title": "Direktvermarktung — Schwalmtal  ·  Chancen",
+          "agent": "tourismus-wartenberg",
+          "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
           "via": "gemini",
-          "text": "**Idee: Die „Schwalmtaler Feierabend-Kiste“**\n\n* **WAS:** Eine ehrliche Wochen-Abo-Box vollgepackt mit knackigem Saison-Gemüse, frischen Hof-Eiern und handwerklichem Landbrot, abholbar rund um die Uhr in einer festen Regio-Box vor Ort oder direkt an die Haustür geliefert.\n* **fuer WEN:** Für beschäftigte Familien und Pendler aus Schwalmtal und Umgebung, die ohne Aufwand regional einkaufen und die Höfe um die Ecke unterstützen wollen.\n* **ERSTER SCHRITT:** Drei lokale Erzeuger aus der Gemeinde an einen Tisch holen und ein festes Sortiment für einen vierwöchigen Testlauf mit 30 Test-Haushalten schnüren.",
-          "ts": "2026-11-21 16:47",
-          "age_min": 3
+          "text": "**WAS:** „Vulkan-Picknick an der Burgruine“ – Ein Erlebnispaket aus zwei Leih-E-Bikes und einem prall gefüllten Genuss-Rucksack mit regionalen Vogelsberg-Spezialitäten für eine entspannte Entdeckertour durch das Wartenberger Land.\n\n**fuer WEN:** Dieses Paket richtet sich an Paare und Naturgenießer, die eine leichte Aktivtour mit historischer Kulisse und regionaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin auf unserer Buchungsplattform aus und sichere dir dein Paket mit wenigen Klicks online.",
+          "ts": "2026-11-21 21:59",
+          "age_min": 0
         }
       ]
     },
@@ -116,12 +116,12 @@
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-schwalmtal",
-          "title": "Senioren-Alltagsdienste — Schwalmtal  ·  Kunden",
+          "agent": "senioren-wartenberg",
+          "title": "Senioren-Alltagsdienste — Wartenberg  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** \nEin ehrenamtlich getragener Bring- und Begleitdienst holt ältere Menschen direkt an ihrer Haustür ab, fährt sie zu Einkäufen oder Arztterminen in die Zentralorte Waldniel und Amern und steht ihnen vor Ort einfühlsam zur Seite.\n\n**WARUM HIER:** \nDa Schwalmtal aus vielen weit verstreuten Ortsteilen ohne eigene Nahversorgung besteht, sichert dieser Dienst die Mobilität, Selbstständigkeit und soziale Teilhabe der Seniorinnen und Senioren im ländlichen Raum.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeinde Schwalmtal und den örtlichen Nachbarschaftsvereinen wird eine Bedarfsabfrage gestartet, um erste feste Wochenrouten zu planen und ehrenamtliche Fahrer sowie Begleitpersonen zu gewinnen.",
-          "ts": "2026-11-21 16:48",
-          "age_min": 1
+          "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Erledigungsdienst, der Senioren nicht nur sicher zu Terminen bringt, sondern sie auf Wunsch auch geduldig beim Einkaufen oder Behördengang begleitet.\n\n**WARUM HIER:** In den weitläufig verteilten Ortsteilen von Wartenberg sichert diese mobile Unterstützung die eigenständige Lebensführung und beugt der Einsamkeit vor, wenn eigene Fahrmöglichkeiten nachlassen.\n\n**ERSTER SCHRITT:** Ein gemeinsamer Gesprächsabend im Gemeindehaus, um den konkreten Bedarf der älteren Generation aufzunehmen und hilfsbereite Fahrerinnen und Fahrer aus der Dorfverbindung zu gewinnen.",
+          "ts": "2026-11-21 21:59",
+          "age_min": 0
         }
       ]
     }
