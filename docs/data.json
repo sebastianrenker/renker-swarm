@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-21T01:57Z",
+  "updated": "2026-11-21T09:11Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) in Schwalmtal. **Ansprache-Idee:** „Wenn Schwalmtaler online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, sorgen wir dafür, dass sie auf Ihrer Website landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Viersen oder Mönchengladbach verlieren.“",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrservice, der ältere Menschen direkt an ihrer Haustür abholt, bei Einkäufen sowie Arztfahrten begleitet und ihnen so eine selbstbestimmte Teilhabe am Dorfleben ermöglicht. **WARUM HIER:** In der am höchsten gelegenen Stadt Hessens erschweren steile Straßen, strenge Winter und die weit verstreuten Ortsteile die allt",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -714,54 +706,54 @@
       "name": "Handwerk-Sichtbarkeit — Ulrichstein",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein örtlicher **Heizungs- und Sanitärbetrieb (SHK)**. *(Grund: Im kalten Vogelsberg sind Notfälle im Winter und die Nachfrage nach neuen Heizsystemen wie Wärmepumpen hoch – Neuzugezogene oder jüngere Hau",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-ulrichstein",
       "name": "Direktvermarktung — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Ulrichsteiner Höhen-Vesperbox“ ist ein flexibles Wochen-Abo mit ehrlichen Vogelsberger Hofprodukten – von herzhaften Rinderbeißern und Ziegenkäse über Basalt-Kartoffeln bis hin zum frischen Bauernbrot. **fu",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-ulrichstein",
       "name": "Vulkanregion-Tourismus — Ulrichstein",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Ein geführtes „Vulkan-Picknick auf dem Schlossberg“, bei dem du nach einer kurzen Panorama-Wanderung zur höchstgelegenen Burgruine Hessens eine Kiste voll regionaler Vogelsberger Spezialitäten direkt am Gipfel g",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-ulrichstein",
       "name": "Senioren-Alltagsdienste — Ulrichstein",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler Nachbarschafts- und Fahrservice, der ältere Menschen direkt an ihrer Haustür abholt, bei Einkäufen sowie Arztfahrten begleitet und ihnen so eine selbstbestimmte Teilhabe am Dorfleben ermöglicht. **WA",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-schwalmtal",
       "name": "Chancen-Scout — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler „Schwalmtaler Dorf- & Hausservice“, der Kleinreparaturen, Gartenpflege und Objektbetreuung ohne großen Maschinenpark auf Kleinunternehmerbasis anbietet. **WARUM HIER:** In den verteilten Schwalmtaler",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-schwalmtal",
       "name": "Handwerk-Sichtbarkeit — Schwalmtal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) in Schwalmtal. **Ansprache-Idee:** „Wenn Schwalmtaler online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, sorgen wir dafür, dass sie auf Ihrer Website ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-schwalmtal",
@@ -1506,54 +1498,5 @@
     "used": 6,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-schwalmtal",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) in Schwalmtal. **Ansprache-Idee:** „Wenn Schwalmtaler online nach einer neuen Wärmepumpe oder einer Badrenovierung suchen, sorgen wir dafür, dass sie auf Ihrer Website landen – und die lukrativen Aufträge nicht an die Konkurrenz aus Viersen oder Mönchengladbach verlieren.“",
-      "ts": "2026-11-21 01:57",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-schwalmtal",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler „Schwalmtaler Dorf- & Hausservice“, der Kleinreparaturen, Gartenpflege und Objektbetreuung ohne großen Maschinenpark auf Kleinunternehmerbasis anbietet. **WARUM HIER:** In den verteilten Schwalmtaler Ortsteilen leben viele ältere Eigenheimbesitzer sowie Pendler, während regionale Handwerksbetriebe für solche Kleinaufträge schlicht keine ",
-      "ts": "2026-11-21 01:57",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-ulrichstein",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler Nachbarschafts- und Fahrservice, der ältere Menschen direkt an ihrer Haustür abholt, bei Einkäufen sowie Arztfahrten begleitet und ihnen so eine selbstbestimmte Teilhabe am Dorfleben ermöglicht. **WARUM HIER:** In der am höchsten gelegenen Stadt Hessens erschweren steile Straßen, strenge Winter und die weit verstreuten Ortsteile die allt",
-      "ts": "2026-11-21 01:56",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-ulrichstein",
-      "via": "gemini",
-      "text": "**WAS:** Ein geführtes „Vulkan-Picknick auf dem Schlossberg“, bei dem du nach einer kurzen Panorama-Wanderung zur höchstgelegenen Burgruine Hessens eine Kiste voll regionaler Vogelsberger Spezialitäten direkt am Gipfel genießt. **FÜR WEN:** Das Paket richtet sich an Paare, kleine Familien und Naturgenießer, die eine entschleunigende Auszeit mit Weitblick und",
-      "ts": "2026-11-21 01:56",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-ulrichstein",
-      "via": "gemini",
-      "text": "**WAS:** Die „Ulrichsteiner Höhen-Vesperbox“ ist ein flexibles Wochen-Abo mit ehrlichen Vogelsberger Hofprodukten – von herzhaften Rinderbeißern und Ziegenkäse über Basalt-Kartoffeln bis hin zum frischen Bauernbrot. **fuer WEN:** Für beschäftigte Familien und Pendler aus dem Vogelsbergkreis sowie Wochenend-Wanderer aus dem Rhein-Main-Gebiet, die bodenständig",
-      "ts": "2026-11-21 01:56",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-ulrichstein",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein örtlicher **Heizungs- und Sanitärbetrieb (SHK)**. *(Grund: Im kalten Vogelsberg sind Notfälle im Winter und die Nachfrage nach neuen Heizsystemen wie Wärmepumpen hoch – Neuzugezogene oder jüngere Hausbesitzer suchen dafür sofort bei Google, nicht im Telefonbuch.)* **Ansprache-Idee (1 Satz):** „Hallo [Name], im Vogelsberg kennt man Sie du",
-      "ts": "2026-11-21 01:56",
-      "age_min": 1
-    }
-  ]
+  "recent": []
 }
