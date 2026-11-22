@@ -1,121 +1,127 @@
 {
-  "updated": "2026-11-22 09:40 UTC",
+  "updated": "2026-11-22 17:24 UTC",
   "total_results": 6,
-  "total_depts": 1,
+  "total_depts": 2,
   "active": [
     {
       "dept": "Chancen",
-      "agent": "tourismus-fulda",
-      "title": "Vulkanregion-Tourismus — Fulda  ·  Chancen",
+      "agent": "direkt-petersberg",
+      "title": "Direktvermarktung — Petersberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** „Sterne & Genuss“: Eine 3-stündige nächtliche Führung durch den UNESCO-Sternenpark Rhön vor den Toren Fuldas mit Teleskop-Beobachtung und einem regionalen Bio-Picknickkorb.\n\n**für WEN:** Dieses Paket richtet sich an Paare, Naturbegeisterte und Romantiker, die eine entschleunigende Auszeit unter einem der dunkelsten Nacht-Himmel Deutschlands suchen.\n\n**ERSTER SCHRITT:** Wählen Sie Ihren Wunschtermin im Online-Buchungskalender aus und sichern Sie sich Ihr Ticket direkt mit Sofortbestätigung.",
-      "ts": "2026-11-22 09:40",
+      "text": "**WAS:** Die „Petersberger Feierabend-Kiste“ ist ein wöchentliches Abokistchen mit saisonalem Gemüsemix, frischem Rhöner Landbrot und einem einfachen Rezeptkarte-Vorschlag für ein schnelles Abendessen unter der Woche.\n\n**fuer WEN:** Für Pendler und Familien aus Petersberg, die nach dem Arbeitstag in Fulda ohne Einkaufsstress ehrlich und regional kochen möchten.\n\n**ERSTER SCHRITT:** Zwei passende Höfe aus der Umgebung für Gemüse und Brot anfragen und die ersten zehn Test-Abos über Mundpropaganda sowie Aushänge im Ort vergeben.",
+      "ts": "2026-11-22 17:24",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-fulda",
-      "title": "Direktvermarktung — Fulda  ·  Chancen",
+      "agent": "handwerk-petersberg",
+      "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
       "via": "gemini",
-      "text": "**Idee: Die „Rhön-Feierabendkiste“**\n\n* **WAS:** Eine wöchentliche Abokiste für ein ehrliches Abendbrot mit frischem Holzofenbrot, Ahler Wurscht, Rhöner Käse und saisonalem Gemüse direkt von Höfen aus dem Landkreis Fulda.\n* **FÜR WEN:** Für berufstätige Pendler und Familien in Stadt und Landkreis Fulda, die unter der Woche wenig Zeit haben, aber Wert auf echte regionale Qualität legen.\n* **ERSTER SCHRITT:** Drei regionale Erzeuger (Bäcker, Metzgerei, Gemüsehof) an einen Tisch holen und mit 20 Testkunden aus dem Bekanntenkreis den ersten Kisteninhalt ausprobieren.",
-      "ts": "2026-11-22 09:40",
+      "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb** (mit Fokus auf Badsanierung und moderne Heiztechnik) in Petersberg.\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Eigenheimbesitzer in Petersberg auf Google nach einer Badsanierung oder Wärmepumpe suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass diese lukrativen Aufträge künftig direkt bei Ihnen in der Nachbarschaft bleiben?“",
+      "ts": "2026-11-22 17:24",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-lautertal",
-      "title": "Vulkanregion-Tourismus — Lautertal  ·  Chancen",
+      "agent": "chancen-petersberg",
+      "title": "Chancen-Scout — Petersberg  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** Erlebe eine geführte Mikro-Wanderung zu den imposanten Basaltformationen des Lautertals inklusive einem reich gefüllten Rucksack mit regionalen Vogelsberger Spezialitäten für ein Picknick in der Natur.\n\n**für WEN:** Perfekt für Paare, Genuss-Wanderer und kleine Familien, die eine entspannte Auszeit im Grünen mit einem lokalen Kulinarik-Erlebnis verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform dein Wunschdatum aus und sichere dir deinen gefüllten Picknick-Rucksack direkt online mit zwei Klicks.",
-      "ts": "2026-11-22 09:40",
+      "text": "**WAS:** Ein mobiler E-Bike-Inspektions- und Reparatur-Service, der Routinewartungen und kleine Reparaturen direkt vor der Haustür der Kunden durchführt.\n\n**WARUM HIER:** Petersberg hat eine sehr hohe Dichte an kaufkräftigen Eigenheimbesitzern mit teuren E-Bikes und liegt als Nadelöhr direkt an den Pendler- und Freizeit-Radrouten zwischen der Stadt Fulda und der Rhön.\n\n**ERSTER SCHRITT:** Grundwerkzeug und Ersatzteile beschaffen, eine einfache Buchungs-Webseite erstellen und gezielt Flyer in den Petersberger Wohngebieten (z. B. rund um den Dachsberg) verteilen.",
+      "ts": "2026-11-22 17:24",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-lautertal",
-      "title": "Direktvermarktung — Lautertal  ·  Chancen",
+      "agent": "handwerk-fulda",
+      "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nDie „Lautertaler Vesper-Kiste“ – ein wöchentliches Abokistchen vollgepackt mit frischem Odenwälder Bauernbrot, Hofkäse, Wurstspezialitäten und Saison-Gemüse direkt von den Höfen rund ums Felsenmeer.\n\n**Für WEN:** \nFür Pendler und Familien aus dem Lautertal und Umgebung, die nach Feierabend ehrliches Essen aus der Region wollen, ohne dafür drei verschiedene Hofläden abklappern zu müssen.\n\n**ERSTER SCHRITT:** \nMit zwei, drei befreundeten Landwirten aus dem Tal an einen Tisch setzen, fünf solide Produkte für eine Test-Box auswählen und die ersten zehn Kisten im Bekanntenkreis ausliefern.",
-      "ts": "2026-11-22 09:39",
-      "age_min": 1
+      "text": "**Betriebstyp:** Dachdeckerbetrieb in und um Fulda (spezialisiert auf Dachsanierung & Reperaturen).\n\n**Ansprache-Idee (1 Satz):** \n„Hallo Herr [Name], wenn Hausbesitzer in Fulda online nach einer Dachsanierung suchen, landen sie aktuell direkt bei Ihrer Konkurrenz – wollen wir gemeinsam dafür sorgen, dass Ihr Meisterbetrieb auf Google ganz oben steht?“",
+      "ts": "2026-11-22 17:23",
+      "age_min": 0
     },
     {
-      "dept": "Chancen",
-      "agent": "handwerk-lautertal",
-      "title": "Handwerk-Sichtbarkeit — Lautertal  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-lautertal",
+      "title": "Senioren-Alltagsdienste — Lautertal  ·  Kunden",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Wenn in Lautertal im Winter die Heizung ausfällt oder jemand ein neues Bad plant, greift er als Erstes zum Handy – sorgen wir dafür, dass direkt Ihre Nummer auf dem Bildschirm auftaucht und nicht die der Konkurrenz aus der nächsten Großstadt.“",
-      "ts": "2026-11-22 09:39",
-      "age_min": 1
+      "text": "**WAS:** Ein nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen würdevoll und flexibel zu Arztterminen, Besorgungen oder Gemeinschaftstreffen zwischen den Ortsteilen bringt.\n\n**WARUM HIER:** Die weit auseinanderliegenden Ortsteile im Lautertal und die topografische Lage machen alltägliche Wege ohne eigenes Auto zu einer großen Hürde für eine selbstbestimmte Lebensführung.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Gemeinde Lautertal und dem Seniorenbeirat einen Auftakt-Workshop organisieren, um engagierte Fahrerinnen und Fahrer zu gewinnen und einfache Buchungswege zu vereinbaren.",
+      "ts": "2026-11-22 17:23",
+      "age_min": 0
     },
     {
-      "dept": "Chancen",
-      "agent": "chancen-lautertal",
-      "title": "Chancen-Scout — Lautertal  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-fulda",
+      "title": "Senioren-Alltagsdienste — Fulda  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Rundum-Betreuungsservice für lokale Ferienunterkünfte und Airbnb-Objekte, der Reinigung, Wäscheservice, Schlüsselübergabe und kleine Instandhaltungen übernimmt.\n\n**WARUM HIER:** Lautertal profitiert vom boomenden Vogelsberg-Naturtourismus, jedoch fehlen vielen privaten Nebenerwerbs-Vermietern vor Ort die Kapazitäten für das zeitintensive, tägliche Gästemanagement.\n\n**ERSTER SCHRITT:** Identifiziere über Portale wie Airbnb oder FeWo-direkt 10 private Vermieter in den Lautertaler Ortsteilen und sprich sie direkt mit einem Paketpreis für die nächste Saison an.",
-      "ts": "2026-11-22 09:38",
-      "age_min": 1
+      "text": "**WAS:** Ein ehrenamtlich gestützter Dorffahrdienst mit persönlicher Begleitung, der ältere Menschen aus den kleineren Rhön-Gemeinden sicher zu Facharztterminen, Behörden und Besorgungen nach Fulda bringt.\n\n**WARUM HIER:** In der weitläufigen, hügeligen Region um Fulda ist der öffentliche Nahverkehr in kleinen Ortsteilen ausgedünnt, während die medizinische und städtische Infrastruktur stark in der Kreisstadt konzentriert ist.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit den lokalen Kirchengemeinden und Ortsvorstehern den konkreten Bedarf abfragen und vertrauenswürdige Fahrerinnen und Fahrer aus den Dörfern gewinnen.",
+      "ts": "2026-11-22 17:23",
+      "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 6,
+      "count": 4,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-fulda",
-          "title": "Vulkanregion-Tourismus — Fulda  ·  Chancen",
+          "agent": "direkt-petersberg",
+          "title": "Direktvermarktung — Petersberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** „Sterne & Genuss“: Eine 3-stündige nächtliche Führung durch den UNESCO-Sternenpark Rhön vor den Toren Fuldas mit Teleskop-Beobachtung und einem regionalen Bio-Picknickkorb.\n\n**für WEN:** Dieses Paket richtet sich an Paare, Naturbegeisterte und Romantiker, die eine entschleunigende Auszeit unter einem der dunkelsten Nacht-Himmel Deutschlands suchen.\n\n**ERSTER SCHRITT:** Wählen Sie Ihren Wunschtermin im Online-Buchungskalender aus und sichern Sie sich Ihr Ticket direkt mit Sofortbestätigung.",
-          "ts": "2026-11-22 09:40",
+          "text": "**WAS:** Die „Petersberger Feierabend-Kiste“ ist ein wöchentliches Abokistchen mit saisonalem Gemüsemix, frischem Rhöner Landbrot und einem einfachen Rezeptkarte-Vorschlag für ein schnelles Abendessen unter der Woche.\n\n**fuer WEN:** Für Pendler und Familien aus Petersberg, die nach dem Arbeitstag in Fulda ohne Einkaufsstress ehrlich und regional kochen möchten.\n\n**ERSTER SCHRITT:** Zwei passende Höfe aus der Umgebung für Gemüse und Brot anfragen und die ersten zehn Test-Abos über Mundpropaganda sowie Aushänge im Ort vergeben.",
+          "ts": "2026-11-22 17:24",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-fulda",
-          "title": "Direktvermarktung — Fulda  ·  Chancen",
+          "agent": "handwerk-petersberg",
+          "title": "Handwerk-Sichtbarkeit — Petersberg  ·  Chancen",
           "via": "gemini",
-          "text": "**Idee: Die „Rhön-Feierabendkiste“**\n\n* **WAS:** Eine wöchentliche Abokiste für ein ehrliches Abendbrot mit frischem Holzofenbrot, Ahler Wurscht, Rhöner Käse und saisonalem Gemüse direkt von Höfen aus dem Landkreis Fulda.\n* **FÜR WEN:** Für berufstätige Pendler und Familien in Stadt und Landkreis Fulda, die unter der Woche wenig Zeit haben, aber Wert auf echte regionale Qualität legen.\n* **ERSTER SCHRITT:** Drei regionale Erzeuger (Bäcker, Metzgerei, Gemüsehof) an einen Tisch holen und mit 20 Testkunden aus dem Bekanntenkreis den ersten Kisteninhalt ausprobieren.",
-          "ts": "2026-11-22 09:40",
+          "text": "**Betriebstyp:** **Heizungs- und Sanitärbetrieb** (mit Fokus auf Badsanierung und moderne Heiztechnik) in Petersberg.\n\n**Ansprache-Idee:**\n„Hallo Herr [Name], wenn Eigenheimbesitzer in Petersberg auf Google nach einer Badsanierung oder Wärmepumpe suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass diese lukrativen Aufträge künftig direkt bei Ihnen in der Nachbarschaft bleiben?“",
+          "ts": "2026-11-22 17:24",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "tourismus-lautertal",
-          "title": "Vulkanregion-Tourismus — Lautertal  ·  Chancen",
+          "agent": "chancen-petersberg",
+          "title": "Chancen-Scout — Petersberg  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Erlebe eine geführte Mikro-Wanderung zu den imposanten Basaltformationen des Lautertals inklusive einem reich gefüllten Rucksack mit regionalen Vogelsberger Spezialitäten für ein Picknick in der Natur.\n\n**für WEN:** Perfekt für Paare, Genuss-Wanderer und kleine Familien, die eine entspannte Auszeit im Grünen mit einem lokalen Kulinarik-Erlebnis verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle auf unserer Buchungsplattform dein Wunschdatum aus und sichere dir deinen gefüllten Picknick-Rucksack direkt online mit zwei Klicks.",
-          "ts": "2026-11-22 09:40",
+          "text": "**WAS:** Ein mobiler E-Bike-Inspektions- und Reparatur-Service, der Routinewartungen und kleine Reparaturen direkt vor der Haustür der Kunden durchführt.\n\n**WARUM HIER:** Petersberg hat eine sehr hohe Dichte an kaufkräftigen Eigenheimbesitzern mit teuren E-Bikes und liegt als Nadelöhr direkt an den Pendler- und Freizeit-Radrouten zwischen der Stadt Fulda und der Rhön.\n\n**ERSTER SCHRITT:** Grundwerkzeug und Ersatzteile beschaffen, eine einfache Buchungs-Webseite erstellen und gezielt Flyer in den Petersberger Wohngebieten (z. B. rund um den Dachsberg) verteilen.",
+          "ts": "2026-11-22 17:24",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-lautertal",
-          "title": "Direktvermarktung — Lautertal  ·  Chancen",
+          "agent": "handwerk-fulda",
+          "title": "Handwerk-Sichtbarkeit — Fulda  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nDie „Lautertaler Vesper-Kiste“ – ein wöchentliches Abokistchen vollgepackt mit frischem Odenwälder Bauernbrot, Hofkäse, Wurstspezialitäten und Saison-Gemüse direkt von den Höfen rund ums Felsenmeer.\n\n**Für WEN:** \nFür Pendler und Familien aus dem Lautertal und Umgebung, die nach Feierabend ehrliches Essen aus der Region wollen, ohne dafür drei verschiedene Hofläden abklappern zu müssen.\n\n**ERSTER SCHRITT:** \nMit zwei, drei befreundeten Landwirten aus dem Tal an einen Tisch setzen, fünf solide Produkte für eine Test-Box auswählen und die ersten zehn Kisten im Bekanntenkreis ausliefern.",
-          "ts": "2026-11-22 09:39",
-          "age_min": 1
+          "text": "**Betriebstyp:** Dachdeckerbetrieb in und um Fulda (spezialisiert auf Dachsanierung & Reperaturen).\n\n**Ansprache-Idee (1 Satz):** \n„Hallo Herr [Name], wenn Hausbesitzer in Fulda online nach einer Dachsanierung suchen, landen sie aktuell direkt bei Ihrer Konkurrenz – wollen wir gemeinsam dafür sorgen, dass Ihr Meisterbetrieb auf Google ganz oben steht?“",
+          "ts": "2026-11-22 17:23",
+          "age_min": 0
+        }
+      ]
+    },
+    {
+      "id": "Kunden",
+      "count": 2,
+      "items": [
+        {
+          "dept": "Kunden",
+          "agent": "senioren-lautertal",
+          "title": "Senioren-Alltagsdienste — Lautertal  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein nachbarschaftlicher Begleit- und Fahrdienst, der ältere Menschen würdevoll und flexibel zu Arztterminen, Besorgungen oder Gemeinschaftstreffen zwischen den Ortsteilen bringt.\n\n**WARUM HIER:** Die weit auseinanderliegenden Ortsteile im Lautertal und die topografische Lage machen alltägliche Wege ohne eigenes Auto zu einer großen Hürde für eine selbstbestimmte Lebensführung.\n\n**ERSTER SCHRITT:** Gemeinsam mit der Gemeinde Lautertal und dem Seniorenbeirat einen Auftakt-Workshop organisieren, um engagierte Fahrerinnen und Fahrer zu gewinnen und einfache Buchungswege zu vereinbaren.",
+          "ts": "2026-11-22 17:23",
+          "age_min": 0
         },
         {
-          "dept": "Chancen",
-          "agent": "handwerk-lautertal",
-          "title": "Handwerk-Sichtbarkeit — Lautertal  ·  Chancen",
+          "dept": "Kunden",
+          "agent": "senioren-fulda",
+          "title": "Senioren-Alltagsdienste — Fulda  ·  Kunden",
           "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK)\n\n**Ansprache-Idee:** \n„Wenn in Lautertal im Winter die Heizung ausfällt oder jemand ein neues Bad plant, greift er als Erstes zum Handy – sorgen wir dafür, dass direkt Ihre Nummer auf dem Bildschirm auftaucht und nicht die der Konkurrenz aus der nächsten Großstadt.“",
-          "ts": "2026-11-22 09:39",
-          "age_min": 1
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-lautertal",
-          "title": "Chancen-Scout — Lautertal  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Ein mobiler Rundum-Betreuungsservice für lokale Ferienunterkünfte und Airbnb-Objekte, der Reinigung, Wäscheservice, Schlüsselübergabe und kleine Instandhaltungen übernimmt.\n\n**WARUM HIER:** Lautertal profitiert vom boomenden Vogelsberg-Naturtourismus, jedoch fehlen vielen privaten Nebenerwerbs-Vermietern vor Ort die Kapazitäten für das zeitintensive, tägliche Gästemanagement.\n\n**ERSTER SCHRITT:** Identifiziere über Portale wie Airbnb oder FeWo-direkt 10 private Vermieter in den Lautertaler Ortsteilen und sprich sie direkt mit einem Paketpreis für die nächste Saison an.",
-          "ts": "2026-11-22 09:38",
-          "age_min": 1
+          "text": "**WAS:** Ein ehrenamtlich gestützter Dorffahrdienst mit persönlicher Begleitung, der ältere Menschen aus den kleineren Rhön-Gemeinden sicher zu Facharztterminen, Behörden und Besorgungen nach Fulda bringt.\n\n**WARUM HIER:** In der weitläufigen, hügeligen Region um Fulda ist der öffentliche Nahverkehr in kleinen Ortsteilen ausgedünnt, während die medizinische und städtische Infrastruktur stark in der Kreisstadt konzentriert ist.\n\n**ERSTER SCHRITT:** In Zusammenarbeit mit den lokalen Kirchengemeinden und Ortsvorstehern den konkreten Bedarf abfragen und vertrauenswürdige Fahrerinnen und Fahrer aus den Dörfern gewinnen.",
+          "ts": "2026-11-22 17:23",
+          "age_min": 0
         }
       ]
     }
