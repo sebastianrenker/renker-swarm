@@ -1,126 +1,126 @@
 {
-  "updated": "2026-11-21 22:00 UTC",
+  "updated": "2026-11-22 02:00 UTC",
   "total_results": 6,
   "total_depts": 2,
   "active": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-antrifttal",
-      "title": "Vulkanregion-Tourismus — Antrifttal  ·  Chancen",
+      "dept": "Kunden",
+      "agent": "senioren-grebenau",
+      "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Erlebe eine entspannte „Stausee-Picknick & SUP-Auszeit“ an der Antrifttalsperre inklusive regional gefülltem Genusskorb und Stand-Up-Paddle-Board für zwei Stunden.\n\n**für WEN:** Dieses Angebot richtet sich an Paare und Naturgenießer, die eine romantische und aktive Entschleunigung direkt am Wasser suchen.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus und schließe die Buchung ab, um deinen Abholcode für Korb und Board zu erhalten.",
-      "ts": "2026-11-21 22:00",
+      "text": "**WAS:** \nEin verlässlicher, persönlicher Mobilitäts- und Besorgungsdienst, der Senioren direkt an der Haustür abholt, alltägliche Einkäufe erledigt und eine würdevolle Begleitung zu Arzt- oder Amtsterminen bietet.\n\n**WARUM HIER:** \nDa die sieben Ortsteile von Grebenau weit auseinanderliegen und die Infrastruktur vor Ort überschaubar ist, bewahrt dieser Dienst die Selbstständigkeit der älteren Menschen und wirkt der Vereinsamung im ländlichen Raum entgegen.\n\n**ERSTER SCHRITT:** \nEin erstes Gespräch mit dem Bürgermeister und den Ortsvorstehern führen, um das Vorhaben auf den örtlichen Seniorennachmittagen vorzustellen und sowohl den konkreten Bedarf als auch freiwillige Fahrpaten zu gewinnen.",
+      "ts": "2026-11-22 02:00",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-antrifttal",
-      "title": "Direktvermarktung — Antrifttal  ·  Chancen",
+      "agent": "tourismus-grebenau",
+      "title": "Vulkanregion-Tourismus — Grebenau  ·  Chancen",
       "via": "gemini",
-      "text": "**Idee: Die „Antrifttaler Feierabend-Kiste“ (Regio-Abholstation)**\n\n**WAS:** Eine wöchentlich wechselnde Abo-Kiste mit frischem Fleisch, Eiern, Brot und Saison-Gemüse von Höfen aus Antrifttal und dem Vogelsberg, die vorbestellt und rund um die Uhr aus einer zentralen, gekühlten Abholbox im Ort geholt werden kann.\n\n**fuer WEN:** Für Berufspendler (z. B. Richtung Alsfeld oder Stadtallendorf) und vielbeschäftigte Familien, die ehrliche Lebensmittel aus der Nachbarschaft wollen, aber es zeitlich nicht zu den normalen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Drei bis vier Erzeuger aus den Ortsteilen an einen Tisch holen, um ein verlässliches Basissortiment abzustimmen und einen geeigneten Stellplatz (z. B. am Dorfgemeinschaftshaus) anzupfragen.",
-      "ts": "2026-11-21 22:00",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-antrifttal",
-      "title": "Handwerk-Sichtbarkeit — Antrifttal  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (z. B. im Ortsteil Ruhlkirchen)\n\n**Ansprache-Idee:** \n„Wenn in Antrifttal die Heizung streikt, wird auf dem Smartphone gesucht – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor die Kunden bei der Konkurrenz aus Alsfeld anrufen.“",
-      "ts": "2026-11-21 22:00",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-antrifttal",
-      "title": "Chancen-Scout — Antrifttal  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nEin automatisierter 24/7-Mikro-Dorfladen im Holzcontainer mit regionalen Lebensmitteln heimischer Erzeuger und Basis-Alltagswaren.\n\n**WARUM HIER:** \nAntrifttal besitzt keinen eigenen Supermarkt mehr, bietet aber durch die Lage nahe Alsfeld und den Ausflugsverkehr an der Antrifttalsperre eine verlässliche Nachfrage von Pendlern, Senioren und Touristen.\n\n**ERSTER SCHRITT:** \nPachten Sie eine kleine, gut anfahrbare Fläche an der Hauptstraße im zentralen Ortsteil Ruhlkirchen und schließen Sie Liefervereinbarungen mit zwei bis drei Landwirten aus dem Vogelsbergkreis.",
-      "ts": "2026-11-21 21:59",
+      "text": "**WAS:** „Gründchen-Kräuter & Vulkan-Picknick“ ist eine geführte Wildkräuter-Wanderung durch die Wälder rund um Grebenau mit anschließender Verkostung regionaler Spezialitäten an einem idyllischen Aussichtspunkt.\n\n**fuer WEN:** Das Paket richtet sich an genussorientierte Naturfreunde, Paare und kleine Gruppen, die eine entschleunigende Auszeit abseits des Trubels suchen.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnisticket direkt mit wenigen Klicks.",
+      "ts": "2026-11-22 02:00",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-wartenberg",
-      "title": "Senioren-Alltagsdienste — Wartenberg  ·  Kunden",
+      "agent": "senioren-antrifttal",
+      "title": "Senioren-Alltagsdienste — Antrifttal  ·  Kunden",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Erledigungsdienst, der Senioren nicht nur sicher zu Terminen bringt, sondern sie auf Wunsch auch geduldig beim Einkaufen oder Behördengang begleitet.\n\n**WARUM HIER:** In den weitläufig verteilten Ortsteilen von Wartenberg sichert diese mobile Unterstützung die eigenständige Lebensführung und beugt der Einsamkeit vor, wenn eigene Fahrmöglichkeiten nachlassen.\n\n**ERSTER SCHRITT:** Ein gemeinsamer Gesprächsabend im Gemeindehaus, um den konkreten Bedarf der älteren Generation aufzunehmen und hilfsbereite Fahrerinnen und Fahrer aus der Dorfverbindung zu gewinnen.",
-      "ts": "2026-11-21 21:59",
+      "text": "**WAS:** Ein mobiler, barrierefreier Dorf-Shuttle mit fester Begleitperson, der Senioren verlässlich zu Arztterminen, Einkäufen und Nachbarschaftstreffen bringt und direkt an der Haustür unterstützt.\n\n**WARUM HIER:** In den fünf verstreuten Ortsteilen von Antrifttal fehlen eigene Hausärzte sowie Nahversorger, sodass der Erhalt einer selbstbestimmten Lebensführung ohne eigenes Auto extrem schwer ist.\n\n**ERSTER SCHRITT:** Einladung zu einem gemütlichen Informationstreffen im Bürgerhaus Ruhlkirchen, um mit den Senioren und freiwilligen Fahrern die drängendsten Zielorte und Wunschzeiten persönlich abzustimmen.",
+      "ts": "2026-11-22 02:00",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-wartenberg",
-      "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
+      "agent": "direkt-grebenau",
+      "title": "Direktvermarktung — Grebenau  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** „Vulkan-Picknick an der Burgruine“ – Ein Erlebnispaket aus zwei Leih-E-Bikes und einem prall gefüllten Genuss-Rucksack mit regionalen Vogelsberg-Spezialitäten für eine entspannte Entdeckertour durch das Wartenberger Land.\n\n**fuer WEN:** Dieses Paket richtet sich an Paare und Naturgenießer, die eine leichte Aktivtour mit historischer Kulisse und regionaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin auf unserer Buchungsplattform aus und sichere dir dein Paket mit wenigen Klicks online.",
-      "ts": "2026-11-21 21:59",
+      "text": "**WAS:** Die „Gründchen-Feierabendkiste“ – ein praktisches Wochen-Abo vollgepackt mit frischen Eiern, Hausmacher Wurst, Holzofenbrot und Saison-Gemüse von Erzeugern direkt aus Grebenau und den Nachbardörfern.\n\n**fuer WEN:** Für berufstätige Familien und Pendler aus der Region, die ehrliche Lebensmittel vom Bauern schätzen, aber unter der Woche keine Zeit für einzelne Fahrten zu verschiedenen Hofläden haben.\n\n**ERSTER SCHRITT:** Sich mit zwei lokalen Erzeugern und einem Bäcker an einen Tisch setzen, fünf feste Produkte für eine Test-Box festlegen und einen gut erreichbaren Abholort im Ort vereinbaren.",
+      "ts": "2026-11-22 02:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grebenau",
+      "title": "Handwerk-Sichtbarkeit — Grebenau  ·  Chancen",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Heizung- und Sanitärbetrieb\n\n**Ansprache-Idee:**  \n„Wenn im Vogelsberg im Winter die Heizung ausfällt oder Zugezogene ihr Bad renovieren wollen, wird als Erstes auf dem Smartphone gesucht – sorgen wir dafür, dass Ihre Telefonnummer direkt an erster Stelle steht, bevor der Auftrag an die Konkurrenz im nächsten Ort geht.“",
+      "ts": "2026-11-22 02:00",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-grebenau",
+      "title": "Chancen-Scout — Grebenau  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Mobiler Grundstücks-, Hecken- und Brennholz-Service speziell für ältere Eigenheimbesitzer in den Ortsteilen von Grebenau.\n\n**WARUM HIER:** Im ländlichen „Gründchen“ treffen große Gartengrundstücke auf eine alternde Bevölkerung, die schwere Außenarbeiten nicht mehr selbst stemmen kann, während große Gartenbau-Betriebe solche Kleinaufträge kaum bedienen.\n\n**ERSTER SCHRITT:** Drucke 200 Flyer mit drei klaren Festpreis-Paketen (z. B. „Kaminholz holzfertig stapeln“ oder „Rückschnitt & Entsorgung“) und verteile sie direkt in den Einfamilienhaus-Siedlungen von Schwarz, Udenhausen und Wallersdorf.",
+      "ts": "2026-11-22 02:00",
       "age_min": 0
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "dept": "Chancen",
-          "agent": "tourismus-antrifttal",
-          "title": "Vulkanregion-Tourismus — Antrifttal  ·  Chancen",
+          "agent": "tourismus-grebenau",
+          "title": "Vulkanregion-Tourismus — Grebenau  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** Erlebe eine entspannte „Stausee-Picknick & SUP-Auszeit“ an der Antrifttalsperre inklusive regional gefülltem Genusskorb und Stand-Up-Paddle-Board für zwei Stunden.\n\n**für WEN:** Dieses Angebot richtet sich an Paare und Naturgenießer, die eine romantische und aktive Entschleunigung direkt am Wasser suchen.\n\n**ERSTER SCHRITT:** Wähle online deinen Wunschtermin aus und schließe die Buchung ab, um deinen Abholcode für Korb und Board zu erhalten.",
-          "ts": "2026-11-21 22:00",
+          "text": "**WAS:** „Gründchen-Kräuter & Vulkan-Picknick“ ist eine geführte Wildkräuter-Wanderung durch die Wälder rund um Grebenau mit anschließender Verkostung regionaler Spezialitäten an einem idyllischen Aussichtspunkt.\n\n**fuer WEN:** Das Paket richtet sich an genussorientierte Naturfreunde, Paare und kleine Gruppen, die eine entschleunigende Auszeit abseits des Trubels suchen.\n\n**ERSTER SCHRITT:** Wählen Sie online Ihren Wunschtermin aus und sichern Sie sich Ihr Erlebnisticket direkt mit wenigen Klicks.",
+          "ts": "2026-11-22 02:00",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "direkt-antrifttal",
-          "title": "Direktvermarktung — Antrifttal  ·  Chancen",
+          "agent": "direkt-grebenau",
+          "title": "Direktvermarktung — Grebenau  ·  Chancen",
           "via": "gemini",
-          "text": "**Idee: Die „Antrifttaler Feierabend-Kiste“ (Regio-Abholstation)**\n\n**WAS:** Eine wöchentlich wechselnde Abo-Kiste mit frischem Fleisch, Eiern, Brot und Saison-Gemüse von Höfen aus Antrifttal und dem Vogelsberg, die vorbestellt und rund um die Uhr aus einer zentralen, gekühlten Abholbox im Ort geholt werden kann.\n\n**fuer WEN:** Für Berufspendler (z. B. Richtung Alsfeld oder Stadtallendorf) und vielbeschäftigte Familien, die ehrliche Lebensmittel aus der Nachbarschaft wollen, aber es zeitlich nicht zu den normalen Hofladen-Öffnungszeiten schaffen.\n\n**ERSTER SCHRITT:** Drei bis vier Erzeuger aus den Ortsteilen an einen Tisch holen, um ein verlässliches Basissortiment abzustimmen und einen geeigneten Stellplatz (z. B. am Dorfgemeinschaftshaus) anzupfragen.",
-          "ts": "2026-11-21 22:00",
+          "text": "**WAS:** Die „Gründchen-Feierabendkiste“ – ein praktisches Wochen-Abo vollgepackt mit frischen Eiern, Hausmacher Wurst, Holzofenbrot und Saison-Gemüse von Erzeugern direkt aus Grebenau und den Nachbardörfern.\n\n**fuer WEN:** Für berufstätige Familien und Pendler aus der Region, die ehrliche Lebensmittel vom Bauern schätzen, aber unter der Woche keine Zeit für einzelne Fahrten zu verschiedenen Hofläden haben.\n\n**ERSTER SCHRITT:** Sich mit zwei lokalen Erzeugern und einem Bäcker an einen Tisch setzen, fünf feste Produkte für eine Test-Box festlegen und einen gut erreichbaren Abholort im Ort vereinbaren.",
+          "ts": "2026-11-22 02:00",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "handwerk-antrifttal",
-          "title": "Handwerk-Sichtbarkeit — Antrifttal  ·  Chancen",
+          "agent": "handwerk-grebenau",
+          "title": "Handwerk-Sichtbarkeit — Grebenau  ·  Chancen",
           "via": "gemini",
-          "text": "**Betriebstyp:** Sanitär- und Heizungsbauer (z. B. im Ortsteil Ruhlkirchen)\n\n**Ansprache-Idee:** \n„Wenn in Antrifttal die Heizung streikt, wird auf dem Smartphone gesucht – sorgen wir dafür, dass Ihre Nummer ganz oben steht, bevor die Kunden bei der Konkurrenz aus Alsfeld anrufen.“",
-          "ts": "2026-11-21 22:00",
+          "text": "**Betriebstyp:** Heizung- und Sanitärbetrieb\n\n**Ansprache-Idee:**  \n„Wenn im Vogelsberg im Winter die Heizung ausfällt oder Zugezogene ihr Bad renovieren wollen, wird als Erstes auf dem Smartphone gesucht – sorgen wir dafür, dass Ihre Telefonnummer direkt an erster Stelle steht, bevor der Auftrag an die Konkurrenz im nächsten Ort geht.“",
+          "ts": "2026-11-22 02:00",
           "age_min": 0
         },
         {
           "dept": "Chancen",
-          "agent": "chancen-antrifttal",
-          "title": "Chancen-Scout — Antrifttal  ·  Chancen",
+          "agent": "chancen-grebenau",
+          "title": "Chancen-Scout — Grebenau  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin automatisierter 24/7-Mikro-Dorfladen im Holzcontainer mit regionalen Lebensmitteln heimischer Erzeuger und Basis-Alltagswaren.\n\n**WARUM HIER:** \nAntrifttal besitzt keinen eigenen Supermarkt mehr, bietet aber durch die Lage nahe Alsfeld und den Ausflugsverkehr an der Antrifttalsperre eine verlässliche Nachfrage von Pendlern, Senioren und Touristen.\n\n**ERSTER SCHRITT:** \nPachten Sie eine kleine, gut anfahrbare Fläche an der Hauptstraße im zentralen Ortsteil Ruhlkirchen und schließen Sie Liefervereinbarungen mit zwei bis drei Landwirten aus dem Vogelsbergkreis.",
-          "ts": "2026-11-21 21:59",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-wartenberg",
-          "title": "Vulkanregion-Tourismus — Wartenberg  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** „Vulkan-Picknick an der Burgruine“ – Ein Erlebnispaket aus zwei Leih-E-Bikes und einem prall gefüllten Genuss-Rucksack mit regionalen Vogelsberg-Spezialitäten für eine entspannte Entdeckertour durch das Wartenberger Land.\n\n**fuer WEN:** Dieses Paket richtet sich an Paare und Naturgenießer, die eine leichte Aktivtour mit historischer Kulisse und regionaler Kulinarik verbinden möchten.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin auf unserer Buchungsplattform aus und sichere dir dein Paket mit wenigen Klicks online.",
-          "ts": "2026-11-21 21:59",
+          "text": "**WAS:** Mobiler Grundstücks-, Hecken- und Brennholz-Service speziell für ältere Eigenheimbesitzer in den Ortsteilen von Grebenau.\n\n**WARUM HIER:** Im ländlichen „Gründchen“ treffen große Gartengrundstücke auf eine alternde Bevölkerung, die schwere Außenarbeiten nicht mehr selbst stemmen kann, während große Gartenbau-Betriebe solche Kleinaufträge kaum bedienen.\n\n**ERSTER SCHRITT:** Drucke 200 Flyer mit drei klaren Festpreis-Paketen (z. B. „Kaminholz holzfertig stapeln“ oder „Rückschnitt & Entsorgung“) und verteile sie direkt in den Einfamilienhaus-Siedlungen von Schwarz, Udenhausen und Wallersdorf.",
+          "ts": "2026-11-22 02:00",
           "age_min": 0
         }
       ]
     },
     {
       "id": "Kunden",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "dept": "Kunden",
-          "agent": "senioren-wartenberg",
-          "title": "Senioren-Alltagsdienste — Wartenberg  ·  Kunden",
+          "agent": "senioren-grebenau",
+          "title": "Senioren-Alltagsdienste — Grebenau  ·  Kunden",
           "via": "gemini",
-          "text": "**WAS:** Ein verlässlicher, nachbarschaftlicher Fahr- und Erledigungsdienst, der Senioren nicht nur sicher zu Terminen bringt, sondern sie auf Wunsch auch geduldig beim Einkaufen oder Behördengang begleitet.\n\n**WARUM HIER:** In den weitläufig verteilten Ortsteilen von Wartenberg sichert diese mobile Unterstützung die eigenständige Lebensführung und beugt der Einsamkeit vor, wenn eigene Fahrmöglichkeiten nachlassen.\n\n**ERSTER SCHRITT:** Ein gemeinsamer Gesprächsabend im Gemeindehaus, um den konkreten Bedarf der älteren Generation aufzunehmen und hilfsbereite Fahrerinnen und Fahrer aus der Dorfverbindung zu gewinnen.",
-          "ts": "2026-11-21 21:59",
+          "text": "**WAS:** \nEin verlässlicher, persönlicher Mobilitäts- und Besorgungsdienst, der Senioren direkt an der Haustür abholt, alltägliche Einkäufe erledigt und eine würdevolle Begleitung zu Arzt- oder Amtsterminen bietet.\n\n**WARUM HIER:** \nDa die sieben Ortsteile von Grebenau weit auseinanderliegen und die Infrastruktur vor Ort überschaubar ist, bewahrt dieser Dienst die Selbstständigkeit der älteren Menschen und wirkt der Vereinsamung im ländlichen Raum entgegen.\n\n**ERSTER SCHRITT:** \nEin erstes Gespräch mit dem Bürgermeister und den Ortsvorstehern führen, um das Vorhaben auf den örtlichen Seniorennachmittagen vorzustellen und sowohl den konkreten Bedarf als auch freiwillige Fahrpaten zu gewinnen.",
+          "ts": "2026-11-22 02:00",
+          "age_min": 0
+        },
+        {
+          "dept": "Kunden",
+          "agent": "senioren-antrifttal",
+          "title": "Senioren-Alltagsdienste — Antrifttal  ·  Kunden",
+          "via": "gemini",
+          "text": "**WAS:** Ein mobiler, barrierefreier Dorf-Shuttle mit fester Begleitperson, der Senioren verlässlich zu Arztterminen, Einkäufen und Nachbarschaftstreffen bringt und direkt an der Haustür unterstützt.\n\n**WARUM HIER:** In den fünf verstreuten Ortsteilen von Antrifttal fehlen eigene Hausärzte sowie Nahversorger, sodass der Erhalt einer selbstbestimmten Lebensführung ohne eigenes Auto extrem schwer ist.\n\n**ERSTER SCHRITT:** Einladung zu einem gemütlichen Informationstreffen im Bürgerhaus Ruhlkirchen, um mit den Senioren und freiwilligen Fahrern die drängendsten Zielorte und Wunschzeiten persönlich abzustimmen.",
+          "ts": "2026-11-22 02:00",
           "age_min": 0
         }
       ]
