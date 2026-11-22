@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T02:00Z",
+  "updated": "2026-11-22T09:40Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** „Gründchen-Kräuter & Vulkan-Picknick“ ist eine geführte Wildkräuter-Wanderung durch die Wälder rund um Grebenau mit anschließender Verkostung regionaler Spezialitäten an einem idyllischen Aussichtspunkt. **fuer WEN:** Das Paket richtet sich an genussorientierte Naturfreunde, Paare und kleine Gruppen, die eine entschleunigende Auszeit abseits des Tru",
+        "text": "**WAS:** „Sterne & Genuss“: Eine 3-stündige nächtliche Führung durch den UNESCO-Sternenpark Rhön vor den Toren Fuldas mit Teleskop-Beobachtung und einem regionalen Bio-Picknickkorb. **für WEN:** Dieses Paket richtet sich an Paare, Naturbegeisterte und Romantiker, die eine entschleunigende Auszeit unter einem der dunkelsten Nacht-Himmel Deutschlands suchen. *",
         "age_min": 0
       }
     },
@@ -30,11 +30,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, persönlicher Mobilitäts- und Besorgungsdienst, der Senioren direkt an der Haustür abholt, alltägliche Einkäufe erledigt und eine würdevolle Begleitung zu Arzt- oder Amtsterminen bietet. **WARUM HIER:** Da die sieben Ortsteile von Grebenau weit auseinanderliegen und die Infrastruktur vor Ort überschaubar ist, bewahrt dieser Dienst ",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -876,90 +872,90 @@
       "name": "Senioren-Alltagsdienste — Antrifttal",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein mobiler, barrierefreier Dorf-Shuttle mit fester Begleitperson, der Senioren verlässlich zu Arztterminen, Einkäufen und Nachbarschaftstreffen bringt und direkt an der Haustür unterstützt. **WARUM HIER:** In d",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-grebenau",
       "name": "Chancen-Scout — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobiler Grundstücks-, Hecken- und Brennholz-Service speziell für ältere Eigenheimbesitzer in den Ortsteilen von Grebenau. **WARUM HIER:** Im ländlichen „Gründchen“ treffen große Gartengrundstücke auf eine altern",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-grebenau",
       "name": "Handwerk-Sichtbarkeit — Grebenau",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Heizung- und Sanitärbetrieb **Ansprache-Idee:** „Wenn im Vogelsberg im Winter die Heizung ausfällt oder Zugezogene ihr Bad renovieren wollen, wird als Erstes auf dem Smartphone gesucht – sorgen wir dafür",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-grebenau",
       "name": "Direktvermarktung — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Gründchen-Feierabendkiste“ – ein praktisches Wochen-Abo vollgepackt mit frischen Eiern, Hausmacher Wurst, Holzofenbrot und Saison-Gemüse von Erzeugern direkt aus Grebenau und den Nachbardörfern. **fuer WEN:",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-grebenau",
       "name": "Vulkanregion-Tourismus — Grebenau",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Gründchen-Kräuter & Vulkan-Picknick“ ist eine geführte Wildkräuter-Wanderung durch die Wälder rund um Grebenau mit anschließender Verkostung regionaler Spezialitäten an einem idyllischen Aussichtspunkt. **fuer ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-grebenau",
       "name": "Senioren-Alltagsdienste — Grebenau",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, persönlicher Mobilitäts- und Besorgungsdienst, der Senioren direkt an der Haustür abholt, alltägliche Einkäufe erledigt und eine würdevolle Begleitung zu Arzt- oder Amtsterminen bietet. **WARU",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-lautertal",
       "name": "Chancen-Scout — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Rundum-Betreuungsservice für lokale Ferienunterkünfte und Airbnb-Objekte, der Reinigung, Wäscheservice, Schlüsselübergabe und kleine Instandhaltungen übernimmt. **WARUM HIER:** Lautertal profitiert v",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "handwerk-lautertal",
       "name": "Handwerk-Sichtbarkeit — Lautertal",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) **Ansprache-Idee:** „Wenn in Lautertal im Winter die Heizung ausfällt oder jemand ein neues Bad plant, greift er als Erstes zum Handy – sorgen wir dafür, dass direkt Ih",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "direkt-lautertal",
       "name": "Direktvermarktung — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Lautertaler Vesper-Kiste“ – ein wöchentliches Abokistchen vollgepackt mit frischem Odenwälder Bauernbrot, Hofkäse, Wurstspezialitäten und Saison-Gemüse direkt von den Höfen rund ums Felsenmeer. **Für WEN:**",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "tourismus-lautertal",
       "name": "Vulkanregion-Tourismus — Lautertal",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe eine geführte Mikro-Wanderung zu den imposanten Basaltformationen des Lautertals inklusive einem reich gefüllten Rucksack mit regionalen Vogelsberger Spezialitäten für ein Picknick in der Natur. **für WEN",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-lautertal",
@@ -984,18 +980,18 @@
       "name": "Direktvermarktung — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Idee: Die „Rhön-Feierabendkiste“** * **WAS:** Eine wöchentliche Abokiste für ein ehrliches Abendbrot mit frischem Holzofenbrot, Ahler Wurscht, Rhöner Käse und saisonalem Gemüse direkt von Höfen aus dem Landkreis Fulda.",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-fulda",
       "name": "Vulkanregion-Tourismus — Fulda",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Sterne & Genuss“: Eine 3-stündige nächtliche Führung durch den UNESCO-Sternenpark Rhön vor den Toren Fuldas mit Teleskop-Beobachtung und einem regionalen Bio-Picknickkorb. **für WEN:** Dieses Paket richtet sich",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-fulda",
@@ -1503,57 +1499,57 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 12,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-grebenau",
+      "dept": "Chancen",
+      "agent": "tourismus-fulda",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, persönlicher Mobilitäts- und Besorgungsdienst, der Senioren direkt an der Haustür abholt, alltägliche Einkäufe erledigt und eine würdevolle Begleitung zu Arzt- oder Amtsterminen bietet. **WARUM HIER:** Da die sieben Ortsteile von Grebenau weit auseinanderliegen und die Infrastruktur vor Ort überschaubar ist, bewahrt dieser Dienst ",
-      "ts": "2026-11-22 02:00",
+      "text": "**WAS:** „Sterne & Genuss“: Eine 3-stündige nächtliche Führung durch den UNESCO-Sternenpark Rhön vor den Toren Fuldas mit Teleskop-Beobachtung und einem regionalen Bio-Picknickkorb. **für WEN:** Dieses Paket richtet sich an Paare, Naturbegeisterte und Romantiker, die eine entschleunigende Auszeit unter einem der dunkelsten Nacht-Himmel Deutschlands suchen. *",
+      "ts": "2026-11-22 09:40",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-grebenau",
+      "agent": "direkt-fulda",
       "via": "gemini",
-      "text": "**WAS:** „Gründchen-Kräuter & Vulkan-Picknick“ ist eine geführte Wildkräuter-Wanderung durch die Wälder rund um Grebenau mit anschließender Verkostung regionaler Spezialitäten an einem idyllischen Aussichtspunkt. **fuer WEN:** Das Paket richtet sich an genussorientierte Naturfreunde, Paare und kleine Gruppen, die eine entschleunigende Auszeit abseits des Tru",
-      "ts": "2026-11-22 02:00",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-antrifttal",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler, barrierefreier Dorf-Shuttle mit fester Begleitperson, der Senioren verlässlich zu Arztterminen, Einkäufen und Nachbarschaftstreffen bringt und direkt an der Haustür unterstützt. **WARUM HIER:** In den fünf verstreuten Ortsteilen von Antrifttal fehlen eigene Hausärzte sowie Nahversorger, sodass der Erhalt einer selbstbestimmten Lebensfüh",
-      "ts": "2026-11-22 02:00",
+      "text": "**Idee: Die „Rhön-Feierabendkiste“** * **WAS:** Eine wöchentliche Abokiste für ein ehrliches Abendbrot mit frischem Holzofenbrot, Ahler Wurscht, Rhöner Käse und saisonalem Gemüse direkt von Höfen aus dem Landkreis Fulda. * **FÜR WEN:** Für berufstätige Pendler und Familien in Stadt und Landkreis Fulda, die unter der Woche wenig Zeit haben, aber Wert auf echt",
+      "ts": "2026-11-22 09:40",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-grebenau",
+      "agent": "tourismus-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Die „Gründchen-Feierabendkiste“ – ein praktisches Wochen-Abo vollgepackt mit frischen Eiern, Hausmacher Wurst, Holzofenbrot und Saison-Gemüse von Erzeugern direkt aus Grebenau und den Nachbardörfern. **fuer WEN:** Für berufstätige Familien und Pendler aus der Region, die ehrliche Lebensmittel vom Bauern schätzen, aber unter der Woche keine Zeit für ",
-      "ts": "2026-11-22 02:00",
+      "text": "**WAS:** Erlebe eine geführte Mikro-Wanderung zu den imposanten Basaltformationen des Lautertals inklusive einem reich gefüllten Rucksack mit regionalen Vogelsberger Spezialitäten für ein Picknick in der Natur. **für WEN:** Perfekt für Paare, Genuss-Wanderer und kleine Familien, die eine entspannte Auszeit im Grünen mit einem lokalen Kulinarik-Erlebnis verbi",
+      "ts": "2026-11-22 09:40",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-grebenau",
+      "agent": "direkt-lautertal",
       "via": "gemini",
-      "text": "**Betriebstyp:** Heizung- und Sanitärbetrieb **Ansprache-Idee:** „Wenn im Vogelsberg im Winter die Heizung ausfällt oder Zugezogene ihr Bad renovieren wollen, wird als Erstes auf dem Smartphone gesucht – sorgen wir dafür, dass Ihre Telefonnummer direkt an erster Stelle steht, bevor der Auftrag an die Konkurrenz im nächsten Ort geht.“",
-      "ts": "2026-11-22 02:00",
-      "age_min": 0
+      "text": "**WAS:** Die „Lautertaler Vesper-Kiste“ – ein wöchentliches Abokistchen vollgepackt mit frischem Odenwälder Bauernbrot, Hofkäse, Wurstspezialitäten und Saison-Gemüse direkt von den Höfen rund ums Felsenmeer. **Für WEN:** Für Pendler und Familien aus dem Lautertal und Umgebung, die nach Feierabend ehrliches Essen aus der Region wollen, ohne dafür drei verschi",
+      "ts": "2026-11-22 09:39",
+      "age_min": 1
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-grebenau",
+      "agent": "handwerk-lautertal",
       "via": "gemini",
-      "text": "**WAS:** Mobiler Grundstücks-, Hecken- und Brennholz-Service speziell für ältere Eigenheimbesitzer in den Ortsteilen von Grebenau. **WARUM HIER:** Im ländlichen „Gründchen“ treffen große Gartengrundstücke auf eine alternde Bevölkerung, die schwere Außenarbeiten nicht mehr selbst stemmen kann, während große Gartenbau-Betriebe solche Kleinaufträge kaum bediene",
-      "ts": "2026-11-22 02:00",
-      "age_min": 0
+      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) **Ansprache-Idee:** „Wenn in Lautertal im Winter die Heizung ausfällt oder jemand ein neues Bad plant, greift er als Erstes zum Handy – sorgen wir dafür, dass direkt Ihre Nummer auf dem Bildschirm auftaucht und nicht die der Konkurrenz aus der nächsten Großstadt.“",
+      "ts": "2026-11-22 09:39",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-lautertal",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Rundum-Betreuungsservice für lokale Ferienunterkünfte und Airbnb-Objekte, der Reinigung, Wäscheservice, Schlüsselübergabe und kleine Instandhaltungen übernimmt. **WARUM HIER:** Lautertal profitiert vom boomenden Vogelsberg-Naturtourismus, jedoch fehlen vielen privaten Nebenerwerbs-Vermietern vor Ort die Kapazitäten für das zeitintensive,",
+      "ts": "2026-11-22 09:38",
+      "age_min": 1
     }
   ]
 }
