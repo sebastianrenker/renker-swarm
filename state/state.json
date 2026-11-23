@@ -1,6 +1,6 @@
 {
-  "day": "2026-11-22",
-  "calls_today": 24,
+  "day": "2026-11-23",
+  "calls_today": 3,
   "last_run": {
     "kommando-digest": 1794710429.1682444,
     "chancen-vogelsberg": 1794710438.3425934,
@@ -117,10 +117,10 @@
     "chancen-kuenzell": 1795387233.8807375,
     "handwerk-kuenzell": 1795387206.6917217,
     "direkt-kuenzell": 1795387244.9818616,
-    "tourismus-kuenzell": 1794453140.8966315,
+    "tourismus-kuenzell": 1795403273.1553993,
     "senioren-kuenzell": 1795387217.245298,
-    "chancen-neuhof": 1794453150.9329903,
-    "handwerk-neuhof": 1794453155.7239695,
+    "chancen-neuhof": 1795403281.813831,
+    "handwerk-neuhof": 1795403287.4759133,
     "direkt-neuhof": 1794453189.2034397,
     "tourismus-neuhof": 1794453195.3223042,
     "senioren-neuhof": 1794453202.1187005,
