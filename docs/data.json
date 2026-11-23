@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-23T03:08Z",
+  "updated": "2026-11-23T12:31Z",
   "agents_total": 162,
-  "worked": 3,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbauer** in Neuhof (mit Fokus auf Badsanierung und Wärmepumpen). **Ansprache-Idee:** „Hallo Herr [Name], wenn Eigenheimbesitzer in Neuhof auf Google nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass diese lukrativen Aufträge di",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -1079,9 +1075,9 @@
       "name": "Vulkanregion-Tourismus — Kuenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Rhöner Sinnentour & Thermen-Auszeit“ – eine geführte Natur- und Kräuterwanderung durch die Künzeller Parklandschaft mit regionalem Picknick, gefolgt von einem entspannenden Nachmittag im Siebenwelten Spa Resort",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-kuenzell",
@@ -1097,18 +1093,18 @@
       "name": "Chancen-Scout — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler, digital buchbarer Fahrzeug-Aufbereitungsservice, der Pendler- und Firmenfahrzeuge während der Arbeitszeit direkt auf den Parkplätzen im Industriepark Neuhof-Nord pflegt. **WARUM HIER:** Neuhof hat d",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-neuhof",
       "name": "Handwerk-Sichtbarkeit — Neuhof",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbauer** in Neuhof (mit Fokus auf Badsanierung und Wärmepumpen). **Ansprache-Idee:** „Hallo Herr [Name], wenn Eigenheimbesitzer in Neuhof auf Google nach einer neuen Hei",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-neuhof",
@@ -1502,30 +1498,5 @@
     "used": 3,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-neuhof",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Sanitär- und Heizungsbauer** in Neuhof (mit Fokus auf Badsanierung und Wärmepumpen). **Ansprache-Idee:** „Hallo Herr [Name], wenn Eigenheimbesitzer in Neuhof auf Google nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei Betrieben aus Fulda – wollen wir dafür sorgen, dass diese lukrativen Aufträge di",
-      "ts": "2026-11-23 03:08",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** Ein mobiler, digital buchbarer Fahrzeug-Aufbereitungsservice, der Pendler- und Firmenfahrzeuge während der Arbeitszeit direkt auf den Parkplätzen im Industriepark Neuhof-Nord pflegt. **WARUM HIER:** Neuhof hat durch die A66-Anbindung und Großarbeitgeber wie K+S Tausende Schichtarbeiter und Pendler, die im Alltag keine Zeit für die Autopflege haben u",
-      "ts": "2026-11-23 03:08",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-kuenzell",
-      "via": "gemini",
-      "text": "**WAS:** „Rhöner Sinnentour & Thermen-Auszeit“ – eine geführte Natur- und Kräuterwanderung durch die Künzeller Parklandschaft mit regionalem Picknick, gefolgt von einem entspannenden Nachmittag im Siebenwelten Spa Resort. **fuer WEN:** Dieses Angebot eignet sich perfekt für Paare und Erholungssuchende, die eine entschleunigende Aktivität im Grünen mit exklus",
-      "ts": "2026-11-23 03:07",
-      "age_min": 0
-    }
-  ]
+  "recent": []
 }
