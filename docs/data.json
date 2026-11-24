@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-24T00:23Z",
+  "updated": "2026-11-24T10:12Z",
   "agents_total": 162,
-  "worked": 5,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** **E-Bike- & Picknick-Tour „Grenzenlos genießen“:** Eine selbstgeführte E-Bike-Runde ab Hünfeld entlang des Kegelspiel-Radwegs, inklusive digitaler Routenführung und einem prall gefüllten Rucksack voller Rhöner Bio-Spezialitäten für eine Pause im Grünen. **für WEN:** Das Angebot ist perfekt für Genussradler, Paare und kleine Gruppen, die Natur, regio",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,11 +26,7 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher, persönlicher Dorfbegleitdienst, der ältere Menschen flexibel bei Besorgungen, Arztfahrten oder Behördengängen begleitet und fährt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufig erreichbare Geschäfte und eine dichte Busanbindung, was das selbstbestimmte Leben im eigenen Zuhause erschwert. **ERST",
-        "age_min": 1
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
@@ -1119,27 +1111,27 @@
       "name": "Direktvermarktung — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Idee: Die „Neuhöfer Feierabend-Kiste“** * **WAS:** Eine wöchentliche Kiste mit allem für eine ehrliche regionale Brotzeit: Frisches Hofbrot, Eier, Hausmacher Wurst oder Käse und knackiges Saison-Gemüse aus der Region. ",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-neuhof",
       "name": "Vulkanregion-Tourismus — Neuhof",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Bei der geführten E-Bike-Abendtour „Kaliblick & Kulinarik“ erkunden Sie die sanften Ausläufer des Vogelsbergs rund um Neuhof und genießen zum Sonnenuntergang eine regionale Vulkan-Vesper mit Blick auf den imposa",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-neuhof",
       "name": "Senioren-Alltagsdienste — Neuhof",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher, persönlicher Dorfbegleitdienst, der ältere Menschen flexibel bei Besorgungen, Arztfahrten oder Behördengängen begleitet und fährt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-huenfeld",
@@ -1164,18 +1156,18 @@
       "name": "Direktvermarktung — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Eine wöchentliche „Hünfelder Feierabend-Kiste“ im Abo mit ehrlichen Zutaten aus der Region – wie frischem Bauernbrot, Rhöner Käse, Ahle Wurscht und Saison-Gemüse – für ein bodenständiges Abendbrot ohne Supermark",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-huenfeld",
       "name": "Vulkanregion-Tourismus — Huenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** **E-Bike- & Picknick-Tour „Grenzenlos genießen“:** Eine selbstgeführte E-Bike-Runde ab Hünfeld entlang des Kegelspiel-Radwegs, inklusive digitaler Routenführung und einem prall gefüllten Rucksack voller Rhöner B",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-huenfeld",
@@ -1506,46 +1498,5 @@
     "used": 5,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-huenfeld",
-      "via": "gemini",
-      "text": "**WAS:** **E-Bike- & Picknick-Tour „Grenzenlos genießen“:** Eine selbstgeführte E-Bike-Runde ab Hünfeld entlang des Kegelspiel-Radwegs, inklusive digitaler Routenführung und einem prall gefüllten Rucksack voller Rhöner Bio-Spezialitäten für eine Pause im Grünen. **für WEN:** Das Angebot ist perfekt für Genussradler, Paare und kleine Gruppen, die Natur, regio",
-      "ts": "2026-11-24 00:23",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-huenfeld",
-      "via": "gemini",
-      "text": "**WAS:** Eine wöchentliche „Hünfelder Feierabend-Kiste“ im Abo mit ehrlichen Zutaten aus der Region – wie frischem Bauernbrot, Rhöner Käse, Ahle Wurscht und Saison-Gemüse – für ein bodenständiges Abendbrot ohne Supermarktsuche. **für WEN:** Für berufstätige Pendler und Familien aus Hünfeld und den Ortsteilen, die heimische Erzeugnisse schätzen, aber unter de",
-      "ts": "2026-11-24 00:23",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher, persönlicher Dorfbegleitdienst, der ältere Menschen flexibel bei Besorgungen, Arztfahrten oder Behördengängen begleitet und fährt. **WARUM HIER:** In den weit verstreuten Ortsteilen von Neuhof fehlen oft fußläufig erreichbare Geschäfte und eine dichte Busanbindung, was das selbstbestimmte Leben im eigenen Zuhause erschwert. **ERST",
-      "ts": "2026-11-24 00:22",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-neuhof",
-      "via": "gemini",
-      "text": "**WAS:** Bei der geführten E-Bike-Abendtour „Kaliblick & Kulinarik“ erkunden Sie die sanften Ausläufer des Vogelsbergs rund um Neuhof und genießen zum Sonnenuntergang eine regionale Vulkan-Vesper mit Blick auf den imposanten Monte Kali. **für WEN:** Dieses Erlebnis ist perfekt für Naturgenießer, Paare und kleine Gruppen, die entspannte Aktivität an der frisc",
-      "ts": "2026-11-24 00:22",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-neuhof",
-      "via": "gemini",
-      "text": "**Idee: Die „Neuhöfer Feierabend-Kiste“** * **WAS:** Eine wöchentliche Kiste mit allem für eine ehrliche regionale Brotzeit: Frisches Hofbrot, Eier, Hausmacher Wurst oder Käse und knackiges Saison-Gemüse aus der Region. * **FÜR WEN:** Für Pendler, Familien und Vielbeschäftigte aus Neuhof und Umgebung, die unter der Woche keine Zeit für den Wochenmarkt haben,",
-      "ts": "2026-11-24 00:22",
-      "age_min": 1
-    }
-  ]
+  "recent": []
 }
