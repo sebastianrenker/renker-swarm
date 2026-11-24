@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-24T10:12Z",
+  "updated": "2026-11-24T20:42Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Bei der geführten Tour „Kalkgestein & Kräuterglück“ entdeckst du die geologische Besonderheit der Großenlüderer Kalksteinbrüche und genießt im Anschluss ein Picknick mit regionalen Rhön-Vogelsberg-Spezialitäten mitten im Grünen. **FÜR WEN:** Das Paket richtet sich an Genusswanderer, Paare und kleine Gruppen, die Naturwissen mit einem entspannten kul",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -26,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Der Dienst „Lüder-Begleiter“ bietet älteren Menschen aus den Außenorten eine verlässliche Fahrund Einkaufshilfe inklusive persönlicher Begleitung zu Ärzten, Apotheken und Erledigungen im Kernort Großenlüder. **WARUM HIER:** Da wichtige Infrastruktur im Kernort konzentriert ist, bewahrt dieser Service den Senioren in den weit verstreuten Ortsteilen w",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1147,9 +1155,9 @@
       "name": "Handwerk-Sichtbarkeit — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein etablierter **Heizung- und Sanitär-Betrieb (SHK)** in Hünfeld. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hünfelder online nach einer neuen Heizung oder Badsanierung suchen, landen sie akt",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "direkt-huenfeld",
@@ -1174,9 +1182,9 @@
       "name": "Senioren-Alltagsdienste — Huenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein persönlicher Begleit- und Fahrdienst, der Seniorinnen und Senioren aus den umliegenden Hünfelder Ortsteilen entspannt zu Besorgungen, Arztterminen oder Wochenmärkten im Stadtkern bringt und direkt unterstütz",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "chancen-grossenlueder",
@@ -1192,36 +1200,36 @@
       "name": "Handwerk-Sichtbarkeit — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (z. B. spezialisiert auf Badsanierung und modernste Heiztechnik/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Viele Hausbesitzer in Großenlüder suchen heute zuerst auf dem ",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "direkt-grossenlueder",
       "name": "Direktvermarktung — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Lüder-Feierabend-Kiste“ – ein wöchentliches Abokistchen mit frischem Saison-Gemüse, Hausmacher Wurst, Eiern und Holzofenbrot von Höfen direkt aus dem Lüdergrund. **für WEN:** Für berufstätige Familien und P",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-grossenlueder",
       "name": "Vulkanregion-Tourismus — Grossenlueder",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Bei der geführten Tour „Kalkgestein & Kräuterglück“ entdeckst du die geologische Besonderheit der Großenlüderer Kalksteinbrüche und genießt im Anschluss ein Picknick mit regionalen Rhön-Vogelsberg-Spezialitäten ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-grossenlueder",
       "name": "Senioren-Alltagsdienste — Grossenlueder",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der Dienst „Lüder-Begleiter“ bietet älteren Menschen aus den Außenorten eine verlässliche Fahrund Einkaufshilfe inklusive persönlicher Begleitung zu Ärzten, Apotheken und Erledigungen im Kernort Großenlüder. **W",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-eichenzell",
@@ -1495,8 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 5,
+    "used": 11,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Kunden",
+      "agent": "senioren-grossenlueder",
+      "via": "gemini",
+      "text": "**WAS:** Der Dienst „Lüder-Begleiter“ bietet älteren Menschen aus den Außenorten eine verlässliche Fahrund Einkaufshilfe inklusive persönlicher Begleitung zu Ärzten, Apotheken und Erledigungen im Kernort Großenlüder. **WARUM HIER:** Da wichtige Infrastruktur im Kernort konzentriert ist, bewahrt dieser Service den Senioren in den weit verstreuten Ortsteilen w",
+      "ts": "2026-11-24 20:42",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-grossenlueder",
+      "via": "gemini",
+      "text": "**WAS:** Bei der geführten Tour „Kalkgestein & Kräuterglück“ entdeckst du die geologische Besonderheit der Großenlüderer Kalksteinbrüche und genießt im Anschluss ein Picknick mit regionalen Rhön-Vogelsberg-Spezialitäten mitten im Grünen. **FÜR WEN:** Das Paket richtet sich an Genusswanderer, Paare und kleine Gruppen, die Naturwissen mit einem entspannten kul",
+      "ts": "2026-11-24 20:41",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-grossenlueder",
+      "via": "gemini",
+      "text": "**WAS:** Die „Lüder-Feierabend-Kiste“ – ein wöchentliches Abokistchen mit frischem Saison-Gemüse, Hausmacher Wurst, Eiern und Holzofenbrot von Höfen direkt aus dem Lüdergrund. **für WEN:** Für berufstätige Familien und Pendler aus Großenlüder und den Ortsteilen, die nach der Arbeit ohne Supermarkt-Stress ehrlich und regional kochen wollen. **ERSTER SCHRITT:*",
+      "ts": "2026-11-24 20:41",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-grossenlueder",
+      "via": "gemini",
+      "text": "**Betriebstyp:** **Sanitär- und Heizungsbetrieb** (z. B. spezialisiert auf Badsanierung und modernste Heiztechnik/Wärmepumpen). **Ansprache-Idee (1 Satz):** „Viele Hausbesitzer in Großenlüder suchen heute zuerst auf dem Smartphone nach Experten für Wärmepumpen oder Badumbauten – sorgen wir dafür, dass diese lukrativen Aufträge direkt bei Ihnen landen und nic",
+      "ts": "2026-11-24 20:41",
+      "age_min": 1
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-huenfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein persönlicher Begleit- und Fahrdienst, der Seniorinnen und Senioren aus den umliegenden Hünfelder Ortsteilen entspannt zu Besorgungen, Arztterminen oder Wochenmärkten im Stadtkern bringt und direkt unterstützt. **WARUM HIER:** Da in den verstreuten Dörfern rund um Hünfeld oft Bäcker oder Hausärzte fehlen, bewahrt dieser Service die Eigenständigke",
+      "ts": "2026-11-24 20:40",
+      "age_min": 1
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-huenfeld",
+      "via": "gemini",
+      "text": "**Betriebstyp:** Ein etablierter **Heizung- und Sanitär-Betrieb (SHK)** in Hünfeld. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Hünfelder online nach einer neuen Heizung oder Badsanierung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – lassen Sie uns dafür sorgen, dass diese lukrativen Aufträge wieder direkt bei Ihnen im Ort bleiben",
+      "ts": "2026-11-24 20:40",
+      "age_min": 1
+    }
+  ]
 }
