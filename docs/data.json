@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T03:45Z",
+  "updated": "2026-11-25T13:34Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** „Picknick & Barockzauber“ ist ein exklusives Tagespaket mit einem reich gefüllten Rhöner Gourmet-Picknickkorb und einer audiogeführten Entdeckertour durch den historischen Schlosspark von Schloss Fasanerie in Eichenzell. **fuer WEN:** Das Erlebnis richtet sich an Paare und Kulturgenießer, die Natur, Geschichte und regionale Feinkost bei einer stilvo",
+        "text": "**WAS:** „Die Hosenfelder Dorfkiste“ – ein ehrliches Wochen-Abo mit Grundnahrungsmitteln von 4–5 Höfen aus Hosenfeld und den Nachbardörfern (Brot, Eier, Käse, Wurst und Saison-Gemüse), direkt abzuholen an einer zentralen Abholstation im Ort. **fuer WEN:** Für beschäftigte Familien und Pendler aus Hosenfeld und den Ortsteilen, die frisch und regional essen wo",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der Seniorinnen und Senioren auf Augenhöhe direkt zu Hause abholt und sie sicher bei Wegen zum Arzt, zur Apotheke oder beim Einkauf unterstützt. **WARUM HIER:** In den acht weit auseinanderliegenden Ortsteilen von Hosenfeld fehlen zunehmend fußläufige Versorgungsangebote, wodurch ältere Menschen ohne eigenes Auto ihre",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1142,9 +1146,9 @@
       "name": "Chancen-Scout — Huenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobiler Reinigungs- und Ertrags-Check-Service für Photovoltaik-Anlagen auf landwirtschaftlichen Scheunen und Gewerbedächern im Hünfelder Umland. **WARUM HIER:** Das Hünfelder Land hat durch seine starke Agrar- u",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-huenfeld",
@@ -1187,9 +1191,9 @@
       "name": "Chancen-Scout — Grossenlueder",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Hol-, Bring- und Basis-Wartungsservice für E-Bikes und Gartengeräte direkt an der Haustür der Kunden in Großenlüder und seinen Ortsteilen. **WARUM HIER:** Durch die hohe Dichte an Eigenheimen und vie",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-grossenlueder",
@@ -1232,90 +1236,90 @@
       "name": "Chancen-Scout — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Drohnen-Inspektionsdienst für Photovoltaik- und Dachflächen auf den lokalen Logistik- und Gewerbehallen. **WARUM HIER:** Der Industriepark Rhön in Eichenzell bietet eine extrem hohe Dichte an Riesend",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-eichenzell",
       "name": "Handwerk-Sichtbarkeit — Eichenzell",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) mit Fokus auf Wärmepumpen und Badsanierung. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer hier in Eichenzell online nach einer neuen Heizung suchen",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-eichenzell",
       "name": "Direktvermarktung — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Eichenzeller Rhön-Vesperkiste“ ist ein wöchentliches Regio-Abo mit frischem Bauernbrot, Rhöner Käse, Wurst und Saison-Gemüse, das freitags flexibel und kontaktlos an einer zentralen Station im Ort abgeholt ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-eichenzell",
       "name": "Vulkanregion-Tourismus — Eichenzell",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** „Picknick & Barockzauber“ ist ein exklusives Tagespaket mit einem reich gefüllten Rhöner Gourmet-Picknickkorb und einer audiogeführten Entdeckertour durch den historischen Schlosspark von Schloss Fasanerie in Ei",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-eichenzell",
       "name": "Senioren-Alltagsdienste — Eichenzell",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der Seniorinnen und Senioren auf Augenhöhe aus den einzelnen Ortsteilen zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen fährt und sie vor Ort geduldi",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-hosenfeld",
       "name": "Chancen-Scout — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Dorf-Hausmeister- und Gartenservice, der Rasenpflege, Heckenschnitt und kleine Instandhaltungen auf Stunden- oder Paketbasis anbietet. **WARUM HIER:** Hosenfeld hat acht weitläufige Ortsteile mit vie",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-hosenfeld",
       "name": "Handwerk-Sichtbarkeit — Hosenfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Heizung- und Sanitärbetrieb (Installateur für Heizung & Bad) **Ansprache-Idee:** „Viele Hausbesitzer in Hosenfeld und Umgebung suchen gerade online nach Wärmepumpen oder Badsanierungen – sorgen wir dafür",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-hosenfeld",
       "name": "Direktvermarktung — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** „Die Hosenfelder Dorfkiste“ – ein ehrliches Wochen-Abo mit Grundnahrungsmitteln von 4–5 Höfen aus Hosenfeld und den Nachbardörfern (Brot, Eier, Käse, Wurst und Saison-Gemüse), direkt abzuholen an einer zentralen",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-hosenfeld",
       "name": "Vulkanregion-Tourismus — Hosenfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe eine geführte, 3-stündige Natur-Auszeit durch die Hosenfelder Wälder inklusive Wildkräutersammeln und anschließendem Picknick mit regionalen Vulkan-Spezialitäten. **für WEN:** Dieses Angebot richtet sich ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-hosenfeld",
       "name": "Senioren-Alltagsdienste — Hosenfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Dorf-Begleitdienst, der Seniorinnen und Senioren auf Augenhöhe direkt zu Hause abholt und sie sicher bei Wegen zum Arzt, zur Apotheke oder beim Einkauf unterstützt. **WARUM HIER:** In den acht weit a",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-flieden",
@@ -1499,56 +1503,56 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 12,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-eichenzell",
+      "dept": "Kunden",
+      "agent": "senioren-hosenfeld",
       "via": "gemini",
-      "text": "**WAS:** „Picknick & Barockzauber“ ist ein exklusives Tagespaket mit einem reich gefüllten Rhöner Gourmet-Picknickkorb und einer audiogeführten Entdeckertour durch den historischen Schlosspark von Schloss Fasanerie in Eichenzell. **fuer WEN:** Das Erlebnis richtet sich an Paare und Kulturgenießer, die Natur, Geschichte und regionale Feinkost bei einer stilvo",
-      "ts": "2026-11-25 03:45",
+      "text": "**WAS:** Ein mobiler Dorf-Begleitdienst, der Seniorinnen und Senioren auf Augenhöhe direkt zu Hause abholt und sie sicher bei Wegen zum Arzt, zur Apotheke oder beim Einkauf unterstützt. **WARUM HIER:** In den acht weit auseinanderliegenden Ortsteilen von Hosenfeld fehlen zunehmend fußläufige Versorgungsangebote, wodurch ältere Menschen ohne eigenes Auto ihre",
+      "ts": "2026-11-25 13:34",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-eichenzell",
+      "agent": "direkt-hosenfeld",
       "via": "gemini",
-      "text": "**WAS:** Die „Eichenzeller Rhön-Vesperkiste“ ist ein wöchentliches Regio-Abo mit frischem Bauernbrot, Rhöner Käse, Wurst und Saison-Gemüse, das freitags flexibel und kontaktlos an einer zentralen Station im Ort abgeholt werden kann. **FÜR WEN:** Für berufstätige Pendler und Familien aus Eichenzell und den Ortsteilen, die unter der Woche keine Zeit für Hoflad",
-      "ts": "2026-11-25 03:45",
+      "text": "**WAS:** „Die Hosenfelder Dorfkiste“ – ein ehrliches Wochen-Abo mit Grundnahrungsmitteln von 4–5 Höfen aus Hosenfeld und den Nachbardörfern (Brot, Eier, Käse, Wurst und Saison-Gemüse), direkt abzuholen an einer zentralen Abholstation im Ort. **fuer WEN:** Für beschäftigte Familien und Pendler aus Hosenfeld und den Ortsteilen, die frisch und regional essen wo",
+      "ts": "2026-11-25 13:34",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-eichenzell",
+      "agent": "handwerk-hosenfeld",
       "via": "gemini",
-      "text": "**Betriebstyp:** Sanitär- und Heizungsbetrieb (SHK) mit Fokus auf Wärmepumpen und Badsanierung. **Ansprache-Idee (1 Satz):** „Hallo [Name], wenn Eigenheimbesitzer hier in Eichenzell online nach einer neuen Heizung suchen, landen sie aktuell meist bei der Konkurrenz aus Fulda – wollen wir dafür sorgen, dass diese lukrativen Aufträge direkt bei Ihnen im Ort bl",
-      "ts": "2026-11-25 03:45",
+      "text": "**Betriebstyp:** Heizung- und Sanitärbetrieb (Installateur für Heizung & Bad) **Ansprache-Idee:** „Viele Hausbesitzer in Hosenfeld und Umgebung suchen gerade online nach Wärmepumpen oder Badsanierungen – sorgen wir dafür, dass Ihre Telefonnummer direkt auf dem Handy auftaucht, bevor die Leute einen Betrieb aus Fulda anrufen.“",
+      "ts": "2026-11-25 13:34",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-huenfeld",
+      "agent": "chancen-hosenfeld",
       "via": "gemini",
-      "text": "**WAS:** Mobiler Reinigungs- und Ertrags-Check-Service für Photovoltaik-Anlagen auf landwirtschaftlichen Scheunen und Gewerbedächern im Hünfelder Umland. **WARUM HIER:** Das Hünfelder Land hat durch seine starke Agrar- und Gewerbestruktur hunderte großflächige Solar-Dächer, die durch Staub, Pollen und Viehhaltung messbar an Leistung verlieren, aber von regio",
-      "ts": "2026-11-25 03:45",
+      "text": "**WAS:** Ein mobiler Dorf-Hausmeister- und Gartenservice, der Rasenpflege, Heckenschnitt und kleine Instandhaltungen auf Stunden- oder Paketbasis anbietet. **WARUM HIER:** Hosenfeld hat acht weitläufige Ortsteile mit vielen großen Wohngrundstücken, einer alternden Bevölkerung und zahlreichen Pendlern Richtung Fulda, denen schlichtweg die Zeit oder Kraft für ",
+      "ts": "2026-11-25 13:33",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-eichenzell",
+      "agent": "tourismus-hosenfeld",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Drohnen-Inspektionsdienst für Photovoltaik- und Dachflächen auf den lokalen Logistik- und Gewerbehallen. **WARUM HIER:** Der Industriepark Rhön in Eichenzell bietet eine extrem hohe Dichte an Riesendächern, deren Solarerträge durch Abgase und Feinstaub des direkten Autobahnkreuzes A66/A7 schleichend sinken. **ERSTER SCHRITT:** Eine Drohn",
-      "ts": "2026-11-25 03:44",
+      "text": "**WAS:** Erlebe eine geführte, 3-stündige Natur-Auszeit durch die Hosenfelder Wälder inklusive Wildkräutersammeln und anschließendem Picknick mit regionalen Vulkan-Spezialitäten. **für WEN:** Dieses Angebot richtet sich an naturliebende Paare, kleine Gruppen und Genießer, die eine entspannte Alltagsauszeit im Grünen suchen. **ERSTER SCHRITT:** Wähle deinen W",
+      "ts": "2026-11-25 13:33",
       "age_min": 0
     },
     {
-      "dept": "Chancen",
-      "agent": "chancen-grossenlueder",
+      "dept": "Kunden",
+      "agent": "senioren-eichenzell",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Hol-, Bring- und Basis-Wartungsservice für E-Bikes und Gartengeräte direkt an der Haustür der Kunden in Großenlüder und seinen Ortsteilen. **WARUM HIER:** Durch die hohe Dichte an Eigenheimen und vielen Pendlern Richtung Fulda fehlt in Großenlüder eine unkomplizierte, zeitsparende Lösung ohne Anfahrtswege zu ausgebuchten Stadt-Werkstätte",
-      "ts": "2026-11-25 03:44",
+      "text": "**WAS:** Ein mobiler Nachbarschafts- und Begleitdienst, der Seniorinnen und Senioren auf Augenhöhe aus den einzelnen Ortsteilen zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen fährt und sie vor Ort geduldig unterstützt. **WARUM HIER:** In der flächenmäßig großen Gemeinde Eichenzell mit ihren verstreuten Ortsteilen fehlen in den kleineren Dörfe",
+      "ts": "2026-11-25 13:33",
       "age_min": 0
     }
   ]
