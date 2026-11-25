@@ -1,127 +1,49 @@
 {
-  "updated": "2026-11-25 13:34 UTC",
-  "total_results": 6,
-  "total_depts": 2,
+  "updated": "2026-11-25 22:50 UTC",
+  "total_results": 2,
+  "total_depts": 1,
   "active": [
     {
-      "dept": "Kunden",
-      "agent": "senioren-hosenfeld",
-      "title": "Senioren-Alltagsdienste — Hosenfeld  ·  Kunden",
+      "dept": "Chancen",
+      "agent": "tourismus-flieden",
+      "title": "Vulkanregion-Tourismus — Flieden  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Dorf-Begleitdienst, der Seniorinnen und Senioren auf Augenhöhe direkt zu Hause abholt und sie sicher bei Wegen zum Arzt, zur Apotheke oder beim Einkauf unterstützt.\n\n**WARUM HIER:** \nIn den acht weit auseinanderliegenden Ortsteilen von Hosenfeld fehlen zunehmend fußläufige Versorgungsangebote, wodurch ältere Menschen ohne eigenes Auto ihre Selbstständigkeit im Alltag verlieren.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung und lokalen Vereinen wird ein einfaches „Dorf-Telefon“ eingerichtet, um den Bedarf abzufragen und erste Begleitfahrten unbürokratisch zu organisieren.",
-      "ts": "2026-11-25 13:34",
-      "age_min": 0
+      "text": "**WAS:** Bei der „Alpaka-Auszeit im Königreich“ wanderst du mit sanftmütigen Alpakas durch das malerische Fliedetal und genießt im Anschluss ein Picknick mit regionalen Rhön- und Vogelsberg-Spezialitäten direkt auf der Weide.\n\n**fuer WEN:** Dieses Angebot ist perfekt für Paare, Familien und Naturgenießer, die eine entspannte, entschleunigende Auszeit im Grünen suchen.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Buchungskalender aus und sichere dir dein Ticket mit nur wenigen Klicks.",
+      "ts": "2026-11-25 22:48",
+      "age_min": 2
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-hosenfeld",
-      "title": "Direktvermarktung — Hosenfeld  ·  Chancen",
+      "agent": "chancen-flieden",
+      "title": "Chancen-Scout — Flieden  ·  Chancen",
       "via": "gemini",
-      "text": "**WAS:** „Die Hosenfelder Dorfkiste“ – ein ehrliches Wochen-Abo mit Grundnahrungsmitteln von 4–5 Höfen aus Hosenfeld und den Nachbardörfern (Brot, Eier, Käse, Wurst und Saison-Gemüse), direkt abzuholen an einer zentralen Abholstation im Ort.\n\n**fuer WEN:** Für beschäftigte Familien und Pendler aus Hosenfeld und den Ortsteilen, die frisch und regional essen wollen, ohne dafür fünf verschiedene Hofläden abklappern zu müssen.\n\n**ERSTER SCHRITT:** Mit drei passenden Erzeugern aus der Umgebung kurzschließen, fünf feste Kisten-Inhalte definieren und über Aushänge im Dorf sowie Mundpropaganda 20 Test-Abonnenten für einen Probemonat suchen.",
-      "ts": "2026-11-25 13:34",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-hosenfeld",
-      "title": "Handwerk-Sichtbarkeit — Hosenfeld  ·  Chancen",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Heizung- und Sanitärbetrieb (Installateur für Heizung & Bad)\n\n**Ansprache-Idee:** \n„Viele Hausbesitzer in Hosenfeld und Umgebung suchen gerade online nach Wärmepumpen oder Badsanierungen – sorgen wir dafür, dass Ihre Telefonnummer direkt auf dem Handy auftaucht, bevor die Leute einen Betrieb aus Fulda anrufen.“",
-      "ts": "2026-11-25 13:34",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-hosenfeld",
-      "title": "Chancen-Scout — Hosenfeld  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Dorf-Hausmeister- und Gartenservice, der Rasenpflege, Heckenschnitt und kleine Instandhaltungen auf Stunden- oder Paketbasis anbietet.\n\n**WARUM HIER:** \nHosenfeld hat acht weitläufige Ortsteile mit vielen großen Wohngrundstücken, einer alternden Bevölkerung und zahlreichen Pendlern Richtung Fulda, denen schlichtweg die Zeit oder Kraft für die Grundstückspflege fehlt.\n\n**ERSTER SCHRITT:** \nErstelle einen einfachen Flyer mit drei festen Pflege-Paketen (z. B. „Feierabend-Rasen“) und stecke 500 Exemplare gezielt in Hainzell, Blankenau und Hosenfeld-Kern in die Briefkästen.",
-      "ts": "2026-11-25 13:33",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-hosenfeld",
-      "title": "Vulkanregion-Tourismus — Hosenfeld  ·  Chancen",
-      "via": "gemini",
-      "text": "**WAS:** Erlebe eine geführte, 3-stündige Natur-Auszeit durch die Hosenfelder Wälder inklusive Wildkräutersammeln und anschließendem Picknick mit regionalen Vulkan-Spezialitäten.\n\n**für WEN:** Dieses Angebot richtet sich an naturliebende Paare, kleine Gruppen und Genießer, die eine entspannte Alltagsauszeit im Grünen suchen.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Kalender aus und sichere dir deinen Platz direkt mit wenigen Klicks.",
-      "ts": "2026-11-25 13:33",
-      "age_min": 0
-    },
-    {
-      "dept": "Kunden",
-      "agent": "senioren-eichenzell",
-      "title": "Senioren-Alltagsdienste — Eichenzell  ·  Kunden",
-      "via": "gemini",
-      "text": "**WAS:** \nEin mobiler Nachbarschafts- und Begleitdienst, der Seniorinnen und Senioren auf Augenhöhe aus den einzelnen Ortsteilen zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen fährt und sie vor Ort geduldig unterstützt.\n\n**WARUM HIER:** \nIn der flächenmäßig großen Gemeinde Eichenzell mit ihren verstreuten Ortsteilen fehlen in den kleineren Dörfern oft Geschäfte und Praxen, sodass verlässliche Mobilität der Schlüssel für ein würdevolles, selbstbestimmtes Leben im gewohnten Zuhause ist.\n\n**ERSTER SCHRITT:** \nIn Kooperation mit dem Eichenzeller Seniorenbeirat und den Ortsvorstehern wird ein kurzer Bedarfs-Check durchgeführt und ein erstes Treffen für hilfsbereite Bürgerinnen und Bürger aus den Ortsteilen organisiert.",
-      "ts": "2026-11-25 13:33",
-      "age_min": 0
+      "text": "**WAS:** Ein fixer „Feierabend-Grüngut-Abholservice“ mit Anhänger, der berufstätigen Eigenheimbesitzern nach 17 Uhr den Rasen-, Garten- und Heckenschnitt direkt an der Haustür abholt und entsorgt.\n\n**WARUM HIER:** Flieden hat eine sehr hohe Eigenheim-Dichte mit großen Gärten bei gleichzeitig vielen A66-Pendlern nach Frankfurt/Fulda, die unter der Woche schlicht keine Zeit für die Öffnungszeiten der lokalen Wertstoffhöfe haben.\n\n**ERSTER SCHRITT:** Einen vorhandenen Pkw-Anhänger nutzen, 300 Flyer in den neubaugeprägten Wohngebieten Fliedens (z. B. am Landrücken) einwerfen und Termine für den nächsten Freitagabend via WhatsApp-Business anbieten.",
+      "ts": "2026-11-25 22:46",
+      "age_min": 4
     }
   ],
   "departments": [
     {
       "id": "Chancen",
-      "count": 4,
-      "items": [
-        {
-          "dept": "Chancen",
-          "agent": "direkt-hosenfeld",
-          "title": "Direktvermarktung — Hosenfeld  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** „Die Hosenfelder Dorfkiste“ – ein ehrliches Wochen-Abo mit Grundnahrungsmitteln von 4–5 Höfen aus Hosenfeld und den Nachbardörfern (Brot, Eier, Käse, Wurst und Saison-Gemüse), direkt abzuholen an einer zentralen Abholstation im Ort.\n\n**fuer WEN:** Für beschäftigte Familien und Pendler aus Hosenfeld und den Ortsteilen, die frisch und regional essen wollen, ohne dafür fünf verschiedene Hofläden abklappern zu müssen.\n\n**ERSTER SCHRITT:** Mit drei passenden Erzeugern aus der Umgebung kurzschließen, fünf feste Kisten-Inhalte definieren und über Aushänge im Dorf sowie Mundpropaganda 20 Test-Abonnenten für einen Probemonat suchen.",
-          "ts": "2026-11-25 13:34",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "handwerk-hosenfeld",
-          "title": "Handwerk-Sichtbarkeit — Hosenfeld  ·  Chancen",
-          "via": "gemini",
-          "text": "**Betriebstyp:** Heizung- und Sanitärbetrieb (Installateur für Heizung & Bad)\n\n**Ansprache-Idee:** \n„Viele Hausbesitzer in Hosenfeld und Umgebung suchen gerade online nach Wärmepumpen oder Badsanierungen – sorgen wir dafür, dass Ihre Telefonnummer direkt auf dem Handy auftaucht, bevor die Leute einen Betrieb aus Fulda anrufen.“",
-          "ts": "2026-11-25 13:34",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "chancen-hosenfeld",
-          "title": "Chancen-Scout — Hosenfeld  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Dorf-Hausmeister- und Gartenservice, der Rasenpflege, Heckenschnitt und kleine Instandhaltungen auf Stunden- oder Paketbasis anbietet.\n\n**WARUM HIER:** \nHosenfeld hat acht weitläufige Ortsteile mit vielen großen Wohngrundstücken, einer alternden Bevölkerung und zahlreichen Pendlern Richtung Fulda, denen schlichtweg die Zeit oder Kraft für die Grundstückspflege fehlt.\n\n**ERSTER SCHRITT:** \nErstelle einen einfachen Flyer mit drei festen Pflege-Paketen (z. B. „Feierabend-Rasen“) und stecke 500 Exemplare gezielt in Hainzell, Blankenau und Hosenfeld-Kern in die Briefkästen.",
-          "ts": "2026-11-25 13:33",
-          "age_min": 0
-        },
-        {
-          "dept": "Chancen",
-          "agent": "tourismus-hosenfeld",
-          "title": "Vulkanregion-Tourismus — Hosenfeld  ·  Chancen",
-          "via": "gemini",
-          "text": "**WAS:** Erlebe eine geführte, 3-stündige Natur-Auszeit durch die Hosenfelder Wälder inklusive Wildkräutersammeln und anschließendem Picknick mit regionalen Vulkan-Spezialitäten.\n\n**für WEN:** Dieses Angebot richtet sich an naturliebende Paare, kleine Gruppen und Genießer, die eine entspannte Alltagsauszeit im Grünen suchen.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Kalender aus und sichere dir deinen Platz direkt mit wenigen Klicks.",
-          "ts": "2026-11-25 13:33",
-          "age_min": 0
-        }
-      ]
-    },
-    {
-      "id": "Kunden",
       "count": 2,
       "items": [
         {
-          "dept": "Kunden",
-          "agent": "senioren-hosenfeld",
-          "title": "Senioren-Alltagsdienste — Hosenfeld  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "tourismus-flieden",
+          "title": "Vulkanregion-Tourismus — Flieden  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Dorf-Begleitdienst, der Seniorinnen und Senioren auf Augenhöhe direkt zu Hause abholt und sie sicher bei Wegen zum Arzt, zur Apotheke oder beim Einkauf unterstützt.\n\n**WARUM HIER:** \nIn den acht weit auseinanderliegenden Ortsteilen von Hosenfeld fehlen zunehmend fußläufige Versorgungsangebote, wodurch ältere Menschen ohne eigenes Auto ihre Selbstständigkeit im Alltag verlieren.\n\n**ERSTER SCHRITT:** \nGemeinsam mit der Gemeindeverwaltung und lokalen Vereinen wird ein einfaches „Dorf-Telefon“ eingerichtet, um den Bedarf abzufragen und erste Begleitfahrten unbürokratisch zu organisieren.",
-          "ts": "2026-11-25 13:34",
-          "age_min": 0
+          "text": "**WAS:** Bei der „Alpaka-Auszeit im Königreich“ wanderst du mit sanftmütigen Alpakas durch das malerische Fliedetal und genießt im Anschluss ein Picknick mit regionalen Rhön- und Vogelsberg-Spezialitäten direkt auf der Weide.\n\n**fuer WEN:** Dieses Angebot ist perfekt für Paare, Familien und Naturgenießer, die eine entspannte, entschleunigende Auszeit im Grünen suchen.\n\n**ERSTER SCHRITT:** Wähle deinen Wunschtermin im Online-Buchungskalender aus und sichere dir dein Ticket mit nur wenigen Klicks.",
+          "ts": "2026-11-25 22:48",
+          "age_min": 2
         },
         {
-          "dept": "Kunden",
-          "agent": "senioren-eichenzell",
-          "title": "Senioren-Alltagsdienste — Eichenzell  ·  Kunden",
+          "dept": "Chancen",
+          "agent": "chancen-flieden",
+          "title": "Chancen-Scout — Flieden  ·  Chancen",
           "via": "gemini",
-          "text": "**WAS:** \nEin mobiler Nachbarschafts- und Begleitdienst, der Seniorinnen und Senioren auf Augenhöhe aus den einzelnen Ortsteilen zu Arztterminen, Besorgungen oder Gemeinschaftsveranstaltungen fährt und sie vor Ort geduldig unterstützt.\n\n**WARUM HIER:** \nIn der flächenmäßig großen Gemeinde Eichenzell mit ihren verstreuten Ortsteilen fehlen in den kleineren Dörfern oft Geschäfte und Praxen, sodass verlässliche Mobilität der Schlüssel für ein würdevolles, selbstbestimmtes Leben im gewohnten Zuhause ist.\n\n**ERSTER SCHRITT:** \nIn Kooperation mit dem Eichenzeller Seniorenbeirat und den Ortsvorstehern wird ein kurzer Bedarfs-Check durchgeführt und ein erstes Treffen für hilfsbereite Bürgerinnen und Bürger aus den Ortsteilen organisiert.",
-          "ts": "2026-11-25 13:33",
-          "age_min": 0
+          "text": "**WAS:** Ein fixer „Feierabend-Grüngut-Abholservice“ mit Anhänger, der berufstätigen Eigenheimbesitzern nach 17 Uhr den Rasen-, Garten- und Heckenschnitt direkt an der Haustür abholt und entsorgt.\n\n**WARUM HIER:** Flieden hat eine sehr hohe Eigenheim-Dichte mit großen Gärten bei gleichzeitig vielen A66-Pendlern nach Frankfurt/Fulda, die unter der Woche schlicht keine Zeit für die Öffnungszeiten der lokalen Wertstoffhöfe haben.\n\n**ERSTER SCHRITT:** Einen vorhandenen Pkw-Anhänger nutzen, 300 Flyer in den neubaugeprägten Wohngebieten Fliedens (z. B. am Landrücken) einwerfen und Termine für den nächsten Freitagabend via WhatsApp-Business anbieten.",
+          "ts": "2026-11-25 22:46",
+          "age_min": 4
         }
       ]
     }
