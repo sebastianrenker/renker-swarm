@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-26 14:28 UTC",
-  "total_results": 0,
-  "total_depts": 0,
-  "active": [],
-  "departments": []
+  "updated": "2026-11-26 23:13 UTC",
+  "total_results": 1,
+  "total_depts": 1,
+  "active": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-flieden",
+      "title": "Direktvermarktung — Flieden  ·  Chancen",
+      "via": "gemini",
+      "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ – eine flexible Abo-Box mit frischen Hofprodukten (z. B. Brot, Eier, Hausmacher Wurst und Saison-Gemüse) von Erzeugern aus dem Landrücken, die in gekühlten Schließfächern direkt am Bahnhof Flieden zur Abholung bereitsteht.\n\n**für WEN:** Für Pendler Richtung Frankfurt oder Fulda sowie beschäftigte Familien aus der Region, die nach Feierabend ohne Umwege und Supermarkt-Stress ehrliche, heimische Lebensmittel mitnehmen wollen.\n\n**ERSTER SCHRITT:** Zwei bis drei passende Höfe aus der direkten Umgebung an einen Tisch holen, um ein einfaches Start-Sortiment abzusprechen und das Interesse mit Flyern am Bahnhof abzutasten.",
+      "ts": "2026-11-26 23:13",
+      "age_min": 0
+    }
+  ],
+  "departments": [
+    {
+      "id": "Chancen",
+      "count": 1,
+      "items": [
+        {
+          "dept": "Chancen",
+          "agent": "direkt-flieden",
+          "title": "Direktvermarktung — Flieden  ·  Chancen",
+          "via": "gemini",
+          "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ – eine flexible Abo-Box mit frischen Hofprodukten (z. B. Brot, Eier, Hausmacher Wurst und Saison-Gemüse) von Erzeugern aus dem Landrücken, die in gekühlten Schließfächern direkt am Bahnhof Flieden zur Abholung bereitsteht.\n\n**für WEN:** Für Pendler Richtung Frankfurt oder Fulda sowie beschäftigte Familien aus der Region, die nach Feierabend ohne Umwege und Supermarkt-Stress ehrliche, heimische Lebensmittel mitnehmen wollen.\n\n**ERSTER SCHRITT:** Zwei bis drei passende Höfe aus der direkten Umgebung an einen Tisch holen, um ein einfaches Start-Sortiment abzusprechen und das Interesse mit Flyern am Bahnhof abzutasten.",
+          "ts": "2026-11-26 23:13",
+          "age_min": 0
+        }
+      ]
+    }
+  ]
 }

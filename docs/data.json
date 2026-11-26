@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-26T14:28Z",
+  "updated": "2026-11-26T23:13Z",
   "agents_total": 162,
-  "worked": 0,
+  "worked": 1,
   "departments": [
     {
       "id": "Kommando",
@@ -11,7 +11,11 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ – eine flexible Abo-Box mit frischen Hofprodukten (z. B. Brot, Eier, Hausmacher Wurst und Saison-Gemüse) von Erzeugern aus dem Landrücken, die in gekühlten Schließfächern direkt am Bahnhof Flieden zur Abholung bereitsteht. **für WEN:** Für Pendler Richtung Frankfurt oder Fulda sowie beschäftigte Familien aus der Regi",
+        "age_min": 0
+      }
     },
     {
       "id": "Recherche",
@@ -1336,9 +1340,9 @@
       "name": "Direktvermarktung — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Fliedener Feierabend-Kiste“ – eine flexible Abo-Box mit frischen Hofprodukten (z. B. Brot, Eier, Hausmacher Wurst und Saison-Gemüse) von Erzeugern aus dem Landrücken, die in gekühlten Schließfächern direkt ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-flieden",
@@ -1495,8 +1499,17 @@
     }
   ],
   "budget": {
-    "used": 4,
+    "used": 5,
     "cap": 600
   },
-  "recent": []
+  "recent": [
+    {
+      "dept": "Chancen",
+      "agent": "direkt-flieden",
+      "via": "gemini",
+      "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ – eine flexible Abo-Box mit frischen Hofprodukten (z. B. Brot, Eier, Hausmacher Wurst und Saison-Gemüse) von Erzeugern aus dem Landrücken, die in gekühlten Schließfächern direkt am Bahnhof Flieden zur Abholung bereitsteht. **für WEN:** Für Pendler Richtung Frankfurt oder Fulda sowie beschäftigte Familien aus der Regi",
+      "ts": "2026-11-26 23:13",
+      "age_min": 0
+    }
+  ]
 }
