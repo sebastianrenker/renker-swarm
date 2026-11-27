@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-26T23:13Z",
+  "updated": "2026-11-27T05:04Z",
   "agents_total": 162,
-  "worked": 1,
+  "worked": 6,
   "departments": [
     {
       "id": "Kommando",
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ – eine flexible Abo-Box mit frischen Hofprodukten (z. B. Brot, Eier, Hausmacher Wurst und Saison-Gemüse) von Erzeugern aus dem Landrücken, die in gekühlten Schließfächern direkt am Bahnhof Flieden zur Abholung bereitsteht. **für WEN:** Für Pendler Richtung Frankfurt oder Fulda sowie beschäftigte Familien aus der Regi",
+        "text": "**Idee:** „Rhöner Vesper-Box“ (Abokiste & Abhol-Jause) **WAS:** Die „Rhöner Vesper-Box“ ist eine saisonale Abokiste zum Mitnehmen oder Geliefertbekommen, vollgepackt mit ehrlicher Hausmacher Wurst, Rhönschaf-Käse, Bauernbrot und Streuobst-Apfelsaft direkt von Höfen rund um Gersfeld. **fuer WEN:** Für einheimische Haushalte, die ohne Aufwand regional schmause",
         "age_min": 0
       }
     },
@@ -30,7 +30,11 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein verlässlicher, persönlicher Fahr- und Begleitservice, der Senioren aus den umliegenden Ortsteilen für Einkäufe, Arztbesuche oder ein Kaffeetrinken sicher ins Städtchen Tann und wieder nach Hause bringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Tann ist der öffentliche Nahverkehr spärlich, sodass dies",
+        "age_min": 0
+      }
     },
     {
       "id": "Finanzen",
@@ -1340,9 +1344,9 @@
       "name": "Direktvermarktung — Flieden",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Fliedener Feierabend-Kiste“ – eine flexible Abo-Box mit frischen Hofprodukten (z. B. Brot, Eier, Hausmacher Wurst und Saison-Gemüse) von Erzeugern aus dem Landrücken, die in gekühlten Schließfächern direkt ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-flieden",
@@ -1385,54 +1389,54 @@
       "name": "Direktvermarktung — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Tanner Rhön-Feierabendkiste“ ist ein regionales Wochen-Abo voller bodenständiger Spezialitäten wie frischem Bauernbrot, Hausmacher Wurst, Rhönkäse und saisonalem Feldgemüse direkt von Erzeugern aus Tann und",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "tourismus-tann",
       "name": "Vulkanregion-Tourismus — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Genieße eine geführte Dämmerungswanderung durch die Tanner Rhön-Landschaft mit anschließender Sterngucker-Rast und heißem, regionalem Apfelwein am Lagerfeuer. **fuer WEN:** Dieses Angebot richtet sich an Paare, ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-tann",
       "name": "Senioren-Alltagsdienste — Tann",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein verlässlicher, persönlicher Fahr- und Begleitservice, der Senioren aus den umliegenden Ortsteilen für Einkäufe, Arztbesuche oder ein Kaffeetrinken sicher ins Städtchen Tann und",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-gersfeld",
       "name": "Chancen-Scout — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Gepäcktransport- und Etappen-Shuttleservice für Fernwanderer des „Hochrhöner“ sowie E-Bike-Touristen rund um die Wasserkuppe. **WARUM HIER:** Gersfeld ist das Herzstück des Rhön-Tourismus, doch die Ö",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-gersfeld",
       "name": "Handwerk-Sichtbarkeit — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** **Sanitär- und Heizungsbau-Betrieb (SHK)** – mit Fokus auf moderne Heizsysteme (z. B. Wärmepumpen) und Notdienst für Eigenheime sowie Ferienhausbesitzer in der Rhön. **Ansprache-Idee (1 Satz):** „Hallo H",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-gersfeld",
       "name": "Direktvermarktung — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Idee:** „Rhöner Vesper-Box“ (Abokiste & Abhol-Jause) **WAS:** Die „Rhöner Vesper-Box“ ist eine saisonale Abokiste zum Mitnehmen oder Geliefertbekommen, vollgepackt mit ehrlicher Hausmacher Wurst, Rhönschaf-Käse, Bauern",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-gersfeld",
@@ -1499,17 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 5,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "direkt-flieden",
+      "agent": "direkt-gersfeld",
       "via": "gemini",
-      "text": "**WAS:** Die „Fliedener Feierabend-Kiste“ – eine flexible Abo-Box mit frischen Hofprodukten (z. B. Brot, Eier, Hausmacher Wurst und Saison-Gemüse) von Erzeugern aus dem Landrücken, die in gekühlten Schließfächern direkt am Bahnhof Flieden zur Abholung bereitsteht. **für WEN:** Für Pendler Richtung Frankfurt oder Fulda sowie beschäftigte Familien aus der Regi",
-      "ts": "2026-11-26 23:13",
+      "text": "**Idee:** „Rhöner Vesper-Box“ (Abokiste & Abhol-Jause) **WAS:** Die „Rhöner Vesper-Box“ ist eine saisonale Abokiste zum Mitnehmen oder Geliefertbekommen, vollgepackt mit ehrlicher Hausmacher Wurst, Rhönschaf-Käse, Bauernbrot und Streuobst-Apfelsaft direkt von Höfen rund um Gersfeld. **fuer WEN:** Für einheimische Haushalte, die ohne Aufwand regional schmause",
+      "ts": "2026-11-27 05:04",
       "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "handwerk-gersfeld",
+      "via": "gemini",
+      "text": "**Betriebstyp:** **Sanitär- und Heizungsbau-Betrieb (SHK)** – mit Fokus auf moderne Heizsysteme (z. B. Wärmepumpen) und Notdienst für Eigenheime sowie Ferienhausbesitzer in der Rhön. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Immobilieneigentümer in Gersfeld nach neuen Heizungen oder Badsanierungen googeln, landen sie aktuell meist bei Betrieben a",
+      "ts": "2026-11-27 05:04",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-gersfeld",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Gepäcktransport- und Etappen-Shuttleservice für Fernwanderer des „Hochrhöner“ sowie E-Bike-Touristen rund um die Wasserkuppe. **WARUM HIER:** Gersfeld ist das Herzstück des Rhön-Tourismus, doch die ÖPNV-Verbindungen zwischen den Wanderetappen sind dünn und die überlasteten lokalen Pensionen suchen händeringend nach einem verlässlichen Br",
+      "ts": "2026-11-27 05:04",
+      "age_min": 0
+    },
+    {
+      "dept": "Kunden",
+      "agent": "senioren-tann",
+      "via": "gemini",
+      "text": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein verlässlicher, persönlicher Fahr- und Begleitservice, der Senioren aus den umliegenden Ortsteilen für Einkäufe, Arztbesuche oder ein Kaffeetrinken sicher ins Städtchen Tann und wieder nach Hause bringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Tann ist der öffentliche Nahverkehr spärlich, sodass dies",
+      "ts": "2026-11-27 05:04",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "tourismus-tann",
+      "via": "gemini",
+      "text": "**WAS:** Genieße eine geführte Dämmerungswanderung durch die Tanner Rhön-Landschaft mit anschließender Sterngucker-Rast und heißem, regionalem Apfelwein am Lagerfeuer. **fuer WEN:** Dieses Angebot richtet sich an Paare, Naturbegeisterte und Romantiker, die den einzigartigen Sternenpark Rhön auf entschleunigte Art erleben möchten. **ERSTER SCHRITT:** Klicke a",
+      "ts": "2026-11-27 05:03",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "direkt-tann",
+      "via": "gemini",
+      "text": "**WAS:** Die „Tanner Rhön-Feierabendkiste“ ist ein regionales Wochen-Abo voller bodenständiger Spezialitäten wie frischem Bauernbrot, Hausmacher Wurst, Rhönkäse und saisonalem Feldgemüse direkt von Erzeugern aus Tann und den umliegenden Dörfern. **FÜR WEN:** Für berufstätige Familien und Pendler aus der Region Tann, die Wert auf ehrliche, heimische Lebensmit",
+      "ts": "2026-11-27 05:03",
+      "age_min": 1
     }
   ]
 }
