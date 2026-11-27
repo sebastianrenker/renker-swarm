@@ -1,39 +1,51 @@
 {
-  "updated": "2026-11-27T15:02Z",
+  "updated": "2026-11-27T23:29Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Tages-Fokus für den Commander: 1. **Offerta:** Die 3 überfälligen A-Angebote persönlich nachfassen und Abschlüsse für diese Woche sichern. 2. **Handwerk-Sichtbar:** Kampagnen-Setups für die zwei Neukunden prüfen und bis 14:00 Uhr die Freigabe erteilen. 3. **Vogelsberg-Chancen:** Das Pitch-Deck für die nächsten 5 regionalen Partner-Unternehmen final abnehmen.",
+        "age_min": 1
+      }
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Erlebe das „Rhöner Sternen-Picknick“: Eine abendliche Wanderung auf den Buchschirmberg bei Hilders mit einem vollgepackten Picknickkorb voller regionaler Bio-Spezialitäten und einer Sternenkarte zur Erkundung des UNESCO-Sternenparks Rhön. **für WEN:** Das Paket eignet sich perfekt für Paare, Naturgenießer und kleine Familien, die eine romantische un",
+        "text": "**WAS:** Ein mobiler, vorbestellbarer B2B-Mittagstisch („Rhön-Lunch-Box“), der gesunde, regionale Mahlzeiten direkt an Firmen und Logistikstandorte ohne eigene Kantine liefert. **WARUM HIER:** Das Fuldaer Umland (z. B. Industriepark West, Eichenzell) hat tausende Beschäftigte in Logistik und Mittelstand ohne Gastronomie-Anbindung, trifft auf den Ernährungs-S",
         "age_min": 0
       }
     },
     {
       "id": "Recherche",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist eine strukturierte Preistypologie für ein Digital-Sichtbarkeits-Paket für Handwerksbetriebe im DACH-Raum. Die Preise beziehen sich auf die einmaligen Einrichtungskosten (Setup); laufende Betreuungskosten sind separat zu betrachten. --- ### Paket 1: „Basis-Sichtbarkeit“ (Entry Level) * **Preisspanne:** 1.200 € – 1.900 € (einmalig) * **Begründung:** D",
+        "age_min": 0
+      }
     },
     {
       "id": "Bau",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Hier ist dein frischer Hero-Text für **Handwerk-Sichtbar**: *** # Endlich online sichtbar: Mehr Wunschkunden für Ihr Handwerk im Vogelsberg. Wir machen Ihren Meisterbetrieb in der Region digital unübersehbar. So gewinnen Sie ohne eigenen Zeitaufwand die besten Kunden und Mitarbeiter direkt aus der Heimat. **[ Jetzt Sichtbarkeit kostenlos prüfen ]** *** * **W",
+        "age_min": 0
+      }
     },
     {
       "id": "Kunden",
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein würdevoller Begleit- und Fahrdienst („Gersfelder Dorf-Mobil“), der ältere Menschen aus den verstreuten Ortsteilen für Besorgungen, Arztbesuche und soziale Kontakte sicher in den Kernort und wieder nach Hause bringt. **WARUM HIER:** In den hügeligen Rhön-Dörfern rund um Gersfeld erschweren steile Wege, strenge Winter und ein ausgedünnter Nahverke",
-        "age_min": 0
+        "text": "**WAS:** Ein verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den entfernten Ortsteilen von Hilders auf Augenhöhe zum Einkauf, zu Ärztinnen oder ins Dorfcafé bringt und vor Ort persönlich unterstützt. **WARUM HIER:** In den weit verstreuten Ortsteilen der Rhöngemeinde Hilders fehlen nahe Einkaufsmöglichkeiten, während die hügelige Topografie un",
+        "age_min": 2
       }
     },
     {
@@ -48,45 +60,45 @@
       "name": "Chief of Staff — Tages-Digest",
       "dept": "Kommando",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Tages-Fokus für den Commander: 1. **Offerta:** Die 3 überfälligen A-Angebote persönlich nachfassen und Abschlüsse für diese Woche sichern. 2. **Handwerk-Sichtbar:** Kampagnen-Setups für die zwei Neukunden prüfen und bis ",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "chancen-vogelsberg",
       "name": "Opportunity Finder — Vogelsberg",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Feierabend-Büroservice, der Solo-Handwerkern und Kleinbetrieben im Vogelsberg die Rechnungsstellung, Fotodokumentation und digitale Kundenkommunikation direkt abnimmt. **WARUM HIER:** Durch den extre",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "chancen-fulda",
       "name": "Opportunity Finder — Fulda",
       "dept": "Chancen",
       "iv": 360,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler, vorbestellbarer B2B-Mittagstisch („Rhön-Lunch-Box“), der gesunde, regionale Mahlzeiten direkt an Firmen und Logistikstandorte ohne eigene Kantine liefert. **WARUM HIER:** Das Fuldaer Umland (z. B. I",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "recherche-wettbewerb",
       "name": "Researcher — Wettbewerb & Preise",
       "dept": "Recherche",
       "iv": 480,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist eine strukturierte Preistypologie für ein Digital-Sichtbarkeits-Paket für Handwerksbetriebe im DACH-Raum. Die Preise beziehen sich auf die einmaligen Einrichtungskosten (Setup); laufende Betreuungskosten sind se",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "bau-landing-copy",
       "name": "Web Designer — Landing-Texte",
       "dept": "Bau",
       "iv": 600,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier ist dein frischer Hero-Text für **Handwerk-Sichtbar**: *** # Endlich online sichtbar: Mehr Wunschkunden für Ihr Handwerk im Vogelsberg. Wir machen Ihren Meisterbetrieb in der Region digital unübersehbar. So gewinnen",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "kunden-faq",
@@ -1443,117 +1455,117 @@
       "name": "Vulkanregion-Tourismus — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Ein halbtägiges Naturerlebnis bestehend aus einer geführten Wanderung mit sanftmütigen Rhönschafen durch das UNESCO-Biosphärenreservat bei Gersfeld, abgerundet durch ein regionales Picknick mit Rhöner Spezialitä",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-gersfeld",
       "name": "Senioren-Alltagsdienste — Gersfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein würdevoller Begleit- und Fahrdienst („Gersfelder Dorf-Mobil“), der ältere Menschen aus den verstreuten Ortsteilen für Besorgungen, Arztbesuche und soziale Kontakte sicher in den Kernort und wieder nach Hause",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-hilders",
       "name": "Chancen-Scout — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Gepäcktransport- und Shuttle-Service speziell für Wanderer auf dem Premiumwanderweg „Der Hochrhöner“ und dem Ulstertal-Radweg. **WARUM HIER:** Hilders ist ein zentraler Knotenpunkt für Etappenwandere",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-hilders",
       "name": "Handwerk-Sichtbarkeit — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein traditioneller **Zimmerei- und Dachdeckerbetrieb** in Hilders. *(Gründe: In der Rhön suchen immer mehr Bauherren und Sanierer online nach regionalen Fachbetrieben für Dachsanierung oder Holzbau, land",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-hilders",
       "name": "Direktvermarktung — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Rhön-Brotzeit-Box“ ist ein saisonales Verpflegungspaket mit frischem Hilderser Bauernbrot, regionaler Hausmacher-Wurst, Rhön-Käse und Streuobst-Direktsaft in einer wiederverwendbaren Holzbox. **FÜR WEN:** D",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-hilders",
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Erlebe das „Rhöner Sternen-Picknick“: Eine abendliche Wanderung auf den Buchschirmberg bei Hilders mit einem vollgepackten Picknickkorb voller regionaler Bio-Spezialitäten und einer Sternenkarte zur Erkundung de",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-hilders",
       "name": "Senioren-Alltagsdienste — Hilders",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den entfernten Ortsteilen von Hilders auf Augenhöhe zum Einkauf, zu Ärztinnen oder ins Dorfcafé bringt und vor Ort persönlich unterstützt. **WAR",
+      "via": "gemini",
+      "age_min": 2
     }
   ],
   "budget": {
-    "used": 12,
+    "used": 18,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Chancen",
-      "agent": "tourismus-hilders",
+      "dept": "Bau",
+      "agent": "bau-landing-copy",
       "via": "gemini",
-      "text": "**WAS:** Erlebe das „Rhöner Sternen-Picknick“: Eine abendliche Wanderung auf den Buchschirmberg bei Hilders mit einem vollgepackten Picknickkorb voller regionaler Bio-Spezialitäten und einer Sternenkarte zur Erkundung des UNESCO-Sternenparks Rhön. **für WEN:** Das Paket eignet sich perfekt für Paare, Naturgenießer und kleine Familien, die eine romantische un",
-      "ts": "2026-11-27 15:02",
+      "text": "Hier ist dein frischer Hero-Text für **Handwerk-Sichtbar**: *** # Endlich online sichtbar: Mehr Wunschkunden für Ihr Handwerk im Vogelsberg. Wir machen Ihren Meisterbetrieb in der Region digital unübersehbar. So gewinnen Sie ohne eigenen Zeitaufwand die besten Kunden und Mitarbeiter direkt aus der Heimat. **[ Jetzt Sichtbarkeit kostenlos prüfen ]** *** * **W",
+      "ts": "2026-11-27 23:29",
+      "age_min": 0
+    },
+    {
+      "dept": "Recherche",
+      "agent": "recherche-wettbewerb",
+      "via": "gemini",
+      "text": "Hier ist eine strukturierte Preistypologie für ein Digital-Sichtbarkeits-Paket für Handwerksbetriebe im DACH-Raum. Die Preise beziehen sich auf die einmaligen Einrichtungskosten (Setup); laufende Betreuungskosten sind separat zu betrachten. --- ### Paket 1: „Basis-Sichtbarkeit“ (Entry Level) * **Preisspanne:** 1.200 € – 1.900 € (einmalig) * **Begründung:** D",
+      "ts": "2026-11-27 23:28",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "direkt-hilders",
+      "agent": "chancen-fulda",
       "via": "gemini",
-      "text": "**WAS:** Die „Rhön-Brotzeit-Box“ ist ein saisonales Verpflegungspaket mit frischem Hilderser Bauernbrot, regionaler Hausmacher-Wurst, Rhön-Käse und Streuobst-Direktsaft in einer wiederverwendbaren Holzbox. **FÜR WEN:** Das Angebot richtet sich an Wanderer auf dem Hochrhöner sowie heimische Familien, die beim Ausflug ehrliches, regionales Handwerk ohne großen",
-      "ts": "2026-11-27 15:02",
+      "text": "**WAS:** Ein mobiler, vorbestellbarer B2B-Mittagstisch („Rhön-Lunch-Box“), der gesunde, regionale Mahlzeiten direkt an Firmen und Logistikstandorte ohne eigene Kantine liefert. **WARUM HIER:** Das Fuldaer Umland (z. B. Industriepark West, Eichenzell) hat tausende Beschäftigte in Logistik und Mittelstand ohne Gastronomie-Anbindung, trifft auf den Ernährungs-S",
+      "ts": "2026-11-27 23:28",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-hilders",
+      "agent": "chancen-vogelsberg",
       "via": "gemini",
-      "text": "**Betriebstyp:** Ein traditioneller **Zimmerei- und Dachdeckerbetrieb** in Hilders. *(Gründe: In der Rhön suchen immer mehr Bauherren und Sanierer online nach regionalen Fachbetrieben für Dachsanierung oder Holzbau, landen ohne gute Online-Sichtbarkeit aber schnell bei der Konkurrenz aus dem Raum Fulda).* **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn",
-      "ts": "2026-11-27 15:02",
-      "age_min": 0
+      "text": "**WAS:** Ein mobiler Feierabend-Büroservice, der Solo-Handwerkern und Kleinbetrieben im Vogelsberg die Rechnungsstellung, Fotodokumentation und digitale Kundenkommunikation direkt abnimmt. **WARUM HIER:** Durch den extremen Fachkräftemangel stehen Vogelsberger Meister tagsüber selbst voll auf der Baustelle und verlieren abends wertvolle Freizeit sowie Umsatz",
+      "ts": "2026-11-27 23:27",
+      "age_min": 1
     },
     {
-      "dept": "Chancen",
-      "agent": "chancen-hilders",
+      "dept": "Kommando",
+      "agent": "kommando-digest",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Gepäcktransport- und Shuttle-Service speziell für Wanderer auf dem Premiumwanderweg „Der Hochrhöner“ und dem Ulstertal-Radweg. **WARUM HIER:** Hilders ist ein zentraler Knotenpunkt für Etappenwanderer in der Rhön, denen es aufgrund des ausbaufähigen ÖPNVs oft an flexiblen Rücktransportsystemen zum Ausgangspunkt fehlt. **ERSTER SCHRITT:**",
-      "ts": "2026-11-27 15:02",
-      "age_min": 0
+      "text": "Tages-Fokus für den Commander: 1. **Offerta:** Die 3 überfälligen A-Angebote persönlich nachfassen und Abschlüsse für diese Woche sichern. 2. **Handwerk-Sichtbar:** Kampagnen-Setups für die zwei Neukunden prüfen und bis 14:00 Uhr die Freigabe erteilen. 3. **Vogelsberg-Chancen:** Das Pitch-Deck für die nächsten 5 regionalen Partner-Unternehmen final abnehmen.",
+      "ts": "2026-11-27 23:27",
+      "age_min": 1
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-gersfeld",
+      "agent": "senioren-hilders",
       "via": "gemini",
-      "text": "**WAS:** Ein würdevoller Begleit- und Fahrdienst („Gersfelder Dorf-Mobil“), der ältere Menschen aus den verstreuten Ortsteilen für Besorgungen, Arztbesuche und soziale Kontakte sicher in den Kernort und wieder nach Hause bringt. **WARUM HIER:** In den hügeligen Rhön-Dörfern rund um Gersfeld erschweren steile Wege, strenge Winter und ein ausgedünnter Nahverke",
-      "ts": "2026-11-27 15:01",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "tourismus-gersfeld",
-      "via": "gemini",
-      "text": "**WAS:** Ein halbtägiges Naturerlebnis bestehend aus einer geführten Wanderung mit sanftmütigen Rhönschafen durch das UNESCO-Biosphärenreservat bei Gersfeld, abgerundet durch ein regionales Picknick mit Rhöner Spezialitäten. **für WEN:** Das Angebot richtet sich an Familien, Paare und genussorientierte Wanderer, die eine entschleunigende Auszeit in der Natur",
-      "ts": "2026-11-27 15:01",
-      "age_min": 0
+      "text": "**WAS:** Ein verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den entfernten Ortsteilen von Hilders auf Augenhöhe zum Einkauf, zu Ärztinnen oder ins Dorfcafé bringt und vor Ort persönlich unterstützt. **WARUM HIER:** In den weit verstreuten Ortsteilen der Rhöngemeinde Hilders fehlen nahe Einkaufsmöglichkeiten, während die hügelige Topografie un",
+      "ts": "2026-11-27 23:26",
+      "age_min": 2
     }
   ]
 }
