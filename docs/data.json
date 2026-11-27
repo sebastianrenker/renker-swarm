@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T05:04Z",
+  "updated": "2026-11-27T15:02Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
@@ -13,7 +13,7 @@
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**Idee:** „Rhöner Vesper-Box“ (Abokiste & Abhol-Jause) **WAS:** Die „Rhöner Vesper-Box“ ist eine saisonale Abokiste zum Mitnehmen oder Geliefertbekommen, vollgepackt mit ehrlicher Hausmacher Wurst, Rhönschaf-Käse, Bauernbrot und Streuobst-Apfelsaft direkt von Höfen rund um Gersfeld. **fuer WEN:** Für einheimische Haushalte, die ohne Aufwand regional schmause",
+        "text": "**WAS:** Erlebe das „Rhöner Sternen-Picknick“: Eine abendliche Wanderung auf den Buchschirmberg bei Hilders mit einem vollgepackten Picknickkorb voller regionaler Bio-Spezialitäten und einer Sternenkarte zur Erkundung des UNESCO-Sternenparks Rhön. **für WEN:** Das Paket eignet sich perfekt für Paare, Naturgenießer und kleine Familien, die eine romantische un",
         "age_min": 0
       }
     },
@@ -32,7 +32,7 @@
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein verlässlicher, persönlicher Fahr- und Begleitservice, der Senioren aus den umliegenden Ortsteilen für Einkäufe, Arztbesuche oder ein Kaffeetrinken sicher ins Städtchen Tann und wieder nach Hause bringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Tann ist der öffentliche Nahverkehr spärlich, sodass dies",
+        "text": "**WAS:** Ein würdevoller Begleit- und Fahrdienst („Gersfelder Dorf-Mobil“), der ältere Menschen aus den verstreuten Ortsteilen für Besorgungen, Arztbesuche und soziale Kontakte sicher in den Kernort und wieder nach Hause bringt. **WARUM HIER:** In den hügeligen Rhön-Dörfern rund um Gersfeld erschweren steile Wege, strenge Winter und ein ausgedünnter Nahverke",
         "age_min": 0
       }
     },
@@ -1389,108 +1389,108 @@
       "name": "Direktvermarktung — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Tanner Rhön-Feierabendkiste“ ist ein regionales Wochen-Abo voller bodenständiger Spezialitäten wie frischem Bauernbrot, Hausmacher Wurst, Rhönkäse und saisonalem Feldgemüse direkt von Erzeugern aus Tann und",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-tann",
       "name": "Vulkanregion-Tourismus — Tann",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Genieße eine geführte Dämmerungswanderung durch die Tanner Rhön-Landschaft mit anschließender Sterngucker-Rast und heißem, regionalem Apfelwein am Lagerfeuer. **fuer WEN:** Dieses Angebot richtet sich an Paare, ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "senioren-tann",
       "name": "Senioren-Alltagsdienste — Tann",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein verlässlicher, persönlicher Fahr- und Begleitservice, der Senioren aus den umliegenden Ortsteilen für Einkäufe, Arztbesuche oder ein Kaffeetrinken sicher ins Städtchen Tann und",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-gersfeld",
       "name": "Chancen-Scout — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Ein mobiler Gepäcktransport- und Etappen-Shuttleservice für Fernwanderer des „Hochrhöner“ sowie E-Bike-Touristen rund um die Wasserkuppe. **WARUM HIER:** Gersfeld ist das Herzstück des Rhön-Tourismus, doch die Ö",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-gersfeld",
       "name": "Handwerk-Sichtbarkeit — Gersfeld",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** **Sanitär- und Heizungsbau-Betrieb (SHK)** – mit Fokus auf moderne Heizsysteme (z. B. Wärmepumpen) und Notdienst für Eigenheime sowie Ferienhausbesitzer in der Rhön. **Ansprache-Idee (1 Satz):** „Hallo H",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-gersfeld",
       "name": "Direktvermarktung — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**Idee:** „Rhöner Vesper-Box“ (Abokiste & Abhol-Jause) **WAS:** Die „Rhöner Vesper-Box“ ist eine saisonale Abokiste zum Mitnehmen oder Geliefertbekommen, vollgepackt mit ehrlicher Hausmacher Wurst, Rhönschaf-Käse, Bauern",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-gersfeld",
       "name": "Vulkanregion-Tourismus — Gersfeld",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein halbtägiges Naturerlebnis bestehend aus einer geführten Wanderung mit sanftmütigen Rhönschafen durch das UNESCO-Biosphärenreservat bei Gersfeld, abgerundet durch ein regionales Picknick mit Rhöner Spezialitä",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-gersfeld",
       "name": "Senioren-Alltagsdienste — Gersfeld",
       "dept": "Kunden",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein würdevoller Begleit- und Fahrdienst („Gersfelder Dorf-Mobil“), der ältere Menschen aus den verstreuten Ortsteilen für Besorgungen, Arztbesuche und soziale Kontakte sicher in den Kernort und wieder nach Hause",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "chancen-hilders",
       "name": "Chancen-Scout — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Ein mobiler Gepäcktransport- und Shuttle-Service speziell für Wanderer auf dem Premiumwanderweg „Der Hochrhöner“ und dem Ulstertal-Radweg. **WARUM HIER:** Hilders ist ein zentraler Knotenpunkt für Etappenwandere",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "handwerk-hilders",
       "name": "Handwerk-Sichtbarkeit — Hilders",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein traditioneller **Zimmerei- und Dachdeckerbetrieb** in Hilders. *(Gründe: In der Rhön suchen immer mehr Bauherren und Sanierer online nach regionalen Fachbetrieben für Dachsanierung oder Holzbau, land",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-hilders",
       "name": "Direktvermarktung — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Rhön-Brotzeit-Box“ ist ein saisonales Verpflegungspaket mit frischem Hilderser Bauernbrot, regionaler Hausmacher-Wurst, Rhön-Käse und Streuobst-Direktsaft in einer wiederverwendbaren Holzbox. **FÜR WEN:** D",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-hilders",
       "name": "Vulkanregion-Tourismus — Hilders",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Erlebe das „Rhöner Sternen-Picknick“: Eine abendliche Wanderung auf den Buchschirmberg bei Hilders mit einem vollgepackten Picknickkorb voller regionaler Bio-Spezialitäten und einer Sternenkarte zur Erkundung de",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "senioren-hilders",
@@ -1503,57 +1503,57 @@
     }
   ],
   "budget": {
-    "used": 6,
+    "used": 12,
     "cap": 600
   },
   "recent": [
     {
       "dept": "Chancen",
-      "agent": "direkt-gersfeld",
+      "agent": "tourismus-hilders",
       "via": "gemini",
-      "text": "**Idee:** „Rhöner Vesper-Box“ (Abokiste & Abhol-Jause) **WAS:** Die „Rhöner Vesper-Box“ ist eine saisonale Abokiste zum Mitnehmen oder Geliefertbekommen, vollgepackt mit ehrlicher Hausmacher Wurst, Rhönschaf-Käse, Bauernbrot und Streuobst-Apfelsaft direkt von Höfen rund um Gersfeld. **fuer WEN:** Für einheimische Haushalte, die ohne Aufwand regional schmause",
-      "ts": "2026-11-27 05:04",
+      "text": "**WAS:** Erlebe das „Rhöner Sternen-Picknick“: Eine abendliche Wanderung auf den Buchschirmberg bei Hilders mit einem vollgepackten Picknickkorb voller regionaler Bio-Spezialitäten und einer Sternenkarte zur Erkundung des UNESCO-Sternenparks Rhön. **für WEN:** Das Paket eignet sich perfekt für Paare, Naturgenießer und kleine Familien, die eine romantische un",
+      "ts": "2026-11-27 15:02",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "handwerk-gersfeld",
+      "agent": "direkt-hilders",
       "via": "gemini",
-      "text": "**Betriebstyp:** **Sanitär- und Heizungsbau-Betrieb (SHK)** – mit Fokus auf moderne Heizsysteme (z. B. Wärmepumpen) und Notdienst für Eigenheime sowie Ferienhausbesitzer in der Rhön. **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn Immobilieneigentümer in Gersfeld nach neuen Heizungen oder Badsanierungen googeln, landen sie aktuell meist bei Betrieben a",
-      "ts": "2026-11-27 05:04",
+      "text": "**WAS:** Die „Rhön-Brotzeit-Box“ ist ein saisonales Verpflegungspaket mit frischem Hilderser Bauernbrot, regionaler Hausmacher-Wurst, Rhön-Käse und Streuobst-Direktsaft in einer wiederverwendbaren Holzbox. **FÜR WEN:** Das Angebot richtet sich an Wanderer auf dem Hochrhöner sowie heimische Familien, die beim Ausflug ehrliches, regionales Handwerk ohne großen",
+      "ts": "2026-11-27 15:02",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-gersfeld",
+      "agent": "handwerk-hilders",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Gepäcktransport- und Etappen-Shuttleservice für Fernwanderer des „Hochrhöner“ sowie E-Bike-Touristen rund um die Wasserkuppe. **WARUM HIER:** Gersfeld ist das Herzstück des Rhön-Tourismus, doch die ÖPNV-Verbindungen zwischen den Wanderetappen sind dünn und die überlasteten lokalen Pensionen suchen händeringend nach einem verlässlichen Br",
-      "ts": "2026-11-27 05:04",
+      "text": "**Betriebstyp:** Ein traditioneller **Zimmerei- und Dachdeckerbetrieb** in Hilders. *(Gründe: In der Rhön suchen immer mehr Bauherren und Sanierer online nach regionalen Fachbetrieben für Dachsanierung oder Holzbau, landen ohne gute Online-Sichtbarkeit aber schnell bei der Konkurrenz aus dem Raum Fulda).* **Ansprache-Idee (1 Satz):** „Hallo Herr [Name], wenn",
+      "ts": "2026-11-27 15:02",
+      "age_min": 0
+    },
+    {
+      "dept": "Chancen",
+      "agent": "chancen-hilders",
+      "via": "gemini",
+      "text": "**WAS:** Ein mobiler Gepäcktransport- und Shuttle-Service speziell für Wanderer auf dem Premiumwanderweg „Der Hochrhöner“ und dem Ulstertal-Radweg. **WARUM HIER:** Hilders ist ein zentraler Knotenpunkt für Etappenwanderer in der Rhön, denen es aufgrund des ausbaufähigen ÖPNVs oft an flexiblen Rücktransportsystemen zum Ausgangspunkt fehlt. **ERSTER SCHRITT:**",
+      "ts": "2026-11-27 15:02",
       "age_min": 0
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-tann",
+      "agent": "senioren-gersfeld",
       "via": "gemini",
-      "text": "**WAS:** Der „Tanner Dorfbegleiter“ ist ein verlässlicher, persönlicher Fahr- und Begleitservice, der Senioren aus den umliegenden Ortsteilen für Einkäufe, Arztbesuche oder ein Kaffeetrinken sicher ins Städtchen Tann und wieder nach Hause bringt. **WARUM HIER:** In den weit verstreuten Dörfern rund um Tann ist der öffentliche Nahverkehr spärlich, sodass dies",
-      "ts": "2026-11-27 05:04",
+      "text": "**WAS:** Ein würdevoller Begleit- und Fahrdienst („Gersfelder Dorf-Mobil“), der ältere Menschen aus den verstreuten Ortsteilen für Besorgungen, Arztbesuche und soziale Kontakte sicher in den Kernort und wieder nach Hause bringt. **WARUM HIER:** In den hügeligen Rhön-Dörfern rund um Gersfeld erschweren steile Wege, strenge Winter und ein ausgedünnter Nahverke",
+      "ts": "2026-11-27 15:01",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "tourismus-tann",
+      "agent": "tourismus-gersfeld",
       "via": "gemini",
-      "text": "**WAS:** Genieße eine geführte Dämmerungswanderung durch die Tanner Rhön-Landschaft mit anschließender Sterngucker-Rast und heißem, regionalem Apfelwein am Lagerfeuer. **fuer WEN:** Dieses Angebot richtet sich an Paare, Naturbegeisterte und Romantiker, die den einzigartigen Sternenpark Rhön auf entschleunigte Art erleben möchten. **ERSTER SCHRITT:** Klicke a",
-      "ts": "2026-11-27 05:03",
+      "text": "**WAS:** Ein halbtägiges Naturerlebnis bestehend aus einer geführten Wanderung mit sanftmütigen Rhönschafen durch das UNESCO-Biosphärenreservat bei Gersfeld, abgerundet durch ein regionales Picknick mit Rhöner Spezialitäten. **für WEN:** Das Angebot richtet sich an Familien, Paare und genussorientierte Wanderer, die eine entschleunigende Auszeit in der Natur",
+      "ts": "2026-11-27 15:01",
       "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "direkt-tann",
-      "via": "gemini",
-      "text": "**WAS:** Die „Tanner Rhön-Feierabendkiste“ ist ein regionales Wochen-Abo voller bodenständiger Spezialitäten wie frischem Bauernbrot, Hausmacher Wurst, Rhönkäse und saisonalem Feldgemüse direkt von Erzeugern aus Tann und den umliegenden Dörfern. **FÜR WEN:** Für berufstätige Familien und Pendler aus der Region Tann, die Wert auf ehrliche, heimische Lebensmit",
-      "ts": "2026-11-27 05:03",
-      "age_min": 1
     }
   ]
 }
