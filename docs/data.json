@@ -1,57 +1,49 @@
 {
-  "updated": "2026-11-27T23:29Z",
+  "updated": "2026-11-28T04:55Z",
   "agents_total": 162,
   "worked": 6,
   "departments": [
     {
       "id": "Kommando",
       "count": 2,
-      "latest": {
-        "via": "gemini",
-        "text": "Tages-Fokus für den Commander: 1. **Offerta:** Die 3 überfälligen A-Angebote persönlich nachfassen und Abschlüsse für diese Woche sichern. 2. **Handwerk-Sichtbar:** Kampagnen-Setups für die zwei Neukunden prüfen und bis 14:00 Uhr die Freigabe erteilen. 3. **Vogelsberg-Chancen:** Das Pitch-Deck für die nächsten 5 regionalen Partner-Unternehmen final abnehmen.",
-        "age_min": 1
-      }
+      "latest": null
     },
     {
       "id": "Chancen",
       "count": 125,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein mobiler, vorbestellbarer B2B-Mittagstisch („Rhön-Lunch-Box“), der gesunde, regionale Mahlzeiten direkt an Firmen und Logistikstandorte ohne eigene Kantine liefert. **WARUM HIER:** Das Fuldaer Umland (z. B. Industriepark West, Eichenzell) hat tausende Beschäftigte in Logistik und Mittelstand ohne Gastronomie-Anbindung, trifft auf den Ernährungs-S",
+        "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein wöchentliches Abo mit frischen Zutaten und einfachen Rezepten direkt von Lauterbacher Höfen für eine ehrliche, regionale Mahlzeit ohne großen Schnickschnack. **fuer WEN:** Für berufstätige Familien und Pendler aus Lauterbach und dem Umland, die unter der Woche wenig Zeit zum Einkaufen haben, aber trotzdem gu",
         "age_min": 0
       }
     },
     {
       "id": "Recherche",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier ist eine strukturierte Preistypologie für ein Digital-Sichtbarkeits-Paket für Handwerksbetriebe im DACH-Raum. Die Preise beziehen sich auf die einmaligen Einrichtungskosten (Setup); laufende Betreuungskosten sind separat zu betrachten. --- ### Paket 1: „Basis-Sichtbarkeit“ (Entry Level) * **Preisspanne:** 1.200 € – 1.900 € (einmalig) * **Begründung:** D",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Bau",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier ist dein frischer Hero-Text für **Handwerk-Sichtbar**: *** # Endlich online sichtbar: Mehr Wunschkunden für Ihr Handwerk im Vogelsberg. Wir machen Ihren Meisterbetrieb in der Region digital unübersehbar. So gewinnen Sie ohne eigenen Zeitaufwand die besten Kunden und Mitarbeiter direkt aus der Heimat. **[ Jetzt Sichtbarkeit kostenlos prüfen ]** *** * **W",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Kunden",
       "count": 32,
       "latest": {
         "via": "gemini",
-        "text": "**WAS:** Ein verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den entfernten Ortsteilen von Hilders auf Augenhöhe zum Einkauf, zu Ärztinnen oder ins Dorfcafé bringt und vor Ort persönlich unterstützt. **WARUM HIER:** In den weit verstreuten Ortsteilen der Rhöngemeinde Hilders fehlen nahe Einkaufsmöglichkeiten, während die hügelige Topografie un",
+        "text": "Hier sind 3 passende FAQs für Offerta: **1. Was genau ist im kostenlosen Tarif enthalten?** Mit der Free-Version kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Alle Grundfunktionen für die Angebotserstellung sind enthalten. Wenn du mehr Angebote pro Monat brauchst oder dein eigenes Logo nutzen möchtest, kannst du auf den Pro-Tarif",
         "age_min": 2
       }
     },
     {
       "id": "Finanzen",
       "count": 1,
-      "latest": null
+      "latest": {
+        "via": "gemini",
+        "text": "Als vorsichtiger Treasurer empfehle ich dringend, vor dem ersten Verkauf folgende drei Punkte lückenlos zu klären: 1. **Gewerbeanmeldung und Steuerstatus (§ 19 UStG):** Es muss ein Gewerbe angemeldet und verbindlich geklärt sein, ob die Kleinunternehmerregelung nach § 19 UStG genutzt oder die Regelbesteuerung gewählt wird, um von Anfang an finanzamtkonforme ",
+        "age_min": 2
+      }
     }
   ],
   "agents": [
@@ -60,72 +52,72 @@
       "name": "Chief of Staff — Tages-Digest",
       "dept": "Kommando",
       "iv": 720,
-      "out": "Tages-Fokus für den Commander: 1. **Offerta:** Die 3 überfälligen A-Angebote persönlich nachfassen und Abschlüsse für diese Woche sichern. 2. **Handwerk-Sichtbar:** Kampagnen-Setups für die zwei Neukunden prüfen und bis ",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-vogelsberg",
       "name": "Opportunity Finder — Vogelsberg",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**WAS:** Ein mobiler Feierabend-Büroservice, der Solo-Handwerkern und Kleinbetrieben im Vogelsberg die Rechnungsstellung, Fotodokumentation und digitale Kundenkommunikation direkt abnimmt. **WARUM HIER:** Durch den extre",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "chancen-fulda",
       "name": "Opportunity Finder — Fulda",
       "dept": "Chancen",
       "iv": 360,
-      "out": "**WAS:** Ein mobiler, vorbestellbarer B2B-Mittagstisch („Rhön-Lunch-Box“), der gesunde, regionale Mahlzeiten direkt an Firmen und Logistikstandorte ohne eigene Kantine liefert. **WARUM HIER:** Das Fuldaer Umland (z. B. I",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "recherche-wettbewerb",
       "name": "Researcher — Wettbewerb & Preise",
       "dept": "Recherche",
       "iv": 480,
-      "out": "Hier ist eine strukturierte Preistypologie für ein Digital-Sichtbarkeits-Paket für Handwerksbetriebe im DACH-Raum. Die Preise beziehen sich auf die einmaligen Einrichtungskosten (Setup); laufende Betreuungskosten sind se",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "bau-landing-copy",
       "name": "Web Designer — Landing-Texte",
       "dept": "Bau",
       "iv": 600,
-      "out": "Hier ist dein frischer Hero-Text für **Handwerk-Sichtbar**: *** # Endlich online sichtbar: Mehr Wunschkunden für Ihr Handwerk im Vogelsberg. Wir machen Ihren Meisterbetrieb in der Region digital unübersehbar. So gewinnen",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "kunden-faq",
       "name": "Support Agent — FAQ-Bausteine",
       "dept": "Kunden",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Hier sind 3 passende FAQs für Offerta: **1. Was genau ist im kostenlosen Tarif enthalten?** Mit der Free-Version kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Alle Grundfunktionen für die Ang",
+      "via": "gemini",
+      "age_min": 2
     },
     {
       "id": "finanzen-check",
       "name": "Treasurer — Zahlen-Check",
       "dept": "Finanzen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "Als vorsichtiger Treasurer empfehle ich dringend, vor dem ersten Verkauf folgende drei Punkte lückenlos zu klären: 1. **Gewerbeanmeldung und Steuerstatus (§ 19 UStG):** Es muss ein Gewerbe angemeldet und verbindlich gekl",
+      "via": "gemini",
+      "age_min": 2
     },
     {
       "id": "wachstum-offerta",
       "name": "Growth — Offerta",
       "dept": "Chancen",
       "iv": 720,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**IDEE:** **Der „Erlebnis-Hook“ nach der Angebotsannahme (Post-Acceptance Loop)** Statt nur ein statisches „Erstellt mit Offerta“ im Footer der Web-Ansicht zu platzieren, nutzt du den Moment der höchsten positiven Erfahr",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "biz-offerta",
@@ -177,27 +169,27 @@
       "name": "Chancen-Scout — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Mobile Handlanger- und Gartenpflege-Dienstleistung (\"Haus- & Hof-Hilfe\") auf Abruf für die Generation 65+. **WARUM HIER:** In Lauterbach leben überdurchschnittlich viele Senioren in eigenen Häusern mit Garten, w",
+      "via": "gemini",
+      "age_min": 1
     },
     {
       "id": "handwerk-lauterbach",
       "name": "Handwerk-Sichtbarkeit — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** (spezialisiert auf Wärmepumpen-Umrüstung und Badsanierungen). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer direkt in Lauterbach auf Google nach einer neuen ",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "direkt-lauterbach",
       "name": "Direktvermarktung — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": null,
-      "via": null,
-      "age_min": null
+      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein wöchentliches Abo mit frischen Zutaten und einfachen Rezepten direkt von Lauterbacher Höfen für eine ehrliche, regionale Mahlzeit ohne großen Schnickschnack. **fuer WEN:",
+      "via": "gemini",
+      "age_min": 0
     },
     {
       "id": "tourismus-lauterbach",
@@ -1509,62 +1501,62 @@
       "name": "Senioren-Alltagsdienste — Hilders",
       "dept": "Kunden",
       "iv": 2880,
-      "out": "**WAS:** Ein verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den entfernten Ortsteilen von Hilders auf Augenhöhe zum Einkauf, zu Ärztinnen oder ins Dorfcafé bringt und vor Ort persönlich unterstützt. **WAR",
-      "via": "gemini",
-      "age_min": 2
+      "out": null,
+      "via": null,
+      "age_min": null
     }
   ],
   "budget": {
-    "used": 18,
+    "used": 6,
     "cap": 600
   },
   "recent": [
     {
-      "dept": "Bau",
-      "agent": "bau-landing-copy",
+      "dept": "Chancen",
+      "agent": "direkt-lauterbach",
       "via": "gemini",
-      "text": "Hier ist dein frischer Hero-Text für **Handwerk-Sichtbar**: *** # Endlich online sichtbar: Mehr Wunschkunden für Ihr Handwerk im Vogelsberg. Wir machen Ihren Meisterbetrieb in der Region digital unübersehbar. So gewinnen Sie ohne eigenen Zeitaufwand die besten Kunden und Mitarbeiter direkt aus der Heimat. **[ Jetzt Sichtbarkeit kostenlos prüfen ]** *** * **W",
-      "ts": "2026-11-27 23:29",
-      "age_min": 0
-    },
-    {
-      "dept": "Recherche",
-      "agent": "recherche-wettbewerb",
-      "via": "gemini",
-      "text": "Hier ist eine strukturierte Preistypologie für ein Digital-Sichtbarkeits-Paket für Handwerksbetriebe im DACH-Raum. Die Preise beziehen sich auf die einmaligen Einrichtungskosten (Setup); laufende Betreuungskosten sind separat zu betrachten. --- ### Paket 1: „Basis-Sichtbarkeit“ (Entry Level) * **Preisspanne:** 1.200 € – 1.900 € (einmalig) * **Begründung:** D",
-      "ts": "2026-11-27 23:28",
+      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein wöchentliches Abo mit frischen Zutaten und einfachen Rezepten direkt von Lauterbacher Höfen für eine ehrliche, regionale Mahlzeit ohne großen Schnickschnack. **fuer WEN:** Für berufstätige Familien und Pendler aus Lauterbach und dem Umland, die unter der Woche wenig Zeit zum Einkaufen haben, aber trotzdem gu",
+      "ts": "2026-11-28 04:55",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-fulda",
+      "agent": "handwerk-lauterbach",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler, vorbestellbarer B2B-Mittagstisch („Rhön-Lunch-Box“), der gesunde, regionale Mahlzeiten direkt an Firmen und Logistikstandorte ohne eigene Kantine liefert. **WARUM HIER:** Das Fuldaer Umland (z. B. Industriepark West, Eichenzell) hat tausende Beschäftigte in Logistik und Mittelstand ohne Gastronomie-Anbindung, trifft auf den Ernährungs-S",
-      "ts": "2026-11-27 23:28",
+      "text": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** (spezialisiert auf Wärmepumpen-Umrüstung und Badsanierungen). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer direkt in Lauterbach auf Google nach einer neuen Heizung oder Badsanierung suchen, finden sie aktuell eher die Konkurrenz aus Fulda – wollen wir dafür sorgen, dass Ihr Telefon bei lokalen A",
+      "ts": "2026-11-28 04:54",
       "age_min": 0
     },
     {
       "dept": "Chancen",
-      "agent": "chancen-vogelsberg",
+      "agent": "chancen-lauterbach",
       "via": "gemini",
-      "text": "**WAS:** Ein mobiler Feierabend-Büroservice, der Solo-Handwerkern und Kleinbetrieben im Vogelsberg die Rechnungsstellung, Fotodokumentation und digitale Kundenkommunikation direkt abnimmt. **WARUM HIER:** Durch den extremen Fachkräftemangel stehen Vogelsberger Meister tagsüber selbst voll auf der Baustelle und verlieren abends wertvolle Freizeit sowie Umsatz",
-      "ts": "2026-11-27 23:27",
+      "text": "**WAS:** Mobile Handlanger- und Gartenpflege-Dienstleistung (\"Haus- & Hof-Hilfe\") auf Abruf für die Generation 65+. **WARUM HIER:** In Lauterbach leben überdurchschnittlich viele Senioren in eigenen Häusern mit Garten, während örtliche Handwerksbetriebe ausgebucht sind und Kleinstaufträge meist ablehnen. **ERSTER SCHRITT:** Drucke 500 Flyer mit drei konkrete",
+      "ts": "2026-11-28 04:54",
       "age_min": 1
     },
     {
-      "dept": "Kommando",
-      "agent": "kommando-digest",
+      "dept": "Chancen",
+      "agent": "wachstum-offerta",
       "via": "gemini",
-      "text": "Tages-Fokus für den Commander: 1. **Offerta:** Die 3 überfälligen A-Angebote persönlich nachfassen und Abschlüsse für diese Woche sichern. 2. **Handwerk-Sichtbar:** Kampagnen-Setups für die zwei Neukunden prüfen und bis 14:00 Uhr die Freigabe erteilen. 3. **Vogelsberg-Chancen:** Das Pitch-Deck für die nächsten 5 regionalen Partner-Unternehmen final abnehmen.",
-      "ts": "2026-11-27 23:27",
+      "text": "**IDEE:** **Der „Erlebnis-Hook“ nach der Angebotsannahme (Post-Acceptance Loop)** Statt nur ein statisches „Erstellt mit Offerta“ im Footer der Web-Ansicht zu platzieren, nutzt du den Moment der höchsten positiven Erfahrung: Sobald der Kunde deines Nutzers das Angebot digital annimmt, erscheint auf der Bestätigungsseite eine dezente Box: *„Hat dir diese einf",
+      "ts": "2026-11-28 04:53",
       "age_min": 1
+    },
+    {
+      "dept": "Finanzen",
+      "agent": "finanzen-check",
+      "via": "gemini",
+      "text": "Als vorsichtiger Treasurer empfehle ich dringend, vor dem ersten Verkauf folgende drei Punkte lückenlos zu klären: 1. **Gewerbeanmeldung und Steuerstatus (§ 19 UStG):** Es muss ein Gewerbe angemeldet und verbindlich geklärt sein, ob die Kleinunternehmerregelung nach § 19 UStG genutzt oder die Regelbesteuerung gewählt wird, um von Anfang an finanzamtkonforme ",
+      "ts": "2026-11-28 04:53",
+      "age_min": 2
     },
     {
       "dept": "Kunden",
-      "agent": "senioren-hilders",
+      "agent": "kunden-faq",
       "via": "gemini",
-      "text": "**WAS:** Ein verlässlicher Begleit- und Fahrdienst, der ältere Menschen aus den entfernten Ortsteilen von Hilders auf Augenhöhe zum Einkauf, zu Ärztinnen oder ins Dorfcafé bringt und vor Ort persönlich unterstützt. **WARUM HIER:** In den weit verstreuten Ortsteilen der Rhöngemeinde Hilders fehlen nahe Einkaufsmöglichkeiten, während die hügelige Topografie un",
-      "ts": "2026-11-27 23:26",
+      "text": "Hier sind 3 passende FAQs für Offerta: **1. Was genau ist im kostenlosen Tarif enthalten?** Mit der Free-Version kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Alle Grundfunktionen für die Angebotserstellung sind enthalten. Wenn du mehr Angebote pro Monat brauchst oder dein eigenes Logo nutzen möchtest, kannst du auf den Pro-Tarif",
+      "ts": "2026-11-28 04:52",
       "age_min": 2
     }
   ]
