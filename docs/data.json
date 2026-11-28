@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-28T04:55Z",
+  "updated": "2026-11-28T13:51Z",
   "agents_total": 162,
-  "worked": 6,
+  "worked": 0,
   "departments": [
     {
       "id": "Kommando",
@@ -11,11 +11,7 @@
     {
       "id": "Chancen",
       "count": 125,
-      "latest": {
-        "via": "gemini",
-        "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein wöchentliches Abo mit frischen Zutaten und einfachen Rezepten direkt von Lauterbacher Höfen für eine ehrliche, regionale Mahlzeit ohne großen Schnickschnack. **fuer WEN:** Für berufstätige Familien und Pendler aus Lauterbach und dem Umland, die unter der Woche wenig Zeit zum Einkaufen haben, aber trotzdem gu",
-        "age_min": 0
-      }
+      "latest": null
     },
     {
       "id": "Recherche",
@@ -30,20 +26,12 @@
     {
       "id": "Kunden",
       "count": 32,
-      "latest": {
-        "via": "gemini",
-        "text": "Hier sind 3 passende FAQs für Offerta: **1. Was genau ist im kostenlosen Tarif enthalten?** Mit der Free-Version kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Alle Grundfunktionen für die Angebotserstellung sind enthalten. Wenn du mehr Angebote pro Monat brauchst oder dein eigenes Logo nutzen möchtest, kannst du auf den Pro-Tarif",
-        "age_min": 2
-      }
+      "latest": null
     },
     {
       "id": "Finanzen",
       "count": 1,
-      "latest": {
-        "via": "gemini",
-        "text": "Als vorsichtiger Treasurer empfehle ich dringend, vor dem ersten Verkauf folgende drei Punkte lückenlos zu klären: 1. **Gewerbeanmeldung und Steuerstatus (§ 19 UStG):** Es muss ein Gewerbe angemeldet und verbindlich geklärt sein, ob die Kleinunternehmerregelung nach § 19 UStG genutzt oder die Regelbesteuerung gewählt wird, um von Anfang an finanzamtkonforme ",
-        "age_min": 2
-      }
+      "latest": null
     }
   ],
   "agents": [
@@ -97,27 +85,27 @@
       "name": "Support Agent — FAQ-Bausteine",
       "dept": "Kunden",
       "iv": 720,
-      "out": "Hier sind 3 passende FAQs für Offerta: **1. Was genau ist im kostenlosen Tarif enthalten?** Mit der Free-Version kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Alle Grundfunktionen für die Ang",
-      "via": "gemini",
-      "age_min": 2
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "finanzen-check",
       "name": "Treasurer — Zahlen-Check",
       "dept": "Finanzen",
       "iv": 1440,
-      "out": "Als vorsichtiger Treasurer empfehle ich dringend, vor dem ersten Verkauf folgende drei Punkte lückenlos zu klären: 1. **Gewerbeanmeldung und Steuerstatus (§ 19 UStG):** Es muss ein Gewerbe angemeldet und verbindlich gekl",
-      "via": "gemini",
-      "age_min": 2
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "wachstum-offerta",
       "name": "Growth — Offerta",
       "dept": "Chancen",
       "iv": 720,
-      "out": "**IDEE:** **Der „Erlebnis-Hook“ nach der Angebotsannahme (Post-Acceptance Loop)** Statt nur ein statisches „Erstellt mit Offerta“ im Footer der Web-Ansicht zu platzieren, nutzt du den Moment der höchsten positiven Erfahr",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "biz-offerta",
@@ -169,27 +157,27 @@
       "name": "Chancen-Scout — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**WAS:** Mobile Handlanger- und Gartenpflege-Dienstleistung (\"Haus- & Hof-Hilfe\") auf Abruf für die Generation 65+. **WARUM HIER:** In Lauterbach leben überdurchschnittlich viele Senioren in eigenen Häusern mit Garten, w",
-      "via": "gemini",
-      "age_min": 1
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "handwerk-lauterbach",
       "name": "Handwerk-Sichtbarkeit — Lauterbach",
       "dept": "Chancen",
       "iv": 1440,
-      "out": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** (spezialisiert auf Wärmepumpen-Umrüstung und Badsanierungen). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer direkt in Lauterbach auf Google nach einer neuen ",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "direkt-lauterbach",
       "name": "Direktvermarktung — Lauterbach",
       "dept": "Chancen",
       "iv": 2880,
-      "out": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein wöchentliches Abo mit frischen Zutaten und einfachen Rezepten direkt von Lauterbacher Höfen für eine ehrliche, regionale Mahlzeit ohne großen Schnickschnack. **fuer WEN:",
-      "via": "gemini",
-      "age_min": 0
+      "out": null,
+      "via": null,
+      "age_min": null
     },
     {
       "id": "tourismus-lauterbach",
@@ -1510,54 +1498,5 @@
     "used": 6,
     "cap": 600
   },
-  "recent": [
-    {
-      "dept": "Chancen",
-      "agent": "direkt-lauterbach",
-      "via": "gemini",
-      "text": "**WAS:** Die „Vogelsberger Feierabend-Kiste“ – ein wöchentliches Abo mit frischen Zutaten und einfachen Rezepten direkt von Lauterbacher Höfen für eine ehrliche, regionale Mahlzeit ohne großen Schnickschnack. **fuer WEN:** Für berufstätige Familien und Pendler aus Lauterbach und dem Umland, die unter der Woche wenig Zeit zum Einkaufen haben, aber trotzdem gu",
-      "ts": "2026-11-28 04:55",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "handwerk-lauterbach",
-      "via": "gemini",
-      "text": "**Betriebstyp:** Ein lokaler **Heizung- und Sanitärbetrieb** (spezialisiert auf Wärmepumpen-Umrüstung und Badsanierungen). **Ansprache-Idee (1 Satz):** „Wenn Hausbesitzer direkt in Lauterbach auf Google nach einer neuen Heizung oder Badsanierung suchen, finden sie aktuell eher die Konkurrenz aus Fulda – wollen wir dafür sorgen, dass Ihr Telefon bei lokalen A",
-      "ts": "2026-11-28 04:54",
-      "age_min": 0
-    },
-    {
-      "dept": "Chancen",
-      "agent": "chancen-lauterbach",
-      "via": "gemini",
-      "text": "**WAS:** Mobile Handlanger- und Gartenpflege-Dienstleistung (\"Haus- & Hof-Hilfe\") auf Abruf für die Generation 65+. **WARUM HIER:** In Lauterbach leben überdurchschnittlich viele Senioren in eigenen Häusern mit Garten, während örtliche Handwerksbetriebe ausgebucht sind und Kleinstaufträge meist ablehnen. **ERSTER SCHRITT:** Drucke 500 Flyer mit drei konkrete",
-      "ts": "2026-11-28 04:54",
-      "age_min": 1
-    },
-    {
-      "dept": "Chancen",
-      "agent": "wachstum-offerta",
-      "via": "gemini",
-      "text": "**IDEE:** **Der „Erlebnis-Hook“ nach der Angebotsannahme (Post-Acceptance Loop)** Statt nur ein statisches „Erstellt mit Offerta“ im Footer der Web-Ansicht zu platzieren, nutzt du den Moment der höchsten positiven Erfahrung: Sobald der Kunde deines Nutzers das Angebot digital annimmt, erscheint auf der Bestätigungsseite eine dezente Box: *„Hat dir diese einf",
-      "ts": "2026-11-28 04:53",
-      "age_min": 1
-    },
-    {
-      "dept": "Finanzen",
-      "agent": "finanzen-check",
-      "via": "gemini",
-      "text": "Als vorsichtiger Treasurer empfehle ich dringend, vor dem ersten Verkauf folgende drei Punkte lückenlos zu klären: 1. **Gewerbeanmeldung und Steuerstatus (§ 19 UStG):** Es muss ein Gewerbe angemeldet und verbindlich geklärt sein, ob die Kleinunternehmerregelung nach § 19 UStG genutzt oder die Regelbesteuerung gewählt wird, um von Anfang an finanzamtkonforme ",
-      "ts": "2026-11-28 04:53",
-      "age_min": 2
-    },
-    {
-      "dept": "Kunden",
-      "agent": "kunden-faq",
-      "via": "gemini",
-      "text": "Hier sind 3 passende FAQs für Offerta: **1. Was genau ist im kostenlosen Tarif enthalten?** Mit der Free-Version kannst du bis zu 3 Angebote pro Monat erstellen und als PDF herunterladen. Alle Grundfunktionen für die Angebotserstellung sind enthalten. Wenn du mehr Angebote pro Monat brauchst oder dein eigenes Logo nutzen möchtest, kannst du auf den Pro-Tarif",
-      "ts": "2026-11-28 04:52",
-      "age_min": 2
-    }
-  ]
+  "recent": []
 }
